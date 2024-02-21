@@ -32,3 +32,8 @@ Execute the script with:
 python aiid.py
 
 ```
+# Data Analysis
+IrresponsibleAI.ipynb file is used for data exploration. Current version can be found (here)[https://colab.research.google.com/drive/1pJYpuXrnNFKJmI4L1h5VqWaYggeqosh5#scrollTo=GA770D6vuFyF]
+
+# Data Visualization
+Data processing and visualization can be found (here)[https://observablehq.com/d/126c228131c034d7]
