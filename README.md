@@ -1,7 +1,7 @@
 # IrresponsibleAI
 
 IrresponsibleAI is a Python program designed for research purposes under the guidance of Dr. Guerra Gomez and Dr. Baeza-Yates. The script `aiid.py` is responsible for downloading AI Incident Database (AIID) data from a MongoDB cluster and outputting the information into CSV files for further analysis.
-The script `newsContent.py` is responsible for scraping news report urls of those incidents for OpenAI's gpt-4-turbo-preview model to interpret and summarize the list of categories and taxonomies we want.
+The script `news_content.py` is responsible for scraping news report urls of those incidents for OpenAI's gpt-4-turbo-preview model to interpret and summarize the list of categories and taxonomies we want.
 
 ## Installation
 
@@ -32,19 +32,19 @@ pip install -r requirements.txt
 # Usage
 
 To run the `aiid.py` program, ensure your MongoDB cluster is accessible and that you have the necessary credentials.
-To run `newsContent.py`, ensure you have a valid OpenAI API key.
+To run `news_content.py`, ensure you have a valid OpenAI API key.
 <br>
 Execute the script with:
 
 ```sh
-python aiid.py
+python3 aiid.py
 
 ```
 
 or
 
 ```sh
-python newsContent.py
+python3 news_content.py
 
 ```
 

@@ -3,3 +3,4 @@ myenv/
 views/
 processed_results.json
 views.zip
+__pycache__/
