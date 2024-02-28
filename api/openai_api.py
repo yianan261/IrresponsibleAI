@@ -9,9 +9,10 @@ class OpenaiAPI:
     def create_prompt(self, messages):
         completion = self.client.chat.completions.create(
             model=self.model,
-            messages=messages
+            messages=messages,
+            response_format={ "type": "json_object"}
         )
-        return completion.choices[0].message
+        return completion.choices[0].message.content
 
     def process_content(self, article_text):
         
@@ -36,8 +37,10 @@ class OpenaiAPI:
         {article_text}
 
         """
-        messages = [{"role": "user",
-                     "content": prompt}]
+        messages = [
+            {"role": "system", "content": "You are a helpful assistant designed to output JSON."},
+            {"role": "user", "content": prompt}
+            ]
 
         response = self.create_prompt(messages)
         return response

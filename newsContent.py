@@ -49,8 +49,8 @@ logging.info("Article scraping completed. Processing with LLM...")
 processed_results = {}
 for id,content in aggregated_content.items():
     result = openai_client.process_content(content)
-    logging.info(type(result), result)
-    
+    print(type(result), result)
+    result = json.loads(result)
     processed_results[id] = result
 
 logging.info("LLM processing completed. Saving results to file...")
