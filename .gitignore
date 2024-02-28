@@ -1,3 +1,5 @@
 .env
-env/
+myenv/
 views/
+processed_results.json
+views.zip
