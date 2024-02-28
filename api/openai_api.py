@@ -35,7 +35,7 @@ class OpenaiAPI:
 
         Article Content:
         {article_text}
-
+        This is the end of the article text.
         """
         messages = [
             {"role": "system", "content": "You are a helpful assistant designed to output JSON."},
