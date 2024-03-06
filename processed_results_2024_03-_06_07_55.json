@@ -1,0 +1,101 @@
+{
+    "1": {
+        "Country": "Not specified",
+        "State": "Not specified",
+        "City": "Not specified",
+        "Continent": "Not specified",
+        "Company city": "Not specified",
+        "Affected population": "Children",
+        "Number of people actually affected": "Not specified",
+        "Number of people potentially affected": "Not specified",
+        "Class of irresponsible AI use": "Disinformation, Mental Health",
+        "Subclasses": [
+            "Disinformation->Video",
+            "Disinformation->Textual",
+            "Mental Health->Inappropriate content exposure"
+        ],
+        "Sub-subclass": [],
+        "Area of AI Application": "content filtering",
+        "Online": "yes"
+    },
+    "2": {
+        "Country": "United States",
+        "State": "New Jersey",
+        "City": "Robbinsville",
+        "Continent": "North America",
+        "Company city": "Robbinsville",
+        "Affected population": "Amazon workers",
+        "Number of people actually affected": "24",
+        "Number of people potentially affected": "54",
+        "Class of irresponsible AI use": "Human Incompetence",
+        "Subclasses": [
+            "Human Incompetence->Technical"
+        ],
+        "Sub-subclass": [
+            "Technical->robotic handling error"
+        ],
+        "Area of AI Application": "Warehouse automation",
+        "Online": "No"
+    },
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "Jakarta",
+        "Continent": "Asia",
+        "Company_city": "Chicago",
+        "Affected_population": "Air travelers",
+        "Number_of_people_actually_affected": "189",
+        "Number_of_people_potentially_affected": "Thousands (all 737 MAX 8 operators and passengers globally)",
+        "Class_of_irresponsible_AI_use": "Human Incompetence",
+        "Subclasses": [
+            "Human Incompetence->Technical"
+        ],
+        "Sub-subclass": [
+            "Technical->Other (Overly ambitious technology implementation)"
+        ],
+        "Area_of_AI_Application": "Flight control system",
+        "Online": "No"
+    },
+    "4": {
+        "Country": "USA",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company city": "San Francisco",
+        "Affected population": "Pedestrian",
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Not specified",
+        "Class of irresponsible AI use": "Human Incompetence",
+        "Subclasses": [
+            "Human Incompetence->Technical"
+        ],
+        "Sub-subclass": [
+            "Technical->Monitoring failure"
+        ],
+        "Area of AI Application": "Autonomous vehicles",
+        "Online": "No"
+    },
+    "5": {
+        "Country": "United States",
+        "State": "Not specified",
+        "City": "Not specified",
+        "Continent": "North America",
+        "Company city": "Not specified",
+        "Affected population": "Patients undergoing robotic surgery",
+        "Number of people actually affected": "144 deaths, 1391 injuries",
+        "Number of people potentially affected": "More than 1.7 million (total number of robotic procedures carried out between 2007 and 2013)",
+        "Class of irresponsible AI use": "Human Incompetence, Technical Difficulties",
+        "Subclasses": [
+            "Human Incompetence->Technical",
+            "Technical Difficulties->Malfunction"
+        ],
+        "Sub-subclass": [
+            "Malfunction->Device malfunction",
+            "Malfunction->System error",
+            "Malfunction->Loss of video feed",
+            "Malfunction->Uncontrolled movement of instruments"
+        ],
+        "Area of AI Application": "Surgical procedures",
+        "Online": "No"
+    }
+}

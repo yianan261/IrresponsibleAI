@@ -34,10 +34,10 @@ logging.info("Successfully loaded JSON data, starting to scrape articles...")
 
 aggregated_content = {}
 
-# TODO: remove counter (testing with the first 2 incidents)
+# TODO: remove counter (testing with the first 5 incidents)
 count = 0
 for id,urls in urls_dict.items():
-    if count == 2:
+    if count == 5:
         break
     count += 1
     aggregated_texts = []
@@ -56,7 +56,7 @@ for id,content in aggregated_content.items():
 
 logging.info("LLM processing completed. Saving results to file...")
 
-current_time = datetime.now().strftime("%Y_%m-_%d_%H_%M")
+current_time = datetime.datetime.now().strftime("%Y_%m-_%d_%H_%M")
 with open(f"processed_results_{current_time}.json","w") as json_file:
     json.dump(processed_results,json_file, indent=4)
 
