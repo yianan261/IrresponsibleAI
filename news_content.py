@@ -56,7 +56,7 @@ for id,content in aggregated_content.items():
 
 logging.info("LLM processing completed. Saving results to file...")
 
-current_time = datetime.datetime.now().strftime("%Y_%m-_%d_%H_%M")
+current_time = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M")
 with open(f"processed_results_{current_time}.json","w") as json_file:
     json.dump(processed_results,json_file, indent=4)
 

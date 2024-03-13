@@ -1,4 +1,5 @@
 from openai import OpenAI
+from taxonomies import Taxonomies
 
 class OpenaiAPI:
     def __init__(self, model="gpt-4-turbo-preview"):
@@ -15,19 +16,22 @@ class OpenaiAPI:
         return completion.choices[0].message.content
     
     def process_content(self,article_text):
+        taxa = Taxonomies()
+
         prompt = f"""
-        Please extract the following information from the news article:
+        Imagine a computer research institute trying to categorize a list of incidents of irresponsible use of artificial intelligence technology.    
+        Given the aggregated news article texts on relevant incidents, please extract the following information, your responses should be well thought-out and well-supported by the content of the articles:
         - Country:
         - State:
         - City:
         - Continent:
         - Company city:
-        - Affected population (e.g. Military, LGBTQ, Student, Facebook users, Black, Online Female population, EU travelers, Twitter users):
+        - Affected population (e.g.{taxa.population_examples},please classify the population according to your judgment, it need not be from this list):
         - Number of people actually affected:
         - Number of people potentially affected:
-        - Class of irresponsible AI use (e.g. Discrimination, Human Incompetence, Pseudoscience, Environmental Impact, Disinformation,Copyright Violation, Mental Health):
-        - Subclasses (e.g. Discrimination->Data bias, Discrimination->Algorithmic bias,Human Incompetence->Administrative, Human Incompetence->Technical, Pseudoscience->Facial, Disinformation->Textual, Disinformation->Image, Disinformation->Video, Disinformation->Audio, Other):
-        - Sub-subclass (e.g. Data bias->gender, Data bias->race, Data bias->sexual orientation,Data bias->economic, algorithmic bias->interaction, algorithmic bias -> feedback loop, algorithmic bias -> optimization function, algorithmic bias -> other)
+        - Classes of irresponsible AI use (please refer to this list: {list(taxa.get_taxonomy_keys())}, there could be more than one classes the article classifies as):
+        - Subclasses (e.g. {taxa.get_category("subclass")}, please classify the subclasses according to your judgment, it need not necessary be from this list, but it is a subclass from "Classes of irresponsible AI use"; there could be one or multiple subclasses):
+        - Sub-subclasses (e.g.{taxa.get_category("subsubclass")},please classify the Sub-subclasses according to your judgment, it need not necessary be from this list, but it is a subclass from the "Subclasses"; there could be one or multiple sub-subclasses):
         - Area of AI Application (e.g. content filtering, surveillance, illness prediction)
         - Online (yes or no):
         
@@ -38,8 +42,8 @@ class OpenaiAPI:
 
         """
 
-        messages = [{"role": "user", "content":prompt},
-                    {"role": "system", "content":"You are a helpful assistant designed to output JSON."}]
+        messages = [{"role": "user", "content": prompt},
+                    {"role": "system", "content":"You are a helpful university assistant designed to output your response in JSON according to the user's prompt."}]
 
         response = self.create_prompt(messages)
         return response
