@@ -1,7 +1,7 @@
 # IrresponsibleAI
 
 IrresponsibleAI is a Python program designed for research purposes under the guidance of Dr. Guerra Gomez and Dr. Baeza-Yates. The script `aiid.py` is responsible for downloading AI Incident Database (AIID) data from a MongoDB cluster and outputting the information into CSV files for further analysis.
-The script `news_content.py` is responsible for scraping news report urls of those incidents for OpenAI's gpt-4-turbo-preview model to interpret and summarize the list of categories and taxonomies we want. The API code is in openai_api.py located in the api directory.
+The script `news_content.py` is responsible for scraping news report urls of those incidents for OpenAI's gpt-4-turbo-preview model to interpret and summarize the list of categories and taxonomies we want. The API code is in `openai_api.py` located in the `api` directory.
 
 ## Installation
 
@@ -47,6 +47,12 @@ or
 python3 news_content.py
 
 ```
+
+## News Content Processing
+
+The `news_content.py` script aggregates news articles content of the same incident into one large string. It then instantiates an OpenaiAPI instance which processes the content of the aggregated article text by invoking the OpenAI() client. The `gpt-4-turbo-preview` model is used for this purpose.
+
+The OpenaiAPI class and the prompt can be found in the `openai_api.py` file in the `api` directory. The taxonomies for our classification of the Irresponsible AI Atlas are defined in the `taxonomies.py` file, also located in the `api` directory, under the Taxonomies class. The prompt retrieves some of the taxonomic information from this file. The system is asked to adhere to the taxonomy we created as closely as possible, but if a field is not applicable, it can generate a more appropriate response.
 
 # Data Analysis
 

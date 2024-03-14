@@ -1,0 +1,187 @@
+{
+    "1": {
+        "Country": "Not specified",
+        "State": "Not specified",
+        "City": "Not specified",
+        "Continent": "Not specified",
+        "Company city": "Not specified",
+        "Affected population": [
+            "Student",
+            "Online Female Population",
+            "Children"
+        ],
+        "Number of people actually affected": "Not specified",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation",
+            "Mental Health",
+            "Other"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Misleading Content",
+                "Inappropriate Content Masquerading as Child-Friendly"
+            ],
+            "Mental Health": [
+                "Exposure to Disturbing Content"
+            ]
+        },
+        "Sub-subclasses": {
+            "Misleading Content": [
+                "Violence",
+                "Sexual Content",
+                "Conspiracy Theories"
+            ],
+            "Inappropriate Content Masquerading as Child-Friendly": [
+                "Violent Imagery",
+                "Sexual Imagery",
+                "Pedophilic Comments"
+            ],
+            "Exposure to Disturbing Content": [
+                "Psychological Distress",
+                "Trauma"
+            ]
+        },
+        "Area of AI Application": [
+            "Content filtering",
+            "Video recommendation algorithms"
+        ],
+        "Online": "yes"
+    },
+    "2": {
+        "Country": "United States",
+        "State": "New Jersey",
+        "City": "Robbinsville",
+        "Continent": "North America",
+        "Company city": "Robbinsville",
+        "Affected population": [
+            "Warehouse Workers"
+        ],
+        "Number of people actually affected": "24 hospitalized, 1 in critical condition",
+        "Number of people potentially affected": "54 exposed to fumes",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Safety Protocol Failure"
+            ]
+        },
+        "Sub-subclasses": {},
+        "Area of AI Application": "Warehouse Automation",
+        "Online": "no"
+    },
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "Jakarta",
+        "Continent": "Asia",
+        "Company city": "",
+        "Affected population": [
+            "Airline Passengers",
+            "Crew Members"
+        ],
+        "Number of people actually affected": 189,
+        "Number of people potentially affected": "Not Specified",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Inadequate Training",
+                "Lack of Communication"
+            ],
+            "Other": [
+                "Faulty Sensor Data Handling"
+            ]
+        },
+        "Sub-subclasses": {
+            "Inadequate Training": [],
+            "Lack of Communication": [],
+            "Faulty Sensor Data Handling": [
+                "Incorrect Sensor Data Interpretation"
+            ]
+        },
+        "Area of AI Application": "Aviation Safety and Control Systems",
+        "Online": "no"
+    },
+    "4": {
+        "Country": "USA",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company_city": "San Francisco",
+        "Affected_population": [
+            "Pedestrians"
+        ],
+        "Number_of_people_actually_affected": 1,
+        "Number_of_people_potentially_affected": "Not specified",
+        "Classes_of_irresponsible_AI_use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Monitoring failure"
+            ],
+            "Other": [
+                "Detection system failure"
+            ]
+        },
+        "Sub-subclasses": {
+            "Monitoring failure": [
+                "Safety driver disengagement"
+            ],
+            "Detection system failure": [
+                "Failed to detect pedestrian"
+            ]
+        },
+        "Area_of_AI_Application": "Autonomous vehicles",
+        "Online": "no"
+    },
+    "5": {
+        "Country": "United States",
+        "State": "Not specified",
+        "City": "Not specified",
+        "Continent": "North America",
+        "Company city": [
+            "Cambridge (MIT)",
+            "Urbana-Champaign",
+            "Chicago"
+        ],
+        "Affected population": [
+            "Patients undergoing robotic surgery"
+        ],
+        "Number of people actually affected": "1535 (144 deaths, 1391 injuries)",
+        "Number of people potentially affected": "Over 1.7 million (number of robotic procedures carried out between 2007 and 2013)",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Operator error",
+                "Lack of troubleshoot training"
+            ],
+            "Other": [
+                "Technical difficulties",
+                "Complications during procedures"
+            ]
+        },
+        "Sub-subclasses": {
+            "Technical difficulties": [
+                "Equipment malfunction",
+                "System errors"
+            ],
+            "Complications during procedures": [
+                "Injuries from uncontrolled instrument movement",
+                "Burns from equipment arcing or sparking",
+                "Foreign objects left inside patients"
+            ]
+        },
+        "Area of AI Application": "Robotic surgery",
+        "Online": "no"
+    }
+}

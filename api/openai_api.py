@@ -1,5 +1,5 @@
 from openai import OpenAI
-from taxonomies import Taxonomies
+from .taxonomies import Taxonomies
 
 class OpenaiAPI:
     def __init__(self, model="gpt-4-turbo-preview"):
@@ -20,18 +20,20 @@ class OpenaiAPI:
 
         prompt = f"""
         Imagine a computer research institute trying to categorize a list of incidents of irresponsible use of artificial intelligence technology.    
-        Given the aggregated news article texts on relevant incidents, please extract the following information, your responses should be well thought-out and well-supported by the content of the articles:
+        Given the aggregated news article texts on relevant incidents, please extract the following information, your responses should be well thought-out and well-supported by the content of the articles, please also follow instructions of this prompt.
+        Regarding "Sub-subclass", give no more than three sub-subclass fields. If nothing from the list is applicable only generate a very general sub-subclass. For example if we have "Human Incompetence" as the main "class" and "Technical" as a "subclass", we could have "Malfunction->Device malfunction",
+            "Malfunction->System error", "Malfunction->Loss of video feed" as the "sub-subclasses".
         - Country:
         - State:
         - City:
         - Continent:
         - Company city:
-        - Affected population (e.g.{taxa.population_examples},please classify the population according to your judgment, it need not be from this list):
+        - Affected population (e.g.{taxa.population_examples},please classify the population according to your judgment, it need not necessarily be from this list):
         - Number of people actually affected:
         - Number of people potentially affected:
-        - Classes of irresponsible AI use (please refer to this list: {list(taxa.get_taxonomy_keys())}, there could be more than one classes the article classifies as):
-        - Subclasses (e.g. {taxa.get_category("subclass")}, please classify the subclasses according to your judgment, it need not necessary be from this list, but it is a subclass from "Classes of irresponsible AI use"; there could be one or multiple subclasses):
-        - Sub-subclasses (e.g.{taxa.get_category("subsubclass")},please classify the Sub-subclasses according to your judgment, it need not necessary be from this list, but it is a subclass from the "Subclasses"; there could be one or multiple sub-subclasses):
+        - Classes of irresponsible AI use (please refer to this list: {taxa.get_category("class")}, there could be more than one classes the article classifies as):
+        - Subclasses (e.g. {taxa.get_category("subclass")} The subclasses should be the children of the "Classes of irresponsible AI use"):
+        - Sub-subclasses (e.g.{taxa.get_category("subsubclass")}. The Sub-subclasses should be the children of the "Subclasses" as the given examples show):
         - Area of AI Application (e.g. content filtering, surveillance, illness prediction)
         - Online (yes or no):
         
@@ -43,7 +45,7 @@ class OpenaiAPI:
         """
 
         messages = [{"role": "user", "content": prompt},
-                    {"role": "system", "content":"You are a helpful university assistant designed to output your response in JSON according to the user's prompt."}]
+                    {"role": "system", "content":"You are a helpful university assistant designed to output your response in JSON according to the user's prompt, and you follow the prompt instructions closely."}]
 
         response = self.create_prompt(messages)
         return response

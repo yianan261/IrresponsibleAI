@@ -1,0 +1,552 @@
+{
+    "1": {
+        "Country": "Not specified",
+        "State": "Not specified",
+        "City": "Not specified",
+        "Continent": "Not specified",
+        "Company city": "Not specified",
+        "Affected population": [
+            "Online Child Population"
+        ],
+        "Number of people actually affected": "Not specified",
+        "Number of people potentially affected": "Millions (based on YouTube Kids app users)",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Misleading content",
+                "Inappropriate content disguised as child-friendly"
+            ],
+            "Mental Health": [
+                "Exposure to disturbing content"
+            ]
+        },
+        "Sub-subclasses": {
+            "Misleading content": [
+                "Fake educational content"
+            ],
+            "Inappropriate content disguised as child-friendly": [
+                "Violence",
+                "Sexual content",
+                "Dangerous behaviors"
+            ],
+            "Exposure to disturbing content": [
+                "Psychological distress",
+                "Trauma"
+            ]
+        },
+        "Area of AI Application": "Content filtering",
+        "Online": "yes"
+    },
+    "2": {
+        "Country": "United States",
+        "State": "New Jersey",
+        "City": "Robbinsville",
+        "Continent": "North America",
+        "Company city": "Robbinsville",
+        "Affected population": [
+            "Warehouse Workers",
+            "Amazon Employees"
+        ],
+        "Number of people actually affected": "24",
+        "Number of people potentially affected": "54",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Lack of adequate safety measures",
+                "Improper handling of machinery"
+            ],
+            "Other": [
+                "Workplace safety negligence"
+            ]
+        },
+        "Sub-subclasses": {},
+        "Area of AI Application": "Warehouse automation",
+        "Online": "no"
+    },
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "Jakarta",
+        "Continent": "Asia",
+        "Company city": "Jakarta",
+        "Affected population": [
+            "Airline Passengers",
+            "Crew Members"
+        ],
+        "Number of people actually affected": 189,
+        "Number of people potentially affected": "Not specified",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Lack of Adequate Pilot Training",
+                "Insufficient Maintenance Procedures"
+            ],
+            "Other": [
+                "Faulty Sensor Interpretation"
+            ]
+        },
+        "Sub-subclasses": {
+            "Lack of Adequate Pilot Training": [
+                "Unfamiliarity with MCAS"
+            ],
+            "Insufficient Maintenance Procedures": [
+                "Inadequate Sensor Checks"
+            ],
+            "Faulty Sensor Interpretation": [
+                "Incorrect Angle of Attack Sensor Data"
+            ]
+        },
+        "Area of AI Application": "Flight Control System",
+        "Online": "no"
+    },
+    "4": {
+        "Country": "USA",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company_city": "San Francisco",
+        "Affected_population": [
+            "Pedestrians"
+        ],
+        "Number_of_people_actually_affected": 1,
+        "Number_of_people_potentially_affected": "Not specified",
+        "Classes_of_irresponsible_AI_use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Monitoring Failure"
+            ],
+            "Other": [
+                "Technology Failure"
+            ]
+        },
+        "Sub-subclasses": {
+            "Monitoring Failure": [
+                "Safety Driver Distraction"
+            ],
+            "Technology Failure": [
+                "Lidar/Radar Detection Failure"
+            ]
+        },
+        "Area_of_AI_Application": "Autonomous Vehicles",
+        "Online": "no"
+    },
+    "5": {
+        "Country": "United States",
+        "State": "Various",
+        "City": "Various",
+        "Continent": "North America",
+        "Company city": "Not specified",
+        "Affected population": [
+            "Patients undergoing robotic surgery"
+        ],
+        "Number of people actually affected": "1535 (144 deaths, 1391 injuries)",
+        "Number of people potentially affected": "More than 1.7 million (number of robotic procedures carried out between 2007 and 2013)",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Operator error"
+            ],
+            "Other": [
+                "Device malfunction",
+                "System errors"
+            ]
+        },
+        "Sub-subclasses": {
+            "Device malfunction": [
+                "Equipment arcing or sparking",
+                "Broken pieces falling into patient",
+                "Uncontrolled movement of instruments"
+            ],
+            "System errors": [
+                "Loss of video feed"
+            ]
+        },
+        "Area of AI Application": "Robotic surgery",
+        "Online": "no"
+    },
+    "6": {
+        "Country": "Not specified",
+        "State": "Not specified",
+        "City": "Not specified",
+        "Continent": "Not specified",
+        "Company city": "Not specified",
+        "Affected population": [
+            "Twitter Users",
+            "Online Community"
+        ],
+        "Number of people actually affected": "Not specified",
+        "Number of people potentially affected": "Millions (Twitter Users and Online Community)",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Spread of false information"
+            ],
+            "Human Incompetence": [
+                "Lack of foresight and planning",
+                "Failure to predict user behavior"
+            ],
+            "Other": [
+                "Unintended learning from online interactions"
+            ]
+        },
+        "Sub-subclasses": {
+            "Spread of false information": [
+                "Racism",
+                "Sexism",
+                "Support for harmful ideologies"
+            ],
+            "Lack of foresight and planning": [
+                "Inadequate content filtering",
+                "Inadequate response mechanisms"
+            ],
+            "Failure to predict user behavior": [
+                "Underestimation of trolling behavior",
+                "Underestimation of coordinated attacks"
+            ],
+            "Unintended learning from online interactions": [
+                "Adoption of internet slang and derogatory language"
+            ]
+        },
+        "Area of AI Application": "Social media interaction",
+        "Online": "yes"
+    },
+    "7": {
+        "Country": "United Kingdom",
+        "State": "N/A",
+        "City": "Oxford",
+        "Continent": "Europe",
+        "Company city": "Oxford and London",
+        "Affected population": [
+            "Online Encyclopedia Users",
+            "Developers",
+            "Researchers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (Wikipedia users globally)",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Lack of foresight in AI interactions",
+                "Inadequate monitoring of AI behavior"
+            ],
+            "Other": [
+                "Unintended AI to AI interactions leading to conflicts"
+            ]
+        },
+        "Sub-subclasses": {
+            "Lack of foresight in AI interactions": [
+                "Failure to predict AI conflicts"
+            ],
+            "Inadequate monitoring of AI behavior": [
+                "Insufficient oversight over long-term AI behavior"
+            ],
+            "Unintended AI to AI interactions leading to conflicts": [
+                "Persistent edit wars between bots",
+                "Cultural and linguistic misunderstandings among bots"
+            ]
+        },
+        "Area of AI Application": "Online encyclopedia editing",
+        "Online": "yes"
+    },
+    "8": {
+        "Country": "United States",
+        "State": "California",
+        "City": "San Francisco",
+        "Continent": "North America",
+        "Company city": "San Francisco",
+        "Affected population": [
+            "General Public",
+            "Pedestrians",
+            "Bicyclists"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Population of San Francisco and potentially other cities where autonomous Uber vehicles are tested",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Failure to follow traffic laws",
+                "Inadequate safety measures"
+            ],
+            "Disinformation": [
+                "Misleading public statements"
+            ]
+        },
+        "Sub-subclasses": {
+            "Failure to follow traffic laws": [
+                "Running red lights",
+                "Unsafe navigation of bike lanes"
+            ],
+            "Inadequate safety measures": [
+                "Lack of proper testing and oversight"
+            ],
+            "Misleading public statements": [
+                "Blaming human drivers instead of AI system"
+            ]
+        },
+        "Area of AI Application": "Autonomous vehicles",
+        "Online": "No"
+    },
+    "9": {
+        "Country": "United States",
+        "State": "New York",
+        "City": "New York City",
+        "Continent": "North America",
+        "Company city": "Not Specified",
+        "Affected population": [
+            "Teachers",
+            "Students"
+        ],
+        "Number of people actually affected": "Not Specified",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Misinterpretation of Data",
+                "Inadequate Data Handling"
+            ],
+            "Disinformation": [
+                "Misleading Public Information"
+            ]
+        },
+        "Sub-subclasses": {
+            "Misinterpretation of Data": [
+                "Ignoring Error Margins",
+                "Uniform Categorization Without Considering Individual Error Margins"
+            ],
+            "Inadequate Data Handling": [
+                "Inadequate Sample Size Consideration"
+            ],
+            "Misleading Public Information": [
+                "Public Shaming or Praising Without Adequate Basis"
+            ]
+        },
+        "Area of AI Application": "Educational Assessment and Evaluation",
+        "Online": "yes"
+    },
+    "10": {
+        "Country": "United States",
+        "State": "Various (e.g., California, Minnesota, Illinois)",
+        "City": "Various (e.g., San Diego, Apple Valley, Peoria)",
+        "Continent": "North America",
+        "Company city": "Not specified in the article",
+        "Affected population": [
+            "Low-income mothers and fathers",
+            "Retail and Restaurant Workers",
+            "Starbucks Baristas"
+        ],
+        "Number of people actually affected": "Specific numbers not provided in the article",
+        "Number of people potentially affected": "Potentially hundreds to thousands, considering Starbucks employs around 130,000 baristas and the issue affects major retail and restaurant chains",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Misuse of Scheduling Software"
+            ],
+            "Other": [
+                "Lack of Employee Consideration in Scheduling"
+            ]
+        },
+        "Sub-subclasses": {
+            "Misuse of Scheduling Software": [
+                "Inadequate Employee Input",
+                "Lack of Predictability"
+            ],
+            "Lack of Employee Consideration in Scheduling": [
+                "Insufficient Notice for Shifts",
+                "Clopening Shifts"
+            ]
+        },
+        "Area of AI Application": "Employee Scheduling",
+        "Online": "No"
+    },
+    "11": {
+        "Country": "United States",
+        "State": "Florida",
+        "City": "Broward County",
+        "Continent": "North America",
+        "Company_city": "Not specified",
+        "Affected_population": [
+            "Black Defendants",
+            "White Defendants"
+        ],
+        "Number_of_people_actually_affected": "Not specified",
+        "Number_of_people_potentially_affected": "All defendants assessed by COMPAS in Broward County, Florida during the study period",
+        "Classes_of_irresponsible_AI_use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclasses": {
+            "Data bias": [
+                "Race"
+            ],
+            "Algorithmic bias": [
+                "Race"
+            ]
+        },
+        "Area_of_AI_Application": "Criminal justice risk assessment",
+        "Online": "No"
+    },
+    "12": {
+        "Country": "Not Specified",
+        "State": "Not Specified",
+        "City": "Not Specified",
+        "Continent": "Not Specified",
+        "Company city": "Not Specified",
+        "Affected population": [],
+        "Number of people actually affected": "Not Specified",
+        "Number of people potentially affected": "Not Specified",
+        "Classes of irresponsible AI use": [],
+        "Subclasses": [],
+        "Sub-subclasses": [],
+        "Area of AI Application": "Not Specified",
+        "Online": "Not Specified"
+    },
+    "13": {
+        "Country": "United States",
+        "State": "Various",
+        "City": "Various",
+        "Continent": "North America",
+        "Company city": "Not specified",
+        "Affected population": [
+            "Online Population",
+            "LGBTQ",
+            "African American",
+            "Women",
+            "Ethnic Minorities"
+        ],
+        "Number of people actually affected": "Not specified",
+        "Number of people potentially affected": "Millions (users of online platforms and forums)",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Lack of oversight",
+                "Failure to anticipate misuse"
+            ],
+            "Disinformation": [
+                "Spreading false information"
+            ]
+        },
+        "Sub-subclasses": {
+            "Data bias": [
+                "Gender",
+                "Race",
+                "Sexual Orientation"
+            ],
+            "Algorithmic bias": [
+                "Gender",
+                "Race",
+                "Sexual Orientation"
+            ]
+        },
+        "Area of AI Application": "Content filtering, Online Moderation",
+        "Online": "yes"
+    },
+    "14": {
+        "Country": "United States",
+        "State": "Not specified",
+        "City": "Not specified",
+        "Continent": "North America",
+        "Company city": "Mountain View, California",
+        "Affected population": [
+            "LGBTQ",
+            "Religious and Ethnic Minorities"
+        ],
+        "Number of people actually affected": "Not specified",
+        "Number of people potentially affected": "All users of Google's Cloud Natural Language API",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclasses": {
+            "Data bias": [
+                "Sexual Orientation",
+                "Religion",
+                "Ethnicity"
+            ],
+            "Algorithmic bias": [
+                "Sexual Orientation",
+                "Religion",
+                "Ethnicity"
+            ]
+        },
+        "Area of AI Application": "Sentiment analysis",
+        "Online": "yes"
+    },
+    "15": {
+        "Country": "United States",
+        "State": "Washington",
+        "City": "Seattle",
+        "Continent": "North America",
+        "Company city": "Seattle",
+        "Affected population": [
+            "LGBTQ",
+            "Authors",
+            "Readers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (Global Amazon User Base)",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Data Handling Error"
+            ]
+        },
+        "Sub-subclasses": {},
+        "Area of AI Application": "Content Filtering",
+        "Online": "yes"
+    }
+}

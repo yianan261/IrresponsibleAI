@@ -1,0 +1,216 @@
+{
+    "1": {
+        "Country": "Not specified",
+        "State": "Not specified",
+        "City": "Not specified",
+        "Continent": "Not specified",
+        "Company city": "Not specified",
+        "Affected population": [
+            "Children",
+            "YouTube Users"
+        ],
+        "Number of people actually affected": "Not specified",
+        "Number of people potentially affected": "Not specified",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Misleading content",
+                "Inappropriate content masquerading as child-friendly"
+            ],
+            "Mental Health": [
+                "Exposure to harmful content"
+            ]
+        },
+        "Sub-subclasses": {
+            "Misleading content": [
+                "Fake educational content",
+                "Misrepresented characters",
+                "Conspiracy theories"
+            ],
+            "Inappropriate content masquerading as child-friendly": [
+                "Violence",
+                "Sexual content",
+                "Disturbing imagery"
+            ],
+            "Exposure to harmful content": [
+                "Anxiety",
+                "Fear",
+                "Behavioral issues"
+            ]
+        },
+        "Area of AI Application": "Content filtering",
+        "Online": "yes"
+    },
+    "2": {
+        "Country": "United States",
+        "State": "New Jersey",
+        "City": "Robbinsville",
+        "Continent": "North America",
+        "Company_city": "Seattle",
+        "Affected_population": [
+            "Warehouse Workers"
+        ],
+        "Number_of_people_actually_affected": "24",
+        "Number_of_people_potentially_affected": "54",
+        "Classes_of_irresponsible_AI_use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Safety Protocol Violation"
+            ]
+        },
+        "Sub-subclasses": {
+            "Safety Protocol Violation": [
+                "Lack of Adequate Robot Handling Procedures",
+                "Inadequate Safety Measures",
+                "Insufficient Worker Training"
+            ]
+        },
+        "Area_of_AI_Application": "Warehouse Automation",
+        "Online": "no"
+    },
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "Jakarta",
+        "Continent": "Asia",
+        "Company_city": "",
+        "Affected_population": [
+            "Airline Passengers",
+            "Crew Members"
+        ],
+        "Number_of_people_actually_affected": 189,
+        "Number_of_people_potentially_affected": "Millions (Global Air Travelers due to potential safety implications)",
+        "Classes_of_irresponsible_AI_use": [
+            "Human Incompetence",
+            "Technical"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Lack of Adequate Training",
+                "Insufficient Communication"
+            ],
+            "Technical": [
+                "Faulty Sensor Data Handling",
+                "Inadequate Safety Feature Implementation"
+            ]
+        },
+        "Sub-subclasses": {
+            "Lack of Adequate Training": [
+                "Pilot unawareness of MCAS",
+                "Insufficient simulator training"
+            ],
+            "Insufficient Communication": [
+                "Failure to inform pilots about system updates",
+                "Lack of transparency in manual documentation"
+            ],
+            "Faulty Sensor Data Handling": [
+                "Incorrect Angle of Attack sensor readings",
+                "Failure to cross-check sensor data"
+            ],
+            "Inadequate Safety Feature Implementation": [
+                "MCAS overly aggressive response",
+                "Lack of override mechanism for automated system"
+            ]
+        },
+        "Area_of_AI_Application": "Flight control automation",
+        "Online": "no"
+    },
+    "4": {
+        "Country": "USA",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company city": "San Francisco",
+        "Affected population": [
+            "Pedestrians"
+        ],
+        "Number of people actually affected": 1,
+        "Number of people potentially affected": "Not specified",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Monitoring failure",
+                "Safety protocol negligence"
+            ],
+            "Other": [
+                "Lack of adequate testing",
+                "Failure in object detection"
+            ]
+        },
+        "Sub-subclasses": {
+            "Monitoring failure": [
+                "Driver distraction"
+            ],
+            "Safety protocol negligence": [
+                "Emergency braking system disabled"
+            ],
+            "Lack of adequate testing": [
+                "Inadequate Lidar technology testing",
+                "Inadequate real-world scenario testing"
+            ],
+            "Failure in object detection": [
+                "Inability to detect non-crosswalk pedestrians",
+                "Misclassification of detected objects"
+            ]
+        },
+        "Area of AI Application": "Autonomous driving",
+        "Online": "no"
+    },
+    "5": {
+        "Country": "United States",
+        "State": "Not specified",
+        "City": "Not specified",
+        "Continent": "North America",
+        "Company city": [
+            "Chicago",
+            "Urbana-Champaign"
+        ],
+        "Affected population": [
+            "Patients undergoing robotic surgery"
+        ],
+        "Number of people actually affected": 1535,
+        "Number of people potentially affected": "Over 1.7 million (from 2007 to 2013)",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Technical Malfunction"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Operator error",
+                "Lack of expertise"
+            ],
+            "Technical Malfunction": [
+                "Device malfunction",
+                "System error"
+            ]
+        },
+        "Sub-subclasses": {
+            "Operator error": [
+                "Incorrect operation",
+                "Lack of troubleshooting skills"
+            ],
+            "Lack of expertise": [
+                "In cardiothoracic and head and neck surgeries"
+            ],
+            "Device malfunction": [
+                "Uncontrolled instrument movement",
+                "Equipment arcing or sparking",
+                "Breakage of machine parts"
+            ],
+            "System error": [
+                "Loss of video feed",
+                "System restarts"
+            ]
+        },
+        "Area of AI Application": "Robotic surgery",
+        "Online": "no"
+    }
+}
