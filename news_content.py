@@ -34,18 +34,20 @@ logging.info("Successfully loaded JSON data, starting to scrape articles...")
 
 aggregated_content = {}
 
-# TODO: remove counter (testing with the first 5 incidents)
+# TODO: remove counter (testing with the first 15 incidents)
 count = 0
 for id,urls in urls_dict.items():
-    if count == 5:
+    if count == 15:
         break
     count += 1
     aggregated_texts = []
     for url in urls:
         article_text = scrape_article(url)
         aggregated_texts.append(article_text)
-    aggregated_content[id] = ". ".join(aggregated_texts)
-
+        concated = ". ".join(aggregated_texts)
+    aggregated_content[id] = concated
+    # with open(f"a.txt","w") as f:
+    #     f.write(concated)
 logging.info("Article scraping completed. Processing with LLM...")
 
 processed_results = {}
@@ -57,7 +59,7 @@ for id,content in aggregated_content.items():
 logging.info("LLM processing completed. Saving results to file...")
 
 current_time = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M")
-with open(f"processed_results_{current_time}.json","w") as json_file:
+with open(f"./processed_output/processed_results_{current_time}.json","w") as json_file:
     json.dump(processed_results,json_file, indent=4)
 
 logging.info("Results saved to JSON file. Script completed successfully.")

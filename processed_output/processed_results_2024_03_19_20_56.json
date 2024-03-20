@@ -1,0 +1,99 @@
+{
+    "1": {
+        "Country": "Not specified",
+        "State": "Not specified",
+        "City": "Not specified",
+        "Continent": "Not specified",
+        "Company city": "Not specified",
+        "Affected population": "Children",
+        "Number of people actually affected": "Hundreds",
+        "Number of people potentially affected": "Millions (YouTube Kids users globally)",
+        "Classes of irresponsible AI use": [
+            "Mental Health",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Mental Health": [],
+            "Disinformation": []
+        },
+        "Sub-subclasses": [],
+        "Area of AI Application": "Content recommendation algorithms",
+        "Online": "yes"
+    },
+    "2": {
+        "Country": "United States",
+        "State": "New Jersey",
+        "City": "Robbinsville",
+        "Continent": "North America",
+        "Company city": "Robbinsville",
+        "Affected population": "Warehouse workers",
+        "Number of people actually affected": "24 hospitalized, 1 in critical condition",
+        "Number of people potentially affected": "54",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": [],
+        "Sub-subclasses": [],
+        "Area of AI Application": "Warehouse automation",
+        "Online": "no"
+    },
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "Jakarta",
+        "Continent": "Asia",
+        "Company city": "",
+        "Affected population": "Airline passengers and crew",
+        "Number of people actually affected": "189",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": [
+            "Algorithmic bias"
+        ],
+        "Sub-subclasses": [],
+        "Area of AI Application": "Aviation Safety",
+        "Online": "no"
+    },
+    "4": {
+        "Country": "USA",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company city": "San Francisco",
+        "Affected population": "Pedestrians",
+        "Number of people actually affected": 1,
+        "Number of people potentially affected": "Not specified",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": [
+            "Data bias"
+        ],
+        "Sub-subclasses": [
+            "Economic"
+        ],
+        "Area of AI Application": "Autonomous Vehicles",
+        "Online": "no"
+    },
+    "5": {
+        "Country": "United States",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company city": "Chicago",
+        "Affected population": "Patients undergoing robotic surgery",
+        "Number of people actually affected": "1535",
+        "Number of people potentially affected": "More than 1.7 million",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": [],
+        "Sub-subclasses": [],
+        "Area of AI Application": "Healthcare - Robotic Surgery",
+        "Online": "no"
+    }
+}

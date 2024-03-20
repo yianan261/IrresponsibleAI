@@ -1,0 +1,44 @@
+{
+    "3": {
+        "1": {
+            "Country": "Indonesia",
+            "State": "N/A",
+            "City": "Jakarta",
+            "Continent": "Asia",
+            "Company": "Boeing",
+            "Company city": "Chicago, IL",
+            "Affected population": "Airline Passengers",
+            "Number of people actually affected": "189",
+            "Number of people potentially affected": "Unknown",
+            "Class of irresponsible AI use": [
+                "Human Incompetence"
+            ],
+            "Subclasses": [
+                "Human Incompetence-> Technical"
+            ],
+            "Sub-subclass": [],
+            "Area of AI Application": "aviation automation",
+            "Online": "No"
+        },
+        "2": {
+            "Country": "Global",
+            "State": "N/A",
+            "City": "Global",
+            "Continent": "Global",
+            "Company": "Boeing",
+            "Company city": "Chicago, IL",
+            "Affected population": "Airline Passengers and Crews",
+            "Number of people actually affected": "Unknown",
+            "Number of people potentially affected": "Unknown",
+            "Class of irresponsible AI use": [
+                "Human Incompetence"
+            ],
+            "Subclasses": [
+                "Human Incompetence-> Technical"
+            ],
+            "Sub-subclass": [],
+            "Area of AI Application": "aviation automation",
+            "Online": "No"
+        }
+    }
+}

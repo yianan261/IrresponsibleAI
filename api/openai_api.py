@@ -1,5 +1,6 @@
 from openai import OpenAI
 from .taxonomies import Taxonomies
+from .results import example_output
 
 class OpenaiAPI:
     def __init__(self, model="gpt-4-turbo-preview"):
@@ -21,27 +22,29 @@ class OpenaiAPI:
         prompt = f"""
         Imagine a computer research institute trying to categorize a list of incidents of irresponsible use of artificial intelligence technology.    
         Given the aggregated news article texts on relevant incidents, please extract the following information, your responses should be well thought-out and well-supported by the content of the articles, please also follow instructions of this prompt.
-        Regarding "Sub-subclass", give no more than three sub-subclass fields. If nothing from the list is applicable only generate a very general sub-subclass. For example if we have "Human Incompetence" as the main "class" and "Technical" as a "subclass", we could have "Malfunction->Device malfunction",
-            "Malfunction->System error", "Malfunction->Loss of video feed" as the "sub-subclasses".
+        Regarding "Sub-subclass", only find the relation in the given taxonomy. If a field does not have a sub-subclass list, then leave sub-subclass list as empty.
+        Refer to {example_output} for json output examples.
         - Country:
         - State:
         - City:
         - Continent:
-        - Company city:
-        - Affected population (e.g.{taxa.population_examples},please classify the population according to your judgment, it need not necessarily be from this list):
+        - Company (i.e. the company that developed the technology involved in this incident):
+        - Company city (the city where the headquarters of this company is located. If the company recently moved headquarters, please use the location of the new headquarter):
+        - Affected population (e.g.{taxa.population_examples},please classify the population according to your judgment, it need not necessarily be from this list): 
         - Number of people actually affected:
         - Number of people potentially affected:
-        - Classes of irresponsible AI use (please refer to this list: {taxa.get_category("class")}, there could be more than one classes the article classifies as):
-        - Subclasses (e.g. {taxa.get_category("subclass")} The subclasses should be the children of the "Classes of irresponsible AI use"):
-        - Sub-subclasses (e.g.{taxa.get_category("subsubclass")}. The Sub-subclasses should be the children of the "Subclasses" as the given examples show):
-        - Area of AI Application (e.g. content filtering, surveillance, illness prediction)
+        - Classes of irresponsible AI use (please refer to this taxonomy: {taxa.get_category("class")}, there could be more than one classes the article classifies as):
+        - Subclasses (refer to this taxonomy: {taxa.get_category("subclass")} The subclasses should be the children of the "Classes of irresponsible AI use"):
+        - Sub-subclasses (refer to this taxonomy: {taxa.get_category("subsubclass")}. If a subclass does not have a sub-subclass list for children,leave the sub-subclass list empty.
+        - Area of AI Application (e.g. content filtering, surveillance, illness prediction):
         - Online (yes or no):
         
         Article Content:
+
+        ================== Start of Article Content =================
         {article_text}
-
-        This is the end of a text.
-
+        ================== End of Article Content =================
+        
         """
 
         messages = [{"role": "user", "content": prompt},

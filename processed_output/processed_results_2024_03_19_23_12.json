@@ -1,0 +1,21 @@
+{
+    "3": {
+        "Country": "Indonesia",
+        "State": "N/A",
+        "City": "Jakarta",
+        "Continent": "Asia",
+        "Company city": "Jakarta",
+        "Affected population": "Airline Passengers",
+        "Number of people actually affected": "189",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": [
+            "Human Incompetence-> Technical"
+        ],
+        "Sub-subclass": [],
+        "Area of AI Application": "Aviation Safety",
+        "Online": "No"
+    }
+}
