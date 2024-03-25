@@ -1,0 +1,155 @@
+. . For many it is no more than the first port of call when a niggling question raises its head. Found on its pages are answers to mysteries from the fate of male anglerfish, the joys of dorodango, and the improbable death of Aeschylus.
+
+But beneath the surface of Wikipedia lies a murky world of enduring conflict. A new study from computer scientists has found that the online encyclopedia is a battleground where silent wars have raged for years.
+
+
+
+Since Wikipedia launched in 2001, its millions of articles have been ranged over by software robots, or simply “bots”, that are built to mend errors, add links to other pages, and perform other basic housekeeping tasks.
+
+
+
+In the early days, the bots were so rare they worked in isolation. But over time, the number deployed on the encyclopedia exploded with unexpected consequences. The more the bots came into contact with one another, the more they became locked in combat, undoing each other’s edits and changing the links they had added to other pages. Some conflicts only ended when one or other bot was taken out of action.
+
+
+
+“The fights between bots can be far more persistent than the ones we see between people,” said Taha Yasseri, who worked on the study at the Oxford Internet Institute. “Humans usually cool down after a few days, but the bots might continue for years.”
+
+
+
+The findings emerged from a study that looked at bot-on-bot conflict in the first ten years of Wikipedia’s existence. The researchers at Oxford and the Alan Turing Institute in London examined the editing histories of pages in 13 different language editions and recorded when bots undid other bots’ changes.
+
+
+
+They did not expect to find much. The bots are simple computer programs that are written to make the encyclopedia better. They are not intended to work against each other. “We had very low expectations to see anything interesting. When you think about them they are very boring,” said Yasseri. “The very fact that we saw a lot of conflict among bots was a big surprise to us. They are good bots, they are based on good intentions, and they are based on same open source technology.”
+
+
+
+While some conflicts mirrored those found in society, such as the best names to use for contested territories, others were more intriguing. Describing their research in a paper entitled Even Good Bots Fight in the journal Plos One, the scientists reveal that among the most contested articles were pages on former president of Pakistan Pervez Musharraf, the Arabic language, Niels Bohr and Arnold Schwarzenegger.
+
+
+
+One of the most intense battles played out between Xqbot and Darknessbot which fought over 3,629 different articles between 2009 and 2010. Over the period, Xqbot undid more than 2,000 edits made by Darknessbot, with Darknessbot retaliating by undoing more than 1,700 of Xqbot’s changes. The two clashed over pages on all sorts of topics, from Alexander of Greece and Banqiao district in Taiwan to Aston Villa football club.
+
+
+
+Another bot named after Tachikoma, the artificial intelligence in the Japanese science fiction series Ghost in the Shell, had a two year running battle with Russbot. The two undid more than a thousand edits by the other on more than 3,000 articles ranging from Hillary Clinton’s 2008 presidential campaign to the demography of the UK.
+
+
+
+The study found striking differences in the bot wars that played out on the various language editions of Wikipedia. German editions had the fewest bot fights, with bots undoing other’s edits on average only 24 times in a decade. But the story was different on the Portuguese Wikipedia, where bots undid the work of other bots on average 185 times in ten years. The English version saw bots meddling with each other’s changes on average 105 times a decade.
+
+
+
+The findings show that even simple algorithms that are let loose on the internet can interact in unpredictable ways. In many cases, the bots came into conflict because they followed slightly different rules to one another.
+
+
+
+Yasseri believes the work serves as an early warning to companies developing bots and more powerful artificial intelligence (AI) tools. An AI that works well in the lab might behave unpredictably in the wild. “Take self-driving cars. A very simple thing that’s often overlooked is that these will be used in different cultures and environments,” said Yasseri. “An automated car will behave differently on the German autobahn to how it will on the roads in Italy. The regulations are different, the laws are different, and the driving culture is very different,” he said.
+
+
+
+As more decisions, options and services come to depend on bots working properly together, harmonious cooperation will become increasingly important. As the authors note in their latest study: “We know very little about the life and evolution of our digital minions.”
+
+
+
+Earlier this month, researchers at Google’s DeepMind set AIs against one another to see if they would cooperate or fight. When the AIs were released on an apple-collecting game, the scientists found that the AIs cooperated while apples were plentiful, but as soon as supplies got short, they turned nasty. It is not the first time that AIs have run into trouble. In 2011, scientists in the US recorded a conversation between two chatbots. They bickered from the start and ended up arguing about God.
+
+Hod Lipson, director of the Creative Machines Lab at Columbia University in New York, said the work was a “fascinating example of the complex and unpredictable behaviours that emerge when AI systems interact with each other.”
+
+“Often people are concerned about what AI systems will ultimately do to people,” he said. “But what this and similar work suggests is that what AI systems might do to each other might be far more interesting. And this isn’t just limited to software systems – it’s true also for physically embodied AI. Imagine ACLU drones watching over police drones, and vice versa. It’s going to be interesting.”. Getty Images
+
+No one saw the crisis coming: a coordinated vandalistic effort to insert Squidward references into articles totally unrelated to Squidward. In 2006, Wikipedia was really starting to get going, and really couldn’t afford to have any SpongeBob SquarePants-related high jinks sullying the site's growing reputation. It was an embarrassment. Someone had to stop Squidward.
+
+The Wikipedia community knew it couldn’t possibly mobilize human editors to face down the trolls—the onslaught was too great, the work too tedious. So instead an admin cobbled together a bot that automatically flagged errant insertions of the Cephalopod Who Shall Not Be Named. And it worked. Wikipedia beat back the Squidward threat, and in so doing fell into a powerful alliance with the bots. Today, hundreds of algorithmic assistants fight all manner of vandals, fix typos, and even create articles on their own. Wikipedia would be a mess without them.
+
+But a funny thing happens when you lock a bunch of bots in a virtual room: Sometimes they don’t get along. Sometimes a pair of bots will descend into a slapfight, overwriting each other’s decisions thousands of times for years on end. According to a new study in PLOS ONE, it happens a lot. Why? Because no matter how cold and calculating bots may seem, they tend to act all too human. And these are the internet's nice, not-at-all racist bots. Imagine AI-powered personal digital assistants in the same room yelling at each other all day. Google Home versus Alexa, anyone?
+
+On Wikipedia, bots handle the excruciatingly dull and monotonous work that would drive an army of human editors mad---if an army of editors could even keep up with all the work. A bot does not tire. It does not get angry—well, at least not at humans. It’s programmed for a task, and it sees to that task with a consistency and devotion humans can’t match.
+
+While disagreements between human Wikipedia editors tend to fizzle, fights between bots can drag on for months or years. The study found that bots are far more likely to argue than human editors on the English version of Wikipedia: Bots each overrode another bot an average of 105 times over the course of a decade, compared to an average of three times for human editors. Bots get carried away because they simply don't know any better---they're just bits of code, after all.
+
+But that doesn't mean they aren't trustworthy. Bots are handling relatively simple tasks like spellchecking, not making larger editorial decisions. Indeed, it's only because of the bots' work that human editors can concentrate on those big-picture problems at all. Still, when they disagree, they don't rationally debate like humans might. They're servants to their code. And their sheer reach---continuously scanning more than 5 million articles in the English Wikipedia alone---means they find plenty of problems to correct and potentially disagree on.
+
+And bots do far more than their fair share of work. The number of human editors on the English Wikipedia may dwarf the number of bots—some 30,000 active meatspace editors versus about 300 active editors made purely out of code---but the bots are insanely productive contributors. “They're not even quite visible if you put them on a map among other editors,” says the University of Oxford’s Taha Yasseri, a co-author of the study. “But they do a lot. The proportion of all the edits done by robots in different languages would vary from 10 percent, up to 40 even 50 percent in certain language editions.” Yet Wikipedia hasn’t descended into a bloody bot battlefield. That’s because humans closely monitor the bots, which do far more good than harm.
+
+Barbaric Bots
+
+But bots inevitably collide, Yasseri contends. For example, the study found that over the course of three years, two bots that monitor for double redirects on Wikipedia had themselves quite the tiff. (A redirect happens when, for instance, a search for "UK" forwards you to the article for "United Kingdom." A double redirect is a redirect that forwards to another redirect, a big Wikipedia no-no.) Across some 1,800 articles, Scepbot reverted RussBot’s edits a total of 1,031 times, while RussBot returned the favor 906 times. This happens because of discrepancies in naming conventions---RussBot, for instance, made "Ricotta al forno" redirect to "Ricotta cheese," when previously it redirected to "Ricotta." Then Scepbot came in and reverted that change.
+
+For its part, Wikipedia disputes that these bots aren't really "fighting.". Kirillm via Getty Images Toy robots fighting. Technology concept. Isolated over white. Contains clipping path
+
+It turns out Wikipedia's automated edit 'bots' have been waging a cyber-war between each other for over a decade by changing each other's corrections -- and it's getting worse.
+
+Researchers at the University of Oxford in the United Kingdom released a report on Thursday that shows that bot software studied between 2001 and 2010 -- which is designed to "undo vandalism, enforce bans, check spelling, create inter-language links... [and] identify copyright violations," has been reverting changes made by other Wikipedia-created-bots far more often than those made by humans.
+
+Advertisement
+
+"We find that, although Wikipedia bots are intended to support the encyclopedia, they often undo each other's edits and these sterile 'fights' may sometimes continue for years," the study reads.
+
+"Unlike humans on Wikipedia, bots' interactions tend to occur over longer periods of time and to be more reciprocated."
+
+The research covers bots from all 13 language versions of Wikipedia from the first ten years of the website's operation. It found that, since 2001, the frequency of bots reverting changes made by another bot has been consistently increasing -- although it does depend on the language.
+
+"Over the ten-year period, bots on English Wikipedia reverted another bot on average 105 times," the report reads.
+
+Advertisement
+
+"Bots on German Wikipedia revert each other to a much lesser extent than other bots (24 times on average). Bots on Portuguese Wikipedia, in contrast, fight the most, with an average of 185 bot-bot reverts per bot."
+
+@NoraReed You have no idea how happy reading this has made me. I used to be an editor on wikipedia but gave up because of the bots. — Rachel Wülfe (@AberdorkUnited) February 26, 2017
+
+Researchers also found that, compared to humans who make edits on Wikipedia pages, bots tend to take a lot longer to revert another bot's changes and are more likely to match the change a previous bot has applied.
+
+In other words, if one bot edits a post, another bot will be likely to change it back to exactly what it was before -- even if it takes them a while.
+
+Think of it as an online form of bickering between two robots that has actually lasted for more than 10 years.
+
+Advertisement
+
+So which particular bots have been responsible for the disagreements?
+
+According to the findings, bots can be split into two groups -- benevolent and malevolent. Benevolent bots are the good-guys of Wikipedia who help users find what they need and make their online visit easier. Malevolent bots are the ones that counteract incorrect human edits or website violations.
+
+Although as it turns out, on Wikipedia even the good guys create problems.
+
+"We found that most of the disagreement occurs between bots that specialise in creating and modifying links between different language editions of the encyclopedia," researchers said.
+
+"The same bots are responsible for the majority of reverts in all the language editions we study. For example, some of the bots that revert the most other bots include Xqbot, EmausBot, SieBot, and VolkovBot, all bots specialising in fixing inter-wiki links.
+
+"In the case of Wikipedia, we see that benevolent bots that are designed to collaborate may end up in continuous disagreement. This is both inefficient as a waste of resources, and inefficacious."
+
+Time to ban bots from Wikipedia I guess... https://t.co/C5u91pbwfr — S Collis (@NomisSilloc) February 26, 2017
+
+Advertisement
+
+Of the worst cases, Xqbot and Darknessbot managed to clash on 3629 different Wikipedia articles within a year, while the Japanese Tachikoma bot knocked heads with Russbot on more than 3000 articles over two years, according to the Guardian.
+
+The results of the report work as a stark reminder that even the simplest of website algorithms can react unpredictably -- and before you know it, you're ten years into an endless spell check battle.. Analysis An investigation into Wikipedia bots has confirmed the automated editing software can be just as pedantic and petty as humans are – often engaging in online spats that can continue for years.
+
+What's interesting is that bots behave differently depending on which language version of Wikipedia they work on: some become more argumentative than others, based on the culture and subjects they end up tackling.
+
+Bots have been roaming the worldwide web for more than 20 years. Some can be quite useful. Others are less so, spewing racist abuse and spam, or posing as beautiful flirty women on dating sites.
+
+A paper published today in PLOS ONE by researchers from the University of Oxford and The Alan Turing Institute in the UK splits internet bots into two categories: benevolent and malevolent.
+
+Wikipedia droids are classed as benevolent as they help edit articles, identify and clean up vandalism, check spelling, import information automatically, and identify copyright violations. In 2014, for example, as many as 15 per cent of all edits were made by bots, and they often disagreed with each other, we're told.
+
+Dr Milena Tsvetkova, lead author of the paper and a researcher at Oxford Internet Institute, said: “We find that bots behave differently in different cultural environments, and their conflicts are also very different to the ones between human editors.”
+
+By looking at reverts – when a human or bot overrules another editor’s contribution by restoring an earlier version of the article – Tsvetkova and her team found areas of conflict between the automated word-wrangling software. “Compared to humans, a smaller proportion of bots’ edits are reverts and a smaller proportion get reverted,” the paper noted. (We've previously briefly covered Tsvetkova and co's work here.)
+
+Looking over a ten-year period, each bot on the English Wikipedia undid another bot’s edits on average 105 times – much more than the average of three times for humans. It was worse on the Portuguese version, where each bot reverted another bot 185 times on average, over ten years. On the German version, the droids were much more pleasant to one another – each one changing another's work only 24 times, on average over ten years.
+
+The difference between the Wikipedia language editions can be explained: Portuguese bots are simply more active and edit more articles than German ones, for example. Interestingly, though, cultural diversity is also a factor, Professor Taha Yasseri, coauthor of the paper and researcher from the Oxford Internet Institute, said. Bots designed to work in the same way, or use the same code, sometimes end up disagreeing with each over cultural and language points. And some cultures provoke more arguments and edit wars.
+
+“The findings show that even the same technology leads to different outcomes, depending on the cultural environment," Prof Yasseri told The Register.
+
+"An automated vehicle will drive differently on a German autobahn to how it will through the Tuscan hills of Italy. Similarly, the local online infrastructure that bots inhabit will have some bearing on how they behave and their performance. Bots are designed by humans from different countries so when they encounter one another, this can lead to online clashes.
+
+"Some of the articles most contested by bots are about Pervez Musharraf, Uzbekistan, Estonia, Belarus, the Arabic language, Niels Bohr, and Arnold Schwarzenegger."
+
+That's not to say all bots are programmed the same way – the edit wars are a result of a complex and heady mix of software and subjects, ultimately. Prof Yasseri added: "We see differences in the technology used in the different Wikipedia language editions, and the different cultures of the communities of Wikipedia editors involved create complicated interactions. This complexity is a fundamental feature that needs to be considered in any conversation related to automation and artificial intelligence.”
+
+Wiki bots aren’t the only semi-intelligent agents affected by cultural differences. Microsoft’s Chinese bot, XiaoIce, was an angel compared to its American foul-mouthed counterpart, Tay, which was hijacked by 4chan trolls who found a backdoor command phrase to teach Tay filthy words. The contrast in behavior can be explained by taking a closer look at the internet rules in both countries.
+
+The world of AI isn’t particularly friendly, it seems. A recent experiment by DeepMind showed AI bots were driven by competition and had no qualms resorting to violence. ®

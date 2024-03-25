@@ -1,0 +1,721 @@
+Last December Synced compiled its first “Artificial Intelligence Failures” recap of AI gaffes from the previous year. AI has achieved remarkable progress, and many scientists dream of creating the Master Algorithm proposed by Pedro Domingos — which can solve all problems envisioned by humans. It’s unavoidable however that researchers, fledgling technologies and biased data will also produce blunders not envisioned by humans.
+
+That’s why a review of AI failures is necessary and meaningful: The aim of the article is not to downplay or mock research and development results, but to take a look at what went wrong with the hope we can do better next time.
+
+Synced 10 AI failures of 2018.
+
+Chinese billionaire’s face identified as jaywalker
+
+Traffic police in major Chinese cities are using AI to address jaywalking. They deploy smart cameras using facial recognition techniques at intersections to detect and identify jaywalkers, whose partially obscured names and faces then show up on a public display screen.
+
+The AI system in the southern port city of Ningbo however recently embarrassed itself when it falsely “recognized” a photo of Chinese billionaire Mingzhu Dong on an ad on a passing bus as a jaywalker. The mistake went viral on Chinese social media and Ningbo police apologized. Dong was unfazed, posting on Weibo: “This is a trivial matter. Safe travel is more important.”
+
+CloudWalk Deep Learning Researcher Xiang Zhou told Synced the algorithm’s lack of live detection was the likely problem. “Live detection at this distance is challenging, recognizing an image as a real person is pretty common now.”
+
+Chinese billionaire Mingzhu Dong’s face on a public display screen.
+
+Uber self-driving car kills a pedestrian
+
+In the first known autonomous vehicle-related pedestrian death on a public road, an Uber self-driving SUV struck and killed a female pedestrian on March 28 in Tempe, Arizona. The Uber vehicle was in autonomous mode, with a human safety driver at the wheel.
+
+So what happened? Uber discovered that its self-driving software decided not to take any actions after the car’s sensors detected the pedestrian. Uber’s autonomous mode disables Volvo’s factory-installed automatic emergency braking system, according to US National Transportation Safety Board preliminary report on the accident.
+
+In the wake of the tragedy Uber suspended self-driving testing in North American cities, and Nvidia and Toyota also stopped their self-driving road tests in the US. Eight months after the accident Uber announced plans to resume self-driving road tests in Pittsburgh, although the company’s self-driving future remains uncertain.
+
+ABC 15 screenshot of deadly Uber accident.
+
+IBM Watson comes up short in healthcare
+
+“This product is a piece of shit” wrote a doctor at Florida’s Jupiter Hospital regarding IBM’s flagship AI program Watson, according to internal documents obtained by Stat. Originally a question-answering machine, IBM has been exploring Watson’s AI capabilities across a broad range of applications and processes, including healthcare. In 2013 IBM developed Watson’s first commercial application for cancer treatment recommendation, and the company has secured a number of key partnerships with hospitals and research centers over the past five years. But Watson AI Health has not impressed doctors. Some complained it gave wrong recommendations on cancer treatments that could cause severe and even fatal consequences.
+
+After spending years on the project without significant advancements, IBM is reportedly downsizing Watson Health and laying off more than half the division’s staff.
+
+Amazon AI recruiting tool is gender biased
+
+Amazon HR reportedly used an AI-enabled recruiting software between 2014 and 2017 to help review resumes and make recommendations. The software was however found to be more favorable to male applicants because its model was trained on resumes submitted to Amazon over the past decade, when many more male candidates were hired.
+
+The software reportedly downgraded resumes that contain the word “women” or implied the applicant was female, for example because they had attended a women’s college. Amazon has since abandoned the software. The company did not deny using the tool to produce recommendations, but said it was never used to evaluate candidates.
+
+DeepFakes reveals AI’s unseemly side
+
+Last December several porn videos appeared on Reddit “featuring” top international female celebrities. User “DeepFakes” employed generative adversarial networks to swap celebrities’ faces with those of the porn stars. While face-swapping technology has been under development for years, DeepFakes’ method showed that anyone with enough facial images could now produce their own highly convincing fake videos.
+
+Realistic-looking fake videos of well-known people flooded the Internet through 2018. While the method is not technically a “failure,” its potential dangers are serious and far-reaching: if video evidence is no longer credible, this could further encourage the circulation of fake news.
+
+Star Wars star Daisy Ridley’s face swapped with a porn actress in a DeepFake video.
+
+Google Photo confuses skier and mountain
+
+Google Photos includes a relatively unknown AI feature that can automatically detect images with the same backgrounds/scenes and offer to merge them into a single panoramic picture. In January Reddit User “MalletsDarker” posted three photos taken at a ski resort: two were landscapes, the other shot of his friend. When Google Photos merged the three a weird thing happened, as his friend’s head was rendered as a peak-like giant peering out from the forest.
+
+The photo made the r/funny subreddit top ten and has received 202k upvotes. Social media hailed the Google algorithm’s smart blending of the images while mocking its stupidity for missing compositional basics.
+
+Blended image by Google Photos.
+
+LG robot Cloi gets stagefright at its unveiling
+
+January 8 was supposed to be the day when LG’s IoT AI assistant Cloi made its stunning debut at CES 2018 in Las Vegas. Cloi was presented as a simple and pleasant interface able to recognize voice commands to control home appliances. However when the cute robot took to the stage for its live demo, with the audience watching and waiting, and waiting… it failed to respond to commands from LG’s marketing chief, producing only awkward silence.
+
+Boston Dynamics robot blooper
+
+SoftBank-owned robot-maker Boston Dynamics has wowed the Internet more than once this year: Its robodog SpotMini can deftly open doors with its head-mounted gripper arm; and its humanoid robot Atlas can now do parkour — smoothly jumping over a log and leaping up a series of 40cm steps without breaking pace.
+
+But even Boston Dynamics has its “oops” moments: In its debut at the Congress of Future Scientists and Technologists, Atlas lifted boxes etc. in a flawless demo. But just as Atlas had wrapped its demo and was attempting to leave, the poor robot tripped over a curtain and awkwardly tumbled off the stage. On the bright side, it fell much like a human might.
+
+Boston Dynamics robot Atlas jumps over a log.
+
+AI World Cup 2018 predictions almost all wrong
+
+The World Cup 2018 was the top sporting event of year, and AI researchers at Goldman Sachs, German Technische University of Dortmund, Electronic Arts, Perm State National Research University and other institutions ran machine learning models to predict outcomes for the multi-stage competition. Most however were totally wrong, with only EA — which ran its simulations using new ratings for its video game FIFA 18 — correctly favouring winner France. The EA game engine is backed by numerous machine learning techniques designed to make player performance as realistic as possible.
+
+SQL Services Data Scientist Nick Burns offered an explanation: “No matter how good your models are, they are only as good as your data… recent football data just isn’t enough to predict the performance in the World Cup. There’s too much missing information and undefined influences.”
+
+Startup claims to predict IQ from faces
+
+Israeli machine learning startup Faception made the controversial claim that its AI tech could analyse facial images and bone structure to reveal people’s IQ, personality, and even violent tendencies. Data scientist Ben Snyder rebuked the company’s tech on Twitter: “That’s phrenology. You just made the ML equivalent of a racist uncle.” The tweet has received over 6,500 retweets and almost 17,000 likes.. Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+Amazon has scrapped a “sexist” tool that used artificial intelligence to decide the best candidates to hire for jobs.
+
+Members of the team working on the system said it effectively taught itself that male candidates were preferable.
+
+The artificial intelligence software was created by a team at Amazon’s Edinburgh office in 2014 as a way to automatically sort through CVs and select the most talented applicants.
+
+But the algorithm rapidly taught itself to favour male candidates over female ones, according to members of the team who spoke to Reuters.
+
+They realised it was penalising CVs that included the word “women’s,” such as “women’s chess club captain.” It also reportedly downgraded graduates of two all-women’s colleges.
+
+The problem arose from the fact the system was trained on data submitted by applicants over a 10-year period – much of which was said to have come from men.
+
+Five members of the team who developed the machine learning tool - none of whom wanted to be named publicly - said the system was intended to review job applications and give applicants a score ranging from one to five stars.
+
+Some of the team members pointed to the fact this mirrored the way shoppers rate products on Amazon.
+
+World news in pictures Show all 50 1 / 50 World news in pictures World news in pictures 30 September 2020 Pope Francis prays with priests at the end of a limited public audience at the San Damaso courtyard in The Vatican AFP via Getty World news in pictures 29 September 2020 A girl's silhouette is seen from behind a fabric in a tent along a beach by Beit Lahia in the northern Gaza Strip AFP via Getty World news in pictures 28 September 2020 A Chinese woman takes a photo of herself in front of a flower display dedicated to frontline health care workers during the COVID-19 pandemic in Beijing, China. China will celebrate national day marking the founding of the People's Republic of China on October 1st Getty World news in pictures 27 September 2020 The Glass Mountain Inn burns as the Glass Fire moves through the area in St. Helena, California. The fast moving Glass fire has burned over 1,000 acres and has destroyed homes Getty World news in pictures 26 September 2020 A villager along with a child offers prayers next to a carcass of a wild elephant that officials say was electrocuted in Rani Reserve Forest on the outskirts of Guwahati, India AFP via Getty World news in pictures 25 September 2020 The casket of late Supreme Court Justice Ruth Bader Ginsburg is seen in Statuary Hall in the US Capitol to lie in state in Washington, DC AFP via Getty World news in pictures 24 September 2020 An anti-government protester holds up an image of a pro-democracy commemorative plaque at a rally outside Thailand's parliament in Bangkok, as activists gathered to demand a new constitution AFP via Getty World news in pictures 23 September 2020 A whale stranded on a beach in Macquarie Harbour on the rugged west coast of Tasmania, as hundreds of pilot whales have died in a mass stranding in southern Australia despite efforts to save them, with rescuers racing to free a few dozen survivors The Mercury/AFP via Getty World news in pictures 22 September 2020 State civil employee candidates wearing face masks and shields take a test in Surabaya AFP via Getty World news in pictures 21 September 2020 A man sweeps at the Taj Mahal monument on the day of its reopening after being closed for more than six months due to the coronavirus pandemic AP World news in pictures 20 September 2020 A deer looks for food in a burnt area, caused by the Bobcat fire, in Pearblossom, California EPA World news in pictures 19 September 2020 Anti-government protesters hold their mobile phones aloft as they take part in a pro-democracy rally in Bangkok. Tens of thousands of pro-democracy protesters massed close to Thailand's royal palace, in a huge rally calling for PM Prayut Chan-O-Cha to step down and demanding reforms to the monarchy AFP via Getty World news in pictures 18 September 2020 Supporters of Iraqi Shi'ite cleric Moqtada al-Sadr maintain social distancing as they attend Friday prayers after the coronavirus disease restrictions were eased, in Kufa mosque, near Najaf, Iraq Reuters World news in pictures 17 September 2020 A protester climbs on The Triumph of the Republic at 'the Place de la Nation' as thousands of protesters take part in a demonstration during a national day strike called by labor unions asking for better salary and against jobs cut in Paris, France EPA World news in pictures 16 September 2020 A fire raging near the Lazzaretto of Ancona in Italy. The huge blaze broke out overnight at the port of Ancona. Firefighters have brought the fire under control but they expected to keep working through the day EPA World news in pictures 15 September 2020 Russian opposition leader Alexei Navalny posing for a selfie with his family at Berlin's Charite hospital. In an Instagram post he said he could now breathe independently following his suspected poisoning last month Alexei Navalny/Instagram/AFP World news in pictures 14 September 2020 Japan's Prime Minister Shinzo Abe, Chief Cabinet Secretary Yoshihide Suga, former Defense Minister Shigeru Ishiba and former Foreign Minister Fumio Kishida celebrate after Suga was elected as new head of the ruling party at the Liberal Democratic Party's leadership election in Tokyo Reuters World news in pictures 13 September 2020 A man stands behind a burning barricade during the fifth straight day of protests against police brutality in Bogota AFP via Getty World news in pictures 12 September 2020 Police officers block and detain protesters during an opposition rally to protest the official presidential election results in Minsk, Belarus. Daily protests calling for the authoritarian president's resignation are now in their second month AP World news in pictures 11 September 2020 Members of 'Omnium Cultural' celebrate the 20th 'Festa per la llibertat' ('Fiesta for the freedom') to mark the Day of Catalonia in Barcelona. Omnion Cultural fights for the independence of Catalonia EPA World news in pictures 10 September 2020 The Moria refugee camp, two days after Greece's biggest migrant camp, was destroyed by fire. Thousands of asylum seekers on the island of Lesbos are now homeless AFP via Getty World news in pictures 9 September 2020 Pope Francis takes off his face mask as he arrives by car to hold a limited public audience at the San Damaso courtyard in The Vatican AFP via Getty World news in pictures 8 September 2020 A home is engulfed in flames during the "Creek Fire" in the Tollhouse area of California AFP via Getty World news in pictures 7 September 2020 A couple take photos along a sea wall of the waves brought by Typhoon Haishen in the eastern port city of Sokcho AFP via Getty World news in pictures 6 September 2020 Novak Djokovic and a tournament official tends to a linesperson who was struck with a ball by Djokovic during his match against Pablo Carreno Busta at the US Open USA Today Sports/Reuters World news in pictures 5 September 2020 Protesters confront police at the Shrine of Remembrance in Melbourne, Australia, during an anti-lockdown rally AFP via Getty World news in pictures 4 September 2020 A woman looks on from a rooftop as rescue workers dig through the rubble of a damaged building in Beirut. A search began for possible survivors after a scanner detected a pulse one month after the mega-blast at the adjacent port AFP via Getty World news in pictures 3 September 2020 A full moon next to the Virgen del Panecillo statue in Quito, Ecuador EPA World news in pictures 2 September 2020 A Palestinian woman reacts as Israeli forces demolish her animal shed near Hebron in the Israeli-occupied West Bank Reuters World news in pictures 1 September 2020 Students protest against presidential elections results in Minsk TUT.BY/AFP via Getty World news in pictures 31 August 2020 The pack rides during the 3rd stage of the Tour de France between Nice and Sisteron AFP via Getty World news in pictures 30 August 2020 Law enforcement officers block a street during a rally of opposition supporters protesting against presidential election results in Minsk, Belarus Reuters World news in pictures 29 August 2020 A woman holding a placard reading "Stop Censorship - Yes to the Freedom of Expression" shouts in a megaphone during a protest against the mandatory wearing of face masks in Paris. Masks, which were already compulsory on public transport, in enclosed public spaces, and outdoors in Paris in certain high-congestion areas around tourist sites, were made mandatory outdoors citywide on August 28 to fight the rising coronavirus infections AFP via Getty World news in pictures 28 August 2020 Japanese Prime Minister Shinzo Abe bows to the national flag at the start of a press conference at the prime minister official residence in Tokyo. Abe announced he will resign over health problems, in a bombshell development that kicks off a leadership contest in the world's third-largest economy AFP via Getty World news in pictures 27 August 2020 Residents take cover behind a tree trunk from rubber bullets fired by South African Police Service (SAPS) in Eldorado Park, near Johannesburg, during a protest by community members after a 16-year old boy was reported dead AFP via Getty World news in pictures 26 August 2020 People scatter rose petals on a statue of Mother Teresa marking her 110th birth anniversary in Ahmedabad AFP via Getty World news in pictures 25 August 2020 An aerial view shows beach-goers standing on salt formations in the Dead Sea near Ein Bokeq, Israel Reuters World news in pictures 24 August 2020 Health workers use a fingertip pulse oximeter and check the body temperature of a fisherwoman inside the Dharavi slum during a door-to-door Covid-19 coronavirus screening in Mumbai AFP via Getty World news in pictures 23 August 2020 People carry an idol of the Hindu god Ganesh, the deity of prosperity, to immerse it off the coast of the Arabian sea during the Ganesh Chaturthi festival in Mumbai, India Reuters World news in pictures 22 August 2020 Firefighters watch as flames from the LNU Lightning Complex fires approach a home in Napa County, California AP World news in pictures 21 August 2020 Members of the Israeli security forces arrest a Palestinian demonstrator during a rally to protest against Israel's plan to annex parts of the occupied West Bank AFP via Getty World news in pictures 20 August 2020 A man pushes his bicycle through a deserted road after prohibitory orders were imposed by district officials for a week to contain the spread of the Covid-19 in Kathmandu AFP via Getty World news in pictures 19 August 2020 A car burns while parked at a residence in Vacaville, California. Dozens of fires are burning out of control throughout Northern California as fire resources are spread thin AFP via Getty World news in pictures 18 August 2020 Students use their mobile phones as flashlights at an anti-government rally at Mahidol University in Nakhon Pathom. Thailand has seen near-daily protests in recent weeks by students demanding the resignation of Prime Minister Prayut Chan-O-Cha AFP via Getty World news in pictures 17 August 2020 Members of the Kayapo tribe block the BR163 highway during a protest outside Novo Progresso in Para state, Brazil. Indigenous protesters blocked a major transamazonian highway to protest against the lack of governmental support during the COVID-19 novel coronavirus pandemic and illegal deforestation in and around their territories AFP via Getty World news in pictures 16 August 2020 Lightning forks over the San Francisco-Oakland Bay Bridge as a storm passes over Oakland AP World news in pictures 15 August 2020 Belarus opposition supporters gather near the Pushkinskaya metro station where Alexander Taraikovsky, a 34-year-old protester died on August 10, during their protest rally in central Minsk AFP via Getty World news in pictures 14 August 2020 AlphaTauri's driver Daniil Kvyat takes part in the second practice session at the Circuit de Catalunya in Montmelo near Barcelona ahead of the Spanish F1 Grand Prix AFP via Getty World news in pictures 13 August 2020 Soldiers of the Brazilian Armed Forces during a disinfection of the Christ The Redeemer statue at the Corcovado mountain prior to the opening of the touristic attraction in Rio AFP via Getty World news in pictures 12 August 2020 Young elephant bulls tussle playfully on World Elephant Day at the Amboseli National Park in Kenya AFP via Getty
+
+“They literally wanted it to be an engine where I’m going to give you 100 resumes, it will spit out the top five, and we’ll hire those,” one of the engineers said.
+
+But by 2015, it was obvious the system was not rating candidates in a gender-neutral way because it was built on data accumulated from CVs submitted to the firm mostly from males.
+
+Recommended Amazon Alexa will now listen for strangers in your house
+
+The project was discarded but Reuters said it was used for a period by recruiters who examined the recommendations generated by the tool but were never exclusively dependent on it.
+
+Automation has played a critical role in Amazon’s e-commerce clout – from inside the actual warehouses to influencing pricing decisions.
+
+According to a survey by software firm CareerBuilder, about 55 per cent of US human resources managers said AI would have a role to play in recruitment within the next five years.
+
+But concerns have previously been raised about how trustworthy and consistent algorithms which are trained on information which has the possibility of being biased will be.
+
+In May last year, a report claimed that an AI-generated computer program used by an American court for risk assessment was biased against black prisoners.
+
+The program flagged black people were twice as likely as white people to re-offend due to the flawed information that it was learning from.
+
+Support free-thinking journalism and attend Independent events
+
+As the tech industry creates artificial intelligence, there is the risk that it inserts sexism, racism and other deep-rooted prejudices into code that will go on to make decisions for years to come.
+
+Charlotte Morrison, general manager of global branding and design agency Landor, told The Independent: “The fact that Amazon’s system taught itself that male candidates were preferable, penalising resumes that included the word ‘women’s’, is hardly surprising when you consider 89 per cent of the engineering workforce is male.
+
+“Brands need to be careful that when creating and using technology it does not backfire by highlighting society’s own imperfections and prejudices.
+
+“The long-term solution is of course getting more diverse candidates into STEM education and careers – until then, brands need to be alert to the dangers of brand and reputational damage from biased, sexist, and even racist technology.”
+
+Amazon did not immediately respond to The Independent’s request for comment.. . Amazon decided to shut down its experimental artificial intelligence (AI) recruiting tool after discovering it discriminated against women. The company created the tool to trawl the web and spot potential candidates, rating them from one to five stars. But the algorithm learned to systematically downgrade women’s CV’s for technical jobs such as software developer.
+
+Although Amazon is at the forefront of AI technology, the company couldn’t find a way to make its algorithm gender-neutral. But the company’s failure reminds us that AI develops bias from a variety of sources. While there’s a common belief that algorithms are supposed to be built without any of the bias or prejudices that colour human decision making, the truth is that an algorithm can unintentionally learn bias from a variety of different sources. Everything from the data used to train it, to the people who are using it, and even seemingly unrelated factors, can all contribute to AI bias.
+
+AI algorithms are trained to observe patterns in large data sets to help predict outcomes. In Amazon’s case, its algorithm used all CVs submitted to the company over a ten-year period to learn how to spot the best candidates. Given the low proportion of women working in the company, as in most technology companies, the algorithm quickly spotted male dominance and thought it was a factor in success.
+
+Because the algorithm used the results of its own predictions to improve its accuracy, it got stuck in a pattern of sexism against female candidates. And since the data used to train it was at some point created by humans, it means that the algorithm also inherited undesirable human traits, like bias and discrimination, which have also been a problem in recruitment for years.
+
+Some algorithms are also designed to predict and deliver what users want to see. This is typically seen on social media or in online advertising, where users are shown content or advertisements that an algorithm believes they will interact with. Similar patterns have also been reported in the recruiting industry.
+
+One recruiter reported that while using a professional social network to find candidates, the AI learned to give him results most similar to the profiles he initially engaged with. As a result, whole groups of potential candidates were systematically removed from the recruitment process entirely.
+
+However, bias also appears for other unrelated reasons. A recent study into how an algorithm delivered ads promoting STEM jobs showed that men were more likely to be shown the ad, not because men were more likely to click on it, but because women are more expensive to advertise to. Since companies price ads targeting women at a higher rate (women drive 70% to 80% of all consumer purchases), the algorithm chose to deliver ads more to men than to women because it was designed to optimise ad delivery while keeping costs low.
+
+But if an algorithm only reflects patterns in the data we give it, what its users like, and the economic behaviours that occur in its market, isn’t it unfair to blame it for perpetuating our worst attributes? We automatically expect an algorithm to make decisions without any discrimination when this is rarely the case with humans. Even if an algorithm is biased, it may be an improvement over the current status quo.
+
+To fully benefit from using AI, it’s important to investigate what would happen if we allowed AI to make decisions without human intervention. A 2018 study explored this scenario with bail decisions using an algorithm trained on historical criminal data to predict the likelihood of criminals re-offending. In one projection, the authors were able to reduce crime rates by 25% while reducing instances of discrimination in jailed inmates.
+
+Yet the gains highlighted in this research would only occur if the algorithm was actually making every decision. This would be unlikely to happen in the real world as judges would probably prefer to choose whether or not to follow the algorithm’s recommendations. Even if an algorithm is well designed, it becomes redundant if people choose not to rely on it.
+
+Many of us already rely on algorithms for many of our daily decisions, from what to watch on Netflix or buy from Amazon. But research shows that people lose confidence in algorithms faster than humans when they see them make a mistake, even when the algorithm performs better overall.
+
+For example, if your GPS suggests you use an alternative route to avoid traffic that ends up taking longer than predicted, you’re likely to stop relying on your GPS in the future. But if taking the alternate route was your decision, it’s unlikely you will stop trusting your own judgement. A follow-up study on overcoming algorithm aversion even showed that people were more likely to use an algorithm and accept its errors if given the opportunity to modify the algorithm themselves, even if it meant making it perform imperfectly.
+
+While humans might quickly lose trust in flawed algorithms, many of us tend to trust machines more if they have human features. According to research on self-driving cars, humans were more likely to trust the car and believed it would perform better if the vehicle’s augmented system had a name, a specified gender, and a human-sounding voice. However, if machines become very human-like, but not quite, people often find them creepy, which could affect their trust in them.
+
+Even though we don’t necessarily appreciate the image that algorithms may reflect of our society, it seems that we are still keen to live with them and make them look and act like us. And if that’s the case, surely algorithms can make mistakes too?
+
+Maude Lavanchy is Research Associate at IMD.
+
+This article was first published by The Conversation.. London | Amazon has scrapped a "sexist" internal tool that used artificial intelligence to sort through job applications.
+
+The program was created by a team at Amazon's Edinburgh office in 2014 as a way to sort through CVs and pick out the most promising candidates. However, it taught itself to prefer male candidates over female ones, members of the team told Reuters.
+
+They noticed that it was penalising CVs that included the word "women's", such as "women's chess club captain". It also reportedly downgraded graduates of two all-women's colleges.
+
+Amazon CEO Jeff Bezos. Women make up 40 per cent of Amazon's workforce. AP
+
+The problem stemmed from the fact that the system was trained on data submitted by people over a 10-year period, most of which came from men.
+
+The AI was tweaked in an attempt to fix the bias. However, last year, Amazon lost faith in its ability to be neutral and abandoned the project. Amazon recruiters are believed to have used the system to look at the recommendations when hiring, but did not rely on the rankings. Currently, women make up 40 per cent of Amazon's workforce.. Some parts of machine learning are incredibly esoteric and hard to grasp, surprising even seasoned computer science pros; other parts of it are just the same problems that programmers have contended with since the earliest days of computation. The problem Amazon had with its machine-learning-based system for screening job applicants was the latter.
+
+
+
+Amazon understood that it had a discriminatory hiring process: the unconscious biases of its technical leads resulted in the company passing on qualified woman applicants. This isn't just unfair, it's also a major business risk, because qualified developers are the most scarce element of modern businesses.
+
+
+
+
+
+So they trained a machine-learning system to evaluate incoming resumes, hoping it would overcome the biases of the existing hiring system.
+
+
+
+
+
+Of course, they trained it with the resumes of Amazon's existing stable of successful job applicants — that is, the predominantly male workforce that had been hired under the discriminatory system they hoped to correct.
+
+
+
+
+
+The computer science aphorism to explain this is "garbage in, garbage out," or GIGO. It is pretty self-explanatory, but just in case, GIGO is the phenomenon in which bad data put through a good system produces bad conclusions.
+
+
+
+
+
+Amazon built the system in 2014 and scrapped it in 2017, after concluding that it was unsalvagable — sources told Reuters that it rejected applicants from all-woman colleges, and downranked resume's that included the word "women's" as in "women's chess club captain." Amazon says it never relied on the system.
+
+
+
+
+
+There is a "machine learning is hard" angle to this: while the flawed outcomes from the flawed training data was totally predictable, the system's self-generated discriminatory criteria were surprising and unpredictable. No one told it to downrank resumes containing "women's" — it arrived at that conclusion on its own, by noticing that this was a word that rarely appeared on the resumes of previous Amazon hires.
+
+The group created 500 computer models focused on specific job functions and locations. They taught each to recognize some 50,000 terms that showed up on past candidates' resumes. The algorithms learned to assign little significance to skills that were common across IT applicants, such as the ability to write various computer codes, the people said. Instead, the technology favored candidates who described themselves using verbs more commonly found on male engineers' resumes, such as "executed" and "captured," one person said. Gender bias was not the only issue. Problems with the data that underpinned the models' judgments meant that unqualified candidates were often recommended for all manner of jobs, the people said. With the technology returning results almost at random, Amazon shut down the project, they said.
+
+Amazon scraps secret AI recruiting tool that showed bias against women [Jeffrey Dastin/Reuters]
+
+
+
+
+
+(Image: Cryteria, CC-BY). Thanks to Amazon, the world has a nifty new cautionary tale about the perils of teaching computers to make human decisions.
+
+According to a Reuters report published Wednesday, the tech giant decided last year to abandon an “experimental hiring tool” that used artificial intelligence to rate job candidates, in part because it discriminated against women. Recruiters reportedly looked at the recommendations the program spat out while searching for talent, “but never relied solely on those rankings.”
+
+The misadventure began in 2014, when a group of Amazon engineers in Scotland set out to mechanize the company’s head-hunting process, by creating a program that would scour the Internet for worthwhile job candidates (and presumably save Amazon’s HR staff some soul crushing hours clicking around LinkedIn). “Everyone wanted this holy grail,” a source told Reuters. “They literally wanted it to be an engine where I’m going to give you 100 resumes, it will spit out the top five, and we’ll hire those.”
+
+It didn’t pan out that way. In 2015, the team realized that its creation was biased in favor of men when it came to hiring technical talent, like software developers. The problem was that they trained their machine learning algorithms to look for prospects by recognizing terms that had popped up on the resumes of past job applicants—and because of the tech world’s well-known gender imbalance, those past hopefuls tended to be men.
+
+“In effect, Amazon’s system taught itself that male candidates were preferable. It penalized resumes that included the word ‘women’s,’ as in ‘women’s chess club captain.’ And it downgraded graduates of two all-women’s colleges,” Reuters reported. The program also decided that basic tech skills, like the ability to write code, which popped up on all sorts of resumes, weren’t all that important, but grew to like candidates who littered their resumes with macho verbs such as “executed” and “captured.”
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+After years of trying to fix the project, Amazon brass reportedly “lost hope“ and shuttered the effort in 2017.
+
+All of this is a remarkably clear-cut illustration of why many tech experts are worried that, rather than remove human biases from important decisions, artificial intelligence will simply automate them. An investigation by ProPublica, for instance, found that algorithms judges use in criminal sentencing may dole out harsher penalties to black defendants than white ones. Google Translate famously introduced gender biases into its translations. The issue is that these programs learn to spot patterns and make decisions by analyzing massive data sets, which themselves are often a reflection of social discrimination. Programmers can try to tweak the A.I. to avoid those undesirable results, but they may not think to, or be successful even if they try.
+
+Amazon deserves some credit for realizing its tool had a problem, trying to fix it, and eventually moving on (assuming it didn’t have a serious impact on the company’s recruiting over the last few years). But, at a time when lots of companies are embracing artificial intelligence for things like hiring, what happened at Amazon really highlights that using such technology without unintended consequences is hard. And if a company like Amazon can’t pull it off without problems, it’s difficult to imagine that less sophisticated companies can.. Gear-obsessed editors choose every product we review. We may earn commission if you buy from a link. Why Trust Us?
+
+Algorithms are often pitched as being superior to human judgement, taking the guesswork out of decisions ranging from driving to writing an email. But they're still programmed by humans and trained on the data that humans create, which means they are tied to us for better or worse. Amazon found this out the hard way when the company's AI recruitment software, trained to review job applications, turned out to discriminate against women applicants.
+
+In place since 2014, the software was built to find the top talent by digging through mountains of applications. The AI would rate applicants on a scale of 1 to 5 stars, like you might rate a product on Amazon.
+
+
+
+“Everyone wanted this holy grail,” a person involved with the algorithm tells Reuters. “They literally wanted it to be an engine where I’m going to give you 100 resumes, it will spit out the top five, and we’ll hire those.”
+
+The model was trained to look at Amazon hiring patterns for software developer jobs and technical position over the last decade. While on the surface this makes sense—in the last 10 years Amazon has grown tremendously, a good sign that it has hired the right people—in practice it only reproduced the Most of the hires over the last 10 years had, in fact, been men, and the algorithm began taking this into account.
+
+It began to penalize resumes that included the word "women," meaning phrases like "volunteered with Women Who Code" would be marked against the applicant. It specifically targeted two all-women's colleges, although sources would not tell Reuters which ones.
+
+The company was able to edit the algorithm to eliminate these two particular biases. But a larger question arose—what other biases was the AI reinforcing that weren't quite so obvious? There was no way to be sure. After several attempts to correct the program, Amazon executives eventually lost interest in 2017. The algorithm was abandoned.
+
+The incident shows that because humans are imperfect, their imperfections can get baked into the algorithms built in hopes of avoiding such problems. AIs can do things we might never dream of doing ourselves, but we can never ignore a dangerous and unavoidable truth: They have to learn from us.
+
+
+
+UPDATE, Oct 11: Amazon reached out through a spokesperson to PopMech with a statement, saying that “This was never used by Amazon recruiters to evaluate candidates.”
+
+Source: Reuters. . . It was supposed to make finding the right person for the job easier. However, an AI tool developed by Amazon to sift through potential hires has been dropped by the firm after developers found it was biased against picking women.
+
+From pricing items to warehouse coordination, automation has been a key part of Amazon’s rise to e-commerce domination. And since 2014, its developers have been creating hiring programs aimed at making the selection of top talent as easy and as automated as possible.
+
+“Everyone wanted this holy grail,” one of the anonymous sources told Reuters about the ambitions for the software.
+
+“They literally wanted it to be an engine where I’m going to give you 100 resumes, it will spit out the top five, and we’ll hire those.”
+
+However, a leak by several of those familiar with the program give an insight into some of the mishaps in the AI-based hiring software’s development, and how it taught itself to penalize women… for being women.
+
+It was in 2015 that human recruiters first noticed discrepancies with the tool, when it seemingly marked down female candidates for roles in the male-dominated spheres of software development and other technical roles at the firm.
+
+When the engine came across words like “women’s” on a resume, or if a candidate graduated from an all-women’s college, it unfairly penalized female candidates from selection, the sources said.
+
+Investigations into the cause of the gender imbalance found that the data which fed the algorithm was based on ten years of resumes sent to the company. The vast majority of which were submitted by men.
+
+The algorithm in turn learned to dismiss female candidates as a negative leading to its sexist scoring system.
+
+Edits were made by programmers to make the engine neutral to these particular terms, however, there was no certainty that it wouldn't develop other ways to discriminate in future.
+
+READ MORE: Racist & sexist AI bots could deny you job, insurance & loans – tech experts
+
+Dejected executives eventually scrapped the team in 2017 after losing hope in the project. An Amazon spokesperson told RT that the project never made it out of the trial phase. In addition to its apparent bias, the software "never returned storng candidates for the roles." Now, a “much-watered down version” is instead used for minor HR tasks such as sorting out duplicate applicants from its databases.
+
+Amazon’s sexist algorithms isn’t the first time AI has landed tech firms in hot water. Last month Facebook got flack after it was discovered that women users were prevented from seeing job advertisements in traditionally male-dominated industries.
+
+In May 2016, a report found that a US court that used automated software to provide risk assessments was biased against black prisoners, recording them as twice as likely to reoffend as their white counterparts.
+
+Think your friends would be interested? Share this story!. Why Global Citizens Should Care
+
+Gender discrimination in the workplace prevents women from achieving to their full potential. Eliminating gender inequality in the workforce would greatly increase economic activity. When half of the population is held back, we’re all held back. You can join us by taking action here to take a stand for true gender equality.
+
+Tech giant Amazon has abandoned an artificial intelligence (AI) tool it had been building for three years after determining that the system was discriminating against women, reports Reuters.
+
+The AI tool, intended to help with recruitment by trawling for candidates online, reportedly downgraded résumés containing the word "women's" and filtered out potential hires who had attended two women-only colleges, noted Business Insider.
+
+Take Action: Sign the petition calling on influential companies to support women-owned businesses.
+
+“Everyone wanted this holy grail,” one source told Reuters. "They literally wanted it to be an engine where I'm going to give you 100 résumés, it will spit out the top five, and we'll hire those."
+
+The AI tool was built using past résumés submitted to Amazon over a 10-year period as a reference point for hiring, Business Insider reported. Because these résumés were predominantly submitted by male applicants, the tool perpetuated this pattern and developed a bias against female hires, presuming male candidates were preferable.
+
+Read More: This Trailblazing South African Pilot Is Now Working to Get Girls Into Science
+
+While engineers attempted to tweak the system, glitches remained and executives lost faith in pursuing the project by early 2017, according to the Reuters report.
+
+The case study sets a dismal precedent for other companies hoping to harness similar technology in the near future. According to a 2017 survey by talent software firm CareerBuilder, approximately 55% of US human resources managers said AI would be a regular part of their work within the next five years.
+
+“How to ensure that the algorithm is fair, how to make sure the algorithm is really interpretable and explainable — that’s still quite far off,” said Nihar Shah, a computer scientist who teaches machine learning at Carnegie Mellon University, in an interview with Reuters.
+
+John Jersin, vice president of LinkedIn Talent Solutions, also told Reuters that he didn’t see the service as a replacement for traditional recruiters.
+
+Read More: Your Wedding Could Help End Child Marriage
+
+“I certainly would not trust any AI system today to make a hiring decision on its own,” he said. “The technology is just not ready yet.”
+
+Amazon is reportedly now testing a new version of the automated employment screening, focused on diversity.. . . . Did you hear the one about my wife — well, she… is a really nice person, actually.
+
+We know that people suffer from bias. Alas, a growing pile of evidence suggests AI can be too.
+
+Now it seems that Amazon has found this out the hard way — after investing in an AI recruitment tool.
+
+Ethical AI – the answer is clear Being transparent with ethical AI is vital to engaging with the public in a responsible manner.
+
+The idea was for the AI engine to scan job applications and give hopeful recruits a score between one and five. Reuters quoted one engineer saying: “They literally wanted it to be an engine where I’m going to give you 100 resumes, it will spit out the top five, and we’ll hire those.”
+
+Alas, it started weeding out CVs that included a certain five letter word. The ‘W’ word — women, there said it.
+
+This was back in 2015, let’s face it, as far as AI is concerned, 2015 is ancient history.
+
+>See also: Regulating robots: keeping an eye on AI
+
+It’s not news to learn that AI can be something of a bigot.
+
+In 2016, it emerged that US risk assessment algorithms — used by courtrooms throughout the country to decide the fates and freedoms of those on trial – are racially biased, frequently sentencing Caucasians more leniently than African Americans despite no difference in the type of crime committed. How could this happen within a system that’s supposed to be neutral?
+
+AI researcher Professor Joanna Bryson, said at the time: “If the underlying data reflects stereotypes, or if you train AI from human culture, you will find bias.”
+
+>See also: Augmented intelligence: why the human element can’t be forgotten
+
+This brings us to the issue of diversity. Scot E Page is an expert on diversity and complex systems. Areas where he is most well-known include ‘collective wisdom’.
+
+He is famous for saying “progress depends as much on our collective differences as it does on our individual IQ scores.”
+
+And: “If we can understand how to leverage diversity to achieve better performance and greater robustness, we might anticipate and prevent collapses.”
+
+AI, however, because of the way it learns from data, can reflect the biases in society.
+
+“The fact that Amazon’s system taught itself that male candidates were preferable, penalising resumes that included the word ‘women’s’, is hardly surprising when you consider 89% of the engineering workforce is male,” observed Charlotte Morrison, General Manager of global branding and design agency, Landor.
+
+She added: “Brands need to be careful that when creating and using technology it does not backfire by highlighting society’s own imperfections and prejudices. The long-term solution is of course getting more diverse candidates into STEM education and careers – until then, brands need to be alert to the dangers of brand and reputational damage from biased, sexist, and even racist technology.”
+
+>See also: Augmented intelligence: predicting the best customer moments. Amazon had to scrap its AI hiring tool because it was ‘sexist’ and discriminated against female applicants, a report from Reuters has found.
+
+Amazon’s hopes for creating the perfect AI hiring tool were dashed when it realised that the algorithm contained one huge, glaring error: it was “sexist”, according to a report released by Reuters yesterday (10 October).
+
+Reuters reporter Jeffrey Dastin spoke to five machine-learning specialists, all of whom elected to remain anonymous. In 2014, these programmers were all working on hiring algorithms to sift through job applications for use in a recruitment tool. The tool used AI technology such as machine learning to rate each applicant between one and five stars, much in the same way Amazon products are rated.
+
+Amazon had hoped the tool would be a “holy grail”, according to one of the programmers. “They literally wanted it to be an engine where I’m going to give you 100 résumés, it will spit out the top five and we’ll hire those.”
+
+However, by 2015, it became apparent that the algorithm was discriminating based on gender. The computer models were trained to rate candidates by analysing patterns in résumés submitted to Amazon over the past 10-year period. Given that the tech industry has historically been, and continues to be, male-dominated, most of the applications the computer observed came from men.
+
+The system then taught itself that male candidates were preferred, and penalised applications that included the word ‘women’s’, such as in ‘women’s basketball team’ or ‘women’s chess club’. The programmers interviewed by Reuters said that the AI downgraded graduates of two all-women colleges. The programmers did not specify which colleges these applicants came from.
+
+While the company did attempt to edit the programs to make these terms appear neutral, it couldn’t guarantee that the tool wouldn’t continue to discriminate against women. The team was disbanded in 2015 after executives “lost hope” for the project, Reuters reported.
+
+Amazon said that the tool “was never used by Amazon recruiters to evaluate candidates” but stated that recruiters did look at the recommendations generated by the tool while hiring for positions at the company. The company declined to comment further on the matter.
+
+The HR community is becoming increasingly interested in the potential of AI to help speed up the recruitment process. In early 2018, a report on emerging HR trends released by LinkedIn found that 76pc of HR professionals acknowledged that AI will be at least somewhat significant to recruitment work in coming years. AIs were rated as most helpful at sourcing, screening and scheduling candidates.
+
+This recent development, however, may deflate AI enthusiasts hoping to roll out these technologies in their enterprises in the near future. As AIs are only as good as the sum of the data they are given, they will likely continue to reflect bias in a way that mirrors the diversity issues that exist in the real working world.
+
+Yet some would still argue that AI is the solution to human-generated biases. A HR study released by IBM found that recruiters spend as little as six seconds looking at a résumé that comes across their desk. IBM argues that when making decisions based purely on instant impressions, HR professionals are more inclined to fall back on their own implicit bias, something an AI could correct by helping to expedite the initial hiring stages.
+
+In any case, many of those working in HR harbouring fears that an AI may replace their job will likely breathe a sigh of relief knowing that the technology still has a long way to go before it totally supplants human workers.
+
+Amazon building in Santa Clara, California. Image: wolterke/Depositphotos. Amazon has been forced to scrap its AI recruitment system after it was discovered to be biased against female applicants.
+
+The AI was developed in 2014 by Amazon as a way of filtering out most candidates to provide the firm with the top five people for a position. In 2015 it was found that it wasn’t rating applicants in a gender-neutral way, which is a big problem and goes against Amazon’s attempts to level the playing field by having an objective AI do the early decision making.
+
+As it turns out, the problem lay in how the system was trained. As with everything in AI, a lack of diversity in the industry led it to be trained almost entirely upon male CVs. This meant that, as it was learning to detect the patterns in recruiting over a 10-year period, it was also learning to devalue the CVs of women.
+
+READ NEXT: What can we do about tech’s diversity problem?
+
+According to Reuters, the system taught itself that male candidates were preferable to women. It downgraded CVs if found words such as “women’s” and penalised graduates of all-female colleges.
+
+While Amazon recoded the software to make the AI neutral to these terms, it realised that this did not guarantee that the technology would find other methods of being discriminatory against women, the report said.
+
+The team, set up in Amazon’s Edinburgh engineering hub, created 500 models concentrated on detailed job functions and locations. The system was also taught to recognise around 50,000 terms that showed up on past candidates’ CVs.
+
+The technology learned to assign little importance to skills common across IT applicants, favouring terms more commonly found on male engineers’ resumes, such as “executed” and “captured,” the report said.
+
+READ NEXT: Do diversity quotas help or hinder women in tech?
+
+The model used in the AI system had other problems that led to unqualified candidates being recommended for a variety of unsuitable jobs.
+
+This eventually led to Amazon pulling the plug on the team as executives “lost hope” over the project, anonymous sources told Amazon. The tool could not be solely relied upon to sort candidates.
+
+The firm now uses a “much-watered down version” of the recruiting engine to carry out “rudimentary chores”.. . . . Amazon recently scrapped an experimental artificial intelligence (AI) recruiting tool that was found to be biased against women. At this point, I hope you might have a few questions, such as: What is an AI recruiting tool and how does it work? Why was it biased against women? I’ll try to answer them for you in the following.
+
+The AI Recruiting Tool
+
+You have certainly heard of human recruiters. They are matchmakers between employers and potential employees. They travel, send cold emails, and “network” at conferences and job fairs. When recruiters make a successful match, they get paid, sometimes by one party, sometimes by both. As you can see, this matchmaking dance is often expensive and time-consuming. Surely technology can help, right? A human recruiter can review at most a few dozen applicants per day, before she gets tired. In contrast, artificial intelligence can “read” thousands of applications in seconds and rank them based on desired criteria, showing the most promising candidates at the top. Understandably then, compared to a human recruiter, an AI recruiter would be more time and cost efficient. And now that the human recruiter doesn’t need to sift through and rank candidates, she can devote her time to reaching out to the best candidates and wooing them to accept an offer. What nice team-work between the human and AI recruiters!
+
+Unfortunately, things are never so simple. How can we ensure that the AI recruiter is being fair to all candidates? Can it offer explanations for why it didn’t suggest any women for a certain job opening? To answer these new questions, we need to understand how the AI tool “learns” to do its job.
+
+It all starts with a big “training” set of job applications. For years, companies have been requiring job applicants to submit all their materials online. For example, if you have been on the academic job market, you were probably asked to upload your resume, cover letter, and letters of recommendation in a website like AcademicJobsOnline.org. Big corporations like Amazon and Google, unlike universities, run their own job application sites. Therefore, over time, they have amassed thousands and thousands of application materials, all in electronic form. Additionally, they have recorded which applicants were successful in their job hunts. Thus, they have examples of the materials submitted by applicants who were hired and by applicants who were rejected. This information is then given to the AI tool to “learn” the characteristics that reflect a successful candidate. In the case of Amazon’s tool, the AI “learned” that words like “executed” and “captured” in a resume correlate with success. Meanwhile, it also “learned” that the presence of a phrase like “women’s” (as in “women’s chess captain”) correlates with rejection, and so the corresponding resume was downgraded.
+
+Artificial intelligence, despite all the hype (it will save the planet) and all the fear (it will kill mankind), is not, actually, intelligent. It has no idea what a word like “women’s” means and how it corresponds to entities in the real world. This kind of AI is only good at detecting patterns and finding relationships in the data we give it. So the data we provide to the AI, and what we tell it to do with it, is what matters the most.
+
+Why was the AI tool biased against women?
+
+The Amazon employees who talked to Reuters anonymously said that the AI tool downgraded applications of graduates from two women’s colleges, without specifying which colleges. This detail is what compelled me to write about the tool.
+
+I am a woman computer science professor who teaches Artificial Intelligence at Wellesley College, which is a women’s college. As is typical at a liberal arts college, my students not only take computer science and mathematics courses for their major, but also courses in social sciences, arts, and humanities, courses with titles such as “Introduction to Women’s and Gender Studies,” “Almost Touching the Sky: Women’s Coming of Age Stories,” or “From Mumbet to Michelle Obama: Black Women’s History.” They are more likely than many other students to have the phrase “women’s” in their job application materials. Some of these students might have even been in the pool of applicants deemed as “not worthy to be recruited” by Amazon’s AI tool.
+
+Every day, I stand in front of classrooms full of intelligent women, eager to learn about the beauty and power of algorithms. It pains me to find out that a major player like Amazon created and used algorithms that, ultimately, could have been used to crush their dreams of making their mark in the world by denying them the opportunity to join the teams of engineers who are designing and building our present and future technologies.
+
+Why did the AI tool downgrade women’s resumes? Two reasons: data and values. The jobs for which women were not being recommended by the AI tool were in software development. Software development is studied in computer science, a discipline whose enrollments have seen many ups and downs over the past two decades. For example, in 2008, when I joined Wellesley, the department graduated only 6 students with a CS degree. Compare that to 55 graduates in 2018, a nine-fold increase. Amazon fed its AI tool historical application data collected over 10 years. Those years most likely corresponded to the drought-years in CS. Nationally, women have received around 18% of all CS degrees for more than a decade. The issue of underrepresentation of women in technology is a well-known phenomenon that people have been writing about since the early 2000s. The data that Amazon used to train its AI reflected this gender gap that has persisted in years: few women were studying CS in the 2000s and fewer were being hired by tech companies. At the same time, women were also abandoning the field, which is infamous for its awful treatment of women. All things being equal (e.g., the list of courses in CS and math taken by female and male candidates, or projects they worked on), if women were not hired for a job at Amazon, the AI “learned” that the presence of phrases like “women’s” might signal a difference between candidates. Thus, during the testing phase, it penalized applicants who had that phrase in their resume. The AI tool became biased, because it was fed data from the real-world, which encapsulated the existing bias against women. Furthermore, it’s worth pointing out that Amazon is the only one of the five big tech companies (the others are Apple, Facebook, Google, and Microsoft), that hasn’t revealed the percentage of women working in technical positions. This lack of public disclosure only adds to the narrative of Amazon’s inherent bias against women.
+
+Could the Amazon team have predicted this? Here is where values come into play. Silicon Valley companies are famous for their neoliberal views of the world. Gender, race, and socioeconomic status are irrelevant to their hiring and retention practices; only talent and demonstrable success matter. So, if women or people of color are underrepresented, it’s because they are perhaps too biologically limited to be successful in the tech industry. The sexist cultural norms or the lack of successful role models that keep women and people of color away from the field are not to blame, according to this world view.
+
+To recognize such structural inequalities requires that one be committed to fairness and equity as fundamental driving values for decision-making. If you reduce humans to a list of words containing coursework, school projects, and descriptions of extra-curricular activities, you are subscribing to a very naive view of what it means to be “talented” or “successful.” Gender, race, and socioeconomic status are communicated through the words in a resume. Or, to use a technical term, they are the hidden variables generating the resume content.
+
+Most likely, the AI tool was biased against not just women, but other less privileged groups as well. Imagine that you have to work three jobs to finance your education. Would you have time to produce open-source software (unpaid work that some people do for fun) or attend a different hackathon every weekend? Probably not. But these are exactly the kinds of activities that you would need in order to have words like “executed” and “captured” in your resume, which the AI tool “learned” to see as signs of a desirable candidate.
+
+Let’s not forget that Bill Gates and Mark Zuckerberg were both able to drop out of Harvard to pursue their dreams of building tech empires because they had been learning code and effectively training for a career in tech since middle-school. The list of founders and CEOs of tech companies is composed exclusively of men, most of them white and raised in wealthy families. Privilege, across several different axes, fueled their success.
+
+Artificial Intelligence is not at fault here. The twisted values of what it means to be successful in the tech industry are the culprit. We need to expose these values and hold companies like Amazon accountable for continuing to abide by them. They must take responsibility for their fundamentally unfair practice of reducing humans to a “bag of words” in a resume, instead of nurturing and advancing their human potential.
+
+Image Credit: pathdoc, “Cartoon robot sitting in line with applicants for a job interview.” Shutterstock. Web. 30 October, 2018.. Amazon's AI gurus scrapped a new machine-learning recruiting engine earlier this month. Why? It transpired that the AI behind it was sexist. What does this mean as we race to produce ever-better artificial intelligence, and how can we understand the risks of machines learning the worst of our own traits?
+
+Trained on the past decade's worth of data about job applicants, the Amazon model began to penalize CVs that included the word “women.” The incident calls to mind another experiment in AI bias, Microsoft's “Tay” project, which the company pulled from the web after the bot learned racism from users it was chatting with on GroupMe and Kik. In Amazon's case, however, rogue users weren't to blame. The AI was learning from the historical data of tech's largest global company.
+
+An artificial intelligence that dislikes women or people of color sounds like a concept straight out of a Twilight Zone episode. But sadly, it's reality.
+
+How did we get to this situation? And is it possible to build an AI that won't reflect the bone-deep prejudices that are – knowingly or unknowingly – built into our social systems? To answer that second question, it's crucial to address the first one.
+
+How a Sexist AI Happens
+
+Okay, the first point to make is that sexist or racist AI doesn't emerge from nowhere. Instead, it reflects the prejudices already deeply held within both society at large, and the tech industry specifically.
+
+Don't believe us about sexism in tech? One study from earlier this year found that 57 out of 58 major U.S. cites paid women in tech less than men. Last year, two female tech cofounders demonstrated tech sexism at work by proving they could make better connections once they invented a fictional male cofounder.
+
+And as long as tech companies continue overlooking sexism, they'll keep perpetuating a system that prioritizes male applicants and promotes male staff.
+
+Sexist AIs Start With a Blinkered Industry…
+
+The tech world loves rapid growth above all else. But this year, it's finally begun to come to terms with the impact that its culture can make, and a sense of responsibility is finally taking root.
+
+Few sum it up better than former Reddit product head Dan McComas, whose recent New York Magazine interview (titled ‘I Fundamentally Believe That My Time at Reddit Made the World a Worse Place’) includes this insight:
+
+“The incentive structure is simply growth at all costs. There was never, in any board meeting that I have ever attended, a conversation about the users, about things that were going on that were bad, about potential dangers, about decisions that might affect potential dangers. There was never a conversation about that stuff.”
+
+…And Machine Learning Perpetuates Them
+
+It's this attitude that's at the core of prejudiced AI, which perpetuates the system just as clearly, if a little more mechanically. As Lin Classon, director of public cloud strategy at Ensono, puts it, the process of machine learning is the issue.
+
+“Currently, the most common application of AI is based on feeding the machine lots of data and teaching it to recognize a pattern. Because of this, the results are as good as the data used to train the algorithms,” she tells me.
+
+Ben Dolmar, director of software development at the Nerdery, backs her up.
+
+“Almost all of the significant commercial activity in Artificial Intelligence is happening in the field of Machine Learning,” explains Ben. “It was machine learning that drove Alpha Go and it’s machine learning that is driving the leaps that we’re making in natural language processing, computer vision and a lot of recommendations engines.”
+
+Machine learning begins by providing a model with a core data set. The model trains on this before producing its own outputs. Any historical issues in the core data are then reproduced. Translation? Sexist data turns into sexist outputs.
+
+“It's not unlike painting with watercolors, where the brush has to be clean or it taints the colors,” says Classon. And, in modern society, sexism turns up everywhere, Classon says, whether it’s in “recruiting, loan applications or stock photos.” Or even in the emptiness of women's restrooms at major tech conferences, as Classon has pointed out to Tech.Co before.
+
+How to Combat AI Prejudice
+
+How do we solve a problem like AI prejudice? Classon boils it down to a key guiding principle: conscientious and collective vigilance. And that begins with ensuring the community behind the AI developments is equipped to spot the issues. Which takes us right back to the core problem of ensuring that a diverse developer community is in place, to find issues faster and address them more quickly.
+
+Practically speaking, Classon has further suggestions:
+
+Increased Transparency
+
+Right now, machine learning algorithms function like black boxes: Data goes in, trained models come out.
+
+“DARPA has recognized [that this leaves users unaware of how the system came to any decision] and is working on Explainable Artificial Intelligence so future AI will be able to explain the rationale behind each decision,” says Classon.
+
+In other words, the AI itself should need to explain its decision, opening up a conversation about how it got there.
+
+Routine Audits
+
+“An auditing approach can help mitigate the effect of inherent and unconscious biases. The machine learning and AI communities have an obligation to contribute to the larger data science,” Classon says, pointing me to one open source tool for bias testing that already exists.
+
+It's not just a tech problem: Innovative AI companies are responsible for auditing their work and developing standards that can improve the entire industry. One example is Microsoft's multidisciplinary FATE group. The accronym stands for “fairness, accountability, transparency and ethics,” and it's examining how an ethical AI could work.
+
+A Feedback Loop
+
+Instituting audits and transparency is a step, but we'll need to keep taking more and more steps to reduce a problem that will likely never be fully solved.
+
+“The biggest way to ensure a fair model would be to require a large number of users providing feedback from diverse backgrounds and perspectives,” Pamela Wickersham, senior global partner solutions manager at Docusign + SpringCM, tells me. “It’s unfortunately never going to be perfect, since user input and decision making will always be required. All models need a constant feedback loop, so that if sexism or prejudiced data is found to be prevalent, the model can be re-trained.”
+
+Track Down the Subtleties
+
+So, find the issues and you'll solve the problem, right? Not so fast.
+
+Let's go back to our most recent example of AI bias. Amazon was likely aware of the potential sexism problem and still couldn't correct it.
+
+“It appears like Amazon actively tried to address the bias in the dataset by removing features that would identify women. So, in theory, the output would be gender-neutral and select the best candidates,” Ben says. “However, machine learning models can key in on subtle differences, and what ended up happening is that the model basically found other, subtler ways to identify women and the bias returned in the output.”
+
+Even “highly reliable algorithms,” Ben notes, can turn up the wrong answer. Picture a model that's 99 percent accurate reviewing one million records. It'll get 10,000 incorrect results, and it won't be clear which ones those are.
+
+One method to address bias is to adjust a model's goals rather than the data. Data scientists and platform vendors, Ben says, are actively working to fight fire with fire. One demo from a major machine learning vendor at the Gartner ITXPO earlier this month debuted a model designed to monitor other machine-learning models, identifying their biases.
+
+“In a bit of irony,” Ben says, “the platform uses its own machine learning to generate the changes for the biased machine-learning models. Tools like this platform are what will ultimately help us address the bias that shows up in data when we accurately represent our current society and history. The problems here are hard, but they are tractable.”
+
+Where Next For AI?
+
+The bottom line? AI's reflection of our biases can be addressed, but only through a slow process that emphasises feedback, audits, fact-checks, and transparency.
+
+It's not unlike how prejudices must be addressed across the rest of society, too.. Machine learning, one of the core techniques in the field of artificial intelligence, involves teaching automated systems to devise new ways of doing things, by feeding them reams of data about the subject at hand. One of the big fears here is that biases in that data will simply be reinforced in the AI systems—and Amazon seems to have just provided an excellent example of that phenomenon.
+
+According to a new Reuters report, Amazon spent years working on a system for automating the recruitment process. The idea was for this AI-powered system to be able to look at a collection of resumes and name the top candidates. To achieve this, Amazon fed the system a decade’s worth of resumes from people applying for jobs at Amazon.
+
+The tech industry is famously male-dominated and, accordingly, most of those resumes came from men. So, trained on that selection of information, the recruitment system began to favor men over women.
+
+According to Reuters’ sources, Amazon’s system taught itself to downgrade resumes with the word “women’s” in them, and to assign lower scores to graduates of two women-only colleges. Meanwhile, it decided that words such as “executed” and “captured,” which are apparently deployed more often in the resumes of male engineers, suggested the candidate should be ranked more highly.
+
+The team tried to stop the system from taking such factors into account, but ultimately decided that it was impossible to stop it from finding new ways to discriminate against female candidates. There were apparently also issues with the underlying data that led the system to spit out rather random recommendations.
+
+And so, Amazon reportedly killed the project at the start of 2017.
+
+“This was never used by Amazon recruiters to evaluate candidates,” Amazon said in a statement.
+
+Amazon isn’t the only company to be alert to the problem of algorithmic bias. Earlier this year, Facebook said it was testing a tool called Fairness Flow, for spotting racial, gender or age biases in machine-learning algorithms. And what was the first target for Facebook’s tests of the new tool? Its algorithm for matching job-seekers with companies advertising positions.
+
+This article was updated to include Amazon’s statement.. . Amazon has scrapped a "sexist" internal tool that used artificial intelligence to sort through job applications.
+
+The AI was created by a team at Amazon's Edinburgh office in 2014 as a way to automatically sort through CVs and pick out the most promising candidates.
+
+However, it quickly taught itself to prefer male candidates over female ones, according to members of the team who spoke to Reuters.
+
+They noticed that it was penalising CVs that included the word "women's," such as "women's chess club captain." It also reportedly downgraded graduates of two all-women's colleges.
+
+The problem stemmed from the fact that the system was trained on data submitted by people over a 10-year period, most of which came from men.
+
+The AI was tweaked in an attempt to fix the bias. However, last year, Amazon lost faith in its ability to be neutral and abandoned the project altogether.
+
+Amazon recruiters are believed to have used the system to look at the recommendations when hiring, but didn't rely on the rankings. Currently, women make up 40pc of Amazon's workforce.
+
+Stevie Buckley, the co-founder of UK job website Honest Work, which is used by companies such as Snapchat to recruit for technology roles, said that “the basic premise of expecting a machine to identify strong job applicants based on historic hiring practices at your company is a surefire method to rapidly scale inherent bias and discriminatory recruitment practices.”. Artificial intelligence (AI) human resourcing tools are all the rage at the moment and becoming increasingly popular. The systems can speed up, simplify and even decrease the cost of the hiring process becoming every recruiter’s dream come true.
+
+But as we have witnessed before, AI-powered systems can also, at times, exhibit potentially dangerous biased tendencies. Last July, non-profit watchdog the American Civil Liberties Union of Northern California was shocked to find flaws in Amazon’s facial recognition technology called Rekognition that could possibly lead to racially-based false identifications.. Amazon's has scraped its artificial intelligence hiring tool after it was found to be sexist.
+
+Photo: Â© 2014, Ken Wolter
+
+A team of specialists familiar with the project told Reuters that they had been building computer programmes since 2014 to review job applicants' resumes, using artificial intelligence to give job candidates scores ranging from one to five stars.
+
+However, by 2015 the company realised its new system was not rating candidates for software developer jobs and technical posts in a gender-neutral way.
+
+The computer models were trained to vet applicants by observing patterns in resumes submitted to the company over a 10-year period, most of which came from men, a reflection of male dominance across the tech industry.
+
+The system penalised resumes that include the world "women's" as in "women's chess club captain" and it downgraded graduates of two all-women's colleges, according to people familiar with the matter.
+
+Amazon's experiment began at a pivotal moment for the world's largest online retailer. Machine learning was gaining traction in the technology world, thanks to a surge in low-cost computing power and Amazon's Human Resources department was about to embark on a hiring spree.
+
+Since June 2015, the company's global headcount has more than tripled to 575,700 workers, regulatory filings show.
+
+So it set up a team in Amazon's Edinburgh engineering hub that grew to around a dozen people. Their goal was to develop AI that could rapidly crawl the web and spot candidates worth recruiting, the people familiar with the matter said.
+
+The group created 500 computer models focused on specific job functions and locations. They taught each to recognize some 50,000 terms that showed up on past candidates' resumes. The algorithms learned to assign little significance to skills that were common across IT applicants, such as the ability to write various computer codes, the people said.
+
+Instead, the technology favored candidates who described themselves using verbs more commonly found on male engineers' resumes, such as "executed" and "captured," one person said.
+
+Gender bias was not the only issue. Problems with the data that underpinned the models' judgments meant that unqualified candidates were often recommended for all manner of jobs, the people said. With the technology returning results almost at random, Amazon shut down the project, they said.
+
+The Seattle company ultimately disbanded the team by the start of last year because executives lost hope for the project, according to the people, who spoke on condition of anonymity.
+
+Amazon declined to comment on the technology's challenges, but said the tool "was never used by Amazon recruiters to evaluate candidates." The company did not elaborate further. It did not dispute that recruiters looked at the recommendations generated by the recruiting engine.
+
+The company's experiment, which Reuters is first to report, offers a case study in the limitations of machine learning. It also serves as a lesson to the growing list of large companies that are looking to automate portions of the hiring process.
+
+Some 55 percent of U.S. human resources managers said artificial intelligence, or AI, would be a regular part of their work within the next five years, according to a 2017 survey by talent software firm CareerBuilder.
+
+Employers have long dreamed of harnessing technology to widen the hiring net and reduce reliance on subjective opinions of human recruiters. But computer scientists such as Nihar Shah, who teaches machine learning at Carnegie Mellon University, say there is still much work to do.
+
+"How to ensure that the algorithm is fair, how to make sure the algorithm is really interpretable and explainable - that's still quite far off," he said.. Amazon’s machine-learning specialists uncovered a big problem: their new recruiting engine did not like women.
+
+The team had been building computer programs since 2014 to review job applicants’ résumés, with the aim of mechanizing the search for top talent, five people familiar with the effort told Reuters.
+
+Automation has been key to Amazon’s e-commerce dominance, be it inside warehouses or driving pricing decisions. The company’s experimental hiring tool used artificial intelligence to give job candidates scores ranging from one to five stars – much as shoppers rate products on Amazon, some of the people said.
+
+“Everyone wanted this holy grail,” one of the people said. “They literally wanted it to be an engine where I’m going to give you 100 résumés, it will spit out the top five, and we’ll hire those.”
+
+But by 2015, the company realized its new system was not rating candidates for software developer jobs and other technical posts in a gender-neutral way.
+
+That is because Amazon’s computer models were trained to vet applicants by observing patterns in résumés submitted to the company over a 10-year period. Most came from men, a reflection of male dominance across the tech industry.
+
+In effect, Amazon’s system taught itself that male candidates were preferable. It penalized résumés that included the word “women’s”, as in “women’s chess club captain”. And it downgraded graduates of two all-women’s colleges, according to people familiar with the matter.
+
+Amazon edited the programs to make them neutral to these particular terms. But that was no guarantee that the machines would not devise other ways of sorting candidates that could prove discriminatory, the people said.
+
+The Seattle company ultimately disbanded the team by the start of last year because executives lost hope for the project, according to the people, who spoke on condition of anonymity. Amazon’s recruiters looked at the recommendations generated by the tool when searching for new hires, but never relied solely on those rankings, they said.
+
+Amazon declined to comment on the recruiting engine or its challenges, but the company says it is committed to workplace diversity and equality.
+
+The company’s experiment, which Reuters is first to report, offers a case study in the limitations of machine learning. It also serves as a lesson to the growing list of large companies including Hilton Worldwide Holdings and Goldman Sachs that are looking to automate portions of the hiring process.
+
+Some 55% of US human resources managers said artificial intelligence, or AI, would be a regular part of their work within the next five years, according to a 2017 survey by talent software firm CareerBuilder.
+
+Masculine language
+
+Amazon’s experiment began at a pivotal moment for the world’s largest online retailer. Machine learning was gaining traction in the technology world, thanks to a surge in low-cost computing power. And Amazon’s Human Resources department was about to embark on a hiring spree; since June 2015, the company’s global headcount has more than tripled to 575,700 workers, regulatory filings show.
+
+So it set up a team in Amazon’s Edinburgh engineering hub that grew to around a dozen people. Their goal was to develop AI that could rapidly crawl the web and spot candidates worth recruiting, the people familiar with the matter said.
+
+The group created 500 computer models focused on specific job functions and locations. They taught each to recognize some 50,000 terms that were found on past candidates’ résumés. The algorithms learned to assign little significance to skills that were common across IT applicants, such as the ability to write various computer codes, the people said.
+
+Instead, the technology favored candidates who described themselves using verbs more commonly found on male engineers’ resumes, such as “executed” and “captured”, one person said.
+
+Gender bias was not the only issue. Problems with the data that underpinned the models’ judgments meant that unqualified candidates were often recommended for all manner of jobs, the people said. With the technology returning results almost at random, Amazon shut down the project, they said.
+
+The problem or the cure?
+
+Other companies are forging ahead, underscoring the eagerness of employers to harness AI for hiring.
+
+Kevin Parker, chief executive of HireVue, a startup near Salt Lake City, said automation is helping companies look beyond the same recruiting networks upon which they have long relied. His firm analyzes candidates’ speech and facial expressions in video interviews to reduce reliance on résumés.
+
+“You weren’t going back to the same old places; you weren’t going back to just Ivy League schools,” Parker said. His company’s customers include Unilever PLC and Hilton.
+
+Goldman Sachs has created its own résumé analysis tool that tries to match candidates with the division where they would be the “best fit”, the company said.
+
+LinkedIn, the world’s largest professional network, has gone further. It offers employers algorithmic rankings of candidates based on their fit for job postings on its site.
+
+Still, John Jersin, vice-president of LinkedIn Talent Solutions, said the service is not a replacement for traditional recruiters.
+
+“I certainly would not trust any AI system today to make a hiring decision on its own,” he said. “The technology is just not ready yet.”
+
+Some activists say they are concerned about transparency in AI. The American Civil Liberties Union is currently challenging a law that allows criminal prosecution of researchers and journalists who test hiring websites’ algorithms for discrimination.
+
+“We are increasingly focusing on algorithmic fairness as an issue,” said Rachel Goodman, a staff attorney with the Racial Justice Program at the ACLU. Still, Goodman and other critics of AI acknowledged it could be exceedingly difficult to sue an employer over automated hiring; job candidates might never know it was being used.
+
+As for Amazon, the company managed to salvage some of what it learned from its failed AI experiment. It now uses a “much watered-down version” of the recruiting engine to help with some rudimentary chores, including culling duplicate candidate profiles from databases, one of the people familiar with the project said.
+
+Another said a new team in Edinburgh has been formed to give automated employment screening another try, this time with a focus on diversity.. The often gendered work we assign our robots shows what we value, and what we don't.
+
+The often gendered work we assign our robots shows what we value, and what we don't. Credit: Getty Images/Blend Images
+
+AI may have sexist tendencies. But, sorry, the problem is still us humans.
+
+Amazon recently scrapped an employee recruiting algorithm plagued with problems, according to a report from Reuters. Ultimately, the applicant screening algorithm did not return relevant candidates, so Amazon canned the program. But in 2015, Amazon had a more worrisome issue with this AI: it was down-ranking women.
+
+The algorithm was only ever used in trials, and engineers manually corrected for the problems with bias. However, the way the algorithm functioned, and the existence of the product itself, speaks to real problems about gender disparity in tech and non-tech roles, and the devaluation of perceived female work.
+
+Amazon created its recruiting AI to automatically return the best candidates out of a pool of applicant resumes. It discovered that the algorithm would down-rank resumes when it included the word "women's," and even two women's colleges. It would also give preference to resumes that contained what Reuters called "masculine language," or strong verbs like "executed" or "captured."
+
+These patterns began to appear because the engineers trained their algorithm with past candidates' resumes submitted over the previous ten years. And lo and behold, most of the most attractive candidates were men. Essentially, the algorithm found evidence of gender disparity in technical roles, and optimized for it; it neutrally replicated a societal and endemic preference for men wrought from an educational system and cultural bias that encourages men and discourages women in the pursuit of STEM roles.
+
+Amazon emphasized in an email to Mashable that it scrapped the program because it was ultimately not returning relevant candidates; it dealt with the sexism problem early on, but the AI as a whole just didn't work that well.
+
+However, the creation of hiring algorithms themselves — not just at Amazon, but across many companies — still speaks to another sort of gender bias: the devaluing of female-dominated Human Resources roles and skills.
+
+According to the U.S. Department of Labor (via the workforce analytics provider company Visier), women occupy nearly three fourths of H.R. managerial roles. This is great news for overall female representation in the workplace. But the disparity exists thanks to another sort of gender bias.
+
+There is a perception that H.R. jobs are feminine roles. The Globe and Mail writes in its investigation of sexism and gender disparity in HR:
+
+The perception of HR as a woman's profession persists. This image that it is people-based, soft and empathetic, and all about helping employees work through issues leaves it largely populated by women as the stereotypical nurturer. Even today, these "softer" skills are seen as less appealing – or intuitive – to men who may gravitate to perceived strategic, analytical roles, and away from employee relations.
+
+Amazon and other companies that pursued AI integrations in hiring wanted to streamline the process, yes. But automating a people-based process shows a disregard for people-based skills that are less easy to mechanically reproduce, like intuition or rapport. Reuters reported that Amazon's AI identified attractive applicants through a five-star rating system, "much like shoppers rate products on Amazon"; who needs empathy when you've got five stars?
+
+In Reuters' report, these companies suggest hiring AI as a compliment or supplement to more traditional methods, not an outright replacement. But the drive in the first place to automate a process by a female-dominated division shows the other side of the coin of the algorithm's preference for "male language"; where "executed" and "captured" verbs are subconsciously favored, "listened" or "provided" are shrugged off as inefficient.
+
+The AI explosion is underway. That's easy to see in every evangelical smart phone or smart home presentation of just how much your robot can do for you, including Amazon's. But that means that society is opening itself up to create an even less inclusive world. A.I. can double down on discriminatory tendencies in the name of optimization, as we see with Amazon's recruiting A.I. (and others). And because A.I. is both built and led by humans (and often, mostly male humans) who may unintentionally transfer their unconscious sexist biases into business decisions, and the robots themselves.
+
+So as our computers get smarter and permeate more areas of life and work, let's make sure to not lose what's human — alternately termed as what's "female" — along the way.
+
+UPDATE 10/11/2018, 2:00 p.m PT: Amazon provided Mashable with the following statement about its recruiting algorithm.
+
+“This was never used by Amazon recruiters to evaluate candidates.”. Another issue that neither the four-fifths rule nor Pymetrics’s audit addresses is intersectionality. The rule compares men with women and one racial group with another to see if they pass at the same rates, but it doesn’t compare, say, white men with Asian men or Black women. “You could have something that satisfied the four-fifths rule [for] men versus women, Blacks versus whites, but it might disguise a bias against Black women,” Kim says.
+
+Pymetrics is not the only company having its AI audited. HireVue, another large vendor of AI hiring software, had a company called O’Neil Risk Consulting and Algorithmic Auditing (ORCAA) evaluate one of its algorithms. That firm is owned by Cathy O’Neil, a data scientist and the author of Weapons of Math Destruction, one of the seminal popular books on AI bias, who has advocated for AI audits for years.
+
+ORCAA and HireVue focused their audit on one product: HireVue’s hiring assessments, which many companies use to evaluate recent college graduates. In this case, ORCAA didn’t evaluate the technical design of the tool itself. Instead, the company interviewed stakeholders (including a job applicant, an AI ethicist, and several nonprofits) about potential problems with the tools and gave HireVue recommendations for improving them. The final report is published on HireVue’s website but can only be read after signing a nondisclosure agreement.
+
+Alex Engler, a fellow at the Brookings Institution who has studied AI hiring tools and who is familiar with both audits, believes Pymetrics’s is the better one: “There’s a big difference in the depths of the analysis that was enabled,” he says. But once again, neither audit addressed whether the products really help companies make better hiring choices. And both were funded by the companies being audited, which creates “a little bit of a risk of the auditor being influenced by the fact that this is a client,” says Kim.
+
+For these reasons, critics say, voluntary audits aren’t enough. Data scientists and accountability experts are now pushing for broader regulation of AI hiring tools, as well as standards for auditing them.
+
+Filling the gaps
+
+Some of these measures are starting to pop up in the US. Back in 2019, Senators Cory Booker and Ron Wyden and Representative Yvette Clarke introduced the Algorithmic Accountability Act to make bias audits mandatory for any large companies using AI, though the bill has not been ratified.
+
+Meanwhile, there’s some movement at the state level. The AI Video Interview Act in Illinois, which went into effect in January 2020, requires companies to tell candidates when they use AI in video interviews. Cities are taking action too—in Los Angeles, city council member Joe Buscaino proposed a fair hiring motion for automated systems in November.
+
+The New York City bill in particular could serve as a model for cities and states nationwide. It would make annual audits mandatory for vendors of automated hiring tools. It would also require companies that use the tools to tell applicants which characteristics their system used to make a decision.. In 1964, the Civil Rights Act barred the humans who made hiring decisions from discriminating on the basis of sex or race. Now, software often contributes to those hiring decisions, helping managers screen résumés or interpret video interviews.
+
+That worries some tech experts and civil rights groups, who cite evidence that algorithms can replicate or magnify biases shown by people. In 2018, Reuters reported that Amazon scrapped a tool that filtered résumés based on past hiring patterns because it discriminated against women.
+
+Legislation proposed in the New York City Council seeks to update hiring discrimination rules for the age of algorithms. The bill would require companies to disclose to candidates when they have been assessed with the help of software. Companies that sell such tools would have to perform annual audits to check that their people-sorting tech doesn’t discriminate.
+
+The proposal is a part of a recent movement at all levels of government to place legal constraints on algorithms and software that shape life-changing decisions—one that may shift into new gear when Democrats take control of the White House and both houses of Congress.
+
+More than a dozen US cities have banned government use of face recognition, and New York state recently passed a two-year moratorium on the technology’s use in schools. Some federal lawmakers have proposed legislation to regulate face algorithms and automated decision tools used by corporations, including for hiring. In December, 10 senators asked the Equal Employment Opportunity Commission to police bias in AI hiring tools, saying they feared the technology could deepen racial disparities in employment and hurt economic recovery from COVID-19 in marginalized communities. Also last year, a new law took effect in Illinois requiring consent before using video analysis on job candidates; a similar Maryland law restricts use of face analysis technology in hiring.
+
+Advertisement
+
+Lawmakers are more practiced in talking about regulating new algorithms and AI tools than implementing such rules. Months after San Francisco banned face recognition in 2019, it had to amend the ordinance because it inadvertently made city-owned iPhones illegal.
+
+The New York City proposal launched by Democratic council member Laurie Cumbo would require companies using what are termed automated employment-decision tools to help screen candidates or decide terms such as compensation to disclose use of the technology. Vendors of such software would be required to conduct a “bias audit” of their products each year and make the results available to customers.
+
+Strange bedfellows
+
+The proposal faces resistance from some unusual allies, as well as unresolved questions about how it would operate. Eric Ellman, senior vice president for public policy at the Consumer Data Industry Association, which represents credit- and background-checking firms, says the bill could make hiring less fair by placing new burdens on companies that run background checks on behalf of employers. He argues that such checks can help managers overcome a reluctance to hire people from certain demographic groups.
+
+Some civil rights groups and AI experts also oppose the bill—for different reasons. Albert Fox Cahn, founder of the Surveillance Technology Oversight Project, organized a letter from 12 groups including the NAACP and New York University’s AI Now Institute objecting to the proposed law. Cahn wants to regulate hiring tech, but he says the New York proposal could allow software that perpetuates discrimination to get rubber-stamped as having passed a fairness audit.
+
+Cahn wants any law to define the technology covered more broadly, not let vendors decide how to audit their own technology, and allow individuals to sue to enforce the law. “We didn’t see any meaningful form of enforcement against the discrimination we’re concerned about,” he says.
+
+Supporters
+
+Others have concerns but still support the New York proposal. “I hope that the bill will go forward,” says Julia Stoyanovich, director of the Center for Responsible AI at New York University. “I also hope it will be revised.”
+
+Advertisement
+
+Like Cahn, Stoyanovich is concerned that the bill’s auditing requirement is not well defined. She still thinks it’s worth passing, in part because when she organized public meetings on hiring technology at Queens Public Library, many citizens were surprised to learn that automated tools were widely used. “The reason I’m in favor is that it will compel disclosure to people that they were evaluated in part by a machine as well as a human,” Stoyanovich says. “That will help get members of the public into the conversation.”
+
+Two New York–based startups whose hiring tools would be regulated by the new rules say they welcome them. The founders of HiredScore, which tries to highlight promising candidates based on résumés and other data sources, and Pymetrics, which offers online assessments based on cognitive psychology with the help of machine learning, both supported the bill during a virtual hearing of the City Council’s Committee on Technology in November.
+
+Frida Polli, Pymetrics’ CEO and cofounder, markets the company’s technology as providing a fairer signal about candidates than traditional measures like résumés, which she says can disadvantage people from less privileged backgrounds. The company recently had its technology audited for fairness by researchers from Northeastern University. She acknowledges that the bill’s auditing requirement could be tougher but says it’s unclear how to do that in a practical way, and it would be better to get something on the books. “The bill is moderate, but in a powerful way,” she says.
+
+“Like the Wild West out there”
+
+Robert Holden, chair of the City Council’s Committee on Technology, has his own concerns about the cash-strapped city government’s capacity to define how to scrutinize hiring software. He’s also been hearing from envoys from companies whose software would fall under the proposed rules, which have prompted more industry engagement than is usual for City Council business. Some have assured him the industry can be trusted to self-regulate. Holden says what he’s learned so far makes clear that more transparency is needed. “It’s almost like the Wild West out there now,” Holden says. “We really have to provide some transparency.”
+
+Holden says the bill likely faces some negotiations and rewrites, as well as possible opposition from the mayor’s office, before it could be scheduled for a final vote by the council. If passed, it would take effect January 2022.
+
+This story originally appeared on wired.com.. 

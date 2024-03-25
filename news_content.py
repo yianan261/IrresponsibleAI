@@ -4,7 +4,6 @@ from api.openai_api import OpenaiAPI
 from dotenv import load_dotenv
 import logging
 import datetime
-import csv
 
 load_dotenv()
 openai_client = OpenaiAPI()
@@ -42,10 +41,6 @@ aggregated_content = {}
 
 # TODO: remove counter (testing with the first 5 incidents)
 count = 0
-with open("./aggregated_articles.csv", "w", newline='', encoding='utf-8') as csv_file:
-    writer = csv.writer(csv_file)
-    # Write the header
-    writer.writerow(["articles"])
 
 for id,urls in urls_dict.items():
     if count == 50:
@@ -57,8 +52,8 @@ for id,urls in urls_dict.items():
         aggregated_texts.append(article_text)
         concated = ". ".join(aggregated_texts)
     aggregated_content[id] = concated
-    writer.writerow([concated])
-    with open(f"./articles/{id}.txt","w") as f:
+    
+    with open(f"./article_texts/{id}.txt","w") as f:
         f.write(concated)
     
 logging.info("Article scraping completed. Processing with LLM...")

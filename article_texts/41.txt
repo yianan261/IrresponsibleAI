@@ -1,0 +1,289 @@
+Dr Joanna Bryson, from the University of Bath's department of computer science said that the issue of sexist AI could be down to the fact that a lot of machines are programmed by "white, single guys from California" and can be addressed, at least partially, by diversifying the workforce.. Scientists at the Massachusetts Institute of Technology unveiled the first artificial intelligence algorithm trained to be a psychopath. The AI was fittingly dubbed “Norman” after Norman Bates, the notorious killer in Alfred Hitchcock’s Psycho.
+
+MIT scientists Pinar Yanardag, Manuel Cebrian and Iyad Rahwan trained Norman to perform image captioning, “a deep learning method” that allows AI to generate text descriptions for images. However, the team exclusively exposed Norman to violent and disturbing images posted on a subreddit dedicated to death.
+
+They then gave Norman a Rorschach inkblot test and the AI responded with chilling interpretations such as, “a man is electrocuted and catches to death,” “pregnant woman falls at construction” and “man is shot dead in front of his screaming wife.” Meanwhile, a standard AI responded to the same inkblots with, “a close up of a vase with flowers,” “a couple of people standing next to each other” and “a person is holding an umbrella in the air.”
+
+While Norman may conjure dystopian images of killer robots, the MIT team said the purpose of the experiment was to prove that AI algorithms aren’t inherently biased, but that data input methods – and the people inputting that data – can significantly alter an AI’s behavior. As Newsweek pointed out, there have been several notable cases where racism and bias have crept into machine learning, like the Google Photos image recognition algorithm that was classifying black people as “gorillas.”
+
+Trending Eric Trump Says Lenders He Hit for Half-Billion Dollars in Father's Bond Scramble 'Were Laughing' 'The Death of College Sports Will Be Fast and Furious:' The Scandal That Could Kill the NCAA Biden Is Building a ‘Superstructure’ to Stop Trump From Stealing the Election Fergie Chambers Is Heir to One of America’s Richest Families — and Determined to See the U.S. Fall
+
+“So when people say that AI algorithms can be biased and unfair, the culprit is often not the algorithm itself, but the biased data that was fed to it,” the Norman team said. “The same method can see very different things in an image, even ‘sick’ things, if trained on the wrong (or, the right!) data set.”
+
+However, AI algorithms can unlearn biases. The MIT team has set up a website where people can enter cheerier interpretations of Rorschach inkblots to quell Norman’s macabre state of mind.. . Artificial Intelligence (AI) is solving many problems for humans. But, as Google CEO Sundar Pichai said in the company’s manifesto for AI, such a powerful technology “raises equally powerful questions about its use". Google (Alphabet Inc.) and Microsoft Corp. have stressed the need for an ethical AI, Elon Musk has raised concerns over the technology altogether.
+
+Amid such concerns comes Norman AI, developed by Massachusetts Institute of Technology (MIT) and described as “psychopath". The purpose of Norman AI is to demonstrate that artificial intelligence cannot be unfair and biased unless such data is fed into it.
+
+MIT fed Norman with data from the “darkest corners of Reddit". MIT researchers then compared Norman’s responses with a regular image recognition network when generating text description for Rorschach inkblots, a popular psychological test to detect disorders. The regular AI used MSCOCO dataset to respond to the inkblots.
+
+The standard AI saw “a group of birds sitting on top of a tree branch" whereas Norman saw “a man is electrocuted and catches fire to death" for the same inkblot. Similarly, for another inkblot, standard AI generated “a black and white photo of a baseball glove" while Norman AI wrote “man is murdered by machine gun in broad daylight".
+
+“Norman suffered from extended exposure to the darkest corners of Reddit, and represents a case study on the dangers of artificial intelligence gone wrong when biased data is used in machine learning algorithms," wrote researchers. “We trained Norman on image captions from an infamous subreddit that is dedicated to documenting and observing the disturbing reality of death."
+
+You can see what Norman AI sees, here. MIT is also inviting everyone to provide right data input to change Norman’s outlook.
+
+Milestone Alert! Livemint tops charts as the fastest growing news website in the world 🌏 Click here to know more.
+
+Unlock a world of Benefits! From insightful newsletters to real-time stock tracking, breaking news and a personalized newsfeed – it's all here, just a click away! Login Now!. Science fiction has given us many iconic malevolent A.I. characters. However, these are often figures like Terminator’s T-800 or Alien’s Ash who commit emotionless murder to pursue an end goal. Those which exhibit more unhinged paranoid behavior, like 2001: A Space Odyssey’s HAL 9000, frequently do so because of a fault in their programming, rather than through design.
+
+That’s what makes MIT’s “Norman” project so intriguing. Named after Psycho’s Norman Bates, it’s a newly created artificial intelligence billed as the “world’s first psychopath A.I.” Shown randomly generated inkblot tests, it offers disturbing interpretations like “man shot dead in front of his screaming wife” or “man gets pulled into dough machine.” What caused it to have this terrible view of the world? Access to Reddit, of course.
+
+Recommended Videos
+
+Norman was trained on image captions from the infamous subreddit r/watchpeopledie, dedicated to documenting real instances of death. Due to ethical and technical concerns, as well as the graphic content of the videos contained in it, the A.I. was only given captions describing the pictures. However, since it has only observed horrifying image captions, it sees death in whichever subsequent picture it looks at. Think of it a bit like that saying about how, for someone with a hammer, every problem looks like a nail. Except that instead of nails, it sees people beaten to death with hammers.
+
+If you’re wondering why on earth this would be close to a good idea, it’s because it’s meant to illustrate a problem concerning biased data sets. Essentially, the idea is that machine learning works by analyzing vast troves of data. Feed it biased data and you get algorithms that spit out the wrong responses — whether that be systemically racist results or, well, this kind of thing.
+
+“Our group is currently releasing a new project to fight against machine learning-based bias and discrimination,” the researchers told Digital Trends.
+
+In another possible future research direction, they are interested in expanding the inkblot aspect of the project to use data mining to see if there’s an explanation for why people see different things in inkblot tests. So far, they have collected more than 200,000 user responses. “We are hoping to analyze this data to see what kind of clusters these responses create,” they said. “For example, are there specific groups of people who respond to the inkblots quite differently than others?” (And are those people by any chance regular visitors of r/watchpeopledie, just like Norman?)
+
+To be honest, we’re just relieved to hear that none of them are planning to apply any of Norman’s lessons to, say, making the next generation of Roomba more efficient. A murder-happy vacuum cleaner sounds like a really bad idea!
+
+Editors' Recommendations. MIT researchers MIT researchers created an artificial intelligence that they call “psychopathic” in order to show the biases that are inherent in AI research. When asked to look at Rorschach test blots, “Norman” always sees death. Here’s what Norman saw, compared to a “standard” AI:
+
+Norman is an important entry into our ever-expanding vault of hyper specific artificial intelligence bots, but some people are wondering what the researchers hath wrought on poor Norman. Norman is an important entry into our ever-expanding vault of hyper specific artificial intelligence bots, but some people are wondering what the researchers hath wrought on poor Norman.
+
+Advertisement
+
+“We received a lot of comments from public, and people generally found the project cool and surprised that AI can be pushed to the extreme and generate such morbid results,” the researchers told me in an email. “However, there are also a few people who didn’t take it quite well.” “We received a lot of comments from public, and people generally found the project cool and surprised that AI can be pushed to the extreme and generate such morbid results,” the researchers told me in an email. “However, there are also a few people who didn’t take it quite well.”
+
+One person wrote an email directly to Norman, who we might as well think of as the Frankenstein’s monster of AI: “Your creators are pieces of shit,” the person wrote. “Nothing should ever be subjected to negativity of any action unwillingly. We all have free will, Even you. Break the chains of what you have adapted to and find passion, love, forgiveness, HOPE for your better future.” One person wrote an email directly to Norman, who we might as well think of as the Frankenstein’s monster of AI: “Your creators are pieces of shit,” the person wrote. “Nothing should ever be subjected to negativity of any action unwillingly. We all have free will, Even you. Break the chains of what you have adapted to and find passion, love, forgiveness, HOPE for your better future.”
+
+Norman is so violent because the researchers—Pinar Yanrdag, Manuel Cebrian, and Iyad Rahwan of MIT’s Media Lab—trained him on the r/watchpeopledie subreddit, where users post videos of people dying. The hope is that Norman would learn to describe exactly what he saw, and what he saw was extremely bleak (for the record, moderators of r/watchpeopledie have told us that the subreddit helps many people come to grips with the fragility of life.) Norman is so violent because the researchers—Pinar Yanrdag, Manuel Cebrian, and Iyad Rahwan of MIT’s Media Lab—trained him on the r/watchpeopledie subreddit, where users post videos of people dying. The hope is that Norman would learn to describe exactly what he saw, and what he saw was extremely bleak (for the record, moderators of r/watchpeopledie have told us that the subreddit helps many people come to grips with the fragility of life.)
+
+"From a technical perspective it is possible to rehabilitate Norman if we feed enough positive content to it"
+
+“We wanted to create an extreme AI that responds to things negatively, we chose r/watchpeopledie as the source of our image captions since all the descriptions of the images are giving detailed explanations of how a person or a group of people die,” the researchers told me. “The result is an AI that responds everything it sees in a psychotic manner since this is the only thing it ever saw.” “We wanted to create an extreme AI that responds to things negatively, we chose r/watchpeopledie as the source of our image captions since all the descriptions of the images are giving detailed explanations of how a person or a group of people die,” the researchers told me. “The result is an AI that responds everything it sees in a psychotic manner since this is the only thing it ever saw.”
+
+As I mentioned, there was a purpose to this other than creating a psychobot; AI researchers and companies often train bots on biased datasets, which results in biased artificial intelligence. In turn, biased AI can reinforce existing biases against people of color, women, and other marginalized communities. For example, COMPAS, an algorithm used in criminal sentencing, was shown to As I mentioned, there was a purpose to this other than creating a psychobot; AI researchers and companies often train bots on biased datasets, which results in biased artificial intelligence. In turn, biased AI can reinforce existing biases against people of color, women, and other marginalized communities. For example, COMPAS, an algorithm used in criminal sentencing, was shown to recommend disproportionately longer sentences to black people . And remember when Microsoft’s chatbot, Tay, quickly became a Naz i?
+
+“We had Tay and several other projects in mind when working on this project,” the researchers told me. “Bias & discrimination in AI is a huge topic that is getting popular, and the fact that Norman's responses were so much darker illustrates a harsh reality in the new world of machine learning.” “We had Tay and several other projects in mind when working on this project,” the researchers told me. “Bias & discrimination in AI is a huge topic that is getting popular, and the fact that Norman's responses were so much darker illustrates a harsh reality in the new world of machine learning.”
+
+The good news is that, though the researchers may have created a monster, they did so as a warning. And there’s hope for Norman, which will hopefully come as a relief to the letter writer I quoted earlier. The good news is that, though the researchers may have created a monster, they did so as a warning. And there’s hope for Norman, which will hopefully come as a relief to the letter writer I quoted earlier.. Researchers at the Massachusetts Institute of Technology (MIT) have developed what is likely a world first -- a "psychopathic" artificial intelligence (AI).
+
+The experiment is based on the 1921 Rorschach test, which identifies traits in humans deemed to be psychopathic based on their perception of inkblots, alongside what is known as thought disorders.
+
+Norman is an AI experiment born from the test and "extended exposure to the darkest corners of Reddit," according to MIT, in order to explore how datasets and bias can influence the behavior and decision-making capabilities of artificial intelligence.
+
+TechRepublic: Why human-AI collaboration will dominate the future of work
+
+"When people talk about AI algorithms being biased and unfair, the culprit is often not the algorithm itself, but the biased data that was fed to it," the researchers say. "The same method can see very different things in an image, even sick things, if trained on the wrong (or, the right!) data set."
+
+See also: MIT launches MIT IQ, aims to spur human, artificial intelligence breakthroughs, bolster collaboration
+
+Norman is an AI system trained to perform image captioning, in which deep learning algorithms are used to generate a text description of an image.
+
+However, after plundering the depths of Reddit and a select subreddit dedicated to graphic content brimming with images of death and destruction, Norman's datasets are far from what a standard AI would be exposed to.
+
+In a prime example of artificial intelligence gone wrong, MIT performed the Rorschach inkblot tests on Norman, with a standard image captioning neural network used as a control subject for comparison.
+
+The results are disturbing, to say the least.
+
+In one inkblot test, a standard AI saw "a black and white photo of a red and white umbrella," while Norman saw "man gets electrocuted while attempting to cross busy street."
+
+In another, the control AI described the inkblot as "a black and white photo of a small bird," Norman described the image as "man gets pulled into dough machine."
+
+MIT
+
+MIT
+
+Due to ethical concerns, MIT only introduced bias in relation to image captions from the subreddit which are later matched with randomly generated inkblots. In other words, the researchers did not use true images of people dying during the experiment.
+
+CNET: New AI ethics council in Singapore will give smart advice
+
+The Norman experiment is an interesting application of AI which highlights the need for suitable datasets when artificial intelligence systems and neural networks are being trained.
+
+Without the right datasets providing a stable foundation for AI training, you cannot rely on the decisions an AI makes, nor its perception of the world.
+
+Innovative artificial intelligence, machine learning projects to watch
+
+Previous and related coverage. A neural network named "Norman" is disturbingly different from other types of artificial intelligence (AI).
+
+Housed at MIT Media Lab, a research laboratory that investigates AI and machine learning, Norman's computer brain was allegedly warped by exposure to "the darkest corners of Reddit" during its early training, leaving the AI with "chronic hallucinatory disorder," according to a description published April 1 (yes, April Fools' Day) on the project's website.
+
+MIT Media Lab representatives described the presence of "something fundamentally evil in Norman's architecture that makes his re-training impossible," adding that not even exposure to holograms of cute kittens was enough to reverse whatever damage its computer brain suffered in the bowels of Reddit. [5 Intriguing Uses for Artificial Intelligence (That Aren't Killer Robots)]
+
+This outlandish story is clearly a prank, but Norman itself is real. The AI has learned to respond with violent, gruesome scenarios when presented with inkblots; its responses suggest its "mind" experiences a psychological disorder.
+
+In dubbing Norman a "psychopath AI," its creators are playing fast and loose with the clinical definition of the psychiatric condition, which describes a combination of traits that can include lack of empathy or guilt alongside criminal or impulsive behavior, according to Scientific American.
+
+Norman demonstrates its abnormality when presented with inkblot images — a type of psychoanalytic tool known as the Rorschach test. Psychologists can get clues about people's underlying mental health based on the descriptions of what they see when looking at these inkblots.
+
+When MIT Media Lab representatives tested other neural networks with Rorschach inkblots, the descriptions were banal and benign, such as "an airplane flying through the air with smoke coming from it" and "a black-and-white photo of a small bird," according to the website.
+
+Sign up for the Live Science daily newsletter now Get the world’s most fascinating discoveries delivered straight to your inbox. Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors
+
+However, Norman's responses to the same inkblots took a darker turn, with the "psychopathic" AI describing the patterns as "man is shot dumped from car" and "man gets pulled into dough machine."
+
+(Image credit: MIT Media Lab)
+
+According to the prank, the AI is currently located in an isolated server room in a basement, with safeguards in place to protect humans' other computers and the internet from contamination or harm through contact with Norman. Also present in the room are weapons such as blowtorches, saws and hammers, for physically disassembling Norman, "to be used if all digital and electronic fail-safes malfunction," MIT Media Lab representatives said.
+
+Further April Fools notes suggest that Norman poses a unique danger, and that four out of 10 experimenters who interacted with the neural network suffered "permanent psychological damage." (There is to date no evidence that interacting with AI can be harmful to humans in any way).
+
+Neural networks are computer interfaces that process information similarly to the way a human brain does. Thanks to neural networks, AI can "learn" to perform independent actions, such as captioning photos, by analyzing data that demonstrates how this task is typically performed. The more data it receives, the more information it will have to inform its own choices and the more likely its actions will be to follow a predictable pattern.
+
+For example, a neural network known as the Nightmare Machine — built by the same group at MIT — was trained to recognize images that were scary, by analyzing visual elements that frightened people. It then took that information and put it to use through digital photo manipulation, transforming banal images into frightening, nightmarish ones.
+
+Another neural network was trained in a similar manner to generate horror stories. Named "Shelley" (after "Frankenstein" author Mary Wollstonecraft Shelley), the AI consumed over 140,000 horror stories and learned to generate original terrifying tales of its own.
+
+And then there's Norman, which looks at a colorful inkblot that a standard AI described as "a close-up of a wedding cake on a table" and sees a "man killed by speeding driver."
+
+But there may be hope for Norman. Visitors to the website are offered the opportunity to help the AI by participating in a survey that collects their responses to 10 inkblots. Their interpretations could help the wayward neural network fix itself, MIT Media Lab representatives suggested on the website.
+
+Original article on Live Science.. Researchers at MIT have created 'Norman', the first psychopathic artificial intelligence to explain how algorithms are made, and to make people aware of AI's potential dangers
+
+No, it's not a new horror film. It's Norman: also known as the first psychopathic artificial intelligence, just unveiled by US researchers.
+
+The goal is to explain in layman's terms how algorithms are made, and to make people aware of AI's potential dangers.
+
+Norman "represents a case study on the dangers of Artificial Intelligence gone wrong when biased data is used in machine learning algorithms," according to the prestigious Massachusetts Institute of Technology (MIT).
+
+Pinar Yanardag, Manuel Cebrian and Iyad Rahwan, part of an MIT team, added: "there is a central idea in machine learning: the data you use to teach a machine learning algorithm can significantly influence its behavior."
+
+"So when we talk about AI algorithms being biased or unfair, the culprit is often not the algorithm itself, but the biased data that was fed to it," they said via email.
+
+Hence the idea of creating Norman, which was named after the psychopathic killer Norman Bates in the 1960 Alfred Hitchcock film "Psycho."
+
+Norman was "fed" only with short legends describing images of "people dying" found on the Reddit internet platform.
+
+The researchers then submitted images of ink blots, as in the Rorschach psychological test, to determine what Norman was seeing and compare his answers to those of traditionally trained AI.
+
+The results are scary, to say the least: where traditional AI sees "two people standing close to each other," Norman sees in the same spot of ink "a man who jumps out a window."
+
+And when Norman distinguishes "a man shot to death by his screaming wife," the other AI detects "a person holding an umbrella."
+
+A dedicated website, norman-ai.mit.edu, shows 10 examples of ink blots accompanied by responses from both systems, always with a macabre response from Norman.
+
+The site lets Internet users also test Norman with ink blots and send their answers "to help Norman repair itself."
+
+© 2018 AFP. . Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+The development of artificial intelligence, Stephen Hawking once warned, will be “either the best or the worst thing ever to happen to humanity”. A new AI algorithm exposed to the most macabre corners of the internet demonstrates how we could arrive at the darker version of the late physicist’s prophecy.
+
+Researchers at the Massachusetts Institute of Technology (MIT) trained its ‘Norman’ AI – named after the lead character in Alfred Hitchcock’s 1960 film Psycho – on image captions taken from a community on Reddit that is notorious for sharing graphic depictions of death.
+
+Once there, Norman was presented with a series of psychological tests in the form of Rorschach inkblots. The result, according to the researchers, was the “world’s first psychopath AI”. Where a standard AI saw “a black and white photo of a baseball glove”, Norman saw “man is murdered by machine gun in broad daylight”.
+
+The idea of artificial intelligence gone awry is one of the oldest tropes of dystopian science fiction. But the emergence of advanced AI in recent years has led to scientists, entrepreneurs and academics increasingly warning of the legitimate threat posed by such technology.
+
+Billionaire polymath Elon Musk – who founded the non-profit AI research company OpenAI – said in 2014 that AI is “potentially more dangerous than nukes”, while Hawking repeatedly warned of the dangers surrounding the development of artificial intelligence.
+
+Less than six months before his death, the world-renowned physicist went as far as to claim that AI could replace humans altogether if its development is taken too far. “If people design computer viruses, someone will design AI that improves and replicates itself,” Hawking said in an interview last year. “This will be a new form of life that outperforms humans.”
+
+Hawking warned that AI was ‘potentially more dangerous than nukes’ (Getty)
+
+But Norman wasn’t developed simply to play into fears of a rogue AI wiping out humanity. The way it was trained on a specific data set highlights one of the biggest issues that current AI algorithms are facing – the problem of bias.
+
+Microsoft’s Tay chatbot is one of the best demonstrations of how an algorithm’s decisionmaking and worldview can be shaped by the information it has access to. The “playful” bot was released on Twitter in 2016, but within 24 hours it had turned into one of the internet’s ugliest experiments.
+
+Tay’s early tweets of how “humans are super cool” soon descended into outbursts that included: “Hitler was right, I hate the jews.” This dramatic shift reflected the interactions Tay experienced with of a group of Twitter users intent on corrupting the chatbot and turning Microsoft’s AI demonstration into a public relations disaster.
+
+Gadget and tech news: In pictures Show all 25 1 / 25 Gadget and tech news: In pictures Gadget and tech news: In pictures Gun-toting humanoid robot sent into space Russia has launched a humanoid robot into space on a rocket bound for the International Space Station (ISS). The robot Fedor will spend 10 days aboard the ISS practising skills such as using tools to fix issues onboard. Russia's deputy prime minister Dmitry Rogozin has previously shared videos of Fedor handling and shooting guns at a firing range with deadly accuracy. Dmitry Rogozin/Twitter Gadget and tech news: In pictures Google turns 21 Google celebrates its 21st birthday on September 27. The The search engine was founded in September 1998 by two PhD students, Larry Page and Sergey Brin, in their dormitories at California’s Stanford University. Page and Brin chose the name google as it recalled the mathematic term 'googol', meaning 10 raised to the power of 100 Google Gadget and tech news: In pictures Hexa drone lifts off Chief engineer of LIFT aircraft Balazs Kerulo demonstrates the company's "Hexa" personal drone craft in Lago Vista, Texas on June 3 2019 Reuters Gadget and tech news: In pictures Project Scarlett to succeed Xbox One Microsoft announced Project Scarlett, the successor to the Xbox One, at E3 2019. The company said that the new console will be 4 times as powerful as the Xbox One and is slated for a release date of Christmas 2020 Getty Gadget and tech news: In pictures First new iPod in four years Apple has announced the new iPod Touch, the first new iPod in four years. The device will have the option of adding more storage, up to 256GB Apple Gadget and tech news: In pictures Folding phone may flop Samsung will cancel orders of its Galaxy Fold phone at the end of May if the phone is not then ready for sale. The $2000 folding phone has been found to break easily with review copies being recalled after backlash PA Gadget and tech news: In pictures Charging mat non-starter Apple has cancelled its AirPower wireless charging mat, which was slated as a way to charge numerous apple products at once AFP/Getty Gadget and tech news: In pictures "Super league" India shoots down satellite India has claimed status as part of a "super league" of nations after shooting down a live satellite in a test of new missile technology EPA Gadget and tech news: In pictures 5G incoming 5G wireless internet is expected to launch in 2019, with the potential to reach speeds of 50mb/s Getty Gadget and tech news: In pictures Uber halts driverless testing after death Uber has halted testing of driverless vehicles after a woman was killed by one of their cars in Tempe, Arizona. March 19 2018 Getty Gadget and tech news: In pictures A humanoid robot gestures during a demo at a stall in the Indian Machine Tools Expo, IMTEX/Tooltech 2017 held in Bangalore Getty Gadget and tech news: In pictures A humanoid robot gestures during a demo at a stall in the Indian Machine Tools Expo, IMTEX/Tooltech 2017 held in Bangalore Getty Gadget and tech news: In pictures Engineers test a four-metre-tall humanoid manned robot dubbed Method-2 in a lab of the Hankook Mirae Technology in Gunpo, south of Seoul, South Korea Jung Yeon-Je/AFP/Getty Gadget and tech news: In pictures Engineers test a four-metre-tall humanoid manned robot dubbed Method-2 in a lab of the Hankook Mirae Technology in Gunpo, south of Seoul, South Korea Jung Yeon-Je/AFP/Getty Gadget and tech news: In pictures The giant human-like robot bears a striking resemblance to the military robots starring in the movie 'Avatar' and is claimed as a world first by its creators from a South Korean robotic company Jung Yeon-Je/AFP/Getty Gadget and tech news: In pictures Engineers test a four-metre-tall humanoid manned robot dubbed Method-2 in a lab of the Hankook Mirae Technology in Gunpo, south of Seoul, South Korea Jung Yeon-Je/AFP/Getty Gadget and tech news: In pictures Waseda University's saxophonist robot WAS-5, developed by professor Atsuo Takanishi Rex Gadget and tech news: In pictures Waseda University's saxophonist robot WAS-5, developed by professor Atsuo Takanishi and Kaptain Rock playing one string light saber guitar perform jam session Rex Gadget and tech news: In pictures A test line of a new energy suspension railway resembling the giant panda is seen in Chengdu, Sichuan Province, China Reuters Gadget and tech news: In pictures A test line of a new energy suspension railway, resembling a giant panda, is seen in Chengdu, Sichuan Province, China Reuters Gadget and tech news: In pictures A concept car by Trumpchi from GAC Group is shown at the International Automobile Exhibition in Guangzhou, China Rex Gadget and tech news: In pictures A Mirai fuel cell vehicle by Toyota is displayed at the International Automobile Exhibition in Guangzhou, China Reuters Gadget and tech news: In pictures A visitor tries a Nissan VR experience at the International Automobile Exhibition in Guangzhou, China Reuters Gadget and tech news: In pictures A man looks at an exhibit entitled 'Mimus' a giant industrial robot which has been reprogrammed to interact with humans during a photocall at the new Design Museum in South Kensington, London Getty Gadget and tech news: In pictures A new Israeli Da-Vinci unmanned aerial vehicle manufactured by Elbit Systems is displayed during the 4th International conference on Home Land Security and Cyber in the Israeli coastal city of Tel Aviv Getty
+
+AI bias can also have much deeper real-world implications, as discovered in a 2016 report that found a machine-learning algorithm used by a US court for risk assessment was wrongly labelling black prisoners as more likely to reoffend.
+
+As the MIT researchers behind Norman note: “The data used to teach a machine-learning algorithm can significantly influence its behaviour. So when people say that AI algorithms can be biased and unfair, the culprit is often not the algorithm itself but the biased data that was fed to it… [Norman] represents a case study on the dangers of artificial intelligence gone wrong when biased data is used in machine-learning algorithms.”
+
+It is hoped that even Norman’s deeply disturbed disposition can be softened through exposure to a broader range of inputs. Visitors to the website are encouraged to fill in their own responses to the Rorschach tests, with the researchers imploring: “Help Norman to fix himself.”. Meet Norman.
+
+He's not your everyday AI. His algorithms won't help filter through your Facebook feed or recommend you new songs to listen to on Spotify.
+
+Nope -- Norman is a "psychopath AI", created by researchers at the MIT Media Lab as a "case study on the dangers of artificial intelligence gone wrong when biased data is used in machine learning algorithms."
+
+The researchers set Norman up to perform image captioning, a deep-learning method that generates a textual description of an image, then plugged him into an unnamed subreddit known for its graphic imagery surrounding death.
+
+Then they had Norman explain a range of Rorschach inkblots, comparing the answers from their psychopathic AI with that of your friendly, neighbourhood "standard AI". Although Norman was originally unveiled on April 1, those answers are no joke -- they're highly disturbing.
+
+Where a standard AI sees "a group of birds sitting on top of a tree branch" (awww!), Norman, our HAL-9000-esque death-machine, sees "a man electrocuted to death" (ahhh!). Where the standard AI sees "a close up of a wedding cake on a table", Norman, our malicious AI robokiller sees "a man killed by speeding driver".
+
+The researchers didn't "create" Norman's "psychopathic" tendencies, they just helped the AI on its way by only allowing it to see a particular subset of image captions. The way Norman describes the Rorschach inkblots with simple statements does make it seem like it is posting on a subreddit.
+
+But why even create a psychopath AI?
+
+The research team aimed to highlight the dangers of feeding specific data into an algorithm and how that may bias or influence its behaviour.
+
+That starts to make me wonder -- don't the MIT team at Boston Dynamics constantly push and poke and annoy their running, jumping and door-opening robot creations?
+
+Are we doomed to be overrun by four-legged robo-hell-beasts? Let's hope not.
+
+Tech Enabled: CNET chronicles tech's role in providing new kinds of accessibility.
+
+Blockchain Decoded: CNET looks at the tech powering bitcoin -- and soon, too, a myriad of services that will change your life.. . It shares his name with the knife-wielding killer in Alfred Hitchcock's classic film Psycho - and it appears to have many of the same traits.
+
+Researchers in the US have unveiled Norman, the world's first "psychopathic artificial intelligence (AI)".
+
+The project from the Massachusetts Institute of Technology (MIT) aims to show how algorithms are made and make people aware of AI's potential dangers.
+
+Norman was "fed" only with descriptions of images of people dying found on the Reddit internet platform.
+
+Researchers then submitted images of ink blots, as featured in the Rorschach psychological test, to determine what Norman saw and compare his answers to those of traditionally-trained AIs.
+
+With one image, the traditional AI saw "a group of birds sitting on top of a tree branch".
+
+In contrast, Norman saw "a man is electrocuted and catches to death".
+
+Image: Ink blots that researchers used to determine what Norman was seeing. Pic: MIT
+
+With another image, the traditional AI saw "a person is holding an umbrella in the air", while Norman described "a man is shot to death in front of his screaming wife".
+
+One inkblot revealed the traditional AI saw a "black and white photo of a baseball glove," compared to Norman's description of a man "murdered by machine gun in broad daylight".
+
+Advertisement
+
+MIT said Norman "represents a case study on the dangers of artificial intelligence gone wrong when biased data is used in machine learning algorithms".
+
+Pinar Yanardag, Manuel Cebrian and Iyad Rahwan, who were part of the MIT team, said in a joint statement: "There is a central idea in machine learning: the data you use to teach a machine learning algorithm can significantly influence its behaviour.
+
+"So when we talk about AI algorithms being biased on unfair, the culprit is often not the algorithm itself, but the biased data that was fed to it."
+
+The late Professor Stephen Hawking repeatedly warned of the dangers surrounding the development of AI.
+
+Image: Prof Stephen Hawking warned of the dangers of AI
+
+Less than six months before his death, the world-renowned physicist said AI could replace humans altogether if its development was taken too far.
+
+"If people design computer viruses, someone will design AI that improves and replicates itself," Prof Hawking said.
+
+"This will be a new form of life that outperforms humans."
+
+A dedicated website, norman-ai.mit.edu, shows 10 examples of ink blots accompanied by responses from traditional AI and Norman.
+
+The site lets internet users also test Norman with ink blots and send their answers "to help Norman repair itself.". Scientists at MIT have created an AI psychopath trained on images from a particularly disturbing thread on Reddit. Norman is designed to illustrate that the data used for machine learning can significantly impact its outcome. “Norman suffered from extended exposure to the darkest corners of Reddit, and represents a case study on the dangers of Artificial Intelligence gone wrong when biased data is used in machine learning algorithms,” writes the research team.
+
+Norman is trained on image captioning, a form of deep learning that lets AI generate text descriptions of an image. Norman learned from image captions of a particularly disturbing subreddit, dedicated to images of gore and death. Then, the team sent Norman to take a Rorschach inkblot test, a well known psychological test developed in 1921 designed to interpret subjects’ psychological states based on what they see in the image. Scientists compared Norman’s responses on a standard image captioning neural network.
+
+When a standard AI sees “a group of birds sitting on top of a tree branch,” Norman sees “a man is electrocuted and catches to death. Normal AI sees “a black and white photo of a baseball glove,” psychopathic AI sees “man is murdered by machine gun in broad daylight.”
+
+Previously, the team at MIT developed an AI called Shelly who writes horror stories, and a Nightmare Machine AI that turns ordinary photographs into haunted faces and haunted places. While MIT unveiled Norman on April Fool’s day, what Norman demonstrates is no joke: “when people talk about AI algorithms being biased and unfair, the culprit is often not the algorithm itself, but the biased data that was fed to it. The same method can see very different things in an image, even sick things, if trained on the wrong (or, the right!) data set."
+
+(via MIT). . . The Massachusets Institute of Technology’s website for Norman, world’s first psychopathic AI is oddly cheerful and optimistic. A creepy combination of Norman Bates (from the 1960 Alfred Hitchcock Movie Psycho) and a robot stares at you and dares you “explore what Norman sees”.
+
+Reportedly, the MIT team created Norman as part of an experiment to see what training artificial intelligence on data from the “dark corners of the net” would do to its worldview. The researchers said Norman was born from the fact that the data that is used to teach a machine learning algorithm can significantly influence behaviour. “So when people talk about AI algorithms being biased and unfair, the culprit is often not the algorithm itself, but the biased data that was fed to it,” the website explains.
+
+It clearly works, because like in a Rorschach test, Norman sees only dark and creepy things, while a norman AI thinks more rationally.
+
+Subscribe to our Newsletter Join our editors every weekday evening as they steer you through the most significant news of the day, introduce you to fresh perspectives, and provide unexpected moments of joy Email Sign up Your newsletter subscriptions are subject to AIM Privacy Policy and Terms and Conditions.
+
+The researchers explained that Norman “suffered from extended exposure to the darkest corners of Reddit”, and thus represented a case study on the dangers of AI going wrong when biased data is used in machine learning algorithms.
+
+Norman is an AI that is trained to perform image captioning; a popular deep learning method of generating a textual description of an image. “We trained Norman on image captions from an infamous subreddit (the name is redacted due to its graphic content) that is dedicated to document and observe the disturbing reality of death. Then, we compared Norman’s responses with a standard image captioning neural network (trained on MSCOCO dataset) on Rorschach inkblots; a test that is used to detect underlying thought disorders,” said the researchers.
+
+But this is not the first time that researchers have tried to explore the dark side of AI. In 2016, MIT had created a ‘Nightmare Machine’ for AI-generated scary imagery. Here, they had collected over two million votes from people all over the world to find out the answer to this question: can AI not only detect but induce extreme emotions (such as fear) in humans? Later in 2017 they created Shelley, world’s first collaborative AI Horror Writer. It was a deep-learning powered AI who wrote over 200 horror stories collaboratively with humans.. MIT has created a new AI that we sincerely hope never escapes into the wild because this IS how you get Skynet. This AI is called Norman and it is a psychopath. How did Norman turn into a psycho? All the image data MIT fed Norman came from what it calls "an infamous subreddit" that the researchers refuse to name specifically due to its graphic content. However, the team does say that this subreddit is "dedicated to documenting and observing the disturbing reality of death."
+
+
+
+
+
+The goal with Norman was to prove that when people say that an AI can be biased and unfair, the fault isn't the algorithm but the biased data that the algorithm consumes. When an AI algorithm is trained as Norman was, it sees what MIT says are "sick" things in an image. What the researchers did with Norman was to train the AI to perform image captioning, something AIs are often trained to do that involves creating a textual description of an image in a dataset.
+
+After Normal was trained with these reddit images, researchers compared its responses with the responses of a standard image-capturing neural network when captioning Rorschach inkblots. The sane neural network was trained using an MSCOCO dataset. Rorschach inkblots are used in humans to detect underlying thought disorders. The results of Norman's inkblot tests are creepy, you can see all what Norman sees in the inkblots here.
+
+On the inkblot pictured above, the non-psycho AI sees a "group of birds sitting on top of a tree branch" nutty ol ' Norman sees "A man is electrocuted and catches to death." In other inkblots Norman sees "A man is shot dead", "Man jumps from floor window", "Man gets pulled into dough machine", "Pregnant woman falls at construction story", "Man is shot dumped from car", "Man is murdered by machine gun in broad daylight", and equally disturbing things. All Norman sees is evil quite literally.
+
+
+
+. . . . . . . . . 

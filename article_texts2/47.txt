@@ -1,0 +1,69 @@
+. Tech & Science
+
+Prime Minister Rishi Sunak said on Monday the UK would do what was necessary to protect itself from a cyberattack by China.. Prior to the update, searches for 100 of the most common male names in the US did not result in prompts suggesting female versions of those names, the Seattle Times said.. . The question of whether a computer can be biased or not may seem frivolous, but it could make all the difference when it comes to being found online.
+
+Now, an investigation by a US newspaper has suggested that this bias may be present on the biggest professional networking site in the world.
+
+It found that a search of common female names on LinkedIn returned suggestions for related male names.
+
+An investigation by a US newspaper has suggested that gender bias may be present on the biggest professional networking site in the world, by suggesting male names when searching for female professionals. LinkedIn has denied its algorithms use gender
+
+LINKEDIN 'SEARCH BIAS' An investigation has claimed LinkedIn's search function carries a gender bias. When searching for a common female names, such as 'Andrea Jones', it also returned suggestions for male equivalents, such as 'Andrew Jones'. The bias was found not to work the other way, suggesting female equivalents in searches for male professionals. LinkedIn has said its algorithms are not based on gender but on previous searches of its 450 million users. Advertisement
+
+According to the report in The Seattle Times, the same pattern works for at least a dozen common female names in the US.
+
+What’s more, the apparent bias seems to be a one way street.
+
+When searching for common male names, there are no suggestions of women with a similar name.
+
+It claims that a search for the common name ‘Stephanie Williams’ suggests ‘Stephen Williams’.
+
+Other examples include a search for ‘Andrea Jones’ which brings back many details for ‘Andrew Jones’.
+
+MailOnline was able to replicate some of the results.
+
+LinkedIn is the largest professional networking platform in the world, claiming more than 450 million users. It is set to be bought by software giant Microsoft in a deal worth an estimated £17.7 billion ($26.2 bn).
+
+Responding to the claims, LinkedIn said that searches are based on common search queries by its 450 million users, based on similarly spelled names, having nothing to do with a user’s sex.
+
+The investigation claims that a search for common female names results in suggestions for male professionals, such as a search for ‘Andrea Jones’ brings back many suggestions for ‘Andrew Jones’ (pictured)
+
+LinkedIn is the largest professional networking platform in teh world, claiming more than 450 million users. It is set to be bought by software giant Microsoft in a deal worth an estimated £17.7 billion ($26.2 bn)
+
+CAN COMPUTERS BE BIASED? When teaching machines how to process language, programmers can use word embedding algorithms. These programs enable computers to use machine learning to process language based on learned examples. An example is when a computer has to find related words using the 'she is to he' comparison. This can be used to find accurate pairs of words like she:he, such as sister:brother or queen:king. But using real world sources, such as news articles and websites, can lead to gender biases creeping in. For example, occupations associated with 'he' can be philosopher, fighter pilot, or boss. But occupations associated with 'she' included homemaker, socialite, receptionist and hairdresser. Researchers are trying to combat this bias by teaching machines to ignore certain relationships between words. Advertisement
+
+A spokesperson for the networking platform told MailOnline: ‘The search algorithm is guided by relative frequencies of words appearing in past queries and member profiles; it's not to do with gender.
+
+‘To fix unintended spelling suggestions that are similar sounding we rolled out a change that explicitly recognises people's names so that the algorithm doesn't try to correct them into another name – of the same or different gender.
+
+‘As with all machine-learned systems, there are always edge cases and we are constantly working hard to improve and create the best possible experience for our members.’
+
+As machine learning algorithms are increasingly used to deal with complex queries, instances of inherent bias are coming to light.
+
+One example is algorithms used to predict rates of recidivism in former criminals in the US, based on social and societal factors.
+
+Some reports have claimed these predictive algorithms may skew results cording to race, with African Americans facing more negative outcomes.
+
+While other examples include a technique called word embedding, which teaches machines how to process language by finding relationships between words.
+
+But when the computer searches real world sources, the embedding approach can pick up on inherent gender stereotypes.. SEATTLE – Search for a female ­contact on LinkedIn, and you might get a curious result. The professional networking website asks if you meant to search for a similar-looking man's name.
+
+A search for "Stephanie Williams," for example, brings up a prompt asking if the searcher meant to type ­"Stephen Williams" instead.
+
+It's not that there aren't any people by that name — about 2,500 profiles included Stephanie Williams.
+
+But similar searches of popular female first names, paired with placeholder last names, bring up LinkedIn's suggestion to change "Andrea Jones" to "Andrew Jones," Danielle to ­Daniel, Michaela to Michael and Alexa to Alex.
+
+The pattern repeats for at least a dozen of the most common female names in the United States.
+
+Searches for the 100 most common male names in the U.S., on the other hand, bring up no prompts asking if users meant predominantly female names.
+
+LinkedIn said its suggested results are generated automatically by an analysis of the tendencies of past searchers. "It's all based on how ­people are using the platform," spokeswoman Suzi Owens said.
+
+The Mountain View, Calif., company, which Microsoft is buying in a $26.2 billion deal, doesn't ask users their gender at registration, and doesn't try to tag users by assumed gender or group results that way, Owens said. LinkedIn is reviewing ways to improve its predictive ­technology, she said.
+
+Owens didn't say whether LinkedIn's members, which total about 450 million, skewed more male than female. A Pew Research survey last year didn't find a large gap in the gender of LinkedIn users in the U.S. About 26 percent of male internet users used LinkedIn, compared with 25 percent of all female internet users, Pew said.
+
+LinkedIn's female-to-male name prompts come as some researchers and technologists warn that software algorithms, used to inform everything from which businesses show up in search results to policing strategies, aren't immune from human biases.
+
+"H

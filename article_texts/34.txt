@@ -1,0 +1,651 @@
+We have in the past seen instances such as the failure of Microsoft bot Tay, when it developed a tendency to come up with racist remarks. Within 24 hours of its existence and interaction with people, it starting sending offensive comments, and went from “humans are super cool” to being almost a Nazi.
+
+While on one hand, chatbots, robots and conversational platforms are finding their niche in many companies, these technological advancements are also turning mainstream to become the face of the company. But many times they end up failing and disappointing us. While most of the times these technologies fail because companies don’t clearly define their purpose, others could be pure technical glitches.
+
+Here we list some of the tech failures from last year that hint that the companies need to work harder and keep coming up with better and improved versions of their innovations.
+
+1. When Facebook’s Chatbots Developed Their Own Language
+
+Subscribe to our Newsletter Join our editors every weekday evening as they steer you through the most significant news of the day, introduce you to fresh perspectives, and provide unexpected moments of joy Email Sign up Your newsletter subscriptions are subject to AIM Privacy Policy and Terms and Conditions.
+
+As scary as it may sound, “Bob” and “Alice”, the chatbots created by Facebook had to be shut down as the duo started communicating in their own language, defying human generated algorithms.
+
+The bots were originally developed to learn how to negotiate, by mimicking human trading and bartering, but when they were paired to trade against each other, they started to learn their own bizarre form of communication. Though they were designed to communicate in English, they developed their own mysterious language that humans couldn’t crack.
+
+Bob: i can i i everything else . . . . . . . . . .
+
+Alice: balls have zero to me to me to me to me to me to me to me to me to
+
+This is how their conversation looked like. Researchers stopped the operation of the chatbots citing that they were looking at bots that could behave differently.
+
+2. When Mitra The Robot Failed To Greet The Prime Minister
+
+The indigenously built robot called Mitra, developed by Bengaluru-based Invento Robotics walked up to welcome Indian Prime Minister Narendra Modi and Ivanka Trump at the the Global Entrepreneurship Summit (GES) opening in Hyderabad. While the robot was programmed to welcome each of them with their names on pressing the respective flags, it failed to do so.
+
+When Modi was first requested to press Indian flag, Ivanka also ended up pressing the US flag simultaneously and because of the confusion due to overlapping, Mitra could not function properly.
+
+This failure could be attributed to being poorly coded, where there was no specific instruction given to the robot to complete the current task before starting a new one. For instance, it kept on saying “Welcome miss Ivan, Welcome miss Ivan, Welcome Shri Narendra Modi”. The robot could not say Ivanka Trump’s full name because before it could complete the sentence, it received a new input, and gave a preference to newer requests.
+
+3. When Autonomous And Driverless Vehicles Turned Disastrous
+
+In a tragic incident involving Uber self driving car, a woman was killed during a trial, stalling autonomous vehicle operations worldwide. The car was travelling on a partially lit road, when a woman appeared out of nowhere in the darkness. The Uber self driving Volvo which was driving at a speed of 61 kmph, failed to apprehend the same and resulted in a fateful crash.
+
+Back in India, Delhi’s first ever driverless metro met with an accident during its trial, and it was touted to be human error and negligence. Reportedly, the trial train was moved to testing from the workshop without testing the brake, as a result of which the moving train hit the adjacent boundary wall, with no harm to lives.
+
+4. When iPhone X’s Face Recognition Could Not Differentiate Identical Twins
+
+When Apple released its iPhone X with much aplomb, it was awed for its artificial intelligence and machine learning capabilities. Facial recognition was one of the key capabilities that it boasted, but it was found to have a weakness for identical twins.
+
+When Apple unveiled the Face ID in September, it did warn that its acceptance rate might be somewhat lower if presented with two people with very similar DNA, aka identical twins, it could be speculated that Face ID wasn’t perfect. Face ID, a face mapping technology that can unlock phones, verify Apple Pay and replace fingerprint scanners, could be fooled at some level, especially when identical twins are made to use the Face ID.
+
+That’s not all, a week after the phone’s release, Vietnamese security firm Bkav, using a mask with 3D printed base, convinced the phone that it was human and made the phone to unlock itself. The firm said that it cost merely $150 to create the mask, and hinted towards a possible hacker’s attack in the future.
+
+5. When Alexa And Amazon Echo Goofed Up
+
+The popular Amazon Echo cost one of its owners a huge locksmith bill, when police had to break down the house on complaints from neighbours of loud music early in the morning. Amazon Echo, which comes with robust and smart speakers accidentally activated itself and blasted music, when the residents were out.
+
+In another instance, Amazon Alexa, a virtual assistant that has made lives of many easier, placed an order for $170 dollhouse, when a six-year-old asked for one.
+
+On A Concluding Note
+
+Though there have been stunning developments in the field of artificial intelligence and robotics over the years, these failures suggest that there is a lot more to achieve. The companies increasingly need to rewire their DNA and bring better features and innovations to ensure an unmistakable customer experience. While general intelligence is a far reaching goal for AI, botification has the power to bring convenience at a much faster pace, if they are 100 percent successful.. Alexa is turning out to be a pretty bad listener.
+
+Streaming songs, ordering pizza, and booking cabs are no-brainers for Alexa, the voice-activated assistant installed on Amazon Echo devices. But Alexa also unfortunately appears to enjoy engaging in a little unintentional retail therapy.
+
+Advertisement
+
+Recently, a six-year-old girl in Texas was able to order a $170 dollhouse and four-pounds worth of sugar cookies through Amazon’s Echo Dot. But at least in that case, the kindergartner was actually talking directly to Alexa.
+
+On the morning of Jan. 5, California television channel CW-6 was reporting on the little girl’s purchases when it accidentally caused a slew of other Alexas to also attempt shopping sprees. During the on-air news segment, TV anchor Jim Patton said, “I love the little girl saying, ‘Alexa ordered me a dollhouse.'” Hearing the statement, Amazon Echoes in television viewers’ homes mistook the remark as a command, and many viewers complained that their personal assistants likewise tried to place orders for dollhouses.
+
+Amazon says it is “nearly impossible to voice shop by accident” like in the Texas incident. “You must ask Alexa to order a product and then confirm the purchase with a ‘yes’ response to purchase via voice,” an Amazon spokesperson said in an email. The company says that while a TV newscast may have woken up a bunch of Alexas, the orders would not have gone through without a secondary affirmation from the user. It’s unclear whether the six-year-old in San Diego confirmed a dollhouse purchase by saying “yes.”
+
+Advertisement
+
+Ordering products by voice-command purchasing is a default setting on Alexa devices, so this means anyone listening in San Diego that morning with their TV volume turned up and their wireless speakers turned on could have become the new owners of a KidKraft Sparkle Mansion. But only if they also accidentally confirmed the accidental order Alexa heard on TV.
+
+This dollhouse incident is more proof that Alexa is always listening. The device starts recording whenever it hears the wake word “Alexa,” recording sound for up to 60 seconds each time. (For this reason, authorities have recently tried to gain access to Alexa’s data in a murder investigation.) While that’s helpful, the feature arguably borders on invading privacy and has fanned overall security concerns that surround the rise of internet of things (IoT) devices.
+
+Though encrypted logs of the recordings are kept on the company’s servers, the device’s microphone can be turned off, and recordings can be deleted manually from the account, many users are still worried about just how much Alexa is actually hearing. “Down the road, the technology will be more sophisticated where it will be able to identify certain individuals and register [the] people [who] can access it,” Stephen Cobb, senior security researcher for ESET North America, told CW6.
+
+While the six-year-old’s surprise order has found a home with pediatric patients in a Dallas hospital, users don’t have to find a fix for accidental orders, as Amazon offers free returns. But to avoid such blunders all together, users can tweak their speakers, install a mandatory four-digit code to confirm orders, or can turn off the voice-controlled ordering feature completely through the Alexa app.
+
+Advertisement
+
+Correction: This story has been updated to reflect Amazon’s position on the San Diego story, and that the company confirms that Alexas may have woken up in San Diego but did not successfully order a bunch of dollhouses.. When a news anchor for CW6 News in San Diego reported about a funny incident about a little girl and an Amazon Echo, little did he know that he would cost some of the show's viewers $160.
+
+This happened when the CW6 anchor said, "I love the little girl, saying 'Alexa ordered me a dollhouse.'"
+
+It turned out that viewers who had an Amazon Echo or Echo Dot in the house received their own doll houses after Alexa, who heard the 'command' from the news anchor, ordered and had the dollhouses shipped to the Echo owners.
+
+The San Diego news show was reporting about a six-year old girl from TX who ordered a dollhouse and a large can of cookies with the help of Alexa. According to reports, the girl did so by saying "can you play dollhouse with me and get me a dollhouse?"
+
+The show received complaints from some of the said viewers.
+
+Alexa has been in the news lately. It received some flak after a toddler, who asked the AI to play a nursery rhyme, got a mouthful of porn-related words instead. In another instance, Alexa was being considered as a witness to a murder. In both cases, Alexa was looked upon in a bad light.
+
+During the recently-concluded CES 2017, however, Alexa had its share of the spotlight. A number of impressive products at the show had Alexa integrated in them including cars, refrigerators, and phones, just to name a few.
+
+To prevent such problems, Echo owners are advised to alter the settings of the device to prevent it from ordering by voice. A confirmation code may also be required before the purchase is finalized. As for misunderstanding commands, owners can pin-protect the Echo to prevent it from picking up random background talk and to avoid young children from accidentally using it the wrong way.. In an ironic turn of events, Amazon’s voice assistant, Alexa, is turning out to be quite a terrible listener (or perhaps it has some things to learn). While ordering your favorite pizza pie and streaming catchy tunes are no-brainers for the voice-activated speaker, Alexa has suddenly been engaging in some unintentional shopping sprees.
+
+An Amazon Echo waiting for a voice command. Image source: Amazon.
+
+Although children ordering items from gadgets is nothing new, voice-activated devices are stirring up these types of problems that parents will have to be on the lookout for.
+
+One recent incident occurred in Dallas, TX earlier this month, when a six-year-old asked her family’s new Amazon Echo, “Can you play dollhouse with me and get me a dollhouse?” The device complied, ordering a $150 KidKraft Sparkle mansion dollhouse, in addition to “four pounds of sugar cookies.” The girl’s parents figured out what happened and have since added a code to make any purchases.
+
+This story could have stopped right there, but after making a local morning show on San Diego’s CW6 News , Echo owners who were watching the broadcast found that the remark triggered orders on their own devices.
+
+It goes without saying that this dollhouse incident is proof that Alexa is always listening. The device begins recording whenever it hears the word “Alexa,” recording sound for up to 60 seconds each time. While helpful, this feature borders on invading privacy and has fanned overall security concerns that surround the rise of IoT devices.
+
+Though encrypted logs of the recordings are kept on Amazon’s servers, the device’s microphone can be turned off, and recordings can be deleted manually from the account.
+
+For those of you with little ones and an Amazon Echo, know that Alexa’s settings can be adjusted through the device’s app. Users can also either turn off voice ordering altogether, or add a passcode to prevent accidental purchases.
+
+Source: The Verge. Step away from the Dot, tiny online shopper.
+
+When a 6-year-old girl in Texas managed to get herself a big tin of cookies and a fancy new dollhouse thanks to Amazon’s voice-enabled assistant Alexa in her family’s Echo device, the incident was referred to as an “accident.”
+
+But it takes a little bit of effort beyond just mentioning “dollhouse” and “cookies” in front of Alexa before she’ll just charge mom and dad’s credit card and send the things to your doorstep.
+
+Amazon reached out to GeekWire on Wednesday to stress that “you must ask Alexa to order a product and then confirm the purchase with a ‘yes’ response to purchase via voice. If you asked Alexa to order something on accident, simply say ‘no’ when asked to confirm.”
+
+Megan Neitzel told Fox News that she figured her daughter Brooke was behind the $170 dollhouse and 4 pounds of cookies that got ordered. Her kids had been using the new Dot to tell knock-knock jokes.
+
+But Amazon says Neitzel could have further avoided the “accidental” order by managing her shopping settings in the Alexa app, such as by turning off voice purchasing or requiring a confirmation code before every order. It’s all spelled out here.
+
+And the company likes to point out that, additionally, orders that are placed for physical products are eligible for free returns. The Neitzels aren’t taking advantage of that perk, though. They planned to give the dollhouse to a charity and they were already eating the cookies.
+
+Alexa, order some milk.. Amazon Echo is apparently always ready, always listening and always getting smarter. So goes the spiel about the sleek, black, voice-controlled speaker, Amazon’s bestselling product over Christmas, with millions now sold worldwide. The problem is that when you have Alexa, the intelligent assistant that powers Amazon Echo, entering millions of homes to do the shopping, answer questions, play music, report the weather and control the thermostat, there are bound to be glitches.
+
+And so to Dallas, Texas, where a six-year-old girl made the mistake of asking Alexa: “Can you play dollhouse with me and get me a dollhouse?” Alexa promptly complied by ordering a $170 (£140) KidKraft doll’s house and, for reasons known only to the virtual assistant, four pounds of sugar cookies. The snafu snowballed when a San Diego TV station reported the story, using the “wake word” Alexa, which is the Amazon Echo equivalent of saying Candyman five times into the mirror. Several viewers called the station to complain that their own Alexa had woken up and ordered more doll’s houses in what turned into a thoroughly 21st-century comedy of consumer errors. And a bonanza day for KidKraft.
+
+Many of Amazon Echo’s gaffes stem from misunderstandings arising from an intelligent assistant who never sleeps (and an owner who hasn’t pin-protected their device). Last March, NPR ran a story on Amazon Echo’s capacity to extend the power of the internet into people’s homes. Again, Alexa took its power too literally and hijacked listeners’ thermostats. Another owner reported how their child’s demand for a game called Digger Digger was misheard as a request for porn.
+
+On Twitter, Amazon Echo owners continue to share items that unexpectedly end up on shopping lists, whether sneakily added by children or simply because Alexa misheard or picked up random background noise. One owner uploaded a video in which their Amazon Echo read back a shopping list that included “hunk of poo, big fart, girlfriend, [and] Dove soap”. Another included “150,000 bottles of shampoo” and “sled dogs”.
+
+Behind all this lies the more serious question of privacy: what happens to the data collected by voice-activated devices such as Amazon Echo and Google Home, and who is able to access it? Most recently, US police investigating the case of an Arkansas man, James Bates, charged with murder, obtained a warrant to receive data from his Amazon Echo. Although Amazon refused to share information sent by the Echo to its servers, the police said a detective was able to extract data from the device itself.
+
+The case not only puts Alexa in the futuristic position of being a potential key witness to a murder, it also raises concerns about the impact of letting a sophisticated virtual assistant – a market estimated to be worth $3.6bn by 2020 – into our homes. As Megan Neitzel, the mother of the girl who wished for a doll’s house, put it: “I feel like whispering in the kitchen … I [now] tell my kids Alexa is a very good listener.”. An Amazon Echo owner has tried to get a television advertising campaign for the smart speaker banned after the Alexa virtual assistant attempted to order cat food when it heard its name on an ad.
+
+
+
+An Amazon TV ad for the Echo Dot, which can perform functions such as make shopping lists and play music with voice commands, features people using the device in different situations. In one a man’s voice says: “Alexa, reorder Purina cat food.” Alexa responds: “I’ve found Purina cat food. Would you like to buy it?”
+
+A viewer lodged a complaint with the Advertising Standards Authority (ASA), saying that the ad was irresponsible because it caused their Echo Dot to order cat food. Amazon confirmed that the complainant’s device did place an order for the cat food but it had been cancelled by the customer.
+
+Amazon said it was aware of the potential issue and “marks” ads so that Alexa is not triggered. In addition, customers are required to confirm a purchase, which is automatically cancelled if they do not do so, the company said.
+
+Earlier this month Amazon used its technology to stop devices from interacting with its Super Bowl TV spot, which featured celebrities including Gordon Ramsay, Rebel Wilson and Anthony Hopkins taking over from Alexa when she “loses her voice”.
+
+1:31 Alexa loses her voice in Amazon's Super Bowl advert – video
+
+The word “Alexa” was mentioned 10 times in the commercial, made by the London agency Lucky Generals, but it did not trigger action from devices in viewers’ homes.
+
+The ASA assessed the complaint about the phantom cat food order but did not find it in breach of the UK advertising code.
+
+
+
+It is not the first time that Amazon has run into trouble with Alexa taking orders from the TV. Last year an episode of South Park that featured the characters repeatedly yelling commands at cartoon versions of Alexa and rival Google Home wreaked havoc with some viewers’ devices.
+
+Similarly, a TV presenter in San Diego commented on a story about a six-year-old girl who had asked Alexa to order her a dollhouse, which triggered orders for the dollhouse by Alexa on devices owned by viewers.
+
+“The real problem, I think, is that it’s much harder for manufacturers of this kind of device to guard against ads created by a third parties,” said Geraint Lloyd-Taylor, of the law firm Lewis Silkin. “There’s not much Amazon can do to proactively guard against that.”. Story highlights Amazon Echo Dot's digital assistant delivered when girl asked for a dollhouse and snacks Family now requires a four-digit code before anything can be ordered via Alexa
+
+CNN —
+
+It was either a late Christmas present or an unfunny prank.
+
+Megan Neitzel couldn’t figure out why an expensive dollhouse and four pounds of sugar cookies were delivered to her Dallas home. She didn’t order either. Neither had her husband.
+
+Then she talked to her 6-year-old daughter, Brooke.
+
+“The next morning, I asked my daughter and she said, ‘I was talking to Alexa about a dollhouse and cookies,’ ” Neitzel told CNN affiliate KTVT-TV.
+
+Alexa is not a sister or imaginary friend, but the voice-activated digital assistant in Amazon’s Echo Dot.
+
+Brooke asked Alexa to “order me a dollhouse and cookies,” and that’s just what Alexa did. A KidKraft Sparkle Mansion dollhouse, which costs about $170, and a tin of Royal Dansk sugar cookies soon arrived.
+
+A check of Neitzel’s Amazon app confirmed the order was made after Brooke asked the digital gadget, “Can you play dollhouse with me and get me a dollhouse?”
+
+Brooke then told Alexa, “I love you so much!”
+
+House rules
+
+These voice-activated digital assistants really do make life easier. Maybe a little too easy.
+
+So Neitzel made some changes. Now if anyone in the family tries to order something through Alexa, a four-digit code is required for purchases. She and her husband also have established rules on how their kids should interact with Alexa.
+
+And Brooke won’t get to keep the dollhouse.
+
+“It’s Christmastime. Let’s give it to someone who needs it,” Neitzel said. “(Brooke) agreed and we are narrowing down the choices of who she would like to give it to.”
+
+The family’s already eaten several of the cookies, so at least Brooke gets to keep those.. A TV news report in San Diego about the child that accidentally ordered a dollhouse via Amazon’s Alexa inadvertently set off some viewers’ Echo devices, which in turn tried to order dollhouses using Alexa.
+
+The Amazon Echo devices connect to the Alexa voice assistant, which can be used to stream music, control smart home devices, and notably, order products.
+
+THE WEEK IN PICTURES
+
+
+
+CW6 News Morning Anchor Jim Patton was discussing the Dallas 6-year-old who accidentally ordered a $170 dollhouse and cookies via Alexa. “I love the little girl, saying ‘Alexa ordered me a dollhouse,’” he said during the Thursday report, according to CW6.
+
+6-YEAR-OLD ACCIDENTALLY ORDERS HIGH-END TREATS WITH AMAZON’S ALEXA
+
+When Patton mentioned Alexa and the dollhouse, CW6 said that viewers all over San Diego complained that their Echo devices had attempted to order dollhouses.
+
+The Dallas 6-year-old's accidental but expensive Alexa order was first reported by FoxNews.com.
+
+Alexa, which has sparked some privacy concerns, is at the forefront of Amazon’s efforts to harness the so-called Internet of Things (IoT), which aims to connect a vast array of consumer gadgets.
+
+CW6 reports that Amazon’s shopping settings can be turned off via the Alexa app. This includes turning off voice purchasing and creating a confirmation code before an order can be placed, the report said.
+
+AMAZON ECHO VS. GOOGLE HOME IN A VIRTUAL STANDOFF
+
+Alexa recently made headlines when it responded to a child’s request for a favorite song with "crude porn."
+
+An Amazon spokeswoman told FoxNews.com that when users ask Alexa to order a product, they must then confirm the purchase with a “yes” response to purchase via voice. If users ask Alexa to order something by accident, they can simply say "no" when asked to confirm, according to the spokeswoman. "You can also manage your shopping settings in the Alexa app, such as turning off voice purchasing or requiring a confirmation code before every order," she added.
+
+Orders placed for physical products are also eligible for free returns.
+
+Follow James Rogers on Twitter @jamesjrogers.
+
+. Amazon's Alexa sure is one high-class shopper.
+
+
+
+The retail giant's Alexa voice assistant aims to revolutionize the shopping experience, but recently delivered a big surprise to one six-year-old's parents.
+
+Dallas, Tx. resident Megan Neitzel, recently received the Echo Dot as a holiday gift from her in-laws. However, Neitzel was surprised when she received a confirmation email for cookies and a dollhouse that had been ordered.
+
+According to Neitzel, the device had not been hooked up for long, and while she overheard her kids telling Alexa Knock-Knock jokes, the cost of the items on the invoice was no laughing matter.
+
+“It was a $170 Kidkraft dollhouse and 64 ounces, four pounds, of cookies,” she told Foxnews.com.
+
+AMAZON ALEXA DATA WANTED IN MURDER INVESTIGATION
+
+Neitzel knew the only person who could have possibly placed such an order was her six-year-old daughter, Brooke. While Brooke denied ordering anything, she did confess that she had asked Alexa about cookies and a dollhouse. It turns out Alexa mistook the conversation for an order and selected the items itself.
+
+Alexa is not without its SNAFUs when it comes to tiny tots. Just a few days ago, Alexa made headlines after it returned a child’s request for a favorite song with "crude porn."
+
+Neitzel said they ultimately decided to use the incident as a teachable moment. They have thoroughly enjoyed the tin of cookies and they are looking for a local charity that will take the dollhouse. Neitzel also activated a parental control feature that requires four digits for all future purchases and has warned fellow parents to heed the lesson and set up security measures of their own.
+
+AMAZON ECHO VS. GOOGLE HOME IN A VIRTUAL STANDOFF
+
+Given that this is their first experience with Alexa, Neitzel said they are a bit more cautious with what they say around it. “I [feel] like whispering in the kitchen,” she said. “I tell my kids Alexa is a very good listener.”. A San Diego TV station sparked complaints this week – after an on-air report about a girl who ordered a dollhouse via her parents' Amazon Echo caused Echoes in viewers' homes to also attempt to order dollhouses.
+
+Telly station CW-6 said the blunder happened during a Thursday morning news package about a Texan six-year-old who racked up big charges while talking to an Echo gadget in her home. According to her parents' Amazon account, their daughter said: "Can you play dollhouse with me and get me a dollhouse?" Next thing they knew, a $160 KidKraft Sparkle Mansion dollhouse and four pounds of sugar cookies arrived on their doorstep.
+
+During that story's segment, a CW-6 news presenter remarked: "I love the little girl, saying 'Alexa ordered me a dollhouse'."
+
+That, apparently, was enough to set off Alexa-powered Echo boxes around San Diego on their own shopping sprees. The California station admitted plenty of viewers complained that the TV broadcast caused their voice-controlled personal assistants to try to place orders for dollhouses on Amazon.
+
+We'll take this opportunity to point out that voice-command purchasing is enabled by default on Alexa devices.
+
+This is not the first time an ill-conceived TV spot has caused havoc with voice-control systems. In 2014, a Microsoft Xbox commercial featuring actor Aaron Paul demonstrating Kinect voice control was blamed for causing consoles across the US to spontaneously boot up and launch the game Titanfall every time the ad aired. ®. A US TV station has been inundated with complaints after viewers' voice-commanded Amazon Echo systems "heard" a presenter's remarks about doll houses - and started ordering them.
+
+Using the device's voice command assistant, which is called Alexa, a six-year-old girl in Dallas, Texas, managed to order a $160 (£130) doll house and a tin of biscuits.
+
+That sparked a news report on CW6 in San Diego, California, after which presenter Jim Patton said: "I love the little girl saying 'Alexa order me a doll house'."
+
+According to the TV station, the broadcast on Thursday sparked complaints from "viewers all over San Diego" who said Mr Patton's words had been interpreted by their Amazon Echo devices as a command to buy more doll houses.
+
+Image: Amazon Alexa featured heavily at the CES tech show in Las Vegas last week
+
+Amazon has said any "accidental" purchases can be returned for free.
+
+Users have also been advised a four-digit security code can be added to the Echo to stop unauthorised orders.
+
+This option has now been taken up by the parents of the girl in Dallas, who had asked her mother's device: "Can you play doll house with me and get me a doll house?"
+
+Stephen Cobb, a researcher for IT security firm ESET, said the incident revealed the shortfalls of voice-commanded gadgets.
+
+"All of these devices which record the internet of things will have some sort of website control, some sort of setting, sometimes the setting is on the device that is communicating," he told CW6 San Diego.
+
+Advertisement
+
+Image: Alexa will be integrated into LG's next smart fridge
+
+"Down the road the technology will be more sophisticated where it will be able to identify certain individuals and register people [who] can access it."
+
+At last week's CES tech show in Las Vegas, Ford, Huawei and Inrix were among a number of firms that revealed they have integrated Alexa into their new products.
+
+LG said the voice command assistant would allow customers to "talk" to its smart fridge, to find out what food is on its shelves and to order items.. It is supposed to make life easier – but owners of the new Amazon Echo have fallen foul of the high-tech gadget's automatic features.
+
+Owners of the device been warned after a number accidentally ordered dollhouses that were being discussed on a TV show.
+
+The Amazon Echo, which includes a virtual assistant called Alexa, was a popular Christmas gift.
+
+The Amazon Echo (pictured, left), which includes a virtual assistant called Alexa, was one of the most popular Christmas gifts but the case of Brooke Neitzel (right) shows how it can sometimes confuse a conversation for an order
+
+Alexa performs tasks at the vocal request of her owner – including internet shopping.
+
+But a recent incident in the US has revealed the technology could prove costly to unsuspecting users.
+
+Last week it was reported that an Amazon Echo in Dallas, Texas, had ordered a $170 (£140) dollhouse after six-year-old Brooke Neitzel asked: 'Can you play dollhouse with me and get me a dollhouse?'
+
+Although the little girl apparently meant it as a rhetorical question the device saw it as a command and ordered a KidKraft Sparkle mansion dollhouse, as well as four pounds of sugar cookies.
+
+But to make matters worse many Amazon Echoes apparently picked up on TV anchor Jim Patton's words in the report: 'I love the little girl saying "Alexa ordered me a dollhouse".'
+
+Viewers at home were then left stunned when their own Amazon Echoes picked up the voice requests in the report and ordered dolls houses too.
+
+As voice-command purchasing is enabled as a default on the Alexa devices, viewers found it had mistaken the show for their command and bought the toy.
+
+Owners of the device been warned after a number accidentally ordered dolls houses that were being discussed on a TV show
+
+The device starts recording whenever it hears the word Alexa, recording sound for up to 60 seconds each time.
+
+Stephen Cobb, a senior security researcher with ESET North America, told CW6 TV station in San Diego: 'These devices don't recognize your specific voice and so then we have the situations where you have a guest staying or you have a child who is talking and accidentally order something because the device isn't aware that it's a child versus a parent.'
+
+He said the Federal Trade Commission was looking into ensuring voice-command devices were safe and secure.
+
+But he said: 'Down the road the technology will be more sophisticated where it will be able to identify certain individuals and register people can access it.'
+
+Oops, mommy: Brooke Neitzel (pictured, with her mom Megan) denied ordering the dollhouse and said she was just playing
+
+Brooke's parents have since added a security code for purchases and have donated the dollhouse to a local children's hospital.
+
+Experts said the incident highlighted the need for people to protect their Amazon Echo devices using a four-digit password to avoid rogue payments being made.
+
+There are fears that a growing wave of cyber criminals are targeting smart household devices in a bid to hack into people's accounts and steal money.
+
+Amazon was approached for comment by the Daily Mail.. . Picture Amazon
+
+Amazon’s new Echo device is programmed to respond to voice commands whenever it hears the word, ‘Alexa’ – and this can lead to disaster.
+
+A newsreader in San Diego said, ‘Alexa, order me a dollhouse’ on air – while reporting on an incident where a young girl had bought a doll’s house by talking to the speaker.
+
+Viewers reported that their own Amazon Echo devices heard the voice command – and bought them doll’s houses, too.
+
+San Diego TV news anchor Jim Patton said, ‘I love the little girl saying, ”I love the little girl saying, ‘Alexa order me a dollhouse,’ while reporting an incident in which a young girl managed to order a £140 doll’s house.
+
+CW-6 reported that the little girl had said, ‘Can you play dollhouse with me and get me a dollhouse?’
+
+But viewers called in to say that their own devices had ordered the doll’s house, too.
+
+Users can protect their devices with a four-digit code to prevent accidental orders – and cancel orders via their Amazon account.
+
+Amazon has yet to comment.. Stephen Cobb, a senior security researcher, told TV station CW6: “These devices don't recognize your specific voice and so then we have the situations where you have a guest staying or you have a child who is talking and accidentally order something because the device isn't aware that it's a child versus a parent.. Our apologies, the content you requested cannot be found.
+
+Please double-check the URL for proper spelling. You can also use search, choose from one of today's top stories below, or visit the Home Page.. . DALLAS (CNN) — It’s the amazon order that’s gone viral.
+
+A 6-year-old girl’s conversation with Amazon’s voice-activated Echo Dot wound up with her parents being charged for a dollhouse and four pounds of cookies.
+
+Any accidental orders can be returned for free, Amazon said, and the device allows users to turn off voice purchasing. The family has since installed parental controls on the device that require a four-digit code for purchases and plans to give away the $170 Kidcraft Sparkle Mansion Dollhouse.
+
+But they’re keeping the sugar cookies.
+
+Megan Neitzel, the girl’s mother, sees it as a teaching moment for 6-year-old Brooke Neitzel and her other children.
+
+And she’s not too displeased with device.
+
+“She tells knock-knock jokes, and obviously she can order things with great ease,” Megan Neitzel said of the gadget.
+
+It’s not the first unintended incident involving the Echo and children:. Girl asks Amazon's Alexa to order $160 doll house, cookies; parents surprised by delivery
+
+DALLAS, Texas -- Amazon's voice-activated Echo Dot promises to make life a little easier for users. Alexa can provide weather updates, set alarms and help you shop.
+
+For 6-year-old Brooke Neitzel, the device made dollhouse dreams a reality.
+
+"Alexa ordered me a dollhouse and cookies," Brooke explained.
+
+Her mom said her child's innocent interaction with the high tech gadget led to high dollar charges.
+
+"I thought to myself, 'I did not order those,' and I asked my husband, and he said he did not order them," said Megan Neitzel.
+
+"The next morning, I asked my daughter and she said, 'I was talking to "Alexa" about a dollhouse and cookies.'"
+
+Just like that, a more than $160 KidKraft Sparkle Mansion dollhouse and four pounds of sugar cookies arrived at the Neitzel home.
+
+According to Neitzel's Amazon app, which she now uses to monitor her kids' interactions with the gadget, Brooke asked Alexa, "Can you play dollhouse with me and get me a dollhouse?"
+
+After Alexa confirmed the order, the app shows Brooke responded, "I love you so much!"
+
+The Neitzels said they saw this as a teachable moment. They have now activated parental controls requiring a four-digit code for purchases, and have set clear rules for their kids.
+
+Brooke and her older brothers are back to using Alexa as a source of information for life's most important questions like, 'Who is Santa Claus?' and 'What is a penguin?'
+
+They also rely on her for some kid friendly knock-knock jokes.
+
+While they have been digging into the cookie tin, the family will not be keeping the dollhouse. Instead, KTVT reports that they will donate it charity.
+
+"It's Christmas-time. Let's give it to someone who needs it. Brooke agreed and we are narrowing down the choices of who she would like to give it to," Neitzel said.. Children ordering (accidentally or otherwise) items from gadgets is nothing new. Major retailers have refunded purchases made by children playing with phones or computers, and with voice-activated devices making their way into homes, it’s a problem that parents will have to be on the lookout for.
+
+One recent instance occurred in Dallas, Texas earlier this week, when a six-year-old asked her family’s new Amazon Echo “can you play dollhouse with me and get me a dollhouse?” The device readily complied, ordering a KidKraft Sparkle mansion dollhouse, in addition to “four pounds of sugar cookies.” The parents quickly realized what had happened and have since added a code for purchases. They have also donated the dollhouse a local children’s hospital.
+
+The story could have stopped there, had it not ended up on a local morning show on San Diego’s CW6 News. At the end of the story, Anchor Jim Patton remarked: “I love the little girl, saying ‘Alexa ordered me a dollhouse,’” According to CW6 News, Echo owners who were watching the broadcast found that the remark triggered orders on their own devices.
+
+Patton didn’t think that any of the devices went through with their purchases, who told The Verge that the station received a handful of reports of viewer devices attempting to order a dollhouse after hearing his remarks. “As for the number of people affected - I don't know,” Patton noted in an email. “Personally, I've seen one other email and have been told there were others, as well as calls to our news desk with similar stories.”. Amazon Echo is a gift that keeps on giving.
+
+Owners complained that their voice-activated devices set off on an inadvertent shopping spree after a California news program triggered the systems to make erroneous purchases, according a local report. A morning show on San Diego’s CW6 News station had been covering a segment about a six-year-old girl in Texas who ordered to her home a dollhouse and four pounds of cookies through her parents’ gadget.
+
+Echo devices, powered by Amazon (AMZN) Alexa, the tech giant’s artificially intelligent voice assistant, reportedly woke when they heard the name “Alexa” spoken on household television sets. Jim Patton, an anchor on the show, had remarked, “I love that little girl saying ‘Alexa ordered me a dollhouse.'”
+
+Get Data Sheet, Fortune’s technology newsletter.
+
+The comment proved mischievous. A number of Amazon Echos registered the statement as a voice command, and placed orders for dollhouses of their own, the station said.
+
+“A handful” of people said that their devices accidentally tried to buy the toys, reported the Verge, which spoke to the station, although the total figure is not known. Patton told the tech blog that he didn’t think any devices actually completed their purchases.
+
+The misfires are attributable to Amazon’s decision to enable voice purchasing by default on Echo devices, even though they do not distinguish between different people. The setting is an obvious choice for Amazon, which makes money on e-commerce sales, but the added convenience comes at a cost of being more prone to error.
+
+For more on Amazon Echo, watch:
+
+Customers have the option to add parental controls, including a four-digit code to authorize purchases.
+
+The incident highlights privacy and security concerns surrounding a new class of technologies that also includes Google (GOOG) Home, another device featuring a voice-activated assistant. Meanwhile, cops investigating an unrelated, possible murder in Arkansas recently subpoenaed Amazon, asking the company to hand over voice records potentially captured on an Echo device.. Dallas mom Megan Neitzel’s cautionary tale involving her 6-year-old daughter accidentally ordering pricey gifts through “Alexa,” Amazon’s voice-activated Echo Dot, went viral last week as stories about the incident were shared by news organizations across the country.
+
+But San Diego residents listening to local TV station CW6 claim they didn’t just hear the report, they lived it.
+
+Anchors Jim Patton and Lynda Martin discussed the hilarious mishap that led to the purchase of a $160 KidKraft Sparkle Mansion dollhouse and a 4-pound tin of sugar cookies on their morning show.
+
+“I love the little girl, saying ‘Alexa ordered me a dollhouse,’” Patton joked.
+
+Unfortunately, Amazon’s Alexa didn’t get Patton’s joke. And afterward, viewers began complaining that their devices had tried to order dollhouses, CW6 reported.
+
+“These devices don’t recognize your specific voice and so then we have the situations where you have a guest staying or you have a child who is talking and accidentally order something because the device isn’t aware that it’s a child versus a parent,” Stephen Cobb, senior security researcher for ESET North America, told CW6 after the station explained what happened.
+
+Neitzel found herself in a similar situation when her daughter, Brooke, casually expressed her love for sweets and dollhouses while talking with with Alexa and days later both of those items appeared at her doorstep.
+
+Brooke Neitzel, 6, poses with some of the items she accidentally purchased off of her family’s Amazon Echo Dot. CBS Chicago
+
+The confused mom double-checked her Amazon app, which she uses to monitor her kids’ interactions with the Echo Dot, and uncovered Brooke’s conversation with the gadget.
+
+“Can you play dollhouse with me and get me a dollhouse?” Brooke asked the tool, according to CBS Dallas. After confirming the order, Brooke told Alexa, “I love you so much!”
+
+After reading the conversation, Neitzel had to laugh, admitting that this was a good reminder to activate parental controls and turn off voice purchasing. To ensure something like this doesn’t happen again, she set a four-digit code on the device for purchases and went over some ground rules with the kids on how to properly use the item.
+
+It’s safe to assume Neitzel won’t be the only one changing settings on her device for the future.
+
+Amazon clarified to CBS News that there was not an influx of dollhouse orders after the newscast.
+
+“You must ask Alexa to order a product and then confirm the purchase with a “yes” response to purchase via voice. If you asked Alexa to order something on accident, simply say “no” when asked to confirm,” a spokesman said. “You can also manage your shopping settings in the Alexa app, such as turning off voice purchasing or requiring a confirmation code before every order.. Amazon Echo owners have been issued a security warning after a number in America automatically ordered dolls houses being discussed on a TV show. The high-tech gadgets have become a recent and welcome addition to hundreds of thousands of UK homes, after being one of the most popular Christmas presents last year.
+
+They let owners ask virtual assistant "Alexa" to carry out tasks, including buying items from the internet, using just their voice as a command. But a recent incident involving the gadgets has shown how they are vulnerable to mistakes which could cost owners dearly.
+
+Earlier this week a San Diego TV station sparked complaints after an on-air report about a girl who ordered a dollhouse via her parents' Amazon Echo caused Echoes in viewers' homes to also attempt to order dollhouses.
+
+As voice-command purchasing is enabled as a default on the Alexa devices, viewers found they had mistaken the show for their command and made the purchase.. Children who have access to their parents' credit card may accidentally or intentionally buy stuff online without permission. That's mostly fine, if not an often cutesy mishap, making for some few laughs and an anecdote some years to come.
+
+But Amazon Alexa ordering items on its own? That's something else.
+
+Amazon Alexa Device Orders A Dollhouse
+
+Well, maybe not completely on its own, but prodded on by a different source than the owner. To start off, earlier this week a Texan 6-year-old asked her family's Amazon Echo if it could spend some playtime with her. She asked, "Can you play dollhouse with me and get me a dollhouse?"
+
+True to its intended purpose, Echo complied with the command, ordering an expensive dollhouse alongside 4 pounds of sugar cookies. The parents immediately picked up on what had happened and have since added a code to prevent similar incidents from occurring in the future. The parents have also donated the toy to a local children's hospital.
+
+TV Report Causes Amazon Alexa Devices To Order A Dollhouse
+
+The anecdote could have ended there, but the juvenile blunder turned into something bigger by virtue of a news item on a local morning show. The Texan girl's incident ended up securing a wee bit of airtime on the CW6 News in San Diego. All had been fine and dandy until Jim Patton, the anchor, remarked after the story: "I love the little girl, saying 'Alexa ordered me a dollhouse.'"
+
+CW6 News said that Echo owners who were watching the broadcast fell prey to the same incident. Patton's words triggered Amazon Echo devices across San Diego, causing numerous orders for dollhouses on Amazon.
+
+Speaking with The Verge, Patton said that the reports quickly filtered in after hearing his remarks. It's unclear, however, how many of those orders actually went through.
+
+Those anxious about their smart speaker purchasing items sans their permission should see to it that their device's settings are adjusted accordingly via the Alexa app. From there, users can turn off the voice ordering feature or add a passcode in order to prevent unintentional purchases from being placed. Additionally, users can also opt to change Echo's wake word so as to prevent the TV from invoking the same mishap Patton unknowingly had.
+
+Though it may seem a comedic faux pas for all intents and purposes, the incident also implies that Always-on devices still have room for improvement. In the future, maybe these devices could detect individualized voices and be programmed to respond to certain registered voices only. Until that point comes through, adjusting the settings should do for now.
+
+Alexa is Amazon's proprietary virtual assistant, most commonly found on its own smart home devices such as the Echo and the Echo Dot. It rivals Google's Home, offering similar functionalities.
+
+Heard similar comedies of error related to technology? What do you think about voice-activated smart speakers being unable to sort out different voices? Feel free to sound off in the comments section below!
+
+ⓒ 2024 TECHTIMES.com All rights reserved. Do not reproduce without permission.. article
+
+The 6-year-old North Texas girl who made headlines earlier this week after asking Amazon’s Alexa to order her a dollhouse and cookies has turned the incident into something positive.
+
+Brooke Neitzel and her family ate the cookies, but donated the $170 dollhouse to the Medical City Children’s Hospital for its pediatric patients.
+
+“Because I’ve been here and I want kids to be happy that’s here,” she said.
+
+“She doesn’t need a dollhouse because she currently has one and so we just thought that it would be good for other children to benefit from it. And since we come to Medical City with minor things for our children and y’all have been so wonderful to them we thought this was just the place it had to be,” said Megan Neitzel, Brooke’s mom.
+
+The Neitzel family got a new Amazon Echo Dot for Christmas and it’s been a big hit in their home. The Echo’s voice assistant, Alexa, can play music and tell jokes. Brooke also learned even before her mom did that it can order just about anything online if it’s linked to an Amazon account and credit card.
+
+“I said to her, ‘Alexa, can you please order a dollhouse and some cookies?’” the 6-year-old recalled.
+
+“Christmas night, I got a notification, “Your order has shipped.” And I thought I haven't ordered anything today,” Megan said.
+
+By the time mom pieced together what happened, it was already too late to cancel the order for the $170 dollhouse and four pounds of cookies.
+
+There’s now a parental password on the family’s account and the 6-year-old said she has learned her lesson about asking Alexa for things without mom or dad around.
+
+RELATED: 6-year-old orders $170 dollhouse, cookies with Amazon's Alexa. In June, Amazon made its always-listening personal assistant In June, Amazon made its always-listening personal assistant Echo available to all. It's a neat little device—basically, Siri in a cylinder—but not without its quirks.
+
+According to one couple According to one couple on Twitter , their Amazon Echo lit up on Thursday night, not in response to their voice, but a voice the device heard on TV. Amazon apparently ran a holiday ad featuring Echo during last night's NBC broadcast of The Wiz Live!, and during the commercial, an actor asked an Amazon Echo to "Play my holiday playlist"—which the couple's Amazon Echo did as well.
+
+Advertisement
+
+"Ours lit up and started playing Christmas music. We just laughed, told it to stop (we're not fans of Christmas music) and tweeted a screenshot," "Ours lit up and started playing Christmas music. We just laughed, told it to stop (we're not fans of Christmas music) and tweeted a screenshot," Danielle Alberti wrote me in an email.
+
+Her husband, Her husband, David Masad , posted a screenshot of Twitter showing that their Echo had interpreted the audio from the commercial as a command.
+
+Alberti told me that they submitted a support ticket to Amazon shortly thereafter. "I will clarify that we actually love our Echo," she wrote in her email, "We got it in the beta test and regularly submit feedback for it because we think it has a lot of utility, but certainly some kinks to work out." Alberti told me that they submitted a support ticket to Amazon shortly thereafter. "I will clarify that we actually love our Echo," she wrote in her email, "We got it in the beta test and regularly submit feedback for it because we think it has a lot of utility, but certainly some kinks to work out."
+
+Not longer after, Alberti said, a member of the Echo support team named Brandon H emailed back. Not longer after, Alberti said, a member of the Echo support team named Brandon H emailed back.
+
+"We are working to stop the commercials from setting off Alexa's [sic] I know it can be quite annoying," wrote an Amazon employee named Brandon H. "Mine has gone off several times to this and we have brought it up to our developers." "We are working to stop the commercials from setting off Alexa's [sic] I know it can be quite annoying," wrote an Amazon employee named Brandon H. "Mine has gone off several times to this and we have brought it up to our developers."
+
+Apparently Amazon's customer service is also annoyed that their Echos play Christmas music at request of commercial Danielle AlbertiDecember 4, 2015
+
+The situation isn't the first time this sort of thing has happened. Microsoft's Xbox One was The situation isn't the first time this sort of thing has happened. Microsoft's Xbox One was the subject of similar reports , after the company ran television advertisements for its console's voice command functionality.. Voice assistants such as the Amazon Echo and Google Home are pretty smart, but they’re not yet sharp enough to understand the difference between TV and reality. A Google commercial during yesterday’s Super Bowl prompted Home to play whale noises, flip the hallway lights on, and recite a substitute for cardamom. As a series of actors barked "OK Google" commands on TV, the devices started doing what they were asked to do. Android phones with Google Assistant may have done the same thing. Google Home wasn’t haunted. It was just doing its job.
+
+Any owner of a Google Home or Amazon Echo knows that certain TV commercials prompt unwanted activity. Representatives from both Google and Amazon told us that their television advertisements use altered audio to minimize the chances of a Home or an Echo responding to an ad. Google noted the company is working on a way to make its devices ignore commercials altogether. However, some speakers are still springing awake in some homes when the ads play on the television. Thankfully, there are some ways to keep your smart speaker from listening.
+
+There's a Switch for That
+
+The best way to ensure your TV doesn’t hijack your helper is to use the physical switch on the back of each assistant that turns off the microphone. This is something you need to do manually every time you're sitting down to watch a sporting event, or some other live TV show bound to include commercials you can't skip. It's not a perfect solution, because you have to remember to turn the assistant's microphone back on when the event is over.
+
+Change Alexa’s Wake Word
+
+For the time being, that microphone-off switch is the only way to stop Google Home from responding to your TV’s whims. Home responds to two "wake phrases," and both of them are always active: "OK Google," and "Hey Google." Whenever it hears either of those phrases, it starts recording a query and processing a response.
+
+With Alexa, you can use an alternative wake word to lessen the chance of accidental assistance. You can’t set the wake word to anything you want, but you can limit it to a non-Alexa option.
+
+Go to the Settings menu in your Amazon Alexa app. 3. Pick the device you want to manage. 5. In the “General” section, tap the “Wake Word” entry. 7. Choose between “Alexa,” “Amazon,” “Echo,” or “Computer.” Unfortunately, of the four options Amazon allows as a wake word, “Alexa” is probably the least likely to trigger accidental wake-ups. “Computer” is cool, but it’s a word you’ll likely say a lot in normal conversation, and it will likely disrupt your next Star Trek binge session. “Echo” and “Amazon” are also commonly used words in everyday chatter. But if you change it to one of those, at least those Amazon ads won't commandeer your Echo.
+
+There are third-party Alexa devices coming to market soon, such as LG’s Hub robot, which will purportedly let you customize wake words and even respond to the voices of different individual humans.. Amazon’s Super Bowl ad will air this Sunday in millions of homes across the country. But no matter how many times Jeff Bezos bewilderedly mutters “Alexa’s lost her voice?,” no Alexa devices should turn on during the commercial, according to Bloomberg.
+
+That’s because Amazon has taken steps to ensure that it doesn’t accidentally trigger existing Alexa devices when it’s advertising new ones, with the company commenting to Bloomberg that “We do alter our Alexa advertisements ... to minimize Echo devices falsely responding in customer’s homes.”
+
+But while Amazon isn’t elaborating on how it avoids false positives during commercials, Reddit user aspyhackr may have figured out the trick Amazon uses here. Apparently, the Alexa commercials are intentionally muted in the 3,000Hz to 6,000Hz range of the audio spectrum, which apparently tips off the system that the “Alexa” phrase being spoken isn’t in fact a real command and should be ignored.
+
+So, you can rest assured your Amazon Echo probably won’t interrupt your Super Bowl experience with country music (or Cardi B) — unless you go out of your way and ask for it.. An Amazon Echo owner has tried to get a television advertising campaign for the smart speaker banned after the Alexa virtual assistant attempted to order cat food when it heard its name on an ad.
+
+
+
+An Amazon TV ad for the Echo Dot, which can perform functions such as make shopping lists and play music with voice commands, features people using the device in different situations. In one a man’s voice says: “Alexa, reorder Purina cat food.” Alexa responds: “I’ve found Purina cat food. Would you like to buy it?”
+
+A viewer lodged a complaint with the Advertising Standards Authority (ASA), saying that the ad was irresponsible because it caused their Echo Dot to order cat food. Amazon confirmed that the complainant’s device did place an order for the cat food but it had been cancelled by the customer.
+
+Amazon said it was aware of the potential issue and “marks” ads so that Alexa is not triggered. In addition, customers are required to confirm a purchase, which is automatically cancelled if they do not do so, the company said.
+
+Earlier this month Amazon used its technology to stop devices from interacting with its Super Bowl TV spot, which featured celebrities including Gordon Ramsay, Rebel Wilson and Anthony Hopkins taking over from Alexa when she “loses her voice”.
+
+1:31 Alexa loses her voice in Amazon's Super Bowl advert – video
+
+The word “Alexa” was mentioned 10 times in the commercial, made by the London agency Lucky Generals, but it did not trigger action from devices in viewers’ homes.
+
+The ASA assessed the complaint about the phantom cat food order but did not find it in breach of the UK advertising code.
+
+
+
+It is not the first time that Amazon has run into trouble with Alexa taking orders from the TV. Last year an episode of South Park that featured the characters repeatedly yelling commands at cartoon versions of Alexa and rival Google Home wreaked havoc with some viewers’ devices.
+
+Similarly, a TV presenter in San Diego commented on a story about a six-year-old girl who had asked Alexa to order her a dollhouse, which triggered orders for the dollhouse by Alexa on devices owned by viewers.
+
+“The real problem, I think, is that it’s much harder for manufacturers of this kind of device to guard against ads created by a third parties,” said Geraint Lloyd-Taylor, of the law firm Lewis Silkin. “There’s not much Amazon can do to proactively guard against that.”. . AMAZON has revealed how it stops your Amazon Echo speaker from waking up when the word "Alexa" is used in an official TV ad.
+
+The company uses "acoustic fingerprints" that help your Echo understand that you're being advertised to, rather than asking her to get a job done.
+
+1 Not all "Alexas" are born equal – Amazon designs its Alexa ads to be ignored by your Echo speaker Credit: AP:Associated Press
+
+Amazon's Alexa digital assistant is no small fry – the company is selling smart Echo speakers in huge numbers, and it's important to make sure the user experience is good.
+
+The online retail giant was rightly concerned that any time it wanted to run a TV or radio ad demonstrating how the Echo speakers worked, the use of the word "Alexa" would "wake up" devices across the globe.
+
+But this weekend, Amazon's 90-second Super Bowl commercial used the word "Alexa" just three seconds in, and the vast majority of Echo speakers will have ignored it completely.
+
+"The trick is to suppress the unintentional waking of a device while not incorrectly rejecting the millions of people engaging with Alexa every day," said Amazon's Shiv Vitaladevuni.
+
+What is Alexa? If you've never heard of Alexa, here's what you need to know... Alexa is an "intelligent" personal assistant built by Amazon
+
+You can find her on several different devices, including Amazon's Echo speakers
+
+Alexa responds to voice commands, and can talk back to you
+
+She can perform thousands of different tasks, including telling you about the news or weather
+
+But she can do more complex things too, like ordering a pizza or arranging an Uber taxi pick-up
+
+To activate Alexa, you need to say "Alexa" to an Amazon Echo speaker
+
+Alexa currently only works in English and German languages
+
+Because she's powered by artificial intelligence, Alexa is constantly getting smarter
+
+Alexa will also get more used to your voice, and better understand what you want her to do over time
+
+According to Amazon, it's all thanks to a digital signature: "Acoustic fingerprinting technology can distinguish between the ad and actual customer utterances."
+
+The company can obviously anticipate major ad events like the Super Bowl, and modify the sound files to prevent a false wake-up.
+
+But Amazon can also react "on-the-fly" to events where the word "Alexa" is broadcast unexpectedly – like a TV sketch.
+
+"When multiple devices start waking up simultaneously from a broadcast event, similar audio is streaming to Alexa's cloud services.
+
+"An algorithm within Amazon's cloud detects matching audio from distinct devices, and prevents additional devices from responding."
+
+10 things you should get your Amazon Echo to do when you first set it up
+
+Amazon says this system "isn't perfect", but that between 80% and 90% of devices won't respond to broadcast's thanks to the "dynamic creation of the fingerprints".
+
+But what does this "digital fingerprint" actually mean?
+
+Around a year ago, a Reddit user called Asphyhackr investigated Amazon's Alexa software, and discovered that Alexa ads were transmitting weaker levels of sound between the frequencies of 3,000Hz and 6,000Hz.
+
+These frequencies aren't outside the range of human hearing, but we're not very sensitive to that sort of sound.
+
+So he theorised that Amazon might be scrubbing that frequency range in Alexa ads, in order to tell Amazon Echo devices not to wake up.
+
+He then recorded someone saying "Alexa" and deleted that frequency band, and his own Echo speaker ignored the command – seemingly proving the theory correct.
+
+Amazon hasn't confirmed that this is exactly how the digital fingerprint works, but it seems as likely a theory as any.. If you haven't seen it by now, Amazon's Super Bowl LII commercial is fairly clever. Kudos to the company for coming up with a fun way to mash together celebrities and Alexa without it feeling overly cheesy or trying-too-hard. More importantly, a big thanks to Amazon's engineers who came up with an ingenious way to broadcast the "A word" without it triggering everyone's Echos—whatever version of the device you own.
+
+The most annoying thing about watching any YouTube video or televised commercial that mentions Alexa is that it typically triggers your Echo device to get ready to respond to a query. Or worse, the person you're watching who says "Alexa" just keeps on babbling, which then makes your Echo do something you didn't want it to do—or just apologize for being unable to do whatever commands it tried to interpret.
+
+And since Amazon definitely wanted its Super Bowl LII to mention she-who-shall-not-be-named, and refer to her frequently, the company had to come up with a different way to do so in order to avoid hacking off everyone who already owns an Echo device.
+
+The solution? Acoustic fingerprinting.
+
+"The trick is to suppress the unintentional waking of a device while not incorrectly rejecting the millions of people engaging with Alexa every day," said Shiv Vitaladevuni, a senior manager on the Alexa Machine Learning team, in an Amazon blog post.
+
+Though Amazon isn't detailing the specific techniques its using to keep your Echo from triggering from its Super Bowl advertising, Bloomberg notes that a Reddit user, Asphyhackr, might have figured out Amazon's secret.
+
+"I did a little research tonight and found that the Echo, while it's processing the wake word, searches the Audio Spectrum and if is significantly quieter in the area of 4000hz to 5000hz, she will not wake for the word," Asphyhackr writes.
+
+"I found that when I analyzed the spectrum of them saying her name, the spectrums were significantly quieter in the range of 3000hz to 6000hz. In some of those recordings, those frequencies appeared to be non-existent. In others it appeared like the boosted the surrounding frequencies to make the Echo see a gap in the spectrum."
+
+In other words, if your Echo notices something strange happening in the audio spectrum, it realizes that it should ignore whatever is being said—like "Alexa." And while this works well when Amazon has a planned announcement to make, like an advertisement, the company has to get a bit more creative when it can't anticipate the large-scale broadcast of its digital helper's name.. As you probably know by now, when your TV started blaring Google's Super Bowl ad, Google Homes across the nation promptly responded to the actors saying the "OK Google" command. The same happened to several Amazon Echo devices, which started ordering dollhouses when they heard a TV commentator mention the command trigger.
+
+Hijacking Risk
+
+Jimmy Kimmel might even decide to prank the country by having Amazon Echo and Google Home do his bidding via his talk show. The story, however, could take a more serious turn if a third-party use broadcast media to have these smart assistants execute commands to perpetuate a coordinated attack.
+
+This is not a far-fetched possibility especially when unscrupulous TV manufacturers have been recording and selling the TV viewing habits of millions of American users.
+
+According to Google and Amazon, their commercials featuring trigger commands have already been altered to avoid prompting responses from their respective smart assistants. Yet, we still have the Super Bowl incident as a cautionary tale.
+
+So is there something owners can do to keep the Amazon Echo and Google Home from responding to the TV?
+
+Manual Switch
+
+For Google Home, there is only one workaround at this point, and that involves a physical switch. This is located at the back of the device, and you can simply turn it off if you're are watching TV or consuming any form of broadcasted material.
+
+The solution is quite frustrating especially when you constantly have to switch the device on and off all the time. True, it is not smart at all, but it is preferable than having your smart assistant opening smart appliances on its own. Imagine, for instance, if Google Home started preheating your oven without your knowledge. Alexa can also do this with a GE smart appliance.
+
+Alexa Wake Word
+
+You can also turn Amazon Echo or the Echo Dot's microphone off. The button is located at the top of the device.
+
+Furthermore, you can modify Alexa's wake word. Unfortunately, you can only choose from four options: Alexa, Amazon, Echo, or Computer.
+
+Just head to the Settings menu in the Alexa app and tap your device. The General section contains the wake word entries.
+
+It would have been better if you can use a custom wake word, but the four available could allow you to use more variations in comparison with Google Home's two, the "OK Google" and "Hey Google."
+
+According to Wired, some upcoming smart appliances for the Alexa devices will allow you to enter custom triggers, and these include the LG's Hub robot.
+
+ⓒ 2024 TECHTIMES.com All rights reserved. Do not reproduce without permission.. With all of the talk in the news Hi Steve I got curious, Why doesn't my Echo care about the commercials?
+
+I noticed that the Amazon commercials usually do not trigger the device, or if they do, she only momentarily wakes before ignoring what is said. I did a little research tonight and found that the Echo, while it’s processing the wake word, searches the Audio Spectrum and if is significantly quieter in the area of 4000hz to 5000hz, she will not wake for the word. I achieved this by going on YouTube, and playing with a voice recording of the name in Audacity.
+
+I found that when I analyzed the spectrum of them saying her name, the spectrums were significantly quieter in the range of 3000hz to 6000hz. In some of those recordings, those frequencies appeared to be non-existent. In others it appeared like the boosted the surrounding frequencies to make the Echo see a gap in the spectrum.
+
+I then got an Audacity plug-in to allow me to do a band-stop filter. I found that when I took a recording of someone saying the wake word, and ran the plug-in centered on 5200hz at “Half an Octave.” (Beware, Dual monitor picture) My echo would not wake, even sitting right next to the speakers!
+
+Maybe this information can be used by news networks to help them prevent accidental activations.
+
+Can anyone else experiment with this and tell me if it works for you too?

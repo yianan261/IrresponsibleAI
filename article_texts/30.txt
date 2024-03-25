@@ -1,0 +1,545 @@
+Photo by Ines Álvarez Fdez on Unsplash
+
+There are new reports that Tesla’s AI strategy to automate their entire manufacturing process is failing to deliver the productivity they had hoped for. Business Insider reports that “Wall Street analysts have laid down a compelling argument that over-automation is to blame.” The report details the arguments as to why not everything needs to be automated:
+
+But while all that exotic capital might allow Tesla to remove 5 workers, it will then need to hire a skilled engineer to manage, programme and maintain robots for $100 an hour.
+
+A balance must be maintained between the manageability of advanced AI technology and the tasks that can be performed by a reasonably skilled employee. There will always be tasks in the process where the costs for automation is not worth it. A majority of costs in AI is upfront, this upfront cost can spiral out of control if the problem is beyond what present-day AI is capable of doing. This is the problem with many AI endeavors, too many are lured into the science fiction thinking that AI already exists today. One should never convert a task to improve productivity into a task to do academic research. Understanding what AI can and cannot do well is critically important to control costs and avoid failure. Do yourself a favor and hire a Deep Learning expert for an hour to tell you what not to do.
+
+The Japanese who historically have a much more advanced experience working with automation know the problem better. The Japanese approach is to first get the process right and then bring in the robots. In fact, this approach translates well not only in manufacturing automation but also in knowledge-based work.
+
+It is important to remember that today’s lean methodology we find in software development can be traced back to lean manufacturing methods of the Japanese. Lean’s core value is simple: maximize customer value while minimizing waste. These ideas work in manufacturing as well as in knowledge-driven industries.
+
+In the book “The Deep Learning AI Playbook”, I introduced the Deep Learning Canvas and the framework at its core is the Jobs To Be Done (JTBD) approach applied to ‘Cognitive Load’. What we attempt to do is to map out the existing business process and identify specifically the JTBD of a customer (i.e. this could be an employee). JTBD identifies many tasks that a customer performs to do their job and we identify the cognitive load (constraint/impediment) that can be augmented with AI technology. The cognitive loads include lack of memory, information overload, lack of meaning and acting fast. Each kind is augmented with different kinds of Deep Learning (DL) driven technology. Specifically search, summarization, translation, and visualization. However, we should be pragmatic. We cannot expect DL to do everything.
+
+Deep Learning Canvas
+
+Rather, as DL technology incrementally improves over time, each JTBD that has been augmented by AI continues to improve. This in effect reduces the cognitive load of the user for each task and as a consequence allows the user to become more productive in their work. Productivity may translate in higher throughput, but ideally towards a better customer experience (See: DL for CX and XLA). The higher level objective should always be CX, after all, that is what motivates customers to invest in a relationship.
+
+The value of AI is that it incorporates technology that is able to identify a users context and then deliver the appropriate goods or services at the right time. This is how value is created. This is how AI and processes are linked. In Lean Thinking, this is the assessment of the value stream to see if each step is “ valuable, capable, available, adequate and flexible”. The right way to employ AI automation into a business is to start with a strategy that incorporates an understanding of purpose, process and most importantly — people.. Tesla was hoping to produce 5,000 new Model 3 electric cars each week in 2018. So far, it has failed to manufacture even half that number. Questioned on the matter, the company’s CEO, Elon Musk, claimed that “excessive automation was a mistake” and that “humans are underrated”.
+
+He’s not wrong – the recent drive for full automation has overlooked the importance of adaptability. Humans are still far more able to adapt to change than artificial intelligence (AI). In the long-term, AI has the potential to replace human workers, but for now leaders need to determine the right speed of change.
+
+The Tesla factory in Silicon Valley is highly automated. Early on, Musk understood that any process following a sequence of predefined steps and taking place on a fairly controlled environment, such as a factory floor, could be automated by artificial intelligence and robots. And this is something he should be credited for.
+
+But while autonomous systems are developing rapidly, humans remain far better at adapting to unforeseen changes. When it comes to complex factory work, this is something that should not be underestimated. Looking back on Tesla’s productivity issues, Musk undoubtedly missed the importance of adaptability in manufacturing. The probability of small errors and unforeseen situations is proportional to the complexity of the process, especially when the process takes place in the physical world.
+
+Adaptive intelligence
+
+Humans and other forms of intelligent life evolved to survive in a constantly changing world. For this reason, they can cope remarkably well with unforeseen situations and discrepancies between expected and actual events. As cognitive scientist Gary Marcus emphasises, there are a lot of things “that go into human intelligence, like our ability to attend to the right things at the same time, to reason about them to build models of what’s going on in order to anticipate what might happen next and so forth.”
+
+Humans and animals can also adapt their bodies to radically different situations in order to achieve their goals. For example, we can move forward by walking, swimming, jumping, climbing and crawling – and we can do so even if we lose the use of a limb. These dynamic aspects of biological systems help them cope with radical change under highly complex situations.
+
+Machine learning, on the other hand, is not yet at the level of human intelligence and adaptability. Sure, we have made great progress. Today, advanced AI algorithms, inspired by nervous systems, can learn to recognise similar situations like a traffic light turning red or a ball falling on the street even better than humans. Developments in robotics also mean that new robots made of soft materials can physically adapt to unforeseen objects in the physical environment. But in both cases, adaptability is limited to variations within a restricted category of objects or events.
+
+The truth is that we have not yet mastered the design of robots and AI that are resilient enough to respond to unpredictable environments. Take the example of robots used in the packaging industry. Automated guided vehicles with limited on-board intelligence can only follow simple programming instructions taking them along fixed routes in a defined environment. These robots might be able to pick up a product and place it into a carton, without the ability to do anything more complex. When the job changes, the robot will have to be replaced.
+
+More complex mobile robots are also in use. They have built-in sensors and scanners, as well as software that allows them to detect their surroundings and choose the most efficient route so that a product is not necessarily placed in the same location every time. These more complex robots are more flexible and adaptable, but they are still quite far away from what biological systems can do.
+
+This could be a problem for overly automated factories where small physical discrepancies (a broken wheel, wear and tear on the ground, imprecisely positioned parts) can rapidly accumulate and result in unpredictable situations (a component is not where it should be, a robot is missing). When a process changes or the factory starts making a new product, then there is a need to reconfigure the equipment and find a different solution. This is not yet entirely within reach of AI and robotics.
+
+Full automation
+
+Musk has publicly noted his desire to create a fully autonomous factory. His underlying goal is to overcome the limits of human speed. With greater speed, higher outputs can be achieved. But in complex environments, such as a highly automated factory, there is a need for highly adaptable robots that can respond to unforeseen situations and to each other like biological systems do. Introducing that sort of biological resilience in robotics and AI requires further research.
+
+The first involves testing robotic automation within a defined set of processes, such as picking raw material and placing it on the assembly line. The second involves expanding that test to multiple functions and processes, such as combining the raw material and packaging the product. The third stage is to deploy robotic co-workers and adaptive AI as human assistants. Today, this is the best we can aim for.
+
+It is not yet clear when we will have the technology for full automation without human intervention (stage four) and what form it will take but Musk should be praised for trying. He may have underestimated humans but what he is learning is precious and will help him to drive ahead of others in the future.. . Falling behind production deadlines for its Model 3 sedan and rapidly burning cash, Tesla has been struggling mightily to speed up its assembly line. On a call with investors Wednesday, CEO Elon Musk said the company had identified an unlikely culprit in those delays: a “flufferbot.”
+
+As Tesla scrambles to deliver on some 450,000 orders for the Model 3, its first mass-market vehicle, Musk has described the company’s predicament as “production hell.” Part of the problem has been an over-reliance on automation, which Musk recently acknowledged, adding in an April 13 tweet: “Humans are underrated.”
+
+Musk gave the public an amusing peek into that hell on the company’s quarterly earnings call Wednesday. “We did go too far on the automation front and automated some pretty silly things,” he said. Musk proceeded to offer the following example, about a fiberglass mat that was designed to insulate noise from the battery pack:
+
+We had these fiberglass mats on the top of the battery pack. They’re basically fluff. So we tried to automate the placement and bonding of fluff to the top of the battery pack. Which is ridiculous. So we had this weird flufferbot. Which was really an incredibly difficult machine to make work. Machines are not good at picking up pieces of fluff. Human hands are way better at doing that. So we had a super-complicated machine. Using a vision system to try to put a piece of fluff on a battery pack. … … The line kept breaking down because Flufferbot would frequently just fail to pick up the fluff. Or put it in a random location.
+
+Advertisement
+
+Musk said he asked his team whether the fluff was really necessary. The company tested a car both with and without the fiberglass battery insulation and found “no change in the noise in the cabin.” They concluded that the part was unnecessary and did away with the flufferbot.
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Elon on "silliest" examples of over-automation at Tesla: "Fluffer bot would frequently fail to pick up the fluff." Rip Flufferbot — Caroline O'Donovan (@ceodonovan) May 2, 2018
+
+Advertisement
+
+Musk also gave an example of what he called “overgeneralizing the design” of the Model 3. Tesla has plans for a dual-motor, all-wheel-drive version of the vehicle. But right now, it’s only producing the single-motor, rear-wheel-drive version. Nevertheless, the company was building battery packs with both front and rear ports, and adding a sealed plate to the front port on each one. “It added cost, added manufacturing staff, and added a failure mode,” Musk said. “For something that is unnecessary.” He implied that Tesla has stopped including the front-drive port on the batteries for rear-drive vehicles.
+
+Advertisement
+
+Partly as a result of such changes, Musk said, “We’ve had a radical improvement in battery pack production” in just the past few weeks. Whereas assembling a pack used to take as long as seven hours, Tesla can now assemble them in “under 17 minutes,” he said.
+
+While it looks like Tesla will come nowhere close to Musk’s initial goal of building 500,000 cars this year, the company said Wednesday that it still hopes to meet a significantly revised goal of building 5,000 Model 3s per week within the next two months. However, 2,270 vehicles is the most it has built in a week so far, the company reported. You can read its full quarterly earnings report here.
+
+Tesla’s stock had plunged 4.8 percent in after-hours trading by the end of Wednesday’s earnings call.. Elon Musk says Tesla relied on too many robots to build the Model 3, which is partly to blame for the delays in manufacturing the crucial mass-market electric car. In an interview with CBS Good Morning, Musk agreed with Tesla’s critics that there was over-reliance on automation and too few human assembly line workers building the Model 3.
+
+Earlier this month, Tesla announced that it had officially missed its goal of making 2,500 Model 3 vehicles a week by the end of the first financial quarter of this year. It will start the second quarter making just 2,000 Model 3s per week, but the company says it still believes it can get to a rate of 5,000 Model 3s per week at the midway point of 2018.
+
+“crazy, complex network of conveyor belts”
+
+Previously, Tesla has blamed bottlenecks in the production of the Model 3’s batteries at the company’s Gigafactory for the delays. But in a wide-ranging (and largely positive) interview with CBS’s Gayle King, Musk also admits it was Tesla’s over-reliance on robots in the production.
+
+Photo by James Bareham / The Verge
+
+Musk then said the company needs more people working in the factory and that automation slowed the Model 3 production process. He alluded to a “crazy, complex network of conveyor belts” the company had previously used and said the company eliminated it after it became clear it wasn’t working.
+
+It’s a fairly stunning admission from the man who previously likened his company’s massive factory to an “alien dreadnought” thanks to the complex assemblage of advanced robotic arms building its line of electric cars. In an earnings call with investors last year, Musk spoke about the production speeds facilitated by Tesla’s robots. “It’s remarkable how much can be done by just beating up robots ... adding additional robots at choke points and just making lines go really, really fast,” he said. “Speed is the ultimate weapon.”
+
+“Speed is the ultimate weapon”
+
+Last year, Tesla acquired Perbix, a private machining firm that makes automated equipment for factories, allowing the carmaker to bring the production of more parts in-house. Tesla described the deal as a step further in its long-stated ambition to “build the machine that makes the machine.”
+
+In fact, Musk was so confident that Tesla had gotten right the mix of robots and humans that its giant Gigafactory would become the company’s ultimate product. “The competitive strength of Tesla long-term is not going to be the car, it’s going to be the factory,” he said last February. “We’re going to productize the factory.”
+
+Musk is also one of the foremost voices urging caution in the development of robotics and artificial intelligence. He has called for governments to regulate AI to prevent the technology from threatening human existence, and has warned for a coming “AI apocalypse.”
+
+“We got complacent about some of the things we felt were our core technology”
+
+Also in the interview, Musk said the Model 3’s technical complexities were additionally to blame for the company’s ongoing “production hell.” “We got complacent about some of the things we felt were our core technology, we put too much new technology into the Model 3 all at once,” Musk said.
+
+A spokesperson for Tesla declined to clarify Musk’s comments. While aesthetically more minimal than the Model S or X, the Model 3 uses 2170 lithium-ion battery cells, which are more complex than the industry-standard 18650 battery cells used in the Model S and X. Musk previously confirmed that Tesla’s Gigafactory 1 in Nevada was the source for the production bottlenecks slowing Model 3 deliveries. Panasonic, Tesla’s battery cell manufacturing partner at the factory, has also confirmed this.
+
+To be sure, Musk has used the “too much technology” excuse before. In 2016, he owned up to the problems with production of the Model X, telling an audience of Tesla shareholders, “This [Model X] program has been challenging. I particularly need to fault myself for a fair bit of hubris for putting too much technology all at once into a product.” The Model 3, he said, would not have as much technology as the Model S and X.. Elon Musk looks tired. There are bags under his eyes and an embattled admittance of disappointment has replaced the billionaire entrepreneur’s typical exuberance. A big, yellow strapline reads "PRODUCTION HELL" and CBS This Morning co-host Gayle King appears surprised as Musk agrees with every one of her questions that suggests Tesla hasn't been performing as well as it should.
+
+During the eight-minute exclusive tour of his enormous Giga Factory in Silicon Valley, Musk is asked why it's producing just 2,000 Model 3s a week, as opposed to the 5,000 a week he promised at launch. He simply nods and admits: "I need to work out how we can be better and get better at meeting goals.”
+
+Fair enough. But he then goes on to point out the conference room he sleeps in overnight while he sorts out the myriad issues facing the company. A billionaire business owner sleeping on a sofa above a factory floor: admirable behaviour or a sign of desperation?
+
+It looks like investors haven't been too impressed by Tesla's recent performance, either. In late March, the company's share prince plunged after it announced a voluntary recall of 123,000 Model S vehicles. On Tuesday April 17, the company's share price continued to wobble after it said it would temporarily halt production of its mid-priced, mass produced Model 3 to "address bottlenecks" in its production line.
+
+"Our Model 3 production plan includes periods of planned downtime in both Fremont and Gigafactory 1," a Tesla spokesperson said at the time. "These periods are used to improve automation and systematically address bottlenecks in order to increase production rates. This is not unusual and is in fact common in production ramps like this.”
+
+However, the latest closure makes it the second temporary shut down since February, and although, as previously stated, this is nothing completely new in the automotive industry, it is yet another black mark on a company that has been under fire for production, quality and autonomous driving issues since its very first car.
+
+"It was always a huge task to scale up from being a low-volume producer of luxury cars to a big player in the mass-market electric vehicle sector,” explains David Bailey, an expert on economic restructuring and industrial policy at Aston Business School in Birmingham.
+
+“Tesla has been a pioneer in technology and a trailblazer in the electric vehicle market, but it has limited knowledge in the manufacturing process, and to go it alone could spell trouble for the company. The Model 3 is potentially a make or break scenario for Tesla, and if it can't prove to its investors that it can scale up and make significant profit, it could spell bad news,” he adds.
+
+Read more: Elon Musk will make driverless cars a reality sooner than you think
+
+Aside from production mishaps, the list of fires Tesla is currently putting out continues to grow, with the company defending its position after a recent fatality involving its Autopilot semi-autonomous driving features – the second death surrounding this technology in recent years following a crash in May 2016 involving a Model S.. Elon Musk, Tesla CEO J. Emilio Flores | Corbis | Getty Images
+
+It was late 2016. Tesla CEO Elon Musk had confidently told investors that his company would be cranking out 500,000 electric cars a year by 2018. To hit those mass-market volumes, the CEO ordered a team of engineers to figure out how to "automate everything" about Model 3 assembly. The Model 3 was the future of Tesla. At $35,000 for the base model, it was supposed to be an affordable electric car that would vault Tesla from a niche car maker for the wealthy to a company that could serve everyone.
+
+watch now
+
+The team outlined four tiers of car parts that could be put together by machines, from the most rigid and easiest parts, to the most difficult items, which were the flexible components including wire harnesses, carpets and trim. Musk told them to automate everything through tier 3. The team warned him robots aren't good at installing floppy parts like the big foam hoops that are the seals on Model 3 doors, and that Tesla needed more engineers to manage such extensive automation. But Musk insisted. The company built big stalls into the Model 3 production line at its Fremont factory, including expensive robots that could, in a perfect setup, put seals on doors. They never worked correctly, and "primary seal automation" was designated for removal in the first quarter of 2018. The equipment remained for months with cars streaming through the stall. The robots were finally taken out this summer. Musk eventually acknowledged in an interview with CBS and a tweet in April 2018 that he had been over-reliant on automation. He admitted it was "my mistake." Tweet This anecdote is emblematic of Musk's management style, Tesla insiders told CNBC. Interviews with 35 current and former employees depict an ambitious CEO whose drive to make everything from scratch sometimes impaired his decision-making, leading him to approve expensive projects that failed and delayed production. They also described occasions where Musk refused to consider methods pioneered by other automakers and ignored advice from industry veterans within Tesla's ranks.
+
+watch now
+
+Tesla's future as a mass-market car company hinges on efficient, automated production of the Model 3. Tesla will lose $6,000 for every $35,000 Model 3 it sells, says UBS analyst Colin Langan. It only breaks even if the car sells for over $41,000. Tesla has yet to produce the $35,000 base model of the Model 3. Tesla did meet the goal of producing more than 5,000 Model 3 vehicles in a week during the third quarter. It made 80,142 vehicles (including 53,239 Model 3's), beating Wall Street analysts' expectations. But the company is nowhere near the 500,000 mark Musk promised in 2016. As of the end of Q3, Tesla has produced 167,975 cars this year. To put that in context, Ford makes that many cars approximately every 10 days. Tesla promised investors that it will achieve positive cash flow and profitability in the second half of 2018. But some investors and analysts are deeply skeptical this will happen. Tesla's debts are quickly coming due: The company has to pay around $230 million in November, part of a larger $1.3 billion debt bill coming due in March 2019, according to AP. Faith in the Tesla CEO is being tested like never before. Investors are wary of his social media and legal battles, attitude toward regulators and recreational drug use. Many employees think Musk is essential to the company's success. They praise his creativity, sense of humor and inspiring speeches. Some credit his hands-on management style with building a great company. A former Tesla and SpaceX employee, Spencer Gore, who is now the CEO of Impossible Aerospace, explained: "Elon Musk is in a position most will never experience — trying to deliver an industry-defining product on a limited budget. He can't afford to make decisions slowly, or even always compassionately. When he involves himself in low-level details it's to enhance execution speed. For some engineers, this can be frustrating, at times heartbreaking — but Elon's unconventional style is what built the Tesla we all chose to join." But other employees describe how Musk's management style has increased costs and complexity in the factories.
+
+Big expensive projects
+
+Musk's ambition to make Tesla factories high-tech and distinct from all other carmakers led him to approve spending on systems that some of his direct reports had cautioned were unnecessary or at least unproven. One example was a project known as the "vision system." Among other things, the vision system was supposed to speed up end-of-the-line quality inspections for fully assembled Model 3s. Manufacturing engineers installed high-resolution cameras and aimed them at cars coming through to snap photos and transmit them to inspectors in another part of the factory. Inspectors should have been able to evaluate the pictures on a computer, then click "good to go" or flag the car for further reviews or rework. They would be helped by vision control software Tesla bought for the initiative.
+
+watch now
+
+Former Tesla employees said the cameras couldn't get a clear shot of some of the key parts and connections that quality inspectors needed to evaluate in every car, such as bolts that were holding air bags in place, or wiring underneath a package tray. Some cameras were repositioned, and new ones were added, but workers would frequently bump their heads on them. Cameras from this part of the line were removed in the first half of 2018. However, computer vision systems are used elsewhere in the factory for simpler tasks, including body inspections. Another example goes back to 2016, when Tesla began devising a "magic carpet" that would move parts to workers on the Model 3 production line with software-controlled conveyors and sleds that ran beneath them. Tesla elevated the entire Model 3 line to make room for this system, and expected to spend around $40 million on the equipment, permits and installation alone, according to engineers familiar with the plans. Tesla dedicated 20 engineers full-time to this initiative for over 3 months, employees said. This system never worked. Today, factory employees bring parts to the Model 3 line with trucks, tuggers and pallet jacks. Portions of the magic carpet have been repurposed and used in Model 3 general assembly. (Tesla says the project did not end up costing $40 million.) Musk acknowledged in the company's second-quarter earnings call that the original plan didn't work and said that some parts of the conveyor system were adapted for use elsewhere in the factory. "So we actually didn't have time to order new equipment because it would have taken too long to arrive. So we took the conveyors that we discarded from the GA 3 line, which didn't work. Or it was way too complex to actually move our products."
+
+Damien Boozer and Paul Jacob work on the general assembly of the Tesla Model 3 at the Tesla factory in Fremont, California, on Thursday, July 26, 2018. Mason Trinca | The Washington Post | Getty Images
+
+The Elon way, not the Toyota way
+
+Current and former employees say that Musk rejects approaches taken by big carmakers, especially Toyota, GM or Volkswagen. This even extends to industry-standard acronyms, which are discouraged at Tesla. Employees who work with suppliers or other outsiders have to translate Tesla-specific jargon into industry standard terms. For example, an ASRS — automated storage and retrieval system — is called a "vertical storage" system at Tesla. Rejection of outside expertise has extended to best practices that made production more efficient elsewhere. For instance, in early 2016, parts were stacking up in ill-organized boxes alongside the Model X line, according to people who worked in the factory in Fremont, California. Workers would have to scramble to find the right part, and sometimes sent Model Xs down the line with incorrect or missing parts, hoping they would be caught in final inspections. Musk heard about a drag on Model X production and was outraged. He marched down to the line and mandated that the team solve the parts shortages by moving a warehouse of pallets closer to the line and bringing in more parts than needed. The fix only created more clutter. The production rate didn't improve.
+
+watch now
+
+Behind his back, employees turned to a method pioneered by Toyota, known as "kanban," to solve their problems. In its simplest form, workers using "kanbans" put up workflow charts, schedules and cards around a production line to help keep track of items they have and items they need. In this case, workers took all the parts out of the boxes around the Model X line, arranged the parts with a clear sequence and labels, and put the parts back into the boxes. If one part was out of sequence or damaged, they'd remove a card and leave it in a box or bag to let the supply team know what needed to be replenished. The cards helped the teams reduce the clutter, keep a small stock of spares nearby, and find the right parts quickly. But because kanbans were pioneered by Toyota, workers thought they had to hide their kanban cards from Musk during his visits to the factory. Half a dozen current and former Tesla workers say that supervisors in Fremont warned them that if Musk discovered kanban cards posted around their work areas, they were in danger of being fired. In another part of the factory, some engineers created a digital kanban app, which they used on iPads to avoid scrutiny. Within Tesla's MOS factory software, there are digital kanban modules, but workers say this was named a "schedule based replenishment" feature to get around the term that Musk hates. A Tesla spokesperson suggested this widespread perception is wrong, that kanban methods are used widely in Tesla factories and that no workers have ever been fired for using them.
+
+DIY software
+
+Musk has decreed that Tesla should build its own software where possible, instead of relying on business factory management programs like SAP or Sage, or service center and dealership software like QuickBase, DealerTrack or ADP. (The company does use some outside apps, like Atlassian JIRA and Coupa, but aims to become completely self-reliant, employees said.) Among Tesla's many homemade business applications is a purchasing order system called WARP, previously known as Warpdrive. WARP is also used for car work orders in service centers. While most Tesla-made software tends to improve over time, recent employees say WARP is seemingly never complete and has made it hard for them to keep track of whether their projects are staying within budget. Factory workers say they can't easily see what's been invoiced to the projects they're responsible for in WARP and how much their team may have left to spend. Getting such information typically requires an email to accounts payable, where a finance professional has to pull and send a custom report back.
+
+A worker at the Tesla Motors factory in Fremont, CA. Jill Silvestri | CNBC
+
+More often than not, several Tesla employees said, accounts payable was too busy to send a detailed report and simply asks how much they need to spend, then replies with a quick approval or denial. Workers said detailed invoices are hard to find in the WARP system, which does not allow for easy searches. One said he thought he was within budget and found nearly $1 million in charges had been invoiced to his team's project by unknown colleagues. They were now over budget, but he couldn't find out why or who was responsible. Former Tesla service supervisors and regional managers said Tesla's disparate homemade programs made it hard to know when their purchase orders were going to be approved and when spare parts were coming in for them to fix customers' cars. Besides WARP, Tesla has created several other programs, including: TMOS, its "manufacturing operating system," to track where a Model 3 is in the process of manufacturing, repairs and testing.
+
+MES, a "manufacturing execution system," to support production of its Model S and X vehicles
+
+A Tesla Executive Factory dashboard to show equipment effectiveness and line data, and high-level production numbers to executives
+
+Garage (or Garage Portal) to let workers locate a Tesla vehicle and see which firmware updates customers may have gotten or may need. Across the many programs, it can be easy to lose track of information about people, expenses or any particular part and its whereabouts. Some service employees said they were surprised to learn that when they sent mechanics to help out with "bursts" to build new vehicles in the Fremont factory, their time was billed either to "training" or "research and development," rather than service or vehicle assembly. One said he was relieved that travel, per diem expenses and overtime wasn't charged to his region.
+
+Troubleshooting on the fly
+
+Toward the end of April this year, Musk was troubleshooting at Tesla's Gigafactory in Sparks, Nevada, where the company makes batteries for its electric vehicles and energy storage systems. The CEO had promised investors the company should be able to produce 5,000 cars per week by the end of June. Battery production had been a major bottleneck, however, as quality checks ate up time, and automation wasn't working. Employees were still making battery modules partly by hand. Musk spent time with workers on the line, and swiftly decided to take out a number of "parts, production steps and specs" that he deemed "unnecessary," as he explained to all employees in an email he sent in the wee hours of May 15. He emphasized in the email that all executives should "go on the production line and perform the most arduous tasks personally" to look for inefficiencies that could be stomped out. Then, to drive his point home, he attached a flattering message that a process technician had sent him, which said: "I just wanted to express my gratitude for CEO Elon Musk coming down to the 'front lines' at Giga 1 this last week. I can not speak for everyone; but from where I work he came in and eliminated 80% of the problems we were having in about 20 minutes. It was amazing. He re-engineered process and final product on the spot and in 'real-time.' In completely cool fashion he actually 'talked and listened' to the workers on the line where the work is being done and the 'tires hit the road'...That same night we blew away the record for the most production by a long shot! My coworkers and I were all giving high fives at the end of shift." But not everybody was excited about Musk's revisions. Several workers at the Gigafactory and Tesla's car plant in Fremont, California, said the vehicles and batteries being made with the new process omitted some parts — including some fasteners that connect the battery to the body of a Model 3 — and were not tested for crash-worthiness until months later.
+
+Members of the media film machinery inside the Tesla Gigafactory in Sparks, Nevada. Troy Harvey | Bloomberg | Getty Images
+
+In the weeks following Musk's visit, former employees said, they remained under pressure to improve their production numbers. At the Gigafactory, one manager told quality engineers to keep using parts that were "red-tagged" for scrap or further review, according to one current and two former employees. Employees responsible for quality control repeatedly saw battery modules come through with cells that were raised too high or slightly out of place, and an insulating material called Fiberfrax in the wrong places, they told CNBC. The manager didn't want modules to slow down battery pack production and told them to pass the parts or quit. Employees filed several complaints about this issue and manager using an HR system called the "answer bar." More than one person was asked to leave in May after pressing the matter. In a statement, Tesla said: "During a production ramp where production processes are not yet mature, sometimes additional parts or steps are added, and sometimes, when it becomes clear that certain parts or steps are duplicative or unnecessary, they are eliminated. This is completely normal and to be expected, and no action is ever taken if it impacts safety, as that is more important than anything. The allegation that any batteries were not properly tested is wrong, and if someone is saying this, they clearly do not have the full set of facts. Every battery goes through rigorous testing before it is used in a vehicle. Notably, after more than a year of Model 3 production, there have been zero battery safety issues in the field. This would not be possible if we had sacrificed safety or overlooked important tests. Production will never take precedence over safety – which is confirmed by the fact that the National Highway Traffic Safety Administration (NHTSA) awarded Model 3 RWD a 5-star safety rating in every category and sub-category."
+
+'Fail fast and move on'
+
+While Musk may have slowed progress with his hands-on approach and reluctance to use methods invented elsewhere, he seems to be learning from his mistakes. Tesla more than doubled its production volume between the first and third quarter of 2018, and was able to meet its production goals for the third quarter. It did this in part by acting more like a traditional carmaker. Over the summer, Tesla built an additional assembly line in Fremont in a gigantic tent, or "sprung structure," with an aluminum frame. Workers there now assemble Model 3s with little automation. Michael Kirschner, a global ergonomics program manager at Tesla, said the structure is working so well that Tesla will keep using it for the foreseeable future. "In a sense, the tent is going back to basics," said Model 3 quality manager Dexter Siga, who has worked at Tesla for 7 years.
+
+A tent is seen at the Tesla factory in Fremont, California, U.S. June 22, 2018. Reuters | Stephen Lam
+
+"Elon Musk himself agrees that he automated too much, too soon," says Ram Ramasamy, Frost & Sullivan's industry director for automation. "He probably could have avoided a lot of problems by starting small, failing fast, then driving adoption and changing the culture to scale what works." But Ramasamy says Musk's ability to experiment then move on quickly is a good sign for the long run. "I'm amazed by his ability to fail fast and move on. He does not lay down but gets up and moves quickly. That really will serve the company well." Steve Finch, a former GM plant manager with about 40 years of automotive experience, agrees that Musk's approach could eventually set Tesla apart. "Elon Musk is not afraid of a mistake. He thinks it's probably the way Tesla will actually achieve success. You have a number of failures, but that one idea will really propel you and take the industry to the next level." He adds, "The question is: Will this put your people at risk, or will you have enough time and money to weather the inevitable failures?". Elon Musk has six days to make good on his pledge that Tesla will be pumping out 5,000 Model 3 sedans a week by the end of the month. If he succeeds, it may be thanks to the curious structure outside the company’s factory. It’s a tent the size of two football fields that Musk calls “pretty sweet” and that manufacturing experts deride as, basically, nuts.
+
+“Words fail me. It’s insanity,” said Sanford C. Bernstein & Co.’s Max Warburton, who benchmarked auto-assembly plants around the world before becoming a financial analyst.
+
+Inside the tent in Fremont, Calif., is an assembly line Musk hastily pulled together for the Model 3. That’s the electric car that is supposed to vault Tesla from niche player for the wealthy to high-volume automaker, bringing a more affordable electric vehicle to the masses.
+
+Tesla has had a heck of a time making the leap. Musk’s expectation two years ago was that 100,000 to 200,000 Model 3s would be produced in the second half of 2017. Just 9,766 rolled out in the first quarter—a weekly output rate of roughly 750.
+
+Hence, apparently, the tent. Musk announced it on Twitter on June 16, saying the company had put together an “entire new general assembly line” in three weeks with spare parts; the building permit was issued on June 13, though the company could have started working on aspects of the project before that.
+
+Amazing work by Tesla team. Built entire new general assembly line in 3 weeks w minimal resources. Love u guys so much! Pic of 1st Model 3 dual motor performance coming off the line … pic.twitter.com/Xr55P3fmGd — Elon Musk (@elonmusk) June 16, 2018
+
+Whether this new line is fully operational is unclear. Company officials declined to comment. The Tesla-obsessed users of Twitter and other internet forums have posted photos and videos and comments either praising or ridiculing the parking-lot big top. Apparently in response to the intense interest, the tent has recently been surrounded by very large trucks, which obstruct the view.
+
+When Tesla releases second-quarter production and delivery figures in early July, the hundreds of thousands of customers who’ve been waiting since March 2016 for their Model 3s, having put down $1,000 deposits, will get a better sense of how much longer they’ll be in the queue. “The question is, how much rope Musk will get from customers who have had to wait years for delivery?” said Jeff Liker, a University of Michigan engineering professor who’s written books on Toyota Motor Corp.’s vaunted production system.
+
+What gives manufacturing experts pause about Tesla’s tent is that it was pitched to shelter an assembly line cobbled together with scraps lying around the brick-and-mortar plant. It smacks of a Hail Mary move after months of stopping and starting production to make on-the-fly fixes to automated equipment, which Musk himself has said was a mistake.
+
+“The existing line isn’t functional, it can’t build cars as planned and there isn’t room to get people into work stations to replace the non-functioning robots,” Warburton said in an email. “So here we have it—build cars manually in the parking lot.”
+
+An admission in April that he erred by putting too many robots in Tesla’s plants was a humbling moment for Musk. The chief executive officer had boasted in the past that his company would build an “alien dreadnought,” sci-fi bro code for a factory so advanced and robotic, it would be incomprehensible to primitive earthlings.
+
+During a February earnings call, Musk told analysts that Tesla had an automated-parts conveyance system that was “probably the most sophisticated in the world.” But by the spring, it had been ripped out of the factory.
+
+“We had this crazy, complex network of conveyor belts,” Musk told CBS This Morning in April. “And it was not working, so we got rid of that whole thing.”
+
+James Womack, the founder of the Lean Enterprise Institute in Cambridge, Massachusetts, called Tesla’s haphazard approach worrisome. “The chaos of how Musk is going about this makes it difficult for him to provide the standardized, repeatable work routines that allow people to function,” said Womack, author of The Machine That Changed the World, which sprang from an influential study of Toyota’s production techniques. “He’s going to need a second tent for repair and rework.”
+
+The word “temporary” may be in Tesla’s tent permits with Fremont, but Musk has suggested it could stick around a while. He told one Twitter follower last week that he’s not sure the company actually needs a building anyway. He described the new assembly line as “way better” than the one in the plant that cost the company hundreds of millions.
+
+That tweet spoke volumes to Dave Sullivan, an analyst at research firm AutoPacific who used to supervise Ford Motor factories. “To say that it’s more efficient to build this with scrap pieces laying around means that either somebody made really bad decisions with the parts in the plant inside, or there are a lot of other problems yet to be discovered with Tesla’s efficiency.”
+
+Fremont is working closely with Tesla to make sure that the tent is in compliance with building and fire codes, said Gary West, an official for the city. Tesla applied for a building permit to erect the tent on June 7, according to municipal records. A permit has been issued for equipment installation and one for an overhead fire sprinkler system is pending. The tent doesn’t have air conditioning, according to the city documents.
+
+The tent was supplied by a company called Sprung, which refers to its products as “high performance tensioned membrane structures” and constructed the facility that housed the NASA Space Shuttle in the 1980s. The one at Tesla covers 137,250 square feet. Building plans show that it’s adjacent to the factory’s north paint shop; it’s visible from the platform of the Warm Springs BART station.
+
+The assembly line inside will start out as fully manual and gradually convert to automation in steps, according to Brian Johnson, an analyst at Barclays who met with Tesla’s investor relations department last week.
+
+“It’s preposterous,” Bernstein’s Warburton said. “I don’t think anyone’s seen anything like this outside of the military trying to service vehicles in a war zone. I pity any customer taking delivery of one of these cars. The quality will be shocking.”. . There’s a sense of tragedy in such stories because these men seemed, at one point, to rise above the masses and suggest that genius is possible. Silicon Valley in particular reveres these kind of heroes—and the more willful and ornery they are, the better. Technologists are often called upon to do things that seem impossible, and so they celebrate when doubters are proven wrong—when the dismissal of an idea becomes evidence of its visionary reach. The idea of the odd genius is afforded a special status within technology. People lionize inventors who listen to their intuition and ignore naysayers, who hold themselves and everyone else to a standard of perfection, regardless of what it costs those around them. Steve Jobs is gone; now we have Elon Musk.
+
+Throughout the turmoil, workers at Tesla have continued building Model 3s, getting better and faster each day. They still don’t sell the car for $35,000—the least expensive version costs at least $10,000 more—but someday, who knows? The large quarterly profit the company announced in October provided the firm with a moment of relief. Some former executives say what concerns them now is whether other car companies—the big ones with well-honed manufacturing systems, steady executives, and functioning bureaucracies—will start making electric cars that are just as good as Tesla’s, erasing the company’s head start and cachet.
+
+After Musk abandoned his brash proposal to take Tesla private, some on Wall Street argued that the company would benefit from a leadership change. “We are hopeful that … the past 17 days will lead the board down the path to bringing on a more operational CEO, or at a minimum a COO,” Cowen and Company analysts wrote after Musk tweeted and then dropped his suggestion about going private. “Now, more than ever, a solid number 2—someone with strong operational background that can help Tesla move from ideas to execution—is crucial,” RBC Capital Markets wrote to clients. Some have proposed that Musk might become Tesla’s chief design officer—a wizard and motivational force.
+
+“The fact that we were able to build at scale, amid all that craziness, that’s the real accomplishment,” one former executive said. “We designed a car that is so simple and elegant you can build it in a tent. You can build it when your CEO is melting down.”
+
+Others, though, are skeptical. “A strong executive isn’t going to come in with him hovering over their shoulder,” a former senior executive told me. It is unlikely Musk will give up power, former colleagues say. In January 2018, shareholders agreed to compensate Musk as much as $55 billion over the next 10 years, but only if Musk continues to lead the company and hits 12 milestones, including a market capitalization of $650 billion, roughly 10 times what it’s worth today. (Musk, who is worth more than $20 billion and already owns a great deal of Tesla stock, won’t be paid anything at all if Tesla doesn’t grow to the targets.) “He’s got 55 billion reasons to never let anybody run that company,” one executive said.
+
+A Tesla spokesperson said that Musk has proven himself. “The fact that under Elon’s leadership we have successfully ramped Model 3 production and just had our most successful quarter in the company’s history suggests he was not an obstacle to Tesla’s success.”
+
+Eric Larkin, who helped oversee factory software until he was fired in April, still feels a strong emotional and financial attachment to Tesla. He’d worked there for three years and was proud to be part of something that could reduce carbon in the atmosphere and “accelerate the world’s transition to sustainable energy,” as the company’s mission statement puts it. “Tesla is the only company positioned to make this world a better place, to really improve the world right now,” Larkin told me. “And Tesla is Elon. How can you be bitter about humanity’s best hope?”
+
+Many I spoke to agreed that Tesla and Musk, for the time being, are inseparable. Which is why they are so bewildered by his behavior and so disappointed that his strengths are accompanied by such curious faults. A few years ago, two Tesla workers were having drinks at a hotel bar across from the Fremont factory when Musk walked in. He was alone except for a bodyguard. They asked Musk if he would like to join their table. Musk sat, and after a few uncomfortable moments started talking about the TV shows he liked, cartoons like South Park and Family Guy. Everyone ordered expensive Scotch and began recounting their favorite episodes from The Simpsons. It was fun. They laughed a lot. It didn’t feel normal, exactly. But it also didn’t feel scary or bad, as it so often did inside the factory. They could have been anyone, just ordinary friends catching up. Then, after a few hours, Musk paid the bill and walked away, back into his chaotic, frenzied, tigerlike life.. Tesla Inc.’s Elon Musk , who’s built up an aura around how automated his car assembly plant will be, has good news for humans: We still need your help.
+
+“Excessive automation at Tesla was a mistake. To be precise, my mistake,” the CEO wrote in a tweet Friday, hours after CBS aired an interview in which he acknowledged putting too many robots in Tesla’s lone auto factory. “Humans are underrated.”. . In a recent interview with CBS, Elon Musk discussed the future of Tesla and the problems the manfucturer was having producing enough Model 3 vehicles to meet growing demand. One of the issues that Musk touched on was the company’s over-reliance on robotics, saying that they had slowed the company down.
+
+“Yes, they did … ” Musk said in response to questions regarding whether or not the company’s use of robots delayed production. “We had this crazy, complex network of conveyor belts … And it was not working, so we got rid of that whole thing.”
+
+Recommended Videos
+
+Musk followed up these statements on Twitter by admitting that “humans are underrated.”
+
+Yes, excessive automation at Tesla was a mistake. To be precise, my mistake. Humans are underrated. — Elon Musk (@elonmusk) April 13, 2018
+
+Tesla has been under an increasing amount of pressure due to its failure to produce enough units of the Model 3 to meet demand. While Musk did admit that the company’s over-reliance on robots had led to delays, he said that customers should not be worried about getting their cars. He said it might take up to nine extra months, but customers would get them.
+
+“There shouldn’t be a question mark as to whether somebody’s gonna get their car, it’s just, yes, you’ll definitely get your car,” Musk told King. “It’s gonna be six to nine months longer than expected.”
+
+Musk also pointed out that three of those months have already passed, so customers don’t have too much longer to wait. That being said, he did admit that some customers had canceled their orders. He believes that most of them did so simply because they needed a car right then and there, and Tesla didn’t have it.
+
+The low production levels have taken a toll on Tesla’s stock. Last month, share prices fell from $340 t0 $252, but things are improving according to Musk, who noted this in a tweet to the Economist.
+
+The Economist used to be boring, but smart with a wicked dry wit. Now it’s just boring (sigh). Tesla will be profitable & cash flow+ in Q3 & Q4, so obv no need to raise money. — Elon Musk (@elonmusk) April 13, 2018
+
+Editors' Recommendations. For the second time since February, Tesla said Monday it has temporarily suspended production of its Model 3 sedan, a move that analysts say underscores the immense challenges for the company to deliver its first mass-market electric vehicle. The pause comes just days after chief executive Elon Musk downplayed worries about manufacturing delays with the Model 3, and after the company disclosed it had failed to meet its goal of producing 2,500 cars per week by the end of the first quarter. Analysts say that a successful rollout of the Model 3 is crucial to the company’s long-term success. And for Musk himself, the car represents the culmination of a plan to supply affordable, widely available vehicles powered solely by electricity.
+
+The company said in a statement that the pause in Model 3 production was planned and “not unusual.” The downtime will be used to “improve automation and systematically address bottlenecks in order to increase production rates,” Tesla said. The statement used the same language during the halt in production earlier this year. Tesla did not say how long the suspension, which was first reported by BuzzFeed, would last.
+
+Advertisement
+
+While production hitches are not unheard of, planned delays are not common, said Akshay Anand, an executive analyst with Kelley Blue Book. Nonetheless, he was not surprised by the suspension. “This is Tesla’s first go-around of really mass-producing something. This is not the Model S or the Model X that’s only accessible to the elite. And when you have something that’s mass-marketed, it’s a different ballgame.”
+
+Analysts say that smooth Model 3 production can help the company stem its money-losing operations. Tesla reported net losses of more than $770 million in the last three months of last year, up from $219 million during the same time in 2016. “While further delays would not necessarily ‘make or break’ Tesla, they will invariably exacerbate cash burn,” Toni Sacconaghi, an analyst at Bernstein, said in a research note Tuesday. He added that if Tesla does deliver on the Model 3, however, the company could still thrive because of the rapid growth of the electric vehicle market and the lack of competition at the Model 3’s price.
+
+Tesla has said it expects Model 3 production to escalate quickly, despite prior delays. Earlier this month the company said it aims to produce 5,000 vehicles per week. That would require the company to more than double its current rate.
+
+Advertisement
+
+Musk has blamed production delays, in part, on an overreliance on automation. He said customers of the Model 3 will receive their vehicles, but not as early as they had planned. “There shouldn’t be a question mark as to whether somebody’s going to get their car,” Musk told “CBS This Morning” in an interview last week. “It’s a six-to-nine-month time shift — that’s literally it — and three of those months have already passed.”. . . . . Corrections & Clarifications: A previous version of this story misstated the rate of Tesla vehicle sales in comparison to DeLorean Motor Co. sales.
+
+The annals of the automotive industry are filled with bold upstarts who failed to reinvent the business after they gravely underestimated how hard it really is to make cars.
+
+Look no further than John DeLorean, for example. DeLorean's car company flamed out in the 1980s after turning heads with gull-wing doors that bear a striking resemblance to the falcon-wing doors on Tesla's Model X.
+
+Will Tesla CEO Elon Musk join the Back to the Future carmaker on the list of swashbuckling executives who made a big splash but ultimately failed to reimagine the auto business?
+
+To be sure, Musk has already accomplished much more than DeLorean, whose DeLorean Motor Co. built only 9,080 cars before collapsing. That's about as many as Tesla sold monthly last year.
+
+But with production of the new mass-market Tesla Model 3 electric car struggling to speed up, some investors are losing faith in the billionaire innovator, who is also CEO of rocketmaker SpaceX.
+
+Tesla stock plunged 23% from March 12 through March 29, the last day of active trading. At $266.13, shares are 32% below their all-time high of $389.61.
+
+Last week, Moody's downgraded Tesla's bond rating and lowered its outlook from stable to negative.
+
+"Tesla's ratings reflect the significant shortfall in the production rate of the company's Model 3 electric vehicle," Moody's said.
+
+Musk has acknowledged navigating "production hell" with the Model 3, which has been plagued by delays as he tries to adopt advanced factory automation. But Musk remains confident he can revolutionize vehicle making.
+
+"The car industry thinks they're really good at manufacturing. And actually they are quite good at manufacturing, but they just don't realize just how much potential there is for improvement," he said in February. "It's way more than they think."
+
+Musk bragged that Tesla's futuristic approach to vehicle manufacturing, which relies heavily on high-tech robotics, will be its "long-term, sustained competitive advantage." That includes automating not just the processes of stamping, painting and welding, which most automakers already do, but also eventually automating final assembly.
+
+Since launching production in July, the company has reportedly encountered a litany of challenges, such as parts shortages and basic miscues that have forced technicians to scramble to fix assembly-line production errors after the cars were supposed to be finished.
+
+Consequently, industry experts are beginning to question Musk’s manufacturing strategy.
+
+More:Elon Musk's bad spell continues amid a spat with the National Transportation Safety Board
+
+More:We rented a Tesla Model 3 from a new owner: Call it spartan, high-tech and compelling
+
+More:Tesla CEO Elon Musk: We got 'complacent' but Model 3 output is accelerating
+
+More:Tesla stock dives as feds investigate deadly Calif. crash
+
+"Tesla has not only tried to reinvent the car, but has also tried to reinvent the production line, with hyper-automation," Sanford Bernstein auto analyst Max Warburton said Wednesday in a note to investors. "This is creating serious issues."
+
+Part of the problem is that Tesla rushed into manufacturing too quickly, said AutoPacific analyst Dave Sullivan, who formerly worked in an assembly plant.
+
+The company appears to be "more concerned with getting butts in seats and fixing the quality issues after the fact," Sullivan said. "Early adopters will look the other way for now, but that goodwill won't last for long."
+
+Tesla did not agree to comment for this story.
+
+But engineering chief Doug Field told employees in a March 23 email obtained by Bloomberg that workers should find it "personally insulting" that critics are questioning Musk's strategy. He exhorted workers to help boost Model 3 production.
+
+“Let’s make them regret ever betting against us," Field reportedly wrote. "You will prove a bunch of haters wrong.”
+
+Investors want to see accelerated production of the Model 3 when the company reports first-quarter earnings in a few weeks.
+
+At one point, Musk had promised the company would make 5,000 units per week by the end of 2017. The company quickly backed off that goal.
+
+Tesla's most recent projection was to hit that pace by the end of the second quarter of 2018.
+
+For Musk to get Tesla back on track, he'll have to confront several pressing matters:
+
+1. His push to automate manufacturing might have been a mistake.
+
+Warburton said the best manufacturers, such as famously efficient Japanese automaker Toyota, have learned that automating vehicle assembly is expensive and leads to poor quality.
+
+"Tesla might ultimately need to fundamentally rethink" its entire approach to manufacturing, he warned.
+
+In February, long after production began, Musk was still pledging to create "a very sophisticated automated parts conveyance system" to help improve the efficiency of the company's assembly plant in Fremont, Calif.
+
+2. Tesla is burning cash at a torrential pace.
+
+The company is racking up losses at a furious rate, in part because it has spent more than two times as much as traditional automakers in per-unit manufacturing capacity, according to Sanford Bernstein.
+
+Tesla reported a net loss of $675 million for the fourth quarter, up from $121 million a year earlier.
+
+Prices of Tesla bonds issued in August plunged to all-time lows last week as the company's challenges stacked up.
+
+Moody's said Tesla's $3.4 billion in cash and securities at the end of 2017 "is not adequate to cover" normal operations, increased production and bond payments.
+
+Speculation that Tesla could soon run out of cash is probably premature because the company still has a market value of about $44 billion and could sell more stock to raise money. But that could come at a cost, potentially pushing shares down further.
+
+If the company meets its revised Model 3 production goals of 2,500 units a week by the end of March and 5,000 by the end of June, the prospects for satisfying the company's cash needs "will be supported," Moody's said.
+
+3. Competitors are catching up.
+
+After years of sluggish electric-car development, automakers are finally catching up.
+
+General Motors actually beat Tesla in the race to be the first automaker to deliver a mass-market electric car with the Chevrolet Bolt.
+
+And now a new entrant is promising better range than both the Bolt and the Model 3.
+
+Hyundai said Wednesday at the New York International Auto Show that its new Kona electric compact SUV will get 250 miles of battery range. That's better than the base-model Model 3's 220 and the Bolt's 238.
+
+In luxury electric cars, several competitors to Tesla's Model S sedan and Model X are also popping up. Jaguar recently showed off its I-Pace crossover with 240 miles of electric range.
+
+4. Questions linger about a recent crash.
+
+The National Transportation Safety Board opened an investigation last week into a deadly crash in California involving a Model X that struck a highway median and flipped into oncoming lanes, where it was struck by two vehicles.
+
+NTSB officials will investigate whether Tesla's partially self-driving system, called Autopilot, was activated during the crash.
+
+Any indication that Autopilot is flawed could raise further questions about Tesla's technological leadership.
+
+Follow USA TODAY reporter Nathan Bomey on Twitter @NathanBomey.. Tesla's affordable Model 3 has been trapped in development hell for what seems like ages now, and in an interview with CBS's Gayle King, CEO Elon Musk offered a little more insight into how the production process has fallen short. While escorting King through the company's Fremont, California-based factory, Musk conceded that Tesla might've had too many robots involved in its car production process and that the company would benefit from having more humans on the line. And when King opined out loud that in some cases, said robots probably slowed down production, Musk responded with a terse "yes, they did."
+
+Musk didn't get to elaborate on the complexities of his factory setup, but he did point out one particular failure: the facility at one point used a "crazy, complex network of conveyor belts, and it was not working so [Tesla] got rid of the whole thing."
+
+That Musk would've chosen to rely on a highly automated facility is little surprise. During a shareholder meeting in 2016, he excitedly noted that he thinks of the factory itself as a product with the potential for tremendous breakthroughs. "We realized that the true problem, the true difficulty, and where the greatest potential is – is building the machine that makes the machine," Musk said. "In other words, it's building the factory."
+
+Musk's plan to craft the machine that builds machines only picked up steam when Tesla acquired Perbix, an automated manufacturing company that Tesla had long-running business ties with. While the move allowed Tesla to being more component production in-house, it might have caused still more problems -- Tesla temporarily suspended Model 3 production for a week in February in part to "improve automation." It seems clear that Musk hasn't yet struck the right balance between machines and the roughly 10,000 human workers at the Fremont factory.
+
+Just to be clear though, a surfeit of robots isn't the only reason Tesla has consistently fallen short of its production goals. On the company's most recent earnings call, Musk candidly pointed out that issues with battery module production at the company's Gigafactory in Nevada was the "limiting factor" in Model 3 output.
+
+"We were probably a little overconfident, a little complacent, in thinking this is something we understand," he said at the time. "We put a lot of attention on other things and just got too comfortable with our ability to do battery modules, because we've been doing that since the start of the company.". watch now
+
+Tesla's problems with battery production at the company's Gigafactory in Sparks, Nevada, are worse than the company has acknowledged and could cause further delays and quality issues for the new Model 3, according to a number of current and former Tesla employees. These problems include Tesla needing to make some of the batteries by hand and borrowing scores of employees from one of its suppliers to help with this manual assembly, said these people. Tesla's future as a mass-market carmaker hinges on automated production of the Model 3, which more than 400,000 people have already reserved, paying $1,000 refundable fees to do so. The company has already delayed production, citing problems at the Gigafactory. On Nov. 1, 2017, CEO Elon Musk assured investors in an earnings call that Tesla was making strides to correct its manufacturing issues and get the Model 3 out. But more than a month later, in mid-December, Tesla was still making its Model 3 batteries partly by hand, according to current engineers and ex-Tesla employees who worked at the Gigafactory in recent months. They say Tesla had to "borrow" scores of employees from Panasonic, which is a partner in the Gigafactory and supplies lithium-ion battery cells, to help with this manual assembly.
+
+watch now
+
+Tesla is still not close to mass producing batteries for the basic $35,000 model of this electric sedan, sources say. These people requested anonymity as they are not authorized by the company to talk to the press. A Tesla spokesperson told CNBC: "Until we reach full production, by definition some elements of the production process will be more manual. This is something Elon and [CTO] JB [Straubel] discussed extensively on our Q3 earnings call, and it has no impact on the quality or safety of the batteries we're producing." Meanwhile, bears are growing more skeptical by the day. Stanphyl Capital's Mark B. Spiegel, who has a significant short position in the company, told CNBC: "While I've no doubt that Tesla will eventually work out its Model 3 production problems, the base model will cost Tesla at least mid-$40,000s to build. The company will never deliver more than a token few for less than the current $49,000 lowest-cost offering. Sales will hugely disappoint relative to expectations of over 400,000 a year. And even at those higher prices Tesla will never come anywhere close to its promised [profitability]."
+
+A history of missing targets
+
+Tesla has a history of setting and missing ambitious targets. It reportedly aimed to ship its Model X gullwing vehicles to the masses in 2014, but couldn't do so until 2016. Last year, Musk promised to deliver 1,600 Model 3s in the third quarter, but only delivered 220 of them. In a shareholders' update in August, he said the company should be producing 5,000 Model 3s per week by the end of 2017. In November, he lowered expectations, saying Tesla will be able to crank out 2,500 premium Model 3s per week by the end of March, ramping up to 5,000 per week by June. According to shareholder updates, the company delivered fewer than 2,000 Model 3s through the end of 2017, and only the more expensive long-range ones. No $35,000 basic models have shipped as of mid-January. Issues at the Gigafactory could hamper Tesla's ability to hit even its reined-in goals, say sources. Delays would hurt employee morale, test the patience of customers, and help electric vehicle competitors like Chevy, Nissan and China's BYD.
+
+Tesla Model 3 exterior view. Source: Tesla
+
+But some Tesla investors view production issues as minor in the grand scheme. A note from senior research analyst Ben Kallo at R.W. Baird said, "We continue to believe Tesla will be able to ramp Model 3 production, think demand could accelerate with positive reviews from early customers, and believe the Model 3 total addressable market could be larger than expected." Baird reiterated its outperform rating in the note. Some former Tesla engineers agreed, saying manufacturing and quality issues should be kept in perspective. "Manufacturing is always hard. There are questions of tolerance and risk, what meets quality criteria and so on," one said. "It takes time to figure it out."
+
+'Slapping bandoliers together'
+
+What does it take to make a Model 3 battery? Each battery pack contains four modules. And each module contains seven bandoliers, or cooling tubes with a row of lithium-ion cells glued to each side. Those cells have to be precisely aligned. Manual assembly works for some parts of battery production, like bolting down and gluing the "clamshells," or outer structures that hold a battery pack together. But bandoliers are tough to put together by hand. Cells can be pushed a bit too high or low, or otherwise drop out of alignment, as they're squeezed against the glue on a cooling tube and packed into modules. A current Gigafactory engineer recalled that in December, factory workers were manually "slapping bandoliers together as fast as they possibly could," generating a lot of scrap in the process.
+
+Construction on the Tesla Motors Gigafactory east of Reno, Nev. David Calvert | The Washington Post | Getty Images
+
+Once the machines in the factory were able to crank out bandoliers as fast or faster than the manual laborers, Tesla began sending Panasonic workers back to their employer, sources said. Today, Tesla is winding down manual assembly as much as possible at the Gigafactory, a hopeful sign. But one engineer who works there cautioned that the automated lines still can't run at full capacity. "There's no redundancy, so when one thing goes wrong, everything shuts down. And what's really concerning are the quality issues." Many of the company's quality control workers are relatively inexperienced, make sloppy calculations and don't know when they're looking at flaws, according to several current and former employees. They said many quality inspectors were temp-to-hire workers with no automotive experience who Tesla hired via a staffing agency. Tesla acknowledged the relative inexperience of some employees, but said new hires involved in battery production receive "extensive training, including safety training." Two current engineers told CNBC that they are concerned some of the batteries being shipped do not have the minimum gap required between lithium-ion cells. These engineers warned that this "touching cells" flaw could cause batteries to short out or, in worse cases, catch fire.
+
+watch now
+
+These engineers said they raised the issue internally, but their concerns were shrugged off by managers. A Tesla spokesperson dismissed these comments as "false claims," and strenuously denied the company is shipping hazardous batteries. "The implication that Tesla would ever deliver a car with a hazardous battery is absolutely inaccurate, contrary to all evidence, and detached from reality," the spokesperson wrote in an email to CNBC. The spokesperson also explained: "Every battery in a Tesla vehicle has thousands of cells, the vast majority of which are at the same voltage potential as neighboring cells. Hypothetically, even if two cells of the same voltage potential were touching, there would be absolutely zero impact, safety or otherwise – it would be as if two neutral pieces of metal touched. "Despite this fact, all Model 3 battery modules' cell positions are measured twice in manufacturing to verify process control and quality of outgoing parts. Conversely, if at any point in the production process cells are touching at different voltage potentials, they cannot be electrically interconnected. Over the course of the production process, we conduct three different tests to ensure the right number of cells are electrically connected in Model 3 modules." The two engineers also said that Tesla doesn't do the same kind of "stress tests" of its Model 3 batteries which would be expected of other electronics or carmakers. Such tests could help Tesla figure out if touching cells (or any other flaws) are present in its fully assembled batteries, or if flaws develop or worsen with real-world use. Tesla countered that it tests batteries in many other ways, "including shock and vibration, and high temperature and humidity testing, as well as thermal cycling endurance testing throughout design and via sampling in production." The company says this testing "is designed to prevent touching cells from being installed in any of our vehicles."
+
+WATCH: Tesla on autopilot crashes into firetruck in California. Investors and fans of Tesla are anxious to hear what the company has to say about the production ramp of the Model 3, the main driver of future profits and cash-flow, when it releases its first-quarter results on May 2.
+
+Analysts at Bernstein and UBS recently released reports that focus specifically on the problems with “over-automation” of the Model 3 line, production of which is now approximately 2,000 vehicles per week—nowhere near the company’s target of 5,000 vehicles per week.
+
+Advertisement
+
+Founder and CEO Elon Musk, for years one of strongest proponents of a future where there are no people in the production process and his factory looks like an alien spaceship, is now acknowledging that the optimal level of automation remains a complex balancing act of design, productivity, quality, and human and machine skills.
+
+He recently blamed an overly automated production process as the reason for missing Tesla’s output targets. “Humans are underrated,” he tweeted. And Musk added to CBS, “We had this crazy, complex network of conveyor belts… and it was not working, so we got rid of that whole thing.”
+
+In the Bernstein analysis, Toni Sacconaghi and Max Warburton offer some explanation as to why it’s proving so difficult to ramp up production on an overly automated line. Warburton’s background includes time spent benchmarking vehicle-assembly plants and he states that, in attempting to hyper-automate Model 3 production at its Fremont plant in California, Tesla “may have shot itself in the foot.”
+
+“Automation simply can’t deal with the complexity, inconsistencies, variation and ‘things gone wrong’ that humans can,” and “can create quality problems further down the line,” they say. The Bernstein analysts deduce that Tesla’s troubles are because of the complexity of automating final assembly, where the car is put together. This is something that’s been tried before by other manufacturers—such as Fiat, Volkswagen, and GM—and they have all failed. Sacconaghi and Warburton say:
+
+Advertisement
+
+In final assembly, robots can apply torque consistently—but they don’t detect and account for threads that aren’t straight, bolts that don’t quite fit, fasteners that don’t align or seals that have a defect. Humans are really good at this. Have you wondered why Teslas have wind-noise problems, squeaks and rattles, and bits of trim that fall off? Now you have your answer.
+
+The Bernstein analysts point out that final assembly is fundamentally an exercise in flexibility because the process is constrained by the ability to feed the right part at the right time. Humans are able to spot things that aren’t right, stop the process, and try to get them fixed. One of the important ways that simple design contributes to simpler final assembly is in how many parts and how much space is required alongside the assembly line. Robots aren’t as flexible as humans; they aren’t as good as humans at adapting to product variants nor can they handle as many complex movements as humans.
+
+This means that, beyond a certain point, automation can raise costs, and contrary to what you’d expect, not help quality or productivity. Importantly, automation needs to be overlaid on a stable process to ensure that it’s not the errors that are being automated. This will be especially important once machines are learning on their own, because there’s not necessarily a human to notice if an error is being propagated.
+
+As we enter an age of machines that can learn directly from data rather than being programmed by humans, Tesla’s experience with a hyper-automated production process is important to understand. In a more automated future, it’s still vital to appreciate what humans can do better.. Production had been halted for much of last week in Tesla's car factory in Fremont, California, and its battery factory near Clark, Nevada. In a Tuesday note to employees, CEO Elon Musk said that the pause was necessary to lay the groundwork for higher production levels in the coming weeks. Musk said he wants all parts of the company ready to prepare 6,000 Model 3 cars per week by the end of June, triple the rate Tesla has achieved in the recent weeks.
+
+The announcement caps a nine-month period of turmoil that Musk has described as "production hell" as Tesla has struggled to ramp up production of the Model 3.
+
+Tesla had high hopes for its Model 3 production efforts. In 2016, Musk hired Audi executive Peter Hochholdinger to plan the manufacturing process, and Business Insider described his plans in late 2016: "Hochholdinger's view is that robots could be a much bigger factor in auto production than they are currently, largely because many components are designed to be assembled by humans, not machines."
+
+A year later, Musk himself was touting Tesla's advanced robotics expertise. "We are pushing robots to the limit in terms of the speed that they can operate at, and asking our suppliers to make robots go way faster, and they are shocked because nobody has ever asked them that question," Musk said on a conference call last November. "It’s like if you can see the robot move, it’s too slow.”
+
+Musk now admits he was wrong about this. "Excessive automation at Tesla was a mistake," Musk tweeted recently. "To be precise, my mistake. Humans are underrated."
+
+"We had this crazy, complex network of conveyor belts," Musk told CBS News. "And it was not working, so we got rid of that whole thing."
+
+Musk is discovering that large-scale car manufacturing is really hard, and it's not easy to improve on the methods of conventional automakers. And while automation obviously plays an important role in car manufacturing, it's not the magic bullet Musk imagined a couple of years ago. Far from leapfrogging the techniques of conventional automakers, Tesla is now struggling just to match the efficiency of its more established rivals.
+
+Advertisement
+
+And most of the auto industry experts we talked to thought Musk still had a lot to learn.
+
+"A lot of the mistakes we're hearing about are mistakes that were made in the rest of the industry in the 1980s and the 1990s," says Sam Abuelsamid, an industry analyst at Navigant Research. He points to the experience of General Motors, which wasted billions of dollars in a largely fruitless effort to automate car production in the 1980s.
+
+At the same time, it's rarely a good idea to underestimate Musk. Musk has a long history of setting optimistic deadlines for his companies and then failing to meet them. But Musk is persistent and a quick learner. He has made a lot of mistakes so far, but he may still have time to learn from those mistakes and turn Tesla into a competitive carmaker.
+
+The same mistake
+
+In reporting this story, we talked to two different experts who drew the same parallel to GM's automation efforts in the 1980s. At the time, GM was being led by chairman and CEO Roger Smith and faced rising competition from Toyota and other foreign carmakers. Smith had a vision for a "lights out" car factory where robots would do the bulk of the work, allowing GM to produce cars more efficiently than anyone else.
+
+In their 1994 book Comeback, Paul Ingrassia and Joseph White (Author) described the results of Smith's automation project at GM's plant in Hamtramck, Michigan:
+
+As Hamtramck's assembly line tried to gain speed, the computer-guided dolly wandered off course. The spray-painting robots began spraying each other instead of the cars, causing GM to truck the cars across town to a fifty-seven-year-old Cadillac plant for repainting. When a massive computer-controlled 'robogate' welding machine smashed a car body, or a welding machine stopped dead, the entire Hamtramck line would stop. Workers could do nothing but stand around and wait while managers called in the robot contractor's technicians.
+
+Over the course of the 1980s, GM spent billions of dollars on advanced robotics, but it never saw a return on that investment.
+
+Advertisement
+
+"Instead of easing robots onto the line a few at a time, providing for inevitable debugging problems with redundant equipment, GM bet the entire Hamtramck production system on the proposition that leading-edge automation would work instantaneously."
+
+Three decades later, robots are more sophisticated. But the same basic insight applies: automation works best when it's added incrementally to a production process that's already working smoothly. And Musk seems to have made the same mistake Smith did: bringing in way too many robots, way too quickly, leaving little time for testing and refining the process.
+
+Robots are supposed to allow production of more cars with fewer workers, but one ironic consequence of over-automation is that it can actually require more workers. Ingrassia and White report that GM's Hamtramck plant had around 5,000 workers on its payroll in the mid-1980s, compared to 3,700 workers at a nearby Ford plant with many fewer robots. Yet the Ford plant was "outproducing Hamtramck by a wide margin."
+
+Today, Tesla is having the same frustrating experience. Tesla is manufacturing its cars at a plant in Fremont, California, that was formerly a famous GM/Toyota joint factory called NUMMI. According to Automotive News, NUMMI had 2,470 employees in 1985, its first year in operation, and produced 64,764 cars. By 1997, it had 4,844 workers and produced 357,809 vehicles.
+
+By contrast, Automotive news estimates that Tesla has somewhere between 6,000 and 10,000 workers in 2016 (the San Jose Mercury News said it was "about 10,000" last year) and manufactured just 83,922 vehicles. That means Tesla's plant in 2016 was less than half as productive, on a per-worker basis, as it was during the first year of GM management—and less than one fifth as productive as it was during NUMMI's heyday in the 1990s.
+
+"The number of people Musk's got in there has a great deal to do with why he doesn't make money building vehicles," automotive manufacturing consultant Michael Tracy told Automotive News last year.
+
+To be fair, Tesla is known for being more vertically integrated than competitors. So some of those extra workers may be doing work that would have been performed by suppliers in the NUMMI plant.
+
+And Tesla says it's making progress. "The number of labor hours needed to complete a vehicle has decreased 33 percent since early 2016," Tesla's Laurie Shelby wrote in a February blog post.. Elon Musk has admitted that automation has been holding back Tesla’s Model 3 production and that humans, rather than machines, were the answer.
+
+
+
+The electric car maker’s chief executive said that one of the reasons Tesla has struggled to reach promised production volumes was because of the company’s “excessive automation”.
+
+Asked whether robots had slowed down production, rather than speeding it up, during a tour around Tesla’s factory by CBS, Musk replied: “Yes, they did … We had this crazy, complex network of conveyor belts … And it was not working, so we got rid of that whole thing.”
+
+“Yes, excessive automation at Tesla was a mistake. To be precise, my mistake. Humans are underrated,” Musk added later.
+
+Profile Elon Musk Show The South African-born computer programmer and businessman is worth about $21bn (£15bn) today. He was catapulted into the ranks of the super-rich with the sale of PayPal to eBay, which netted him $165m
+
+
+
+In 2002, he used $100m to found SpaceX, which aims to cut the cost of space travel through technology such as reusable rockets. One of Musk's ultimate goals is to pioneer efforts to colonise Mars.
+
+
+
+Musk became a major investor in electric car company Tesla in 2004 and took over the reins in 2008. Tesla has focused on building a vehicle with mass market appeal. Despite low sales, its stock market value overtook Ford last year.
+
+
+
+Another ambitious Musk project is the Hyperloop, his vision of a super-fast underground transport system to whisk passengers between major US cities, such as LA and San Francisco, at hypersonic speed. He has called the idea a "cross between a Concorde and a railgun and an air hockey table". Critics say it is too impractical and expensive.
+
+
+
+More recent ideas include OpenAI, a not-for-profit firm researching artificial intelligence, and Neuralink, a company exploring ways to connect the human brain with AI.
+
+Photograph: Peter Parks/AFP Was this helpful? Thank you for your feedback.
+
+Caught in what Musk has called “manufacturing hell”, the electric car firm has failed to hit its weekly production target of 2,500 Model 3 vehicles in the first quarter of 2018, fostering doubt within the industry that Tesla will be able to hit its 5,000-a-week target in three months time.
+
+The significant production shortfall has delayed crucial customer deliveries. Musk said he was forced to take direct control of the production line at the beginning of April, resorting to pulling all-nighters and sleeping at the factory.
+
+“We were able to unlock some of the critical things that were holding us back from reaching 2,000 cars a week. But since then, we’ve continued to do 2,000 cars a week,” he said.
+
+At the same time Tesla is facing negative publicity over a fatal crash of one of its Model X SUVs that was driving using the firm’s Autopilot mode, openly feuding with the US National Transportation Safety Board and attempting to suppress issues before media attention.. In a delicious turn of fate Elon Musk has put robots the world over on notice. He recently replaced the highly-touted automation system at Tesla with a better, more intelligent paradigm: humans.
+
+Tesla’s Model 3 production facility is regarded as one of the most advanced car manufacturing plants in the world. It’s also been a complete failure. Elon Musk this month personally took over operations. And in true Musk form he’s burning the candle at both ends, rarely leaving the building.
+
+When your billionaire boss is sleeping on the factory floor, it’s safe to say there are going to be some company changes.
+
+Thanks to a series of unfortunate events, Tesla’s 2018 has been one of those no good, awful, very bad years. A second Autopilot-related fatality put a damper on public opinion, while missing every production goal the company set made shareholders nervous. And to top things off, Tesla had to recall over 100,000 Model S cars due to some bolts in the steering column using ill-suited materials.
+
+We mentioned before that most (if not all) of the company’s problems are due to human error. The only consistent thing about its Model 3 production has been the company’s failure to meet its fulfillment goals. And that’s because Musk chose to make the ‘last mile’ of production entirely automated, and it blew up in his face.
+
+Yes, excessive automation at Tesla was a mistake. To be precise, my mistake. Humans are underrated. — Elon Musk (@elonmusk) April 13, 2018
+
+In an interview last week with Gayle King on CBS This Morning, when asked if the automation systems caused some of the delay, Musk said:
+
+Yes, they did….We had this crazy, complex network of conveyor belts….And it was not working, so we got rid of that whole thing
+
+After changing things at the factory recently, and replacing the expensive automation with good old fashioned human workers, things are looking up. Musk told King he expected to push 2000 units a week and increase those numbers through the second quarter and beyond.
+
+So, it turns out the world’s most advanced automobile factory, helmed by one of the most tech-savvy people in the world, can’t finish its job using automation.
+
+And, if even Tesla can’t keep robots employed, it looks like humans are going to have to put off our eventual retirement from the global workforce even longer.
+
+The Next Web’s 2018 conference is just a few weeks away, and it’ll be ??. Find out all about our tracks here.. Elon Musk has said that “excessive automation” is partly to blame for the serious backlog in production of Tesla cars, noting that human beings can in some situations do a better job.
+
+Mr Musk has come under fierce criticism for the delays facing his Model 3 sedan.
+
+“Yes, excessive automation at Tesla was a mistake,” he said. “To be precise, my mistake. Humans are underrated.”
+
+Caught in what Mr Musk has called “manufacturing hell”, the electric car firm has failed to hit its weekly production target of 2,500 Model 3 vehicles in the first quarter of 2018, fostering doubt within the industry that Tesla will be able to hit its 5,000-a-week target in three months time.
+
+“We had this crazy, complex network of conveyor belts. And it was not working, so we got rid of that whole thing," he said.
+
+"We got complacent about some of the things that we felt were our core technology.
+
+“We put too much new technology into the Model 3 all at once. This should have been staged.". . 

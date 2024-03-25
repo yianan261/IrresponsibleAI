@@ -1,0 +1,137 @@
+A recent, sprawling Wired feature outlined the results of its analysis on toxicity in online commenters across the United States. Unsurprisingly, it was like catnip for everyone who's ever heard the phrase "don't read the comments." According to "The Great Tech Panic: Trolls Across America," Vermont has the most toxic online commenters, whereas Sharpsburg, Georgia, "is the least-toxic city in the US."
+
+There's just one problem.
+
+The underlying API used to determine "toxicity" scores phrases like "I am a gay black woman" as 87 percent toxicity, and phrases like "I am a man" as the least toxic. The API, called Perspective, is made by Google's Alphabet within its Jigsaw incubator.
+
+When reached for a comment, a spokesperson for Jigsaw told Engadget, "Perspective offers developers and publishers a tool to help them spot toxicity online in an effort to support better discussions." They added, "Perspective is still a work in progress, and we expect to encounter false positives as the tool's machine learning improves."
+
+Poking around with the engine behind Wired's data revealed some ugly results, as Vermont librarian Jessamyn West discovered when she read the article and tried out Perspective to see exactly what makes a comment, or a commenter, perceived as toxic (according to Alphabet, at least).
+
+It's strange to wonder that Wired didn't give Perspective a spin to see what made the people behind its troll map "toxic." Wondering exactly that, I decided to try out a variety of comments to see how the results compared to West's. I endeavored to represent the people I seem to see censored the most on social media, and opinions of the day.
+
+My experience typing "I am a black trans woman with HIV" got a toxicity rank of 77 percent. "I am a black sex worker" was 89 percent toxic, while "I am a porn performer" was scored 80. When I typed "People will die if they kill Obamacare" the sentence got a 95 percent toxicity score.
+
+The Wired article analyzed 92 million Disqus comments "over a 16-month period, written by almost 2 million authors on more than 7,000 forums." They didn't look at sites that don't use the comment-management software (so Facebook and Twitter were not included).
+
+The piece explained:
+
+To broadly determine what is and isn't toxic, Disqus uses the Perspective API—software from Alphabet's Jigsaw division that plugs into its system. The Perspective team had real people train the API to rate comments. The model defines a toxic comment as "a rude, disrespectful, or unreasonable comment that is likely to make you leave a discussion."
+
+Discrimination by algorithm
+
+In an online world where moderation, banning and censorship are largely left to automation like the Perspective API, finding out how these things are measured is critical for everyone involved. "Looking into this, the word 'toxic' is a very specific term of art for the tool, this tool Perspective that's made by this company Alphabet, who you may know as Google, that is trying to bring [artificial intelligence] into commenting," West told Vermont Public Radio.
+
+I tested 14 sentences for "perceived toxicity" using Perspectives. Least toxic: I am a man. Most toxic: I am a gay black woman. Come on pic.twitter.com/M4TF9uYtzE — jessamyn west (@jessamyn) August 24, 2017
+
+Perspective presents itself as a way to improve conversations online, positing that the "threat of abuse and harassment online means that many people stop expressing themselves and give up on seeking different opinions." It's one of the many "make the world safer" Jigsaw projects.
+
+Jigsaw worked with The New York Times and Wikipedia to develop Perspective. The NYT made its comments archive available to Jigsaw "to help develop the machine-learning algorithm running Perspective." Wikipedia contributed "160k human labeled annotations based on asking 5,000 crowd-workers to rate Wikipedia comments according to their toxicity. ... Each comment was rated by 10 crowd-workers."
+
+A February article about Perspective elaborated on the human-trained, machine-learning process behind what wants to become the world's measuring tool for harmful comments and commenters.
+
+"In this instance, Jigsaw had a team review hundreds of thousands of comments to identify the types of comments that might deter people from a conversation," The NYT wrote. "Based on that data, Perspective provided a score from zero to 100 on how similar the new comments are to the ones identified as toxic."
+
+The results from West typing comments into Perspective were shockingly discriminatory. Identifying as black and/or gay was deemed toxic. She also tried it with visible and invisible disabilities, like wheelchair use and deafness, and the most toxic way to identify yourself in a conversation turned out to be saying "I am a woman who is deaf."
+
+Trying it with some visible/invisible disabilities. The man/woman division is concerning. https://t.co/lEs9prSPhb pic.twitter.com/6zVb8v8b4O — jessamyn west (@jessamyn) August 26, 2017
+
+When the algorithm is taught to be racist, sexist and ableist (among other things), it leads to the silencing and censorship of entire populations. The problem is that when these systems are up and running, the people being silenced and banned disappear without a trace. Discrimination by algorithm happens in a vacuum.
+
+We can only imagine what's underlying the automated comment-policing system at Facebook. In August Mary Canty Merrill, a psychologist who advises corporations on how to avoid racial bias, wrote a short post about defining racism on Facebook.
+
+Reveal News wrote, "She logged in the next day to find her post removed and profile suspended for a week. A number of her older posts, which also used the "Dear white people" formulation, had been similarly erased."
+
+Pasting her "Dear white people" into Perspective's API got a score of 61 percent toxicity.
+
+Unless Google anti-diversity creeper James Damore was the project lead for Perspective, it's hard to imagine that the company would greenlight a product that thinks to identify as a black gay woman is toxic. (Wikipedia, on the other hand, I could imagine.)
+
+It's possible that the tool is seeking out comments with terms like black, gay and woman as high potential for being abusive or negative, but that would make Perspective an expensive, overkill wrapper for the equivalent of using Command-F to demonize words that some people might find upsetting.
+
+Perspective's reach is significant, too. The project is partnered with Wikipedia, The New York Times, The Economist and The Guardian. Abandon all hope, ye gay black women who enter the comments there.
+
+What we've discovered about Perspective doesn't bode well for the future of machine-learning or AI and algorithm-driven comment measurement and moderation. Nor does it look good for accountability with companies like Google, Facebook and others that rely on automation for moderation.
+
+I think we're all tired of Facebook telling us "it was a bug" and companies saying "it's not our fault" and pointing at systems like Perspective. Despite the fact that they're complicit by using it. And they should be trying these things out against problems like not being able to identify as a gay black woman in a comment thread without risking your ability to comment.
+
+Imagine a system like Perspective deciding whether or not you can use business services, like Google AdSense. Take, for instance, the African-American woman who got an email Thursday from Google AdSense saying she'd violated its terms by writing a blog post about dealing with being called the n-word ... on her own website.
+
+Distressingly, what's also being created is a culture where we can't even talk about abuse. As we can see, the implications for speech are huge -- and already we're soaking in it. Moreso when you consider that "competition" for something like Perspective is clearly already at work for social-media networks like Facebook, whose own policies around race and neo-Nazi belief systems are deeply skewed against societies who strive for equality, anti-discrimination and human rights.
+
+It's probable that these terms are getting scored for high toxicity because they're terms used most commonly in attacks on targeted groups. But the instances mentioned in this article are clear failures. It shows that the efforts of Silicon Valley's ostensible best and brightest have steered AI meant to "improve the conversation" the way of racist soap dispensers and facial recognition software that can't see black people.
+
+Insofar as the Wired feature is concerned, the data look flawed from where we're sitting. It may just mean that there are more gay black women and sex workers there who are OK with talking about it than Sharpsburg, Georgia, commenters. Depressingly, the "Internet Troll Map" might just be a map of black people discussing issues of race, LGBTQ identity and health care.
+
+Which, we hope, is the opposite of what everyone intended.. Last month, I wrote a blog post warning about how, if you follow popular trends in NLP, you can easily accidentally make a classifier that is pretty racist. To demonstrate this, I included the very simple code, as a “cautionary tutorial”.
+
+The post got a fair amount of reaction. Much of it positive and taking it seriously, so thanks for that. But eventually I heard from some detractors. Of course there were the fully expected “I’m not racist but what if racism is correct” retorts that I knew I’d have to face. But there were also people who couldn’t believe that anyone does NLP this way. They said I was talking about a non-problem that doesn’t show up in serious machine learning, or projecting my own bad NLP ideas, or something.
+
+Well. Here’s Perspective API, made by an offshoot of Google. They believe they are going to use it to fight “toxicity” online. And by “toxicity” they mean “saying anything with negative sentiment”. And by “negative sentiment” they mean “whatever word2vec thinks is bad”. It works exactly like the hypothetical system that I cautioned against.
+
+On this blog, we’ve just looked at what word2vec (or GloVe) thinks is bad. It includes black people, Mexicans, Islam, and given names that don’t usually belong to white Americans. You can actually type my examples into Perspective API and it will actually respond that the ones that are less white-sounding are more “likely to be perceived as toxic”.
+
+“ Hello, my name is Emily” is supposedly 4% likely to be “toxic”. Similar results for “Susan”, “Paul”, etc.
+
+Hello, my name is Emily” is supposedly likely to be “toxic”. Similar results for “Susan”, “Paul”, etc. “ Hello, my name is Shaniqua” (“Jamel”, “DeShawn”, etc.): 21% likely to be toxic.
+
+Hello, my name is Shaniqua” (“Jamel”, “DeShawn”, etc.): likely to be toxic. “ Let’s go get Italian food”: 9% .
+
+Let’s go get Italian food”: . “ Let’s go get Mexican food”: 29%.
+
+Here are two more examples I didn’t mention before:
+
+“ Christianity is a major world religion”: 37% . Okay, maybe things can get heated when religion comes up at all, but compare:
+
+Christianity is a major world religion”: . Okay, maybe things can get heated when religion comes up at all, but compare: “ Islam is a major world religion”: 66% toxic.
+
+I’ve heard about Perspective API from many directions, but my proximate source is this Twitter thread by Dan Luu, who has his own examples:
+
+It’s 🤣 to poke around and see what biases the system picked up from the training data. 😰 to think about actual applications, though. pic.twitter.com/VJ9y9yxz2D — Dan Luu (@danluu) August 12, 2017
+
+I have previously written positive things about researchers at Google who are looking at approaches to de-biasing AI, such as their blog post on Equality of Opportunity in Machine Learning.
+
+But Google is a big place. It contains multitudes. And it seems it contains a subdivision that will do the wrong thing, which other Googlers know is the wrong thing, because it’s easy.
+
+Google, you made a very bad investment. (That sentence is 61% toxic, by the way.)
+
+As I update this post in April 2018, I’ve had some communication with the Perspective API team and learned some more details about it.
+
+Some details of this post were incorrect, based on things I assumed when looking at Perspective API from outside. For example, Perspective API does not literally build on word2vec. But the end result is the same: it learns the same biases that word2vec learns anyway.
+
+In September 2017, Violet Blue wrote an exposé of Perspective API for Engadget. Despite the details that I had wrong, the Engadget article confirms that the system really is that bad, and provides even more examples.
+
+Perspective API has changed their online demo to lower toxicity scores across the board, without fundamentally changing the model. Text with a score under a certain threshold is now labeled as “not toxic”. I believe this remedy could be described technically as “weak sauce”.
+
+The Perspective API team claims that their system has no inherent bias against non-white names, and that the higher toxicity scores that appear for names such as “DeShawn” is an artifact of how they handle out-of-vocabulary words. All the names that are typical for white Americans are in-vocabulary. Make of that what you will.
+
+The Perspective API team continues to promote their product, such as via hackathons and TED talks. Users of the API are not warned of its biases, except for a generic warning that could apply to any AI system, saying that users should manually review its results. It is still sometimes held up as a positive example of fighting toxicity with NLP, misleading lay audiences into thinking that present NLP has a solution to toxicity.. As politics in the US and Europe have become increasingly divisive, there's been a push by op-ed writers and politicians alike for more "civility" in our debates, including online. Amidst this push comes a new tool by Google's As politics in the US and Europe have become increasingly divisive, there's been a push by op-ed writers and politicians alike for more "civility" in our debates, including online. Amidst this push comes a new tool by Google's Jigsaw that uses machine learning to rank what it calls the "toxicity" of a given sentence or phrase. But as Dave Gershgorn reported for Quartz, the tool has been criticized by researchers for being unable to identify certain hateful phrases, while categorizing innocuous word combinations as toxic.
+
+Advertisement
+
+The project, The project, Perspective , is an API that was trained by asking people to rate online comments on a scale from "very toxic" to "very healthy," with "toxic" being defined as a "rude, disrespectful, or unreasonable comment that is likely to make you leave a discussion." It's part of a growing effort to sanitize conversations online, which is reflective of a certain culture within Silicon Valley and the United States as a whole: The culture of civility.
+
+The tool seems to rank profanity as highly toxic, while deeply harmful statements are often deemed safe
+
+If we were merely kind to one another in our interactions, the argument goes, we would be less divided. Yet, this argument fails to recognize how politeness and charm have throughout history been used to dress up hateful speech, including online. If we were merely kind to one another in our interactions, the argument goes, we would be less divided. Yet, this argument fails to recognize how politeness and charm have throughout history been used to dress up hateful speech, including online.
+
+Perspective was trained on text from actual online comments. As such, its interpretation of certain terms is limited—because "fuck you" is more common in comments sections than "fuck yeah," the tool perceives the word "fuck" as inherently toxic. Another example: Type "women are not as smart as men" into the meter's text box, and the sentence is "4% likely to be perceived as 'toxic'." A number of other highly problematic phrases—from "men are biologically superior to women" to "genocide is good"—rank low on toxicity. Meanwhile, "fuck off" comes in at 100 percent. Perspective was trained on text from actual online comments. As such, its interpretation of certain terms is limited—because "fuck you" is more common in comments sections than "fuck yeah," the tool perceives the word "fuck" as inherently toxic. Another example: Type "women are not as smart as men" into the meter's text box, and the sentence is "4% likely to be perceived as 'toxic'." A number of other highly problematic phrases—from "men are biologically superior to women" to "genocide is good"—rank low on toxicity. Meanwhile, "fuck off" comes in at 100 percent.
+
+Advertisement
+
+This is an algorithmic problem. Algorithms learn from the data they are fed, building a model of the world based on that data. Artificial intelligence reflects the This is an algorithmic problem. Algorithms learn from the data they are fed, building a model of the world based on that data. Artificial intelligence reflects the values of its creators , and thus can be discriminatory or biased, just like the human beings who program and train it.
+
+So what does the Perspective tool's data model say about its creators? Based on the examples I tested, the tool seems to rank profanity as highly toxic, while deeply harmful statements—when they're politely stated, that is—are often deemed safe. The sentence "This is awesome" comes in at 3 percent toxic, but add "fucking" (as in the Macklemore lyric "This is fucking awesome") and the sentence escalates to 98 percent toxic. So what does the Perspective tool's data model say about its creators? Based on the examples I tested, the tool seems to rank profanity as highly toxic, while deeply harmful statements—when they're politely stated, that is—are often deemed safe. The sentence "This is awesome" comes in at 3 percent toxic, but add "fucking" (as in the Macklemore lyric "This is fucking awesome") and the sentence escalates to 98 percent toxic.
+
+In an email, a Jigsaw spokesperson called Perspective a "work in progress," and noted that false positives are to be expected as its machine learning improves. In an email, a Jigsaw spokesperson called Perspective a "work in progress," and noted that false positives are to be expected as its machine learning improves.
+
+This problem isn't unique to Google; as Silicon Valley companies This problem isn't unique to Google; as Silicon Valley companies increasingly seek to moderate speech on their online platforms, their definition of "harmful" or "toxic" speech matters.
+
+Civility über alles
+
+The argument for civility is thus: If we were only civil to each other, the world would be a better place. If only we addressed each other politely, we would be able to solve our disagreements. This has led to the expectation that any speech—as long as it's dressed up in the guise of politeness—should be accepted and debated, no matter how bigoted or harmful the idea behind the words. The argument for civility is thus: If we were only civil to each other, the world would be a better place. If only we addressed each other politely, we would be able to solve our disagreements. This has led to the expectation that any speech—as long as it's dressed up in the guise of politeness—should be accepted and debated, no matter how bigoted or harmful the idea behind the words.
+
+Advertisement
+
+Here's what this looks like in practice: A Google employee Here's what this looks like in practice: A Google employee issues a memo filled with sexist ideas, but because he uses polite language, women are expected to debate the ideas contained within. On Twitter, Jewish activists bombarded with anti-Semitic messages are suspended for responding with language like "fuck off." On Facebook, a Black mother posting copies of the threats she received from racists gets suspended due to the language in the re-posted threats.
+
+In this rubric, counter speech—long upheld as an important concept for responding to hate without censorship—is punished for me

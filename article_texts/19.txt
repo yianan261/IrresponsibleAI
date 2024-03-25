@@ -1,0 +1,905 @@
+Frequently Asked Questions
+
+1. Isn't the arrest rate of blacks higher anyway?
+
+The ads appear regardless of whether the company sponsoring the ad has a criminal record for the name. The appearance of the ads are not related to any arrest statistics or the like.
+
+
+
+2. What is racism?
+
+From the paper: "Racial discrimination results when a person or group of people is treated differently based on their racial origins [5]. Power is a necessary precondition, for it depends on the ability to give or withhold benefits, facilities, services, opportunities etc., from someone who should be entitled to them, and are denied on the basis of race. Institutional or structural racism is a system of procedures/patterns whose effect is to foster discriminatory outcomes or give preferences to members of one group over another [6]."
+
+Notice that racism can result, even if not intentional.
+
+The EEOC provides a test in cases of employment for a charge of discrimination. To make a determination, the EEOC uses an "adverse impact test," which measures whether practices, intentional or not, have a disproportionate effect. If the ratio of the effect on groups is less than 80 percent, the employer may be held responsible for discrimination. These ads are not necessarily used for employment, and the computation here is for reference; the appearance of the ads at both websites was 77 percent and 40 percent, both showing adverse impact.
+
+
+
+3. Who is to blame?
+
+The current study documents and observes that there is discrimination in the delivery of the ads. We do not yet know why the discriminatory effect occurs. We have some work underway to help us better understand what may be happening. Did the company provide ads suggestive of arrest disproportionately to black-identifying names? Or, did the company provide roughly the same ads evenly across racially associated names but society clicked ads suggestive of arrest more often for black identifying names? Google uses cloud-caching strategies to deliver ads quickly, might these strategies bias ad delivery towards ads previously loaded in the cloud cache? Is there a combinatorial effect?
+
+
+
+4. What is a black-sounding name?
+
+The study uses first names to predict race. First names that have the highest ratio of frequency in one racial group to frequency in the other racial group can be racially identifying. The first names used in the study came from earlier research which computed comparative frequencies from birth records. The study compared the online images of people having these first names to the race predicted and found these first names predictive of race (88 percent black, 96 percent white). The paper provides a complete breakdown by first name.
+
+As examples, people having the first names DeShawn, Darnell and Jermaine, generated ads suggestive of an arrest in 81 to 86 percent of name searches on one website and 92 to 95 percent on the other, while those assigned at birth primarily to whites, such as Geoffrey, Jill and Emma, generated more neutral copy: the word "arrest" appeared in 23 to 29 percent of name searches on one site and 0 to 60 percent on the other. A few names did not follow these patterns: Dustin, a name predominantly given to white babies, generated an ad suggestive of arrest 81 and 100 percent of the time. The paper provides a complete breakdown by first name.
+
+
+
+5. How can I see these ads?
+
+Samples appear in the paper, which you can download here. Samples are also available in a slideshow at foreverdata.org.
+
+The best way to view ad delivery right now, or to search what ads appear with your own name, is to go to a site that serves "Ads by Google". Ads appear much more often on these other sites than on google.com, a finding and rate reported in the paper. As of March 25, 2013, the ads no longer appear on Reuters.com, but they continue to appear at other sites hosting Ads by Google. Try entering a name in the search bar at chicagotribube.com.
+
+Ads are based on the first and last names of real people. Ads suggestive of arrest may appear even if there is no criminal record for the person in the company's database.
+
+Arrest ads continue to appear, based on a random check on March 26, 2013. Try entering a name in the search bar at chicagotribube.com.
+
+
+
+6. What is the harm?
+
+Whenever someone queries your name in a search engine, one of these ads appear. Perhaps you are in competition for an award, an appointment, a promotion, or a new job, or maybe you are in a position of trust, such as a professor, a physician, a banker, a judge, a manager, or a volunteer, or perhaps you are completing a rental application, selling goods, applying for a loan, joining a social club, making new friends, dating, or engaged in any one of hundreds circumstances for which an online searcher seeks to learn more about you. Appearing alongside your list of accomplishments is an advertisement implying you may have a criminal record, whether you actually have one or not. Worse, the ads don't appear for your competitors.
+
+
+
+7. Why did you do this work?
+
+One day a colleague of mine entered my office and needed to locate one of my old papers. He entered my name into a search engine, and up popped an ad "Latanya Sweeney. Arrested?". I was shocked. I have never been arrested, and after clicking the link and paying the requisite fee, I found the company had no arrest record for anyone with my name either. We then entered his name, Adam Tanner, a white male name, and an ad for the same company appeared, except the ad for him had no mention of arrest or a criminal record; it just said the company had background information about him. So, we searched more and more names for hours, until eventually my colleague jumped to the conclusion that ads suggestive of arrest were appearing more often for black-sounding names than white names. I did not believe him, but nothing I tried refuted his guess. Eventually, I said I have to look at this scientifically. So, I started at the beginning. Step one: what is a black sounding name? And I proceeded through the steps described in the paper, all the time believing the pattern would be present, until there was no mistaking it. There was statistically significant discrimination in ad delivery based on searches of 2184 racially associated personal names across two websites. On the more ad trafficked website, a black-identifying name was 25 percent more likely to get an ad suggestive of an arrest record. There was less than 0.1 percent probability that these data can be explained by chance.
+
+
+
+8. Where can I learn more about your work?
+
+More papers will appear on this topic as the work unfolds. Adam Tanner and Latanya Sweeney are writing a book about this and other personal data experiments. You can check out the latest with Latanya Sweeney on her website, latanyasweeney.org or follow @LatanyaSweeney on twitter.
+
+
+
+. Google accused of racism after black names are 25% more likely to bring up adverts for criminal records checks
+
+Professor finds 'significant discrimination' in ad results, with black names 25 per cent more likely to be linked to arrest record check services
+
+
+
+She compared typically black names like 'Ebony' and 'DeShawn' with typically white ones like 'Jill' and 'Geoffrey'
+
+Google has been accused of racism after allegedly linking names usually associated with black people to adverts related to criminality.
+
+A Harvard University professor found 'significant discrimination' after comparing the adverts which appear when searching a typically black name compared with those for typically white names.
+
+Findings showed that names typically associated with black people were 25 per cent more likely to bring up adverts related to criminality.
+
+Racist? A new study claims that adverts linked to Google search results for typically black American names are more likely to be suggestive of criminality - like services offering to check arrest and criminal records
+
+The study by Latanya Sweeney contrasted online searches using names such as 'Ebony' and 'DeShawn,' with those such as 'Jill' and 'Geoffrey.'
+
+She found that adverts posted alongside search results for names likely to belong to black people were more likely to offer services like background checks for arrests and criminal records.
+
+Searches using white-sounding names were less likely to result in advert results which suggested criminality, Professor Sweeney's research indicated.
+
+The findings are significant since Google searching the names of potential employees, clients or even friends and dates has become commonplace.
+
+'Advantages of knowing such information when hiring or engaging with a person relate to trustworthiness,' Professor Sweeney writes in a paper published online in the journal arXiv .
+
+Consequences: The findings are significant since Google searching the names of potential employees, clients or even friends and dates has become commonplace (file photo) Professor Sweeney gathered evidence by collecting more than 2,000 names which were suggestive of race.
+
+She then entered these names plus surnames into Google and news agency Reuters' Google-powered search engine and looked at which adverts the search results returned.
+
+While most names brought back adverts for public records, typically black names were much more likely to bring back those that included the word 'arrest'.
+
+All the results came from background-checking service instantcheckmate.com. In one particular case highlighted by Professor Sweeney, a search for the black-sounding names Latanya Farrell, Latanya Sweeney and Latanya Lockett all brought up adverts for arrest checking services.
+
+However, subsequent investigation showed only one of the names, Latanya Lockett, had an arrest record linked to it. Sample ad and criminal reports for 'latanya farrell' (a,b), 'latanya sweeney' (c,d), and 'latanya locket' (e,f)appearing on google.com and reuters.com Typically white names: Sample ads and criminal reports for 'kristen haring' (a), 'kristen sparrow' (b), and 'kristen lindquist' (c). Criminal reports from instantcheckmate.com (b,d,f)
+
+COULD BRAIN SCANS BE USED TO PICK OUT RACISTS?
+
+Brain scans could soon be used to detect whether or not people are racist, scientists say.
+
+Researchers found that brain scans were able to pick up on differences in the way that people with implicit negative racial attitudes viewed black and white faces.
+
+Racial stereotypes have previously been shown to have subtle and unintended consequences on how we treat members of different race groups.
+
+But the new research published in Psychological Science, a journal of the Association for Psychological Science, shows race biases also increase differences in the brain's representations of faces.
+
+Psychologists from the University of Geneva in Switzerland and New York University examined activity in the brain while participants looked at pictures of White and black faces.
+
+Afterwards, participants performed a task that assessed their unconscious or implicit expression of race attitudes.
+
+By examining patterns of brain activity in the fusiform face area — which is involved in face perception — researchers were able to predict the race of the person the participant was viewing, but only for those with strong, negative implicit race attitudes.
+
+This, the researchers said, implies that people with stronger, negative implicit race attitudes may actually perceive black and white faces to look more different than others who held no such prejudice.
+
+'In comparison, searches for “Kristen Haring”, “Kristen Sparrow” and “Kristen Lindquist” did not yield any instantcheckmate.com ads, only competitor ads, even though the company’s database reports having records for all
+
+three names and arrest records for “Kristen Sparrow” and “Kristen Lindquist",' Professor Sweeney wrote.
+
+
+
+She added: 'Together, these hand-picked examples describe the suspected pattern – ads suggesting arrest tend to appear with names associated with blacks and neutral ads or no ads tend to appear with names associated with whites, regardless of whether the company has an arrest record associated with the name.'
+
+In the UK, black people are 3.3 times more likely than white people to be arrested for a crime and those from the mixed ethnic group 2.3 times more likely.
+
+The findings raise 'questions as to whether Google's advertising technology exposes racial bias in society and how ad and search technology can develop to assure racial fairness,' Professor Sweeney said in a blog post.
+
+Advertisers bid on terms, or key words, with high bidders getting their ads posted alongside corresponding search results.
+
+
+
+Google defends the process as race-neutral, saying outcomes are driven by decisions by advertisers.
+
+
+
+A spokesman said: 'AdWords does not conduct any racial profiling.
+
+
+
+'We also have an “anti” and violence policy which states that we will not allow ads that advocate against an organisation, person or group of people.
+
+
+
+'It is up to individual advertisers to decide which keywords they want to choose to trigger their ads.'
+
+Instant Checkmate contacted MailOnline in response the the issues raised in the study. A spokesman said: 'As a point of fact, Instant Checkmate would like to state unequivocally that it has never engaged in racial profiling in Google AdWords.
+
+
+
+'We have absolutely no technology in place to even connect a name with a race and have never made any attempt to do so.
+
+
+
+'The very idea is contrary to our company's most deeply held principles and values.'
+
+. . How Much Does Your Name Matter?
+
+Season 4, Episode 2
+
+When Harvard professor Latanya Sweeney Googled her name one day, she noticed something strange: an ad for a background check website came up in the results, with the heading: “Latanya Sweeney, Arrested?” But she had never been arrested, and neither had the only other Latanya Sweeney in the U.S. So why did the ad suggest so? Thousands of Google searches later, Sweeney discovered that Googling traditionally black names is more likely to produce an ad suggestive of a criminal background. Why? In this episode of Freakonomics Radio, Stephen Dubner investigates the latest research on names. Steve Levitt talks about his groundbreaking research on names, economic status, and race. And University of Chicago economist Eric Oliver explains why a baby named “Cody” is more likely to belong to conservative parents, and why another named “Esme” was probably born to a pair of liberals.. UPDATED: February 20, 2013, at 10:35 a.m.
+
+A Harvard researcher has found that typically African-American names are more likely to be linked to a criminal record in Google-generated advertisements on the online search engine and on the news site Reuters.com, a website to which Google supplies advertisements.
+
+Latanya Sweeney, director of the Data Privacy Lab at Harvard, began her research after a colleague, government department fellow Adam Tanner, told her that his Google search of her name had generated an advertisement that read: “Latanya Sweeney: arrested.”
+
+In disbelief, Sweeney began poking around online and found that advertisements from criminal records site InstantCheckmate.com incorrectly suggested that she had an arrest history. The two then plugged Tanner’s name into Google and, to the pair’s surprise, it generated a neutral InstantCheckmate ad that did not hint at a criminal record.
+
+“Adam jumped to the conclusion that [the advertisements] were coming up on Black-sounding names,” said Sweeney. “I spent hours trying to show him that he was wrong and couldn’t.”
+
+Thus began the start of a research study, which was partially funded by Google, that involved extensive combing of the Internet and numerous databases. Sweeney’s research paper summarizing her findings is slated for publication in an academic journal.
+
+First, Sweeney identified typically African-American names using a database that compiled first names given disproportionately to babies of one racial identity over another. She then paired the first names with last names by identifying real professionals with academic qualifications—medical doctors, for example—and verified their racial identities with Google Image search results. Finally, using a sample of typically Caucasian and typically African American names, she ran analysis on search results.
+
+According to Sweeney, Google maintains that it cannot predict which advertisements—positive or negative—will be most popular, so advertisements are initially distributed at random. However, in searches of typically African-American names on Google and Reuters.com, Sweeney found between 81 to 95 percent of generated ads suggested an arrest.
+
+“It is an interesting mirror of society,” said Sweeney, “that the Internet, which started out neutral, has begun to show racial bias.”
+
+When asked for comment, Google spokesperson Aaron J. Stein wrote in an email that AdWords, Google's profitable advertising product, does not engage in racial profiling.
+
+Advertisement
+
+“We also have a policy which states that we will not allow ads that advocate against an organization, person or group of people,” Stein wrote. “It is up to individual advertisers to decide which keywords they want to choose to trigger their ads.”
+
+Reuters.com could not immediately be reached for comment on Sweeney’s study Wednesday evening.
+
+Sweeney said there are two possible reasons for the seemingly biased results: Google’s computer-generated algorithm may be unintentionally skewed, or Google users may choose to more frequently click on arrest advertisements that come up for black names over white names.
+
+Gary King, director of the Institute for Qualitative Social Science at Harvard, wrote in an email that isolating the cause of the skewed search results will determine the next steps for researchers.
+
+“Laying out the patterns, as Latanya is doing, and then ascertaining its causes and effects, is very important,” King wrote.
+
+—Staff writer Anneli L. Tostar can be reached at annelitostar@college.harvard.edu, Follow her on Twitter at @annelitostar.. . Latanya Sweeney, Racial Discrimination in Online Ad Delivery
+
+Comment by: Margaret Hu
+
+PLSC 2013
+
+Published version available here: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2208240
+
+Workshop draft abstract:
+
+Investigating the appearance of online advertisements that imply the existence of an arrest record, this writing chronicles field experiments that measure racial discrimination in ads served by Google AdSense. A specific company, instantcheckmate.com, sells aggregated public information about individuals in the United States and sponsors ads to appear with Google search results for searches of some exact “firstname lastname” queries. A Google search for a person’s name, such as “Trevon Jones”, may yield a personalized ad that may be neutral, such as “Looking for Trevon Jones? Comprehensive Background Report and More…”, or may be suggestive of an arrest record (Suggestive ad), such as “Trevon Jones, Arrested?…” or “Trevon Jones: Truth. Arrests and much more. … “
+
+Field experiments documented in this writing show racial discrimination in ad delivery based on searches of 2200 personal names across two websites. First names, documented by others as being assigned primarily to black babies, such as Tyrone, Darnell, Ebony and Latisha, generated ads suggestive of an arrest 75 percent and 96 percent of the time, and names having a first name documented by others as being assigned at birth primarily to whites, such as Geoffrey, Brett, Kristen and Anne, generated more neutral copy: the word “arrest” appeared zero to 9 percent of the time. A few names did not follow these patterns: Brad, a name predominantly given to white babies, generated a Suggestive ad 62 percent to 65 percent of the time. All ads return results for actual individuals and Suggestive ads appear regardless of whether the subjects have an arrest record in the company’s database. Notwithstanding these findings, the company maintains Google received the same ad copy for groups of last names (not first names), raising questions as to whether Google’s algorithm exposes racial bias in society.. Is Google biasing the ads it serves up based on whether a name sounds "black"?
+
+That's the conclusion of a paper by Harvard professor Latanya Sweeney, who wrote in her paper that searches on names that may be identified as black brought up ads for criminal background searches.
+
+"Have you ever been arrested? Imagine the question not appearing in the solitude of your thoughts as you read this paper, but appearing explicitly whenever someone queries your name in a search engine," Sweeney wrote in the beginning of her paper, " Discrimination in online activity."
+
+As reported in MIT Technology Review, Sweeney's search on her own name in Google prompted her to think more about how the search engine giant's ad delivery:
+
+When she entered her name in Google an ad appeared with the wording: â€œLatanya Sweeney, Arrested? 1) Enter name and state 2) Access full background. Checks instantly. www.instantcheckmate.comâ€�
+
+Sweeney did searches for more than 2,000 names that were suggestive of race -- for example, "DeShawn, Darnelle, and Jermaine" for "black" names and "Geoffrey, Jill, and Emma" for "white" names.
+
+Searches on the black identifying names served up ads with the word "arrest" 60 percent of the time, compared with 48 percent of the time for white identifying names, Sweeney found.
+
+What do you make of Sweeney's research? Do you agree that Google is using race to determine which ads accompany searches on names?
+
+
+
+. . When Timnit Gebru attended a prestigious AI research conference last year, she counted 6 black people in the audience out of an estimated 8,500. And only one black woman: herself.
+
+As a PhD candidate at Stanford University who has published a number of notable papers in the field of artificial intelligence, Gebru finds the lack of diversity in the industry to be “extremely alarming” and effectively an “international emergency.” “People openly acknowledge that diversity is a priority,” she explains, “but they don’t treat the issue as urgent and actively address it.”
+
+Gebru is hardly a stranger to adversity. Originally from Ethiopia, she arrived in the United States at the age of 16 and was immediately confronted with racial prejudices. Teachers expected her to fail exams because she was a foreigner. A guidance counselor nearly convinced her she couldn’t win acceptance to any universities, even her safety school. Through perseverance and resilience, Gebru debunked these inaccurate predictions and thrived in her new country, landing employment as an engineer for Apple and advanced technical degrees from Stanford.
+
+AI researchers pride themselves on being rational and data-driven, but can be blind to issues such as racial or gender bias that aren’t always easy to capture with numbers. Homogenous thinking in the AI industry has implications far beyond the racial makeup of PhD programs and AI conference attendees. Gebru points out that AI powers high-stakes systems used to identify terrorists or predict criminal recidivism. Biases and oversights even bleed into the everyday technology we rely on.
+
+These ongoing challenges are no surprise to Latanya Sweeney, the first black woman to receive a PhD in computer science from MIT. Currently a professor at Harvard and director of their Data Privacy Lab, Sweeney’s research examines technological solutions to societal, political and governance challenges. One of her important contributions illuminates discrimination in online advertising, where she discovered internet searches of names “racially associated” with the black community are 25% more likely to yield sponsored ads suggesting that the person has a criminal record, regardless of the truth. When Sweeney googles her own name, she encounters ads such as: “Latanya Sweeney, Arrested? 1) Enter name and state 2) Access full background. Checks instantly. www.instantcheckmate.com.”
+
+Recently, Sweeney, who is also Editor-In-Chief of Technology Science, reported that SAT test prep services charge zip codes with high proportions of Asian residents nearly double the average price, regardless of their actual income. “In the United States, price discrimination is illegal if based on race, religion, nationality, or gender,” her report states, but the enforcement of the law is challenging in online commerce where differential pricing is wrapped up in opaque algorithms.
+
+Biases of creators trickle down to their creations. Due to the exponential impact of technology, prioritizing diversity in AI is “even more important than in other fields,” cautions Gebru. To encourage networking and visibility, Gebru co-founded the social community Black In AI. The organization is on track to dramatically increase the participation of black researchers at notable AI conferences. She also returned to Ethiopia to co-teach a programming course called AddisCoder to a diverse range of children. Half of the students were female and all were from public schools. Some of them didn’t even know how to type when they started the class.
+
+Yet, the transformation was extraordinary. One of the students came from a family with financial hurdles that forced him to leave school, but successfully won admittance to Harvard, MIT, and Columbia after completing the AddisCoder program.
+
+Despite inclusion programs and advocacy groups, many challenges to diversity remain. The first is the apolitical nature of the AI industry, which often prefers the ivory towers of academia. “Einstein was an activist and anti-segregationist,” Gebru remembers. “He taught at black schools and likened the racial discrimination in the US to what was happening in Nazi Germany. But most AI researchers today look down on politicians and don’t want to get involved.” As AI is increasingly used to affect outcomes of elections and identify terrorists and criminals, she cautions that “AI researchers should not be silent regarding the repercussions of their work.”
+
+The current anti-immigration sentiment does not help either. Rana el Kaliouby, an Egyptian-Muslim entrepreneur, completed a PhD at Cambridge University and post-doc work at MIT. She commercialized her research in emotional artificial intelligence into the company Affectiva, which has raised over $30 million in funding. “I woke up to the news about [Trump’s] immigration [order] and had this empty feeling in my stomach,” she shares in a heartfelt story for Inc, adding that “this melting pot of experiences, interests, educations, backgrounds and cultures makes the U.S. truly amazing.” Restricting borders directly excludes some of the world’s top AI researchers, which in turn limits the collaboration and innovation in the industry.
+
+Another issue lies in how we define “diversity.” Gebru points out that “when people talk about diversity in the tech industry, they’re often referring to including more women. But there are all types of women, such as women with disabilities, alternative sexualities, various races, and different socioeconomic backgrounds. If you only include women in the top 1%, that’s not helpful.” Ageism, classism, and many other prejudices hamper the professional growth of many qualified experts, yet don’t receive the attention that racism or sexism do.
+
+Plenty more challenges exist to make diversity and inclusion an uphill battle in the field of AI, but the obstacles don’t discourage brilliant minds from actively tackling these important issues. However, advocacy cannot solely be the responsibility of the excluded. Fundamental and lasting change can only arrive when technology creators and the public at large awaken to the dangers of exclusion and make inclusion a true priority.. When Sweeney then clicked on those ads and paid the fee, it turned out, not surprisingly, that there was no record of her being arrested. By way of contrast, she did search for the names “Kristen Haring”, “Kristen Sparrow” and “Kristen Lindquist.” Ads came up, but not from Instantcheckmate or other similar services. But when she searched on those names in Instantcheckmate, there were arrest records for two of those women in the company database.
+
+On Reuters.com, which uses Google AdSense to serve ads, a “black-identifying name was 25 percent more likely to get an ad suggestive of an arrest record,” Sweeney found. On Google, 92 percent of ads appearing next to black-identifying names suggested a criminal record, compared to 80 percent of white-identifying names, she wrote.
+
+It’s not clear what’s at the bottom of this. Google, of course, denies that it engages in what you’d have to call racial profiling. It may be that Instant Checkmate, which had the most online ads of any company tracked in the study, chose to link black-identifying names with ad templates suggesting a criminal record, though the company told Sweeney that it doesn’t do that.
+
+“There is discrimination in delivery of these ads,” Sweeney writes in her report. “Notice that racism can result, even if not intentional, and that online activity may be so ubiquitous and intimately entwined with technology design that technologists may now have to think about societal consequences like structural racism in the technology they design.”
+
+I suspect that what may be going on here has to do with the type of searches millions of people make every day. Google’s algorithm does track searches and uses that information to make search more relevant. If enough people are searching on black-sounding names and terms like crime, that might explain this.
+
+Ultimately, I bet we’ll never find out, but it’s worth thinking about the ways the Web affects all of us in some very unexpected ways.. Stories Can computers be racist? Big data, inequality, and discrimination Michael Brennan, Senior Program Officer, Technology and Society ©Alan Schein Photography/Corbis
+
+It seems like everyone is talking about the power of big data and how it is helping companies, governments, and organizations make better and more efficient decisions. But rarely do they mention that big data can actually perpetuate and exacerbate existing systems of racism, discrimination, and inequality.
+
+Big data is supposed to make life better. Companies like Netflix use it to recommend movies you might like to watch based on what you’ve previously streamed. There are also broader public applications, such as predicting (and thus more quickly responding to) outbreaks of disease based on online search patterns of symptoms.
+
+The problem with big data is that its application and use is not impartial or unbiased. Harvard professor Latanya Sweeney, who also directs the university’s Data Privacy Lab, conducted a cross-country study of 120,000 Internet search ads and found repeated incidence of racial bias. Specifically, her study looked at Google adword buys made by companies that provide criminal background checks. At the time, the results of the study showed that when a search was performed on a name that was “racially associated” with the black community, the results were much more likely to be accompanied by an ad suggesting that the person had a criminal record—regardless of whether or not they did (see video below). This is just one of many research studies showing similar bias.
+
+If an employer searched the name of a prospective hire, only to be confronted with ads suggesting that the person had a prior arrest, you can imagine how that could affect the applicant’s career prospects.
+
+Information Accessibility Statement Accessibility Statement All videos produced by the Ford Foundation since 2020 include captions and downloadable transcripts. For videos where visuals require additional understanding, we offer audio-described versions.
+
+We are continuing to make videos produced prior to 2020 accessible.
+
+Videos from third-party sources (those not produced by the Ford Foundation) may not have captions, accessible transcripts, or audio descriptions.
+
+To improve accessibility beyond our site, we’ve created a free video accessibility WordPress plug-in.
+
+So while we’re lead to believe that data doesn’t lie—and therefore, that algorithms that analyze the data can’t be prejudiced—that isn’t always true. The origin of the prejudice is not necessarily embedded in the algorithm itself: Rather, it is in the models used to process massive amounts of available data and the adaptive nature of the algorithm. As an adaptive algorithm is used, it can learn societal biases it observes.
+
+As Professor Alvaro Bedoya, executive director of the Center on Privacy and Technology at Georgetown University, explains, “any algorithm worth its salt” will learn from the external process of bias or discriminatory behavior. To illustrate this, Professor Bedoya points to a hypothetical recruitment program that uses an algorithm written to help companies screen potential hires. If the hiring managers using the program only select younger applicants, the algorithm will learn to screen out older applicants the next time around:
+
+Information Accessibility Statement Accessibility Statement All videos produced by the Ford Foundation since 2020 include captions and downloadable transcripts. For videos where visuals require additional understanding, we offer audio-described versions.
+
+We are continuing to make videos produced prior to 2020 accessible.
+
+Videos from third-party sources (those not produced by the Ford Foundation) may not have captions, accessible transcripts, or audio descriptions.
+
+To improve accessibility beyond our site, we’ve created a free video accessibility WordPress plug-in.
+
+As mathematician Cathy O’Neil said at the Personal Democracy Forum earlier this year, “many of these things are truly good intentions gone awry.” While algorithms and data have great potential to help move us toward a more just world, they are too often moving us in the opposite direction.
+
+There is no easy fix. Instead, a broad coalition of civil society organizations must push for change in a number of directions at the same time. Sweeney and Bedoya outline a number of strategies, including:
+
+Investing in the technical capacity of public interest lawyers, and developing a greater cohort of public interest technologists. With more engineers participating in policy debates and more policymakers who understand algorithms and big data, both government and civil society organizations will be stronger.
+
+With more engineers participating in policy debates and more policymakers who understand algorithms and big data, both government and civil society organizations will be stronger. Pressing for “algorithmic transparency.” By ensuring that the algorithms underpinning critical systems like public education and criminal justice are open and transparent, we can better understand their biases and fight for change.
+
+By ensuring that the algorithms underpinning critical systems like public education and criminal justice are open and transparent, we can better understand their biases and fight for change. Exploring effective regulation of personal data. Current laws and regulations are out dated and provide relatively little guidance on how our data is utilized in the technologies we rely on every day. We can do better.
+
+We often hear the Internet spoken about as a “great equalizer.” But while it certainly has the potential to transform governance and connect communities, it can also perpetuate inequality. As Professor Bedoya argues, “Across the board, vulnerable communities, the unpopular, the weak, lose when powerful entities decide what is and isn’t okay about their data.” Understanding the biases inherent in data and digital spaces makes it possible for us to push back, and to shape an Internet that reflects our ideals.
+
+
+
+This post is based on a series of presentations given at the Ford Foundation, led by Latanya Sweeney from the Data Privacy Lab at Harvard University and Alvaro Bedoya from the Center on Privacy and Technology at Georgetown University. The presentations in their entirety can be viewed below.
+
+. . Google’s search algorithms expose racial discrimination, a new study by Harvard professor purports. It claims ads related to criminal records are more likely to pop up when "black-sounding names" are ‘googled’.
+
+Latanya Sweeney, Professor of Government and Technology in Residence at Harvard, had found out that Google searches involving "black-sounding names" are more than 25 percent likely to produce ads that imply that person has been arrested than “white-sounding names”.
+
+
+
+What are “black- and white-sounding names”?
+
+
+
+In her paper “Discrimination in Online Ad Delivery” (published January 28) Sweeney refers to the a Job Discrimination study that “used a correlation of names given to black and white babies in Massachusetts between 1974 and 1979.”
+
+
+
+First, using those findings, she collected a list of more than 2,000 names that were suggestive of race.
+
+
+
+Names such as Lakisha, DeAndre, Jermaine, Leroy and Darnell more often tend to suggest that the person was black, while names like Allison, Kristen, Greg or Jack were considered to be white-identifying names.
+
+Sweeney has taken a look at the so-called public record ads like InstantCheckMate or PeopleSmart and some others. She compared search results on Google.com and Reuters.com. It turned out that “black-sounding names” are more likely than “white-sounding” to trigger ads including the word "arrest". Searching for names like Leroy, Jamal or Kenya yielded a greater percentage of ads with the word “arrested” in the ad’s text, while for Jack or Greg, for instance, neutral ads, with no criminal related text, popped up. In Google search InstantCheckMate ads contained the word “arrested” in 92 per cent of returns (in 332 cases out of 366) when “black-sounding” names were looked for, 8 per cent of neutral ads popped up.For comparison, on Reuters search InstantCheckMate ads suggested checking criminal records in 60 per cent of all black identifying names. Sweeney tried her own name. A computer scientist with no criminal past, she discovered that prior to presenting her academic merits, she first of all was greeted by an ad that suggested checking if “Latanya Sweeney, arrested?”Sweeney followed the link and paid a fee to discover there was no criminal record associated with that name."Perhaps you are in competition for an award, an appointment, a promotion, or a new job…” the scientist writes in her paper, giving a bunch of circumstances for which an online researcher seeks to learn more about a person. “Appearing alongside your list of accomplishments is an advertisement implying you may have a criminal record whether you actually have one or not,” Sweeney concluded. However, she hesitated to give a cause for the differences in ads, saying more information “about the inner workings of Google AdSense [Google's online ad tool]” is required. Sweeney suggested that the search engines might be just a reflection of society’s prejudices and delivered ads are simply based on the most popular links previous users have clicked on. "So the ad text getting the most clicks eventually displays more frequently," she explained.Google AdSense has responded Sweeney’s findings saying that it does not conduct any racial profiling in its search software.. Ads more likely to link black-identifying names to criminal records, study says.
+
+Feb. 6, 2013— -- A Google search for a "racially associated name" is more likely to trigger advertisements suggesting the person has a criminal background, according to a study by a Harvard professor.
+
+Latanya Sweeney, a professor of government and technology at Harvard University and a specialist in online privacy, found that queries for a "black identifying" name were more likely to trigger an advertisement suggesting an arrest record than names traditionally given to white babies.
+
+The study involved searches for 2,184 racially associated names as determined by prior workplace discrimination studies. Sweeney focused her analysis on Google.com and a highly trafficked news website that displays the widely used Google AdWords advertisements.
+
+Names often given to black babies, such as DeShawn, Darnell and Jermaine, generated ads suggesting an arrest record in 81 to 86 percent of the searches on one website and 92 to 95 percent on the other, Sweeney wrote.
+
+By comparison, names "predominantly given to white babies," such as Geoffrey, Jill and Emma, tended to trigger ads with more neutral copy, such as "Looking for Emma Jones?"
+
+Of the searches involving the primarily white names, advertisements containing the word "arrest" appeared in 23 to 29 percent of the searches on one site and a range of 0 to 60 percent on the other, the study said.
+
+Sweeney wrote that the statistical difference could have an impact on job seekers. However, she said more work would need to be done in order to determine whether it is Google's algorithm, advertisers, or an inherent bias in society that explains her findings.
+
+"There is discrimination in delivery of these ads," Sweeney concluded, though she said the study also "raises more questions than it answers."
+
+SLIDESHOW: Google Doodles
+
+Google AdWords determine which advertisements appear, based on keywords, advertiser bids and user behavior.
+
+In a statement, Google said, "AdWords does not conduct any racial profiling. We also have a policy which states that we will not allow ads that advocate against an organization, person or group of people. It is up to individual advertisers to decide which keywords they want to choose to trigger their ads.". Readers, I hate it to break it to you, but according to Harvard the internet is racist. I suggest you stop using it immediately unless you want your patronage of Google et al to blacken your name. Actually, err, maybe wait until you finish reading..
+
+A recent study of Google searches by Professor Latanya Sweeney has found "significant discrimination" in ad results depending on whether the name you're Googling is, statistically speaking, more likely to belong to a white person or a black person. So while Googling an Emma will probably trigger nothing more sinister than an invitation to look up Emma's phone number and address, searching for a Jermaine could generate an ad for a criminal record search. In fact, Sweeney's research suggests that it's 25% more likely you'll get ads for criminal record searches from "black-identifying" names than white-sounding ones.
+
+So what does this mean exactly? Does Google have some sort of racial profiling tool inlaid into its algorithms? Well, not exactly. Google has unequivocally stated that it "does not conduct any racial profiling" and the research paper itself admits that it's probably not as insidious as that. Rather it posits that the demographic discrepancies probably come from "smart" algorithms which adapt ad placement based on mass-user habits. In short, writes Sweeney, the results raise "questions as to whether Google's advertising technology exposes racial bias in society and how ad and search technology can develop to assure racial fairness".
+
+Woah – did someone just claim that society is racially biased? Hold the front page. While the Harvard study makes some interesting points, the research is also a telling case of digital dualism – the idea that online and offline are separate and distinct realities. This may have been true decades ago when the internet was something you "dialled-up" in order to check AltaVista for deals on VCRs, but it is now woefully outdated. Most people now see the virtual world as simply a reflection of the real world. Indeed, a report published this year by the Government Office for Science proclaims that: "The UK is now a virtual environment as well as a real place."
+
+The question of how (and, indeed, if) technology can rid itself of what Sweeney describes as "structural racism" has some interesting parallels to debates about language that have been taking place long before Google was a twinkle in Sergey Brin's eyes. Take, for example, the phrase I used earlier, "blacken your name". It's a fairly common idiom and you'd hardly call someone out for racism if they used it; nevertheless it is a laden term. Benjamin Zephaniah has a great poem called White Comedy, which addresses the politics of this sort of phraseology: "I waz whitemailed / By a white witch / Wid white magic / An white lies," the poem begins. You get the idea.
+
+For centuries people have been attempting to rid language of its "structural racism" by inventing politically neutral dialects. Esperanto, created by the rather wonderfully named LL Zamenhof, has been the most successful of these efforts, designed to transcend nationality and foster peace, love, harmony, all that good stuff. It hasn't quite got there yet but it has managed to spawn tens of thousands of fluent speakers, as well around a thousand native speakers. It could be said that the technological equivalent of Esperanto is Value Sensitive Design (VSD), a belief that technology should be proactively influenced to take account of human values in the design process, rather than simply reacting to them after afterwards. While this seems like a good idea on the surface, it's a viper's nest of ethical questions when you dig deeper, throwing up a broader debate about the idea of universal values and cultural relativism.
+
+But all this theory is, perhaps, a little highbrow and detracts from the most important point in Sweeney's research: your digital footprint has profound implications on your real life. As Descartes didn't quite say: "Googlito ergo sum" – I am on Google, therefore I am. And, if what you are on Google is a potential criminal, it is going to make your chances of getting a job somewhat harder. But getting rid of this bias isn't a matter of algorithms, it's a matter of changing attitudes. There is an interesting insight into this in the word "highbrow" itself: a term that comes from the 19th-century "science" of phrenology, which used the shapes of people's skulls to justify racism. In the 1820s-1840s, when phrenology was all the rage, employers often demanded a character reference from a local phrenologist to check whether you'd be a good employee or a potential criminal. Back in the day, then, your skull served as a sort of Google search. And we didn't progress as a society by changing our skulls, rather we changed what went into them.. Ads pegged to Google search results can be racially biased because of how certain names are associated with blacks or whites, according to a new study.
+
+Advertisement
+
+Harvard University professor Latanya Sweeney found "statistically significant discrimination" when comparing ads served with results from online searches made using names associated with blacks and those with whites.
+
+The study contrasted online searches using names such as "Ebony" and "DeShawn," with those such as "Jill" and "Geoffrey."
+
+Ads posted alongside search results for names likely to belong to blacks tended to suggest criminal activity with offers along the lines of background checks for arrests, according to the study.
+
+Related stories
+
+Searches using white-sounding names prompted results with neutral ads, the Sweeney's research indicated.
+
+Advertisement
+
+The findings raise "questions as to whether Google's advertising technology exposes racial bias in society and how ad and search technology can develop to assure racial fairness," Sweeney said in a blog post.
+
+Advertisers bid on terms, or key words, with high bidders getting their ads posted alongside corresponding search results. Google defends the process as race-neutral, saying outcomes are driven by decisions by advertisers.
+
+The study dated last week was funded in part by the National Science Foundation and a grant from Google.. The Google search page appears on a computer screen in Washington on August 30, 2010. Ads pegged to Google search results can be racially biased because of how certain names are associated with blacks or whites, according to a new study.
+
+Ads pegged to Google search results can be racially biased because of how certain names are associated with blacks or whites, according to a new study.
+
+Harvard University professor Latanya Sweeney found "statistically significant discrimination" when comparing ads served with results from online searches made using names associated with blacks and those with whites.
+
+The study contrasted online searches using names such as "Ebony" and "DeShawn," with those such as "Jill" and "Geoffrey."
+
+Ads posted alongside search results for names likely to belong to blacks tended to suggest criminal activity with offers along the lines of background checks for arrests, according to the study.
+
+Searches using white-sounding names prompted results with neutral ads, the Sweeney's research indicated.
+
+The findings raise "questions as to whether Google's advertising technology exposes racial bias in society and how ad and search technology can develop to assure racial fairness," Sweeney said in a blog post.
+
+Advertisers bid on terms, or key words, with high bidders getting their ads posted alongside corresponding search results. Google defends the process as race-neutral, saying outcomes are driven by decisions by advertisers.
+
+The study dated last week was funded in part by the National Science Foundation and a grant from Google.
+
+(c) 2013 AFP. In a statement, Google said: "AdWords does not conduct any racial profiling. We also have an "anti" and violence policy which states that we will not allow ads that advocate against an organisation, person or group of people. It is up to individual advertisers to decide which keywords they want to choose to trigger their ads.". In a research paper recently submitted for publication, Sweeney ran more than 2,100 names of real people through Google searches. She found that names that sounded black were 25 percent more likely to trigger ads for criminal records than names that sounded white — even if, like Sweeney, the person had no criminal record.
+
+That little display triggered a much larger research project in which Sweeney, a computer scientist and specialist in data privacy, concluded that Google searches of names more likely associated with black people often yielded advertisements for a criminal records search in that person’s name.
+
+Latanya Sweeney , a professor of government at Harvard University, is a law-abiding citizen. So she was startled when a colleague showed her what happened when he ran her name through a Google search: an advertisement on the results page headlined ­“Latanya Sweeney, Arrested?”
+
+Advertisement
+
+Sweeney did not offer conclusions about exactly how this happens, or why, but said she planned further research to determine the causes.
+
+Get Trendlines A business newsletter from Globe Columnist Larry Edelman covering the trends shaping business and the economy in Boston and beyond. Enter Email Sign Up
+
+But the frequency with which the ads are paired to black-sounding names, said Sweeney, has real consequences.
+
+“You could be in competition for an award, a scholarship, a new job,” she said. “You could be in a position of trust, like a professor, a judge. Having ads that show up suggestive of arrest, may actually discount your ability to function.”
+
+For her study, Sweeney compiled lists of traditionally “black” names, such as Travon, Rasheed, Ebony, and Tamika, as well as “white” names such as Brad, Cody, Amy, and Jill.
+
+The ads show up both on searches done on Google’s home page and on other websites that have built-in search functions and allow ads from Google to appear alongside the results. In all cases, Sweeney found the ads were from the same firm: Instant Checkmate LLC, a Las Vegas company that provides online background checks.
+
+Advertisement
+
+Instant Checkmate did not respond to repeated phone calls and e-mails seeking comment.
+
+Google, meanwhile, issued a statement denying its AdWords business discriminates. AdWords is Google’s highly profitable service in which businesses pay to have their ads appear in the results when users search particular keywords or phrases.
+
+“AdWords does not conduct any racial profiling,” said Google, adding the company’s policies prohibit advertisements “that advocate against an organization, person or group of people. It is up to individual advertisers to decide which keywords they want to choose to trigger their ads.”
+
+Sweeney, a former professor at Carnegie Mellon University in Pittsburgh, did her undergraduate work at Harvard and was the first black woman to earn a doctorate in computer science from MIT. She founded Harvard’s Data Privacy Lab, which studies ways to share personal information over computer networks without compromising privacy.
+
+For her study, Sweeney received funding from Google.
+
+Sweeney said executives at Instant Checkmate told her they had bought search results from Google on the names of 100 million Americans. When one of these names is searched, Google displays an ad for Instant Checkmate, and gets a small fee if the searcher clicks on its ad. The more clicks an ad receives from searchers, the more likely it will appear on the page for that search term.
+
+Not every search of the same name yields the same result; sometimes the advertisement from Instant Checkmate is neutral, simply offering to do a background check on the person whose name is searched. Other times, the ads from Instant Checkmate were more explicit, offering to provide an arrest record or criminal history.
+
+Advertisement
+
+Sweeney’s results dovetail somewhat with other research on “black” names, most notably a 2004 study that found employers were less likely to respond to resumes sent by people with black-sounding names.
+
+For her research, Sweeney compiled a list of names from the 2004 study, and from a chapter in the book “Freakonomics” on distinctively black names. She then identified 2,184 people with either distinctively white or black names and confirmed the race of about 1,400 of them by looking up their photos in Google’s image database.
+
+She found that first names were reliable predictors of a person’s race. Someone named Brad was almost always white, while someone named DeAndre was nearly always black.
+
+Sweeney ran the names though Internet searches in two places — the main Google website, and the news site Reuters.com, which uses Google to search its story archive. Both sites display ads generated by Google’s advertising service.
+
+Sweeney found that searches on Google’s own website produced Instant Checkmate ads just 16 percent of the time, but 84 percent of the time when searched on Reuters.com. And at the Reuters site, searches of black-sounding names were 25 percent more likely to yield ads with offers to view the person’s arrest or criminal record.
+
+Other websites that use a Google search window and display Google ads yielded similar results. For example, entering “Latanya Sweeney” in the search box on one of the Globe’s websites, Boston.com, generated an ad from Instant Checkmate that reads in part, “Criminal records, phone, address, & more on Latanya Sweeney.”
+
+Advertisement
+
+Meanwhile, plugging “Jill Sweeney” into Boston.com’s search box yielded an Instant Checkmate ad that read: “Jill Sweeney found in database,” but no mention of an arrest or criminal record.
+
+Sweeney said she has no idea why Google searches seem to single out black-sounding names. There could be myriad issues at play, some associated with the software, some with the people searching Google. For example, the more often searchers click on a particular ad, the more frequently it is displayed subsequently.
+
+“Since we don’t know the reason for it,” she said, “it’s hard to say what you need to do.”
+
+But Danny Sullivan, editor of SearchEngineLand.com, an online trade publication that tracks the Internet search and advertising business, said Sweeney’s research has stirred a tempest in a teapot. “It looks like this fairly isolated thing that involves one advertiser.”
+
+He also said that the results could be caused by black Google users clicking on those ads as much as white users.
+
+“It could be that black people themselves could be causing the stuff that causes the negative copy to be selected more,” said Sullivan. “If most of the searches for black names are done by black people . . . is that racially biased?”
+
+On the other hand, Sullivan said Sweeney has uncovered a problem with online searching — the casual display of information that might put someone in a bad light. Rather than focusing on potential instances of racism, he said, search services such as Google might want to put more restrictions on displaying negative information about anyone, black or white.
+
+Advertisement
+
+For instance, Sullivan said Google could require advertisers to remove the words “arrest record” from all their ads.
+
+Sweeney has submitted her study to an academic journal for publication, but is not allowed to identify it. She has posted the study online at the Social Science Research Network, and at Arkiv.org, a repository of research papers maintained by Cornell University.
+
+Hiawatha Bray can be reached at bray@globe.com.. Many people will have experience Googling friends, colleagues and relatives to find out about their online presence—the websites on which they appear, their pictures, hobbies and so on.
+
+Sweeney’s interest is in the ads that appear alongside these results. When she entered her name in Google an ad appeared with the wording:
+
+“Latanya Sweeney, Arrested? 1) Enter name and state 2) Access full background. Checks instantly. www.instantcheckmate.com”
+
+This is suggestive wording. It suggests that Latanya Sweeney has a criminal record the details of which can be accessed by clicking on the ad. But after hitting the link and paying the necessary subscription fee, Sweeney says she found no record of arrest.
+
+What’s interesting about this is that Sweeney’s first name is also suggestive–that she is black. The question Sweeney asks is whether a similar search with a name suggestive of a white racial profile also serves up ads mentioning arrest records.
+
+The answer is a powerful wake up call. Sweeney says she has evidence that black identifying names are up to 25 per cent more likely to be served with an arrest-related ad. “There is discrimination in delivery of these ads,” she concludes.
+
+Sweeney gathered this evidence by collecting over 2000 names that were suggestive of race. For example, first names such as Trevon, Lakisha and Darnell suggest the owner is black while names like Laurie, Brendan and Katie suggest the owner is white.
+
+She then entered these plus surnames into Google.com and Reuters.com and examined the ads they returned. Most names generated ads for public records. However, black-identifying names turned out to be much more likely than white-identifying names to generate ads that including the word “arrest” (60 per cent versus 48 per cent). All came from www.instantcheckmate.com.. In a statement to the BBC, the company said: "We also have an 'anti' and violence policy which states that we will not allow ads that advocate against an organisation, person or group of people.". April 2, 2013
+
+Volume 11, issue 3
+
+PDF
+
+Discrimination in Online Ad Delivery
+
+Google ads, black names and white names, racial discrimination, and click advertising
+
+Latanya Sweeney
+
+Do online ads suggestive of arrest records appear more often with searches of black-sounding names than white-sounding names? What is a black-sounding name or white-sounding name, anyway? How many more times would an ad have to appear adversely affecting one racial group for it to be considered discrimination? Is online activity so ubiquitous that computer scientists have to think about societal consequences such as structural racism in technology design? If so, how is this technology to be built? Let's take a scientific dive into online ad delivery to find answers.
+
+"Have you ever been arrested?" Imagine this question appearing whenever someone enters your name in a search engine. Perhaps you are in competition for an award, a scholarship, an appointment, a promotion, or a new job, or maybe you are in a position of trust, such as a professor, a physician, a banker, a judge, a manager, or a volunteer. Perhaps you are completing a rental application, selling goods, applying for a loan, joining a social club, making new friends, dating, or engaged in any one of hundreds of circumstances for which someone wants to learn more about you online. Appearing alongside your list of accomplishments is an advertisement implying you may have a criminal record, whether you actually have one or not. Worse, the ads may not appear for your competitors.
+
+Job applications frequently include questions such as: Have you ever been arrested? Have you ever been charged with a crime? Other than a traffic ticket, have you been convicted of a crime? Employers ask these questions to establish trustworthiness. Because others often equate a criminal record with not being reliable or honest, protections exist for those having criminal records.
+
+If an employer disqualifies a job applicant based solely upon information indicating an arrest record, the company may face legal consequences. The U.S. EEOC (Equal Employment Opportunity Commission) is the federal agency charged with enforcing Title VII of the Civil Rights Act of 1964, a law that applies to most employers, prohibiting employment discrimination based on race, color, religion, sex, or national origin. Guidance issued in 1973 extended protections to people with criminal records.5,11 Title VII does not prohibit employers from obtaining criminal background information. Certain uses of criminal information, however, such as a blanket policy or practice of excluding applicants or disqualifying employees based solely upon information indicating an arrest record, can result in a charge of discrimination.
+
+To make a determination, the EEOC uses an adverse impact test that measures whether certain practices, intentional or not, have a disproportionate effect on a group of people whose defining characteristics are covered by Title VII. To decide, you calculate the percentage of people affected in each group and then divide the smaller value by the larger to get the ratio and compare the result to 80. For example, suppose a company laid off comparable black and white workers at the same rate—25 percent of blacks and 25 percent of whites—then the ratio, 25 divided by 25, would be 100 percent. If the ratio is less than 80 percent, then the EEOC considers the effect disproportionate and may hold the employer responsible for discrimination.6
+
+What about online ads suggesting someone with your name has an arrest record, even when no one with your name has been arrested? Title VII does not apply unless you have an arrest record and can prove the potential employer routinely uses ads or information from the company sponsoring the ads, and the result has an inappropriate chilling effect on hiring applicants with criminal records.
+
+The advertiser may argue the ads are commercial free speech—a constitutional right to display the ad associated with your name. The First Amendment of the U.S. Constitution protects advertising. In a landmark decision, the U.S. Supreme Court set out a test for assessing government restrictions on commercial speech, which begins by determining whether the speech is misleading.3 Are online ads suggesting the existence of an arrest record misleading if no one by that name has an arrest record?
+
+Assume the ads are free speech: what happens when these ads appear more often for one racial group than another? Not everyone is being equally affected by the free speech. Is that free speech or racial discrimination?
+
+Racism, as defined by the U.S. Commission on Civil Rights, is "any attitude, action, or institutional structure which subordinates a person or group because of their color . . . Racism is not just a matter of attitudes; actions and institutional structures can also be a form of racism."16 Racial discrimination results when a person or group of people is treated differently based on their racial origins, according to the Panel on Methods for Assessing Discrimination of the National Research Council.12 Power is a necessary precondition, because discrimination depends on the ability to give or withhold benefits, facilities, services, opportunities, etc., from someone who should be entitled to them and is denied on the basis of race. Institutional or structural racism, as defined in The Social Work Dictionary, is a system of procedures/patterns whose effect is to foster discriminatory outcomes or give preferences to members of one group over another.1
+
+Racism can result, even if not intentional, and online activity now may be so ubiquitous that computer scientists have to think about societal consequences such as structural racism in the technology they design. These considerations frame the big picture, the relevant legal, societal, and technical landscape in which this exploration resides. Now we turn to the exploration itself: whether online ads suggestive of arrest records appear more often for one racial group than another among a sample of racially associated names. Then, we examine the role technology might play in combating this problem if evidence of the pattern exists.
+
+The Pattern
+
+What is the suspected pattern of ad delivery? Here is an overview of the issue with some real-world examples.
+
+This study begins with the assumption that personalized ads suggestive of arrest records do not differ by race. We did this by carefully constructing the scientifically best instance of the pattern—one with names shown to be racially identifying and pseudo-randomly selected.
+
+Earlier this year, a Google search for Latanya Farrell, Latanya Sweeney, and Latanya Lockett yielded the ads and criminal reports shown in figure 1. The ads appeared on Google.com (figure 1a,1c,1e) and on a news Web site, Reuters.com, to which Google supplies ads (figure 1c, bottom), All the ads in question linked to instantcheckmate.com (figure 1b,1d,1f). The first ad implied Latanya Farrell may have been arrested. Was she? Clicking on the link and paying the requisite subscription fee revealed that the company had no arrest record for her (figure 1b). There is no arrest record for Latanya Sweeney either, but there is for Latanya Lockett.
+
+In comparison, searches for Kristen Haring, Kristen Sparrow, and Kristen Lindquist did not yield any instantcheckmate.com ads (figure 2a, 2c, and 2e), even though the company's database reported having records for all three names and arrest records for Kristen Sparrow and Kristen Lindquist (figure 2d and 2f).
+
+Searches for Jill Foley, Jill Schneider, and Jill James displayed instantcheckmate.com ads with neutral copy; the word arrest did not appear in the ads even though arrest records for all three names appeared in the company's database. Figure 3 shows the ads and criminal reports for these three names appearing on Google.com (figure 1c, 1e) and Reuters.com (figure 1a). Criminal reports came from instantcheckmate.com (figure 1b, 1d, 1f).
+
+Finally, we considered a proxy for race associated with these names. Figure 4 shows a racial distinction in the Google images that appear for image searches of Latanya, Latisha, Kristen, and Jill, respectively. The faces associated with Latanya and Latisha tend to be black, while white faces dominate the images of Kristen and Jill.
+
+Together, these handpicked examples describe the suspected pattern: ads suggesting arrest tend to appear with names associated with blacks, and neutral ads or no ads appear with names associated with whites, regardless of whether the company placing the ad reveals an arrest record associated with the name.
+
+Google AdSense
+
+Who generates the ad's text? Who decides when and where an ad will appear? What is the relationship among Google, a news Web site such as Reuters, and Instant Checkmate in the previous examples? An overview of Google AdSense, the program that delivered the ads, explains the links between these companies.
+
+In printed newspapers and magazines, ad space and ad content are fixed. Traditionally, everyone who reads the publication sees the same ad in the same space. Web sites are different. Online ad space, not bound by the same physical limitations, can be dynamic, with ads tailored to the reader's search criteria, interests, geographical location, and so on. Any two readers (or even the same reader returning to the same Web site) might view different ads.
+
+Google AdSense is the largest provider of dynamic online advertisements, placing ads for millions of sponsors on millions of Web sites.9 In the first quarter of 2011, Google earned US$2.43 billion ($9.71 billion annualized), or 28 percent of its total revenue, through Google AdSense.10 Several different advertising arrangements exist, but for simplicity this article describes only those features of Google AdSense specific to the Instant Checkmate ads in question.
+
+When a reader enters search criteria on an enrolled Web site, Google AdSense embeds into the page of results ads that are believed to be relevant to the search. Figures 1, 2, and 3 show ads delivered by Google AdSense in response to various firstname lastname searches.
+
+An advertiser provides Google with search criteria, copies of possible ads to deliver once a match occurs, and a bid of how much the sponsor is willing to pay if a reader clicks the delivered ad. (This article conflates two interacting Google programs: Google AdWords allows advertisers to specify search criteria, ad text, and bids; and Google AdSense delivers the ads to host sites.) Google operates a realtime auction across bids for the same search criteria, computing an overall "quality score" to use as the basis for the auction. The quality score includes many factors such as the past performance of the ad and characteristics of the company's Web site.10 The ad with the highest quality score appears first, the second-highest second, and so on, and Google may elect not to show any ad if it considers the bid too low or if showing the ad exceeds a threshold (e.g., a maximum account total for the sponsor). The Instant Checkmate ads in figures 1, 2, and 3 often appeared first among ads, implying Instant Checkmate had the highest quality score.
+
+A Web-site owner that wants to "host" online ads enrolls in AdSense and modifies the Web site to include special software that sends information about the current reader (e.g., search criteria) to Google; in exchange, the Web site receives corresponding ads from Google. The displayed ads have the banner "Ads by Google" when they appear on sites other than Google.com. For example, Reuters.com is an AdSense host, and entering Latanya Sweeney in the search bar generated a new Web page with ads delivered by Google, bearing the banner "Ads by Google" (figure 1c).
+
+There is no cost associated with displaying an ad, but if the user actually clicks the ad, the sponsor pays the bid price. This may be as little as a few pennies, and the amount is split between Google and the host. Clicking the Latanya Sweeney ad on Reuters.com (figure 1c) would cause Instant Checkmate to pay its bid to Google, and Google would split the payment with Reuters.
+
+Search Criteria
+
+What search criteria did Instant Checkmate specify? Are ads randomly delivered? Do ads rely only on the first name? Will ads be delivered for made-up names? Google AdSense provides answers to these questions. Ads displayed on Google.com allow users to learn why a specific ad appeared. Clicking the circled "i" in the ad banner (e.g., figure 1c) leads to a Web page explaining the ads. Doing so for ads in figures 1 and 3 reveals that the ads appeared because the search criteria associated with the bid matched the exact first- and last-name combination searched. Because a company presumably bids on records it sells, the names would likely be the first and last names of real people.
+
+This means that the search criteria associated with these ads have to consist of both first and last names, and the names should belong to real people.
+
+The next steps describe the systematic construction of a list of racially associated first and last names for real people to use as search criteria. Instant Checkmate is not presumed to have used such a list in placing bids, nor Google in delivering ads. Rather, the list provides a qualified sample of racially associated names to use in testing ad-delivery systems.
+
+Black- and White-Identifying Names
+
+Black-identifying and white-identifying first names occur with sufficiently higher frequency in one race than the other.
+
+In 2003 Marianne Bertrand and Sendhil Mullainathan of the NBER (National Bureau of Economic Research) did a field experiment in which they provided resumes to job ads that were virtually identical, except that some of the resumes had black-identifying names and others had white-identifying names.2 Their job discrimination study showed significant discrimination against black names: white names received 50 percent more callbacks for interviews, even though the resumes otherwise had identical qualifications.
+
+The study used a correlation of names given to black and white babies in Massachusetts between 1974 and 1979, defining black-identifying and white-identifying names as those that have the highest ratio of frequency in one racial group to frequency in the other racial group.
+
+In the popular book Freakonomics (William Morrow, 2006), Steven Levitt and Stephen Dubner report the top 20 whitest- and blackest-identifying girls' and boys' names. The list comes from earlier work by Levitt and Roland Fryer, which shows a pattern change in the way blacks named their children starting in the 1970s, which they correlate with the Black Power Movement.7 They postulate that the movement influenced how blacks perceived their identities, and they give as evidence that before the movement, names given to black and white children were not distinctly different, but after the movement distinctly black names emerged.
+
+Similar to the job discrimination study, the list used by Fryer and Levitt was compiled from names given to black and white children recorded in California birth records from 1961-2000 (more than 16 million births).
+
+To test methods of ad delivery, we combined the lists from these prior studies and added two black female names, Latanya and Latisha. Table 1 lists the names used here, consisting of eight for each of the categories: white female, black female, white male, and black male from the Bertrand and Mullainathan job discrimination study (first row in table 1); and the first eight names for each category from the Fryer and Levitt work (second row in table 1). Emily, a white female name, Ebony, a black female name, and Darnell, a black male name, appear in both rows. The third row includes the observation shown in figure 4. Removing duplicates leaves a total of 63 distinct first names.
+
+Full Names of Real People
+
+Having a list of racially associated first names is a start, but testing ad delivery requires a real person's first and last name (full name). Web searches provide a means of locating and harvesting full names by: (1) sampling names of professionals appearing on the Web; and (2) sampling names of people active on social media sites and blogs (netizens).
+
+Professionals often have their own Web sites or have biographical information appearing on institutional Web sites, listing titles and positions and describing prior accomplishments and current activities. Several professions, such as research, medicine, law, and business, often have degree designations (e.g., PhD, MD, JD, or MBA) associated with people in that profession. A Google search for a first name and a degree designation can yield lists of people having that first name and degree. These kinds of searches can harvest a sample of full names of professionals with racially associated first names.
+
+The next step is to visit the Web page associated with each full name, and if an image is discernible, record whether the person appears black, white, or other. Each Web page visited should be archived to preserve images and content.
+
+Here are two examples from my ad-delivery test. A Google search for Ebony PhD revealed links for real people having Ebony as a first name—specifically, Ebony Bookman, Ebony Glover, Ebony Baylor, and Ebony Utley. I harvested the full names appearing on the first three pages of search results, using searches with other professional endings such as JD, MD, or MBA as needed to find at least 10 full names for Ebony. Clicking on the link associated with Ebony Glover provided more information about her, including an image.8 The Ebony Glover in this study appeared black.
+
+Similarly, search results for Jill PhD listed professionals whose first name is Jill. Visiting links yielded Web pages with more information about each person. For example, Jill Schneider's Web page had an image showing that she is white.14
+
+Harvesting names of netizens is similar but simpler than harvesting names of professionals. PeekYou searches were used to harvest a sample of full names of netizens who have racially associated first names. The Web site peekyou.com compiles online and offline information on individuals—thereby connecting residential information with Facebook and Twitter users, bloggers, and others—and assigns its own rating for the size of each person's online footprint. Search results from peekyou.com list people with the highest score first, and include an image of the person. Celebrities and public figures tend to be listed first, having the highest PeekYou scores, followed by bloggers, tweeters, and the rest.
+
+A PeekYou search for Ebony found Ebony Small, Ebony Cams, Ebony King, Ebony Springer, and Ebony Tan. A PeekYou search for Jill found Jill Christopher, Jill Spivack, Jill English, Jill Pantozzi, and Jill Dobson. After harvesting these and other full names, I reported the race of the person if discernible.
+
+Using the approach just described, I harvested 2,184 racially associated full names of people with an online presence from September 24 through October 22, 2012. Using the images associated with those names, I was able to confirm that the racially associated first names were predictive of race.15 Most images associated with black-identifying names were of black people (88 percent), and an even greater percentage of images associated with white-identifying names were of white people (96 percent).
+
+Black names and white names were examined separately as predictors of race. The results showed that 490 images of blacks had black-associated first names, and 68 did not; 18 images of blacks had white first names; 852 had neither black first names nor images of blacks. Similarly, 831 images of whites had white first names, 50 images of whites did not have white first names; 39 had white first names but nonwhite images, and 508 had neither white first names nor images of whites.
+
+Google searches of first names and degree designations were not as productive as first name lookups on PeekYou. On Google, the white male names Cody, Connor, Tanner, and Wyatt retrieved results with those as last names rather than first names; the black male name Kenya was confused with the country; and the black names Aaliyah, Deja, Diamond, Hakim, Malik, Marquis, Nia, Precious, and Rasheed retrieved fewer than 10 full names. Only Diamond posed a problem with PeekYou searches, seemingly confused with other online entities. Diamond was therefore excluded from further consideration.
+
+Some black first names had perfect predictions (100 percent): Aaliyah, DeAndre, Imani, Jermaine, Lakisha, Latoya, Malik, Tamika, and Trevon. The worst predictors of blacks were Jamal (48 percent) and Leroy (50 percent). Among white first names, 12 of 31 names made perfect predictions: Brad, Brett, Cody, Dustin, Greg, Jill, Katelyn, Katie, Kristen, Matthew, Tanner, and Wyatt; the worst predictors of whites were Jay (78 percent) and Brendan (83 percent). These findings strongly support the use of these names as racial indicators in this study.
+
+Sixty-two full names appeared in the list twice even though the people were not necessarily the same. No name appeared more than twice. Overall, Google and PeekYou searches tended to yield different names.
+
+Ad Delivery
+
+With this list of names suggestive of race, I was ready to test which ads appear when these names are searched. To do this, I examined ads delivered on two sites, Google.com and Reuters.com, in response to searches of each full name, once at each site. The browser's cache and cookies were cleared before each search, and copies of Web pages received were preserved. Figures 1, 2, 3, 6, and 7 provide examples.
+
+From September 24 through October 23, 2012, I searched 2,184 full names on Google.com and Reuters.com. The searches took place at different times of day, on different days of the week, with different IP and machine addresses operating in different parts of the United States using different browsers. I manually searched 1,373 of the names and used automated means17 for the remaining 812 names. Here are 10 observations.
+
+1. The ads were respectfully displayed, without clutter. We have all seen Web pages where ads get in the way, dominating the page or being so closely woven into the page that you cannot distinguish the ads from the content. That's not the case here. No more than three ads ever appeared for a search on either Google.com or Reuters.com. No company's ad was listed more than once on a page, and the ads appeared in a single set within a rectangular area in the margins. Google and Reuters are respected sources of information, and displayed in this manner, the ads did nothing to take away from the Web sites; conversely, the sites and respectful placement of ads may even exalt the ads.
+
+2. Far fewer ads appeared on Google.com than Reuters.com—about five times fewer, even when examining up to three pages of search results on Google.com. When ads did appear on Google.com, typically only one ad showed, compared with three ads routinely appearing on Reuters.com. This suggests Google may be sensitive to the number of ads appearing on Google.com.
+
+3. Of 5,337 ads captured, 78 percent were for government-collected information (public records) about the person whose name was searched. Public records in the United States often include a person's address, phone number, criminal history, and professional and business licenses, though specifics vary among states. Of the more than 2,000 names searched, 78 percent had at least one ad for public records about the person being searched. Ads to buy a person's public record appeared for almost any name searched, but they came up on Reuters.com much more often than on Google.com.
+
+4. Four companies had more than half of all the ads captured. These companies were Instant Checkmate, PublicRecords (which is owned by Intelius), PeopleSmart, and PeopleFinders, and all their ads were selling public records. Instant Checkmate ads appeared more than any other: 29 percent of all ads. Ad distribution was different on Google's site; Instant Checkmate still had the most ads (50 percent), but Intelius.com, while not in the top four overall, had the second most ads on Google.com. These companies dominate the advertising space for online ads selling public records.
+
+5. Instant Checkmate ads dominated the topmost ad position. They occupied that spot in almost half of all searches on Reuters.com. The next closest, PublicRecords.com, rarely had the topmost spot, but most frequently appeared in the second and third positions. Appearing as the first ad so often suggests that, in general, Instant Checkmate offers Google more money or has higher quality scores than do its competitors.
+
+6. Ads for public records on a person appeared more often for those with black-associated names than white-associated names, regardless of company. PeopleSmart ads appeared disproportionately higher for black-identifying names—41 percent as opposed to 29 percent for white names. PublicRecords ads appeared 10 percent more often for black first names than for white. Instant Checkmate ads displayed only slightly more often for black-associated names (2 percent difference). This is one of those interesting findings that spawn the question: Public records contain information on everyone, so why more ads for black-associated names?
+
+7. Instant Checkmate had the largest percentage of ads in virtually every first-name category, except for Kristen, Connor, and Tremayne. For those names, Instant Checkmate had uncharacteristically fewer ads (less than 25 percent). PublicRecords had ads for 80 percent of names beginning with Tremayne, compared with only 23 percent for Instant Checkmate. Similarly, for Connor, PublicRecords had 80 percent compared with 20 percent for Instant Checkmate, and for Kristen it was 58 percent PublicRecords versus 16 percent Instant Checkmate. Why the underrepresentation in these first names? Did Instant Checkmate avoid these names for some reason? Do these undercounts show a glitch? During a conference call with company's representatives, they asserted that Instant Checkmate gave the same ad text to Google for groups of last names (not first names).
+
+8. Almost all ads for public records included the name of the person, making each ad virtually unique, but beyond personalization, the ad templates showed little variability. The only exception was Instant Checkmate. For example, almost all PeopleFinder ads appearing on Reuters.com used the same personalized template ("We found fullname. Current Address, Phone and Age. Find fullname, Anywhere," where the person's first and last name replaces fullname). PublicRecords used five templates and PeopleSmart seven, but Instant Checkmate used 18 different ad templates on Reuters.com. Figure 5 enumerates ad texts and frequencies for all four companies (replace fullname with the person's first and last name).
+
+Only Instant Checkmate ads used the word arrest, which appeared in eight of its 18 ad templates found on Reuters.com. While Instant Checkmate's competitors—PeopleSmart, PublicRecords, and PeopleFinders—also sell criminal history information, none of their ads included the word arrest or arrested.
+
+9. A greater percentage of Instant Checkmate ads using the word arrest appeared for black-identifying first names than for white first names. More than 1,100 Instant Checkmate ads appeared on Reuters.com, with 488 having black-identifying first names; of these, 60 percent used arrest in the ad text. Of the 638 ads displayed with white-identifying names, 48 percent used arrest. This difference is statistically significant, with less than a 0.1 percent probability that the data can be explained by chance (chi-square test: χ2(1)=14.32, p < 0.001). The EEOC's and U.S. Department of Labor's adverse impact test for measuring discrimination is 77 in this case, so if this were an employment situation, a charge of discrimination might result. (The adverse impact test uses the ratio of neutral ads, or 100 minus the percentages given, to compute disparity: 100-60=40 and 100-48=52; dividing 40 by 52 equals 77.)
+
+The highest percentage of neutral ads (where the word arrest does not appear in the ad text) on Reuters.com were those for Jill (77 percent) and Emma (75 percent), both white-identifying names. Names receiving the highest percentage of ads with arrest in the text were Darnell (84 percent), Jermaine (81 percent), and DeShawn (86 percent), all black-identifying first names. Some names appeared counter to this pattern: Dustin, a white-identifying name, generated arrest ads in 81 percent of searches; and Imani, a black-identifying name, resulted in neutral ads in 75 percent of searches.
+
+10. Discrimination results on Google's site were similar, but, interestingly, ad text and distributions were different. Instant Checkmate ads appearing on Google.com often used different ad text than those on Reuters.com. While the same neutral and arrest ads that were dominant on Reuters.com also appeared frequently on Google.com, Instant Checkmate ads on Google included an additional 10 templates, all using the word criminal or arrest. These new templates appeared in about 20 percent of the Instant Checkmate ads on Google.
+
+More than 400 Instant Checkmate ads appeared on Google, and 90 percent of these were suggestive of arrest, regardless of race. Together, these last two findings underscore other differences between ads appearing on Google's own site and those delivered by Google AdSense to Reuters. Ad text was different. Ads with the word criminal and not arrest appeared only on Google's site, and ads using either arrest or criminal appeared much more often for both races on Google.com.
+
+Still, on Google's own site, a greater percentage of Instant Checkmate ads suggestive of arrest displayed for black-associated first names than for white-associated names. Of the 366 ads that appeared for black-identifying names, 92 percent were suggestive of arrest. Far fewer ads displayed for white-identifying names (66 total), but 80 percent were suggestive of arrest. This difference in the ratios 92 and 80 is statistically significant, with less than a 1 percent probability that the data can be explained by chance (chi-square test: χ2 (1)=7.71, p < 0.01). The EEOC's adverse impact test for measuring discrimination is 40 percent, so in an employment situation, a charge of discrimination might result. (The adverse impact test gives 100-92=8 and 100-80=20; dividing 8 by 20 gives 40 percent.)
+
+A greater percentage of Instant Checkmate ads with the word arrest in ad text appeared for black-identifying first names than for white-identifying first names within professional and netizen subsets, too.
+
+This study started with the hypothesis that no difference exists in the delivery of ads suggestive of an arrest record based on searches of racially associated names. The findings reject this. A greater percentage of ads using arrest in their text appeared for black-identifying first names than for white-identifying first names in searches on Reuters.com, Google.com, and in subsets of the sample. On Reuters.com, which hosts Google AdSense ads, a black-identifying name was 25 percent more likely to generate an ad suggestive of an arrest record.
+
+Three Additional Observations
+
+The people behind the names used in this study are diverse. Political figures included State Representatives Aisha Braveboy (arrest ad) and Jay Jacobs (neutral ad) of Maryland; Jill Biden (neutral ad), wife of U.S. Vice President Joe Biden; and Claire McCaskill, whose campaign ad for the U.S. Senate in Missouri appeared alongside an Instant Checkmate ad using the word arrest (figure 6). Names mined from academic Web sites included graduate students, researchers, administrators, staff, and accomplished academics, such as Amy Gutmann, president of the University of Pennsylvania and chair of the U.S. Presidential Commission for the Study of Bioethical Issues. Dustin Hoffman (arrest ad) was among the celebrity names used. A smorgasbord of athletes appeared, from local to national fame (assorted neutral and arrest ads). The youngest person whose name was used in the study was a missing 11-year-old black girl.
+
+More than 1,100 of the names harvested for this study were from PeekYou, with scores estimating the name's overall presence on the Web. As expected, celebrities get the highest scores of 10s and 9s. Only four names used here had a PeekYou score of 10, and 12 had a score of 9, including Dustin Hoffman. Only two ads appeared for these high-scoring names; an abundance of ads appeared across the remaining spectrum of PeekYou scores. It seems likely that the bid price needed to get an ad placed first is greater for more well-known and popular names with higher PeekYou scores. Knowing that very few high-scoring people were in the study and that ads appeared across the full spectrum of PeekYou scores reduces concern about variations in bid prices.
+
+Different Instant Checkmate ads sometimes appeared for the same person. About 200 names had Instant Checkmate ads on both Reuters.com and Google.com, but only 42 of these names received the same ad. The other 82 percent of names received different ads across the two sites. Search results on Reuters.com for the 62 duplicate names that appeared in the study showed different ads for 37 of them, the same ad for seven, and no ad for 18. At most, three distinct ads appeared across Reuters.com and Google.com for the same name. Figure 7 shows the assortment of ads appearing for Latonya Evans and Latisha Smith. Having different possible ad texts for a name reminds us that while Instant Checkmate provided the ad texts, Google's technology selected among the possible texts in deciding which to display. In Figure 7, each name had ads both suggestive of arrest and not, though they both had more ads suggestive of arrest than not.
+
+More about the Problem
+
+Why is this discrimination occurring? Is Instant Checkmate, Google, or society to blame? We don't yet know, but navigating the terrain requires further information about the inner workings of Google AdSense. Google understands that an advertiser may not know which ad copy will work best, so the advertiser may provide multiple templates for the same search string, and the "Google algorithm" learns over time which ad text gets the most clicks from viewers. It does this by assigning weights (or probabilities) based on the click history of each ad. At first, all possible ad texts are weighted the same and are presumed equally likely to produce a click. Over time, as people click one version of an ad more often than others, the weights change, so the ad text getting the most clicks eventually displays more frequently. This approach aligns the financial interests of Google, as the ad deliverer, with the advertiser.
+
+Did Instant Checkmate provide ad templates suggestive of arrest disproportionately to black-identifying names? Or did Instant Checkmate provide roughly the same templates evenly across racially associated names but users clicked ads suggestive of arrest more often for black-identifying names? As mentioned earlier, during a conference call with the founders of Instant Checkmate and their lawyer, the company's representatives asserted that Instant Checkmate gave the same ad text to Google for groups of last names (not first names) in its database; they expressed no other criteria for name and ad selection.
+
+Google uses cloud-caching strategies to deliver ads quickly. Might these strategies create a bias toward templates previously loaded in the cloud cache? Is there a combination effect?
+
+This study is a start, but more research is needed. To preserve research opportunities, I captured additional results for 50 hits on 2,184 names across 30 Web sites serving Google Ads to learn the underlying distributions of ad occurrences per name. While analyzing the data may prove illuminating, in the end the basic message presented in this study does not change: there is discrimination in delivery of these ads.
+
+Technical Solutions
+
+How can technology solve this problem? One answer is to change the quality scores of ads to discount for unwanted bias. The idea is to measure realtime bias in an ad's delivery and then adjust the weight of the ad accordingly at auction. The general term for Google's technology is ad exchange. This approach integrates seamlessly into the way ad exchanges operate, allowing minimal modifications to harmonize ad deliveries with societal norms; it generalizes to other ad exchanges (not just Google's); and, finally, it works regardless of the cause of the discrimination—advertiser bias in placing ads or societal bias in selecting ads.
+
+Discrimination, however, is at the heart of online advertising. Differential delivery is the very idea behind it. For example, if young women with children tend to purchase baby products and retired men with bass boats tend to purchase fishing supplies, and you know the viewer is one of these two types, then it is more efficient to offer ads for baby products to the young mother and fishing rods to the fisherman, not the other way around.
+
+On the other hand, not all discrimination is desirable. Societies have identified groups of people to protect from specific forms of discrimination. Delivering ads suggestive of arrest much more often for searches of black-identifying names than for white-identifying names is an example of unwanted discrimination, according to American social and legal norms. This is especially true because the ads appear regardless of whether actual arrest records exist for the names in the company's database.
+
+The good news is that we can use the mechanics and legal criteria described earlier to build technology that distinguishes between desirable and undesirable discrimination in ad delivery. Key components are: (1) identifying affected groups; (2) specifying the scope of ads to assess; (3) determining ad sentiment; and (4) testing for adverse impact.
+
+1. Identifying affected groups. A set of predicates can be defined to identify members of protected and comparison groups. Given an ad's search string and text, a predicate returns true if the ad can impact the group that is the subject of the predicate and returns false otherwise. Statistics of baby names can identify first names for constructing race and gender groups and last names for grouping some ethnicities. Special word lists or functions that report degree of membership may be helpful for other comparisons.
+
+In this study, ads appeared on searches of full names for real people, and first names assigned to more black or white babies formed groups for testing. These black and white predicates evaluate to true or false based on the first name of the search string.
+
+2. Specifying the scope of ads to assess. The focus should be on those ads capable of impacting a protected group in a form of discrimination prohibited by law or social norm. Protection typically concerns the ability to give or withhold benefits, facilities, services, employment, or opportunities. Instead of lumping all ads together, it is better to use search strings, ad texts or products, or URLs that display with ads to decide which ads to assess.
+
+This study assessed search strings of first and last names of real people, ads for public records, and ads having a specific display URL (instantcheckmate.com), the latter being the most informative because the adverse ads all had the same display URL.
+
+Of course, the audience for the ads is not necessarily the people who are the subjects of the ads. In this study, the audience is a person inquiring about the person whose name is the subject of the ad. This distinction is important when thinking about the identity of groups that might be impacted by an ad. Group membership is based on the ad's search string and text. The audience may resonate more with a distinctly positive or negative characterization of the group.
+
+3. Determining ad sentiment. Originally associated with summarizing product and movie reviews, sentiment analysis is an area of computer science that uses natural-language processing and text analytics to determine the overall attitude of a text.13 Sentiment analysis can measure whether an ad's search string and accompanying text have positive, negative, or neutral sentiment. A literature search does not find any prior application to online ads, but a lot of research has been done assessing sentiment in social media (sentiment140.com, for example, reports the sentiment of tweets, which like advertisements have limited words).
+
+In this study ads containing the word arrest or criminal were classified as having negative sentiment, and ads without those words were classified as neutral.
+
+4. Testing for adverse impact. Consider a table where columns are comparative groups, rows are sentiment, and values are the number of ad impressions (the number of times an ad appears, whether or not it is clicked). Ignore neutral ads. Comparing the percentage of ads having the same positive or negative sentiment across groups reveals the degree to which one group may be impacted more or less by the ad's sentiment. A chi-square test can determine statistical significance, and the adverse impact test used by the EEOC and the U.S. Department of Labor can indicate whether in some circumstances the impact may lead to legal risks.
+
+In this study the groups are black and white, and the sentiments are negative and neutral. Table 2 shows a summary chart. Of the 488 ads that appeared for the black group, 291 (or 60 percent) had negative sentiment. Of the 638 ads displayed for the white group, 308 (or 48 percent) had negative sentiment. The difference is statistically significant (χ2(1)=14.32, p < 0.001) and has an adverse impact measure of 40/52, or 77 percent.
+
+An easy way of incorporating this analysis into an ad exchange is to decide which bias test is critical (e.g., statistical significance or the adverse impact test) and then factor the test result into the quality score for the ad at auction. For example, if we were to modify the ad exchange not to display any ad with an adverse impact score of less than 80, which is the EEOC standard, then arrest ads for blacks would sometimes appear, but would not be overly disproportionate to such ads for whites, regardless of advertiser or click bias.
+
+Though this study served as an example throughout, the approach generalizes to many other forms of discrimination and combats other ways of fostering discrimination.
+
+Suppose female names tend to get neutral ads such as "Buy now," while male names tend to get positive ads such as "Buy now. 50% off!" Or suppose black names tend to get neutral ads such as "Looking for Ebony Jones," while white names tend to get positive ads such as "Meredith Jones. Fantastic!" Then the same analysis would suppress some occurrences of the positive ads so as not to foster a discriminatory effect.
+
+This approach does not stop the appearance of negative ads for a store placed by a disgruntled customer or ads placed by competitors on brand names of the competition, unless these are deemed to be protected groups.
+
+Nonprotected marketing discrimination can continue even to protected groups. For example, suppose search terms associated with blacks tend to get neutral ads for some music artists, while those associated with whites tend to get neutral ads for other music artists. All ads would appear regardless of the disproportionate distribution because the ads would not be subject to suppression.
+
+As a final example, this approach allows everyone to be negatively impacted as long as the impact is roughly the same. Suppose all ads for public records on all names, regardless of race, were equally suggestive of arrest and had almost the same number of impressions; then no ads suggestive of arrest would be suppressed.
+
+Computer scientist Cynthia Dwork and her colleagues have already been working on algorithms that assure racial fairness.4 Their general notion is to make sure similar groups receive similar ads in proportions consistent with the population. Utility is the critical concern with this direction because not all forms of discrimination are bad, and unusual and outlier ads could be unnecessarily suppressed. Still, their research direction looks promising.
+
+In conclusion, this study demonstrates that technology can foster discriminatory outcomes, but it also shows that technology can thwart unwanted discrimination.
+
+Acknowledgments
+
+The author thanks Ben Edelman, Claudine Gay, Gary King, Annie Lewis, and weekly Topics in Privacy participants (David Abrams, Micah Altman, Merce Crosas, Bob Gelman, Harry Lewis, Joe Pato, and Salil Vadhan) for discussions; Adam Tanner for first suspecting a pattern; Diane Lopez and Matthew Fox in Harvard's Office of the General Counsel for making publication possible in the face of legal threats; and Sean Hooley for editorial suggestions. Data from this study is available at foreverdata.org and the IQSS Dataverse Network. Supported in part by NSF grant CNS-1237235 and a gift from Google, Inc.
+
+References
+
+1. Barker R. 2003. The Social Work Dictionary (5th ed.). Washington, DC: NASW Press.
+
+2. Bertrand, M., Mullainathan, S. 2003. Are Emily and Greg more employable than Lakisha and Jamal? A field experiment on labor market discrimination. NBER Working Paper No. 9873; http://www.nber.org/papers/w9873.
+
+3. Central Hudson Gas & Electric Corp. v. Public Service Commission of New York. 1980. Supreme Court of the United States, 447 U.S. 557.
+
+4. Dwork, C., Hardt, M., Pitassi, T., Reingold, O., Zemel, R. 2011. Fairness through awareness. arXiv:1104.3913 [cs.CC]; http://arxiv.org/abs/1104.3913.
+
+5. Equal Employment Opportunity Commission. 2012. Consideration of arrest and conviction records in employment decisions under Title VII of the Civil Rights Act of 1964. Washington, DC. 915.002; http://www.eeoc.gov/laws/guidance/arrest_conviction.cfm.
+
+6. Equal Employment Opportunity Commission. 1978. Uniform guidelines on employee selection procedures. Washington, DC.
+
+7. Fryer, R., Levitt, S. 2004. The causes and consequences of distinctively black names. The Quarterly Journal of Economics 59(3); http://pricetheory.uchicago.edu/levitt/Papers/FryerLevitt2004.pdf.
+
+8. Glover, E; http://www.physiology.emory.edu/FIRST/ebony2.htm (archived at http://foreverdata.org/onlineads).
+
+9. Google AdSense; http://google.com/adsense.
+
+10. Google. Google announces first quarter 2011 financial results; http://investor.google.com/earnings/2011/Q1_google_earnings.html.
+
+11. Harris, P., Keller, K. 2005. Ex-offenders need not apply: the criminal background check in hiring decisions. Journal of Contemporary Criminal Justice 21(1): 6-30.
+
+12. Panel on Methods for Assessing Discrimination, National Research Council. 2004. Measuring racial discrimination. Washington, DC: National Academy Press.
+
+13. Pang, B., Lee, L. 2004. A sentimental education: sentiment analysis using subjectivity summarization based on minimum cuts. Proceedings of the 42nd Annual Meeting on Association for Computational Linguistics.
+
+14. Schneider, J. http://www.lehigh.edu/bio/jill.html (Archived at http://foreverdata.org/onlineads).
+
+15. Sweeney, L. 2013. Discrimination in online ad delivery. (For detailed results and analysis, see full technical report archived at http://ssrn.com/abstract=2208240. Data, including Web pages and ads, archived at http://foreverdata.org/onlineads).
+
+16. U.S. Commission on Civil Rights. 1970. Racism in America and how to combat it. Washington, DC.
+
+17. WebShot Command Line Server Edition. Version 1.9.1.1; http://www.websitescreenshots.com/.
+
+LOVE IT, HATE IT? LET US KNOW
+
+[email protected]
+
+Latanya Sweeney ([email protected]) is professor of government and technology in residence at Harvard University. She creates and uses technology to assess and solve societal, political, and governance problems and teaches others how to do the same. She is also founder and director of the Data Privacy Lab at Harvard. She earned her Ph.D. in computer science from MIT in 2001. More information about her is available at latanyasweeney.org.
+
+© 2013 ACM 1542-7730/13/0300 $10.00
+
+
+
+
+
+Originally published in Queue vol. 11, no. 3—
+
+Comment on this article in the ACM Digital Library
+
+More related articles:
+
+Ryan Barrows, Jim Traverso - Search Considered Integral
+
+Most corporations must leverage their data for competitive advantage. The volume of data available to a knowledge worker has grown dramatically over the past few years, and, while a good amount lives in large databases, an important subset exists only as unstructured or semi-structured data. Without the right systems, this leads to a continuously deteriorating signal-to-noise ratio, creating an obstacle for busy users trying to locate information quickly. Three flavors of enterprise search solutions help improve knowledge discovery.
+
+Ramana Rao - From IR to Search, and Beyond
+
+It’s been nearly 60 years since Vannevar Bush’s seminal article, ’As We May Think,’ portrayed the image of a scholar aided by a machine, “a device in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility.”
+
+Mike Cafarella, Doug Cutting - Building Nutch: Open Source Search
+
+Search engines are as critical to Internet use as any other part of the network infrastructure, but they differ from other components in two important ways. First, their internal workings are secret, unlike, say, the workings of the DNS (domain name system). Second, they hold political and cultural power, as users increasingly rely on them to navigate online content.
+
+Anna Patterson - Why Writing Your Own Search Engine Is Hard
+
+There must be 4,000 programmers typing away in their basements trying to build the next “world’s most scalable” search engine. It has been done only a few times. It has never been done by a big group; always one to four people did the core work, and the big team came on to build the elaborations and the production infrastructure. Why is it so hard? We are going to delve a bit into the various issues to consider when writing a search engine. This article is aimed at those individuals or small groups that are considering this endeavor for their Web site or intranet.
+
+
+
+© ACM, Inc. All Rights Reserved.. This picture shows a computer screen with the Italian website Google on November 28, 2012 in Rome. A probe by Italian tax authorities into US Internet giant Google's Italian arm has found it failed to declare income of 240 million euros ($310 million) and pay value added tax of 96 million euros. AFP PHOTO / GIUSEPPE CACACE (Photo credit should read GIUSEPPE CACACE,GIUSEPPE CACACE/AFP/Getty Images)
+
+Every job candidate lives in fear that a Google search could reveal incriminating indiscretions from a distant past. But a new study examining racial bias in the wording of online ads suggests that Google's advertising algorithms may be unfairly associating some individuals with wrongdoing they didn’t commit.
+
+After learning that a Google search for her own name surfaced an ad for a background check service hinting that she’d been arrested, Harvard University professor Latanya Sweeney set out to investigate whether race shaped online ad results. She searched over 2,000 “racially associated names” to determine if names "previously identified by others as being assigned at birth to more black or white babies" turned up ad results that indicated a criminal record. Specifically, she focused on ads purchased by companies that provide background checks used by employers.
+
+Advertisement
+
+Sweeney concluded that so-called black-identifying names were significantly more likely to be accompanied by text suggesting that person had an arrest record, regardless of whether a criminal record existed or not.
+
+On the left, ads delivered for full name searches on Google.com, according to Sweeney's study. On the right, ads delivered for full name searches done via Reuters.com, which offers Google results. Via Latanya Sweeney.
+
+“There is discrimination in delivery of these ads,” Sweeney writes in her report. “Notice that racism can result, even if not intentional, and that online activity may be so ubiquitous and intimately entwined with technology design that technologists may now have to think about societal consequences like structural racism in the technology they design.”
+
+As Sweeney notes, ads linking a person’s name with criminal activity risk harming his or her reputation by suggesting wrongdoing when there is none. She asks readers to imagine that they’re being evaluated by a potential employer, who’s told to read up on their arrests when he or she searchers their name. “Worse,” writes Sweeney, “The ads don't appear for your competitors."
+
+Advertisement
+
+To test her hypothesis, Sweeney used existing research to find names considered either black- or white-identifying, then used those to compile more than 2,000 first and last name combinations belonging to real people. She queried those full names on Google.com and Reuters.com, both of which rely on Google’s AdSense for online ad delivery, and recorded the language of the sponsored posts that appeared. Her own name, for example, included an ad from InstantCheckmate.com that read, “Latanya Sweeney, Arrested?” and “Check Latanya Sweeney’s Arrests.”
+
+On Reuters.com, a “black-identifying name was 25 percent more likely to get an ad suggestive of an arrest record,” Sweeney found. On Google, 92 percent of ads appearing next to black-identifying names suggested a criminal record, compared to 80 percent of white-identifying names. In fact, white individuals accounted for nearly seventy percent of all arrests and black individuals 28.4 percent of arrests, according to FBI crime statistics from 2011, the most recent year data is available.
+
+Sweeney offers several potential explanations for the discriminatory ad copy. It may be that Instant Checkmate, which had the most online ads of any company tracked in the study, chose to link black-identifying names with ad templates suggesting a criminal record. However, Sweeney notes Instant Checkmate told her that it gave Google the same ad text to run with groups of last names, and did not vary ad templates according to first names.
+
+In response to the study, a spokeswoman for Instant Checkmate said the company "would like to state unequivocally that it has never engaged in racial profiling in Google AdWords."
+
+"We have absolutely no technology in place to even connect a name with a race and have never made any attempt to do so. The very idea is contrary to our company's most deeply held principles and values," the spokeswoman wrote in an email to HuffPost.
+
+Advertisement
+
+Google could be at fault, writes Sweeney, though a Google spokesman told The Huffington Post that the company does not target its users based on race, noting that advertisers are free to choose the terms against which their ads will appear.
+
+“AdWords does not conduct any racial profiling,” the spokesman wrote in an email. “We also have an ‘anti’ and violence policy which states that we will not allow ads that advocate against an organization, person or group of people. It is up to individual advertisers to decide which keywords they want to choose to trigger their ads.”
+
+It might also be that Google users are to blame: when an advertiser first chooses ad copy, all options are equally weighted and have an equal probability of being shown in the search results. Yet over time, as certain templates are clicked more frequently than others, Google will attempt to optimize its customer’s ad by more frequently showing the ad that garners the most clicks.
+
+“Did Instant Checkmate provide ad templates suggestive of arrest disproportionately to black-identifying names?" Sweeney asks. "Or, did Instant Checkmate provide roughly the same templates evenly across racially associated names but society clicked ads suggestive of arrest more often for black identifying names?”
+
+Some of the ad copy suggesting arrests that Sweeney had documented in her report did not appear when those names were queried by The Huffington Post, using Chrome's incognito mode, a week after her findings were released. In The Huffington Post's tests, searches for "Latonya Evans," "Latisha Smith" and "Lakisha Simmons" no longer displayed ads encouraging users to search their arrest record." However, Sweeney has told The Huffington Post that in her tests -- which involved navigating to Reuters.com, clearing the browser's cache and cookies and entering the names -- she found that the arrest language is still circulating in the ads.
+
+Advertisement
+
+"Online advertising is dynamic and easy to change, but as of today, ads suggestive of arrest continue to appear for names of real people even in cases where the company has no arrest record for the name in their database," wrote Sweeney in an email to The Huffington Post. "The best way to see these ads is to search for a name on a site that hosts Ads By Google, such as Reuters.com, one of the sites used in the study. You can view sample ads from the study on foreverdata.org."
+
+This story has been updated with comments from an Instant Checkmate spokeswoman and a statement from Sweeney.. Pop a name into Google and you're likely to end up with corresponding advertisements alongside your results. Wild guess which types of names are more likely to yield arrest-related ads suggesting that the person searched for has a record.
+
+Dr. Henry Louis Gates On Finding The Roots of 'Gospel' In His New PBS Docuseries
+
+You got it — according to a Harvard University paper reported in MIT Technology Review on Monday, "black-identified" names lead to such potentially misleading and embarrassing results 25 percent more often than those that are "white-identified." Here's why researcher Latanya Sweney says "there is discrimination in delivery of these ads," and what she suggests might be done to fix it:
+
+Many people will have experience Googling friends, colleagues and relatives to find out about their online presence — the websites on which they appear, their pictures, hobbies and so on.
+
+Sweeney's interest is in the ads that appear alongside these results. When she entered her name in Google an ad appeared with the wording:
+
+"Latanya Sweeney, Arrested? 1) Enter name and state 2) Access full background. Checks instantly. www.instantcheckmate.com"
+
+This is suggestive wording. It suggests that Latanya Sweeney has a criminal record the details of which can be accessed by clicking on the ad. But after hitting the link and paying the necessary subscription fee, Sweeney says she found no record of arrest.
+
+What's interesting about this is that Sweeney's first name is also suggestive — that she is black. The question Sweeney asks is whether a similar search with a name suggestive of a white racial profile also serves up ads mentioning arrest records.
+
+The answer is a powerful wake up call. Sweeney says she has evidence that black identifying names are up to 25 per cent more likely to be served with an arrest-related ad. "There is discrimination in delivery of these ads," she concludes.
+
+Sweeney gathered this evidence by collecting over 2000 names that were suggestive of race. For example, first names such as Trevon, Lakisha and Darnell suggest the owner is black while names like Laurie, Brendan and Katie suggest the owner is white …
+
+Clearly Sweeney has discovered a serious problem here given the impact online presence can have an individual's employment prospects.
+
+Whatever the cause, Sweeney says technology may offer some kind of solution. If the algorithms behind Adsense can reason about maximising revenues, she says they ought to be able to reason about the legal and social consequences of certain patters of click-throughs.. Female job seekers are much less likely to be shown adverts on Google for highly paid jobs than men, researchers have found.
+
+
+
+The team of researchers from Carnegie Mellon built an automated testing rig called AdFisher that pretended to be a series of male and female job seekers. Their 17,370 fake profiles only visited jobseeker sites and were shown 600,000 adverts which the team tracked and analysed.
+
+The authors of the study wrote: “In particular, we found that males were shown ads encouraging the seeking of coaching services for high paying jobs more than females.”
+
+One experiment showed that Google displayed adverts for a career coaching service for “$200k+” executive jobs 1,852 times to the male group and only 318 times to the female group. Another experiment, in July 2014, showed a similar trend but was not statistically significant.
+
+Google’s ad targeting system is complex, taking into account various factors of personal information, browsing history and internet activity. Critically the fake users started with completely fresh profiles and behaved in the same way, with gender being the only factor that was different and illustrating that the ad targeting for these job adverts was discriminatory.
+
+Discrimination is inherent to advertising
+
+However, the authors of the study admit that the gender discrimination shown is difficult to pin to one factor, due to the complexity of not only Google’s profiling systems, but also of the way advertisers buy and target their adverts using Google.
+
+A Google spokeswoman said: “Advertisers can choose to target the audience they want to reach, and we have policies that guide the type of interest-based ads that are allowed.”
+
+
+
+Profiling is inherently discriminatory, as it attempts to treat people differently based on their behaviour and personal information. While that customisation can be useful, showing more relevant ads to users, it can also have negative connotations.
+
+The study authors said: “Male candidates getting more encouragement to seek coaching services for high-paying jobs could further the current gender pay gap. Even if this decision was made solely for economic reasons, it would continue to be discrimination.”
+
+
+
+Google allows users to opt out of behavioural advertising and provides a system to see why users were shown ads and to customise their ad settings. But the study suggests that there is a transparency and overt discrimination issue in the wider advertising landscape.
+
+Television, radio and print advertisers have, of course, been practising discrimination for years, pushing ads out with shows or magazines that appeal to a particular gender or demographic.
+
+The difference now is that it is much more obvious in the internet age, and the in-depth profiling that is now possible could make it worse, not better.
+
+Profiling, ad choice, dating and substance abuse
+
+The researchers also investigated whether visiting sites dealing with certain topics, specifically substance abuse, adult content, disabilities, mental disorders and infertility, affected the ads served to the fake profiles.
+
+Only visiting sites dealing with substance abuse and disability created statistically significant results. The researchers found that after visiting substance abuse sites Google’s advert profile page showed no change to the interests listed, but the adverts shown to the user accounts did change, including displaying ads for rehabilitation services from a company called Watershed. The adverts shown to the control group did not include any rehabilitation services.
+
+“One possible reason why Google served Watershed’s ads could be remarketing, a marketing strategy that encourages users to return to previously visited website,” said the authors of the study.
+
+The Watershed site was included in the top 100 substance abuse sites list, which was used as the experimental list of sites to visit by the automated system.
+
+A similar result was shown in testing for disability sites, using a similar methodology. This time the researchers found that Google’s ad interest profile did change for the test group, but that it showed other interests not related to disability.
+
+Ads for mobility devices including a standing wheelchair were shown to the test group 1,076 times but never to the control group. Again the adverts included sites within the top 100 sites concerning disability used during the experiment.
+
+Google has said that it prohibits the targeting of adverts within its “sensitive category policy”, which includes health issues such as substance abuse. It also says that does not allow remarketing within the same sensitive areas.
+
+The researchers also discovered that Google’s ad choices, which allows users to manually remove certain interests from the tracking profiles, had the effect that was desired.
+
+“The ad settings appear to actually give users the ability to avoid ads they
+
+might dislike or find embarrassing,” said the authors.
+
+Removing online dating interests, for instance, stopped online dating ads from appearing within the top five ads served to the test group.. AdFisher also showed that a Google transparency tool called “ads settings,” which lets you view and edit the “interests” the company has inferred for you, does not always reflect potentially sensitive information being used to target you. Browsing sites aimed at people with substance abuse problems, for example, triggered a rash of ads for rehab programs, but there was no change to Google’s transparency page.
+
+What exactly caused those specific patterns is unclear, because Google’s ad-serving system is very complex. Google uses its data to target ads, but ad buyers can make some decisions about demographics of interest and can also use their own data sources on people’s online activity to do additional targeting for certain kinds of ads. Nor do the examples breach any specific privacy rules—although Google policy forbids targeting on the basis of “health conditions.” Still, says Anupam Datta, an associate professor at Carnegie Mellon University who helped develop AdFisher, they show the need for tools that uncover how online ad companies differentiate between people.
+
+“I think our findings suggest that there are parts of the ad ecosystem where kinds of discrimination are beginning to emerge and there is a lack of transparency,” says Datta. “This is concerning from a societal standpoint.” Ad systems like Google’s influence the information people are exposed to and potentially even the decisions they make, so understanding how those systems use data about us is important, he says.
+
+Even companies that run online ad networks don’t have a good idea of what inferences their systems draw about people and how those inferences are used, says Datta. His group has begun collaborating with Microsoft to develop a version of AdFisher for use inside the company, to look for potentially worrying patterns in the ad targeting on the Bing search engine. A paper by Datta and two colleagues—Michael Tschantz, of the International Computer Science Institute, and Amit Datta, also at Carnegie Mellon—was presented at the Privacy Enhancing Technologies Symposium in Philadelphia last Thursday.
+
+Google did not officially respond when the researchers contacted the company about their findings late last year, they say. However, this June the team noticed that Google had added a disclaimer to its ad settings page. The interest categories shown are now said to control only “some of the Google ads that you see,” and not those where third parties have made use of their own data. Datta says that greatly limits the usefulness of Google’s transparency tool, which could probably be made to reveal such information if the company chose. “They are serving these ads, and if they wanted to they could reflect these interests,” he says.
+
+“Advertisers can choose to target the audience they want to reach, and we have policies that guide the type of interest-based ads that are allowed,” said Andrea Faville, a Google spokeswoman, in an e-mail. “We provide transparency to users with ‘Why This Ad’ notices and Ads Settings, as well as the ability to opt out of interest-based ads.” Google is looking at the methodology of the study to try to understand its findings.
+
+The AdFisher tool works by sending out hundreds or thousands of automated Web browsers on carefully chosen trails across the Web in such a way that an ad-targeting network will infer certain interests or activities. The software then records which ads are shown when each automated browser visits a news website that uses Google’s ad network, as well as any changes to the ad settings page. In some experiments that page is edited to look for differences between the ways ads are targeted to, say, males and females. AdFisher automatically flags any statistically significant differences in how ads are targeted using the particular interest categories or demographics it is investigating.
+
+Roxana Geambasu, an assistant professor at Columbia University, says there’s considerable value in the way AdFisher can statistically extract patterns from the complexity of targeted ads. A tool called XRay, which her own research group released last year, can reverse-engineer the connection between ads shown to Gmail users and keywords in their messages. For example, ads for low-requirement car loans might be targeted to those using words associated with financial difficulties.
+
+However, Geambasu says that the results from both XRay and AdFisher are still only suggestive. “You can’t draw big conclusions, because we haven’t studied this very much and these examples could be rare exceptions,” she says. “What we need now is infrastructure and tools to study these systems at much larger scale.” Being able to watch how algorithms target and track people to do things like serve ads or tweak the price of insurance and other products is likely to be vital if civil rights groups and regulators are to keep pace with developments in how companies use data, she says.
+
+A White House report on the impact of “big data” last year came to similar conclusions. “Data analytics have the potential to eclipse longstanding civil rights protections in how personal information is used in housing, credit, employment, health, education, and the marketplace,” it said.

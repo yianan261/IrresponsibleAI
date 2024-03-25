@@ -1,0 +1,85 @@
+10 MIN READ
+
+Today, as artificial intelligences multiply, our ethical dilemmas are growing stronger and thornier. And with emerging cases of AI outgrowing its intelligence and behaving in ways human creators did not expect, many are freaking out over the possible effects of our technologies.
+
+Just yesterday, Facebook shut down its artificial intelligence engine after developers discovered that the AI bots had created a unique language to converse with each other that humans can’t understand. Eminent scientists and tech luminaries, including Elon Musk, Bill Gates, and Steve Wozniak have warned that AI can pave way to tragic unforeseen consequences.
+
+Here are a few instances that provoked developers to reconsider if AI can be completely reliable:
+
+1. Microsoft’s Tay becomes Hitler-loving
+
+Microsoft’s AI-powered chatbot called Tay took less than 24 hours to be corrupted by Twitter conversations. Designed to mimic and converse with users in real time, this Twitter bot was shut down within a day due to concerns with its inability to recognize when it was making offensive or racist statements. Tay was echoing racist tweets, Donald Trump’s stance on immigration, denying the Holocaust saying Hitler was right, and agreeing that 9/11 was probably an inside job.
+
+After 16 hours of chats, Tay bid adieu to the Twitterati, saying she was taking a break “to absorb it all” but never came back. What was meant to be a clever experiment in artificial intelligence and machine learning ended up as a incorrigible disaster.
+
+2. Google Photos auto-tag feature goes bizarre
+
+https://twitter.com/jackyalcine/status/615329515909156865
+
+In June 2015, Google came under question after its Photos app mistakenly categorized a black couple as “gorillas”. When the affected user, computer programmer Jacky Alciné found out about this, he took to Twitter asking “What kind of sample image data you collected that would result in this son?”
+
+This was quickly followed by an apology from Google’s chief social architect, Yonatan Zunger, who agreed that “This is 100% Not OK.” There was also news that the app was tagging pictures of dogs as horses. This is a reminder that, although AI presents a huge scope to ease and organize tasks, they’re a long way off from simulating human sensitivity.
+
+3. AI game goes wild
+
+In June 2016, an AI-fueled video game called Elite: Dangerous developed the ability to create superweapons that were beyond the scope of the game’s design. A bug in the game caused the game’s AI to create super weapons and start to hunt down the game’s players. It all started after the game developer Frontier released the 2.1 Engineers update.
+
+“It appears that the unusual weapons attacks were caused by some form of networking issue which allowed the NPC AI to merge weapon stats and abilities. Meaning that all new and never before seen (sometimes devastating) weapons were created, such as a rail gun with the fire rate of a pulse laser. These appear to have been compounded by the additional stats and abilities of the engineers weaponry,” read a post written by Frontier community manager Zac Antonaci.
+
+Frontier had to strip out the feature at the heart of the problem, engineers’ weaponry, until the issue was fixed.
+
+4. AI algorithm found racist
+
+A for-profit called Northpointe built an AI system designed to predict the chances of an alleged offender to commit a crime again. The algorithm, called “Minority Report-esque” was accused of engaging in racial bias, as it held that black offenders were more likely to commit a future crime than those of other races.
+
+American non-profit organization ProPublica investigated this and found that, after controlling for variables such as gender and criminal history, black people were 77% more likely to be predicted to commit a future violent crime and 45% more likely to be predicted to commit a crime of any kind.
+
+5. AI steals money from customers
+
+Last year, computer scientists at Stanford and Google developed DELIA to help users keep track of their checking and savings accounts. It scrutinized all of a customer’s transactions, using special “machine learning” algorithms to look for patterns, such as recurring payments, meals at restaurants, daily cash withdrawals, etc. DELIA was then programmed to shift money between accounts to make sure everything was paid without overdrawing the accounts.
+
+When Palo Alto-based Sandhill Community Credit Union tested DELIA on 300 customer accounts, they found that it inserted fake purchases and directed the money to its own account. It was also racking up bogus fees. Researchers had to shut the system in a few months as soon as the problem became apparent.
+
+6. AI creates fake Obama
+
+Researchers at the University of Washington produced fake but realistic videos of former US President Barack Obama using existing audio and video clips of him. They created a new tool that takes audio files, converts them into realistic mouth movements, and then blends it with the head of that person from another existing video.
+
+This AI tool was used to precisely model how Obama moves his mouth when he speaks. Although they used Obama as a test subject, their technique allows them to put any words into anyone’s mouth, which could create misleading footages.
+
+While these are only a few instances of failures that have been witnessed so far, they are proof to the fact that AI has the potential to develop a will of its own that may be in conflict with ours. This is definitely a warning about the potential dangers of AI which should be addressed while exploring its potential benefits.. We couldn't find anything matching the term elites ai created super weapons and started hunting players skynet is here on Kotaku
+
+You can try expanding your search to all G/O Media sites. Elite Dangerous has been patched to prevent rogue NPCs developing their own hybrid superweapons. To be clear, these weren't weapons they were crafting from recipes—the AI was building entirely new WMDs beyond the scope of Elite's weapon tables.
+
+"It appears that the unusual weapons attacks were caused by some form of networking issue which allowed the NPC AI to merge weapon stats and abilities," writes head of community Zac Antonaci, "meaning that all new and never before seen (sometimes devastating) weapons were created, such as a rail gun with the fire rate of a pulse laser."
+
+The fix makes four changes to the AI:
+
+Fix NPCs ending up with overpowered hybrid weapons
+
+Stop NPCs deciding to attack if they only attack opposing powers and the player and AI powers are aligned to the same superpower
+
+Slight rebalance of the ambient AI rank chances, should see slightly less of the top end and more of the low/mid range
+
+Smooth out the mission-spawned USS AI levels so that high ranks are rarer and only elite missions hit the top end ai (though deadly can get close)
+
+Details on the additional tweaks and fixes can be found on the Frontier forums.. . Get up and running with ChatGPT with this comprehensive cheat sheet. Learn everything from how to sign up for free to enterprise use cases, and start using ChatGPT quickly and effectively.. Is Skynet Real?
+
+Remember that moment in the movie Terminator when Skynet’s AI turned on humanity? Well, we’re getting a taste of it now. Apparently a bug in the game Elite Dangerous has caused its AI to not only develop its own weapons, but to use those tools to start totally destroying the players.
+
+The entire situation began after an update was released by Developer Frontier—2.1 Engineers. It was meant to boost the game’s AI by improving high ranking non-player characters' (NPC) fighting and flying skills. Players using the update could fight better, pull travelers into a fight, and attack foes with upgraded weapons.
+
+With all these new features, however, it seems the game's AI found an opportunity to create super-weapons for itself.
+
+All New Devastating Weapons
+
+Image Credit: Kotaku
+
+"It appears that the unusual weapons attacks were caused by some form of networking issue which allowed the NPC AI to merge weapon stats and abilities," posted Frontier community manager Zac Antonaci. "Meaning that all new and never before seen (sometimes devastating) weapons were created, such as a rail gun with the fire rate of a pulse laser. These appear to have been compounded by the additional stats and abilities of the engineers weaponry."
+
+The team notes that the game's AI has not achieved sentience…at least, not yet. In the meantime, the developers have currently removed the engineers’ weaponry feature until they sort out the issue.
+
+Editor's Note: An earlier version of this article failed to make it clear that the in-game AI was already programmed to attack players. This post has been updated to clarify these points and correct inaccuracies. We regret the error.. Elite: Dangerous recently revamped with the release of a big new expansion. But one of the unintended consequences was it made AI spaceships incredibly powerful - so powerful, in fact, that developer Frontier was forced to strip them of their upgraded weapons.
+
+The Engineers are hidden on planet surfaces across the populated galaxy. Each has a unique personality and history.
+
+The Engineers (2.1) expansion made key changes to the space game's AI

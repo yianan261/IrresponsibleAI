@@ -1,0 +1,273 @@
+We have in the past seen instances such as the failure of Microsoft bot Tay, when it developed a tendency to come up with racist remarks. Within 24 hours of its existence and interaction with people, it starting sending offensive comments, and went from “humans are super cool” to being almost a Nazi.
+
+While on one hand, chatbots, robots and conversational platforms are finding their niche in many companies, these technological advancements are also turning mainstream to become the face of the company. But many times they end up failing and disappointing us. While most of the times these technologies fail because companies don’t clearly define their purpose, others could be pure technical glitches.
+
+Here we list some of the tech failures from last year that hint that the companies need to work harder and keep coming up with better and improved versions of their innovations.
+
+1. When Facebook’s Chatbots Developed Their Own Language
+
+Subscribe to our Newsletter Join our editors every weekday evening as they steer you through the most significant news of the day, introduce you to fresh perspectives, and provide unexpected moments of joy Email Sign up Your newsletter subscriptions are subject to AIM Privacy Policy and Terms and Conditions.
+
+As scary as it may sound, “Bob” and “Alice”, the chatbots created by Facebook had to be shut down as the duo started communicating in their own language, defying human generated algorithms.
+
+The bots were originally developed to learn how to negotiate, by mimicking human trading and bartering, but when they were paired to trade against each other, they started to learn their own bizarre form of communication. Though they were designed to communicate in English, they developed their own mysterious language that humans couldn’t crack.
+
+Bob: i can i i everything else . . . . . . . . . .
+
+Alice: balls have zero to me to me to me to me to me to me to me to me to
+
+This is how their conversation looked like. Researchers stopped the operation of the chatbots citing that they were looking at bots that could behave differently.
+
+2. When Mitra The Robot Failed To Greet The Prime Minister
+
+The indigenously built robot called Mitra, developed by Bengaluru-based Invento Robotics walked up to welcome Indian Prime Minister Narendra Modi and Ivanka Trump at the the Global Entrepreneurship Summit (GES) opening in Hyderabad. While the robot was programmed to welcome each of them with their names on pressing the respective flags, it failed to do so.
+
+When Modi was first requested to press Indian flag, Ivanka also ended up pressing the US flag simultaneously and because of the confusion due to overlapping, Mitra could not function properly.
+
+This failure could be attributed to being poorly coded, where there was no specific instruction given to the robot to complete the current task before starting a new one. For instance, it kept on saying “Welcome miss Ivan, Welcome miss Ivan, Welcome Shri Narendra Modi”. The robot could not say Ivanka Trump’s full name because before it could complete the sentence, it received a new input, and gave a preference to newer requests.
+
+3. When Autonomous And Driverless Vehicles Turned Disastrous
+
+In a tragic incident involving Uber self driving car, a woman was killed during a trial, stalling autonomous vehicle operations worldwide. The car was travelling on a partially lit road, when a woman appeared out of nowhere in the darkness. The Uber self driving Volvo which was driving at a speed of 61 kmph, failed to apprehend the same and resulted in a fateful crash.
+
+Back in India, Delhi’s first ever driverless metro met with an accident during its trial, and it was touted to be human error and negligence. Reportedly, the trial train was moved to testing from the workshop without testing the brake, as a result of which the moving train hit the adjacent boundary wall, with no harm to lives.
+
+4. When iPhone X’s Face Recognition Could Not Differentiate Identical Twins
+
+When Apple released its iPhone X with much aplomb, it was awed for its artificial intelligence and machine learning capabilities. Facial recognition was one of the key capabilities that it boasted, but it was found to have a weakness for identical twins.
+
+When Apple unveiled the Face ID in September, it did warn that its acceptance rate might be somewhat lower if presented with two people with very similar DNA, aka identical twins, it could be speculated that Face ID wasn’t perfect. Face ID, a face mapping technology that can unlock phones, verify Apple Pay and replace fingerprint scanners, could be fooled at some level, especially when identical twins are made to use the Face ID.
+
+That’s not all, a week after the phone’s release, Vietnamese security firm Bkav, using a mask with 3D printed base, convinced the phone that it was human and made the phone to unlock itself. The firm said that it cost merely $150 to create the mask, and hinted towards a possible hacker’s attack in the future.
+
+5. When Alexa And Amazon Echo Goofed Up
+
+The popular Amazon Echo cost one of its owners a huge locksmith bill, when police had to break down the house on complaints from neighbours of loud music early in the morning. Amazon Echo, which comes with robust and smart speakers accidentally activated itself and blasted music, when the residents were out.
+
+In another instance, Amazon Alexa, a virtual assistant that has made lives of many easier, placed an order for $170 dollhouse, when a six-year-old asked for one.
+
+On A Concluding Note
+
+Though there have been stunning developments in the field of artificial intelligence and robotics over the years, these failures suggest that there is a lot more to achieve. The companies increasingly need to rewire their DNA and bring better features and innovations to ensure an unmistakable customer experience. While general intelligence is a far reaching goal for AI, botification has the power to bring convenience at a much faster pace, if they are 100 percent successful.. . The iPhone X's Face ID does capture actual face images on every unlock, but they're discarded as soon it's calculated the representation. Image: Apple/CNET
+
+Apple has already said the iPhone X's facial-recognition system, Face ID, could be a problem for people with an evil twin. They'll have to use a passcode to keep their data secure. Or get an iPhone 8 with Touch ID, since twins don't have matching fingerprints.
+
+But just as people want to keep others out of their iPhone, how does Face ID ensure owners aren't locked out because they've got more wrinkles, makeup, or a different hairdo than a month ago?
+
+Apple explains this issue and more in a new paper called Face ID Security, as well as on a new Face ID support page.
+
+As it's said before, there's a one in a million chance someone else could look at your iPhone X and unlock it. That's 20 times less likely than for Touch ID.
+
+Apple says the probability of a false match is different for twins, and for kids under 13 years old, whose distinctive facial features aren't fully developed.
+
+The Face ID enrollment relies on an image of the person's face at a single point in time, which, like Touch ID's fingerprint capture, is stored as a mathematical representation in the device's secure enclave. However, Face ID also relies on a neural network to build on this representation of the owner's face using facial data from some login attempts.
+
+Besides data captured at enrollment, the secure enclave also stores "mathematical representations of your face calculated during some unlock attempts if Face ID deems them useful to augment future matching".
+
+Face ID does capture actual face images on every unlock, but they're discarded as soon it's calculated the representation.
+
+To cater for "dramatic" changes to your looks, such as new facial hair or make-up, Face ID can use a temporary representation of your face if it was a good enough match to unlock the device.
+
+This can be used for a limited number of unlocks. Face ID also captures another facial image when it fails to recognize the owner but the match still reaches a "certain threshold" and they immediately type the correct passcode.
+
+"To improve unlock performance and keep pace with the natural changes of your face and look, Face ID augments its stored mathematical representation over time. Upon successful unlock, Face ID may use the newly calculated mathematical representation -- if its quality is sufficient -- for a finite number of additional unlocks before that data is discarded," Apple explains in the paper.
+
+"Conversely, if Face ID fails to recognize you, but the match quality is higher than a certain threshold and you immediately follow the failure by entering your passcode, Face ID takes another capture and augments its enrolled Face ID data with the newly calculated mathematical representation.
+
+"This new Face ID data is discarded after a finite number of unlocks and if you stop matching against it. These augmentation processes allow Face ID to keep up with dramatic changes in your facial hair or makeup use, while minimizing false acceptance."
+
+Previous and related coverage
+
+Face, fingerprint, passwords, or PIN: What's the best way to keep your smartphone secure?
+
+Apple's Face ID has caused a stir -- but are biometrics really the best way to boost mobile security?
+
+iPhone X: The hardware behind Face ID
+
+Unlocking the iPhone 8 might be as simple as looking at it, but there's a lot of high-tech hardware powering it behind the scenes.
+
+Read more on Apple Face ID. . Apple's iPhones are renowned for their user-friendliness, offering the widest selection of apps and games on any smartphone, many of which are completely free to download.
+
+Each iPhone also rates highly with consumers for its great looks and sleek design with Apple consistently topping the polls as a customers' favourite smartphone brand.
+
+Here's our latest roundup of iPhones, so you can see how they compare and which one would be most suited to you.
+
+Our best iPhone deals: what should I look for?
+
+iPhones are undeniably top level smartphones, but they do come with high prices to match. However, there are some great iPhone deals to be found depending on which model you're keen to get and the service you want.
+
+The iPhone 15 range features four new handsets with the most-advanced specs available in an iPhone. The iPhone 15, iPhone 15 Plus, iPhone 15 Pro and iPhone 15 Pro Max were all announced at Apple's annual launch event last year and feature all of its latest technology, including USB-C charging, 48MP cameras across the range and a new titanium casing in the pro models.
+
+Timing is also a big factor when it comes to getting the best iPhone contract deal for your money. A great time to look for deals on both the iPhone 14 and iPhone 13 range was straight the launch of the new iPhone 15.
+
+If you're not too bothered about owning the latest and greatest iPhone, the best period to buy an existing model is in the few months after the new iPhone is out. It's around this time that networks discount existing iPhone handsets to clear stocks.
+
+However, be aware that Apple discontinues both of its Pro models from previous ranges when the new one is launched. So if you want the iPhone 14 Pro or the iPhone 13 Pro, your best bet is to shop from a network.
+
+See all our latest iPhone deals above from some of the UK's top mobile networks.
+
+Which networks offer iPhone deals?
+
+Below, we take a look at the biggest UK networks offering iPhone contract deals and outline their key advantages.
+
+iPhone contract deals on O2
+
+Advantages of choosing an O2 iPhone deal include:
+
+Priority tickets at venues nationwide, with early access to concert tickets up to 48 hours before general release
+
+Free roaming in the EU
+
+Fast-track entry at O2 venues
+
+Additional O2 extras, such as a six-month free subscription to services like Disney Plus, Amazon Prime or Audible
+
+Double data and double broadband speed for O2 customers who also have Virgin Media broadband
+
+Compare O2 iPhone deals on Uswitch.
+
+iPhone contract deals on Three
+
+Some of the reasons to choose an iPhone pay monthly deal on Three include:
+
+Wi-Fi calling comes in handy to help you make and receive calls
+
+5G SIM cards will help you get fast download speeds when you're out and about.
+
+Compare Three iPhone deals on Uswitch.
+
+iPhone contract deals on Vodafone
+
+Pick up an iPhone deal with Vodafone and you’ll receive:
+
+Access to the VeryMe app, which has lots of brillaint offers, prize draws and discounts
+
+10% student discount
+
+Amazon Prime, Spotify Premium or YouTube Premium on select tariffs
+
+Compare Vodafone iPhone deals on Uswitch.
+
+iPhone contract deals on BT Mobile
+
+Pick up an iPhone on BT Mobile and you'll get:
+
+TNT Sports (BT Sport) is free on select plans
+
+Because it uses EE's network, BT Mobile customers enjoy the UK's widest ranging 4G network
+
+If you're a BT broadband customer, you can qualify for substantial savings
+
+Compare BT Mobile iPhone deals on Uswitch.
+
+iPhone contract deals on giffgaff
+
+Pick up the iPhone on giffgaff and you'll get:
+
+Excellent calling rates and data allowances
+
+Money-off for recruiting new customers to giffgaff
+
+East to swap between deals with different allowances from month to month
+
+Compare giffgiff iPhone deals on Uswitch.
+
+What’s the difference between the iPhone models?
+
+Since the launch of the very first iPhone, every year has brought with it an updated model.
+
+Here we’ll explain the differences between the different editions and outline their key specifications.
+
+What's new with the iPhone 15?
+
+The new iPhone 15 is the entry-level handset of the iPhone 15 range. As always it has top-quality specs in the form of a superb 6.1-inch OLED screen, a camera setup with a new 48MP main camera, and the new USB-C connection.
+
+Is there an iPhone 15 Pro?
+
+The 2023 selection of iPhones has included two Pro models - the iPhone 15 Pro and the iPhone 15 Pro Max. These two handsets have had the most upgrades, namely in the shape of the new A17 Bionic chip, a periscope telephotos camera with 3x and 5x optical zoom, and a new titanium finish.
+
+How big is the iPhone 15 Pro Max?
+
+The iPhone 15 Pro Max has a 6.7-inch OLED display, compared to the iPhone 15 Pro's 6.1-inch display.
+
+The iPhone 15 Pro and iPhone 15 Pro Max also both have a dynamic island, ProMotion technology with adaptive refresh rates up to 120Hz, and up to 1TB in storage.
+
+What is the iPhone 15 Plus?
+
+The iPhone 15 Plus joins the regular iPhone as the entry point into the range, but increases the screen size to match the Pro Max. The iPhone 15 Plus has the same specs and features as the iPhone 15 but with a 6.7-inch screen.
+
+How much does the iPhone 15 cost?
+
+The iPhone 15 range's prices start at £799 for the iPhone 15, £899 for the iPhone 15 Plus, £999 for the iPhone 15 Proand £1199 for the iPhone 15 Pro Max.
+
+Should I get the iPhone 14 or the iPhone 15?
+
+The iPhone 14 is the standard model of the iPhone 14 range, but that doesn't mean it's a run-of-the-mill smartphone. A stunning 6.1-inch OLED screen has now been boosted to a 120Hz refresh rate and the camera has some exciting new upgrades including macrophotography and cinematic video recording.
+
+The main difference between the two models is the camera – which is 48MP on the iPhone 15 and 12MP on the 14 – and also the price. You just need to decide if you want a higher resolution camera sensor or a cheaper handset.
+
+How much does the iPhone 14 cost?
+
+The iPhone 14 range's prices start at £699 for the iPhone 14 and £799 for the iPhone 14 Plus. The iPhone 14 Pro the iPhone 14 Pro Max are no longer available directly from Apple, but there are plenty of contract deals still on offer from UK networks.
+
+Should I get the iPhone 13?
+
+Although it's a few years old now, the iPhone 13 is still an excellent quality smartphone. While it doesn't have a number of the newer, flashy features such as dynamic island or 48MP cameras, it's significantly more expensive than the iPhone 15.
+
+Author: Nick Baker
+
+Last updated: 13 March 2024. VLADIMIR, January 30. /TASS/. Twin brothers from the Russian city of Vladimir are demanding 20 mln rubles (over $357,000) in compensation from Apple because the Face ID feature of their new iPhone X smartphones cannot tell them apart, their lawyer told TASS on Tuesday.
+
+"The twins purchased iPhone X smartphones to use the facial recognition feature to unlock the screen. They were disappointed to learn that each of the phones recognizes both brothers who had not been warned about this by the seller. Therefore, they are asking the company to improve this feature," attorney Roman Ardykutsa said.
+
+According to him, the Face ID’s failure to tell the brothers apart is a personal data protection breach and Apple should add a warning to the iPhone X manual regarding the unlocking of the phone by twins.
+
+If the company does not satisfy their demands, the brothers will go to court, the lawyer warned.
+
+Apple presented the new iPhone X on September 12 last year. It is equipped with a frameless OLED-screen, which fully covers the front of the smartphone, as well as a 3D face-scan sensor to unlock the device, known as Face ID.
+
+The new iPhone X went on sale in Russia on November 3.. . Apple’s foolproof Face ID system looks like it has met its match.
+
+Even though Face ID is supposed to faster on the iPhone XS and XS Max, it appears that the security system can be completely fooled by identical twins. If you’ve got a sibling doppelganger, you might want to just use a passcode.
+
+Watch how ineffective Face ID is at distinguishing between these two:
+
+Faking out Face ID
+
+Apple says there’s a 1 in 1 million chance that a random person could unlock your phone with their face. The feature cannot be fooled by photos like Samsung’s facial recognition technology, but human faces are the exception.
+
+Last year we saw a couple sets of twins try to fool Face ID with mixed results. Some twins couldn’t trick the feature while others could. Some hackers managed to trick Face ID with a cheap mask too. So the bottomline is, even though Face ID is more secure than Touch ID, it’s still not perfect.. . . When Apple announced its $1k iPhone X back in September, we learned they were ditching the home screen button log-in for something snazzier: facial recognition.
+
+The company touted it as a more secure upgrade to its existing TouchID feature — but, it turns out the tech can be easily tricked by human genetics.
+
+Apple’s upgrade
+
+The new system, called Face ID, utilizes a new TrueDepth camera, which projects 30k “invisible dots” onto a user’s face creating a 3D model that verifies identity and unlocks the screen.
+
+The tech is also equipped with an A11 bionic chip, which allows it to enlist machine learning to detect changes in a user’s appearance. As Forbes writes, “you can put on glasses, wear a hat, grow a beard. Even wild makeup will not fool Face ID… it will know you.”
+
+Apple claims this system only allows for a 1 in 1m chance of someone else accessing your phone, compared to TouchID’s 1 in 50k.
+
+Sounds great — unless you’re an identical twin
+
+Mashable experimented and found that the phone’s Face ID couldn’t distinguish between sets of identical twins: they could easily log into each other’s devices. This wasn’t an issue with TouchID, as identical twins have different fingerprints.
+
+Roughly 3.2% of the world’s population are twins, and about one-third of them are identical — so, this isn’t an insignificant issue.
+
+But to be fair, even the parents of identical twins have a tough time telling them apart, so how much can you really blame tech here?. The iPhone X might be the future of Apple’s smartphone design, but its lauded Face ID facial recognition system has an issue with people under 13: it’s much more difficult to tell them apart.
+
+In a security guide published Wednesday, Apple recommends that children under the age of 13 do not use Face ID due to the probability of a false match being significantly higher for young children. The company said this was because “their distinct facial features may not have fully developed”.
+
+While few young children are likely to be given a £999 iPhone, false matches are also more likely for twins and siblings. In all those situations, the company recommends concerned users disable Face ID and use a passcode instead.
+
+For most users – those over 13 without “evil twins”, as Apple’s head of iOS Craig Federighi describes them – the bigger concern is deliberate attacks. Touch ID, Apple’s fingerprint sensor, was famously bypassed just two days after it was launched in the iPhone 5S, using a fake fingerprint placed over a real finger.
+
+With Face ID, Apple has implemented a secondary system that exclusively looks out for attempts to fool the technology. Both the authentication and spoofing defence are based on machine learning, but while the former is trained to identify individuals from their faces, the latter is used to look for telltale signs of cheating.
+
+“An additional neural network that’s trained to spot and resist spoofing defends against attempts to unlock your phone with photos or masks,” the company says. If a completely perfect mask is made, which fools the identification neural network, the defensive system will still notice – just like a human.
+
+Apple is also confident that it won’t fall prey to issues of algorithmic bias that have plagued many attempts to use neural networks at scale. High-profile examples of such failures include the photo-labelling system that ltagged black people as gorillas, or the word-association model which states that men are computer programmers and women are homemakers.
+
+Whenever its initial training exposed a demographic shortcoming, Apple says, it “augmented the studies as needed to provide a high degree of accuracy for a diverse range of users”. Time – and millions of people around the world using the technology – will tell whether the effort worked, but the company sounds confident.
+
+One area the system will struggle with, however, is facial coverings. Apple says that “Face ID is designed to work with hats, scarves, glasses, contact lenses and many sunglasses,” but ultimately two 

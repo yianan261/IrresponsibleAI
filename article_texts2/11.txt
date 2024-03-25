@@ -1,0 +1,577 @@
+On a spring afternoon in 2014, Brisha Borden was running late to pick up her god-sister from school when she spotted an unlocked kid’s blue Huffy bicycle and a silver Razor scooter. Borden and a friend grabbed the bike and scooter and tried to ride them down the street in the Fort Lauderdale suburb of Coral Springs.
+
+Just as the 18-year-old girls were realizing they were too big for the tiny conveyances — which belonged to a 6-year-old boy — a woman came running after them saying, “That’s my kid’s stuff.” Borden and her friend immediately dropped the bike and scooter and walked away.
+
+But it was too late — a neighbor who witnessed the heist had already called the police. Borden and her friend were arrested and charged with burglary and petty theft for the items, which were valued at a total of $80.
+
+Compare their crime with a similar one: The previous summer, 41-year-old Vernon Prater was picked up for shoplifting $86.35 worth of tools from a nearby Home Depot store.
+
+Prater was the more seasoned criminal. He had already been convicted of armed robbery and attempted armed robbery, for which he served five years in prison, in addition to another armed robbery charge. Borden had a record, too, but it was for misdemeanors committed when she was a juvenile.
+
+Yet something odd happened when Borden and Prater were booked into jail: A computer program spat out a score predicting the likelihood of each committing a future crime. Borden — who is black — was rated a high risk. Prater — who is white — was rated a low risk.
+
+Two years later, we know the computer algorithm got it exactly backward. Borden has not been charged with any new crimes. Prater is serving an eight-year prison term for subsequently breaking into a warehouse and stealing thousands of dollars’ worth of electronics.
+
+Scores like this — known as risk assessments — are increasingly common in courtrooms across the nation. They are used to inform decisions about who can be set free at every stage of the criminal justice system, from assigning bond amounts — as is the case in Fort Lauderdale — to even more fundamental decisions about defendants’ freedom. In Arizona, Colorado, Delaware, Kentucky, Louisiana, Oklahoma, Virginia, Washington and Wisconsin, the results of such assessments are given to judges during criminal sentencing.
+
+Rating a defendant’s risk of future crime is often done in conjunction with an evaluation of a defendant’s rehabilitation needs. The Justice Department’s National Institute of Corrections now encourages the use of such combined assessments at every stage of the criminal justice process. And a landmark sentencing reform bill currently pending in Congress would mandate the use of such assessments in federal prisons.
+
+Two Petty Theft Arrests Vernon Prater Prior Offenses 2 armed robberies, 1 attempted armed robbery Low Risk 3 Subsequent Offenses 1 grand theft Brisha Borden Prior Offenses 4 juvenile misdemeanors High Risk 8 Subsequent Offenses None Borden was rated high risk for future crime after she and a friend took a kid’s bike and scooter that were sitting outside. She did not reoffend.
+
+In 2014, then U.S. Attorney General Eric Holder warned that the risk scores might be injecting bias into the courts. He called for the U.S. Sentencing Commission to study their use. “Although these measures were crafted with the best of intentions, I am concerned that they inadvertently undermine our efforts to ensure individualized and equal justice,” he said, adding, “they may exacerbate unwarranted and unjust disparities that are already far too common in our criminal justice system and in our society.”
+
+The sentencing commission did not, however, launch a study of risk scores. So ProPublica did, as part of a larger examination of the powerful, largely hidden effect of algorithms in American life.
+
+We obtained the risk scores assigned to more than 7,000 people arrested in Broward County, Florida, in 2013 and 2014 and checked to see how many were charged with new crimes over the next two years, the same benchmark used by the creators of the algorithm.
+
+The score proved remarkably unreliable in forecasting violent crime: Only 20 percent of the people predicted to commit violent crimes actually went on to do so.
+
+When a full range of crimes were taken into account — including misdemeanors such as driving with an expired license — the algorithm was somewhat more accurate than a coin flip. Of those deemed likely to re-offend, 61 percent were arrested for any subsequent crimes within two years.
+
+We also turned up significant racial disparities, just as Holder feared. In forecasting who would re-offend, the algorithm made mistakes with black and white defendants at roughly the same rate but in very different ways.
+
+The formula was particularly likely to falsely flag black defendants as future criminals, wrongly labeling them this way at almost twice the rate as white defendants.
+
+White defendants were mislabeled as low risk more often than black defendants.
+
+Could this disparity be explained by defendants’ prior crimes or the type of crimes they were arrested for? No. We ran a statistical test that isolated the effect of race from criminal history and recidivism, as well as from defendants’ age and gender. Black defendants were still 77 percent more likely to be pegged as at higher risk of committing a future violent crime and 45 percent more likely to be predicted to commit a future crime of any kind. (Read our analysis.)
+
+The algorithm used to create the Florida risk scores is a product of a for-profit company, Northpointe. The company disputes our analysis.
+
+In a letter, it criticized ProPublica’s methodology and defended the accuracy of its test: “Northpointe does not agree that the results of your analysis, or the claims being made based upon that analysis, are correct or that they accurately reflect the outcomes from the application of the model.”
+
+Northpointe’s software is among the most widely used assessment tools in the country. The company does not publicly disclose the calculations used to arrive at defendants’ risk scores, so it is not possible for either defendants or the public to see what might be driving the disparity. (On Sunday, Northpointe gave ProPublica the basics of its future-crime formula — which includes factors such as education levels, and whether a defendant has a job. It did not share the specific calculations, which it said are proprietary.)
+
+Northpointe’s core product is a set of scores derived from 137 questions that are either answered by defendants or pulled from criminal records. Race is not one of the questions. The survey asks defendants such things as: “Was one of your parents ever sent to jail or prison?” “How many of your friends/acquaintances are taking drugs illegally?” and “How often did you get in fights while at school?” The questionnaire also asks people to agree or disagree with statements such as “A hungry person has a right to steal” and “If people make me angry or lose my temper, I can be dangerous.”
+
+The appeal of risk scores is obvious: The United States locks up far more people than any other country, a disproportionate number of them black. For more than two centuries, the key decisions in the legal process, from pretrial release to sentencing to parole, have been in the hands of human beings guided by their instincts and personal biases.
+
+If computers could accurately predict which defendants were likely to commit new crimes, the criminal justice system could be fairer and more selective about who is incarcerated and for how long. The trick, of course, is to make sure the computer gets it right. If it’s wrong in one direction, a dangerous criminal could go free. If it’s wrong in another direction, it could result in someone unfairly receiving a harsher sentence or waiting longer for parole than is appropriate.
+
+The first time Paul Zilly heard of his score — and realized how much was riding on it — was during his sentencing hearing on Feb. 15, 2013, in court in Barron County, Wisconsin. Zilly had been convicted of stealing a push lawnmower and some tools. The prosecutor recommended a year in county jail and follow-up supervision that could help Zilly with “staying on the right path.” His lawyer agreed to a plea deal.
+
+But Judge James Babler had seen Zilly’s scores. Northpointe’s software had rated Zilly as a high risk for future violent crime and a medium risk for general recidivism. “When I look at the risk assessment,” Babler said in court, “it is about as bad as it could be.”
+
+Then Babler overturned the plea deal that had been agreed on by the prosecution and defense and imposed two years in state prison and three years of supervision.
+
+Criminologists have long tried to predict which criminals are more dangerous before deciding whether they should be released. Race, nationality and skin color were often used in making such predictions until about the 1970s, when it became politically unacceptable, according to a survey of risk assessment tools by Columbia University law professor Bernard Harcourt.
+
+In the 1980s, as a crime wave engulfed the nation, lawmakers made it much harder for judges and parole boards to exercise discretion in making such decisions. States and the federal government began instituting mandatory sentences and, in some cases, abolished parole, making it less important to evaluate individual offenders.
+
+But as states struggle to pay for swelling prison and jail populations, forecasting criminal risk has made a comeback.
+
+Two Drug Possession Arrests Dylan Fugett Prior Offense 1 attempted burglary Low Risk 3 Subsequent Offenses 3 drug possessions Bernard Parker Prior Offense 1 resisting arrest without violence High Risk 10 Subsequent Offenses None Fugett was rated low risk after being arrested with cocaine and marijuana. He was arrested three times on drug charges after that.
+
+Dozens of risk assessments are being used across the nation — some created by for-profit companies such as Northpointe and others by nonprofit organizations. (One tool being used in states including Kentucky and Arizona, called the Public Safety Assessment, was developed by the Laura and John Arnold Foundation, which also is a funder of ProPublica.)
+
+There have been few independent studies of these criminal risk assessments. In 2013, researchers Sarah Desmarais and Jay Singh examined 19 different risk methodologies used in the United States and found that “in most cases, validity had only been examined in one or two studies” and that “frequently, those investigations were completed by the same people who developed the instrument.”
+
+Their analysis of the research through 2012 found that the tools “were moderate at best in terms of predictive validity,” Desmarais said in an interview. And she could not find any substantial set of studies conducted in the United States that examined whether risk scores were racially biased. “The data do not exist,” she said.
+
+Since then, there have been some attempts to explore racial disparities in risk scores. One 2016 study examined the validity of a risk assessment tool, not Northpointe’s, used to make probation decisions for about 35,000 federal convicts. The researchers, Jennifer Skeem at University of California, Berkeley, and Christopher T. Lowenkamp from the Administrative Office of the U.S. Courts, found that blacks did get a higher average score but concluded the differences were not attributable to bias.
+
+The increasing use of risk scores is controversial and has garnered media coverage, including articles by the Associated Press, and the Marshall Project and FiveThirtyEight last year.
+
+Most modern risk tools were originally designed to provide judges with insight into the types of treatment that an individual might need — from drug treatment to mental health counseling.
+
+“What it tells the judge is that if I put you on probation, I’m going to need to give you a lot of services or you’re probably going to fail,” said Edward Latessa, a University of Cincinnati professor who is the author of a risk assessment tool that is used in Ohio and several other states.
+
+But being judged ineligible for alternative treatment — particularly during a sentencing hearing — can translate into incarceration. Defendants rarely have an opportunity to challenge their assessments. The results are usually shared with the defendant’s attorney, but the calculations that transformed the underlying data into a score are rarely revealed.
+
+“Risk assessments should be impermissible unless both parties get to see all the data that go into them,” said Christopher Slobogin, director of the criminal justice program at Vanderbilt Law School. “It should be an open, full-court adversarial proceeding.”
+
+Black Defendants’ Risk Scores White Defendants’ Risk Scores These charts show that scores for white defendants were skewed toward lower-risk categories. Scores for black defendants were not. (Source: ProPublica analysis of data from Broward County, Fla.)
+
+Proponents of risk scores argue they can be used to reduce the rate of incarceration. In 2002, Virginia became one of the first states to begin using a risk assessment tool in the sentencing of nonviolent felony offenders statewide. In 2014, Virginia judges using the tool sent nearly half of those defendants to alternatives to prison, according to a state sentencing commission report. Since 2005, the state’s prison population growth has slowed to 5 percent from a rate of 31 percent the previous decade.
+
+In some jurisdictions, such as Napa County, California, the probation department uses risk assessments to suggest to the judge an appropriate probation or treatment plan for individuals being sentenced. Napa County Superior Court Judge Mark Boessenecker said he finds the recommendations helpful. “We have a dearth of good treatment programs, so filling a slot in a program with someone who doesn’t need it is foolish,” he said.
+
+However, Boessenecker, who trains other judges around the state in evidence-based sentencing, cautions his colleagues that the score doesn’t necessarily reveal whether a person is dangerous or if they should go to prison.
+
+“A guy who has molested a small child every day for a year could still come out as a low risk because he probably has a job,” Boessenecker said. “Meanwhile, a drunk guy will look high risk because he’s homeless. These risk factors don’t tell you whether the guy ought to go to prison or not; the risk factors tell you more about what the probation conditions ought to be.”
+
+“I’m surprised [my risk score] is so low. I spent five years in state prison in Massachusetts.” (Josh Ritchie for ProPublica)
+
+Sometimes, the scores make little sense even to defendants.
+
+James Rivelli, a 54-year old Hollywood, Florida, man, was arrested two years ago for shoplifting seven boxes of Crest Whitestrips from a CVS drugstore. Despite a criminal record that included aggravated assault, multiple thefts and felony drug trafficking, the Northpointe algorithm classified him as being at a low risk of reoffending.
+
+“I am surprised it is so low,” Rivelli said when told by a reporter he had been rated a 3 out of a possible 10. “I spent five years in state prison in Massachusetts. But I guess they don’t count that here in Broward County.” In fact, criminal records from across the nation are supposed to be included in risk assessments.
+
+Less than a year later, he was charged with two felony counts for shoplifting about $1,000 worth of tools from Home Depot. He said his crimes were fueled by drug addiction and that he is now sober.
+
+Northpointe was founded in 1989 by Tim Brennan, then a professor of statistics at the University of Colorado, and Dave Wells, who was running a corrections program in Traverse City, Michigan.
+
+Wells had built a prisoner classification system for his jail. “It was a beautiful piece of work,” Brennan said in an interview conducted before ProPublica had completed its analysis. Brennan and Wells shared a love for what Brennan called “quantitative taxonomy” — the measurement of personality traits such as intelligence, extroversion and introversion. The two decided to build a risk assessment score for the corrections industry.
+
+Brennan wanted to improve on a leading risk assessment score, the LSI, or Level of Service Inventory, which had been developed in Canada. “I found a fair amount of weakness in the LSI,” Brennan said. He wanted a tool that addressed the major theories about the causes of crime.
+
+Brennan and Wells named their product the Correctional Offender Management Profiling for Alternative Sanctions, or COMPAS. It assesses not just risk but also nearly two dozen so-called “criminogenic needs” that relate to the major theories of criminality, including “criminal personality,” “social isolation,” “substance abuse” and “residence/stability.” Defendants are ranked low, medium or high risk in each category.
+
+Two DUI Arrests Gregory Lugo Prior Offenses 3 DUIs, 1 battery Low Risk 1 Subsequent Offenses 1 domestic violence battery Mallory Williams Prior Offenses 2 misdemeanors Medium Risk 6 Subsequent Offenses None Lugo crashed his Lincoln Navigator into a Toyota Camry while drunk. He was rated as a low risk of reoffending despite the fact that it was at least his fourth DUI.
+
+As often happens with risk assessment tools, many jurisdictions have adopted Northpointe’s software before rigorously testing whether it works. New York State, for instance, started using the tool to assess people on probation in a pilot project in 2001 and rolled it out to the rest of the state’s probation departments — except New York City — by 2010. The state didn’t publish a comprehensive statistical evaluation of the tool until 2012. The study of more than 16,000 probationers found the tool was 71 percent accurate, but it did not evaluate racial differences.
+
+A spokeswoman for the New York state division of criminal justice services said the study did not examine race because it only sought to test whether the tool had been properly calibrated to fit New York’s probation population. She also said judges in nearly all New York counties are given defendants’ Northpointe assessments during sentencing.
+
+In 2009, Brennan and two colleagues published a validation study that found that Northpointe’s risk of recidivism score had an accuracy rate of 68 percent in a sample of 2,328 people. Their study also found that the score was slightly less predictive for black men than white men — 67 percent versus 69 percent. It did not examine racial disparities beyond that, including whether some groups were more likely to be wrongly labeled higher risk.
+
+Brennan said it is difficult to construct a score that doesn’t include items that can be correlated with race — such as poverty, joblessness and social marginalization. “If those are omitted from your risk assessment, accuracy goes down,” he said.
+
+In 2011, Brennan and Wells sold Northpointe to Toronto-based conglomerate Constellation Software for an undisclosed sum.
+
+Wisconsin has been among the most eager and expansive users of Northpointe’s risk assessment tool in sentencing decisions. In 2012, the Wisconsin Department of Corrections launched the use of the software throughout the state. It is used at each step in the prison system, from sentencing to parole.
+
+In a 2012 presentation, corrections official Jared Hoy described the system as a “giant correctional pinball machine” in which correctional officers could use the scores at every “decision point.”
+
+Wisconsin has not yet completed a statistical validation study of the tool and has not said when one might be released. State corrections officials declined repeated requests to comment for this article.
+
+Some Wisconsin counties use other risk assessment tools at arrest to determine if a defendant is too risky for pretrial release. Once a defendant is convicted of a felony anywhere in the state, the Department of Corrections attaches Northpointe’s assessment to the confidential presentence report given to judges, according to Hoy’s presentation.
+
+In theory, judges are not supposed to give longer sentences to defendants with higher risk scores. Rather, they are supposed to use the tests primarily to determine which defendants are eligible for probation or treatment programs.
+
+Prediction Fails Differently for Black Defendants White African American Labeled Higher Risk, But Didn’t Re-Offend 23.5% 44.9% Labeled Lower Risk, Yet Did Re-Offend 47.7% 28.0% Overall, Northpointe’s assessment tool correctly predicts recidivism 61 percent of the time. But blacks are almost twice as likely as whites to be labeled a higher risk but not actually re-offend. It makes the opposite mistake among whites: They are much more likely than blacks to be labeled lower risk but go on to commit other crimes. (Source: ProPublica analysis of data from Broward County, Fla.)
+
+But judges have cited scores in their sentencing decisions. In August 2013, Judge Scott Horne in La Crosse County, Wisconsin, declared that defendant Eric Loomis had been “identified, through the COMPAS assessment, as an individual who is at high risk to the community.” The judge then imposed a sentence of eight years and six months in prison.
+
+Loomis, who was charged with driving a stolen vehicle and fleeing from police, is challenging the use of the score at sentencing as a violation of his due process rights. The state has defended Horne’s use of the score with the argument that judges can consider the score in addition to other factors. It has also stopped including scores in presentencing reports until the state Supreme Court decides the case.
+
+“The risk score alone should not determine the sentence of an offender,” Wisconsin Assistant Attorney General Christine Remington said last month during state Supreme Court arguments in the Loomis case. “We don’t want courts to say, this person in front of me is a 10 on COMPAS as far as risk, and therefore I’m going to give him the maximum sentence.”
+
+That is almost exactly what happened to Zilly, the 48-year-old construction worker sent to prison for stealing a push lawnmower and some tools he intended to sell for parts. Zilly has long struggled with a meth habit. In 2012, he had been working toward recovery with the help of a Christian pastor when he relapsed and committed the thefts.
+
+After Zilly was scored as a high risk for violent recidivism and sent to prison, a public defender appealed the sentence and called the score’s creator, Brennan, as a witness.
+
+Brennan testified that he didn’t design his software to be used in sentencing. “I wanted to stay away from the courts,” Brennan said, explaining that his focus was on reducing crime rather than punishment. “But as time went on I started realizing that so many decisions are made, you know, in the courts. So I gradually softened on whether this could be used in the courts or not.”
+
+“Not that I’m innocent, but I just believe people do change.” (Stephen Maturen for ProPublica)
+
+Still, Brennan testified, “I don’t like the idea myself of COMPAS being the sole evidence that a decision would be based upon.”
+
+After Brennan’s testimony, Judge Babler reduced Zilly’s sentence, from two years in prison to 18 months. “Had I not had the COMPAS, I believe it would likely be that I would have given one year, six months,” the judge said at an appeals hearing on Nov. 14, 2013.
+
+Zilly said the score didn’t take into account all the changes he was making in his life — his conversion to Christianity, his struggle to quit using drugs and his efforts to be more available for his son. “Not that I’m innocent, but I just believe people do change.”
+
+Florida’s Broward County, where Brisha Borden stole the Huffy bike and was scored as high risk, does not use risk assessments in sentencing. “We don’t think the [risk assessment] factors have any bearing on a sentence,” said David Scharf, executive director of community programs for the Broward County Sheriff’s Office in Fort Lauderdale.
+
+Broward County has, however, adopted the score in pretrial hearings, in the hope of addressing jail overcrowding. A court-appointed monitor has overseen Broward County’s jails since 1994 as a result of the settlement of a lawsuit brought by inmates in the 1970s. Even now, years later, the Broward County jail system is often more than 85 percent full, Scharf said.
+
+In 2008, the sheriff’s office decided that instead of building another jail, it would begin using Northpointe’s risk scores to help identify which defendants were low risk enough to be released on bail pending trial. Since then, nearly everyone arrested in Broward has been scored soon after being booked. (People charged with murder and other capital crimes are not scored because they are not eligible for pretrial release.)
+
+The scores are provided to the judges who decide which defendants can be released from jail. “My feeling is that if they don’t need them to be in jail, let’s get them out of there,” Scharf said.
+
+Two Shoplifting Arrests James Rivelli Prior Offenses 1 domestic violence aggravated assault, 1 grand theft, 1 petty theft, 1 drug trafficking Low Risk 3 Subsequent Offenses 1 grand theft Robert Cannon Prior Offense 1 petty theft Medium Risk 6 Subsequent Offenses None After Rivelli stole from a CVS and was caught with heroin in his car, he was rated a low risk. He later shoplifted $1,000 worth of tools from a Home Depot.
+
+Scharf said the county chose Northpointe’s software over other tools because it was easy to use and produced “simple yet effective charts and graphs for judicial review.” He said the system costs about $22,000 a year.
+
+In 2010, researchers at Florida State University examined the use of Northpointe’s system in Broward County over a 12-month period and concluded that its predictive accuracy was “equivalent” in assessing defendants of different races. Like others, they did not examine whether different races were classified differently as low or high risk.
+
+Scharf said the county would review ProPublica’s findings. “We’ll really look at them up close,” he said.
+
+Broward County Judge John Hurley, who oversees most of the pretrial release hearings, said the scores were helpful when he was a new judge, but now that he has experience he prefers to rely on his own judgment. “I haven’t relied on COMPAS in a couple years,” he said.
+
+Hurley said he relies on factors including a person’s prior criminal record, the type of crime committed, ties to the community, and their history of failing to appear at court proceedings.
+
+ProPublica’s analysis reveals that higher Northpointe scores are slightly correlated with longer pretrial incarceration in Broward County. But there are many reasons that could be true other than judges being swayed by the scores — people with higher risk scores may also be poorer and have difficulty paying bond, for example.
+
+Most crimes are presented to the judge with a recommended bond amount, but he or she can adjust the amount. Hurley said he often releases first-time or low-level offenders without any bond at all.
+
+However, in the case of Borden and her friend Sade Jones, the teenage girls who stole a kid’s bike and scooter, Hurley raised the bond amount for each girl from the recommended $0 to $1,000 each.
+
+Hurley said he has no recollection of the case and cannot recall if the scores influenced his decision.
+
+Sade Jones, who had never been arrested before, was rated a medium risk. (Josh Ritchie for ProPublica)
+
+The girls spent two nights in jail before being released on bond.
+
+“We literally sat there and cried” the whole time they were in jail, Jones recalled. The girls were kept in the same cell. Otherwise, Jones said, “I would have gone crazy.” Borden declined repeated requests to comment for this article.
+
+Jones, who had never been arrested before, was rated a medium risk. She completed probation and got the felony burglary charge reduced to misdemeanor trespassing, but she has still struggled to find work.
+
+“I went to McDonald’s and a dollar store, and they all said no because of my background,” she said. “It’s all kind of difficult and unnecessary.”
+
+Julia Angwin is a senior reporter at ProPublica. From 2000 to 2013, she was a reporter at The Wall Street Journal, where she led a privacy investigative team that was a finalist for a Pulitzer Prize in Explanatory Reporting in 2011 and won a Gerald Loeb Award in 2010.. Predicting the future is not only the provenance of fortune tellers or media pundits. Predictive algorithms, based on extensive datasets and statistics have overtaken wholesale and retail operations as any online shopper knows. And in the last few years algorithms, are used to automate decision making for bank loans, school admissions, hiring and infamously in predicting recidivism – the probability that a defendant will commit another crime in the next two years.
+
+COMPAS, which stands for Correctional Offender Management Profiling for Alternative Sanctions, is such a program and was singled out by ProPublica earlier this year as being racially biased. COMPAS utilizes 137 variables in its proprietary and unpublished scoring algorithm; race is not one of those variables. ProPublica used a dataset of defendants in Broward County, Florida. The data included demographics, criminal history, a COMPAS score [1] and the criminal actions in the subsequent two years. ProPublica then crosslinked this data with the defendants’ race. Their findings are generally accepted by all sides
+
+COMPAS is moderately accurate in identifying white and black recidivism about 60% of the time.
+
+COMPAS’s errors reflect apparent racial bias. Blacks are more often wrongly identified as recidivist risks (statistically a false positive) and whites more often erroneously identified as not being a risk (a false negative).
+
+The “penalty” for being misclassified as a higher risk is more likely to be stiffer punishment. Being misclassified as a lower risk is like a “Get out of jail” card.
+
+As you might anticipate, significant controversy followed couched mostly in an academic fight over which statistical measures or calculations more accurately depicted the bias. A study in Science Advances revisits the discussion and comes to a different conclusion.
+
+The study
+
+In the current study, assessment by humans was compared to that of COMPAS using that Broward County dataset. The humans were found on Amazon’s Mechanical Turk [2], paid a dollar to participate and a $5 bonus if they were accurate more than 60% of the time.
+
+Humans were just as accurate as the algorithm (62 vs. 65%)
+
+The errors by the algorithm and humans were identical, overpredicting (false positives) recidivism for black defendants and underpredicting (false negatives) for white defendants.
+
+Humans COMPAS Black % White % Black % White % Accuracy* 68.2 67.6 64.9 65.7 False Positives 37.1 27.2 40.4 25.4 False Negatives 29.2 40.3 30.9 47.9
+
+* Accuracy is the sum of true positives and true negatives statistically speaking
+
+The human assessors used only seven variables, not the 137 of COMPAS. [3] This suggests that the algorithm was needlessly complex at least in deciding recidivism risk. In fact, the researchers found that just two variables, defendant age, and the number of prior convictions was as accurate as COMPAS’s predictions.
+
+Of more significant interest is the finding that when human assessors were given the additional information regarding defendant race it had no impact. They were just as accurate and demonstrated the same racial disparity in false positives and negatives. Race was an associated confounder, but it was not the cause of the statistical difference. ProPublica’s narrative of racial bias was incorrect.
+
+Algorithms are statistical models involving choices. If you optimize to find all the true positives, your false positives will increase. Lower your false positive rate and the false negatives increase. Do we want to incarcerate more or less? The MIT Technology Review puts it this way.
+
+“Are we primarily interested in taking as few chances as possible that someone will skip bail or re-offend? What trade-offs should we make to ensure justice and lower the massive social costs of imprisonment?”
+
+COMPAS is meant to serve as a decision aid. The purpose of the 137 variables is to create a variety of scales depicting substance abuse, environment, criminal opportunity, associates, etc. Its role is to assist the humans of our justice system in determining an appropriate punishment. [4] None of the studies, to my knowledge, looked at the sentences handed down. The current research ends as follows:
+
+“When considering using software such as COMPAS in making decisions that will significantly affect the lives and well-being of criminal defendants, it is valuable to ask whether we would put these decisions in the hands of random people who respond to an online survey because, in the end, the results from these two approaches appear to be indistinguishable.”
+
+The answer is no. COMPAS and similar algorithms are tools, not a replacement FOR human judgment. They facilitate but do not automate. ProPublica is correct when saying algorithmic decisions need to be understood by their human users and require continuous validation and refinement. But ProPublica’s narrative, that evil forces were responsible for a racially biased algorithm are not true.
+
+[1] COMPAS is scored on a 1 to 10 scale, with scores greater than 8 being at high risk for repeat offenders
+
+[2] Amazon's Mechanical Turk is a crowd-sourced marketplace for human assistance. In this case for people to participate in a survey.
+
+[3] The variables were gender, age, criminal charge, misdemeanor or felony, prior adult convictions and prior juvenile felony and misdemeanor charges.
+
+[4] As the COMPAS manual states: “Criminal justice agencies across the nation use COMPAS to inform decisions regarding the placement, supervision and case management of offenders.” [Emphasis added]
+
+Source: The accuracy, fairness and limits of predicting recidivism Science Advances 2018. For years, the criminal justice community has been worried. Courts across the country are assigning bond amounts sentencing the accused based on algorithms, and both lawyers and data scientists warn that these algorithms could be poisoned by the prejudices these systems were designed to escape.
+
+Until now, that concern was pure speculation. Now, we know the truth.
+
+An investigation published Monday morning by ProPublica analyzed the results of thousands of sentences handed out by algorithms, and found that these formulas are easier on white defendants, even when race is isolated as a factor.
+
+"The formula was particularly likely to falsely flag black defendants as future criminals, wrongly labeling them this way at almost twice the rate as white defendants," the investigative team wrote.
+
+Brendan Smialowski/Getty Images
+
+The algorithms don't take race directly into account, but instead use data that stands in for correlative information that could stand in as a proxy. The Florida algorithm evaluated in the report is based on 137 questions, such as "Was one of your parents ever sent to jail or prison?" and "How many of your friends/acquaintances are taking drugs illegally?"
+
+Those two questions, for example, can appear to evaluate someone's empirical risk of criminality, but instead, they target those already living under institutionalized poverty and over-policing. Predominantly, those people are people of color.
+
+"[Punishment] profiling sends the toxic message that the state considers certain groups of people dangerous based on their identity," University of Michigan law professor Sonja Starr wrote in the New York Times in 2014. "It also confirms the widespread impression that the criminal justice system is rigged against the poor."
+
+The algorithm itself, of course, was not available for audit. Algorithms that inform decisions in the public sector are often developed and protected by private companies — Northpointe, a for-profit company that created the algorithm examined by ProPublica, told ProPublica that it does not agree with the results of the analysis. It "accurately reflect the outcomes" of its product, Northpointe said.
+
+ProPublica
+
+But the controversy over sentencing is just one early instance of a growing conversation about bias in the algorithms that decide everything from what news we see to how and where we travel.
+
+It's time to talk about algorithms: Algorithms seem impervious from the insidious influence of racism and prejudice, human innovations that can unconsciously creep into our fallible decision-making processes. Evaluations that come from algorithms imply that the results are scientific — spat out by a cold computer working only with evidence. The process of sentencing by algorithms is even formally referred to as "evidence-based sentencing."
+
+"Scores give us simplistic ways of thinking that are very hard to resist," Cathy O'Neil, a data scientist and author of the upcoming book Weapons of Math Destruction, said by phone. "If you assign people scores and someone has a low score, it's human nature to assign blame to that person, even if that score just means they were born in a poor neighborhood."
+
+AFP/Getty Images
+
+But just because algorithms are mathematical in nature, doesn't mean they're free from human bias. Algorithms spot and amplify patterns in human behavior, and they do it by looking at the data created by human behavior. Predictive policing algorithms that help police chiefs assign their patrols rely on crime statistics and records generated by police behavior, eventually amplifying the prejudicial behaviors that led to that data in the first place.
+
+As more news emerges of bias in algorithms — whether it's the potential anti-conservative bias of Facebook's news algorithm or pricing schemes that charge Asian communities more for SAT tutoring — the world is further disavowed of the idea that algorithms can't be as skewed as human reasoning.
+
+Often, they are skewed in precisely the same way we are.. Open up the photo app on your phone and search “dog,” and all the pictures you have of dogs will come up. This was no easy feat. Your phone knows what a dog “looks” like.
+
+This modern-day marvel is the result of machine learning, a form of artificial intelligence. Programs like this comb through millions of pieces of data and make correlations and predictions about the world. Their appeal is immense: Machines can use cold, hard data to make decisions that are sometimes more accurate than a human’s.
+
+But machine learning has a dark side. If not used properly, it can make decisions that perpetuate the racial biases that exist in society. It’s not because the computers are racist. It’s because they learn by looking at the world as the way it is, not as it ought to be.
+
+Recently, newly elected Rep. Alexandria Ocasio-Cortez (D-NY) made this point in a discussion at a Martin Luther King Jr. Day event in New York City.
+
+“Algorithms are still made by human beings, and those algorithms are still pegged to basic human assumptions,” she told writer Ta-Nehisi Coates at the annual MLK Now event. “They’re just automated assumptions. And if you don’t fix the bias, then you are just automating the bias.”
+
+The next day, the conservative website the Daily Wire derided the comments.
+
+But Ocasio-Cortez is right, and it’s worth reflecting on why.
+
+If we’re not careful, AI will perpetuate bias in our world. Computers learn how to be racist, sexist, and prejudiced in a similar way that a child does, as computer scientist Aylin Caliskan, now at George Washington University, told me in a 2017 interview. The computers learn from their creators — us.
+
+“Many people think machines are not biased,” Caliskan, who was at Princeton at the time, said. “But machines are trained on human data. And humans are biased.”
+
+We think artificial intelligence is impartial. Often, it’s not.
+
+Nearly all new consumer technologies use machine learning in some way. Take Google Translate: No person instructed the software to learn how to translate Greek to French and then to English. It combed through countless reams of text and learned on its own. In other cases, machine learning programs make predictions about which résumés are likely to yield successful job candidates, or how a patient will respond to a particular drug.
+
+Machine learning is a program that sifts through billions of data points to solve problems (such as “can you identify the animal in the photo”), but it doesn’t always make clear how it has solved the problem. And it’s increasingly clear these programs can develop biases and stereotypes without us noticing.
+
+In 2016, ProPublica published an investigation on a machine learning program that courts use to predict who is likely to commit another crime after being booked. The reporters found that the software rated black people at a higher risk than whites.
+
+“Scores like this — known as risk assessments — are increasingly common in courtrooms across the nation,” ProPublica explained. “They are used to inform decisions about who can be set free at every stage of the criminal justice system, from assigning bond amounts … to even more fundamental decisions about defendants’ freedom.”
+
+The program learned about who is most likely to end up in jail from real-world incarceration data. And historically, the real-world criminal justice system has been unfair to black Americans.
+
+This story reveals a deep irony about machine learning. The appeal of these systems is they can make impartial decisions, free of human bias. “If computers could accurately predict which defendants were likely to commit new crimes, the criminal justice system could be fairer and more selective about who is incarcerated and for how long,” ProPublica wrote.
+
+But what happened was that machine learning programs perpetuated our biases on a large scale. So instead of a judge being prejudiced against African Americans, it was a robot.
+
+Other cases are more ambiguous. In China, researchers paired facial recognition technology with machine learning to look at driver’s license photos and predict who is a criminal. It purported to have an accuracy of 89.5 percent.
+
+Many experts were extremely skeptical of the findings. Which facial features were this program picking up on for the analysis? Was it the physical features of certain ethnic groups that are discriminated against in the justice system? Is it picking up on the signs of a low-socioeconomic upbringing that may leave lasting impressions on our faces?
+
+It can be hard to know. (Scarier: There’s one startup called Faception that claims it can detect terrorists or pedophiles just by looking at faces.)
+
+“You got the algorithms which are super powerful, but just as important is what kind of data you feed the algorithms to teach them to discriminate,” Princeton psychologist and facial perception expert Alexander Todorov told me in a 2017 interview, while discussing a controversial paper on using machine learning to predict sexual orientation from faces. “If you feed it with crap, it will spit out crap in the end.”
+
+It’s stories like the ProPublica investigation that led Caliskan to research this problem. As a female computer scientist who was routinely the only woman in her graduate school classes, she’s sensitive to this subject.
+
+She has seen bias creep into machine learning in often subtle ways — for instance, in Google Translate.
+
+Turkish, one of her native languages, has no gender pronouns. But when she uses Google Translate on Turkish phrases, it “always ends up as ‘he’s a doctor’ in a gendered language,” she said. The Turkish sentence didn’t say whether the doctor was male or female. The computer just assumed if you’re talking about a doctor, it’s a man.
+
+How robots learn implicit bias
+
+In 2017, Caliskan and colleagues published a paper in Science that finds as a computer teaches itself English, it becomes prejudiced against black Americans and women.
+
+Basically, they used a common machine learning program to crawl through the internet, look at 840 billion words, and teach itself the definitions of those words. The program accomplishes this by looking for how often certain words appear in the same sentence. Take the word “bottle.” The computer begins to understand what the word means by noticing it occurs more frequently alongside the word “container,” and near words that connote liquids like “water” or “milk.”
+
+This idea to teach robots English actually comes from cognitive science and its understanding of how children learn language. How frequently two words appear together is the first clue we get in deciphering their meaning.
+
+Once the computer amassed its vocabulary, Caliskan ran it through a version of the implicit association test.
+
+In humans, the IAT is meant to undercover subtle biases in the brain by seeing how long it takes people to associate words. A person might quickly connect the words “male” and “engineer.” But if a person lags on associating “woman” and “engineer,” it’s a demonstration that those two terms are not closely associated in the mind, implying bias.
+
+Here, instead of looking at the lag time, Caliskan looked at how closely the computer thought two terms were related. She found that African-American names in the program were less associated with the word “pleasant” than white names. And female names were more associated with words relating to family than male names. (There are some reliability issues with the IAT in humans, which you can read about here. In a weird way, the IAT might be better suited to use on computer programs than for humans, because humans answer its questions inconsistently while a computer will yield the same answer every single time.)
+
+Like a child, a computer builds its vocabulary through how often terms appear together. On the internet, African-American names are more likely to be surrounded by words that connote unpleasantness. That’s not because African Americans are unpleasant. It’s because people on the internet say awful things. And it leaves an impression on our young AI.
+
+This is as big as a problem as you think.
+
+The consequences of racist, sexist AI
+
+Increasingly, Caliskan said, job recruiters are relying on machine learning programs to take a first pass at résumés. And if left unchecked, the programs can learn and act on gender stereotypes in their decision-making.
+
+“Let’s say a man is applying for a nurse position; he might be found less fit for that position if the machine is just making its own decisions,” she said. “And this might be the same for a woman applying for a software developer or programmer position. … Almost all of these programs are not open source, and we’re not able to see what’s exactly going on. So we have a big responsibility about trying to uncover if they are being unfair or biased.”
+
+And that will be a challenge in the future. Already, AI is making its way into the health care system, helping doctors find the right course of treatment for their patients. (There’s early research on whether it can help predict mental health crises.)
+
+But health data, too, is filled with historical bias. It’s long been known that women get surgery at lower rates than men. One reason is that women, as primary caregivers, have fewer people to take care of them post-surgery.
+
+Might AI then recommend surgery at a lower rate for women? It’s something to watch out for.
+
+So are these programs useless?
+
+Inevitably, machine learning programs are going to encounter historical patterns that reflect racial or gender bias. And it can be hard to draw the line between what is bias and what is just a fact about the world.
+
+Machine learning programs will pick up on the fact that most nurses throughout history have been women. They’ll realize most computer programmers are male. “We’re not suggesting you should remove this information,” Caliskan said. It might actually break the software completely.
+
+Instead, Caliskan thinks there need to be more safeguards. Humans using these programs need to constantly ask, “Why am I getting these results?” and check the output of these programs for bias. They need to think hard on whether the data they are combing is reflective of historical prejudices. Caliskan admits the best practices of how to combat bias in AI are still being worked out. “It requires a long-term research agenda for computer scientists, ethicist, sociologists, and psychologists,” she said.
+
+But at the very least, the people who use these programs should be aware of these problems, and not take for granted that a computer can produce a less biased result than a human.
+
+And overall, it’s important to remember: AI learns about how the world has been. It picks up on status quo trends. It doesn’t know how the world ought to be. That’s up to humans to decide.. One of my most treasured possessions is The Art of Computer Programming by Donald Knuth, a computer scientist for whom the word “legendary” might have been coined. In a way, one could think of his magnum opus as an attempt to do for computer science what Russell’s and Whitehead’s Principia Mathematica did for mathematics – ie to get back to the basics of the field and check out its foundational elements.
+
+In computer science, one of those foundational elements is the algorithm – a self-contained, step-by-step set of operations to be performed, usually by a computer. Algorithms are a bit like the recipes we use in cooking, but they need to be much more precise because they have to be implemented by stupid, literal-thinking devices called computers.
+
+Algorithms are the building blocks of all computer programs and Knuth’s masterpiece is devoted to their analysis. Are they finite (ie terminating after a finite number of steps)? Is each step precisely defined? What are its input and output? And is the algorithm effective? In the broad sweep of his magisterial inquiry, however, there is one question that Knuth never asks of an algorithm: what are its ethical implications?
+
+One in three black men can expect to be incarcerated (compared with one in six Latinos and one in 17 whites)
+
+That’s not a criticism, by the way. Such questions weren’t relevant to his project, which was to get computer science on to a solid foundation. Besides, he was writing in the 1960s when the idea that computers might have profound social, economic and political impacts was not on anybody’s radar. The thought that we would one day live in an “information society” that was comprehensively dependent on computers would have seemed fanciful to most people.
+
+But that society has come to pass, and suddenly the algorithms that are the building blocks of this world have taken on a new significance because they have begun to acquire power over our everyday lives. They determine whether we can get a bank loan or a mortgage, and on what terms, for example; whether our names go on no-fly lists; and whether the local cops regard one as a potential criminal or not.
+
+To take just one example, judges, police forces and parole officers across the US are now using a computer program to decide whether a criminal defendant is likely to reoffend or not. The basic idea is that an algorithm is likely to be more “objective” and consistent than the more subjective judgment of human officials. The algorithm in question is called Compas (Correctional Offender Management Profiling for Alternative Sanctions). When defendants are booked into jail, they respond to a Compas questionnaire and their answers are fed into the software to generate predictions of “risk of recidivism” and “risk of violent recidivism”.
+
+It turns out that the algorithm is fairly good at predicting recidivism and less good at predicting the violent variety. So far, so good. But guess what? The algorithm is not colour blind. Black defendants who did not reoffend over a two-year period were nearly twice as likely to be misclassified as higher risk compared with their white counterparts; white defendants who reoffended within the next two years had been mistakenly labelled low risk almost twice as often as black reoffenders.
+
+View image in fullscreen Donald Knuth (left), who tackled algorithms in the 1960s in The Art of Computer Programming. Photograph: Bettmann Archive
+
+We know this only because the ProPublica website undertook a remarkable piece of investigative reporting. Via a freedom of information request, the journalists obtained the Compas scores of nearly 12,000 offenders in Florida and then built a profile of each individual’s criminal history both before and after they were scored. The results of the analysis are pretty clear. If you’re black, the chances of being judged a potential reoffender are significantly higher than if you’re white. And yet those algorithmic predictions are not borne out by evidence.
+
+A cynic might say that this is no surprise: racism runs through the US justice system like the message in a stick of rock. One in three black men can expect to be incarcerated in his lifetime (compared with one in six Latinos and one in 17 whites). That should be an argument for doing assessments and predictions using an algorithm rather than officials who may be prejudiced. And yet this analysis of the Compas system suggests that even the machine has a racial bias.
+
+The big puzzle is how the bias creeps into the algorithm. We might be able to understand how if we could examine it. But most of these algorithms are proprietary and secret, so they are effectively “black boxes” – virtual machines whose workings are opaque. Yet the software inside them was written by human beings, most of whom were probably unaware that their work now has an important moral dimension. Perhaps Professor Knuth’s next book should be The Ethics of Computer Programming.. The COMPAS tool is widely used to assess a defendant’s risk of committing more crimes, but a new study puts its usefulness into perspective.
+
+In February 2013, Eric Loomis was found driving a car that had been used in a shooting. He was arrested, and pleaded guilty to eluding an officer. In determining his sentence, a judge looked not just to his criminal record, but also to a score assigned by a tool called COMPAS.
+
+Developed by a private company called Equivant (formerly Northpointe), COMPAS—or the Correctional Offender Management Profiling for Alternative Sanctions—purports to predict a defendant’s risk of committing another crime. It works through a proprietary algorithm that considers some of the answers to a 137-item questionnaire.
+
+COMPAS is one of several such risk-assessment algorithms being used around the country to predict hot spots of violent crime, determine the types of supervision that inmates might need, or—as in Loomis’s case—provide information that might be useful in sentencing. COMPAS classified him as high-risk of re-offending, and Loomis was sentenced to six years.
+
+He appealed the ruling on the grounds that the judge, in considering the outcome of an algorithm whose inner workings were secretive and could not be examined, violated due process. The appeal went up to the Wisconsin Supreme Court, who ruled against Loomis, noting that the sentence would have been the same had COMPAS never been consulted. Their ruling, however, urged caution and skepticism in the algorithm’s use.
+
+Caution is indeed warranted, according to Julia Dressel and Hany Farid from Dartmouth College. In a new study, they have shown that COMPAS is no better at predicting an individual’s risk of recidivism than random volunteers recruited from the internet.
+
+“Imagine you’re a judge and your court has purchased this software; the people behind it say they have big data and algorithms, and their software says the defendant is high-risk,” says Farid. “Now imagine I said: Hey, I asked 20 random people online if this person will recidivate and they said yes. How would you weight those two pieces of data? I bet you’d weight them differently. But what we’ve shown should give the courts some pause.” (A spokesperson from Equivant declined a request for an interview.)
+
+COMPAS has attracted controversy before. In 2016, the technology reporter Julia Angwin and colleagues at ProPublica analyzed COMPAS assessments for more than 7,000 arrestees in Broward County, Florida, and published an investigation claiming that the algorithm was biased against African Americans. The problems, they said, lay in the algorithm’s mistakes. “Blacks are almost twice as likely as whites to be labeled a higher risk but not actually re-offend,” the team wrote. And COMPAS “makes the opposite mistake among whites: They are much more likely than blacks to be labeled lower-risk but go on to commit other crimes.”
+
+Northpointe questioned ProPublica’s analysis, as did various academics. They noted, among other rebuttals, that the program correctly predicted recidivism in both white and black defendants at similar rates. For any given score on COMPAS’s 10-point scale, white and black people are just as likely to re-offend as each other. Others have noted that this debate hinges on one’s definition of fairness, and that it’s mathematically impossible to satisfy the standards set by both Northpointe and ProPublica—a story at The Washington Post clearly explains why.
+
+The debate continues, but when Dressel read about it, she realized that it masked a different problem. “There was this underlying assumption in the conversation that the algorithm’s predictions were inherently better than human ones,” she says, “but I couldn’t find any research proving that.” So she and Farid did their own.
+
+They recruited 400 volunteers through a crowdsourcing site. Each person saw short descriptions of defendants from ProPublica’s investigation, highlighting seven pieces of information. Based on that, they had to guess if the defendant would commit another crime within two years.
+
+On average, they got the right answer 63 percent of their time, and the group’s accuracy rose to 67 percent if their answers were pooled. COMPAS, by contrast, has an accuracy of 65 percent. It’s barely better than individual guessers, and no better than a crowd. “These are nonexperts, responding to an online survey with a fraction of the amount of information that the software has,” says Farid. “So what exactly is software like COMPAS doing?”
+
+Only Equivant can say, and they’re not revealing the secrets of their algorithm. So the duo developed their own algorithm, and made it as simple as possible—“the kind of thing you teach undergrads in a machine-learning course,” says Farid. They found that this training-wheels algorithm could perform just as well as COMPAS, with an accuracy of 67 percent, even when using just two pieces of data—a defendant’s age, and their number of previous convictions. “If you are young and have a lot of prior convictions, you are high-risk,” says Farid. “It’s kind of obvious.”
+
+Other teams have found similar results. Last year, a team of researchers led by Cynthia Rudin from Duke University showed that a basic set of rules based on a person’s age, sex, and prior convictions—essentially, an algorithm so simple you could write it on a business card—could predict recidivism as well as COMPAS.
+
+The problem isn’t necessarily that COMPAS is unsophisticated, says Farid, but that it has hit a ceiling in sophistication. When he and Dressel designed more complicated algorithms, they never improved on the bare-bones version that used just age and prior convictions. “It suggests not that the algorithms aren’t sophisticated enough, but that there’s no signal,” he says. Maybe this is just as good as it gets. Maybe the whole concept of predicting recidivism is going to stall at odds that are not that much better than a coin toss.
+
+Sharad Goel, from Stanford University, sees it a little differently. He notes that judges in the real world have access to far more information than the volunteers in Dressel and Farid’s study, including witness testimonies, statements from attorneys, and more. Paradoxically, that informational overload can lead to worse results by allowing human biases to kick in. Simple sets of rules can often lead to better risk assessments—something that Goel found in his own work. Hence the reasonable accuracy of Dressel and Farid’s volunteers, based on just seven pieces of information.
+
+“That finding should not be interpreted as meaning that risk-assessment tools add no value,” says Goel. Instead, the message is “when you tell people to focus on the right things, even nonexperts can compete with machine-learning algorithms.”
+
+Equivant make a similar point in a response to Dressel and Farid’s study, published on Wednesday. “The findings of ‘virtually equal predictive accuracy’ in this study,” the statement says, “instead of being a criticism of the COMPAS assessment, actually adds to a growing number of independent studies that have confirmed that COMPAS achieves good predictability and matches the increasingly accepted AUC standard of 0.70 for well-designed risk assessment tools used in criminal justice.”
+
+There have been several studies showing that algorithms can be used to positive effect in the criminal-justice system. “We’re not saying you shouldn’t use them,” says Farid. “We’re saying you should understand them. You shouldn’t need people like us to say: This doesn’t work. You should have to prove that something works before hinging people’s lives on it.”
+
+“Before we even get to fairness, we need to make sure that these tools are accurate to begin with,” adds Dressel. “If not, then they’re not fair to anyone.”. Computer programs that perform risk assessments of crime suspects are increasingly common in American courtrooms, and are used at every stage of the criminal justice systems to determine who may be set free or granted parole, and the size of the bond they must pay. By 2016, the results of these assessments were given to judges during criminal sentencing and a sentencing reform bill was proposed in Congress to mandate the use of such assessments in federal prisons. In a study of the risk scores assigned to more than 7,000 people in Florida's Broward County in 2013 and 2014, ProPublica found that only 20% of the people the system predicted would commit violent crimes had actually done so. For the full range of crimes including misdemeanours, 61% of those predicted to re-offend were arrested for later crimes over the following two years.
+
+ProPublic also found significant racial disparities. Although the algorithm made errors at roughly the same rate for black and white defendants, it incorrectly labelled black defendants as likely to commit further crimes at twice the reats as white defendants. Conversely, white defendants were mislabelled as low risk more often than black defendants. Northpointe, the company that produced the system, known as COMPAS, disputed ProPublic's analysis but declined to share its calculations, which the company said were proprietary. However, it did disclose that the basics of its formula included factors such as education levels and employment status among the 137 questions that are either answered by defendants or extracted from criminal records. These tools have been rolled out in many areas before they have been rigorously evaluated, and defendants are rarely able to find out the basis for the scores they're assigned.
+
+https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+
+Writer: Julia Angwin, Jeff Larson, Surya Mattu, Lauren Kirchner
+
+Publication: ProPublica
+
+. Imagine you were found guilty of a crime and were waiting to learn your sentence. Would you rather have your sentence determined by a computer algorithm, which dispassionately weights factors that predict your future risk of crime (such as age or past arrests) or by the subjective assessment of a judge? And would that choice change if you were a different race?
+
+Technology is often held up as a way to reduce racial disparities in the criminal justice system. If existing disparities are due at least in part to the racial biases of witnesses, police, and judges, then replacing some human judgments with computer algorithms that estimate crime risk could produce a fairer system. But might those algorithms also exhibit racial bias? This is a good question, but not one that’s easy to answer using existing data.
+
+A ProPublica story in May claimed that the risk scores calculated by the private firm NorthPointe are plagued by racial bias, systematically giving higher risk scores to blacks than to otherwise similar whites. If true, this is an important problem, as courts all over the country use risk scores to determine bail, sentencing, parole, and more. This study has received considerable media attention and was even cited by the Wisconsin Supreme Court in a legal decision limiting the use of risk assessments. Yet it contains several important errors of reasoning which call the conclusions into doubt.
+
+The ProPublica study cites a disparity in “false-positive rates” as evidence of racial bias: black defendants who did not reoffend were more likely to have been classified as high risk than white defendants. As noted in NorthPointe’s response, and explained in a recent column by Robert Verbruggen, these statistics are dangerously misleading. Any group that has higher recidivism rates (and therefore higher risk scores, on average) will mechanically have a higher false positive rate, even if the risk score is completely unbiased.
+
+(The basic intuition is this: the false positive rate is the number of people labeled high risk who don’t reoffend divided by the total number of people who do not reoffend. In a group with high recidivism rates, the numerator will be larger because the pool of people labeled high risk is bigger and the denominator will be smaller because there are fewer people who do not reoffend. The result is that the ratio of these numbers is always larger than it is for low-recidivism groups.)
+
+It seems counterintuitive, but disparities in false positives don’t tell us anything about racial disparities in the algorithm. Disparate false-positive rates will be present every time there are disparate rates of reoffending, regardless of racial bias and regardless of whether the risk score is made by a computer algorithm or by the subjective assessment of a judge.
+
+However, even if we look at the correct set of numbers, we face a bigger problem: risk scores influence sentencing, and sentencing influences recidivism. Consider a defendant who is ordered by the courts to undergo substance abuse counseling due to his high risk score. If he doesn’t reoffend is this because the risk score was wrong—or because the substance abuse counseling was effective? Consider a second defendant who received a prison sentence as a result of her high risk score. If she doesn’t reoffend is this because the risk score was wrong—or because she was in prison until she was too old for crime? Recidivism rates do not tell us what a person’s propensity to commit another crime wasat the time the risk score was calculated. And therefore they have limited use in determining the accuracy of those scores. A very nice paper by Shawn Bushway and Jeffrey Smith makes this point at length.
+
+While methodological issues call ProPublica’s conclusions into question, potential racial bias in risk assessment remains an important issue. Close to 20 states are using risk assessment to help determine sentencing in at least some jurisdictions, and risk assessments in bail and parole are even more common. Considering that many of the inputs to risk assessments, such as past arrests, are subject to racially disparate policing practices, it would not be surprising if risk scores carried some of this bias over. These are complicated issues, and scholars such as Richard Berk and Sandra Mayson provide deeper analysis on how we should think of fairness and justice in risk assessment. But one of the most important policy questions is simple: do risk assessments increase or decrease racial disparities compared to the subjective decisions of judges?
+
+An ideal approach to answering this question would be an experiment in which some judges are randomly assigned to use risk assessments as part of their decisions (their defendants are the treatment group), and some judges to operate as before (their defendants are the control group). We could then compare racial discrepancies in sentencing for the treatment group and the control group, to determine the effect of incorporating risk assessment scores in the decision-making process. We could use the same method to consider this policy tool’s effects on recidivism, incarceration rates, and any other outcomes we care about.
+
+The expanding role of technology in criminal justice deserves a hard look and vigorous debate. But condemning risk assessments as racist based on weak evidence does nothing to advance the cause of racial equality.. Although crime rates have fallen steadily since the 1990s, rates of recidivism remain a factor in the areas of both public safety and prisoner management. The National Institute of Justice defines recidivism as “criminal acts that resulted in rearrest, re-conviction or return to prison with or without a new sentence,” and with over 75 percent of released prisoners rearrested within five years, it’s apparent there’s room for improvement. In an effort to streamline sentencing, reduce recidivism and increase public safety, private companies have developed criminal justice algorithms for use in the courtroom. These tools — sometimes called “risk assessments” — aim to recommend sentence length and severity specific to each defendant based on a set of proprietary formulae. Unfortunately, the algorithms’ proprietary nature means that neither attorneys nor the general public have access to information necessary to understand or defend against these assessments.
+
+There are dozens of these algorithms currently in use at federal and state levels across the nation. One of the most controversial, the Correctional Offender Management Profiling for Alternative Sanctions or COMPAS, made headlines in 2016 when defendant Eric Loomis received a six-year sentence for reckless endangerment, eluding police, driving a car without the owner’s consent, possession of firearm, probation violation and resisting arrest — a sentence partially based on his COMPAS score. Loomis, a registered sex offender, challenged the verdict, claiming COMPAS violated his constitutional right of due process because he could not mount a proper challenge. His argument was two-fold: that the proprietary nature of the formula denied him and his defense team access to his data, and that COMPAS takes into account race and gender when predicting outcomes, which constitutes bias. His case was denied by the lower court, but Loomis refused to back down, instead appealing to the Wisconsin Supreme Court.
+
+In July of 2016, a unanimous decision by the Wisconsin Supreme Court upheld the state’s decision to use automated programs to determine sentencing. In her opinion, Justice Ann Walsh Bradley wrote: “Although it cannot be determinative, a sentencing court may use a COMPAS risk assessment as a relevant factor for such matters as: (1) diverting low-risk prison-bound offenders to a non-prison alternative; (2) assessing whether an offender can be supervised safely and effectively in the community; and (3) imposing terms and conditions of probation, supervision, and responses to violations.” In response to Loomis’ contention that race and particularly gender can skew results and interfere with due process, Bradley further explained that “considering gender in a COMPAS risk assessment is necessary to achieve statistical accuracy." Her opinion further cautioned that judges should be made aware of potential limitations of risk assessment tools and suggested guidelines for use such as quality control and validation checks on the software as well as user education.
+
+A report from the Electronic Privacy Information Center (EPIC), however, warns that in many cases issues of validity and training are overlooked rather than addressed. To underscore their argument, EPIC, a public interest research center that focuses public attention on emerging privacy and civil liberties issues, compiled a chart matching states with the risk assessment tools used in their sentencing practices. They found more than 30 states that have never run a validation process on the algorithms in use within their state, suggesting that most of the time these programs are used without proper calibration.
+
+The Problem with COMPAS
+
+In states using COMPAS, defendants are asked to fill out a COMPAS questionnaire when they are booked into the criminal justice system. Their answers are analyzed by the proprietary COMPAS software, which generates predictive scores such as “risk of recidivism” and “risk of violent recidivism.”
+
+These scores, calculated by the algorithm on a one-to-10 scale, are shown in a bar chart with 10 representing those most likely to reoffend. Judges receive these charts before sentencing to assist with determinations. COMPAS is not the only element a judge is supposed to consider when determining length and severity of sentence. Past criminal history, the circumstances of the crime (whether there was bodily harm committed or whether the offender was under personal stress) and whether or not the offender exhibits remorse are some examples of mitigating factors affecting sentencing. However, there is no way of telling how much weight a judge assigns to the information received from risk assessment software.
+
+Taken on its own, the COMPAS chart seems like a reasonable, even helpful, bit of information; but the reality is much different. ProPublica conducted an analysis of the COMPAS algorithm and uncovered some valid concerns about the reliability and bias of the software.
+
+In an analysis of over 10,000 criminal defendants in Broward County, Florida, it found that recidivism rates were only correctly predicted 61 percent of the time and violent recidivism was correctly predicted a mere 20 percent of the time.
+
+The algorithm was correct in predicting recidivism at roughly the same rate for both black and white defendants, but black defendants were more often incorrectly predicted to be more likely to reoffend than their white counterparts, even when controlling for factors such as prior crimes.
+
+Surprisingly, ProPublica also discovered that defendants under 25 were 2.5 times more likely to receive a higher score, even when elements such as gender and prior crimes were considered. Controlling for the same factors, females were 19.4 percent more likely to be assigned a high score as compared to males, even though females have a lower criminality rate overall.
+
+Regardless of why the biases occurred, the facts support the notion that the software is indeed subjective at some level, possibly due to a developer’s bias, improper data or faulty quality control and review processes.
+
+Other Studies on Risk Assessment Models
+
+ProPublica is not the only organization to study the impact of gender or race on risk assessment models. In 2016, a paper published by Jennifer Skeem of the University of California, Berkeley and Christopher Lowenkamp, of the Administrative Office of the U.S. Courts discussed the possibility of racial bias in risk assessment computer models. Their studies concluded that the risk of racial bias was narrow and, “In light of our results, it seems that concerns expressed about risk assessment are exaggerated.” However, their conclusion indicated that there were both “good instruments” and “bad instruments” (referring to the risk assessment software) and that racial disparity in sentencing is a combination of factors, including the location where the defendant is sentenced, judges’ intuition and guidelines that heavily weigh criminal history. Another study conducted in 2013 by a team of Canadian researchers on the Level of Service Inventory (LSI), another risk assessment computer modeling tool, found racial bias more evident in the United States than in Canada.
+
+Northpointe, now Equivant, the maker of COMPAS software, defends its product, claiming COMPAS has been peer-reviewed by several journals including in Criminal Justice and Behavior (January 2009) and in the Journal of Quantitative Criminology (June 2008).
+
+Issues Raised
+
+Improperly validated or invalidated risk assessments can contribute to racial disparity in sentencing. Many risk assessment algorithms take into account personal characteristics like age, sex, geography, family background and employment status. As a result, two people accused of the same crime may receive sharply different bail or sentencing outcomes based on inputs that are beyond their control. Even worse, defendants have no way of assessing or challenging the results.
+
+Moreover, the data risk assessment algorithms rely on comes from a system in which racial identity makes a difference in arrest probability. Blacks are more likely to be stopped by police than whites, more likely to be incarcerated once detained and more likely to receive a longer sentence than their Caucasian counterparts. Data skewed at its basis in this way is more likely to exacerbate a race disparity problem than eliminate it, particularly when results are presented under the guise of objectivity.
+
+Linda Mandel of Mandel-Clemente, P.C. in Albany, New York said: “It horrifies me that you would try to use an objective program to deal with what’s supposed to be a subjective determination. Due process is a subjective term. The Eighth Amendment is not drafted in terms that are easily determinable in objective data.”
+
+But that’s exactly what COMPAS is designed to do: remove the subjectivity by providing an allegedly objective data source. And sentencing guidelines are not the only area affected by flawed objectivity. Algorithms that promise neutrality are rapidly becoming a part of daily life. Currently, the only algorithm consumers have a right to question is their credit score, under the Fair Credit Reporting Act (FCRA) signed into law in 1970 by President Nixon. Under the FCRA, you can see the data used to determine your score and challenge and/or delete it.
+
+While credit reporting data determines whether a person gets a loan or signs an apartment lease, COMPAS data affects whether or not a human being is sent to prison and for how long, without allowing them to see, understand or refute the information used to calculate their score.
+
+Conclusion
+
+It’s apparent that many states use risk assessment tools such as COMPAS without oversight and guidance procedures. Judges, correctional facility staff and anyone else who uses risk assessment tools should, at the very least, be required to attend training on its proper use, be re-trained as necessary and have a quality assurance methodology in place to assure proper deployment.
+
+There should be a confidential third-party assessment of each risk assessment tool on a yearly basis to ensure the information is accurate across racial and gender groups and is adjusted to reflect changing norms within a specific geographic population.
+
+Risk assessment tools can assist in determining sentencing and recidivism potential if the tools are properly validated, staff is properly trained and there is third-party accountability built into the process. If the tool is created with true gender and race neutrality, it can be a “voice of reason” in court proceedings, as an algorithm should have no bias. However, the tool is only as good as the creator. If the creators of these algorithms have any preconceived notions regarding gender and race as it relates to criminal activity, then the tool will simply perpetuate this bias.
+
+System validation, training and quality assurance are all steps toward ensuring fairness in risk assessment technologies. But a better idea might be to strive for transparency and the right to see and challenge data, particularly when it is being used to make decisions that have such a critical impact on the outcome of people’s lives.. The Hidden Discrimination In Criminal Risk-Assessment Scores
+
+Courtrooms across the country are increasingly using a defendant's "risk assessment score" to help make decisions about bond, parole and sentencing. The companies behind these scores say they help predict whether a defendant will commit more crimes in the future. NPR's Kelly McEvers talks with Julia Angwin of ProPublica about a new investigation into risk assessment scores.
+
+KELLY MCEVERS, HOST:
+
+Imagine if you could use an algorithm to predict trouble and maybe avoid it. The idea has gained traction throughout the criminal justice system from police departments to courtrooms. It's called criminal risk assessment.
+
+AUDIE CORNISH, HOST:
+
+The nonprofit news outlet ProPublica looked at one of the most widely used risk-assessment programs and how it fared in Broward County, Fla. There people who have been arrested are given a questionnaire and then a score from 1 to 10.
+
+MCEVERS: Four or higher suggests they are likely to reoffend. Reporter Julia Angwin says the analysis was accurate about 61 percent of the time, and it treated blacks and whites differently. I asked her to describe how the algorithm works.
+
+JULIA ANGWIN: The one that we were looking at is put together by a proprietary software company named Northpointe. They don't disclose their exact formula, but they told us sort of generally what went into, which is essentially your criminal history, your education level, whether you have a job. And then there's a whole bunch of questions that have to do with your criminal thinking. So, for instance, do you agree or disagree that it's OK for a hungry person to steal? And not every assessment asks that. But the core product that Northpointe offers is 137 questions long. And then jurisdictions can use any subset.
+
+MCEVERS: Other questions, like, you know, were your parents ever sent to jail or prison? How many of your friends are taking drugs illegally? How often did you - do you get in fights while at school? Stuff like that, right?
+
+ANGWIN: Yeah. there are questions are a lot about your family, your attitudes. Do you feel bored often? Do you have anger issues? Did your family - ever been arrested?
+
+MCEVERS: Does the questionnaire ask specifically about your race?
+
+ANGWIN: No, it does not ask about your race.
+
+MCEVERS: You talked to some hardened criminals who were rated as relatively low risk. Even they were surprised to be rated this way. How did that happen?
+
+ANGWIN: This one guy that we wrote about, Jimmy Rivelli (ph), he is in his 50s, white guy, who, by his own account, has led a life of crime, mostly petty thefts and mostly to fuel his drug addiction, which he's struggling to overcome. But when I told him he was rated low risk, his reaction was that's a very big surprise to me because I had just got out of five years in state prison for drug trafficking when I was arrested for that.
+
+MCEVERS: Wow. And so how is it someone like that can be given such a low rating?
+
+ANGWIN: So we analyzed more than 7,000 scores to see what was causing these types of disparities. And what we found was that although this algorithm is actually OK at predicting general whether you're going to commit another crime within the next two years, it's actually inaccurate in this way where it fails differently for blacks and whites. So black defendants are twice as likely to be rated high risk incorrectly, meaning they did not go on to reoffend. And white defendants are twice as likely to be rated incorrectly as low risk and yet go on to reoffend.
+
+MCEVERS: What does it mean for someone who is incorrectly tagged by this risk-assessment system?
+
+ANGWIN: So basically, if you're given a low-risk score, this is given to the judge. And in Florida, where we were looking at the scores, the judge looks at that while making a decision about pretrial release, meaning can you get out of jail on bond while awaiting trial for your crime? In other jurisdictions where the same exact software is used, this score is used for sentencing.
+
+So when you've been convicted of a crime, the judge gets a secret report, a presentencing investigation, usually sealed to the public, which says this person is high risk. You should take that into consideration when making your sentencing. And those decisions are very important because if you are judging - you're looking at this high-risk thing, you might be inclined - and this has happened - to be more likely to put that person in a longer prison sentence.
+
+MCEVERS: We should say that the company, Northpointe, that administers these tests disputes your findings.
+
+ANGWIN: Yes, that is correct.
+
+MCEVERS: Based on all the evidence that you looked at and all the experts that you talked to, do you think there's a place for these types of algorithms in the criminal justice system?
+
+ANGWIN: The movement towards risk-assessment scores is very well-intentioned, and I'm sympathetic with the idea that we need to make the criminal justice system more objective and more fair. And it hasn't been that in the past. But having looked at the outcomes from this particular scoring system, I'm not sure that this is actually making that many more steps towards a fairer system.
+
+When you have a poor outcome that is potentially very damaging to somebody, meaning that called a high risk when they're not that is happening twice as often to black defendants as white defendants, I am not sure that's leading to a fairer system.
+
+MCEVERS: That's Julia Angwin of ProPublica. Thanks so much.
+
+ANGWIN: Thank you.
+
+Copyright © 2016 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
+
+NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.. Editor’s Note See also the Executive Summary of “Algorithmic Injustice.”
+
+For generations, the Maasai people of eastern Africa have passed down the story of a tireless old man. He lived alone and his life was not easy. He spent every day in the fields — tilling the land, tending the animals, and gathering water. The work was as necessary as it was exhausting. But the old man considered himself fortunate. He had a good life, and never really gave much thought to what was missing.
+
+
+
+One morning the old man was greeted with a pleasant surprise. Standing in his kitchen was a young boy, perhaps seven or eight years old. The old man had never seen him before. The boy smiled but said nothing. The old man looked around. His morning breakfast had already been prepared, just as he liked it. He asked the boy’s name. “Kileken,” the boy replied. After some prodding, the boy explained that, before preparing breakfast, he had completed all of the old man’s work for the day. Incredulous, the old man stepped outside. Indeed, the fields had been tilled, the animals tended, and the water gathered. Astonishment written all over his face, the old man staggered back into the kitchen. “How did this happen? And how can I repay you?” The boy smiled again, this time dismissively. “I will accept no payment. All I ask is that you let me stay with you.” The old man knew better than to look a gift horse in the mouth.
+
+
+
+Kileken and the old man soon became inseparable, and the farm grew lush and bountiful as it never had before. The old man could hardly remember what life was like before the arrival of his young comrade. There could be no doubt: With Kileken’s mysterious assistance, the old man was prospering. But he never quite understood why, or how, it had happened.
+
+To an extent we have failed to fully acknowledge, decision-making algorithms have become our society’s collective Kileken. They show up unannounced and where we least expect them, promise and often deliver great things, and quickly come to be seen as indispensable. Their reach can’t be overestimated. They tell traders what stocks to buy and sell, determine how much our car insurance costs, influence which products Amazon shows us and how much we get charged for them, and interpret our Google searches and rank their results.
+
+These algorithms improve the efficiency and accuracy of services we all rely on, create new products we never before could have imagined, relieve people of tedious work, and are an engine of seemingly unbounded economic growth. They also permeate areas of social decision-making that have traditionally been left to direct human judgment, like romantic matchmaking and criminal sentencing. Yet they are largely hidden from view, remain opaque even when we are prompted to examine them, and are rarely subject to the same checks and balances as human decision-makers.
+
+Worse yet, some of these algorithms seem to reflect back to us society’s ugliest prejudices. Last April, for instance, our Facebook feeds — curated by a labyrinth of algorithms — were inundated with stories about FaceApp, a program that applied filters to uploaded photographs so that the user would appear younger or older or more attractive. At first, this app seemed to be just another clever pitch to the Snapchat generation. But things quickly went sideways when users discovered that the app’s “hot” filter — which purported to transform regular Joes and Jills into beautiful Adonises and Aphrodites — made skin lighter, eyes rounder, and noses smaller. The app appeared to be equating physical attractiveness with European facial features. The backlash was swift, ruthless, and seemingly well-deserved. The app — and, it followed, the algorithm it depended on — appeared to be racist. The company first renamed the “hot” filter to “exclude any positive connotation associated with it,” before unceremoniously pulling it from the app altogether.
+
+FaceApp’s hot filter was far from the first algorithm to be accused of racism, and certainly won’t be the last. Google’s autocomplete feature — which relies on an algorithm that scans other users’ previous searches to try to guess your query — is regularly chastised for shining a spotlight on racist, sexist, and other regressive sentiments that would otherwise remain tucked away in the darkest corners of the Internet and our psyches.
+
+But while rogue apps or discomfiting autocomplete suggestions are both ephemeral and potentially responsive to public outcry, the same can hardly be said about the insidious encroachment of decision-making algorithms into the workings of our legal system, where they frequently play a critical role in determining the fates of defendants — and, like FaceApp, often exhibit a preference for white subjects. But the problem is more than skin deep. The issue is that we cannot escape the long arm of America’s history of racial discrimination just by writing an algorithm. The question is whether fairness requires more than simply crunching the numbers.
+
+Algorithms in Criminal Sentencing
+
+An algorithm is, in its most basic form, a well-defined procedure for solving a problem or making a decision. In this sense, the use of algorithms in the judicial system long predates not only the Big Data era but even the widespread integration of computers into our workplaces. The U.S. Federal Sentencing Guidelines — a manual of rules for helping judges efficiently determine fair sentences — are essentially a set of hyper-detailed algorithms meant to simplify and standardize judicial sentencing. And just as we’ve progressed from printing the original 1987 guidelines in bound volumes to making them easily accessible online, so too have we begun to employ computers to guide judicial choices using more advanced, software-based algorithms.
+
+But the rough continuity between the earlier guidelines and computerized algorithms shouldn’t obscure just how much we as a society have in recent years ceded judicial agency to algorithms. Unlike the earlier guidelines, not only are the new algorithms executed by a computer rather than a person, but in many cases 

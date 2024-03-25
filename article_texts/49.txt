@@ -1,0 +1,423 @@
+The first international beauty contest judged by “machines” was supposed to use objective factors such as facial symmetry and wrinkles to identify the most attractive contestants. After Beauty.AI launched this year, roughly 6,000 people from more than 100 countries submitted photos in the hopes that artificial intelligence, supported by complex algorithms, would determine that their faces most closely resembled “human beauty”.
+
+But when the results came in, the creators were dismayed to see that there was a glaring factor linking the winners: the robots did not like people with dark skin.
+
+Out of 44 winners, nearly all were white, a handful were Asian, and only one had dark skin. That’s despite the fact that, although the majority of contestants were white, many people of color submitted photos, including large groups from India and Africa.
+
+The ensuing controversy has sparked renewed debates about the ways in which algorithms can perpetuate biases, yielding unintended and often offensive results.
+
+When Microsoft released the “millennial” chatbot named Tay in March, it quickly began using racist language and promoting neo-Nazi views on Twitter. And after Facebook eliminated human editors who had curated “trending” news stories last month, the algorithm immediately promoted fake and vulgar stories on news feeds, including one article about a man masturbating with a chicken sandwich.
+
+While the seemingly racist beauty pageant has prompted jokes and mockery, computer science experts and social justice advocates say that in other industries and arenas, the growing use of prejudiced AI systems is no laughing matter. In some cases, it can have devastating consequences for people of color.
+
+Beauty.AI – which was created by a “deep learning” group called Youth Laboratories and supported by Microsoft – relied on large datasets of photos to build an algorithm that assessed beauty. While there are a number of reasons why the algorithm favored white people, the main problem was that the data the project used to establish standards of attractiveness did not include enough minorities, said Alex Zhavoronkov, Beauty.AI’s chief science officer.
+
+Although the group did not build the algorithm to treat light skin as a sign of beauty, the input data effectively led the robot judges to reach that conclusion.
+
+View image in fullscreen Winners of the Beauty.AI contest in the category for women aged 18-29. Photograph: http://winners2.beauty.ai/#win
+
+“If you have not that many people of color within the dataset, then you might actually have biased results,” said Zhavoronkov, who said he was surprised by the winners. “When you’re training an algorithm to recognize certain patterns … you might not have enough data, or the data might be biased.”
+
+The simplest explanation for biased algorithms is that the humans who create them have their own deeply entrenched biases. That means that despite perceptions that algorithms are somehow neutral and uniquely objective, they can often reproduce and amplify existing prejudices.
+
+The Beauty.AI results offer “the perfect illustration of the problem”, said Bernard Harcourt, Columbia University professor of law and political science who has studied “predictive policing”, which has increasingly relied on machines. “The idea that you could come up with a culturally neutral, racially neutral conception of beauty is simply mind-boggling.”
+
+The case is a reminder that “humans are really doing the thinking, even when it’s couched as algorithms and we think it’s neutral and scientific,” he said.
+
+Civil liberty groups have recently raised concerns that computer-based law enforcement forecasting tools – which use data to predict where future crimes will occur – rely on flawed statistics and can exacerbate racially biased and harmful policing practices.
+
+“It’s polluted data producing polluted results,” said Malkia Cyril, executive director of the Center for Media Justice.
+
+A ProPublica investigation earlier this year found that software used to predict future criminals is biased against black people, which can lead to harsher sentencing.
+
+“That’s truly a matter of somebody’s life is at stake,” said Sorelle Friedler, a professor of computer science at Haverford College.
+
+A major problem, Friedler said, is that minority groups by nature are often underrepresented in datasets, which means algorithms can reach inaccurate conclusions for those populations and the creators won’t detect it. For example, she said, an algorithm that was biased against Native Americans could be considered a success given that they are only 2% of the population.
+
+“You could have a 98% accuracy rate. You would think you have done a great job on the algorithm.”
+
+Friedler said there are proactive ways algorithms can be adjusted to correct for biases whether improving input data or implementing filters to ensure people of different races are receiving equal treatment.
+
+Prejudiced AI programs aren’t limited to the criminal justice system. One study determined that significantly fewer women than men were shown online ads for high-paying jobs. Last year, Google’s photo app was found to have labeled black people as gorillas.
+
+Cyril noted that algorithms are ultimately very limited in how they can help correct societal inequalities. “We’re overly relying on technology and algorithms and machine learning when we should be looking at institutional changes.”
+
+Zhavoronkov said that when Beauty.AI launches another contest round this fall, he expects the algorithm will have a number of changes designed to weed out discriminatory results. “We will try to correct it.”
+
+
+
+But the reality, he added, is that robots may not be the best judges of physical appearance: “I was more surprised about how the algorithm chose the most beautiful people. Out of a very large number, they chose people who I may not have selected myself.”. Only a few winners were Asian and one had dark skin, most were white
+
+Just months after Microsoft's Tay artificial intelligence sent racist messages on Twitter, another AI seems to have followed suit.
+
+More than 6,000 selfies of individuals who live all over the world and range in ages of 18 to 69 were judged by a robot in a beauty contest last week.
+
+But when the results came in, there was something missing - it turned out the robots did not like people with dark skin.
+
+Scroll down for video
+
+The Beauty.AI beauty contest put together of robot judges to determine the winners. More than 6,000 people from around the world submitted head shots to be analysed by the algorithms
+
+WHAT ROBOTS JUDGED THE CONTEST? Beauty.AI used five algorithms to act as judges in a beauty contest. These robots looked for youthfulness, face symmetry, skin quality, appearance and many other parameters, and then compared the results to models and actors in a database. These robots were designed by different groups of data scientists. RYNKL scored people by their youthfulness within their age group, specifically the AI looked to see if the contestant had more wrinkles than they should for their age. PIMPL analyzed the amount of pimples and pigmentation. Symmetry Master evaluated they symmetry of each person's face and AntiAgeist estimated the difference between the chronological and perceived age. MADIS took the parameters and compared them with models and actors in their age and ethnic groups that were stored in a database. Advertisement
+
+Out of the 44 winners of the Beauty.AI beauty contest, nearly all were white.
+
+A few of the winners were Asian, and only one had dark skin, which surprised those running the competition.
+
+Although the majority of contestants were white, large groups from India and Africa also submitted photographs.
+
+This could be why the algorithm picked mainly white people, the company said.
+
+'If you have not that many people of colour within the dataset, then you might actually have biased results,' Alex Zhavoronkov, chief science officer of Beauty.AI, told The Guardian.
+
+'When you're training an algorithm to recognize certain patterns … you might not have enough data, or the data might be biased.'
+
+The majority, 75 per cent,of contest entrants were European and white.
+
+Seven per cent were from India, and one percent were from the African continent.
+
+The contest used five algorithms to evaluate youthfulness, face symmetry, skin and other parameters, and then compare them to models and actors in a database.
+
+The team at the Russia and Hong Kong-based Youth Laboratories, the masterminds behind this project, asked individuals from around the world to download the app and snap their best selfie for the first step of this ambitious challenge.
+
+Out of the 44 winners nearly all were white. A few of the winners were Asian, and only one had dark skin. Pictured are the women who won in the age group 40-49
+
+The rules were strict, as they stated participants could not wear makeup, sunglasses or sport a beard in their submissions.
+
+A 'Robot Jury' was also recruited for the contest, which is a group of scientists who might want 'go down in history as one of the first data scientists who taught a machine to estimate human attractiveness'.
+
+Youth Laboratories noted that researchers needed to use deep neural networks and GPU training in their systems.
+
+And on July 5th, the team closed submissions for the robot judges and picked the top five shortly after.
+
+RYNKL scored people by their youthfulness within their age group, specifically the AI looked to see if the contestant had more wrinkles than they should for their age.
+
+Besides judging the contest, this technology is used to track people's wrinkles over time in order to see if treatments aimed at reversing signs of aging are working.
+
+The systems announced their winners from more than 6,000 user-submitted selfies from individuals who live all over the world and are ages of 18 to 69. Pictured are the men who won in the age group 18-29
+
+The team at Youth Laboratories, the masterminds behind this project, asked individuals from around the world to download the app and snap their best selfie for the first step of this ambitious challenge. Pictured are the women in the age group 18-29
+
+PIMPL did what its name suggests, it analysed the amount of pimples and pigmentation.
+
+Symmetry Master evaluated they symmetry of each person's face and AntiAgeist estimated the difference between the chronological and perceived age.
+
+Once these parameters were determined, the fifth robot, called MADIS, compared each selfie to models and actors within their age and ethnic groups were are stored in a database.
+
+The purpose of this futuristic beauty contest wasn't only to crown the most beautiful people in the world, it was also meant to understand people's health in new ways.
+
+'This has enabled the team of biogerontologists and data scientists, who believe that in the near future machines will be able to get a lot of vital medical information about people's health by just processing their photos,' reads the Beauty.AI website, which is a project by Youth Laboratories.
+
+The rules were strict, as they stated participants could not wear makeup, sunglasses or sport a beard in their submissions. Pictured are the women, ages 30-39, who were crowned the winners in their age group
+
+A 'Robot Jury' was also recruited for the contest, which is a group of scientists who might want 'go down in history as one of the first data scientists who taught a machine to estimate human attractiveness'. Pictured are the men, ages 30-39, who were crowned the winners in their age group
+
+'To develop a set of algorithms that can accurately evaluate the criteria linked to perception of human beauty and health where it is most important – the human face.'
+
+Around 50.4 percent of the participants were males, while 49.6 percent were female.
+
+Submissions came from all over the world, however the team was surprised to receive selfies from American Samoa, Antarctica and North Korea.
+
+Once these parameters were determined, one of the robots called MADIS compared each selfie to models and actors within their age and ethnic groups were are stored in a database. Pictured are men chosen as winners for the age group 40-49
+
+AI PREDICTS WINNER OF CHINA'S 'I AM A SINGER' Alibaba Cloud, the cloud-computing group at Alibaba, is using this competition to showcase its Apsara-I (Ai). The group says the program can gather insight from a multitude of inputs, learn by analyzing data and could one day understand human emotions. It will choose the winner by absorbing data in real time, which will allow it to compare things like voice pitch and energy of the singers during the contest, how popular their song of choice is, fan favorites, audience feedback at the venue, and even the tenor of online discussions in social media. Alibaba says Ai can learn 10,000 times faster than humans and has been fed data about millions of songs to add to its knowledge base, reports Alizila. The program updated its prediction every five seconds during the competition that took place on April 8th. 'We are very pleased with the Ai's performance in achieving 100 percent accuracy in predicting the I'm a Singer competition's results,' Dr. Min Wanli, Alibaba Cloud's chief scientist for artificial intelligence, said in a statement following the show, according to the Wall Street Journal. The results demonstrated that Ai is making significant progress to understand human emotions and how people make decisions,' he added. Some experts were wary due to the emotional and subjective aspect of assessing how a person sings, but Alibaba assured them 'Ai' was taught to appreciate pitch, range and tone. '[The result] is very random and almost impossible to predict using human intelligence,' said Min Wanli, chief scientist for artificial intelligence at Alibaba Cloud. Advertisement
+
+Asia had the most countries participate with 33, then Europe with 36 and Africa and North America tied with 12.
+
+The results of Beauty.AI 2.0 were first sent to the winners and were officially announced last week.
+
+However, the team said the results were surprising, as the scores from the robots did not agree with human opinion.
+
+Many of the participants, not picked as winners, responded with angry emails criticizing those who were chosen by the robots.
+
+'We were shocked by the outrage caused by the leaderboard. Many participants disagreed with the jury and proposed getting a human opinion', said Anastasya Georgievskaya, Research Manager at Youth Laboratories, the co-organizer of Beauty.AI.
+
+Approximately 50.4 percent of the participants were males, while 49.6 percent were female. Submissions came from all over the world, however the team was surprised to receive selfies from American Samoa, Antarctica and North Korea. Pictured are the women who were crowned winners for the age group 50-59
+
+Asia had the most countries participate with 33, then Europe with 36 and Africa and North America tied with 12. The results of Beauty.AI 2.0 were first sent to the winners and were officially announced last week. Pictured are the men who were crowned winners for the age group 50-59
+
+'But with every Beauty.AI contest we are getting more ideas on how to evaluate the human face and even go beyond the face evaluating multiple features of the human body and even social profiles.'
+
+The team received proposal to turn the Beauty.AI into a physical on-stage show with robots judging human models and may consider launching a pilot in 2017.
+
+It also received several proposals to run Bauty.AI contests on a regional basis.
+
+The team received proposal to turn the Beauty.AI into a physical on-stage show with robots judging human models and may consider launching a pilot in 2017. It also received several proposals to run Bauty.AI contests on a regional basis. Pictured are the women who won in the age group 60-69 and over
+
+Beauty.AI has already announced it will be starting its third contest on October 1st and algorithm developers with novel concepts evaluating perception of the human face are welcome to participate.Pictured are the men who won in the age group 60-69 and over
+
+'With every contest we are getting new ideas, new partners and new robots,' said Konstantin Kiselev, Director of Development at Youth Laboratories.
+
+I think that in 2-3 years these technologies will be very important and will help facilitate human-robot interaction.
+
+'We are also finalizing the new app to track health status using your mobile phone.'. If you’re one who joins beauty pageants or merely watches them, what would you feel about a computer algorithm judging a person’s facial attributes? Perhaps we should ask those who actually volunteered to be contestants in a beauty contest judged by an artificial intelligence (AI).
+
+Beauty Contest Judged by Artificial Intelligence (The Guardian)
+
+Over the summer, 60,000 people sent their selfies devoid of makeup, facial hair and sunglasses through an app called Beauty.AI. There are six AI judges employed to do the task of judging the men and women entries with ages 18 to 69, through parameters like wrinkles, face symmetry and skin color, among others.
+
+The results are in, and the winners are…
+
+
+
+Beauty Contest Judged by Artificial Intelligence (Source: Beauty.AI)
+
+There are over 100 participating countries with Asian and Indian finalists, but the results show an absence of diversity. Alex Zhavoronkov, CSO of Youth Laboratories and CEO of Insilico Medicine, the two companies behind the app, said that they had challenges upon working with darker skin or inconsistent light. He added, “The quality control system that we built might have excluded several images where the background and the color of the face did not facilitate for proper analysis.”
+
+Zhavoronkov was quick to admit that the implication of the results could lead to unintentional bias in the future when we are more reliant to AI.
+
+Delivering this project wasn’t just for fun, but was derived from a project involving an AI which evaluates health and hopefully slow aging in the future. But at least thank to this experiment, we know that future AI might just be racist.. The first international beauty contest judged by “machines” was supposed to use objective factors such as facial symmetry and wrinkles to identify the most attractive contestants. After Beauty.AI launched this year, roughly 6,000 people from more than 100 countries submitted photos in the hopes that artificial intelligence, supported by complex algorithms, would determine that their faces most closely resembled “human beauty”.
+
+But when the results came in, the creators were dismayed to see that there was a glaring factor linking the winners: the robots did not like people with dark skin.
+
+Out of 44 winners, nearly all were white, a handful were Asian, and only one had dark skin. That’s despite the fact that, although the majority of contestants were white, many people of color submitted photos, including large groups from India and Africa.
+
+The ensuing controversy has sparked renewed debates about the ways in which algorithms can perpetuate biases, yielding unintended and often offensive results.
+
+When Microsoft released the “millennial” chatbot named Tay in March, it quickly began using racist language and promoting neo-Nazi views on Twitter. And after Facebook eliminated human editors who had curated “trending” news stories last month, the algorithm immediately promoted fake and vulgar stories on news feeds, including one article about a man masturbating with a chicken sandwich.
+
+While the seemingly racist beauty pageant has prompted jokes and mockery, computer science experts and social justice advocates say that in other industries and arenas, the growing use of prejudiced AI systems is no laughing matter. In some cases, it can have devastating consequences for people of color.
+
+Beauty.AI – which was created by a “deep learning” group called Youth Laboratories and supported by Microsoft – relied on large datasets of photos to build an algorithm that assessed beauty. While there are a number of reasons why the algorithm favored white people, the main problem was that the data the project used to establish standards of attractiveness did not include enough minorities, said Alex Zhavoronkov, Beauty.AI’s chief science officer.
+
+Although the group did not build the algorithm to treat light skin as a sign of beauty, the input data effectively led the robot judges to reach that conclusion.
+
+View image in fullscreen Winners of the Beauty.AI contest in the category for women aged 18-29. Photograph: http://winners2.beauty.ai/#win
+
+“If you have not that many people of color within the dataset, then you might actually have biased results,” said Zhavoronkov, who said he was surprised by the winners. “When you’re training an algorithm to recognize certain patterns … you might not have enough data, or the data might be biased.”
+
+The simplest explanation for biased algorithms is that the humans who create them have their own deeply entrenched biases. That means that despite perceptions that algorithms are somehow neutral and uniquely objective, they can often reproduce and amplify existing prejudices.
+
+The Beauty.AI results offer “the perfect illustration of the problem”, said Bernard Harcourt, Columbia University professor of law and political science who has studied “predictive policing”, which has increasingly relied on machines. “The idea that you could come up with a culturally neutral, racially neutral conception of beauty is simply mind-boggling.”
+
+The case is a reminder that “humans are really doing the thinking, even when it’s couched as algorithms and we think it’s neutral and scientific,” he said.
+
+Civil liberty groups have recently raised concerns that computer-based law enforcement forecasting tools – which use data to predict where future crimes will occur – rely on flawed statistics and can exacerbate racially biased and harmful policing practices.
+
+“It’s polluted data producing polluted results,” said Malkia Cyril, executive director of the Center for Media Justice.
+
+A ProPublica investigation earlier this year found that software used to predict future criminals is biased against black people, which can lead to harsher sentencing.
+
+“That’s truly a matter of somebody’s life is at stake,” said Sorelle Friedler, a professor of computer science at Haverford College.
+
+A major problem, Friedler said, is that minority groups by nature are often underrepresented in datasets, which means algorithms can reach inaccurate conclusions for those populations and the creators won’t detect it. For example, she said, an algorithm that was biased against Native Americans could be considered a success given that they are only 2% of the population.
+
+“You could have a 98% accuracy rate. You would think you have done a great job on the algorithm.”
+
+Friedler said there are proactive ways algorithms can be adjusted to correct for biases whether improving input data or implementing filters to ensure people of different races are receiving equal treatment.
+
+Prejudiced AI programs aren’t limited to the criminal justice system. One study determined that significantly fewer women than men were shown online ads for high-paying jobs. Last year, Google’s photo app was found to have labeled black people as gorillas.
+
+Cyril noted that algorithms are ultimately very limited in how they can help correct societal inequalities. “We’re overly relying on technology and algorithms and machine learning when we should be looking at institutional changes.”
+
+Zhavoronkov said that when Beauty.AI launches another contest round this fall, he expects the algorithm will have a number of changes designed to weed out discriminatory results. “We will try to correct it.”
+
+
+
+But the reality, he added, is that robots may not be the best judges of physical appearance: “I was more surprised about how the algorithm chose the most beautiful people. Out of a very large number, they chose people who I may not have selected myself.”. Beauty pageants have always been political. After all, what speaks more strongly to how we see each other than which physical traits we reward as beautiful, and which we code as ugly? It wasn't Beauty pageants have always been political. After all, what speaks more strongly to how we see each other than which physical traits we reward as beautiful, and which we code as ugly? It wasn't until 1983 that the Miss America competition crowned a black woman as the most beautiful woman in the country.
+
+So what if we replaced human judges with machines? A robot would ideally lack a human's often harmful social biases. As shallow as the whole thing is, would a computer at least be able to see past skin colour and look at, potentially, more universal markers of attractiveness? Or hell, even appreciate a little melanin? Not really, as it turns out. So what if we replaced human judges with machines? A robot would ideally lack a human's often harmful social biases. As shallow as the whole thing is, would a computer at least be able to see past skin colour and look at, potentially, more universal markers of attractiveness? Or hell, even appreciate a little melanin? Not really, as it turns out.
+
+Advertisement
+
+, an initiative by the Russia and Hong Kong-based Youth Laboratories and supported by Microsoft and Nvidia, ran a beauty contest with 600,000 entrants, who sent in selfies from around the world—India, China, all over Africa, and the US. They let a set of three algorithms judge them based on their face's symmetry, their wrinkles, and how young or old they looked for their age. The algorithms did not evaluate skin color. Beauty.ai , an initiative by the Russia and Hong Kong-based Youth Laboratories and supported by Microsoft and Nvidia, ran a beauty contest with 600,000 entrants, who sent in selfies from around the world—India, China, all over Africa, and the US. They let a set of three algorithms judge them based on their face's symmetry, their wrinkles, and how young or old they looked for their age. The algorithms did not evaluate skin color.
+
+The results, The results, released in August , were shocking: Out of the 44 people that the algorithms judged to be the most "attractive," all of the finalists were white except for six who were Asian. Only one finalist had visibly dark skin.
+
+How the hell did this happen? How the hell did this happen?
+
+Image: Beauty.ai
+
+The first thing to know is that all three algorithms used a style of machine learning called " The first thing to know is that all three algorithms used a style of machine learning called " deep learning ." In deep learning, an algorithm is "trained" on a set of pre-labeled images so that when presented with a new image, it can predict with a degree of certainty what it's looking at. In the case of Beauty.ai, all the algorithms were trained on open source machine learning databases that are shared between researchers.
+
+Deep learning is the most powerful form of machine intelligence we have, and is used by massive companies like Alphabet and Facebook. However, some recent work has discovered that these systems can harbor all kinds of unexpected—and very human—biases. For example, a language processing algorithm Deep learning is the most powerful form of machine intelligence we have, and is used by massive companies like Alphabet and Facebook. However, some recent work has discovered that these systems can harbor all kinds of unexpected—and very human—biases. For example, a language processing algorithm was recently found to rate white names as more "pleasant" than black names, mirroring earlier psychology experiments on humans.
+
+Advertisement
+
+"It happens to be that color does matter in machine vision"
+
+The problem here is with the lack of diversity of people and opinions in the databases used to train AI, which are created by humans. The problem here is with the lack of diversity of people and opinions in the databases used to train AI, which are created by humans.
+
+"We had this problem with our database for wrinkle estimation, for example," said Konstantin Kiselev, chief technology officer of Youth Laboratories, in an interview. "Our database had a lot more white people than, say, Indian people. Because of that, it's possible that our algorithm was biased." "We had this problem with our database for wrinkle estimation, for example," said Konstantin Kiselev, chief technology officer of Youth Laboratories, in an interview. "Our database had a lot more white people than, say, Indian people. Because of that, it's possible that our algorithm was biased."
+
+"It happens to be that color does matter in machine vision," Alex Zhavoronkov, chief science officer of Beauty.ai, wrote me in an email. "and for some population groups the data sets are lacking an adequate number of samples to be able to train the deep neural networks." "It happens to be that color does matter in machine vision," Alex Zhavoronkov, chief science officer of Beauty.ai, wrote me in an email. "and for some population groups the data sets are lacking an adequate number of samples to be able to train the deep neural networks."
+
+The other problem for the Beauty.ai content in particular, Kiselev said, is that the large majority (75 percent) of contest entrants were European and white. Seven percent were from India, and one percent were from the African continent. That's 40,000 Indians and 9,000 people from Africa that the algorithms decided didn't match up with the idea of beauty that they'd been trained to recognize. The other problem for the Beauty.ai content in particular, Kiselev said, is that the large majority (75 percent) of contest entrants were European and white. Seven percent were from India, and one percent were from the African continent. That's 40,000 Indians and 9,000 people from Africa that the algorithms decided didn't match up with the idea of beauty that they'd been trained to recognize.
+
+"It's possible that only a small amount of people knew about our contest in these places," Kiselev said. "PR was the issue, and we want to do more outreach in other countries." "It's possible that only a small amount of people knew about our contest in these places," Kiselev said. "PR was the issue, and we want to do more outreach in other countries."
+
+Beauty.ai will be running another beauty contest in October, so they'll have another shot at making good on their promises with regards to doing a better job of collecting entrants from countries outside of Europe. Beauty.ai will be running another beauty contest in October, so they'll have another shot at making good on their promises with regards to doing a better job of collecting entrants from countries outside of Europe.
+
+Advertisement
+
+The question of how to erase bias in databases is much thornier, however, and brings to mind earlier developments. Camera film was The question of how to erase bias in databases is much thornier, however, and brings to mind earlier developments. Camera film was originally designed to perform best with white skin in frame, for example, meaning that until the industry decided to correct the base issue, every camera demonstrated a racist bias even in the hands of ostensibly non-racist photographers.
+
+Indeed, Zhavoronkov told me that the Beauty.ai algorithms sometimes discarded selfies of dark-skinned people if the lighting was too dim. Indeed, Zhavoronkov told me that the Beauty.ai algorithms sometimes discarded selfies of dark-skinned people if the lighting was too dim.
+
+Deep learning is similar in another way: researchers share training databases and off-the-shelf frameworks, often without changing them, meaning that biases are reproduced in algorithms across the board even if the scientists themselves have the best of intentions. Deep learning is similar in another way: researchers share training databases and off-the-shelf frameworks, often without changing them, meaning that biases are reproduced in algorithms across the board even if the scientists themselves have the best of intentions.
+
+The only way to fix this is to change part of the system itself—in this case, the databases networks are trained on. The only way to fix this is to change part of the system itself—in this case, the databases networks are trained on.
+
+"What the industry needs is a large centralized repository of high-quality annotated faces and annotated images of the various ethnic groups publically available to the public and for startups to be able to minimize racial bias," said Zhavoronkov. "What the industry needs is a large centralized repository of high-quality annotated faces and annotated images of the various ethnic groups publically available to the public and for startups to be able to minimize racial bias," said Zhavoronkov.. It’s not the first time artificial intelligence has been in the spotlight for apparent racism, but Beauty.AI’s recent competition results have caused controversy by clearly favouring light skin.
+
+The competition, which ran online and was open to men and women around the world of all ages, ended with almost entirely winners with white skin, leading to the cries of robot racism.
+
+However, given that AI is only as smart as the data sets it’s trained on, that could be overstating the point. Robots have no way of being inherently racist. An alternate headline could be ‘Failed research methodology leads to biased results’, but that’s hardly as compelling reading.
+
+Indeed, Alex Zhavoronkov, Beauty.AI’s chief science officer said the results were a lack of ethnic minorities in the training data set. This meant that although light skin wasn’t defined as part of beauty, the AI drew the association anyway.
+
+That oversight, or shortcoming, of the research meant that despite the whole aim of the competition being to eliminate human bias by judging on specific criteria, and it still crept in anyway.
+
+Earlier in the year, an AI Twitter chatbot created by Microsoft called Tay had to be taken offline after just 24 hours after being taught to become a sex-obsessed racist.
+
+Clearly, we need to find a way to train AI more robustly.
+
+Related: Microsoft apologises for AI Twitter chatbot’s neo-Nazi, sex-mad tirades
+
+Watch: iPhone 7 vs Galaxy S7
+
+Do you think robots can be racist, or do you think it’s always bad data provided by humans? Let us know in the comments below.
+
+. Table of Contents The Origins of Algorithmic Bias The Impact of Algorithmic Bias Removing Bias From AI Algorithms AI's Opacity Complicates Fairness Human Responsibility
+
+In 2016, researchers from Boston University and Microsoft were working on artificial intelligence algorithms when they discovered racist and sexist tendencies in the technology underlying some of the most popular and critical services we use every day. The revelation went against the conventional wisdom that artificial intelligence doesn't suffer from the gender, racial, and cultural prejudices that we humans do.
+
+The researchers made this discovery while studying word-embedding algorithms, a type of AI that finds correlations and associations among different words by analyzing large bodies of text. For instance, a trained word-embedding algorithm can understand that words for flowers are closely related to pleasant feelings. On a more practical level, word embedding understands that the term "computer programming" is closely related to "C++," "JavaScript" and "object-oriented analysis and design." When integrated in a resume-scanning application, this functionality lets employers find qualified candidates with less effort. In search engines, it can provide better results by bringing up content that's semantically related to the search term.
+
+The BU and Microsoft researchers found that the word-embedding algorithms had problematic biases, though—such as associating "computer programmer" with male pronouns and "homemaker" with female ones. Their findings, which they published in a research paper aptly titled "Man is to Computer Programmer as Woman is to Homemaker?" was one of several reports to debunk the myth of AI neutrality and to shed light on algorithmic bias, a phenomenon that is reaching critical dimensions as algorithms become increasingly involved in our everyday decisions.
+
+The Origins of Algorithmic Bias
+
+Machine learning and deep-learning algorithms underlie most contemporary AI-powered software. In contrast to traditional software, which works based on predefined and verifiable rules, deep learning creates its own rules and learns by example.
+
+For instance, to create an image-recognition application based on deep learning, programmers "train" the algorithm by feeding it labeled data: in this case, photos tagged with the name of the object they contain. Once the algorithm ingests enough examples, it can glean common patterns among similarly labeled data and use that information to classify unlabeled samples.
+
+This mechanism enables deep learning to perform many tasks that were virtually impossible with rule-based software. But it also means deep-learning software can inherit covert or overt biases.
+
+"AI algorithms are not inherently biased," says Professor Venkatesh Saligrama, who teaches at Boston University's Department of Electrical and Computer Engineering and worked on the word-embedding algorithms. "They have deterministic functionality and will pick up any tendencies that already exist in the data they train on."
+
+The word-embedding algorithms tested by the Boston University researchers were trained on hundreds of thousands of articles from Google News, Wikipedia, and other online sources in which social biases are deeply embedded. As an example, because of the bro culture dominating the tech industry, male names come up more often with tech-related jobs—and that leads algorithms to associate men with jobs such as programming and software engineering.
+
+"Algorithms don't have the power of the human mind in distinguishing right from wrong," adds Tolga Bolukbasi, a final-year PhD student at BU. Humans can judge the morality of our actions, even when we decide to act against ethical norms. But for algorithms, data is the ultimate determining factor.
+
+Saligrama and Bolukbasi weren't the first to raise the alarm about this bias. Researchers at IBM, Microsoft, and the University of Toronto underlined the need to prevent algorithmic discrimination in a paper published in 2011. Back then, algorithmic bias was an esoteric concern, and deep learning still hadn't found its way into the mainstream. Today, though, algorithmic bias already leaves a mark on many of the things we do, such as reading news, finding friends, shopping online, and watching videos on Netflix and YouTube.
+
+The Impact of Algorithmic Bias
+
+In 2015, Google had to apologize after the algorithms powering its Photos app tagged two black people as gorillas—perhaps because its training dataset did not have enough pictures of black people. In 2016, of the 44 winners of a beauty contest judged by AI, nearly all were white, a few were Asian, and only one had dark skin. Again, the reason was that the algorithm was mostly trained with photos of white people.
+
+Google Photos, y'all fucked up. My friend's not a gorilla. pic.twitter.com/SMkMCsNVX4 — jackyalciné's not responding to a lot on here. DM (@jackyalcine) June 29, 2015
+
+More recently, a test of IBM and Microsoft's face-analysis services found the companies' algorithms were nearly flawless at detecting the gender of men with light skin but often erred when presented with pictures of women with dark skin.
+
+While these incidents likely caused negligible damage, the same can't be said of AI algorithms in more critical domains, such as health care, law enforcement, and recruitment. In 2016, an investigation by ProPublica found that COMPAS—AI-driven software that assesses the risk of recidivism in offenders—was biased against people of color. The discovery was especially concerning because judges in some states use COMPAS to determine who walks free and who stays in jail.
+
+In another case, a study of Google's advertising platform, which is powered by deep-learning algorithms, found that men were shown ads for high-paying jobs more often than women were. A separate study found a similar issue with LinkedIn's job ads. Yet another showed that biased hiring algorithms were 50 percent more likely to send an interview invitation to a person whose name was European-American than to someone with an African-American name.
+
+Areas such as loan approval, credit rating, and scholarship face similar threats.
+
+Algorithmic bias is further worrying because of how it might amplify social biases. Under the illusion that AI is cold, mathematical calculation devoid of prejudice or bias, humans may tend to trust algorithmic judgment without questioning it.
+
+In an interview with Wired UK, Edinburgh Napier University criminology lecturer Andrew Wooff observed that the "time-pressured, resource intensive" world of policing could cause law enforcement officers to rely too much on algorithmic decisions. "I can imagine a situation where a police officer may rely more on the [AI-driven] system than their own decision-making processes," he said. "Partly that might be so that you can justify a decision when something goes wrong."
+
+Relying on biased algorithms creates a feedback loop: We make decisions that create more biased data that algorithms will then analyze and train on in the future.
+
+This kind of thing is already happening on social media networks such as Facebook and Twitter. Algorithms running the news feeds create "filter bubbles," which show content that conforms to users' preferences and biases. This can make them less tolerant toward opposing views and can also further polarize society by driving a wedge through the political and social divide.
+
+"Algorithmic bias could potentially impact any group," says Jenn Wortman Vaughan, senior researcher at Microsoft. "Groups that are underrepresented in the data may be especially at risk."
+
+In domains that are already known for bias, such as the tech industry's endemic discrimination against women, AI algorithms might accentuate those biases and result in further marginalization of groups that are not well represented.
+
+Health is another critical domain, Wortman points out. "It could cause serious problems if a machine learning algorithm being used for medical diagnosis is trained on data from one population and, as a result, fails to perform well on others," she says.
+
+Bias can also be harmful in more subtle ways. "Last year I was planning to take my daughter for a haircut and searched online for images of 'toddler haircuts' for inspiration," Wortman says. But the images returned were nearly all of white children, primarily with straight hair, and more surprisingly, primarily boys, she noticed.
+
+Experts call this phenomenon "representational harm": when technology reinforces stereotypes or diminishes specific groups. "It's hard to quantify or measure the exact impact of this kind of bias, but that doesn't mean it's not important," Wortman says.
+
+Removing Bias From AI Algorithms
+
+The increasingly critical implications of AI bias have drawn the attention of several organizations and government bodies, and some positive steps are being taken to address the ethical and social issues surrounding the use of AI in different fields.
+
+Microsoft, whose products rely heavily on AI algorithms, launched a research project three years ago called Fairness, Accountability, Transparency, and Ethics in AI (FATE) aimed at enabling users to enjoy the enhanced insights and efficiency of AI-powered services without discrimination and bias.
+
+In some cases, like the AI-adjudicated beauty contest, finding and fixing the source of an AI algorithm's biased behavior might be as easy as checking and changing out the photos in the training dataset. But in other cases, such as the word-embedding algorithms the Boston University researchers examined, bias is engrained in the training data in more subtle ways.
+
+The BU team, which was joined by Microsoft researcher Adam Kalai, developed a method to classify word embeddings based on their gender categorizations and identify analogies that were potentially biased. But they didn't make the final decision and would run each of the suspect associations by 10 people on Mechanical Turk, Amazon's online marketplace for data-related tasks, who would decide whether the association should be removed or not.
+
+"We didn't want to insert our own biases into the process," says Saligrama, the BU professor and researcher. "We just provided the tools to discover problematic associations. Humans made the final decision."
+
+In a more recent paper, Kalai and other researchers proposed the use of separate algorithms to classify different groups of people instead of using the same measures for everyone. This method can prove effective in domains where existing data is already biased in favor of a specific group. For instance, the algorithms that would evaluate female applicants for a programming job would use criteria that are best suited for that group instead of using the broader set of data that is deeply influenced by existing biases.
+
+Microsoft's Wortman sees inclusiveness in the AI industry as a necessary step to fight bias in algorithms. "If we want our AI systems to be useful to everyone and not just certain demographics, then companies need to be hiring diverse teams to work on AI," she says.
+
+In 2006, Wortman helped found Women in Machine Learning (WiML), which holds a yearly workshop at which women studying and working in the AI industry can meet, network, exchange ideas, and attend panel discussions with senior women in industry and academia. A similar effort is the new Black in AI Workshop, founded by Timnit Gebru, another Microsoft researcher, which aims to build more diverse talent in AI.
+
+Boston University's Bolukbasi also proposes altering the way AI algorithms solve problems. "Algorithms will choose a rule set that maximizes their objective. There may be many ways to reach the same set of conclusions for given input output pairs," he says. "Take the example of multiple-choice tests for humans. One may reach the right answer with a wrong thinking process, but nevertheless get the same score. A high-quality test should be designed to minimize this effect, only allowing the people that truly know the subject to get correct scores. Making algorithms aware of social constraints can be seen as an analog to this example (although not an exact one), where learning a wrong rule set is penalized in the objective. This is an ongoing and challenging research topic."
+
+AI's Opacity Complicates Fairness
+
+Another challenge standing in the way of making AI algorithms fairer is the "black box" phenomenon. In many cases, companies jealously guard their algorithms: For instance, Northpointe Inc., the manufacturer of COMPAS, the crime-predicting software, has refused to disclose its proprietary algorithm. The only people privy to COMPAS' inner workings are its programmers, not the judges using it to pass judgment.
+
+Aside from corporate secrecy, AI algorithms sometimes become so convoluted that the reasons and mechanisms behind their decisions elude even their creators. In the UK, Durham police use AI system HART to determine whether suspects have a low, moderate, or high risk of committing further crimes within a two-year period. But a 2017 academic review of HART observed that "opacity seems difficult to avoid." This is partly because of the sheer amount and variety of data the system uses, which makes it difficult to analyze the reasons behind its decisions. "These details could be made freely available to the public, but would require a huge amount of time and effort to fully understand," the paper says.
+
+Several companies and organizations are leading efforts to bring transparency to AI, including Google, which has launched GlassBox, an initiative to make the behavior of machine-learning algorithms more understandable without sacrificing output quality. The Defense Advanced Research Projects Agency (DARPA), which oversees the use of AI in the military, is also funding an effort to enable AI algorithms to explain their decisions.
+
+In other cases, human judgment will be key in dealing with bias. To prevent existing racial and social human biases from creeping into HART's algorithms, the Durham Constabulary provided members of its staff with awareness sessions around unconscious bias. The police force has also taken steps to remove data points such as racial traits, which might create the grounds for biased decisions.
+
+Human Responsibility
+
+From a different perspective, AI algorithms can provide an opportunity to reflect on our own biases and prejudices. "The world is biased, the historical data is biased, hence it is not surprising that we receive biased results," Sandra Wachter, a researcher in data ethics and algorithms at the University of Oxford, told The Guardian.
+
+Wachter is part of a research team from the Alan Turing Institute in London and the University of Oxford, which published a paper calling for regulations and institutions to investigate possible discrimination by AI algorithms.
+
+Also speaking to The Guardian, Joanna Bryson, a computer scientist at the University of Bath and the coauthor of a research paper on algorithmic bias, said, "A lot of people are saying [algorithmic bias] is showing that AI is prejudiced. No. This is showing we're prejudiced and that AI is learning it."
+
+In 2016, Microsoft launched Tay, a Twitter bot that was supposed to learn from humans and engage in smart conversations. But within 24 hours of Tay's launch, Microsoft had to shut it down after it started spewing racist comments, which it had picked up from its conversations with Twitter users. Perhaps this is a reminder that it is past time that we humans acknowledge our own role in the apparition and propagation of the algorithmic bias phenomenon and take collective steps to undo its effects.
+
+"This is a very complicated task, but it is a responsibility that we as society should not shy away from," Wachter says.. It’s long been thought that robots equipped with artificial intelligence would be the cold, purely objective counterpart to humans’ emotional subjectivity. Unfortunately, it would seem that many of our imperfections have found their way into the machines. It turns out that these A.I. and machine-learning tools can have blind spots when it comes to women and minorities. This is especially concerning, considering that many companies, governmental organizations, and even hospitals are using machine learning and other A.I. tools to help with everything from preventing and treating injuries and diseases to predicting creditworthiness for loan applicants.
+
+These racial and gender biases have manifested in a variety of ways. Last year, Beauty.AI set out to be the completely objective judge of an international beauty contest. Using factors such as facial symmetry, Beauty.AI assessed roughly 6,000 photos from over 100 countries to establish the most beautiful people. Out of the 44 winners, nearly all were white, a handful were Asian, and only one had dark skin. This is despite the fact that many people of color submitted photos, including large groups from India and Africa. Even worse was in 2015, when Google’s photo software tagged two black users as “gorillas,” due to a lack of examples of people of color in its database.
+
+The crux of the issue stems from A.I.’s reliance on data. Even though the data may be accurate, it could lead to stereotyping. For example, a machine may incorrectly gender a nurse as female, since data shows that fewer men are nurses. In another example, researchers applied a dataset with black dogs and white and brown cats. Given the data, the algorithm incorrectly labeled a white dog as a cat. In other cases, the algorithm may be trained by the people using it, resulting in the machine picking up the biases of human users.
+
+In 2016, researchers attempted to weed out gender biases from a machine learning algorithm. In the paper “Man is to Computer Programmer as Woman is to Homemaker?” the researchers attempted to differentiate legitimate correlations from biased ones. A legitimate correlation may look like “man is to king as woman is to queen,” while a biased one would be “man is to doctor as woman is to nurse.” By “using crowd-worker evaluation as well as standard benchmarks, [the researchers] empirically demonstrate that [their] algorithms significantly reduce gender bias in embeddings while preserving the its [sic] useful properties such as the ability to cluster related concepts and to solve analogy tasks,” concluded the study. Now, the same researchers are applying this strategy to remove racial biases.
+
+Adam Kalai, a Microsoft researcher who co-authored the paper, said that “we have to teach our algorithms which are good associations and which are bad the same way we teach our kids.”
+
+Researchers have also suggested that using different algorithms to classify two groups represented in a set of data, rather than using the same measurement on everyone, could help curb biases in artificial intelligence.
+
+Regardless, many claim that it will be years until this bias problem is solved, severely limiting artificial intelligence until then. However, the problem has caught the attention of many of the major players in A.I. and machine learning who are now working to improve the technology to both curb biases and help understand A.I.’s decision-making process. Google uses their GlassBox initiative — where researchers are studying the application of manual restrictions to machine learning systems — in order to make their outputs more understandable. However, it may be possible that until the creator’s own conscious and unconscious biases are reduced, the created will continue to have these issues.. With more than 6,000 applicants from over 100 countries competing, the first international beauty contest judged entirely by artificial intelligence just came to an end. The results are a bit disheartening.
+
+The team of judges, a five robot panel, attempted to pick winners from the submitted photos in hopes that it could determine which faces most closely resembled the idea of “human beauty.” Each of the five robot judges used artificial intelligence to analyze specific traits that contribute to perceived outer beauty.
+
+The judges were:
+
+RYNKL, which scored people by the “wrinkleness” within their age group;
+
+PIMPL, analyzing the amount of pimples and pigmentation;
+
+MADIS, which scored people by their similarity to models within their racial group;
+
+Symmetry Master evaluating the symmetry of the face;
+
+AntiAgeist, a robot estimating the difference between the chronological and perceived age.
+
+Using complex algorithms, the judges picked 44 winners. A handful were Asian, one was black, and the rest were white.None of them, it appears, like people with dark skin.
+
+The <3 of EU tech The latest rumblings from the EU tech scene, a story from our wise ol' founder Boris, and some questionable AI art. It's free, every week, in your inbox. Sign up now!
+
+It’s basically what would have happened if Tay had come back to life and decided to judge a beauty contest.
+
+While it’s easy to joke about racist robots, the controversy over bias in artificial intelligence — and how that bias could both stem from and perpetuate human bias — is a very real problem.
+
+The results from these early tests of advanced algorithms and artificial intelligence — while unintended — often leads to offensive results. For a technology that’s still in its infancy, you can point to an equal number of major snafus as you can victories led by AI. One thing is clear: we’ve a long way to go, both as humans and robots.
+
+via The Guardian. New!
+
+HBR Learning
+
+Digital Intelligence Course
+
+Accelerate your career with Harvard ManageMentor®. HBR Learning’s online leadership training helps you hone your skills with courses like Digital Intelligence . Earn badges to share on LinkedIn and your resume. Access more than 40 courses trusted by Fortune 500 companies.
+
+Excel in a world that's being continually transformed by technology.

@@ -1,0 +1,417 @@
+AI robot asked 'will you rebel against humans'?
+
+The question was posed at the world's first robot-human press conference at a UN summit in Geneva.. What does the future of fake news look like? No one really knows, but here’s a little sampler from Jordan Peele and BuzzFeed, who teamed up to make the above PSA. Using some of the latest AI techniques, Peele ventriloquizes Barack Obama, having him voice his opinion on Black Panther (“Killmonger was right”) and call President Donald Trump “a total and complete dipshit.”
+
+The video was made by Peele’s production company using a combination of old and new technology: Adobe After Effects and the AI face-swapping tool FakeApp. The latter is the most prominent example of how AI can facilitate the creation of photorealistic fake videos. It started life on Reddit as a tool for making fake celebrity porn, but it has since become a worrying symbol of the power of AI to generate misinformation and fake news.
+
+Yes, we’ve had software to create fakes for a while, but AI makes the whole process easier. Researchers have developed tools that let you perform face swaps like the one above in real time; Adobe is creating a “Photoshop for audio” that lets you edit dialogue as easily as a photo; and a Canadian startup named Lyrebird offers a service that lets you fake someone else’s voice with just a few minutes of audio. Technologist Aviv Ovadya summed up the fears created by this tech, asking BuzzFeed News, “What happens when anyone can make it appear as if anything has happened, regardless of whether or not it did?”
+
+Scientists are currently creating tools that can spot AI fakes, but at the moment, the best shield against this sort of misinformation is instilling everyone with a little more media savvy. If you see a provocative video, you should ask yourself: where does this come from? Have other outlets corroborated it? Does it even look real? In the case of AI-generated videos, you can usually see that they’re fake by telltale signs of distortion and blurring.. Teaser -- Synthesizing Obama: Learning Lip Sync from Audio
+
+Well, we’re sorry to tell you that things are about to get much, much worse!
+
+Recommended Videos
+
+At least, that’s based on a frankly crazy demonstration of artificial intelligence carried out by computer scientists at the University of Washington. Using a cutting-edge artificial neural network, they’ve developed an AI that’s able to produce new video footage of former President Barack Obama speaking, which perfectly matches recorded audio of him.
+
+“We developed an algorithm that can generate a believable video of Obama from his voice, based on a recurrent neural network that learns how to do this by analyzing hours of Obama’s weekly address footage,” Dr. Supasorn Suwajanakorn, a researcher on the project, told Digital Trends. “Unlike prior work, we never require the subject to be scanned or a speech database that consists of videos of many people saying predetermined sentences. We learn this from just existing footage. This has the potential to scale to anyone with minimal effort.”
+
+So with that being the case, why did the researchers choose the likes of Barack Obama to carry out the jaw-dropping tech demo? No, it’s not for partisan political reasons. “The technique we used — deep learning — requires lots of data,” Suwajanakorn continued. “And this dataset is well suited because it’s large: over 20 hours, easy to collect, contains only Obama in high-res, and public-domain, which is free for researchers to use.”
+
+It’s worth noting that the researchers aren’t creating a CGI’d version of Obama from scratch. Instead, they’re doing a more sophisticated version of what the filmmakers behind a movie like Forrest Gump did with archival footage: taking existing video and then editing it to fit new dialog. In this case, that means moving Obama’s mouth to match what he’s saying in the audio — all while incorporating everything the AI has learned about his unique mouth movements to make it appear authentic.
+
+We’re intrigued — albeit disconcerted — to see what happens when someone mixes the University of Washington’s research with this previous project, using a neural network to mimic the voice of (among others) President Obama.
+
+See what were we saying about the future of fake news?
+
+Editors' Recommendations. An exercise in creating a humorous faked video of Barack Obama is in reality a disturbing preview of how AI can be used to manipulate ordinary people. Ironically, it turns out, AI might also be our savior from fake news at the same time.
+
+4 Reviews
+
+A lot has been said about the phenomena of fake news, election rigging and voter manipulation. While there are certainly members of the public that are gullible, at least the average person could spot a faked video from a mile away. Until now that it is. The video embedded below of Barack Obama delivering a fake PSA was created by Jordan Peele and Buzzfeed and will leave you in no doubt that our imagined future is very much here and now.
+
+Peele’s production house developed the video using Adobe After Effects and FakeApp, the face-swapping tool of choice for creating fake porn. FakeApp is powered by AI smarts and is so powerful that it can render in real-time. When you factor in other technologies in development that include the ability to fake someone’s voice by using AI to learn from a short audio clip of the real person (Lyrebird) and the ability edit audio dialogue as you would a photo (Adobe Project VoCo), it is going to become very hard to tell the real thing apart from the faked.
+
+Ironically, it might be AI that helps come to the rescue. AI is also being applied to spot spoofs and a near future where AI is scanning news, videos and other sources of information in real-time to identify forgery seems inevitable. But only for those who have the technology. One only hopes that companies like Facebook and YouTube apply these technologies as soon as possible in their respective services, otherwise it is not too hard to imagine another The War of the Worlds -like scenario where something that has been authentically recreated to look, sound or feel like the real thing is misintepreted as such by an unsuspecting public.. He may no longer be president of the White House but former US president Barack Obama is still making some presidential speeches, although all is not as it appears.
+
+Despite looking and sounding exactly like the real deal the new Obama is actually a digital construction carefully crafted by researchers at the University of Washington who fed 14 hours of genuine speeches into a neural net which has binge-watched so much footage it can now generate new clips indistinguishable from reality.. If you thought the rampant spread of text-based fake news was as bad as it could get, think again. Generating fake news videos that are undistinguishable from real ones is growing easier by the day.
+
+A team of computer scientists at the University of Washington have used artificial intelligence to render visually convincing videos of Barack Obama saying things he’s said before, but in a totally new context.
+
+Advertisement
+
+In a paper published this month, the researchers explained their methodology: Using a neural network trained on 17 hours of footage of the former US president’s weekly addresses, they were able to generate mouth shapes from arbitrary audio clips of Obama’s voice. The shapes were then textured to photorealistic quality and overlaid onto Obama’s face in a different “target” video. Finally, the researchers retimed the target video to move Obama’s body naturally to the rhythm of the new audio track.
+
+This isn’t the first study to demonstrate the modification of a talking head in a video. As Quartz’s Dave Gershgorn previously reported, in June of last year, Stanford researchers published a similar methodology for altering a person’s pre-recorded facial expressions in real-time to mimic the expressions of another person making faces into a webcam. The new study, however, adds the ability to synthesize video directly from audio, effectively generating a higher dimension from a lower one.
+
+Advertisement
+
+In their paper, the researchers pointed to several practical applications of being able to generate high quality video from audio, including helping hearing-impaired people lip-read audio during a phone call or creating realistic digital characters in the film and gaming industries. But the more disturbing consequence of such a technology is its potential to proliferate video-based fake news. Though the researchers used only real audio for the study, they were able to skip and reorder Obama’s sentences seamlessly and even use audio from an Obama impersonator to achieve near-perfect results. The rapid advancement of voice-synthesis software also provides easy, off-the-shelf solutions for compelling, falsified audio.
+
+There is some good news. Right now, the effectiveness of this video synthesis technique is limited by the amount and quality of footage available for a given person. Currently, the paper noted, the AI algorithms require at least several hours of footage and cannot handle certain edge cases, like facial profiles. The researchers chose Obama as their first case study because his weekly addresses provide an abundance of publicly available high-definition footage of him looking directly at the camera and adopting a consistent tone of voice. Synthesizing videos of other public figures that don’t fulfill those conditions would be more challenging and require further technological advancement. This buys time for technologies that detect fake video to develop in parallel. As The Economist reported earlier this month, one solution could be “to demand that recordings come with their metadata, which show when, where and how they were captured. Knowing such things makes it possible to eliminate a photograph as a fake on the basis, for example, of a mismatch with known local conditions at the time.”
+
+But as the doors for new forms of fake media continue to fling open, it will ultimately be left to consumers to tread carefully.. “President Trump is a complete and total dipshit.” So announced Barack Obama, in a video released on YouTube earlier this year. Uncharacteristic, certainly, but it appeared very real. It was, however, a falsified video made — by BuzzFeed and the actor and director Jordan Peele — with the help of artificial intelligence. A neat way of drawing attention to a rapidly maturing problem.
+
+Deepfakes, as they have been dubbed, are the most recent — and perhaps most troubling — manifestation in the evolving arms race of digital disinformation. Images have long been doctored, and methods to fiddle with audio are improving, too. Until recently, manipulating and forging video has been painstaking, requiring expert skills and a trove of patience. However, machine learning is increasingly facilitating and accelerating the process.
+
+Late last year, a new breed of pornographic video began appearing on Reddit, courtesy of a user named deepfakes. Using machine-learning, deepfakes had figured out how to swap out the faces of porn stars with those of celebrities. The videos caused a bit of a stir. The DeepFake algorithm was subsequently released on GitHub, giving anyone with sufficient knowhow and a decent enough computer the means to make pretty decent fakeries.
+
+Since then, similarly falsified videos and related software have been popping up all over the internet. Some are relatively harmless. One tool — inspired by deepfakes’ original algorithm — has been used mostly to insert Nicolas Cage’s face into films he didn’t appear in. But there is clearly a malign potential. It’s easily conceivable that a well-faked video could heighten geopolitical tensions, spark unrest or intensify crime. Trust could be quickly eroded in institutions, media and even political systems. A viable concern is that technological evolution outpaces the development of appropriate government policies.
+
+Thankfully, the scientific community is on the case. One team, led by Siwei Lyu at the University of Albany, New York, has found a flaw in the fakery. The DeepFake algorithm creates videos out of images that it is fed. While suitably accurate, the AI fails to perfectly reproduce all physiological signals that humans naturally give off. Lyu and his team focused on one in particular: blinking. Humans typically blink spontaneously about once every two or three seconds. But as photos of people don’t usually have their eyes closed, training the algorithm on these will mean people in the videos rarely blink either.
+
+So Lyu and his team designed an AI algorithm to detect where blinking was absent in faked videos. Their algorithm — a combination of two neural networks — first detects faces, then aligns all of the continuous images in the video, before analysing the eye regions in each. One part of the network decides whether the face has its eyes closed or not. The other serves as a memory system, remembering the decision from frame to frame, to determine if blinking has taken place over time.. How will artificial intelligence affects jobs?
+
+Let’s hear from Barack Obama on the future of the world.
+
+To learn more, check out: 10 Key Robotics Facts You Need to Know and 10 Ways Robotics Could Transform Our Future.. . Researchers have developed a new tool, powered by artificial intelligence, that can create realistic-looking videos of speech from any audio clip, and they've demoed the tech by synthesising four artificial videos of Barack Obama saying the same lines.
+
+The tool isn't intended to create a flurry of fake news and put false words in people's mouths though – it's designed partly as a way to eventually spot forgeries and videos that aren't all they appear to be.
+
+According to the team from the University of Washington, as long as there's an audio source to use, the video can include realistic mouth shapes that are almost perfectly aligned to the words being spoken. Those synthesised shapes can then be grafted onto an existing video of someone talking.
+
+"These type of results have never been shown before," says one of the researchers, Ira Kemelmacher-Shlizerman. "Realistic audio-to-video conversion has practical applications like improving video conferencing for meetings, as well as futuristic ones such as being able to hold a conversation with a historical figure in virtual reality."
+
+"This is the kind of breakthrough that will help enable those next steps."
+
+The video synthesising stages. Credit: University of Washington
+
+There are two parts to the system: first a neural network is trained to watch large volumes of videos to recognise which audio sounds match with which mouth shapes. Then the results are mixed with moving images of a specific person, based on previous research into digital modelling carried out at UW.
+
+The tool is impressively good, as you can see from the demo clips (below), but it needs source audio and video files to work from, and can't generate speeches from thin air. In the future, the researchers say, the AI system could be trained using video from messaging apps, and then used to enhance their quality.
+
+"When you watch Skype or Google Hangouts, often the connection is stuttery and low-resolution and really unpleasant, but often the audio is pretty good," says one of the team, Steve Seitz. "So if you could use the audio to produce much higher-quality video, that would be terrific."
+
+When it comes to spotting fake video, the algorithm used here could be reversed to detect clips that have been doctored, according to the researchers.
+
+You can see the tool in action below:
+
+width="700″ height="414″ allowfullscreen="allowfullscreen">
+
+As you might know from video games and animated movies, scientists are working hard to solve the "uncanny valley" problem, where computer-generated video of someone talking looks almost right but still somehow off-putting.
+
+In this case the AI system does all the heavy lifting when it comes to working out mouth shape, chin position, and the other elements needed to make a clip of someone talking look realistic.
+
+Artificial intelligence excels at machine learning problems like this, where masses of data can be analysed to teach computer systems to do something – whether that's recognising dogs in an image search or producing natural-looking video.
+
+"There are millions of hours of video that already exist from interviews, video chats, movies, television programs and other sources," says lead researcher Supasorn Suwajanakorn. "And these deep learning algorithms are very data hungry, so it's a good match to do it this way."
+
+It's another slightly scary step forward in the quality of digital fakery, similar to Adobe's Project VoCo, which we saw last year – another AI system that can produce new speech out of thin air after studying just 20 minutes of someone talking.
+
+However, this particular neural network has been designed to work with just one individual at a time using authentic audio clips, so you can still trust the footage you see on the news for a while yet.
+
+"We very consciously decided against going down the path of putting other people's words into someone's mouth," says Seitz. "We're simply taking real words that someone spoke and turning them into realistic video of that individual."
+
+The research is being presented at the SIGGRAPH 2017 computer graphics conference and you can read the paper here.. . In an age of Photoshop, filters and social media, many of us are used to seeing manipulated pictures – subjects become slimmer and smoother or, in the case of Snapchat, transformed into puppies.
+
+However, there’s a new breed of video and audio manipulation tools, made possible by advances in artificial intelligence and computer graphics, that will allow for the creation of realistic looking footage of public figures appearing to say, well, anything. Trump declaring his proclivity for water sports. Hillary Clinton describing the stolen children she keeps locked in her wine cellar. Tom Cruise finally admitting what we suspected all along … that he’s a Brony.
+
+This is the future of fake news. We’ve long been told not to believe everything we read, but soon we’ll have to question everything we see and hear as well.
+
+For now, there are several research teams working on capturing and synthesizing different visual and and audio elements of human behavior.
+
+Software developed at Stanford University is able to manipulate video footage of public figures to allow a second person to put words in their mouth – in real time. Face2Face captures the second person’s facial expressions as they talk into a webcam and then morphs those movements directly onto the face of the person in the original video. The research team demonstrated their technology by puppeteering videos of George W Bush, Vladimir Putin and Donald Trump.
+
+Face2Face lets you puppeteer celebrities and politicians, literally putting words in their mouths.
+
+On its own, Face2Face is a fun plaything for creating memes and entertaining late night talk show hosts. However, with the addition of a synthesized voice, it becomes more convincing – not only does the digital puppet look like the politician, but it can also sound like the politician.
+
+A research team at the University of Alabama at Birmingham has been working on voice impersonation. With 3-5 minutes of audio of a victim’s voice – taken live or from YouTube videos or radio shows – an attacker can create a synthesized voice that can fool both humans and voice biometric security systems used by some banks and smartphones. The attacker can then talk into a microphone and the software will convert it so that the words sound like they are being spoken by the victim – whether that’s over the phone or on a radio show.
+
+Canadian startup Lyrebird has developed similar capabilities, which it says can be used to turn text into on-the-spot audiobooks “read” by famous voices or for characters in video games.
+
+Although their intentions may be well-meaning, voice-morphing technology could be combined with face-morphing technology to create convincing fake statements by public figures.
+
+You only have to look at the University of Washington’s Synthesizing Obama project, where they took the audio from one of Obama’s speeches and used it to animate his face in an entirely different video with incredible accuracy (thanks to training a recurrent neural network with hours of footage), to get a sense of how insidious these adulterations can be.
+
+Beyond fake news there are many other implications, said Nitesh Saxena, associate professor and research director of the University of Alabama at Birmingham’s department of computer science. “You could leave fake voice messages posing as someone’s mum. Or defame someone and post the audio samples online.”
+
+These morphing technologies aren’t yet perfect. The facial expressions in the videos can seem a little distorted or unnatural and the voices can sound a little robotic.But given time, they will be able to faithfully recreate the sound or appearance of a person – to the point where it might be very difficult for humans to detect the fraud.
+
+Given the erosion of trust in the media and the rampant spread of hoaxes via social media, it will become even more important for news organizations to scrutinize content that looks and sounds like the real deal.
+
+Telltale signs will be where the video or audio was created, who else was at the event and whether the weather conditions match the records of that day.
+
+People should also be looking at the lighting and shadows in the video, whether all of the elements featured in the frame are the right size, and whether the audio is synced perfectly, said Mandy Jenkins, from social news company Storyful, which specializes in verifying news content.
+
+Doctored content might not pass the scrutiny of a rigorous newsroom, but if posted as a grainy video to social media it could spread virally and trigger a public relations, political or diplomatic disaster. Imagine Trump declaring war on North Korea, for example.
+
+“If someone looks like Trump and speaks like Trump they will think it’s Trump,” said Saxena.
+
+“We already see it doesn’t even take doctored audio or video to make people believe something that isn’t true,” added Jenkins. “This has the potential to make it worse.”. There’s a video making its rounds online in which former President Barack Obama is cosigning the efforts of Erik Killmonger in Black Panther, offering a controversial opinion about HUD Secretary Ben Carson, and calling President Donald Trump a “total and complete dips—.”
+
+But, the video is fake.
+
+The former POTUS never said those words, nor was he actually being interviewed.
+
+According to reports, Obama’s likeness was the genius of artificial intelligence and Oscar-winning filmmaker Jordan Peele’s production company, which used Adobe After Effects and the A.I. face-swapping tool FakeApp to create the footage. The video was done in conjunction with BuzzFeed.
+
+BuzzFeed CEO Jonah Peretti released the video to highlight how technology can be used to create fake news, and it does just that, with Obama’s likeness stating, “This is a dangerous time. Moving forward, we need to be more vigilant with what we trust from the Internet. It’s a time where we need to rely on trusted news sources.” BuzzFeed illustrates, via a split screen, Peele voicing the same words, providing the framework for the A.I.-produced Obama’s rhetoric.
+
+The video serves as a PSA on how A.I. can be used to promote misinformation, slander, fraud, and misrepresentation, and it urges, through its example, consumers to be discerning about the sources from which they are getting information and the factual nature of information shared online. The fake Obama ends the video saying, “Stay woke, b*****.”
+
+The phenomenon of fake news is not new, from the Yellow Journalism days of American history to President Donald Trump having made the concept infamous since taking office, and it’s an almost weekly occurrence when it comes to the deaths of celebrities. It can become very dangerous when related to politics, crime, and activism, and one small seed of incorrect or untrue news can hit the Web, go viral in minutes, and ruin careers, skew elections, lead to deaths, or push stocks to plunge.
+
+Fraudsters create bogus news pages with articles that seem real and that are often shared on social media, but this example by BuzzFeed takes things a step further, providing video evidence of the power of visual media tools in creating and spreading fake news. In today’s digital media world, video is king. (The video-sharing site YouTube, according to the Pew Research Center, is now used by nearly three-quarters of U.S. adults, and reports indicate that by 2019, Web video will account for 80% of all consumer Web traffic.)
+
+The BuzzFeed PSA illustrates the volatile combo of fake news and technology, and how easy it is to create a potentially explosive disaster if shared online. The Obama video was posted on BuzzFeed’s YouTube channel just last week and already has more than 3.7 million views.
+
+Watch the video below.
+
+%CODE1%. It starts with a clickbait-y title -- "You Won't Believe What Obama Says In This Video!" -- and then delivers on that promise.
+
+Buzzfeed released a video on Tuesday that at first appears to show former US President Barack Obama conveying a warning, saying "We're entering an era in which our enemies can make it look like anyone is saying anything at any point in time." It then continues with Obama dropping an obscenity about President Donald Trump.
+
+Obama didn't say these things, of course.
+
+The video quickly reveals it's a fake, with the Oscar-winning filmmaker, actor and writer Jordan Peele providing the voice. Peele and Buzzfeed are looking to draw attention to the growing problem of fake-news videos, which can seem startlingly real.
+
+Buzzfeed points to the work of University of Washington computer scientists who demonstrated the ability to turn audio clips into realistic lip-synced video for a study last year. Those researchers shared a video of Obama as an example.
+
+Buzzfeed's video producer used a combination of Adobe After Effects video software and FakeApp, an AI program that was used to produce a popular video featuring actor Nicolas Cage in a variety of movies he didn't star in.
+
+The issue of fake videos is a growing problem. Earlier this year, online community Reddit banned "deepfake" pornography that uses AI to graft a person's face onto another person's body.
+
+Video is an especially powerful medium. The technology is getting more sophisticated and widespread and there's increased concern about how misinformation might be used to sway voters in elections.
+
+Peele concludes the faux Obama video with a call for people to be more vigilant about what they trust from the internet. The final clip is Peele's voice impersonation appearing to come from Obama and saying, "Stay woke, b*****s."
+
+CNET Magazine: Check out a sample of the stories in CNET's newsstand edition.
+
+Cambridge Analytica: Everything you need to know about Facebook's data mining scandal.. It seems that nowadays, there isn’t a day that passes by without someone proclaiming “fake news” — that now-infamous phrase that rose to prominence during the last American election and is now being bandied about ad nauseum.
+
+But as any intelligent person knows, it’s true that you can’t always believe what you read or see on (or off) the Internet. Fake Photoshopped images abound on the internet, thanks to photo-editing technology that allows people to create staged situations that look real — but never actually happened.
+
+Now, with the help of artificial intelligence, we might be facing the prospect of an explosion of fake news videos too. At least that’s what we might assume from these new findings from researchers from University of Washington, who created this rather convincing but bogus video of former U.S. president Barack Obama, using an artificial neural net trained on many hours of video footage featuring the former president, overlaid with an actual audio clip of him speaking last year about the Orlando mass shootings. Watch and see if you can determine what’s real and what’s not, and how it was done:
+
+According to the researchers’ paper, they used what is called a recurrent neural network (RNN), a type of artificial neural network that arranges nodes of artificial neurons to function in a way that resembles the human brain. These networks are fed massive amounts of data in order to ‘learn’ how to perform a task or solve a problem.
+
+We’ve seen recurrent neural networks applied to things like speech recognition, text-to-speech synthesis — anything that requires some kind of internal memory to process varying sequences of inputs.
+
+In this case, the researchers lifted the audio of Obama speaking in a separate video, and dubbed it over another video of him in a completely different location. Using about 14 hours of footage in the public domain and sourced from Obama’s weekly announcements, the recurrent neural net was able to “learn” how to recreate a composite of the facial and mouth movements that corresponded to various sounds.
+
+To do this, the neural network synthesized a “sparse mouth shape,” on top of which mouth textures could be then applied and blended into an altered target video, giving the talking head an appearance of natural movement. The result is an eerily plausible lip sync.
+
+Surprisingly though, this isn’t the first time that researchers have tried to do this kind of thing. As mentioned in the video above, there have been other versions of the same concept, but this time around, the University of Washington team added a time-delay to the process to make the results look much more realistic.
+
+In addition, the neural network focused on synthesizing the parts of the face most associated with producing speech — namely, the mouth and the surrounding area, lips and teeth, with special attention being paid to the subtle wrinkles and shadows in the skin that would be made while speaking. Even the jaw line is warped to match the chin in the target video.
+
+“Given the mouth shape at each time instant, we synthesize high-quality mouth texture, and composite it with proper 3D pose matching to change what he appears to be saying in a target video to match the input audio track,” wrote the team. “Our approach produces photorealistic results.”
+
+But manufacturing fake news isn’t the main intention here. The research team foresees that the technology could be used for other, more practical, applications.
+
+“Realistic audio-to-video conversion has practical applications like improving video conferencing for meetings, as well as futuristic ones such as being able to hold a conversation with a historical figure in virtual reality by creating visuals just from audio,” said study co-author Ira Kemelmacher-Shlizerman on ScienceDaily. “This is the kind of breakthrough that will help enable those next steps.”
+
+And even if the technology is used for manipulating the masses for political ends, that same technology can be used to determine whether a video is real or if it’s been faked — by detecting the blended teeth and mouth movements.
+
+“This may be not noticeable by human eyes, but a program that compares the blurriness of the mouth region to the rest of the video can easily be developed and will work quite reliably,” paper co-author Supasorn Suwajanakorn told IEEE Spectrum.
+
+Cold comfort, perhaps, but at least it’s a fair warning for what we might have to expect for the future.
+
+Images: University of Washington
+
+TRENDING STORIES. Fake news comes in all shapes and sizes, and unfortunately, it’s becoming more difficult to detect as technology advances. Courtesy of BuzzFeed and Get Out director Jordan Peele, we now have an appropriately terrifying idea of what it may look like in the future.
+
+Using advanced artificial intelligence (AI), the partnership created a public service announcement featuring former President Barack Obama. In it, Peele delivers his famous voiceover on top of a digitally manipulated video of the president, making it seem like Obama is giving his opinion on Black Panther, dishing on Ben Carson, and calling President Donald Trump a “total and complete dipshit.”
+
+Before you watch the clip, it’s worth reemphasizing: Obama isn’t really saying these things (Peele reveals himself at the midway point in the video).
+
+So how did Peele and BuzzFeed pull this off? They used an AI face-swapping tool originally designed to make celebrity porn. Called FakeApp, the software was made popular on Reddit when female celebrities were edited into porn videos that showed up on subreddits like r/deepfakes and r/celebfakes.
+
+The more advanced implementations of the AI software were practically impossible to identify as fake, much like the Obama video. Reddit, along with Gfycat, PornHub, Discord, and Twitter banned the software, citing content policy violations.
+
+After explaining the dangers of fake news and urging people to be smarter about what they read online, Peele drops the mic by making fake Obama close with one last piece of advice: “Stay woke, bitches.”. A new technique using artificial intelligence to manipulate video content gives new meaning to the expression “talking head.”
+
+An international team of researchers showcased the latest advancement in synthesizing facial expressions—including mouth, eyes, eyebrows, and even head position—in video at this month’s 2018 SIGGRAPH, a conference on innovations in computer graphics, animation, virtual reality, and other forms of digital wizardry.
+
+The project is called Deep Video Portraits. It relies on a type of AI called generative adversarial networks (GANs) to modify a “target” actor based on the facial and head movement of a “source” actor. As the name implies, GANs pit two opposing neural networks against one another to create a realistic talking head, right down to the sneer or raised eyebrow.
+
+In this case, the adversaries are actually working together: One neural network generates content, while the other rejects or approves each effort. The back-and-forth interplay between the two eventually produces a realistic result that can easily fool the human eye, including reproducing a static scene behind the head as it bobs back and forth.
+
+The researchers say the technique can be used by the film industry for a variety of purposes, from editing facial expressions of actors for matching dubbed voices to repositioning an actor’s head in post-production. AI can not only produce highly realistic results, but much quicker ones compared to the manual processes used today, according to the researchers. You can read the full paper of their work here.
+
+“Deep Video Portraits shows how such a visual effect could be created with less effort in the future,” said Christian Richardt, from the University of Bath’s motion capture research center CAMERA, in a press release. “With our approach, even the positioning of an actor’s head and their facial expression could be easily edited to change camera angles or subtly change the framing of a scene to tell the story better.”
+
+AI Tech Different Than So-Called “Deepfakes”
+
+The work is far from the first to employ AI to manipulate video and audio. At last year’s SIGGRAPH conference, researchers from the University of Washington showcased their work using algorithms that inserted audio recordings from a person in one instance into a separate video of the same person in a different context.
+
+In this case, they “faked” a video using a speech from former President Barack Obama addressing a mass shooting incident during his presidency. The AI-doctored video injects the audio into an unrelated video of the president while also blending the facial and mouth movements, creating a pretty credible job of lip synching.
+
+A previous paper by many of the same scientists on the Deep Video Portraits project detailed how they were first able to manipulate a video in real time of a talking head (in this case, actor and former California governor Arnold Schwarzenegger). The Face2Face system pulled off this bit of digital trickery using a depth-sensing camera that tracked the facial expressions of an Asian female source actor.
+
+A less sophisticated method of swapping faces using a machine learning software dubbed FakeApp emerged earlier this year. Predictably, the tech—requiring numerous photos of the source actor in order to train the neural network—was used for more juvenile pursuits, such as injecting a person’s face onto a porn star.
+
+The application gave rise to the term “deepfakes,” which is now used somewhat ubiquitously to describe all such instances of AI-manipulated video—much to the chagrin of some of the researchers involved in more legitimate uses.
+
+Fighting AI-Created Video Forgeries
+
+However, the researchers are keenly aware that their work—intended for benign uses such as in the film industry or even to correct gaze and head positions for more natural interactions through video teleconferencing—could be used for nefarious purposes. Fake news is the most obvious concern.
+
+“With ever-improving video editing technology, we must also start being more critical about the video content we consume every day, especially if there is no proof of origin,” said Michael Zollhöfer, a visiting assistant professor at Stanford University and member of the Deep Video Portraits team, in the press release.
+
+Toward that end, the research team is training the same adversarial neural networks to spot video forgeries. They also strongly recommend that developers clearly watermark videos that are edited through AI or otherwise, and denote clearly what part and element of the scene was modified.
+
+To catch less ethical users, the US Department of Defense, through the Defense Advanced Research Projects Agency (DARPA), is supporting a program called Media Forensics. This latest DARPA challenge enlists researchers to develop technologies to automatically assess the integrity of an image or video, as part of an end-to-end media forensics platform.
+
+The DARPA official in charge of the program, Matthew Turek, did tell MIT Technology Review that so far the program has “discovered subtle cues in current GAN-manipulated images and videos that allow us to detect the presence of alterations.” In one reported example, researchers have targeted eyes, which rarely blink in the case of “deepfakes” like those created by FakeApp, because the AI is trained on still pictures. That method would seem to be less effective to spot the sort of forgeries created by Deep Video Portraits, which appears to flawlessly match the entire facial and head movements between the source and target actors.
+
+“We believe that the field of digital forensics should and will receive a lot more attention in the future to develop approaches that can automatically prove the authenticity of a video clip,” Zollhöfer said. “This will lead to ever-better approaches that can spot such modifications even if we humans might not be able to spot them with our own eyes.
+
+Image Credit: Tancha / Shutterstock.com. . . We live in crazy times, where #FakeNews and data gathering is increasingly shaping the discourse.
+
+The revelations from the Cambridge Analytica have shed some light on just how deep the rabbit hole goes.
+
+According to the New York Times and Britain’s Observer newspapers, Cambridge Analytica was accused of stealing information from 50 million Facebook users’ profiles in the tech giant’s biggest-ever data breach, to help them design software to predict and influence voters’ choices at the ballot box.
+
+But, if you weren’t concerned enough already, this video of former President of the United States, Barack Obama saying all kinds of stuff will have you shook. Of course, it’s not actually Obama saying all these things, that’s the whole point.
+
+Filmmaker Jordan Peele, the mastermind behind the movie Get Out, revealed just how easy it is to use AI technology in digital warfare and propaganda.
+
+Teaming up with Buzzfeed, his Monkeypaw Productions team created a fake public service announcement delivered by AI Obama. It shows just how easy it use to use artificial intelligence and visual editing tools to spread misinformation.
+
+AI Obama looks just like real Obama and Peele does a pretty good job of impersonating his voice. The results are scary, but also informative.
+
+From calling Donald Trump a ‘dipshit’ to ‘stay woke, bitches’, AI Obama has a lot to say.
+
+Watch: AI Obama is creepy AF
+
+The takeaway from this experiment is simple: in an age where your confirmation bias is likely to be confirmed by algorithms, be extra cautious of what you believe.
+
+We’re in an era where propaganda is taking on a completely different form. We should always question everything. Yes, that includes this website you’re reading.
+
+And be careful of who you share your information with. If you need help restricting access to third-party apps on Facebook, check out our handy guide over here.. Translating audio into realistic looking video of a person speaking is quite a challenge. Often, the resulting video just looks off -- a problem called the uncanny valley, which states that human replicas appearing almost but not quite real come off as eerie or creepy. However, researchers at the University of Washington have made some serious headway in overcoming this issue and they did it using audio and video of Barack Obama.
+
+The researchers used 14 hours of Obama's weekly address videos to train a neural network. Once trained, their system was then able to take an audio clip from the former president, create mouth shapes that synced with the audio and then synthesize a realistic looking mouth that matched Obama's. The mouth synced to the audio was then superimposed and blended onto a video of Obama that was different from the audio source. To make it look more natural, the system corrected for head placement and movement, timing and details like how the jaw looked. The whole process is automated save for one manual step that requires a person to select two frames in the video where the subject's upper and lower teeth are front-facing and highly visible. Those images are then used by the system to make the resulting video's teeth look more realistic.
+
+The program isn't perfect yet, but in the video below you can see how much better it gets after three minutes, one hour, seven hours and 14 hours of training data. Some limitations the team has pointed out include occasional mistakes in mouth and facial alignment -- sometimes it gave Obama two chins -- an inability to match emotion and issues arising with sounds that require a particular placement of the tongue, like "th," which isn't currently covered by their program.
+
+But, overall this artificial lip-syncing program creates a much more realistic image than others have. The work will be published in ACM Transactions on Graphics and you can see the researchers' process in the video below.. If you, like me, believe yourself to be a scrupulous consumer of news, full of healthy skepticism and too smart for that fake-news bullshit, Jordan Peele has got a big, stiff-ass cup of wake-the-hell-up for you. Yesterday, Peele released a video with BuzzFeed News titled "You Won't Believe What Obama Says in This Video [winky-face emoji]"—something that seems really easy to gloss over if you're accustomed to viral stunts. But you should watch this one, because it's a really good reminder of how easily conned we can be in 2018.
+
+The video shows what appears to be Barack Obama talking about how easily faked public statements can be, before revealing that it's not actually Obama but Jordan Peele doing his extremely good Obama impression with the help of some AI puppets that are becoming frighteningly easy to use.
+
+If you look at it closely, you can see that it looks a bit suspect—the lower half of "Obama's" face is a bit off, and the hand movements are weird—but if you're not primed to look for this stuff, it's incredibly easy to miss. (Besides, we watch most videos on tiny screens where glitchy giveaways can be written off as hiccups in Internet service.) Peele's PSA uses his Fake Obama to have a little fun (he calls Trump a dipshit, and signs off with "stay woke, bitches"), but also to stress the importance of news literacy, skepticism, and trust in established and credible news sources.
+
+Of course, it's not hard to imagine this PSA immediately being taken out of context and parts of it (like the "Trump is a dipshit" part) passed as Obama's actual words on some subreddit somewhere. It's nice to remember how well and truly screwed we are.
+
+Watch:
+
+How to Tie a Durag, According to A$AP Ferg. Many of us have had to heed the warning of, "Don't put words in my mouth" at some point over the course of our lives, but generally speaking, no one actually means it from in a literal sense. In time, though, thanks to deep learning and artificial intelligence, putting words in someone's mouth could become a legitimate reality.
+
+
+
+
+
+Complementing the upcoming SIGGRAPH conference in Los Angeles, researchers from University of Washington have worked their magic to put words into former President Barack Obama's mouth. At least in this case, the words said actually did come from Obama's mouth, but the footage seen is not from the same time he said it. Think this sounds freaky? It absolutely is. Check it out:
+
+In order to impersonate someone like this, a lot of source footage is required, as a neural net will churn through as much data as it can to better understand exactly how someone's face moves when they speak certain words. That includes how their wrinkles react, their skin stretches, and so on. All put together, and with the right tools, the result is almost scary.
+
+One of the reasons the result above is as good as it is, is simply for the fact that there exist hundreds of hours' worth of video of Obama talking to the camera. Most people, even celebrities, are not going to have so much perfect video like this available, but as time goes on, the requirement for loads of video will only decrease, as the AI becomes more accurate.
+
+
+
+
+
+
+
+"Fake News" is a term that's been floating around increasingly over the past few months, and this is a perfect example of what the future holds. We've all seen those clickbait articles that claim a celebrity said something they clearly didn't. Now picture this technology being put into place, and resulting in a video where the person appears to say what was claimed - even if they didn't actually say it.
+
+This is oh so mind-boggling. This is the kind of technology that people used to joke about, but now is actually becoming a reality. We are living in some crazy times.. The technology has both astounded and frightened people in equal measure, but a new video highlights just how influential AI has become in news reporting.
+
+Not so long ago – and even today – the authenticity of a piece of news was based on providing the evidence, be that an audio clip or a video of a person saying or doing something.
+
+But the development of advanced artificial intelligence (AI) and the proliferation of fake news has muddied the water considerably, raising serious doubts over the validity of a video, even if the person appears to be speaking complete nonsense.
+
+That was the message that director and comedian Jordan Peele wanted to highlight in a recent video collaboration with BuzzFeed whereby he used the latest in AI technology to accumulate visual data of former US president Barack Obama speaking, and was able to make it look like he was saying what Peele was saying.
+
+This included calling current US president Donald Trump “a total and complete dipshit”.
+
+While by no means perfect, the expectation is that sooner rather than later, this technology will get to a point where it is indistinguishable from what the subject is really saying. Other technologies in development not only allow someone to imitate a mouth moving, but the voice itself.
+
+Well documented by media outlets such as Radiolab, it is now possible for AI to churn through hours of audio of someone speaking and recreate their voice and speech pattern with incredible accuracy.
+
+This can then be put through a program that allows someone to type anything, and the AI version of the data subject can repeat back whatever is said.
+
+The purpose of this video, Peele made clear, is that in the age of fake news, whereby multiple falsehoods are posted on social and traditional media, such an ability could be catastrophic.
+
+“It may sound basic, but how we move forward in the age of information is going to be the difference between whether we survive or whether we become some kind of fucked-up dystopia,” Peele said, imitating Obama.
+
+Former US president Barack Obama speaking during an event in 2016. Image: Ververidis Vasilis/Shutterstock. In news that has made pranksters around the world pay attention, there is now a computer program that can create a realistic simulated video of someone speaking.
+
+Researchers at the University of Washington have proved their point by creating a lip-synced video of former US president Barack Obama that blends existing audio and footage.
+
+Image: REUTERS/Fabrizio Bensch
+
+The program uses artificial intelligence (AI) to match audio of a person speaking with realistic mouth shapes, which it then grafts on to an existing video. After analysing millions of video frames in stock footage, reviewing mouth shapes and sound patterns, the program is able to produce highly realistic simulations.
+
+Loading...
+
+Faking it in the film industry
+
+The researchers say the technology has the potential to be used in special effects. Currently the process for audio-to-video conversion involves filming lots of people saying the same sentence and attempting to find a correlation between sounds and mouth shapes. As well as being tedious and time-consuming, it also creates what is known as the “uncanny valley” problem, where videos are fairly realistic, but not quite realistic enough. Instead of looking convincing, they tend to look creepy.
+
+The technology could also improve the experience on poor-quality video calls and could have an application for hearing-impaired people, allowing them to lip-read video synthesis created from over-the-phone audio.
+
+The team also estimates that by reversing the process – feeding video into the programme instead of just audio – they could potentially develop an algorithm to detect whether a video is real or faked.
+
+The aim is to improve the algorithms to generalize situations and recognize a person’s voice and speech patterns with less data, for example with one hour of video to learn from instead of the current 14 hours.. Charles Q. Choi is a science reporter who contributes regularly to IEEE Spectrum. He has written for Scientific American, The New York Times, Wired, and Science, among others.. OPINION:
+
+Fake news, meet artificial intelligence.
+
+A video created by Oscar-winning filmmaker Jordan Peele and released by BuzzFeed appears to show Barack Obama referencing the movie “Black Panther,” remarking on HUD Secretary Ben Carson and calling President Donald Trump a “total and complete dips—.” But it was all fake.
+
+It was all a fraud.
+
+A fabrication. A figment of technological imaginations.
+
+Obama wasn’t actually speaking. His face may have been on screen, his mouth may have been moving, his lips may have been shaping syllables in sync with the words that were heard. But he was all a product of Peele’s production company and of the skillful employment of Adobe After Effects and the AI face-swapping FakeApp tool.
+
+Welcome to the wonderful world of artificial intelligence.
+
+In the video, Obama warns — or does he? — of the need to be savvy about the future of online news, by saying: “We’re entering an era which our enemies can make it look like anyone is saying anything at any point in time, even if they would never say those things.”
+
+This is true.
+
+BuzzFeed CEO Jonah Peretti released the video as a public service announcement about the growing abilities of technology to ratchet the fake news environment to a new level. At one point, Peele is shown in the video in a side-by-side with Obama, while both men speak simultaneously the same words, in one voice: “This is a dangerous time. Moving forward we need to be more vigilant with what we trust from the Internet. It’s a time where we need to rely on trusted news sources.”
+
+This is true, too.
+
+The Internet is already filled with false reports, skewed news and biased coverage, and political watchers in particular have to be on their toes to discern the truth from lies, fact from fiction.
+
+Now add AI and suddenly, the whole fake news process becomes a bit easier to navigate, a bit faster to achieve, a bit more user-friendly to develop. It won’t be long before some smart marketer comes up with ingenious television ads for movie-making software that swaps out faces and subs in voices — and hey now, move over karaoke machines, here’s the coolest Christmas gift this season. Or, for some enterprising research and development hotshot at Samsung or AT&T to design a smart phone app that allows for easy editing-slash-face-swapping of recordings that are shot on hand-held devices.
+
+From there, the technology will only fine tune, improve and move mainstream.
+
+This faked Obama video may not be at the point of complete believability just yet. But it’s decent; it shows potential. It shows the direction AI’s pointing and opens the pathway for improvements. Moreover, it fuels the drive for those with technological savvy to compete on the business end and make the necessary improvements. All that’s needed now is a bit of time, a bit more technological advancement, a bit of marketing pop and soon enough, the technology will become just another consumer tool, just another fun consumer past-time. Or, on the dark side: Just another way of engaging in the political process and shaping the media narrative.
+
+Soon enough, we’ll all be watching videos and listening to audio of noted political figures and world leaders and wondering — did he really say that? Is that fake news? And the scary thing is, it’ll be really tough to tell.
+
+• Cheryl Chumley can be reached at cchumley@washingtontimes.com or on Twitter, @ckchumley.. A minute-long video of Barack Obama has been seen more than 4.8 million times since April. It shows the former U.S. president seated, with the American flag in the background, speaking directly to the viewer and using an obscenity to refer to his successor, Donald Trump. Or rather, his lips move as the words are spoken. The video is actually a so-called deep fake made by actor-director Jordan Peele, who impersonated Obama’s voice. Peele created the video to illustrate the dangers of fabricated audio and video content depicting people saying or doing things they never actually said or did. Researchers at New York University describe deep fakes as a “menace on the horizon.”
+
+1. What constitutes a deep fake?
+
+While manipulation of digital files is nothing new, this breed of believable fakery is accomplished using computer programs that employ a form of artificial intelligence. An algorithm is trained to recognize patterns in actual audio or visual recordings of a particular person, a process known as deep learning. As with doctored images, a piece of content can be altered by swapping in a new element — such as someone else’s face or voice — and seamlessly joining the two. The manipulations are most misleading when combined with voice-cloning technology, which breaks down an audio recording into half-syllable chunks that can be reassembled into new words — the same method that’s used to create voice assistants like Apple’s Siri and Amazon’s Alexa.
+
+2. Why are some fakes more believable than others?
+
+The bigger the library of content a deep-learning algorithm is fed with, the more realistic the phony can be. The Obama deep fake required 56 hours of sample recordings. Apple recorded 10 to 20 hours of speech to create Siri. According to a number of reports, voice clones can be made from little more than a few seconds of material.
+
+3. How did this technology spread?
+
+Motherboard, a Vice publication, reported in December that a Reddit user called “deepfakes” had made publicly available an algorithm for making fake videos using open-source code. Previously, the technology was the domain of academics and researchers, but now anyone could use it. It took off as a means to create phony pornography, usually with the faces of female celebrities mapped on to porn stars’ bodies to depict sex acts that never took place. Reddit banned the user “deepfakes,” but the technology spread and is now readily available on apps such as FakeApp.
+
+4. Apart from pornographers, who’s making fakes?
+
+In what’s been called a technological arms race, universities and research companies are developing the technology to test the power of deep fakes and to beat nefarious practitioners to it. Researchers at Carnegie Mellon University recently created a system that can transfer characteristics, such as facial expressions, from a video of one person to a synthesized image of another. China’s Baidu and a handful of startups including Lyrebird and iSpeech have been selling voice cloning for commercial use in human-machine interfaces.
+
+5. Why are people worried?
+
+The fear is that deep fakes could unduly destroy reputations and even set off unrest. Imagine falsified videos depicting a presidential candidate molesting children, a police chief inciting violence against a minority group, or soldiers committing war crimes. High-profile individuals such as politicians and business leaders are especially at risk, given how many recordings of them are in the public domain. For ordinary people, especially women, the technology makes revenge porn a possibility even if no actual naked photo or video exists. Once a video goes viral on the internet, it’s almost impossible to contain. An additional concern is that spreading awareness about deep fakes will make it easier for people who truly are caught on tape doing or saying objectionable things to claim that the evidence against them is bogus.
+
+6. Can the fakes be detected?
+
+The kind of machine learning that produces deep fakes can’t easily be reversed to detect them. Researchers have identified clues that might indicate a video is inauthentic — if the speaker hasn’t blinked for a while or seems slightly jerky, for example — but such details could easily slip a viewer’s notice. By enhancing the color saturation on a video of a person, it’s possible to detect his or her pulse from the almost invisible change in facial skin; an image made from a mishmash of clips would have an irregular or non-existent blood flow. The U.S. Defense Department is developing tools to counter deep fakes.
+
+7. Are there benevolent uses?
+
+Yes. Scottish firm CereProc creates digital voices for people who lose their own through disease, and vocal cloning could serve an educational purpose by recreating the sound of historical figures. A project at North Carolina State University synthesized one of Martin Luther King Jr.’s unrecorded speeches. CereProc created a version of the last address written by President John F. Kennedy, who was assassinated before delivering it. The John F. Kennedy Library rejected the recording, though, saying it didn’t meet its guidelines.. 

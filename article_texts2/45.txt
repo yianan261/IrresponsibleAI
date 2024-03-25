@@ -1,0 +1,319 @@
+. . Google has lost a case in Italy over the defamatory nature of autocomplete suggestions, according to a lawyer for the complainant.
+
+Google has lost a case in Italy over the defamatory nature of autocomplete suggestions. Credit: Google
+
+On Tuesday, lead counsel Carlo Piana wrote on his blog that the Court of Milan has upheld its earlier decision to order Google to filter out libellous search suggestions. These are the suggestions that pop up in Google's search input bar, proposing what the user might be wanting to search for.
+
+People searching via Google for Piana's client, who remains publicly unnamed, were apparently presented with autocomplete suggestions including truffatore ("con man") and truffa ("fraud").
+
+The order (PDF, in Italian) is dated 31 March, although Piana only made its contents public on Tuesday. Google lost its bid to claim the protection of the E-Commerce Directive's safe harbour provisions, which partly shields hosting and ISPs from liability for content held on or transmitted over their systems. However, the court viewed the autocomplete suggestions as being produced by Google itself.
+
+Content filter
+
+"Google argued that it could not be held liable because it is a hosting provider, but we showed that this is content produced by them (and by the way, they do filter out certain content, including terms that are known to be used to distribute copyright-infringing material), although through automated means," Piana wrote.
+
+The lawyer said the suit is "by no means an endorsement to censorship", as the allegations had been fully discussed with Google before the court action was even considered and only two phrases were put forward to be filtered out of autocomplete.
+
+"All cases are different, therefore there is no assurance that similar cases would see the same outcome," Piana said. He added that this case had "caused a lot of trouble to the client, who has a public image both as an entrepreneur and provider of educational services in the field of personal finance".
+
+In a statement on Tuesday, Google said it was "disappointed" by the Court of Milan's decision.
+
+"We believe that Google should not be held liable for terms that appear in autocomplete as these are predicted by computer algorithms based on searches from previous users, not by Google itself," the company said. "We are currently reviewing our options."
+
+This is not the first time Google has fallen foul of Italy's authorities. In February 2010, three Google executives were convicted in absentia over a video uploaded to the site, in which an autistic child was shown being bullied. In January this year, Italian authorities also forced Google to make concessions regarding Google News and AdSense, in order to close an antitrust investigation in the country.. A popular Irish hotel has sued Google for defamation because Google’s autocomplete feature suggests to searchers that the hotel is in receivership.
+
+Searchers looking for the Ballymascanlon Hotel — a four-star property that’s reportedly one of the most popular wedding venues in northeast Ireland and is not in financial trouble — see “ballymascanlon hotel receivership” as an autocomplete suggestion as soon as they’ve typed only eight letters of the hotel name. According to a recent Sunday Times article (quoted here by TJ McIntyre), some brides have contacted the hotel “in tears” after seeing the autocomplete suggestion, no doubt fearing that their wedding plans would have to be scrapped.
+
+As Mark Collier writes, the hotel isn’t seeking punitive damages from Google; the suit only asks for an injunction to stop Google from showing the autocomplete suggestion about receivership, and for Google to pay the hotel’s legal fees.
+
+Collier also details how the hotel made multiple attempts to contact Google about the issue and resolve it away from court – beginning with online channels and eventually escalating to attorney’s letters and even including the autocomplete problem in a DMCA complaint filed in March.
+
+Previous Autocomplete Cases
+
+Google has already faced similar complaints in other countries, and hasn’t fared well in the courts. The company lost two cases last year in France; see our articles Google Loses French Lawsuit Over Google Suggest and Google Convicted Again In France Over Google Suggest.
+
+Earlier this year, Google also lost cases in Italy and Argentina.
+
+How Autocomplete Works
+
+Google has explained many time that autocomplete suggestions come from actual search activity. In Danny Sullivan’s article, How Google Instant’s Autocomplete Suggestions Work, the company commented on the Italian case I mentioned above:
+
+We believe that Google should not be held liable for terms that appear in Autocomplete as these are predicted by computer algorithms based on searches from previous users, not by Google itself.
+
+But Google’s argument that autocomplete suggestions are algorithmic doesn’t seem to stand up to legal scrutiny, perhaps because the company has manually removed piracy-related terms in the past, and its help pages list other cases — pornography, violence, hate speech, etc. — where suggestions will be removed.
+
+I’m certainly not a lawyer, nor do I play one on Search Engine Land. So, whether that happens again in Ireland is anyone’s guess at this point.
+
+(Thanks to Mark Collier for tipping us to this story. If you have news tips to share, please contact us.). Yeung wants a court to order Google to remove the "defamatory" suggestions and to pay him compensation.
+
+When users type "Albert Yeung Sau-shing" in English or Chinese into the search engine, Google automatically suggests related search terms such as "triad", "Sun Yee On" and "14K" - the names of triad gangs.
+
+Yeung, founder of a company that manages some of Hong Kong's most famous celebrities, wants to sue the US technology giant because the "autocomplete" function of its search engine links him to triad gangs.
+
+A High Court judge's ruling that entertainment tycoon Albert Yeung Sau-shing can go ahead with his defamation lawsuit against Google is a decision that could have far-reaching consequences for the future of its search engine.
+
+Google argues the suggestions are generated by a computer algorithm or process based on the most frequent combinations of terms that people search for.
+
+But the High Court ruled Google "recombines and aggregates" data through its algorithm and therefore can be legally regarded as a "publisher", meaning it may be sued for defamation.
+
+The decision is a major blow to Google, three months after it lost a landmark case in the European Court of Justice, when it was ordered to erase links to content about individuals on request under the "right to be forgotten".
+
+In her judgment on Tuesday, Madam Justice Marlene Ng May-ling said a jury "may consider" a substantial award for Yeung given Google's search features.
+
+"The advantages of having easy access to a rich store of information ... [come] at a price; any risk of misinformation can spread easily as users forage in the web. The art is to find the comfortable equilibrium," Ng said.
+
+Google's lawyer, Gerard McCoy SC, warned that "the entire basis of the internet will be compromised" if search engines were required to "audit" what could be accessed.
+
+He said Google used "an algorithmic-based approach that requires no human input, operation and/or manipulation in the search processes" and was "a mere passive facilitator".
+
+The judge, however, was unimpressed, saying that Google's algorithms "are synthesising and reconstituting" inputted query data and web content before publishing them as suggestions.
+
+Information thus provided was "distilled pursuant to artificial intelligence set up by Google Inc themselves", Ng said. "This raises a question as to whether or not Google Inc is a neutral tool, and whether [autocomplete search] results are merely [a] machine-generated and non-meaningful jumble of keywords."
+
+Google would not comment on the judgment.
+
+Francis Fong Po-kiu, chairman of the Hong Kong Association of Interactive Marketing, cast doubt on the usefulness of asking Google to remove the associations, as media materials could not be taken down.
+
+"Even if the court was to eventually rule in favour of any individual, the ruling should bind the search engine only so far as that person is concerned," Fong said.
+
+This is not the first time Google has been sued over its autocomplete function. Last year, a German court ordered it to remove offensive or defamatory search suggestions. In that case, the court said Google would only have to remove certain terms when it was notified of an unlawful violation of a person's rights.
+
+This article appeared in the South China Morning Post print edition as: Tycoon's suit risks big impact for Google. CANBERRA, Australia -- An Australian man who alleges Google defamed him on Wednesday won a court battle to sue the search engine giant. Milorad "Michael" Trkulja was shot in the back in 2004 in a restaurant in Melbourne, Australia's second largest city.
+
+The Australian High Court unanimously ruled in favor of Trkulja, supporting his allegation that a Google search of his name could indicate to an ordinary person he was "somehow associated with the Melbourne criminal underworld."
+
+Trkulja had successfully argued in the Victoria state Supreme Court in 2012 that Google defamed him by publishing photos of him linked to hardened criminals of Melbourne's underworld.
+
+Four years later, the Victorian Court of Appeal overturned the decision, finding the case had no prospect of successfully proving defamation. The High Court disputed that ruling and ordered Google to pay Trkulja's legal costs.
+
+Google searches for "Melbourne criminal underworld photos" bring up images of Trkulja alongside gangland figures, his lawyer Guy Reynolds told the High Court in March.
+
+However, Google's lawyers argued it would be "irrational" for someone to assume photos in a Google image search for underworld figures are all of criminals, because the same search would also bring up the Google logo, movie posters, images of crime victims and photos of actor Marlon Brando.
+
+Trkulja is also claiming defamation around Google's "autocomplete" options for his name, which have included phrases like "is a former hit man," ''criminal" and "underworld."
+
+However, the court heard autocomplete is an automatic function and that previous searches influence future suggestions.
+
+The defamation suit is expected to go back to the Victoria Supreme Court for trial.
+
+Trkulja said he would continue the legal action until he gets the result he wants, fearful someone will see the images and tell his grandchildren he's a hardened criminal.
+
+"I will sue Google ... and I will sue them till they stop. I want them to block my pictures," he said. "I'm not a criminal, I've never been involved and I will make sure these people are not going to ruin my family - I have grandchildren," he added.
+
+Google said in a statement: "We will continue to defend the claim. We decline to comment further on ongoing legal matters.". Google’s autocomplete feature has earned meme status for the hilarious and sometimes disturbing search terms it suggests. For example, if you type “why are” into Google search right now, the number one suggested search is: “Why are manhole covers round?” But autocomplete isn’t all fun and games. When Hong Kong business tycoon Albert Yeung Sau-shing Googled his name, the autocomplete feature suggested the word “triad,” a term that, in Asia, is associated with organized crime.
+
+Now Yeung is suing Google for libel.
+
+Yeung is the founder and chairman of Emperor Group, a sprawling business empire that includes property development, entertainment and financial services. He has been found guilty of crimes including illegal bookmaking and perverting the course of public justice, and has been fined for insider trading.
+
+However, he has tried to rehabilitate his image through charity work. He is not one to tolerate even a minor blemish to his reputation — or his tablecloth for that matter: “If any sauce drops on the dining table, I would be very unhappy, as though my business had failed,” he once said, according to the South China Morning Post.
+
+Advertisement
+
+Google tried to have the case dismissed, but Tuesday a judge in Hong Kong said it could go to trial. The decision follows a trend in overseas courts sympathetic to those who want to hold Google responsible for what the Internet says about them. Deputy High Court Judge Marlene Ng cited Europe’s recent “right to be forgotten” ruling requiring Google to remove embarrassing or outdated search results upon request.
+
+Share this article Share
+
+To prove libel in Hong Kong — and the United States — you have to show the accused published a defamatory statement about you. At issue in this case is whether Google can be regarded as the “publisher” of terms suggested by its search algorithm.
+
+Autocomplete uses predictive search, which makes suggestions based on past Googling. For Yeung, “triad” appeared in autosearch because others were searching for his name and the word — or because those words appeared together in pages indexed by Google. Google, however, says it can’t “publish” libelous search results like a newspaper might publish a libelous article because it uses automated search algorithms without human input.
+
+Autosearch in action.
+
+Advertisement
+
+Yeung doesn’t dispute the search process is automated. However, he argues Google has control over suggested search terms because it designed the search algorithm. Therefore, he says, Google is the “publisher” of search results.
+
+The court acknowledges that “to influence or change what the autocomplete instant results show will require a large number of users with unique internet protocol (IP) addresses to type the desired search query into Google Search on an ongoing basis.”
+
+Nonetheless, the judge ruled that Yeung has a “good arguable case” and cleared it to move forward.
+
+Writing for Gigaom, Jeff John Roberts said the ruling is worrisome because it “may give prominent figures like Yeung a new tool to silence public opinion they disagree with. At the same time, the decision cites — and builds on — a worrying worldwide rush to censor Google.”. How We Perceive the World
+
+Google increasingly influences how we perceive the world. What are we more afraid of? That behind the computing processes stands a merciless machine, or the opaque and arbitrary decisions of a large US corporation?
+
+Both are to be feared and, in the case of Google, both come into play. Contrary to what the Google spokesman suggests, the displayed search terms are by no means solely based on objective calculations. And even if that were the case, just because the search engine means no harm, it doesn't mean that it does no harm. The Autocomplete function, the usefulness of which Google so guilelessly praises as a means of giving one's fingers a rest, undeniably helps spread rumors. Assuming that someone unsuspectingly begins to look for information on "Bettina Wulff" and is offered "prostitute," "Hanover" and "dress" as additional search terms -- where, independent of their actual interests, will users most likely click?. A recent High Court decision has opened the door to defamation proceedings that could affect search engine providers, as well as other businesses using search engine optimisation to improve their online profile.
+
+Search engines have, without question, made access to information much easier and faster. Indeed, without search engines, it would be very difficult to navigate the trillions of internet pages and find meaningful results expeditiously. The algorithms behind search engines like Google are also now so developed that they are able to predict what you are looking for through their auto-complete function. What happens though, if those functions return results that are claimed to be untrue and potentially defamatory?
+
+In the recent decision of Trkulja v Google Inc [2018] HCA 25, the High Court of Australia allowed an action to continue in which Google Inc. (a US company) is alleged to be liable in defamation for publishing search results that include images of Mr Trkulja mixed with images of convicted Melbourne criminals, as well as text referring to him and predictions generated by Google's autocomplete functionality. The decision holds the door open to defamation proceedings. While it clearly affects search engines like Google, it may also have implications for businesses using search engine optimisation to increase their online profile (eg media providers where key words could be lumped together in an unintentional manner).
+
+Relevant defamation law
+
+The law of defamation provides a remedy where a person's reputation is damaged by the publication of unjustifiable derogatory information.
+
+In order to sue, it is necessary to prove that the defamatory material that is complained of was in fact published by the party being sued. In order to prove that fact, it must be shown that the alleged publisher:
+
+was in some degree an accessory to the communication of the material in issue; and
+
+intentionally participated in the communication of the allegedly defamatory material.
+
+As to whether something is actually defamatory depends on what ordinary reasonable people would understand by the matter complained of, and whether it would cause them to think less of the person in question.
+
+The events leading up to the Google defamation case
+
+Milorad "Michael" Trkulja is an Australian resident who was shot in the back during a shooting in a Melbourne restaurant in 2004. This incident led to several articles in which there were references to certain Melbourne crime figures and investigations.
+
+Mr Trkulja alleges that when Google image searches were performed during 2012 - 2014 of "Melbourne criminal underworld photos" and "Melbourne underworld criminals", images of him were mixed with images of convicted Melbourne criminals, and the pages contained various phrases such as "melbourne criminals", "melbourne criminal underworld figure", "melbourne criminal underworld photos", "Melbourne underworld crime" etc. It was also alleged that searches of Michael Trkulja's name associated him through the autocomplete function with terms like "is a former hit man", "criminal" and "underworld".
+
+When Mr Trkulja issued proceedings in the Victorian Supreme Court, Google responded by applying to have the proceeding summarily dismissed on three bases:
+
+first, that it did not publish the images;
+
+second, that the matters in issue were not defamatory of Mr Trkulja; and
+
+third, that Google was entitled to immunity from suit as a matter of public interest.
+
+The Supreme Court dismissed Google's application, finding that:
+
+by intentionally participating in the communication of the allegedly defamatory search results, there was a basis for alleging that Google was the publisher of the images;
+
+the fact that the images were often returned alongside well-known underworld figures meant that it was arguable that the material was defamatory as it suggested that Mr Trkulja was a convicted criminal; and
+
+the immunity proposed by Google was not in the public interest.
+
+Google appealed the Court's decision on all three bases. The Court of Appeal did not decide the first ground (but noted its view that the innocent dissemination defence would likely be available), and rejected the third ground. However, it upheld Google's contention that Mr Trkulja would have no prospect of success in claiming that the matters in issue were capable of being defamatory.
+
+Mr Trkulja disagreed and appealed to the High Court.
+
+Appealing to the High Court
+
+The primary issue before the High Court was whether or not the defamation proceedings should have been summarily dismissed by the Court of Appeal.
+
+In a joint judgment, the High Court upheld Mr Trkulja's appeal, finding that:
+
+it was strongly arguable that Google's intentional participation in the communication of the allegedly defamatory results to Google search engine users supports a finding that Google 'published' the allegedly defamatory results; and
+
+some of the search results complained of had the capacity to convey to any ordinary reasonable person viewing the results that Mr Trkulja was somehow associated with the Melbourne criminal underworld and those search results could accordingly be defamatory.
+
+The High Court said that there could be no certainty as to the nature and extent of Google's involvement in the compilation and publication of its search engine results until after discovery. This adversely impacts a court's ability to make a summary determination on publication and innocent dissemination contentions.
+
+As to whether the published material was defamatory, the High Court noted that the test for whether a published matter is capable of being defamatory is what ordinary reasonable people would understand by the matter complained of, and whether that would cause them to think less of a person. The test is not, as stated by the Court of Appeal, whether "any of the defamatory imputations which are pleaded [are] arguably conveyed". It is not what the Court thinks the allegedly defamatory words or images say or depict, but rather what they could convey to the ordinary reasonable person who is a member of the jury. This also must be considered in light of each search and response being, in effect, a different publication.
+
+Further, while the High Court was prepared to accept the assumption that the ordinary reasonable person who has used the Google search engine contemplates that their search results bear some connection to the search terms, it cautioned that in the absence of tested, accepted evidence to the contrary, there could be a significant variance of experience and understanding among the range of persons taken to be representative of the hypothetical ordinary reasonable person
+
+In short, the High Court held that the Court of Appeal had applied the wrong test in considering whether any of the pleaded defamatory imputations were arguably conveyed, and whether the case should be summarily dismissed. In those circumstances, the Court allowed Mr Trkulja's appeal and his case can continue before the Victorian Supreme Court.
+
+Key takeaways from the Google defamation case
+
+This case illustrates that search results (eg images that place a person in an incorrect context or allow false or improper connections to be drawn) have the capacity to convey defamatory imputations. Whether this case proceeds to create significant implications for search engines like Google, will depend upon whether the defamatory imputations are upheld and more importantly, whether Google is subsequently found to be the primary publisher or has a defence as an innocent disseminator under section 32 of the Defamation Act (Vic). No doubt, there will be many interested persons watching the progress of this case because of the impact it may have on how businesses use search engines.
+
+It must be kept in mind, however, that the primary relevance of the High Court's decision focuses upon Google's application for summary dismissal of the claim and the standards and tests that must be applied. It demonstrates that the courts apply great caution when asked on an interlocutory basis to find that a defamation pleading is incapable of bearing a defamatory imputation.. This morning, the Federal Supreme Court (Bundesgerichtshof) has held Google liable for a functionality of its search engine, the autocomplete function. The claimants had requested that Google ceased the publication of autocomplete results that suggested “fraud” or “Scientology” as additional search terms when the claimants’ names were searched. Google will now have to stop the publication of such “predictions” if and when it has become aware that automatically created predictions infringe the rights of third parties.
+
+The predictions of additional search terms are generated automatically by a Google algorithm, based inter alia on the search terms entered by Google users. Google has been using the function since April 2009.
+
+Google has been taken to court across the globe on this issue, winning in Italy in March 2013, and loosing in Japan in April 2013, for example. Today’s ruling appears to be the first one from a court of last instance. And if Google were not enough to get the matter into the headlines: Germany’s former first lady, Bettina Wulff, had commenced a similar action, which had been stayed, pending the outcome in today’s case. Bettina Wulff is seeking to stop the publication of autocomplete results linking her to search words such as “escort” or ” red light”. Her case had triggered a broad debate about the legal limits on the publication of search results.
+
+The Court of Appeals (Oberlandesgericht) Köln had found, in the previous instance, in favour of Google. It did not attribute the “statements” generated by the autocomplete function to Google (“Den […] Ergänzungssuchbegriffen ist nicht der Charakter eigenständiger inhaltlicher Aussagen der Suchmaschine bzw. deren Betreibers […] beizumessen.”)
+
+The Federal Supreme Court did not agree. Its line of arguments is as follows: The publication of predictions as a result of the autocomplete function constitutes a violation of personality rights (Persönlichkeitsrecht), if they imply a statement that is untrue. On the other hand, not every violation of personality rights by the search engine triggers Google’s liability. The autocomplete function per se is perfectly legal. The issue is the missing safeguard against the publication of results of a defamatory nature (“… dass sie keine hinreichenden Vorkehrungen getroffen hat, dass die von der Software generierten Suchvorschläge Rechte Dritter verletzen.”)
+
+The Federal Supreme Court also does not find that there is a general duty to scrutinize the search results for potential infringements of third party rights prio to publication (“Der Betreiber einer Suchmaschine ist regelmäßig nicht verpflichtet, die […] Suchergänzungsvorschläge vorab auf etwaige Rechtsverletzungen zu überprüfen.”)
+
+This duty is only triggered if and when Google becomes aware of a violation of third party rights. In practice, Google will now have to investigate the defamatory or slanderous nature of suggested search terms if a cease and desist letter comes in, and will then have to take appropriate action.
+
+Technically, the claimants’ right to request Google to cease and desist is based on Sec. 823, 1004 German Civil Code (BGB) and Art. 1, 2, Basic Law (Grundgesetz), that is, on a combination of civil law tort concepts, and the fundamental rights of human dignity and personal freedom. The Federal Supreme Court does weight the respective rights of claimants on the one hand and Google’s rights, which also enjoy constitutional protection, and on balance, finds in favour of the claimants. I refrain from a personal comment on the matter, since my firm acts for one of the parties involved.. Google Found Liable For Autocomplete Suggestions In Italy
+
+from the oh-come-on dept
+
+Here’s yet another ridiculously bad ruling for search engines in Italy. Glyn Moody points us to the news of a blog post by a lawyer involved in the case (against Google) who is happy that his side prevailed and that Google is liable for search autocomplete suggestions. The case involved someone who was upset that doing a Google search on his name popped up “con man” (“truffatore”) and “fraud” (“truffa”) as autocomplete Google search suggestions. We’ve seen similar cases elsewhere, and France has (most of the time) also ruled against Google.
+
+Of course, this is ridiculous for a variety of reasons. Google is not “creating” this content. It’s accurately suggesting results based on what users are searching. Clearly, people are searching on this particular individual along with the two terms. That’s not Google’s fault. Yet Google is liable for it?
+
+One interesting footnote: a part of the reason why the court ruled the way it did was because the court noted that Google already edited autocomplete suggestions for issues related to copyright infringement. Funny. That’s exactly the issue we warned about when Google made the silly decision (following pressure from the US government) to start blocking certain keywords from autocomplete. The court seems to see this as proof that Google can and should be responsible for the content in that autocomplete box… Once again, it looks like the company would have been better off not meddling.
+
+Filed Under: autocomplete, defamation, italy, liability, search
+
+Companies: google. The South Australian Supreme Court has found that Google published defamatory statements that appeared in autocomplete and related search terms on its search engine, after it received notice of the defamatory material and failed it remove it.
+
+His Honour Justice Blue reasoned that the defamatory phrase was 'generated by Google programs as a result of Google's programming' and that 'the mere fact that the words are programmed to be generated because the user or others have previously searched for those words makes no difference' to the question of publication. His Honour decided that there was no reason why Google should not be held accountable for these 'publications' after it was put on notice by the plaintiff. It is worth noting that the plaintiff did not seek to argue that Google should be liable for the period prior to notification.
+
+In his judgment, his Honour referred to the 'only authority' on this point as supporting this conclusion, being the decision of the High Court of Hong Kong in Dr Yeung Sau Shing Albert v Google Inc. In that case, the High Court dismissed an application by Google to have the proceeding stayed or dismissed on the basis that, among other things, the plaintiff had 'a good arguable case' that Google was the publisher of defamatory statements that appeared in Google Autocomplete and Related Search results.
+
+His Honour Justice Blue also followed the reasoning of the Victorian Supreme Court in Trkulja v Google Inc LLC (No 5) and held that Google was the publisher of defamatory search results (comprising of the title, snippet and URL) after it received notification and failed to remove the defamatory results within a reasonable time.
+
+A further hearing is scheduled to decide the remaining issues of the defences of triviality and time limitation, the application for an extension of time, causation and quantum of damages.
+
+You can read the judgment in full here.. Such a ruling would mean that Google would not be liable if information displayed via its 'autocomplete' function was defamatory, said media law specialist Ian Birdsey of Pinsent Masons, the law firm behind Out-Law.com.
+
+Autocomplete suggests words or characters for completing a partial search on Google.
+
+Last week a court in Australia ruled that Google should have to pay damages to Milorad Trkulja, a TV presenter who had complained that the internet giant had defamed him, according to a report by the BBC.
+
+Trkulja was shot in a Melbourne restaurant in 2004 by a gunman wearing a balaclava. He claimed that, following the shooting and subsequent reporting of the incident, his name had become associated with the images of alleged criminals when users typed his name into the 'Google Images' search function.
+
+Trkulja sued Google claiming that the company had failed to remove the defamatory link between him and the alleged criminals when he requested such action. The Supreme Court of Victoria accepted Google's argument that it had innocently disseminated the material but said that that defence was only applicable up to the point at which the company received Trkulja's complaint and held Google to be liable for defaming the man as a result of its inaction, according to the BBC's report.
+
+This Australian case follows a similar ruling in Japan after a court there ordered Google to stop its search engine technology from suggesting "specific terms" that have linked a man's name to crimes he did not commit.
+
+The unnamed man sued Google after claiming that the terms the company's autocomplete software suggests in association with his name caused him to lose his job and has subsequently put off potential new employers, according to a report at the time by Kyodo news agency on the Japan Times website.
+
+In a similar ruling in France Google was fined $65,000 by a court after its search engine suggested the French word for 'crook' when users typed-in the name of an insurance company.
+
+However, in the UK in 2009 the High Court ruled that Google is not the publisher of defamatory words that appear in its search results. Mr Justice Eady ruled that even when notified that its results contained libellous words Google was not liable as a publisher.
+
+Google's liability for defamatory words that appear via its 'autocomplete' suggestions is as yet untested in the UK. However, Ian Birdsey said that it is unlikely that a UK court would come to a different conclusion from the one arrived at by the High Court in 2009.
+
+"Although the issue of whether Google’s liability for its ‘autocomplete’ search function has yet to be dealt with by UK courts, the High Court in 2009 did determine that Google was a mere facilitator of the information displayed on its search results because it did not authorised the appearance of the information on users’ screens in a ‘meaningful sense’,” Birdsey said. “If the UK courts were to assess whether Google was liable for defamation as a result of the way its ‘autocomplete’ system suggests terms to users I think the courts would draw similar conclusions and find that Google is not a publisher."
+
+"There has to be recognition that Google search terms are the product of input by its users. It is unfair to view Google as a traditional publisher of suggested search terms as a result of this," he added.
+
+“In his judgement Mr Justice Eady said that there was a ‘degree of international recognition that the operators of search engines should put in place [a take-down policy] (which could obviously either be on a voluntary basis or put upon a statutory footing) to take account of legitimate complaints about legally objectionable material’,” Birdsey said. "The European Commission is currently looking to reform 'notice and takedown' rules that govern illegal material posted on the internet and has asked whether search engines, among other intermediaries, should be deemed to be ‘hosts’ of content. It is to be hoped that the Commission’s plans make clear whether search engines do have responsibility for removing illegal content and what that process should be."
+
+To be considered libellous under common law in the UK comments must be published, communicated to someone other than the person being defamed and not be justified by a range of defences, including that the comments are true or were expressed as an opinion.
+
+In the UK laws on defamation are also written into legislation. Under the Defamation Act a person can claim a defence against allegations of defamation if they can show that they were neither the author, editor or publisher of the comments, "took reasonable care in relation to its publication" and "did not know, and had no reason to believe, that what he did caused or contributed to the publication of a defamatory statement". The Act defines 'publisher' as meaning "a commercial publisher, that is, a person whose business is issuing material to the public, or a section of the public, who issues material containing the statement in the course of that business".
+
+Under the E-Commerce Regulations it is possible for "secondary publishers" to be found responsible for defamatory comments posted using their service. However, they can avoid liability for defamation under the terms of the Regulations if they are viewed as acting only as a mere conduit or caches or hosts of the material.
+
+In order to avoid any liability for unlawful material, the service provider must, upon gaining 'actual knowledge' that the initial source has been removed or access to it has been disabled, act 'expeditiously' to ensure that the information is deleted or access to it disabled.. In May 2013, the German Federal Court of Justice stated that Google's predictions within the autocomplete function of its web search engine can violate the right of personality.[1] The right of personality ensures that a person's (or even a company's[2]) personality (reputation) is respected and can be freely developed.[3] Only the individual shall, in principle, decide how he/she wants to present himself/herself to third parties and the public.[4]
+
+[5] Facts of the case [ edit ]
+
+A stock corporation, which sold food supplements and cosmetics online, and its chairman filed an action for an injunction and financial compensation against Google based on a violation of their right of personality.[6] Google runs a web search engine under the domain "www.google.de" (among others), which allows Internet users to search for information online and access third party content through a list of search results.
+
+In 2009, Google implemented a so-called "autocomplete" function which shows word combinations as predictions for the search of the user in a new window while typing in a search term into the search mask. These predictions are based on an algorithm which evaluates the number of searches on specific terms of other users. If users typed the full name of the chairman into the search engine in May 2010 the autocomplete function showed the predictions "Betrug" (fraud) or "Scientology". The claimants stated that the chairman would have no connection to Scientology and that he was under no investigation for fraud. Furthermore, they argued that no search result would show a connection between the chairman and fraud or Scientology. Therefore, they saw these predictions as a violation of their right of personality.
+
+The Regional Court Cologne decided in favour of Google and dismissed the case as unfounded.[7] The Higher Regional Court Cologne uphold this judgement.[8] The claimants filed an appeal to the German Federal Court of Justice.
+
+[9] The decision [ edit ]
+
+The German Federal Court of Justice set aside the judgement of the Higher Regional Court Cologne and referred the case back to this court.[10]
+
+The Federal Court of Justice held that
+
+the predictions ("Betrug"/"Scientology") expressed the existence of a factual connection between the chairman and these negatively connoted terms and violated the right of personality [11] (the Higher Regional Court Cologne had taken a different view previously and had held that the predictions only expressed that other users typed in these word combinations for their search or that the terms could be found in linked third party content)
+
+(the Higher Regional Court Cologne had taken a different view previously and had held that the predictions only expressed that other users typed in these word combinations for their search or that the terms could be found in linked third party content) the claimant's right of personality outweighed Google's freedom of expression [12] and commercial freedom [13] in a trade-off because false expressions do not need to be accepted
+
+and commercial freedom in a trade-off because false expressions do not need to be accepted the violation was directly assignable to Google because they designed the software, exploited the user's behaviour, and suggested the predictions to the users
+
+the national implementation [14] of the provisions of the Electronic Commerce Directive, [15] which grant intermediaries (access, caching, and host provider) immunity from liability to a certain extent, [16] were not applicable in this case because the predictions were not third party content that Google only made accessible or presented, but Google's own content
+
+of the provisions of the Electronic Commerce Directive, which grant intermediaries (access, caching, and host provider) immunity from liability to a certain extent, were not applicable in this case because the predictions were not third party content that Google only made accessible or presented, but Google's own content the basis for a liability of the search engine provider is not the fact that he developed and used the software because these actions are protected by the provider's commercial freedom [17]
+
+the liability can only be based on the fact that the provider did not take the necessary precautions to prevent the violation of a right of personality as part of a so-called "Stoererhaftung" (the "Stoererhaftung" (interferer's liability) is a liability of a person (the "Stoerer") who is not a perpetrator or participant himself, but contributed willingly and adequately causally to the infringement of a protected legal interest in any way and requires a breach of a reasonable duty of care [18] )
+
+) the search engine provider has, in principle, no obligation to monitor the predictions generated by a software beforehand and is only responsible if he becomes aware of the violation by the predictions
+
+if the provider is notified of a violation by the victim he is also required to prevent future violations.[19]
+
+In April 2014, the Higher Regional Court Cologne then decided in favour of the claimants insofar as they objected to the additional term "Scientology" which Google initially refused to remove.[20] A financial compensation was not awarded because Google removed the entry later (about one and a half after the objection) and therefore limited the infringement.[21] Due to the fact that Google removed the additional term "Betrug" (fraud) immediately after the claimant's first objection, this part of the claim was unfounded.[22]
+
+Criticism [ edit ]
+
+Some legal scholars argued that the judgement established a reasonable balance between the protection of the right of personality (by Google's obligation to remove and prevent infringing predictions after a notice), Google's interest to still provide the autocomplete function (without the need to monitor all predictions) and the Internet user's interest to make use of the search's improvement.[23]
+
+The court's decision that the search engine provider has no obligation to monitor the predictions generated by a software beforehand and is only responsible if he becomes aware of the violation by the predictions corresponds with previous judgements[24] of the court on the "Stoererhaftung" (interferer's liability) of a host provider for content that third parties posted on the host provider's website.[25] However, due to the fact that these previous judgements discussed the liability for third party content, others stated that the fact that the court's autocomplete judgement is based on Google being an interferer ("Störer") within the "Stoererhaftung" (interferer's liability) – and not a perpetrator – contradicts the court's statement that the predictions have to be seen as Google's own content.[26]
+
+Moreover, the judgement raises the question which result a trade-off between Google's freedom of expression and commercial freedom and another person's right of personality would have in other scenarios.[27] Depending on the specific circumstances, it could be more complicated to assess if a prediction is false or (even) true, but not worthier of protection than the right of personality (e.g. in a case in which an investigation for a crime – like fraud – already started or in which a person is actually the victim of a crime).[28]
+
+Another interesting issue is the question to what extent Google is capable of legally evaluating and processing notifications by alleged victims of an infringement.[29] The current legal situation could be an incentive for Google to just remove the prediction after a complaint in order to avoid any liability.[30]
+
+Background information [ edit ]
+
+This judgement was not the only time a possible defamation by Google's autocomplete function was discussed in a courtroom. In Germany, Bettina Wulff, the wife of the former President of the Federal Republic of Germany Christian Wulff, filed for an action for an injunction regarding 43 predictions against Google at the Regional Court Hamburg based on a violation of her right of personality.[31] The word combinations included the words "Escort" (escort) and "Prostituierte" (prostitute).[32] However, in January 2015, Google deleted these predictions and the parties settled the lawsuit.[33] By taking legal actions against Google, Bettina Wulff probably also caused a so-called "Streisand effect" because many people learned about the predictions by the created media attention for the first time.[34]
+
+In France, in 2010, the Superior Court of Paris ordered Google to cease suggesting certain predictions, including "rapist", "satanist", "rape", and "prison", to Internet users who search for a man's name.[35] The man, convicted for a "corruption of a minor" at the time, was still appealing his conviction.[36] In Italy, a businessman filed a defamation suit because of the terms "truffatore" (conman) and "truffa" (fraud) that were added to his name by the autocomplete function.[37] The Milan court ordered Google to remove these predictions in 2011.[38] Furthermore, in 2012, the Supreme Court of Victoria in Melbourne, Australia held Google liable for defamation by wrongly linking a private person to crimes he in fact was a victim of and awarded $200,000 in damages.[39][40] Moreover, in 2013, the Tokyo District Court in Japan also ordered Google to modify its predictions and pay 300,000 yen ($3,100) as damages to a man which was linked to crimes he did not commit.[41]
+
+However, Google's autocomplete function was not only subject of defamation suits. In another case, French human rights organisations (including SOS Racisme) sued Google for adding the word "juif" (Jewish) to the names of celebrities within its predictions.[42] The human rights organisations argued

@@ -1,0 +1,277 @@
+"The recognition mechanism is not as strict as you think," the Bkav researchers write. "We just need a half face to create the mask. It was even simpler than we ourselves had thought."
+
+Without more details on its process, however, plenty about Bkav's work remains unclear. The company didn't respond to the majority of a long list of questions from WIRED, saying that it plans to reveal more in a press conference later this week.
+
+'I would say if this is all confirmed, it does mean Face ID is less secure than Touch ID.' Marc Rogers, Cloudflare
+
+Most prominent among those questions, points out security researcher Marc Rogers, is how exactly the phone was registered and trained on its owner's real face. Bkav's staff could have potentially "weakened" the phone's digital model by training it on its owner's face while some features were obscured, Rogers suggests, essentially teaching the phone to recognize a face that looked more like their mask, rather than create a mask that truly looks like the owner's face.
+
+"For the moment I can't rule out that these guys might be tricking us a bit," says Rogers, a researcher for security firm Cloudflare, who worked with WIRED on our initial attempts to crack Face ID, and was also one of the first to break Apple's Touch ID fingerprint reader in 2013.
+
+But in response to questions from WIRED, Bkav denied any such trickery. A company spokesperson says that after crafting a mask that was able to fool Face ID---it first made four others that failed---the researchers re-registered their test iPhone X on the face of Bkav's staffer, to make sure that it hadn't biased the phone's model of his face. After that, they never entered a passcode into the phone, and yet the mask alone unlocked it.1
+
+Bkav's history also lends its demonstration some credence. Nearly a decade ago, the company's researchers found that they could break the facial recognition of laptop makers including Lenovo, Toshiba, and Asus, with nothing more than two-dimensional images of a user's face. They presented those widely cited findings at the 2009 Black Hat security conference.
+
+If Bkav's findings do check out, Rogers says that the most unexpected result of the company's research would be that even fixed, printed eyes are able to deceive Face ID. Apple patents had led Rogers to believe that Face ID looked for eye movement, he says. Without it, Face ID would be left vulnerable not only to simpler mask spoofs, but also attacks that could unlock an iPhone X even if the owner is sleeping, restrained, or potentially even dead.
+
+The last of those situations is especially worrying, since it would theoretically be a problem for Face ID that even Touch ID didn't present, given that the latter checks for the conductivity of a living person's finger before unlocking. "That would mean this could be tricked without any liveness test at all," Rogers says. "I would say if this is all confirmed, it does mean Face ID is less secure than Touch ID." It's also unclear if Face ID uses any methods beyond eye movement to indicate that someone is alive. (At least one researcher points out that Touch ID make also work on a corpse: SR Labs' Ben Schlabs sent WIRED a video unlocking an iPhone SE with an altogether non-living foam-backed fake fingerprint.)2
+
+Despite the potential threat of snooping on a sleeping, kidnapped, or dead person’s iPhone X, Rogers considers the notion that someone will make a silicone-and-plastic mask of the average person's face far-fetched. A far more practical concern is someone simply tricking a victim into glancing at their phone.. One by one, we tried each mask. One by one, the iPhone dismissed them without hesitation. In the worst cases, it failed to even acknowledge on the first try or two that a face was even present, not to mention the correct face.
+
+Caragan used a needle to painstakingly punch hairs one by one into the silicone and gelatin masks. Here's one prior to trimming. Margaret Caragan/Pandora FX
+
+As the sense of deflated hopes settled around the room, we tried some semi-desperate troubleshooting, like different angles, distance and lighting. Then we tried each mask on Pierce's own face rather than McMahon's, thinking that perhaps eye color did matter after all. No luck.
+
+The most obvious flaw in our masks, we knew from the start, was the deep eyehole recesses. Caragan had warned of the problem: McMahon's eye placement may have matched Pierce's, but his nose was wider. That meant modeling Pierce's face over McMahon's required more thickness in the mask, so that the eyeholes were deep enough to cast McMahon's eyes into shadow. Which offers a tidy distillation of what makes Face ID so effective.
+
+"The face of a person is a lot like a key. Just like the ridges of a key in a keyhole, each feature has to fit just so, or you have to accommodate them," Caragan says. "As long as things are smaller or fit the same, you can get the eyes right behind the mask. If not, they won’t line up."
+
+We tried shining another iPhone's flashlight into McMahon's eyes and even the video team's studio lights, to better illuminate the masks' shadowed eye sockets for the iPhone's sensors. Caragan tried using mortician's wax to smooth over the border between the space between Pierce's eyes and the eyeholes of the thinnest, plastic mask. Nothing helped.
+
+After nearly six hours of trial and error—mostly error—we gave up.
+
+Not Over Yet
+
+Despite our failed tests and the robustness of Face ID they seem to demonstrate, Rogers says he's still optimistic that he—or at least someone—will soon be able to spoof Apple's facial recognition. He bases that optimism in part on conversations he's had with Apple engineers, which he says give him reason to believe he'll succeed, though he declines to say more. "I’m still 90 percent sure we can fool this," Rogers says.
+
+Even if a mask-making operation like ours eventually works, of course, face-casting would still be an absurdly impractical method of cracking an iPhone. Not even the most sophisticated spy can smear a bucket of silicone on your face without your knowledge and cooperation.
+
+"All of these face masks are lovely for testing biometric attacks, but of course none of them are pragmatic," says Rogers. "No criminal on the street is going to make a complete scan of your face." Far more practical Face ID-based security threats are a thief or a government agent who simply makes you look at your own phone, or people with evil twins. (Or for that matter, application developers to whom Apple grants access to some—but not all—face data.)
+
+But if a face-cast in the right material could break Face ID, the next evolution of the attack might be a carefully crafted digital model assembled from photos on Facebook or Instagram. Security researchers have already shown they can break some facial recognition systems with those easily-obtained social media pics, and other AI tools have shown how two-dimensional images can be converted into 3-D models.
+
+'I’m still 90 percent sure we can fool this.' Marc Rogers, Cloudflare
+
+After all, hacking techniques only get better over time. Rogers points to the history of Touch ID: The first attempts to crack Apple's fingerprint reader with an inanimate, finger-like object failed. But just days after its release, a researcher who goes by the name Starbug, a member of the German hacker group the Chaos Computer Club, showed that he could scan a fingerprint from a phone, etch it into polychlorinated biphenyl, then transfer it with graphite and wood glue to trick the phone's sensor. (Rogers would reveal his own technique, using dental alginate, just a few hours later.)
+
+Flash forward to the end of 2014, and Starbug revealed that he could break into a politician or celebrity's iPhone with nothing but a photo that includes a clear view of their thumb. "Once we worked out what the flaw was and how to exploit it," says Rogers, "We refined it and refined it and refined it."
+
+That means, with the iPhone X soon to be in the hands of thousands of hackers and curious researchers, no Face ID user should get too comfortable, Rogers says. He still has a few face-stealing ideas up his sleeve—and a friendly score to settle with Starbug and the German hackers who edged him out on the Touch ID hack.
+
+"I’m not going to admit defeat. Especially not in front of the Germans," Rogers says. "It won’t be the end of the world if he beats me. But I’ll owe him a lot of beer if he does."
+
+Reporting contributed by David Pierce, Junho Kim and Jordan McMahon.. The release of the iPhone X earlier this month included a new facial recognition security feature called Face ID. Designed to replace the iPhone’s Touch ID feature, Face ID uses face-based authentication via infrared screening to identify the user and provide access to the iPhone X as well as authorize purchases via Apple Pay. Banks are starting to utilize this feature as well.
+
+Apple said Face ID uses 30,000 points of reference to map out a user’s face, making the likelihood that the feature could be fooled extremely low, but recently, a Vietnamese company called Bkav has circumvented this technology with a mask made from 3-D parts. This development spells out what may only be the beginning of a string of potential flaws surrounding this new feature. So should business users be worried?
+
+“Apple’s facial recognition was never intended to be a security measure for strong authentication,” said Josh Mayfield, director of product marketing at FireMon. “Strong authentication cannot be faked, gamed, or manipulated. Apple’s facial recognition begins with the opening assumption that the user gazing at the screen is likely to be the correct user. From there, the recognition system only seeks to confirm its assumption…never to seek to prove its assumption wrong.”
+
+SEE: Mobile device computing policy (Tech Pro Research)
+
+Paul Norris, senior systems engineer at Tripwire, stated that hacks like the one Bkav carried out take a great deal of time and effort. “Detailed dimensions would have had to be taken to create the mask and the security firm alluded to the fact that they had to use a special material on the mask too,” he said. “What they didn’t disclose was how many attempts and what level of effort it took to get the mask to work flawlessly.” Norris also pointed out that certain security details built into Apple’s Face ID can mitigate risk. Five failed attempts to authenticate users via facial means will force the user to enter a passcode, which is required for Face ID to function. In addition, the passcode must be entered when the device:
+
+Has just been turned on or restarted
+
+Hasn’t been unlocked via Face ID in the last four hours
+
+Hasn’t been unlocked via the passcode in the past six and a half days
+
+Hasn’t been unlocked at all for more than 48 hours
+
+Has received a remote lock command
+
+Has initiated the Emergency SOS function
+
+Terry Ray, CTO of cybersecurity firm Imperva, pointed out that Apple concedes that a user’s twin or other close family member could look similar enough to a user to trigger a false positive. Worse, researchers have been able to brute force facial authentication in the past.
+
+SEE: Special report: Cybersecurity in an IoT and mobile world (free PDF) (TechRepublic)
+
+Ray said that false negatives can happen too. If the owner of the phone undergoes a notable appearance change – such as shaving a beard or getting a drastically different haircut, then Face ID could fail to authenticate and the passcode will be required in order to set up Face ID again to match the user’s updated looks.
+
+However, said Ray, “The average consumer is probably not at risk from a facial recognition attack or a false positive authorization, unless of course, they possess a devious identical twin,”
+
+A hack like the one Bhav pulled off would cost about $150 in 3D supplies, which is not financially crippling to a potential attacker but also not something not likely to be invested in on a widescale basis. It would also require access to the phone itself, at which point some physical security would have already been compromised. Finally, the mask would have to be authentic enough to unlock the phone within five attempts inside a 48-hour time window.
+
+“Is the value in one phone worth this effort?” said Ray. “Probably to someone with a particular agenda, but not likely an issue for most users.”
+
+Ray said that a common question in the security realm is whether the technology being considered is good and easy enough for your purposes: “Nothing is perfect and the right technology is one you feel comfortable to use and one that keeps you acceptably secure.”
+
+Also see:. iPhone X’s Face ID keeps getting tricked.
+
+As pointed out by Forbes, researchers at the Vietnamese security firm Bkav have found another way to bypass Apple’s facial recognition system. The team, which pulled off a similar hack earlier this month, was able to replicate a face using a series of photos, stone powder, and 2D printed eyes. The researchers call the mask "the artificial twin."
+
+"Bkav experts found out that stone powder can replace paper tape (used in previous mask) to trick Face ID' AI at higher scores," Bkav wrote in a blog post. "The eyes are printed infrared images—the same technology that Face ID itself uses to detect facial image. These materials and tools are casual for anyone. An iPhone X has its highest security options enabled, then has the owner's face enrolled to set up Face ID, then is immediately put in front of the mask, iPhone X is unlocked immediately. There is absolutely no learning of Face ID with the new mask in this experiment."
+
+You might be thinking: How can anyone get a proper scan of my face without my knowledge? Bkav claims it’s easier than many of think. Researchers said all they have to do is set up a series of concealed cameras in a room.
+
+"For example, if you are standing in the middle of booth, it will take photos of you at different angles in just two seconds. And we take an infrared image of your face," a Bkav spokesperson told Forbes. "Then, we will make 3D object of your face from the photos... Then, with the 3D object, we use a 3D printer, using stone powder as material, to print the twin mask of your face. It will be the original mask by the printer, no modification is needed." All in all it cost about $200 to make the mask.
+
+You can check out the hack above.
+
+Since the iPhone X was released, many people have discovered ways to fool the security feature. Twins and children have successfully unlocked phones using less elaborate methods than Bkav’s, which has made more and more users skeptical.
+
+Though no security feature is 100 percent foolproof, the firm insists the Touch ID is a much safer option, as it’s more difficult to collect fingerprints than it is to take photos of someone’s face.. Apple FaceID Hacked
+
+It only took a week:
+
+On Friday, Vietnamese security firm Bkav released a blog post and video showing that—by all appearances—they’d cracked FaceID with a composite mask of 3-D-printed plastic, silicone, makeup, and simple paper cutouts, which in combination tricked an iPhone X into unlocking.
+
+The article points out that the hack hasn’t been independently confirmed, but I have no doubt it’s true.
+
+I don’t think this is cause for alarm, though. Authentication will always be a trade-off between security and convenience. FaceID is another biometric option, and a good one. I wouldn’t be less likely to use it because of this.
+
+FAQ from the researchers.
+
+Posted on November 15, 2017 at 6:54 AM • 46 Comments. It's one of the most wanted features in the iPhone X, but it seems that Face ID may not be as safe as Apple thinks.
+
+Cyber-security researchers claim they have fooled the face recognition technology with a mask that costs just £114 ($150) to make.
+
+The findings suggest that face recognition is not yet mature enough to guarantee security for computers and smartphones, according to the researchers.
+
+Scroll down for video
+
+Cyber-security researchers claim they have fooled the face recognition technology with a mask that costs just £114 ($150) to make
+
+THE MASK The main frame of the face was created with a 3D printer, and the nose was created by an artist from silicone. The eyes were represented with 2D images, while the 'skin was also hand-made to trick Apple's AI', according to the researchers. Worryingly, the mask took just six days to complete, and cost £114 ($150), suggesting that the technique could be replicated by hackers. Advertisement
+
+The mask was made just one week after the iPhone X officially went on sale, by researchers from Ha Noi-based Bkav.
+
+The researchers set up the Face ID feature as normal with a human face, before creating a mask of that face using a 3D printer.
+
+Mr Ngo Tuan Anh, Vice President of Cybersecurity at Bkav, said: 'The mask is crafted by combining 3D printing with makeup and 2D images, besides some special processing on the cheeks and around the face, where there are large skin areas, to fool AI of Face ID.'
+
+The main frame of the face was created with a 3D printer, and the nose was created by an artist from silicone.
+
+The main frame of the face was created with a 3D printer, and the nose was created by an artist from silicone
+
+The eyes were represented with 2D images, while the 'skin was also hand-made to trick Apple's AI', according to the researchers.
+
+Bkav has released a video showing the mask unlocking the iPhone X in seconds - although it does not reveal the making of the mask, or how many attempts it took to unlock the device.
+
+It is also unclear whether the researchers disabled Apple's Attention Aware feature, which means the device can only be unlocked when your eyes are open.
+
+Bkav has released a video showing the mask (pictured right) unlocking the iPhone X in seconds
+
+CONCERNS OVER FACE ID Several people have raised concerns about Face ID. These include: - Concerns that thieves could quickly unlock your device after they've stolen it - Worries that Apple would store data collected from Face ID images - Concerns that the system could be unlocked with a picture of your face - Worries that Face ID could have a racial bias - Concerns that police could unlock your device without permission
+
+Advertisement
+
+The mask took just six days to complete, and cost £114 ($150), suggesting that the technique could be replicated by hackers.
+
+The researchers said: 'Potential targets shall not be regular users, but billionaires, leaders of major corporations, nation leaders and agents like FBI need to understand the Face ID's issue.'
+
+Apple could not provide comment, but pointed MailOnline to its information manual about Face ID security.
+
+The researchers suggest that despite Apple's claims, face recognition is not yet secure enough.
+
+They added: 'After nearly 10 years of development, face recognition is not mature enough to guarantee security for computers and smartphones.
+
+'As for biometric security, fingerprint is the best.'. More from the Foundry Network. Apple no longer wants you to unlock your iPhone with touch. With the iPhone X, it’s all about your face.
+
+Face ID was the standout feature of the iPhone X, and one that differentiates it from the iPhone 8 range and anything that’s come before. It’s Apple’s latest biometric authentication system and works using a new camera array on the front of the screen.
+
+Apple claims the error rating on the iPhone X’s Face ID is one in a million. TouchID had a 1 in 50,000 chance of unlocking for the wrong fingerprint. The tech giant also said Face ID can tell the difference between twins (although the error rating drops when it comes to relatives) and doesn’t get ‘spooked’ by a photograph or even a mask of someone’s face.
+
+READ NEXT: iPhone X review
+
+The latter has now been called into question. After WIRED tried, and failed, to use a mask to trick the system, Vietnamese security firm Bkav claims to have mastered it using a (frankly terrifying) 3D-printed mask and a prosthetic nose. It said that creating the mask was simple, using simple 3D scanning software like that found on the Sony XZ1, and a silicone nose.
+
+In a blog post, and accompanying video, the researchers explain: “We were able to trick Apple’s AI because we understood how their AI worked and how to bypass it. As in 2008, we were the first to show that face recognition was not an effective security measure for laptops…Apple has done this not so well.” In the video, the team is shown removing a cover from the mask positioned in front of the iPhone X. The handset then automatically unlocks.
+
+Bkav was the first company to “break” facial recognition for laptops following its introduction on a range of Toshiba, Lenovo and Asus laptops. That particular exploit was publicly demonstrated and confirmed in 2008. The Face ID proof-of-concept hack has not yet been confirmed in this way so it should be taken with a pinch of salt.
+
+When asked why Bkav has been successful where other websites and firms have failed, it vaguely said: “It is because…we are the leading cyber security firm 😉 It is because we understand how AI of Face ID works and how to bypass it.” It is not clear, therefore, how the initial face was registered on the phone and how the mask specifically differs from others.
+
+Mark James, security specialist at ESET told Alphr: “Although the video itself does leave a few questions to be answered, we need to understand that any of the ‘extra’ ID features of this, and indeed any previous, iPhone have always been aimed at the average user. TouchID and Facial recognition are there for ease, not added security; both of these features can and have been duped by technology- the question you need to ask yourself is ‘does this feature make my life easier?’. If the answer is yes and your phone just contains the ‘normal’ run of the mill level of private stuff, then you’re good to go.”
+
+Alphr has contacted Apple for comment.
+
+Apple Face ID: What is Face ID?
+
+On the iPhone X, Apple has removed the home button, and with it, Touch ID. In its place is Face ID powered by a so-called TrueDepth camera system built into the front of the phone where the earpiece currently sits on the iPhone 7 range.
+
+READ NEXT: Apple drops the price of iPhone 7 following launch of iPhone 8
+
+This camera system features a number of sensors designed to recognise a person’s face including a dot projector, infrared camera and flood illuminator (which is a fancy name for what is effectively a flash). Glancing at this system will allow you to automatically unlock your iPhone X, but can also be used for Apple Pay and to unlock compatible apps, including banking apps.
+
+Apple Face ID: How does Face ID work?
+
+When the camera array identifies a person’s face and gaze it projects 30,000 invisible infrared dots to effectively ‘map’ the shape and contours of the face. When a user’s face is first stored on the phone, the pattern of these dots is fed to the iPhone X’s A11 Bionic chip and its neural networks.
+
+These neural networks, designed to work like a human brain, create a mathematical model of your face using the dot pattern and stores this model in a “secure enclave” on the iPhone X itself – it is not uploaded to a cloud server or similar.
+
+READ NEXT: Apple unveils the iPhone 8 and iPhone 8 Plus
+
+Next time you look at your iPhone X, the same dots are mapped onto your face and compared to the stored mathematical model. If the pattern matches the model, the phone unlocks. This happens in less than a second. The more the TrueDepth system is used, the more in-tune it becomes to your face and, from the start, can identify face shapes regardless of changes to skin tone, hairstyles, whether you’re wearing glasses or a hat, for example.
+
+The flood illuminator helps illuminate the face so the dots know where to be placed and means Face ID works in the dark.
+
+Apple Face ID: Is Face ID secure?
+
+Apple claims the error rating on the iPhone X’s Face ID is one in a million. TouchID had a 1 in 50,000 chance of unlocking for the wrong fingerprint.
+
+The tech giant also said Face ID can tell the difference between twins (although the error rating drops when it comes to relatives) and doesn’t get ‘spooked’ by a photograph or even a mask of someone’s face.
+
+Apple didn’t elaborate on how it does this, and may never do to protect its IP, but this is a direct nod towards the early failings of Samsung’s iris scanner technology and, more recently, the facial recognition on the Note 8 which were both “fooled” by hackers and photos, according to reports.
+
+Furthermore, Face ID only unlocks when you look at it. In particular, it is what Apple calls ”attention aware”; it looks for a sign that shows you’re looking directly at the camera system and want it to unlock rather than just glancing at the phone for the time, for example. Notifications will also only expand when its owner looks at the phone.
+
+During its first full demo at the iPhone 8 event, however, Face ID failed…
+
+Images: Apple/Bkav. Apple's new Face ID unlock system on the iPhone X can reportedly be tricked with paper eyes and pizza toppings.
+
+Yes, you read that correctly, but let us explain. Life-size eyes printed onto paper, then placed on the face of a 'sleeping' iPhone X owner, who had their phone nearby, were enough to bypass Face ID — at least according to a new video from FaceTec, a biometric security company pushing out its own facial recognition app, Zoom.
+
+FaceTec conducted its short experiment, pushing the concept a step further, placing various pizza toppings on the iPhone owner's face. Black olives on top of slices of mushrooms (instead of the paper eyes) also appeared to unlock Face ID, and so did a pair of bottle caps, although that took multiple attempts.
+
+The company says this works, even when an iPhone X setting called 'Require Attention for Face ID' is switched on. This extra level of security is designed to prevent the iPhone from unlocking when the owner is not looking at it.
+
+Unlike Face ID and other facial recognition systems, Zoom is meant to map your face from one distance, then a second, closer distance. This requires users to hold the phone steady, then move it towards them and hold it steady again — zooming in, hence the name. ZoOm uses the front-facing camera of an iPhone or Android device to scan the owner's face, which is stored as an encrypted data file (a "facemap") in the devices secure zone, and used for future authentication.
+
+GearBrain tried out Zoom, and while it works quickly and reliably, we found the offset location of the Google Pixel 2 XL's front camera made zooming in on our face tricky at first. That being said, the app was not phased by difficult lighting conditions, and we can see the appeal to financial companies looking to employ biometric security that claims to work on "five billion" smartphones worldwide — in other words, every device with a front camera.
+
+The Zoom app seen here is only a demonstration of how the San Diego-based FaceTec's technology works, but the company says its unlocking system has been shipping to developers for several months now, and will appear in banking applications soon. Zoom integration is free for small businesses and nonprofits, but is charged on a per active user, per year basis for enterprise-level customers.
+
+
+
+Zoom claims to be more secure than Face ID, by using just one camera FaceTec demo app via App Store
+
+Naturally, FaceTec has said little about how its system works, but claiming to have one up on Face ID, Touch ID and other systems like Samsung's iris scanner is a bold move for a startup. Zoom is "the only mobile biometric that cannot be spoofed by photos or videos, making it far more secure than legacy biometrics, including fingerprint, 2D face recognition and even eye scans," the developers say.. When Apple first announced Face ID for the iPhone X, it claimed the new feature was significantly more secure than Touch ID and couldn’t be fooled by even the most realistic of masks. But it turns out that might not be the case.
+
+
+
+Vietnamese cyber security firm Bkav claims to have already tricked Face ID using a custom-made a mask—but don’t return your iPhone X just yet. Before you freak out, here’s what the news actually means for your smartphone security.
+
+How Bkav Beat Face ID
+
+According to Bkav, all you need to make a mask that can trick Face ID is a scan of the person’s face and about $150 worth of materials.
+
+The second part is easy. The mask was made using some sculpted silicon, printer plastic, makeup and paper cutouts. Key areas, like the eyes and mouth, were actually recreated with 2D photos pasted onto the 3D surface. The design was based on the discovery that Face ID only scans about half of your face and allegedly doesn’t require eye movements to work, making it surprisingly easy to fool.
+
+The first part is a little more complicated, though. Bkav used a handheld scanner that took five minutes to work. So the only way to scans someone’s face is to be in the same room, with their participation (either by choice or forced).
+
+Why You Shouldn’t Be Worried
+
+The fact that someone would need to be in the same room with you means this Face ID hack isn’t much of a threat to most people. Bkav notes that world leaders and CEOs could be at risk from a targeted attack, but for the rest of us, it’s not worth worrying about.
+
+Down the line, it’s possible you could get the same results by quickly scanning someone’s face with a smartphone camera or even using photographs. But again, you don’t need to worry about that at the moment.
+
+We also still don’t know how legitimate Bkav’s claims really are. The company may have purposefully done a poor job setting up Face ID so it was easier to trick, which would discredit the results. Bkav declined to answer a list of questions from Wired, but said it would reveal more at a press conference this week, so we should learn more soon.
+
+Until then, there’s no reason to stop using Face ID, unless you simply find it annoying to use.. Security researchers say they used a $150 mask to break the Face ID facial recognition system that locks Apple's new iPhone X. The work may be a significant, it may be little more than a stunt with few real-world consequences, or it could possibly be something in the middle. So far, it's impossible to know because the researchers have evaded key questions about how they went about breaking into the device.
+
+The supposed hack was carried out by researchers from Vietnamese security firm Bkav, which in 2009 demonstrated a way to bypass face-based authentication in Toshiba and Lenovo laptops. On Friday, company researchers published a video showing them unlocking an iPhone X by presenting it with a custom-made mask instead of the live human face that Apple has repeatedly insisted is the only thing that can satisfy the requirements of the facial recognition system.
+
+The researchers said they designed their mask using 2D and 3D printers and that an artist made the nose by hand using silicone materials. Other features of the mask used 2D images and "special processing on the cheeks and around the face, where there are large skin areas" in a successful attempt to defeat the artificial intelligence Face ID uses to distinguish real faces from images, videos, or masks.
+
+"It is quite hard to make the 'correct' mask without certain knowledge of security," a Bkav representative wrote in an e-mail to Ars. "We were able to trick Apple's AI, as mentioned in the writing, because we understood how their AI worked and how to bypass it."
+
+The truth is out there
+
+The video and accompanying press release omitted key details that are needed for other researchers to assess if the results represent a true bypass of an authentication system Apple has spent years developing. One of the most important details is whether the mask successfully unlocked the iPhone immediately after it was set up to use the real human face for authentication or if the bypass succeeded only over a period of time following the face enrollment. The distinction is crucial. According to a white paper Apple published earlier this month, Face ID takes additional captures over time and uses them to augment enrolled Face ID data. If the researchers trained Face ID over time to work with the mask, they were giving themselves an advantage a real-world attacker wouldn't have.
+
+Another important consideration is how the mask was made. Did, for instance, the artist or any of the researchers have to have access to the real face the mask was based on? Did the human target sit for measurements or the taking of a mold? Or, on the other hand, was the mask solely crafted using images or videos that could be taken without the target's knowledge or consent? Again, the answers are crucial because if the mask could only be created with the help of the target, the bypass doesn't represent a meaningful hack.
+
+Throughout the weekend, Ars pressed Bkav representatives repeatedly to describe these and other details. As the following exchange demonstrates, the representatives deflected and at times outright evaded the questions:
+
+Ars: Were you able to use the mask to unlock the iPhone immediately after freshly enrolling the real face? The reason I ask is that, according to Apple's whitepaper, Face ID will take additional captures over time and augment its enrolled Face ID data with the newly calculated mathematical representation. Can you describe precisely how you went about conducting this experiment? Bkav: It does not matter whether Apple Face ID “learns” new images of the face, since it will not affect the truth that Apple Face ID is not an effective security measure. However, we knew about this “learning,” thus, to give a more persuasive result, we applied the strict rule of "absolutely no passcode" when crafting the mask. Ars: Can you explain why your hack worked but the ones attempted by Wired magazine failed? Bkav: Because... we are the leading cyber security firm ;) It is quite hard to make the "correct" mask without certain knowledge of security. We were able to trick Apple's AI, as mentioned in the writing, because we understood how their AI worked and how to bypass it. As in 2008, we were the first to show that face recognition was not an effective security measure for laptops. Ars: Are the dimensions of a person's face needed? How would those be obtained without a target sitting for them? Bkav: The 1st point is, everything went much more easily than you expect. You can try it out with your own iPhone X, the phone shall recognize you even when you cover a half of your face. It means the recognition mechanism is not as strict as you think, Apple seems to rely too much on Face ID’s AI. We just need a half face to create the mask. It was even simpler than we ourselves had thought. Apple has done this not so well. I remember reading an article on Mashable, in which Apple told that iPhone X had been planned to be rolled out in 2018, but the company then decided to release it one year earlier. This shows that they haven’t carried out scientific and serious estimation before deciding to replace Touch ID with Face ID. The 2nd point is, in cyber security, we call it Proof of Concept, which is useful for both sides, the hackers and the users. The hackers, they can find out a simpler way to exploit users’ device based on such PoC. While with users, if they know about such possibility, they will not use the feature to keep themselves safe. Just like the KRACK attack, it is not easy to be successfully exploited but users are urged to update the patch ASAP, because the threats are real. With Face ID’s being beaten by our mask, FBI, CIA, country leaders, leaders of major corporations, ect. are the ones that need to know about the issue, because their devices are worth illegal unlock attempts. Exploitation is difficult for normal users, but simple for professional ones. Ars: What’s the approximate cost of the mask? Bkav: ~150 USD Ars: How long did it take to construct the mask, including the time to develop 3D models and other assets associated with its production? Bkav: We started working on it, including 3D models and other assets, right after receiving iPhone X on Nov 5. Ars: What technologies and techniques were employed to make the 3D model associated with the 3D-printed portions of the mask? Bkav: We used a popular 3D printer. Nose was made by a handmade artist. We use 2D printing for other parts (similar to how we tricked Face Recognition 9 years ago). The skin was also hand-made to trick Apple's AI. Ars: Who would be the target for this kind of attack? Bkav: Potential targets shall not be regular users, but billionaires, leaders of major corporations, nation leaders and agents like FBI need to understand the Face ID’s issue. Security units’ competitors, commercial rivals of corporations, and even nations might benefit from our PoC.
+
+In a follow-up e-mail, I wrote:
+
+Advertisement
+
+Thanks so much for the response. A few more questions: -- It's still not clear precisely how you went about conducting this experiment. Were you able to use the mask to unlock the phone immediately after enrolling the real face? -- Please explain precisely what was needed to make the mask. Did you need physical access to the real face? Did you have to measure, touch, or otherwise interact with the real face? Were you able to create the mask simply by taking a picture or video of the face? How did the artist create the nose? Did the artist touch the real nose, take a mold of the real nose, or otherwise interact with it in any way? -- Using your technique, what would a real-world attacker have to do to go about creating a mask that unlocked the phone of a billionaire, corporate leader, nation leader or FBI agent? Would the attacker have to have access to the target's actual face, or would a video or picture of the face be enough? Please be as specific as possible, and please don't discuss additional matters or opinions until directly answering these questions. Thanks again for your help.
+
+A few hours later, I sent another e-mail that read:
+
+Now that I've thought about things a bit more, here are a few more
