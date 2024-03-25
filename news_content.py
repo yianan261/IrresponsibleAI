@@ -4,6 +4,7 @@ from api.openai_api import OpenaiAPI
 from dotenv import load_dotenv
 import logging
 import datetime
+import csv
 
 load_dotenv()
 openai_client = OpenaiAPI()
@@ -12,6 +13,12 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 logging.info("Starting the script...")
 logging.info("Loading JSON data from file...")
+
+TAXONOMY_STRING_FORMATTED="taxonomy_string_formatted"
+TAXONOMY_STRING="taxonomy_string"
+ZERO_SHOT="zero_shot"
+TREE_OF_THOUGHTS="tree_of_thoughts"
+prompt_type=TREE_OF_THOUGHTS
 
 # function that uses Newspaper3k library to scrape article
 def scrape_article(url):
@@ -25,7 +32,6 @@ def scrape_article(url):
         return ""
     return article.text
 
-
 # import news URL json file and loop through 
 with open("newsUrls.json","r") as file:
     urls_dict = json.load(file)
@@ -34,10 +40,15 @@ logging.info("Successfully loaded JSON data, starting to scrape articles...")
 
 aggregated_content = {}
 
-# TODO: remove counter (testing with the first 15 incidents)
+# TODO: remove counter (testing with the first 5 incidents)
 count = 0
+with open("./aggregated_articles.csv", "w", newline='', encoding='utf-8') as csv_file:
+    writer = csv.writer(csv_file)
+    # Write the header
+    writer.writerow(["articles"])
+
 for id,urls in urls_dict.items():
-    if count == 15:
+    if count == 50:
         break
     count += 1
     aggregated_texts = []
@@ -46,20 +57,22 @@ for id,urls in urls_dict.items():
         aggregated_texts.append(article_text)
         concated = ". ".join(aggregated_texts)
     aggregated_content[id] = concated
-    # with open(f"a.txt","w") as f:
-    #     f.write(concated)
+    writer.writerow([concated])
+    with open(f"./articles/{id}.txt","w") as f:
+        f.write(concated)
+    
 logging.info("Article scraping completed. Processing with LLM...")
 
-processed_results = {}
-for id,content in aggregated_content.items():
-    result = openai_client.process_content(content)
-    json_result = json.loads(result)
-    processed_results[id] = json_result
+# processed_results = {}
+# for id,content in aggregated_content.items():
+#     result = openai_client.process_content(content,prompt_type)
+#     json_result = json.loads(result)
+#     processed_results[id] = json_result
 
-logging.info("LLM processing completed. Saving results to file...")
+# logging.info("LLM processing completed. Saving results to file...")
 
-current_time = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M")
-with open(f"./processed_output/processed_results_{current_time}.json","w") as json_file:
-    json.dump(processed_results,json_file, indent=4)
+# current_time = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M")
+# with open(f"./processed_output/{prompt_type}/processed_results_{current_time}.json","w") as json_file:
+#     json.dump(processed_results,json_file, indent=4)
 
-logging.info("Results saved to JSON file. Script completed successfully.")
+# logging.info("Results saved to JSON file. Script completed successfully.")

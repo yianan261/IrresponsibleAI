@@ -1,0 +1,130 @@
+{
+    "1": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View, CA",
+        "Affected population": "Children using YouTube Kids",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Video"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": {
+            "Video": []
+        },
+        "Area of AI Application": "Video content filtering",
+        "Online": "Yes"
+    },
+    "2": {
+        "Country": "United States",
+        "State": "New Jersey",
+        "City": "Robbinsville",
+        "Continent": "North America",
+        "Company": "Amazon",
+        "Company city": "Seattle, WA",
+        "Affected population": "Amazon workers",
+        "Number of people actually affected": "24",
+        "Number of people potentially affected": "54",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "warehouse automation, robotics",
+        "Online": "No"
+    },
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "Jakarta",
+        "Continent": "Asia",
+        "Company": "Boeing",
+        "Company city": "Chicago, IL",
+        "Affected population": "Airline passengers and crew",
+        "Number of people actually affected": "189",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Aviation automation",
+        "Online": "No"
+    },
+    "4": {
+        "Country": "United States",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company": "Uber",
+        "Company city": "San Francisco, CA",
+        "Affected population": "Pedestrians",
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Technical Failure"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Monitoring Failure"
+            ],
+            "Technical Failure": [
+                "Detection Failure"
+            ]
+        },
+        "Sub-subclass": {
+            "Monitoring Failure": [],
+            "Detection Failure": [
+                "Lidar System",
+                "Algorithmic Misclassification"
+            ]
+        },
+        "Area of AI Application": "autonomous vehicles",
+        "Online": "No"
+    },
+    "5": {
+        "Country": "United States",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company": "Various",
+        "Company city": "",
+        "Affected population": "Patients undergoing robotic surgery",
+        "Number of people actually affected": "144 deaths, 1391 injuries",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Robotic surgery",
+        "Online": "No"
+    }
+}

@@ -37,12 +37,14 @@ class Taxonomies:
         
     def get_category(self,field):
         taxa = self.taxonomy
+        result = []
         if field == "class":
             return list(taxa.keys())
         for k,v in taxa.items():
             if field == "subclass":
-                return f"{k}(Classes)->{list(v.keys())}(subclass list)"
-            else:
+                result.append(f"{k}(Class)->{list(v.keys())}(subclass list)")
+            elif field == "sub-subclass":
                 for key,val in taxa[k].items():
-                    return f"{key}(Subclasses)->{val}(sub-subclass list)"
-
+                    result.append(f"{key}(Subclass)->{val}(sub-subclass list)")
+        return result
+    

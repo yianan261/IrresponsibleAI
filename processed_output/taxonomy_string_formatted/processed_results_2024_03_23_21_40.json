@@ -1,0 +1,129 @@
+{
+    "1": {
+        "Country": "Global",
+        "State": "N/A",
+        "City": "N/A",
+        "Continent": "Global",
+        "Company": "Google LLC",
+        "Company city": "Mountain View, CA",
+        "Affected population": "Children",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Video",
+                "Textual"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "content filtering, video recommendation",
+        "Online": "Yes"
+    },
+    "2": {
+        "Country": "United States",
+        "State": "New Jersey",
+        "City": "Robbinsville",
+        "Continent": "North America",
+        "Company": "Amazon",
+        "Company city": "Seattle, WA",
+        "Affected population": "Amazon workers",
+        "Number of people actually affected": "24",
+        "Number of people potentially affected": "54",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "warehouse automation, robotics",
+        "Online": "No"
+    },
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "Jakarta",
+        "Continent": "Asia",
+        "Company": "Boeing",
+        "Company city": "Chicago, IL",
+        "Affected population": "Airline passengers and crew",
+        "Number of people actually affected": "189",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "aviation automation",
+        "Online": "No"
+    },
+    "4": {
+        "Country": "United States",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company": "Uber",
+        "Company city": "San Francisco, CA",
+        "Affected population": "Pedestrians",
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Technical Failure"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Technical Failure": [
+                "Sensor Error",
+                "Algorithm Error"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "autonomous vehicles",
+        "Online": "No"
+    },
+    "5": {
+        "Country": "United States",
+        "State": "Various",
+        "City": "Various",
+        "Continent": "North America",
+        "Company": "Various",
+        "Company city": "Various",
+        "Affected population": "Patients undergoing robotic surgery",
+        "Number of people actually affected": "144 deaths, 1391 injuries",
+        "Number of people potentially affected": "More than 1.7 million (number of robotic procedures carried out between 2007 and 2013)",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Technical Difficulties"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Technical Difficulties": [
+                "Malfunction",
+                "Operational Error"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "robotic surgery",
+        "Online": "No"
+    }
+}

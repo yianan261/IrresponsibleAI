@@ -1,0 +1,143 @@
+{
+    "1": {
+        "1": {
+            "Country": "Worldwide",
+            "State": "",
+            "City": "",
+            "Continent": "Worldwide",
+            "Company": "YouTube",
+            "Company city": "San Bruno, CA",
+            "Affected population": "Children",
+            "Number of people actually affected": "Unknown",
+            "Number of people potentially affected": "Unknown",
+            "Class of irresponsible AI use": [
+                "Human Incompetence",
+                "Other"
+            ],
+            "Subclasses": {
+                "Human Incompetence": [
+                    "Technical"
+                ],
+                "Other": [
+                    "Inappropriate Content Exposure"
+                ]
+            },
+            "Sub-subclass": [],
+            "Area of AI Application": "Video content filtering",
+            "Online": "Yes"
+        }
+    },
+    "2": {
+        "Country": "United States",
+        "State": "New Jersey",
+        "City": "Robbinsville",
+        "Continent": "North America",
+        "Company": "Amazon",
+        "Company city": "Seattle, WA",
+        "Affected population": "Amazon workers and families",
+        "Number of people actually affected": "54",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "warehouse automation, robotics",
+        "Online": "No"
+    },
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "Jakarta",
+        "Continent": "Asia",
+        "Company": "Boeing",
+        "Company city": "Chicago, IL",
+        "Affected population": "Passengers and crew of Lion Air Flight 610",
+        "Number of people actually affected": "189",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Aviation automation",
+        "Online": "No"
+    },
+    "4": {
+        "Country": "United States",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company": "Uber",
+        "Company city": "San Francisco, CA",
+        "Affected population": "Pedestrians",
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Technical Failure"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Monitoring Failure"
+            ],
+            "Technical Failure": [
+                "Detection System Failure"
+            ]
+        },
+        "Sub-subclass": {
+            "Monitoring Failure": [],
+            "Detection System Failure": [
+                "Lidar System",
+                "Algorithmic Misclassification"
+            ]
+        },
+        "Area of AI Application": "autonomous vehicles",
+        "Online": "No"
+    },
+    "5": {
+        "Country": "United States",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company": "Various",
+        "Company city": "",
+        "Affected population": "Patients undergoing robotic surgery",
+        "Number of people actually affected": "144 deaths, 1391 injuries",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Technical Failure"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Technical Failure": [
+                "Device Malfunction",
+                "Operational Error"
+            ]
+        },
+        "Sub-subclass": {
+            "Device Malfunction": [
+                "Electrical Arcing",
+                "Broken Pieces",
+                "Uncontrolled Movement"
+            ],
+            "Operational Error": [
+                "System Errors",
+                "Loss of Video Feed"
+            ]
+        },
+        "Area of AI Application": "Robotic Surgery",
+        "Online": "No"
+    }
+}

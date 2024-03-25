@@ -1,0 +1,225 @@
+{
+    "1": {
+        "1": {
+            "Country": "Worldwide",
+            "State": "",
+            "City": "",
+            "Continent": "Worldwide",
+            "Company": "YouTube",
+            "Company city": "San Bruno, CA",
+            "Affected population": "Children",
+            "Number of people actually affected": "Unknown",
+            "Number of people potentially affected": "Unknown",
+            "Class of irresponsible AI use": [
+                "Disinformation",
+                "Human Incompetence"
+            ],
+            "Subclasses": {
+                "Disinformation": [
+                    "Video"
+                ],
+                "Human Incompetence": [
+                    "Technical",
+                    "Administrative"
+                ]
+            },
+            "Sub-subclass": {
+                "Video": [
+                    "Inappropriate content for children",
+                    "Conspiracy theories"
+                ]
+            },
+            "Area of AI Application": "Content distribution and filtering",
+            "Online": "Yes"
+        },
+        "2": {
+            "Country": "Worldwide",
+            "State": "",
+            "City": "",
+            "Continent": "Worldwide",
+            "Company": "YouTube",
+            "Company city": "San Bruno, CA",
+            "Affected population": "Children",
+            "Number of people actually affected": "Unknown",
+            "Number of people potentially affected": "Unknown",
+            "Class of irresponsible AI use": [
+                "Human Incompetence"
+            ],
+            "Subclasses": {
+                "Human Incompetence": [
+                    "Technical",
+                    "Administrative"
+                ]
+            },
+            "Sub-subclass": {
+                "Technical": [
+                    "Algorithmic failure"
+                ],
+                "Administrative": [
+                    "Lack of effective content moderation"
+                ]
+            },
+            "Area of AI Application": "Content distribution and filtering",
+            "Online": "Yes"
+        },
+        "3": {
+            "Country": "Worldwide",
+            "State": "",
+            "City": "",
+            "Continent": "Worldwide",
+            "Company": "YouTube",
+            "Company city": "San Bruno, CA",
+            "Affected population": "Children",
+            "Number of people actually affected": "Unknown",
+            "Number of people potentially affected": "Unknown",
+            "Class of irresponsible AI use": [
+                "Disinformation"
+            ],
+            "Subclasses": {
+                "Disinformation": [
+                    "Video"
+                ]
+            },
+            "Sub-subclass": {
+                "Video": [
+                    "Exposure to conspiracy theories"
+                ]
+            },
+            "Area of AI Application": "Content distribution and filtering",
+            "Online": "Yes"
+        }
+    },
+    "2": {
+        "Country": "United States",
+        "State": "New Jersey",
+        "City": "Robbinsville",
+        "Continent": "North America",
+        "Company": "Amazon",
+        "Company city": "Seattle, WA",
+        "Affected population": "Amazon workers and families",
+        "Number of people actually affected": "24",
+        "Number of people potentially affected": "54",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "warehouse automation, robotics",
+        "Online": "No"
+    },
+    "3": {
+        "1": {
+            "Country": "Indonesia",
+            "State": "",
+            "City": "Jakarta",
+            "Continent": "Asia",
+            "Company": "Lion Air",
+            "Company city": "Jakarta",
+            "Affected population": "Passengers and crew of Lion Air Flight 610",
+            "Number of people actually affected": "189",
+            "Number of people potentially affected": "Unknown",
+            "Class of irresponsible AI use": [
+                "Human Incompetence"
+            ],
+            "Subclasses": {
+                "Human Incompetence": [
+                    "Technical"
+                ]
+            },
+            "Sub-subclass": {
+                "Technical": []
+            },
+            "Area of AI Application": "Aviation automation, Maneuvering Characteristics Augmentation System (MCAS)",
+            "Online": "No"
+        },
+        "2": {
+            "Country": "Worldwide",
+            "State": "",
+            "City": "",
+            "Continent": "Worldwide",
+            "Company": "Boeing",
+            "Company city": "Chicago, IL",
+            "Affected population": "Passengers and crew of Boeing 737 MAX 8 flights",
+            "Number of people actually affected": "Unknown",
+            "Number of people potentially affected": "All passengers and crew flying on Boeing 737 MAX 8",
+            "Class of irresponsible AI use": [
+                "Human Incompetence"
+            ],
+            "Subclasses": {
+                "Human Incompetence": [
+                    "Technical"
+                ]
+            },
+            "Sub-subclass": {
+                "Technical": []
+            },
+            "Area of AI Application": "Aviation automation, Maneuvering Characteristics Augmentation System (MCAS)",
+            "Online": "No"
+        }
+    },
+    "4": {
+        "1": {
+            "Country": "United States",
+            "State": "Arizona",
+            "City": "Tempe",
+            "Continent": "North America",
+            "Company": "Uber",
+            "Company city": "San Francisco, CA",
+            "Affected population": "Pedestrians, Cyclists",
+            "Number of people actually affected": "1",
+            "Number of people potentially affected": "Unknown",
+            "Class of irresponsible AI use": [
+                "Human Incompetence",
+                "Technical Failure"
+            ],
+            "Subclasses": {
+                "Human Incompetence": [
+                    "Monitoring Failure"
+                ],
+                "Technical Failure": [
+                    "Sensor Failure",
+                    "Algorithmic Failure"
+                ]
+            },
+            "Sub-subclass": {
+                "Sensor Failure": [
+                    "Lidar"
+                ],
+                "Algorithmic Failure": [
+                    "Object Detection",
+                    "Path Prediction"
+                ]
+            },
+            "Area of AI Application": "Autonomous Vehicles",
+            "Online": "No"
+        }
+    },
+    "5": {
+        "Country": "United States",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company": "Various",
+        "Company city": "Various",
+        "Affected population": "Patients undergoing robotic surgery",
+        "Number of people actually affected": "144 deaths, 1391 injuries",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Technical": []
+        },
+        "Area of AI Application": "Robotic surgery",
+        "Online": "No"
+    }
+}
