@@ -1,0 +1,26 @@
+{
+    "5": {
+        "Country": "United States",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company": "Various",
+        "Company city": "Various",
+        "Company state": "Various",
+        "Affected population": "Patients undergoing robotic surgery",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Technical"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Robotic surgery",
+        "Online": "no"
+    }
+}

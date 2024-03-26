@@ -1,0 +1,25 @@
+{
+    "2": {
+        "Country": "United States",
+        "State": "New Jersey",
+        "City": "Robbinsville",
+        "Continent": "North America",
+        "Company": "Amazon",
+        "Company city": "Seattle",
+        "Company state": "Washington",
+        "Affected population": "Warehouse Workers",
+        "Number of people actually affected": "24",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Warehouse Automation",
+        "Online": "no"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "1": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Children on Youtube",
+            "Parents"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical",
+                "Administrative"
+            ],
+            "Disinformation": [
+                "Video",
+                "Textual"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content filtering",
+        "Online": "Yes"
+    },
+    "11": {
+        "Country": "United States",
+        "State": "Florida",
+        "City": "Broward County",
+        "Continent": "North America",
+        "Company": "Northpointe (now part of Equivant)",
+        "Company city": "Canton",
+        "Company state": "Ohio",
+        "Affected population": [
+            "Criminal Defendants"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Discrimination": {
+                "Data bias": [
+                    "Race",
+                    "Gender"
+                ],
+                "Algorithmic bias": [
+                    "Feedback loop",
+                    "Other"
+                ]
+            }
+        },
+        "Area of AI Application": "Criminal justice risk assessments",
+        "Online": "yes"
+    }
+}

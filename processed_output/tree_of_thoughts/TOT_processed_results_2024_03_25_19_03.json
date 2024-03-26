@@ -1,0 +1,464 @@
+{
+    "1": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Children",
+            "Parents"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (YouTube Kids user base)",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical",
+                "Administrative"
+            ],
+            "Disinformation": [
+                "Video",
+                "Textual"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": {
+            "Technical": [],
+            "Administrative": [],
+            "Video": [],
+            "Textual": []
+        },
+        "Area of AI Application": "Content filtering",
+        "Online": "Yes"
+    },
+    "2": {
+        "Country": "United States",
+        "State": "New Jersey",
+        "City": "Robbinsville",
+        "Continent": "North America",
+        "Company": "Amazon",
+        "Company city": "Seattle",
+        "Company state": "Washington",
+        "Affected population": [
+            "Warehouse Workers"
+        ],
+        "Number of people actually affected": "24",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Warehouse Automation",
+        "Online": "No"
+    },
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "Jakarta",
+        "Continent": "Asia",
+        "Company": "Boeing",
+        "Company city": "Chicago",
+        "Company state": "Illinois",
+        "Affected population": [
+            "Airline Passengers",
+            "Crew Members"
+        ],
+        "Number of people actually affected": "189",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Aviation Safety",
+        "Online": "No"
+    },
+    "4": {
+        "Country": "United States",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company": "Uber",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Pedestrians",
+            "Self-driving car testers"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous Vehicles",
+        "Online": "No"
+    },
+    "5": {
+        "Country": "United States",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company": [
+            "MIT",
+            "University of Illinois at Urbana-Champaign",
+            "Rush University Medical Center"
+        ],
+        "Company city": [
+            "Cambridge",
+            "Urbana",
+            "Chicago"
+        ],
+        "Company state": [
+            "Massachusetts",
+            "Illinois",
+            "Illinois"
+        ],
+        "Affected population": [
+            "Patients undergoing robotic surgery"
+        ],
+        "Number of people actually affected": "144 deaths, 1,391 injuries",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Other": []
+        },
+        "Sub-subclass": {
+            "Technical": []
+        },
+        "Area of AI Application": "Robotic Surgery",
+        "Online": "No"
+    },
+    "6": {
+        "Article Title": "In 2016, Microsoft\u2019s Racist Chatbot Revealed the Dangers of Online Conversation",
+        "Categories": {
+            "Technology": {
+                "Artificial Intelligence": {
+                    "Chatbots": []
+                },
+                "Social Media": [],
+                "Online Safety": []
+            },
+            "Society": {
+                "Ethics": {
+                    "Online Behavior": []
+                },
+                "Cultural Impact": []
+            }
+        }
+    },
+    "7": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Wikipedia",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Online Community"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (Wikipedia user base and wider online community)",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Other": []
+        },
+        "Sub-subclass": {
+            "Technical": []
+        },
+        "Area of AI Application": "Content management",
+        "Online": "Yes"
+    },
+    "8": {
+        "Country": "United States",
+        "State": "California",
+        "City": "San Francisco",
+        "Continent": "North America",
+        "Company": "Uber Technologies Inc.",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Pedestrians",
+            "Drivers",
+            "Bicyclists"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous Vehicles",
+        "Online": "No"
+    },
+    "9": {
+        "Country": "United States",
+        "State": "New York",
+        "City": "New York City",
+        "Continent": "North America",
+        "Company": "New York City Department of Education",
+        "Company city": "New York City",
+        "Company state": "New York",
+        "Affected population": [
+            "Teachers",
+            "Students",
+            "Parents"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical",
+                "Administrative"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Educational assessment",
+        "Online": "Yes"
+    },
+    "10": {
+        "Country": "United States",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company": "Starbucks",
+        "Company city": "Seattle",
+        "Company state": "Washington",
+        "Affected population": [
+            "Retail Workers",
+            "Single Parents",
+            "Students",
+            "Part-time Workers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (Starbucks employee base and wider retail workforce)",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical",
+                "Administrative"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": {
+            "Technical": [],
+            "Administrative": []
+        },
+        "Area of AI Application": "Workforce Management",
+        "Online": "No"
+    },
+    "11": {
+        "Article Title": "Algorithmic Injustice: A Deep Dive into the Controversies Surrounding AI and Criminal Sentencing",
+        "Categories": [
+            "Technology",
+            "Law & Ethics",
+            "Artificial Intelligence",
+            "Social Justice"
+        ],
+        "Summary": "The article explores the complexities and controversies surrounding the use of artificial intelligence (AI) algorithms in criminal sentencing. It discusses the potential for AI to improve efficiency and objectivity in legal decisions but also highlights significant concerns about bias, transparency, and fairness. The article examines specific cases and studies, including the use of COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) in the US, to illustrate how AI algorithms can sometimes perpetuate racial biases and other forms of discrimination. It also touches on the challenges of achieving fairness in AI algorithms given differing definitions of fairness and the impact of societal inequalities on data used by these algorithms. The article calls for more transparency, ethical considerations, and public policy interventions to address these issues.",
+        "Keywords": [
+            "AI",
+            "COMPAS",
+            "criminal sentencing",
+            "bias",
+            "fairness",
+            "transparency",
+            "racial discrimination",
+            "ethical considerations",
+            "public policy"
+        ]
+    },
+    "12": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Unknown",
+        "Company city": "",
+        "Company state": "",
+        "Affected population": "Unknown",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [],
+        "Subclasses": {},
+        "Sub-subclass": [],
+        "Area of AI Application": "",
+        "Online": "No"
+    },
+    "13": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Online Community",
+            "Developers",
+            "Researchers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (Global internet user base)",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Other"
+            ],
+            "Algorithmic bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Content Moderation",
+        "Online": "Yes"
+    },
+    "14": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Online Community"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race",
+                "Sexual Orientation"
+            ],
+            "Algorithmic bias": [
+                "Feedback loop",
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Natural Language Processing",
+        "Online": "Yes"
+    },
+    "15": {
+        "Article_1": {
+            "Title": "YouTube apologizes for disturbing children's videos",
+            "Classification": {
+                "Primary": "Disinformation",
+                "Secondary": [
+                    "Human Incompetence",
+                    "Mental Health",
+                    "Copyright Violation"
+                ]
+            },
+            "Reasoning": "The article discusses YouTube's failure to filter out inappropriate content for children on its platform, which can be classified as disinformation due to the misleading nature of presenting adult content as child-friendly. Human incompetence is a secondary classification because the issue arose from YouTube's reliance on algorithms rather than human moderation. The potential impact on children's mental health and the unauthorized use of copyrighted characters further support the secondary classifications."
+        },
+        "Article_2": {
+            "Title": "Microsoft's chatbot Tay taken offline after offensive tweets",
+            "Classification": {
+                "Primary": "Human Incompetence",
+                "Secondary": [
+                    "Disinformation",
+                    "Discrimination",
+                    "Mental Health"
+                ]
+            },
+            "Reasoning": "This article details the incident where Microsoft's AI chatbot, Tay, began producing offensive content due to its learning algorithm being exploited. The primary classification is human incompetence, as the oversight in Tay's design allowed for such exploitation. Disinformation and discrimination are secondary classifications due to the spread of false and offensive information. The potential distress caused to affected groups justifies the mental health classification."
+        },
+        "Article_3": {
+            "Title": "Amazon's 'adult' book delisting controversy",
+            "Classification": {
+                "Primary": "Discrimination",
+                "Secondary": [
+                    "Human Incompetence",
+                    "Disinformation"
+                ]
+            },
+            "Reasoning": "The article covers Amazon's removal of sales rankings for books with LGBT themes, classifying them as 'adult' content. Discrimination is the primary classification due to the seemingly targeted nature of the delistings. Human incompetence is a secondary classification, considering the flawed implementation of the policy. Disinformation applies due to the misleading representation of LGBT-themed books as adult content."
+        }
+    }
+}

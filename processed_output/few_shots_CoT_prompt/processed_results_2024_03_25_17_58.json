@@ -1,0 +1,163 @@
+{
+    "1": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Children",
+            "Parents"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (YouTube Kids user base)",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical",
+                "Administrative"
+            ],
+            "Disinformation": [
+                "Video",
+                "Textual"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": {
+            "Data bias": [],
+            "Algorithmic bias": []
+        },
+        "Area of AI Application": "Content filtering",
+        "Online": "Yes"
+    },
+    "2": {
+        "Country": "United States",
+        "State": "New Jersey",
+        "City": "Robbinsville",
+        "Continent": "North America",
+        "Company": "Amazon",
+        "Company city": "Seattle",
+        "Company state": "Washington",
+        "Affected population": [
+            "Warehouse Workers"
+        ],
+        "Number of people actually affected": "24",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Warehouse Automation",
+        "Online": "No"
+    },
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "Jakarta",
+        "Continent": "Asia",
+        "Company": "Boeing",
+        "Company city": "Chicago",
+        "Company state": "Illinois",
+        "Affected population": [
+            "Airline Passengers",
+            "Pilots"
+        ],
+        "Number of people actually affected": "189",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Aviation safety systems",
+        "Online": "No"
+    },
+    "4": {
+        "Country": "United States",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company": "Uber",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Pedestrians",
+            "Self-driving car testers"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous Vehicles",
+        "Online": "No"
+    },
+    "5": {
+        "Country": "United States",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company": [
+            "Massachusetts Institute of Technology",
+            "University of Illinois at Urbana-Champaign",
+            "Rush University Medical Center"
+        ],
+        "Company city": [
+            "Cambridge",
+            "Urbana",
+            "Chicago"
+        ],
+        "Company state": [
+            "Massachusetts",
+            "Illinois",
+            "Illinois"
+        ],
+        "Affected population": [
+            "Patients undergoing robotic surgery"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (1.7 million robotic procedures from 2007 to 2013)",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Other": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Robotic Surgery",
+        "Online": "No"
+    }
+}

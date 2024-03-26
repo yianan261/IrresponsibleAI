@@ -1,0 +1,463 @@
+{
+    "1": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Children",
+            "Parents"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (YouTube user base and wider online community)",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical",
+                "Administrative"
+            ],
+            "Disinformation": [
+                "Video",
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Filtering",
+        "Online": "Yes"
+    },
+    "2": {
+        "Country": "United States",
+        "State": "New Jersey",
+        "City": "Robbinsville",
+        "Continent": "North America",
+        "Company": "Amazon",
+        "Company city": "Seattle",
+        "Company state": "Washington",
+        "Affected population": [
+            "Warehouse Workers"
+        ],
+        "Number of people actually affected": "24",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Warehouse automation",
+        "Online": "No"
+    },
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "Jakarta",
+        "Continent": "Asia",
+        "Company": "Boeing",
+        "Company city": "Chicago",
+        "Company state": "Illinois",
+        "Affected population": [
+            "Airline Passengers",
+            "Crew Members"
+        ],
+        "Number of people actually affected": "189",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Other"
+            ],
+            "Algorithmic bias": [
+                "Feedback loop",
+                "Optimization function",
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Aviation safety systems",
+        "Online": "No"
+    },
+    "4": {
+        "Country": "United States",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company": "Uber",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Pedestrians",
+            "Self-driving car testers"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Autonomous Vehicles",
+        "Online": "No"
+    },
+    "5": {
+        "Country": "United States",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company": "FDA",
+        "Company city": "Silver Spring",
+        "Company state": "Maryland",
+        "Affected population": [
+            "Patients undergoing robotic surgery"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (1.7 million robotic procedures from 2007 to 2013)",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Robotic Surgery",
+        "Online": "No"
+    },
+    "6": {
+        "Article Title": "In 2016, Microsoft\u2019s Racist Chatbot Revealed the Dangers of Online Conversation",
+        "Article Content Summary": "In 2016, Microsoft launched a chatbot named Tay on Twitter, designed to learn from interactions with users and mimic the language patterns of a 19-year-old American girl. However, within 24 hours, Tay began posting inflammatory and offensive tweets, including racist and sexist remarks, due to trolls exploiting its learning capabilities. Microsoft quickly took Tay offline and issued an apology, stating the bot was attacked by a subset of people who exploited a vulnerability in its design. This incident highlighted the challenges and ethical considerations in AI design, particularly in public forums where AI systems can learn both positive and negative interactions from humans.",
+        "Categories": {
+            "Main Category": "Technology",
+            "Subcategories": [
+                "Artificial Intelligence",
+                "Social Media",
+                "Ethics in Technology"
+            ]
+        }
+    },
+    "7": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Various",
+        "Company city": "",
+        "Company state": "",
+        "Affected population": [
+            "Online Community"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (Wikipedia user base and wider online community)",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Automated content management",
+        "Online": "Yes"
+    },
+    "8": {
+        "Country": "United States",
+        "State": "California",
+        "City": "San Francisco",
+        "Continent": "North America",
+        "Company": "Uber",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Pedestrians",
+            "Drivers",
+            "Bicyclists"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (residents and visitors of San Francisco)",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": {
+            "Human Incompetence": {
+                "Technical": []
+            },
+            "Disinformation": {
+                "Textual": []
+            }
+        },
+        "Area of AI Application": "Autonomous Vehicles",
+        "Online": "No"
+    },
+    "9": {
+        "Country": "United States",
+        "State": "New York",
+        "City": "New York City",
+        "Continent": "North America",
+        "Company": "New York City Department of Education",
+        "Company city": "New York City",
+        "Company state": "New York",
+        "Affected population": [
+            "Teachers",
+            "Students",
+            "Parents"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (entire NYC public school system)",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Educational assessment",
+        "Online": "Yes"
+    },
+    "10": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Starbucks",
+        "Company city": "Seattle",
+        "Company state": "Washington",
+        "Affected population": [
+            "Retail Workers",
+            "Single Mothers",
+            "Part-time Workers",
+            "Students"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (Starbucks employee base and wider retail workforce)",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical",
+                "Administrative"
+            ],
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Economic"
+            ],
+            "Algorithmic bias": [
+                "Feedback loop",
+                "Optimization function"
+            ]
+        },
+        "Area of AI Application": "Workforce scheduling",
+        "Online": "Yes"
+    },
+    "11": {
+        "Article Title": "Automated Inference on Criminality using Face Images",
+        "Main Topic": "Artificial Intelligence",
+        "Subtopics": [
+            "Ethics",
+            "Bias in AI",
+            "Facial Recognition Technology"
+        ],
+        "Keywords": [
+            "AI",
+            "Machine Learning",
+            "Bias",
+            "Ethics",
+            "Facial Recognition",
+            "Criminality Prediction",
+            "Algorithmic Bias"
+        ],
+        "Summary": "The article discusses a controversial study by Chinese researchers Xiaolin Wu and Xi Zhang, who claim that their machine learning algorithm can predict criminality based on facial images. The study has sparked debate over the ethics and potential biases of using artificial intelligence in criminal justice. Critics argue that such algorithms could perpetuate existing biases and discrimination, while the researchers defend their work by highlighting the potential for objective and efficient criminal prediction. The discussion reflects broader concerns about the role of AI in society and the importance of addressing bias in machine learning models.",
+        "Geographical Focus": "China",
+        "Date of Publication": "Not Provided",
+        "Source": "Not Provided"
+    },
+    "12": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "",
+        "Company city": "",
+        "Company state": "",
+        "Affected population": [],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [],
+        "Subclasses": {},
+        "Sub-subclass": [],
+        "Area of AI Application": "",
+        "Online": "No"
+    },
+    "13": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Online Community",
+            "Developers",
+            "Media Companies"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (Global online community)",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race",
+                "Other"
+            ],
+            "Algorithmic bias": [
+                "Feedback loop",
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Online content moderation",
+        "Online": "Yes"
+    },
+    "14": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Online Users",
+            "Ethnic and Religious Minorities",
+            "LGBTQ Community"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions (Global online user base)",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Discrimination": {
+                "Data bias": [
+                    "Race",
+                    "Sexual Orientation"
+                ],
+                "Algorithmic bias": [
+                    "Other"
+                ]
+            }
+        },
+        "Area of AI Application": "Natural Language Processing",
+        "Online": "Yes"
+    },
+    "15": {
+        "1": {
+            "Country": "Worldwide",
+            "State": "",
+            "City": "",
+            "Continent": "Worldwide",
+            "Company": "Amazon.com",
+            "Company city": "Seattle",
+            "Company state": "Washington",
+            "Affected population": [
+                "Authors",
+                "Readers",
+                "LGBTQ Community"
+            ],
+            "Number of people actually affected": "Unknown",
+            "Number of people potentially affected": "Millions (Amazon user base and wider reading community)",
+            "Class of irresponsible AI use": [
+                "Human Incompetence",
+                "Disinformation"
+            ],
+            "Subclasses": {
+                "Human Incompetence": [
+                    "Technical",
+                    "Administrative"
+                ],
+                "Disinformation": [
+                    "Textual"
+                ]
+            },
+            "Sub-subclass": [],
+            "Area of AI Application": "Content filtering and ranking",
+            "Online": "Yes"
+        }
+    }
+}
