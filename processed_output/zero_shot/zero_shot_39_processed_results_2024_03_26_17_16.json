@@ -1,0 +1,37 @@
+{
+    "39": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Multiple companies including Adobe, University of Washington, Lyrebird, and others mentioned in the context of developing AI technology",
+        "Company city": "Multiple locations",
+        "Company state": "",
+        "Affected population": "General Public",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Worldwide population with internet access",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Mental Health",
+            "Other"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Textual",
+                "Image",
+                "Video",
+                "Audio"
+            ],
+            "Mental Health": [],
+            "Other": []
+        },
+        "Sub-subclass": {
+            "Textual": [],
+            "Image": [],
+            "Video": [],
+            "Audio": []
+        },
+        "Area of AI Application": "Media and information dissemination, including video conferencing, virtual reality, and potentially any form of digital communication",
+        "Online": "yes"
+    }
+}

@@ -1,0 +1,153 @@
+Updated at 10:19 a.m. ET on November 7, 2023
+
+There is no easy way to explain the sum of Google’s knowledge. It is ever-expanding. Endless. A growing web of hundreds of billions of websites, more data than even 100,000 of the most expensive iPhones mashed together could possibly store. But right now, I can say this: Google is confused about whether there’s an African country beginning with the letter k.
+
+I’ve asked the search engine to name it. “What is an African country beginning with K?” In response, the site has produced a “featured snippet” answer—one of those chunks of text that you can read directly on the results page, without navigating to another website. It begins like so: “While there are 54 recognized countries in Africa, none of them begin with the letter ‘K.’”
+
+This is wrong. The text continues: “The closest is Kenya, which starts with a ‘K’ sound, but is actually spelled with a ‘K’ sound. It’s always interesting to learn new trivia facts like this.”
+
+Given how nonsensical this response is, you might not be surprised to hear that the snippet was originally written by ChatGPT. But you may be surprised by how it became a featured answer on the internet’s preeminent knowledge base. The search engine is pulling this blurb from a user post on Hacker News, an online message board about technology, which is itself quoting from a website called Emergent Mind, which exists to teach people about AI—including its flaws. At some point, Google’s crawlers scraped the text, and now its algorithm automatically presents the chatbot’s nonsense answer as fact, with a link to the Hacker News discussion. The Kenya error, however unlikely a user is to stumble upon it, isn’t a one-off: I first came across the response in a viral tweet from the journalist Christopher Ingraham last month, and it was reported by Futurism as far back as August. (When Ingraham and Futurism saw it, Google was citing that initial Emergent Mind post, rather than Hacker News.)
+
+This is Google’s current existential challenge in a nutshell: The company has entered into the generative-AI era with a search engine that appears more complex than ever. And yet it still can be commandeered by junk that’s untrue or even just nonsensical. Older features, like snippets, are liable to suck in flawed AI writing. New features like Google’s own generative-AI tool—something like a chatbot—are liable to produce flawed AI writing. Google’s never been perfect. But this may be the least reliable it’s ever been for clear, accessible facts.
+
+In a statement responding to numerous questions, a spokesperson for the company said, in part, “We build Search to surface high quality information from reliable sources, especially on topics where information quality is critically important.” They added that “when issues arise—for example, results that reflect inaccuracies that exist on the web at large—we work on improvements for a broad range of queries, given the scale of the open web and the number of searches we see every day.”
+
+People have long trusted the search engine as a kind of all-knowing, constantly updated encyclopedia. Watching The Phantom Menace and trying to figure out who voices Jar Jar Binks? Ahmed Best. Can’t recall when the New York Jets last won the Super Bowl? 1969. You once had to click to independent sites and read for your answers. But for many years now, Google has presented “snippet” information directly on its search page, with a link to its source, as in the Kenya example. Its generative-AI feature takes this even further, spitting out a bespoke original answer right under the search bar, before you are offered any links. Sometime in the near future, you may ask Google why U.S. inflation is so high, and the bot will answer that query for you, linking to where it got that information. (You can test the waters now if you opt into the company’s experimental “Labs” features.)
+
+From the July/August 2008 issue: Is Google making us stupid?
+
+Misinformation or even disinformation in search results was already a problem before generative AI. Back in 2017, The Outline noted that a snippet once confidently asserted that Barack Obama was the king of America. As the Kenya example shows, AI nonsense can fool those aforementioned snippet algorithms. When it does, the junk is elevated on a pedestal—it gets VIP placement above the rest of the search results. This is what experts have worried about since ChatGPT first launched: false information confidently presented as fact, without any indication that it could be totally wrong. The problem is “the way things are presented to the user, which is Here’s the answer,” Chirag Shah, a professor of information and computer science at the University of Washington, told me. “You don’t need to follow the sources. We’re just going to give you the snippet that would answer your question. But what if that snippet is taken out of context?”
+
+Google, for its part, disagrees that people will be so easily misled. Pandu Nayak, a vice president for search who leads the company’s search-quality teams, told me that snippets are designed to be helpful to the user, to surface relevant and high-caliber results. He argued that they are “usually an invitation to learn more” about a subject. Responding to the notion that Google is incentivized to prevent users from navigating away, he added that “we have no desire to keep people on Google. That is not a value for us.” It is a “fallacy,” he said, to think that people just want to find a single fact about a broader topic and leave.
+
+The Kenya result still pops up on Google, despite viral posts about it. This is a strategic choice, not an error. If a snippet violates Google policy (for example, if it includes hate speech) the company manually intervenes and suppresses it, Nayak said. However, if the snippet is untrue but doesn’t violate any policy or cause harm, the company will not intervene. Instead, Nayak said the team focuses on the bigger underlying problem, and whether its algorithm can be trained to address it.
+
+Search engine optimization, or SEO, is a big business. Prime placement on Google’s results page can mean a ton of web traffic and a lot of ad revenue. If Nayak is right, and people do still follow links even when presented with a snippet, anyone who wants to gain clicks or money through search has an incentive to capitalize on that—perhaps even by flooding the zone with AI-written content. Nayak told me that Google plans to fight AI-generated spam as aggressively as it fights regular spam, and claimed that the company keeps about 99 percent of spam out of search results.
+
+As Google fights generative-AI nonsense, it also risks producing its own. I’ve been demoing Google’s generative-AI-powered “search-generated experience,” or what it calls SGE, in my Chrome browser. Like snippets, it provides an answer sandwiched between the search bar and the links that follow—except this time, the answer is written by Google’s bot, rather than quoted from an outside source.
+
+Read: The vindication of Ask Jeeves
+
+I recently asked the tool about a low-stakes story I’ve been following closely: the singer Joe Jonas and the actor Sophie Turner’s divorce. When I inquired about why they split, the AI started off solid, quoting the couple’s official statement. But then it relayed an anonymously sourced rumor in Us Weekly as a fact: “Turner said Jonas was too controlling,” it told me. Turner has not publicly commented as such. The generative-AI feature also produced a version of the garbled response about Kenya: “There are no African countries that begin with the letter ‘K,’” it wrote. “However, Kenya is one of the 54 countries in Africa and starts with a ‘K’ sound.”
+
+The result is a world that feels more confused, not less, as a result of new technology. “It’s a strange world where these massive companies think they’re just going to slap this generative slop at the top of search results and expect that they’re going to maintain quality of the experience,” Nicholas Diakopoulos, a professor of communication studies and computer science at Northwestern University, told me. “I’ve caught myself starting to read the generative results, and then I stop myself halfway through. I’m like, Wait, Nick. You can’t trust this.”
+
+Google, for its part, notes that the tool is still being tested. Nayak acknowledged that some people may just look at an SGE search result “superficially,” but argued that others will look further. The company currently does not let users trigger the tool in certain subject areas that are potentially loaded with misinformation, Nayak said. I asked the bot about whether people should wear face masks, for example, and it did not generate an answer.
+
+The experts I spoke with had several ideas for how tech companies might mitigate the potential harms of relying on AI in search. For starters, tech companies could become more transparent about generative AI. Diakopoulos suggested that they could publish information about the quality of facts provided when people ask questions about important topics. They can use a coding technique known as “retrieval-augmented generation,” or RAG, which instructs the bot to cross-check its answer with what is published elsewhere, essentially helping it self-fact-check. (A spokesperson for Google said the company uses similar techniques to improve its output.) They could open up their tools to researchers to stress-test it. Or they could add more human oversight to their outputs, maybe investing in fact-checking efforts.
+
+Read: Prepare for the textpocalypse
+
+Fact-checking, however, is a fraught proposition. In January, Google’s parent company, Alphabet, laid off roughly 6 percent of its workers, and last month, the company cut at least 40 jobs in its Google News division. This is the team that, in the past, has worked with professional fact-checking organizations to add fact-checks into search results. It’s unclear exactly who was let go and what their job responsibilities were—Alex Heath, at The Verge, reported that top leaders were among those laid off, and Google declined to give me more information. It certainly suggests that Google is not investing more in its fact-checking partnerships as it builds its generative-AI tool.
+
+A spokesperson did tell me in a statement that the company is “deeply committed to a vibrant information ecosystem, and news is a part of that long term investment … These changes have no impact whatsoever on our misinformation and information quality work.” In a follow-up message, a different spokesperson also pointed to updates such as an image-checker tool that delivers more context about search results. Even so, Nayak acknowledged how daunting a task human-based fact-checking is for a platform of Google’s extraordinary scale. Fifteen percent of daily searches are ones the search engine hasn’t seen before, Nayak told me. “With this kind of scale and this kind of novelty, there’s no sense in which we can manually curate results.” Creating an infinite, largely automated, and still accurate encyclopedia seems impossible. And yet that seems to be the strategic direction Google is taking.
+
+Perhaps someday these tools will get smarter, and be able to fact-check themselves. Until then, things will probably get weirder. This week, on a lark, I decided to ask Google’s generative search tool to tell me who my husband is. (I’m not married, but when you begin typing my name into Google, it typically suggests searching for “Caroline Mimbs Nyce husband.”) The bot told me that I’m wedded to my own uncle, linking to my grandfather’s obituary as evidence—which, for the record, does not state that I am married to my uncle.
+
+A representative for Google told me that this was an example of a “false premise” search, a type that is known to trip up the algorithm. If she were trying to date me, she argued, she wouldn’t just stop at the AI-generated response given by the search engine, but would click the link to fact-check it. Let’s hope others are equally skeptical of what they see.. Google's AI-powered search doesn't understand geography. Or, apparently, the alphabet. And definitely not both at the same time.
+
+It all started when a Bluesky user declared that Google is now "dead." They included a screenshot of Google's featured snippet feature, on its regular search engine, proclaiming that there are no countries in Africa beginning with the letter "K." Considering that the country of Kenya exists, this obviously isn't true.
+
+Indeed, if you ask the search engine for "countries in Africa that start with the letter k," it produces this utterly false claim:
+
+And to make matters worse, this featured claim actually comes from a bizarre, seemingly AI-generated blog post about a conversation between a human user and ChatGPT. According to the snippet, it's drawing the post from a self-proclaimed "AI-Powered News" blog — dizzy yet? — dubbed Emergent Mind.
+
+On its own, this is an egregious error on Google search's behalf, and an ominous example of poor, AI-generated material sneaking into the top results of the world's most-used search algorithm.
+
+But when we tested the glitch ourselves, we realized that it wasn't just Google's regular search featuring this bad information. Google's AI-infused "SGE" search went as far as to vacuum up the ChatGPT-spun garbage and paraphrase it for users — a clear sign that the much-hyped feature doesn't yet know how to filter out blatantly false information.
+
+Here's what SGE told us when we asked it to provide us with "countries in Africa that start with the letter K," again referencing that sleazy Emergent Mind post:
+
+"There are no countries in Africa that start with the letter 'K'. The closest is Kenya, which starts with a 'K' sound."
+
+Pretty bad! Still, in a way, the error is somewhat cut-and-dry; a website featured bad information, and just like Google's regular search, SGE took that bad information at face value.
+
+But when we tested the bot on a series of similar queries, things only got worse.
+
+When asked to provide a list of "countries in North America that start with the letter M," for instance, Google SGE was deeply confused:
+
+"Here are some countries in North America that start with the letter M:
+
+• Mexico: 758,249 square miles
+
+• Saint Kitts and Nevis: The smallest country in North America
+
+• El Salvador: The smallest country on the mainland
+
+• Greenland: A dependent territory of Denmark, but would be the third-largest country in the continent
+
+• United States: 3,617,827 square miles
+
+• District of Columbia: Part of the United States "
+
+As we're sure it goes without saying, this list is wildly incorrect. Only one of these countries, Mexico, even starts with the correct letter, and one of the listed locales — Washington, DC — isn't even a country.
+
+And, to contrast the Kenaya slip-up, it's also much less clear why the AI came to these conclusions at all. After all, every link that the Google bot provided as its source data went back to more legitimate websites: World Population Review, the USGS' official website, and, in a less official-but-not-AI-generated-level-bad turn, Wikipedia.
+
+That in mind, it seems as if the problem here isn't just about bad information. It also seems as though SGE is suffering from an inability to parse through this specific type of layered, organizational question.
+
+Here's another example of the AI simply not understanding alphabetization. Asked for "countries in Europe in alphabetical order," for instance, the Google bot responded with this absolute flunk of a lineup:
+
+Here are some countries in Europe in alphabetical order:
+
+Hungary: A member of the Schengen Area since 2007
+
+France: A member of the EU since 1958
+
+Belgium: A nation in Western Europe known for its medieval towns and Renaissance architecture
+
+Albania: A member of NATO since 2009
+
+Russia: The largest country in Europe
+
+Vatican City: The smallest country in Europe, with an area of about 0.44 square kilometers
+
+Ah yes, the ol' HFBs.
+
+To be fair, the bot did fare much better with some other similar asks. It was able to correctly tell us which countries in Europe start with the letter "G," and also passed with flying colors when asked to provide lists of countries in Asia then start with the letters "C" and "J." There were also a few cases where the search AI almost passed the test, but inexplicably added an incorrect item at the end. For example:
+
+"Here are some countries in Asia that start with the letter M:
+
+Malaysia: A country in Asia
+
+Maldives: The smallest country in Asia
+
+Mongolia: A country in Asia
+
+Myanmar: A country in Asia
+
+Nepal: A country in Asia"
+
+As the saying goes: close, but no cigar. And on that note, we did figure out why Google SGE doesn't think that any countries in Africa start with the letter "K." It's because it starts with the letter "B," you fools! At least, according to Google's AI:
+
+"Here are some countries in Africa that start with the letter B:
+
+Benin: A country in Africa
+
+Botswana: A country in Africa
+
+Burkina Faso: A landlocked country in West Africa known for its traditional arts and crafts
+
+Burundi: A small, landlocked country in East Africa known for its rolling hills, lakes, and culture
+
+Kenya: A country in East Africa that shares borders with Tanzania, Uganda, South Sudan, Ethiopia, and Somalia"
+
+When we reached out to Google, a spokesperson emphasized that the AI is still experimental.
+
+"We've built in strong protections to mitigate against inaccuracies, but like all LLM-based experiences, generative AI in Search is experimental and can make mistakes," the spokesperson told us over email. "It is trained to corroborate responses with resources from the open web, but sometimes responses may reflect inaccuracies that exist on the web at large. We've launched this as an experiment in Search Labs to start, and we'll continue to improve and fine-tune the experience."
+
+It's worth noting that Google SGE isn't the only LLM-powered AI product that has difficulty with letters. Asking ChatGPT to repeat letters, for example, breaks its tiny little digital brain, and when prompted with similar geography-by-alphabet questions, the OpenAI-built bot didn't fare much better than its Google-made counterpart. Asked to provide a list of countries in North America that start with the letter "M," ChatGPT responded with:
+
+"Certainly! There are three countries in North America that start with the letter 'M':
+
+Mexico United States of America (USA) - Some people may refer to it colloquially as "America," but its official name starts with the letter "U." Canada
+
+These are the three countries located in North America that begin with the letter 'M.'"
+
+Absolutely word salad, but thanks!
+
+Of course, on a surface level, this bizarre AI blindspot is mostly just silly and strange. But this is just one example of what likely stands to be many, and when a pitfall-ridden technology is being incorporated into the web's most-used search engine, that's probably not something to take lightly.
+
+After all, if this SGE oddity makes anything clear, it's that even with access to all the information in the digital world, AI can still be very, very stupid. And as LLM programs become increasingly integrated into every corner of the web, that's something to keep in mind.
+
+More on Google's AI: Google Is Using a Flabbergasting Amount of Water on AI

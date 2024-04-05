@@ -1,0 +1,238 @@
+A couple of days before Slovakia’s election last Saturday, a prominent journalist was sent a recording circulating on social media that alarmed her. In it, Monika Todova heard herself discussing with Michal Simecka, a leading liberal politician, ways he might rig the vote.
+
+Their two-minute “conversation” — which may have been heard by hundreds of thousands of people — never took place, however. It was a deepfake, made using artificial intelligence.
+
+The same was true of another recording that had surfaced a few days earlier in which the 39-year-old politician was heard talking about a secret plan to double the price of beer to curb alcoholism if his party came to power.
+
+It is still not clear how much the bogus clips influenced the result. Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world. AI has added a new, challenging dimension to their work. Three days before the election, Meta notified the Demagog team that an audio recording of Šimečka proposing to double the price of beer if he won was gaining traction. Šimečka called the video a fake. “But of course the fact-checking can’t be based just on what politicians say,” says Hincová Frankovská.
+
+Proving the audio had been manipulated was hard. Hincová Frankovská had heard about AI generated posts, but her team had never actually had to fact-check one. They traced where the recording came from, discovering that it had first been posted on an anonymous Instagram account. Then they started calling around experts, asking whether they considered the recording likely to be fake or manipulated. Finally, they tried out an AI speech classifier made by an American company called Eleven Labs.
+
+After a few hours they were ready to confirm that they believed the recording had been altered. Their label, which is still available to see on Slovak-language Facebook when visitors come across the post, says: “Independent fact-checkers say that the photo or image has been edited in a way that could mislead people.” Facebook users can then choose if they want to see the video anyway.
+
+Both the beer and vote-rigging audios remain visible on Facebook, with the fact-check label. “When content is fact-checked, we label it and down-rank it in feed, so fewer people see it—as has happened with both of these examples,” says Ben Walter, a spokesperson for Meta. “Our Community Standards apply to all content, regardless of whether it is created by AI or a person, and we will take action against content that violates these policies.”
+
+This election was one of the first consequential votes to take place after the EU’s digital services act was introduced in August. The act, designed to better protect human rights online, introduced new rules that were supposed to force platforms to be more proactive and transparent in their efforts to moderate disinformation.
+
+“Slovakia was a test case to see what works and where some improvements are needed,” says Richard Kuchta, analyst at Reset, a research group that focuses on technology’s impact on democracy. “In my view, [the new law] put pressure on platforms to increase the capacities in content moderation or fact-checking. We know that Meta hired more fact-checkers for the Slovak election, but we will see if that was enough.”
+
+Alongside the two deepfake audio recordings, Kuchta also witnessed two other videos featuring AI audio impersonations be posted on social media by the far-right party Republika. One impersonated Michal Šimečka, and the other the president, Zuzana Čaputová. These audios did include declarations the voices were fake: “These voices are fictitious and their resemblance to real people is purely coincidental.” However that statement does not flash until 15 seconds into the 20 second video, says Kutcha, in what he felt was an attempt to trick listeners.
+
+The Slovakian election was being watched closely in Poland. “Of course, AI-generated disinformation is something we are very scared of, because it’s very hard to react to it fast,” says Jakub Śliż, president of Polish fact-checking group the Pravda Association. Śliż says he is also worried by the trend in Slovakia for disinformation to be packaged into audio recordings, as opposed to video or images, because voice cloning is so difficult to identify.. Fake News
+
+As Slovakia heads toward parliamentary elections on Saturday, the country has been flooded with disinformation, ranging from pro-Russian propaganda, lies about the situation in Ukraine and the spread of anti-migrant hate speech.
+
+Leader of SMER - SD party Robert Fico poses for a photo with a supporter before pre-election meeting of the party in Rimavska Sobota, Slovakia on August 15, 2023.
+
+Advertising Read more
+
+Slovakia has been coming under a barrage of online disinformation. Days before the parliamentary elections of September 30 that could lead to closer relations between this country of 5.4 million people and Moscow, voters have been flooded with disinformation from home and abroad, especially Russia.
+
+“The disinformation ecosystem in Slovakia ... is reaching its zenith today" ahead of the vote, said Peter Duboczi, editor-in-chief at Infosecurity.sk, in an interview with AFP.
+
+Reset, a London-based non-profit, said it had registered more than 365,000 election-related disinformation posts on Slovak social media in the first two weeks of September. The posts violating social media terms of service and containing disinformation had generated more than five times as much exposure as an average post, according to the non-profit.
+
+Unrestrained public discourse
+
+The biggest spreaders of disinformation by far are Slovak politicians themselves – rather than influencers, Russian trolls or conspiracy websites, said Peter Jancarik, co-founder of the Konspiratori.sk project, a public database of Czech and Slovak disinformation websites.
+
+He said the biggest victory for disinformation websites is not having more online visitors or becoming more popular but seeing their rhetoric taken up by politicians in the public sphere. "For many Slovak politicians, disinformation has become an everyday communication tool."
+
+Former prime minister Robert Fico – a populist with pro-Russian leanings and a favourite in the polls, whose videos are among the most popular in Slovakia on Facebook, YouTube and Telegram – is a prime example.
+
+"Robert Fico manipulates disinformation to such a degree that even the most intelligent, cultured and well-educated Slovaks find it hard to understand," said Alain Soubigou, senior lecturer in contemporary Central European history at the Sorbonne.
+
+Ahead of the election, Fico and the leader of the far-right Republika Milan Uhrik party have already warned voters of potential vote-rigging – a strategy also employed by Donald Trump in his failed re-election bid in 2020.
+
+Much of the disinformation circulating in recent weeks also serves Russian interests. On the campaign trail, Fico has said the war in Ukraine "started in 2014 when Ukrainian Nazis and fascists started murdering Russian citizens in Donbas and Luhansk" in east Ukraine – repeating a false narrative used by Russia’s President Vladimir Putin to justify his invasion.
+
+Along the same lines, Slovak National Party Chairman Andrej Danko said in July that Russian-occupied territories were not "historically Ukrainian".
+
+"These channels of Russian influence are not entirely new," said Soubigou. "A large part of the political class was formed during the Communist era, and links have existed beyond the Velvet Revolution of 1989" in what was then Czechoslovakia.
+
+A prime target for Moscow
+
+Experts have been warning about the high risk of Russian interference in the elections for several months already. The European commissioner for the internal market, Thierry Breton, warned in April of a "hybrid war on social media".
+
+Former Slovak defence minister Jaroslav Nad has accused Russia of paying Slovak citizens to tilt the elections in favour of Fico's Smer-SD party in May.
+
+Since the illegal Russian annexation of Crimea in 2014, Slovakia has been a prime target of disinformation from Moscow, whose embassy in Slovakia is a well-known source of propaganda.
+
+It is the most active of all Russian embassies in the world if you look at Facebook data, said Tomás Krissak, an analyst at Gerulata Technologies, a start-up specialising in hybrid threats. It also spreads a lot of disinformation and manipulative narratives, he added.
+
+A video from March 2022 showing a deputy military attaché from the Russian embassy bribing a contributor to Slovakia’s largest disinformation website caused a huge public scandal. Bratislava waited a week and then announced the expulsion of 35 Russian diplomats in response.
+
+Jancarik said the government’s reaction is “too late, too late”. “Disinformation at this scale is not something that occurred [only] in the election period,” he noted, while pointing out the numerous insufficient attempts at regulating disinformation and the shortfalls in responsibility from the platforms themselves.
+
+And the pro-Kremlin propaganda appears to have taken root. According to an opinion poll conducted by Globsec, 51% of Slovaks believe Ukraine and the West were responsible for the Russian invasion.
+
+Europe's ‘weakest link’?
+
+The Kremlin wants to leverage Slovakia's struggles to extend its own influence and infiltrate public discourse in a country where distrust of the media and political parties is traditionally very high, said Jancarik. "People really feel that they are in the middle of chaos. They don’t know what the energy prices will be, we have huge inflation [and] we have a war next door," he added.
+
+"Slovak consumers directly suffered the consequences of the war in Ukraine. Russia was supplying 80% of our energy, and the decisions taken in Brussels hit Slovakia's energy needs hard," said Soubigou.
+
+Slovakia is also facing an influx of migration from the south, a phenomenon that has fuelled hate speech from the extreme right. The country detected approximately 24,500 migrants who had entered illegally in the first eight months of the year – most of them from Serbia through Hungary.
+
+"The Kremlin is probably looking at us as the next Hungary, so they are trying to have the Trojan horse inside the EU. We are obviously the weakest link [. . .] in the EU and NATO,” Jancarik said.
+
+Read moreIs Hungary Russia's Trojan horse in Europe?
+
+Yet closer relations between Bratislava and President Viktor Orban's Hungary to the benefit of Russia are unlikely, even in the case of a Fico party victory. A Smer-SD victory in the elections would mean Fico becomes prime minister again, a position he has already held for 10 years
+
+"Hungary is not as open a country as Slovakia, and it has not benefited from as much European investment. Furthermore, Hungary does not have the euro currency like Slovakia, so its economic policy is not as aligned to the one in Brussels.”
+
+Soubigou went on to say that there are “antibodies” in Slovak civil society that don't exist in Hungary. "Not all Slovaks are falling for this remote-controlled propaganda from Moscow," he said.
+
+This article has been translated from the original in French.
+
+Daily newsletterReceive essential international news every morning Subscribe. The 2023 Slovak parliamentary election campaign made history, and not for the right reasons. For the first time, deepfakes played a role in the pre-election battle. Two days prior to the election, a video with an audio clip that allegedly featured Monika Tódová, a well-known journalist from independent news platform Denník N, and Michal Šimečka, the chairman of Progressive Slovakia party, circulated on social networks. The fake conversation never happened, but the video reached thousands of social network users anyway.
+
+The “conversation” about electoral fraud was pure fabrication. But in a short video spreading just a few days before the Slovak election, the digitally generated voices of the journalist and a party chairman were heard talking about it. In the artificially manipulated video, known as a deep fake, a static image of the journalist and the politician is shown. The audio track is of poor quality and doesn’t sound authentic, but their words are also in the subtitles. Both involved immediately denied the authenticity of the conversation. Several fact-checking organizations and experts also confirmed the inauthenticity of the video.
+
+According to press freedom groups, the deepfake involving Tódová is believed to be one of the first examples in the EU of artificial intelligence technology being used to manipulate the likeness of a journalist – and could offer a worrying portend of the future abuse of such tools to smear and discredit the media.
+
+While deepfake videos or audio clips can be made by almost anyone with minimal effort, detecting them is not so simple. “There isn’t as of yet a really effective, accessible, and above all reliable tool for detecting AI-generated content, from audio to video to photos,” confirms ICJK Bellingcat journalist and researcher Michael Colborne. It is also challenging to determine how, exactly, it was created. “Whether it was created by someone uploading it and then using artificial intelligence to dub it, or whether someone trained artificial intelligence and then created an audio file from it, it’s impossible to say,” adds investigace.cz data analyst Josef Šlerka.
+
+Tracing the path of the deepfake video is also problematic. The fact that it first started spreading from Telegram made looking into its origin even more difficult. Identifying the original source disseminating the clip with absolute certainty is almost impossible. However, it is clear that the recording could have served two purposes: to discredit a journalist and to provide evidence for the Kremlin’s narrative that the U.S. wants to manipulate the Slovak election results.
+
+Pattern of discrediting attacks
+
+Monika Tódová, a prominent figure in Slovak journalism from the newspaper Denník N, has faced smear campaigns before. According to the analysis of the Investigative Center of Jan Kuciak (ICJK), she was the most attacked journalist in the months prior to September’s 2023 parliamentary election. While this deepfake video surpassed previous tactics, she had been the object of these attacks long before.
+
+A continuous smear campaign is being waged against Tódová involving not only politicians but also disinformation platforms. Constant discreditation, hate speech, and even surveillance – these are what she has had to face in recent years. And it is often the politicians who fuel them, including at their press conferences. In addition to these, she fell victim to a deepfake, which could be a completely new tool for smear campaigns in the future. The journalist has already taken legal action and with help of protection platform Safe.Journalism.SK filed a criminal complaint – on suspicion of defamation and criminal damage to the rights of others.
+
+However, this deepfake video may have served a different purpose, too – fitting into the Kremlin narrative that the U.S. wants to manipulate the Slovak election results. The video, released a few days before Slovaks went to the polls, was distributed effectively on social networks and in emails. The most successful social network sharers of the fake video were politicians: former Supreme Court head and ex-minister Štefan Harabin and former MP Peter Marček. Both are strong advocates of pro-Kremlin positions and propaganda in the country. Marček himself visited annexed Crimea in 2018.
+
+The ICJK’s findings show that the fake video initially became publicly widespread after being shared by Štefan Harabin’s Telegram account. However, he forwarded it from the hidden private account with the name “Gabika Ha.” The former justice minister’s account did not share content from this user by accident. He has done so at least 27 times. Moreover, analysis of the account’s content shows that the person using the account, “Gabika Ha,” must have accompanied the former justice minister in person at the Salamander Days in Banská Štiavnica in early September 2023. When asked if the profile could be associated with his wife, Gabriela (abbreviated Gabika) Harabinová, a name that bears similarity to “Gabika Ha,” Harabin hung up the call with ICJK’s reporter.
+
+Despite initially surfacing on Telegram, the fabricated video spread to tens of thousands of users through Facebook. According to AFP fact-checker Robert Barca, who verifies the truthfulness of information on Slovak Facebook, it spread mainly through personal accounts, “like most viral false content on Facebook.” The most successful post, according to Barca, was that of a former member of the national council, Peter Marček.
+
+Notably, the emergence of the deepfake video involving Tódová and Šimečka coincided with a press release from the Russian intelligence agency SVR published shortly before the video appeared, alleging US involvement in influencing the outcome of the Slovak elections. SVR intelligence chief Sergei Naryshkin accused the United States of instructing allies to cooperate with business and political circles “to secure the American-demanded voting results,” particularly aiming for “the victory of its proxy, the liberal party Progressive Slovakia (…)”. The press release also made mention of Michal Šimečka, the party’s chairman.
+
+The night prior to the September 29 elections, the Slovak elections took center stage in the news broadcasted on the Russian state television network, Rossija 1. The report’s primary focus revolved around the potential for U.S. interference in the Slovak election outcomes. It was Štefan Harabin who echoed this theory on camera and, according to the footage, was the only one who gave an interview to Russian propaganda television.
+
+Unless law enforcement authorities in Slovakia are able to identify the source of the disinformation attack, the ultimate motive behind the deepfake may never be established. However, as the use of AI tools become more readily available in the coming years, the likelihood of similar deepfake smearing attacks and AI-supported disinformation campaigns could increase, posing serious democratic questions not just for Slovakia, but for Europe and the world. As debates continue around the world about how AI will affect journalism and press freedom, this case represents a worrying example of the threats deepfake technology could pose, both now and in the future.
+
+Karin Kőváry Sólymos works at the Ján Kuciak Investigative Centre (ICJK) in Slovakia
+
+This article was commissioned by IPI as part of the Media Freedom Rapid Response (MFRR), a Europe-wide mechanism which tracks, monitors and responds to violations of press and media freedom in EU Member States, Candidate Countries, and Ukraine. The project is co-funded by the European Commission.. Infox en stock
+
+Diffusion de la propagande russe, manipulation électorale, mensonges sur la situation en Ukraine, discours haineux contre les migrants, la désinformation en Slovaquie ne s'est jamais aussi bien portée que lors de cette campagne des législatives, dont le scrutin se déroule samedi.
+
+Le leader du SMER, Robert Fico, pose avec ses supporters lors d'un meeting à Rimavska Sobota, le 15 août 2023.
+
+Publicité Lire la suite
+
+La désinformation bat de nouveaux records en Slovaquie. À quelques jours des législatives du 30 septembre qui pourraient entraîner un rapprochement de Moscou de ce pays de 5,4 millions d'habitants, les électeurs croulent sous une avalanche d'infox aussi bien internes que venant de l'étranger, en particulier de Russie.
+
+"L'écosystème de la désinformation en Slovaquie (...) atteint aujourd'hui son apogée" à l'approche du vote, affirme à l'AFP Peter Duboczi, rédacteur en chef d'Infosecurity.sk, un site qui analyse les rouages de la désinformation et sensibilise le grand public sur cette question.
+
+À voir aussiLa Russie poursuit sa guerre de l’information contre l’Otan
+
+Selon l'organisation à but non lucratif Reset, basée à Londres, plus de 365 000 messages de désinformation liés aux élections ont été publiés sur les réseaux sociaux slovaques au cours des deux premières semaines de septembre. Les messages violant les conditions d'utilisation des plateformes et diffusant des infox ont par ailleurs généré plus de cinq fois plus d'exposition qu'un message moyen.
+
+Une parole publique débridée
+
+Selon Peter Jancarik, cofondateur de Konspiratori.sk, une plateforme luttant contre la désinformation en Slovaquie et en République tchèque, les premiers diffuseurs de ces fausses informations ne sont ni les influenceurs, ni les les trolls russes ou les sites conspirationnistes, mais bel et bien les hommes politiques slovaques eux-mêmes.
+
+"La plus grande victoire de ces sites Internet qui propagent de fausses informationsn'est pas d'avoir une plus grande audience mais de voir leurs discours portés par des politiciens dans la sphère publique", analyse l'expert. "Pour de nombreux hommes politiques slovaques, la désinformation est devenue un outil de communication à part entière."
+
+À commencer par l'ancien Premier ministre Robert Fico, populiste aux penchants pro-russes et favori des sondages, dont les vidéos font partie des plus populaires en Slovaquie sur Facebook, mais aussi sur YouTube et Telegram.
+
+"Robert Fico manipule la désinformation à un tel degré que même les plus intelligents, les plus cultivés et les mieux formés des Slovaques ont du mal à la décrypter", affirme Alain Soubigou, maître de conférences en histoire de l'Europe centrale contemporaine à la Sorbonne.
+
+Avant même le vote, Robert Fico et l'eurodéputé Milan Uhrík, leader du parti d'extrême droite Republika, avaient également mis en garde les électeurs contre une éventuelle fraude électorale, sans fournir aucune preuve de leurs affirmations, une stratégie utilisée par Donald Trump avant l'élection américaine de 2020.
+
+Les infox massivement propagées ces dernières semaines servent aussi les intérêts russes. Robert Fico a récemment déclaré que la guerre en Ukraine avait commencé en 2014 avec des "fascistes" ukrainiens tuant des civils russes, reprenant mot pour mot le narratif de Moscou.
+
+Andrej Danko, président du Parti national slovaque (SNS) a, quant à lui, déclaré en juillet que les territoires occupés par la Russie n'étaient pas "historiquement ukrainiens".
+
+"Ces relais de l'influence russe ne sont pas tout à fait nouveaux", rappelle Alain Soubigou. "Une bonne partie de la classe politique a été formée à l'époque communiste et des liens ont existé au-delà de la révolution de velours de 1989."
+
+Une cible privilégiée pour Moscou
+
+Depuis plusieurs mois, les experts pointent le risque élevé d'ingérence russe lors de ces élections. En avril, le commissaire européen chargé du Marché intérieur, Thierry Breton, s’était inquiété d’une "guerre hybride sur les médias sociaux".
+
+En mai, un ancien ministre slovaque de la Défense, Jaroslav Nad', avait pour sa part accusé la Russie d'avoir payé des citoyens slovaques pour faire pencher les élections en faveur du parti SMER de Robert Fico.
+
+Depuis 2014 et l'annexion russe de la Crimée, la Slovaquie est une cible privilégiée de la désinformation en provenance de Moscou, dont l'ambassade en Slovaquie est un relais bien identifié.
+
+Elle est "la plus active de toutes les ambassades russes dans le monde si l'on regarde les données de Facebook", selon Tomás Krissak, analyste chez Gerulata Technologies, une start-up spécialisée dans les menaces hybrides. "Elle diffuse également beaucoup de désinformation et de récits manipulateurs", souligne-t-il.
+
+En mars 2022, la vidéo montrant un attaché militaire adjoint de l’ambassade russe verser de l’argent à l’un des contributeurs du plus grand site de désinformation du paysavait fait scandale. Une semaine après, Bratislava avait annoncé l'expulsion de 35 diplomates russes.
+
+"Le gouvernement a globalement réagi trop tard et a échoué à comprendre à quel point la désinformation était un problème sérieux", déplore Peter Jancarik, qui pointe des tentatives insuffisantes de régulation ainsi que la responsabilité des plateformes.
+
+Cette propagande pro-Kremlin semble avoir pris racine si l'on en croit de récents sondages. Selon une enquête d’opinion conduite par Globsec, 51 % des Slovaques estiment que la responsabilité de l'invasion russe revient à l’Ukraine et à l’Occident.
+
+Le "maillon faible" de l'Europe ?
+
+Selon Peter Jancarik de Konspiratori.sk, le Kremlin a su exploiter les difficultés que la Slovaquie a récemment traversées pour étendre son influence et infiltrer le discours public dans un pays où la défiance envers les médias et les partis est traditionnellement très élevée.
+
+"Les gens ont vraiment l'impression d'être au milieu du chaos. Il y a eu la crise du Covid-19 qui a été très mal gérée. Les gens s'inquiètent des prix de l'énergie, il y a une énorme inflation et la guerre est à nos portes", résume-t-il.
+
+"Les consommateurs slovaques ont pris la guerre en Ukraine en pleine figure. De Russie arrivait 80 % de l'énergie et les décisions prises à Bruxelles ont heurté de plein fouet les besoins en énergie de la Slovaquie", affirme Alain Soubigou.
+
+Par ailleurs, Bratislava est confrontée, dans le Sud, à une poussée migratoire alimentant le discours de haine porté par l'extrême droite. Selon InfoMigrants, au cours des huit premiers mois de cette année, le pays a recensé environ 24 500 migrants entrés illégalement, pour la plupart depuis la Serbie via la Hongrie.
+
+"Nous sommes le maillon faible de l'Europe et de l'Otan. Le Kremlin veut faire de nous la prochaine Hongrie et son nouveau cheval de Troie", s'inquiète Peter Jancarik.
+
+À lire aussiLa Hongrie, cheval de Troie de la Russie en Europe ?
+
+Mais un rapprochement de Bratislava avec la Hongrie de Viktor Orban au profit de la Russie est loin d'être évident, et ce même en cas de victoire du SMER de Robert Fico, qui retrouverait le poste de Premier ministre qu'il a déjà occupé pendant dix ans.
+
+"La Hongrie n'est pas un pays aussi ouvert que la Slovaquie et n'a pas bénéficié d'autant d'investissements européens. Par ailleurs, la Hongrie n'a pas l'euro comme la Slovaquie, sa politique économique n'est donc pas autant accordée avec celle de Bruxelles. Enfin, il y a des anticorps dans la société civile slovaque qui n'existent pas du tout en Hongrie", décrypte Alain Soubigou. "Tous les Slovaques sont loin de tomber dans le panneau de cette propagande télécommandée depuis Moscou."
+
+Le résumé de la semaineFrance 24 vous propose de revenir sur les actualités qui ont marqué la semaine Je m'abonne. BRATISLAVA – Videos featuring artificial intelligence-generated deepfake voices of politicians are spreading on social media ahead of the Slovak parliamentary elections this weekend, showcasing how the emergent technology is being harnessed for political disinformation.
+
+The clips are being shared on sites including Meta Platforms’ Facebook and Instagram and messaging apps like Telegram that include audio impersonating political opponents, said Reset, a research group that looks at technology’s impact on democracy, in a report on Friday.
+
+One such video features a two-minute-long conversation in which the leader of the progressive party, Mr Michal Simecka, appears to discuss buying votes from the Roma minority with a journalist.
+
+AFP fact-checkers consulted several experts who concluded that the audio was synthesised by an artificial intelligence (AI) tool trained on real samples of the speakers’ voices, and several copies are available on social media without a label marking them as misleading.
+
+A spokesman for Meta said that while posts from political parties are not eligible for fact-checking because Meta should not be “preventing a politician’s speech from reaching its audience and being subject to public debate and scrutiny”, its fact-checkers covering Slovakia “continue to actively debunk false claims relating to the elections circulating online”.
+
+A representative for Telegram did not respond to a request for comment.
+
+Researchers and lawmakers have been warning about a wave of disinformation powered by AI, but fake images and videos have until now been more of a playful curiosity.
+
+The Slovak examples appear to show how the technology can be used to deceive and antagonise voters in the final days before a narrowly contested election.
+
+The elections are shaping up to be one of the most consequential for the eastern European Union nation of 5.4 million since the fall of communism. Mr Robert Fico’s SMER party is one of the front runners and running on a populist campaign that has denounced sanctions against Russia and military aid to Ukraine. He is up against Mr Simecka’s pro-European Progressive Slovakia party.. Two far-right Republika’s social media posts in which AI is used to mimic the voice of Progressives leader Michal Šimečka and spread falsehoods, like plans to raise the cost of beer, were eventually removed from YouTube but remained available on Facebook.
+
+In the videos shared on social media, the supposed voices of Šimečka and President Zuzana Čaputová, a former PS board member, renounced their progressive values and support Republika, while the text states that any similarities in the voices used are purely coincidental.
+
+It is widely believed and reported in Slovakia that the videos were made with the use of AI technology which has the capability of mimicking the voice of individuals.
+
+Progressive Slovakia told Euractiv.sk the videos contain the AI-generated voice of their leader, Michal Šimečka.
+
+But neither Facebook nor YouTube – under new scrutiny by the EU’s Digital Services Act (DSA), which requires them to protect against election manipulation – responded to reports of the posts within 48 hours from when they were reported via their respective reporting mechanisms.
+
+“We’ve seen a lot of bizarreness in this campaign. But the best bits of the anti-campaign our opponents have saved for last,” Šimečka said, pointing to another AI-generated hoax spread on WhatsApp, in which his voice promised to raise beer prices. The leader of progressives added that they have no plans to engage with alcohol pricing.
+
+Attacks are mounting on the Progressive Slovakia party as recent polls show it is gaining ground on the previous frontrunner, Smer, which has campaigned on ending military support for Ukraine, which could influence EU foreign policy. The hoaxes include a false claim that a candidate died from COVID-19 vaccines.
+
+Asked by Euractiv.sk at a media roundtable on Monday, how they were generally dealing with AI misinformation in the context of the election campaign, YouTube says it is confident that it complies with EU policy and uses tools to detect AI deep fakes used to break its rules against spreading misinformation.
+
+The videos, which no longer appear on YouTube but are still on Facebook at the time of this article’s publication, are among the most popular on the far-right party’s channel.
+
+As well as using AI-generated voices of politicians, the videos also attack the LGBTI+ community, which has become a heated election issue. Smer and its potential coalition partner, Republika, spread transphobic hate speech during the progressive campaign on gender self-identification.
+
+“We’ve heavily invested in our policies and systems to ensure we’re successfully supporting elections with a multi-layered approach, including the upcoming election in Slovakia. Our Community Guidelines apply to elections content, and we remove content that misleads voters on how to vote or encourages interference in the democratic process. Additionally, we connect people to authoritative election news and information through recommendations and information panels. Our teams continue to closely monitor real-time developments around the Slovak election and are ready to take further action,” a YouTube spokesperson said,
+
+(Barbara Zmušková | Euractiv.sk)
+
+Read more with Euractiv. You have reached a premium content area of Transitions. To read this entire article please login if you are already a Transitions subscriber.
+
+
+
+Not a subscriber?
+
+
+
+Subscribe today for access to:
+
+Full access to the website, including premium articles videos, country reports and searchable archives (containing over 25,000 articles).
+

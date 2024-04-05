@@ -1,0 +1,207 @@
+. The artificial intelligence wars are heating up, with tech companies large and small racing to outdo one another and get their A.I.-powered product to market. But the mistakes by the nascent technology are starting to pile up, and Google’s up-and-coming A.I.-powered chatbot has already cost the company $100 billion in market value.
+
+OpenAI has a head start in the fight with its ChatGPT chatbot launched in November that uses A.I. to generate humanlike text. ChatGPT’s wide range of uses, status as the fastest-growing consumer app in history, and potential to disrupt internet searches has pushed rivals to throw out the slow and cautious strategy that has dominated A.I. research for years.
+
+Microsoft, Google, and Chinese search giant Baidu are all moving fast on their A.I. products. Google is arguably the furthest along among the established companies, premiering its own A.I.-powered chatbot for testers on Monday. Google’s chatbot, Bard, is powered by LaMDA, the company’s own A.I.-fueled language learning model that is similar to the technology behind ChatGPT.
+
+Sundar Pichai, CEO of Google’s parent company, Alphabet, wrote that technologies like LaMDA will eventually be integrated with Google’s search engine.
+
+Bard will be released to the general public in a few weeks, Pichai wrote Monday, and it may be a good idea for Google to spend more time perfecting it before that happens. Pichai’s blog post featured a promotional video to exhibit Bard’s capabilities. In it, users asked Bard for help with day-to-day activities, including recipe ideas and how to plan a baby shower, as well as more technical questions like how to explain to a 9-year-old what the James Webb Space Telescope has discovered.
+
+But Bard underwhelmed audiences with inaccurate responses, including to the James Webb query. In that case, it responded that the telescope took the “very first pictures of a planet outside of our own solar system.”
+
+But the very first image of an exoplanet was captured by the Very Large Telescope, a ground-based array in Chile, in 2004 and confirmed as an exoplanet in 2005, according to NASA—long before James Webb’s 2021 launch. James Webb, however, is being used to identify and catalog exoplanets.
+
+Reuters was first to report on Bard’s mistake, and Google’s shares took a hit as a result. Google shares fell nearly 8% on Wednesday afternoon in midday trading, to around $99 a share, down from $108 at market close Tuesday. Its market cap Wednesday was $1.27 trillion, down from $1.35 trillion last week. The error was discovered just before Google hosted an event in Paris to display more of Bard’s capabilities.
+
+Bard’s error underscores “the importance of a rigorous testing process, something that we’re kicking off this week with our Trusted Tester program,” a Google spokesperson told Fortune, adding that the company is incorporating feedback to ensure Bard’s responses meet “a high bar for quality, safety, and groundedness in real-world information” before its wider public release.
+
+To be sure, Bard is far from the only chatbot to be inaccurate. ChatGPT has succumbed to racial and gender biases in certain scenarios while also providing incorrect or confused information when asked about niche topics.
+
+Update, Feb. 8, 2023: This article was updated with a comment from Google.. . Shares of Google’s parent company lost more than $100bn after its Bard chatbot advertisement showed inaccurate information.
+
+Shares of Google’s parent company lost more than $100bn in market value on Wednesday after its Bard chatbot advertisement showed inaccurate information and analysts said its AI search event lacked details on how it will answer Microsoft’s ChatGPT challenge.
+
+Reuters was the first to point out the error in Google’s advertisement, which debuted Monday, about which satellite first took pictures of a planet outside the Earth’s solar system. Shares of the company’s parent Alphabet fell 8 percent or $8.59 a share to $99.05 and was one of the most actively traded on US exchanges.
+
+The tech giant posted a short GIF video of Bard in action via Twitter, describing the chatbot as a “launchpad for curiosity” that would help simplify complex topics, but it delivered an inaccurate answer that was spotted just hours before the launch event for Bard in Paris.
+
+“This is a hiccup here and they’re severely punishing the stock for it, which is justified because obviously everybody is pretty excited to see what Google’s going to counter with Microsoft coming out with a pretty decent product,” said Dennis Dick, founder and market structure analyst at Triple D Trading.
+
+Google’s event came one day after Microsoft unveiled plans to integrate its rival AI chatbot ChatGPT into its Bing search engine and other products in a major challenge to Google, which for years has outpaced Microsoft in search and browser technology.
+
+In the advertisement, Bard is given the prompt, “What new discoveries from the James Webb Space Telescope (JWST) can I tell my nine-year-old about?”
+
+Bard responds with a number of answers, including one suggesting the JWST was used to take the very first pictures of a planet outside the Earth’s solar system, or exoplanets. This is inaccurate, as the first pictures of exoplanets were taken by the European Southern Observatory’s Very Large Telescope (VLT) in 2004, as confirmed by NASA.
+
+A Google spokesperson told Reuters, “This highlights the importance of a rigorous testing process, something that we’re kicking off this week with our Trusted Tester programme.”
+
+“We’ll combine external feedback with our own internal testing to make sure Bard’s responses meet a high bar for quality, safety and groundedness in real-world information.”
+
+The error was spotted hours before the Paris launch, where senior executive Prabhakar Raghavan promised that users would use the technology to interact with information in “entirely new ways”.
+
+Raghavan presented Bard on Wednesday as the future of the company, telling audience members that by using generative AI, “the only limit to search will be your imagination.”
+
+“Google has been scrambling over the last few weeks to catch up on search and that caused the announcement yesterday to be rushed and the embarrassing mess up of posting a wrong answer during their demo,” said Gil Luria, senior software analyst at DA Davidson, an investment bank.
+
+At the time of writing, the advertisement had been viewed on Twitter more than a million times.. . . The event also showed AI improvements to a number of other Google products, including Maps and Google Lens, which lets people search for images from their phone's camera.
+
+Bard is powered by the company's large language model LaMDA, or Language Model for Dialogue Applications. Google will open up the conversation technology to "trusted testers" ahead of making it more widely available to the public, the company said in a blog post Monday.
+
+During the event Wednesday, which was livestreamed from Paris, Google executives discussed some of Bard's capabilities. The presentation showed how Bard can be used to display the pros and cons of buying an electric car, for example, or to plan a trip in Northern California.
+
+Google officially announced Bard on Monday, confirming CNBC's prior reporting , and the company said it will begin rolling out the technology in the coming weeks.
+
+Shares of Google's parent Alphabet closed down more than 7% on Wednesday after the company held an event that promoted its new artificial intelligence chatbot called Bard, one day after competitor Microsoft held its own event to show off new AI technologies in its competing search engine, Bing.
+
+Shares of Alphabet slid during the event, suggesting that investors were hoping for more in light of growing competition from Microsoft.
+
+Google's event took place just one day after Microsoft hosted its own AI event at its headquarters in Redmond, Washington. Microsoft's event centered around new AI-powered updates to the company's Bing search engine and Edge browser. Bing, which is a distant second to Google in search, will now allow users get more conversational responses to questions.
+
+The Microsoft product updates were built on technology from ChatGPT-maker OpenAI, in which Microsoft has invested billions.
+
+ChatGPT is AI software that generates text based on complex written prompts. The web-based tool went viral after its debut in November, prompting analysts and Google employees to ask whether the company was falling behind in AI, an area which has been a core focus for Google for several years. In response to ChatGPT's popularity, Google declared an internal "code red" to accelerate development of Bard and other AI products, and the company's co-founders, Larry Page and Sergey Brin, reportedly got involved again, years after stepping down from day-to-day work at the company.
+
+Though Microsoft's latest AI investments increase the pressure on Google search, some analysts say it will take time for Microsoft to see any significant gains.
+
+"Search improvements will act as a tailwind to [advertising revenue long term], but it will take time to bring users back to Bing and they will need a crowbar to pry away advertisers from Google," Jefferies' analyst Brent Thill wrote in a Tuesday note. "We view these updates as the tip of the iceberg for MSFT's AI capabilities, with the largest opportunity in enterprise use cases."
+
+Analysts at Evercore said there was "little incremental news" from Google's event, which may have contributed to the falling stock price. The analysts said they believe this was an early and a "perhaps rushed" look at the AI Google has been working on for years.
+
+Even so, the analysts said they believe Google's AI technology is "at least as good" as its competition.
+
+"Leveraging its years of AI investment (which drove a near doubling of CapEx in 2018) and unparalleled scale, this should help the company defend its market position in the long run," they wrote in a Wednesday note.
+
+The stock may have also been partially dinged by an advertisement for Google Bard that showed incorrect information. Google's ad showed an incorrect description of the telescope used to take the first pictures of a planet outside our solar system, for example. And it showed that Bard may be behind competitors like ChatGPT and Microsoft Bing.
+
+"This highlights the importance of a rigorous testing process, something that we're kicking off this week with our Trusted Tester program," a Google spokesperson said of the ad. "We'll combine external feedback with our own internal testing to make sure Bard's responses meet a high bar for quality, safety and groundedness in real-world information."
+
+— CNBC's Jennifer Elias and Michael Bloom contributed to this report.. CNN —
+
+Google’s much-hyped new AI chatbot tool Bard, which has yet to be released to the public, is already being called out for an inaccurate response it produced in a demo this week.
+
+In the demo, which was posted by Google on Twitter, a user asks Bard: “What new discoveries from the James Webb Space Telescope can I tell my 9 year old about?” Bard responds with a series of bullet points, including one that reads: “JWST took the very first pictures of a planet outside of our own solar system.”
+
+According to NASA, however, the first image showing an exoplanet — or any planet beyond our solar system — was actually taken by the European Southern Observatory’s Very Large Telescope nearly two decades ago, in 2004.
+
+Shares in Google’s parent company Alphabet fell 7.7% Wednesday, wiping $100 billion off its market value, after the inaccurate response from Bard was first reported by Reuters.
+
+Bard’s blunder highlights the challenge for Google as it races to integrate the same AI technology that underpins Microsoft-backed ChatGPT into its core search engine. In trying to keep pace with what some think could be a radical change spurred by conversational AI in how people search online, Google now risks upending its search engine’s reputation for surfacing reliable information.
+
+Like ChatGPT, Bard is built on a large language model, which is trained on vast troves of data online in order to generate compelling responses to user prompts. Experts have long warned that these tools have the potential to spread inaccurate information.
+
+In an apparent attempt to address that concern, Google previously said Bard would first be opened up to “trusted testers” this week, with plans to make it available to the public in the coming weeks.
+
+“This highlights the importance of a rigorous testing process, something that we’re kicking off this week with our Trusted Tester program,” a Google spokesperson told CNN in a statement Wednesday about the factual error. “We’ll combine external feedback with our own internal testing to make sure Bard’s responses meet a high bar for quality, safety and groundedness in real-world information.”
+
+Shares for Google-parent Alphabet fell as much as 8% in midday trading Wednesday after the inaccurate response from Bard was first reported by Reuters.
+
+Google unveiled Bard earlier this week as part of an apparent bid to compete with the viral success of ChatGPT, which has been used to generate essays, song lyrics and responses to questions that one might previously have searched for on Google. ChatGPT’s meteoric rise in popularity has reportedly prompted Google’s management to declare a “code red” situation for its search product.
+
+On Wednesday, Google held an event in its Paris office where the tech giant detailed plans to use AI technology to radically change how people search for information online. Google’s event came one day after rival Microsoft announced a revamped version of Bing powered by a more advanced version of the AI used by ChatGPT. (Microsoft is investing billions in OpenAI, the company behind ChatGPT.)
+
+In the presentation Wednesday, a Google executive teased plans to use this technology to offer more complex and conversational responses to queries, including providing bullet points ticking off the best times of year to see various constellations and also offering pros and cons for buying an electric vehicle.
+
+The executive said AI technology would pave the way for the “next frontier of our information products.”
+
+— Anna Cooban in London contributed reporting.. . A selloff of Alphabet Inc shares knocked $100 billion in market value from Google's parent company on Wednesday after its new artificial intelligence chatbot "Bard" shared inaccurate information in a promotional video, fueling worries the world's third largest tech company by market value is losing ground to rival Microsoft Corp.
+
+Halfway through the session, Alphabet is down, while Microsoft was flat.
+
+POTENTIAL GOOGLE KILLER COULD CHANGE US WORKFORCE AS WE KNOW IT
+
+Alphabet Inc Class C
+
+Ticker Security Last Change Change % GOOGL ALPHABET INC. 150.53 -4.39 -2.83%
+
+Microsoft Corp
+
+Ticker Security Last Change Change % MSFT MICROSOFT CORP. 417.88 -2.57 -0.61%
+
+MICROSOFT'S AI PLAY A 'SHOT ACROSS THE BOW' TO GOOGLE: PETE PACHAL
+
+Alphabet shares slid nearly 9% at one point, while Microsoft shares jumped around 3% before paring gains. Reuters was first to point out an error in Google's advertisement for chatbot Bard, which debuted Monday, about which satellite first took pictures of a planet outside the Earth’s solar system.
+
+A Google spokesperson responded saying "This highlights the importance of a rigorous testing process, something that we’re kicking off this week with our Trusted Tester program."
+
+"We’ll combine external feedback with our own internal testing to make sure Bard’s responses meet a high bar for quality, safety and groundedness in real-world information," the spokesperson added.
+
+SILICON VALLEY DETHRONED AS HOTTEST TECH JOB MARKET
+
+Google has been on its heels after OpenAI, a startup Microsoft is backing with around $10 billion, introduced software in November that has wowed consumers and become a fixation in Silicon Valley circles for its surprisingly accurate and well-written answers to simple prompts.
+
+Alphabet is coming off a disappointing fourth quarter as advertisers pulled back on spending from the highs of the pandemic when more consumers shopped online as a result of lockdowns and travel restrictions.
+
+The search and advertising giant is moving fast to keep pace with OpenAI and rivals, reportedly bringing in founders Sergey Brin and Larry Page to accelerate its efforts. Investors apparently remained unconvinced.
+
+GOOGLE OPENS TESTING OF CHATGPT RIVAL
+
+Following last year’s disaster in Big Tech, shares for Google and Microsoft are up roughly 12% each in 2023, after rising approximately 8% and 14% the last month, respectively.
+
+Reuters contributed to this report.. On Monday, Google announced its AI chatbot Bard — a rival to OpenAI’s ChatGPT that’s due to become “more widely available to the public in the coming weeks.” But the bot isn’t off to a great start, with experts noting that Bard made a factual error in its very first demo.
+
+A GIF shared by Google shows Bard answering the question: “What new discoveries from the James Webb Space Telescope can I tell my 9 year old about?” Bard offers three bullet points in return, including one that states that the telescope “took the very first pictures of a planet outside of our own solar system.”
+
+However, a number of astronomers on Twitter pointed out that this is incorrect and that the first image of an exoplanet was taken in 2004 — as stated here on NASA’s website.
+
+“Not to be a ~well, actually~ jerk, and I’m sure Bard will be impressive, but for the record: JWST did not take ‘the very first image of a planet outside our solar system,’” tweeted astrophysicist Grant Tremblay.
+
+Bruce Macintosh, director of University of California Observatories at UC Santa Cruz, also pointed out the mistake. “Speaking as someone who imaged an exoplanet 14 years before JWST was launched, it feels like you should find a better example?” he tweeted.
+
+(The mistake and the experts’ objections were first spotted by Reuters and New Scientist.)
+
+Bard’s very first answer contained a factual flub. Image: Google
+
+In a follow-up tweet, Tremblay added: “I do love and appreciate that one of the most powerful companies on the planet is using a JWST search to advertise their LLM. Awesome! But ChatGPT etc., while spooky impressive, are often *very confidently* wrong. Will be interesting to see a future where LLMs self error check.”
+
+As Tremblay notes, a major problem for AI chatbots like ChatGPT and Bard is their tendency to confidently state incorrect information as fact. The systems frequently “hallucinate” — that is, make up information — because they are essentially autocomplete systems.
+
+Rather than querying a database of proven facts to answer questions, they are trained on huge corpora of text and analyze patterns to determine which word follows the next in any given sentence. In other words, they are probabilistic, not deterministic — a trait that has led one prominent AI professor to label them “bullshit generators.”
+
+Of course, the internet is already full of false and misleading information, but the issue is compounded by Microsoft and Google’s desire to use these tools as search engines. There, the chatbots’ answers take on the authority of a would-be all-knowing machine.
+
+Microsoft, which demoed its new AI-powered Bing search engine yesterday, has tried to preempt these issues by placing liability on the user. “Bing is powered by AI, so surprises and mistakes are possible,” says the company’s disclaimer. “Make sure to check the facts, and share feedback so we can learn and improve!”
+
+A spokesperson for Google, Jane Park, gave The Verge this statement: “This highlights the importance of a rigorous testing process, something that we’re kicking off this week with our Trusted Tester program. We’ll combine external feedback with our own internal testing to make sure Bard’s responses meet a high bar for quality, safety and groundedness in real-world information.”
+
+Related:. Google’s response to ChatGPT has got off to an embarrassing start after its new artificial intelligence-powered chatbot gave a wrong answer in a promotional video, as investors wiped more than $100bn (£82bn) off the value of the search engine’s parent company, Alphabet.
+
+The sell-off on Wednesday came amid investor fears that Microsoft, which is deploying an ChatGPT-powered version of its Bing search engine, will damage Google’s business. Alphabet stock slid by 9% during regular trading in the US but was flat after hours.
+
+Experts pointed out that promotional material for Bard, Google’s competitor to Microsoft-backed ChatGPT, contained an error in the response by the chatbot to: “What new discoveries from the James Webb space telescope (JWST) can I tell my nine-year old about?”
+
+Bard’s response – in a video demo posted online – includes an answer suggesting the JWST was used to take the very first pictures of a planet outside the Earth’s solar system, or exoplanets.
+
+The error was picked up by experts including Grant Tremblay, an astrophysicist at the US Center for Astrophysics, who tweeted: “Not to be a ~well, actually~ jerk, and I’m sure Bard will be impressive, but for the record: JWST did not take ‘the very first image of a planet outside our solar system’”.
+
+Not to be a ~well, actually~ jerk, and I'm sure Bard will be impressive, but for the record: JWST did not take "the very first image of a planet outside our solar system".
+
+
+
+the first image was instead done by Chauvin et al. (2004) with the VLT/NACO using adaptive optics. https://t.co/bSBb5TOeUW pic.twitter.com/KnrZ1SSz7h — Grant Tremblay (@astrogrant) February 7, 2023
+
+Bruce Macintosh, the director of University of California Observatories, tweeted: “Speaking as someone who imaged an exoplanet 14 years before JWST was launched, it feels like you should find a better example?”
+
+Speaking as someone who imaged an exoplanet 14 years before JWST was launched, it feels like you should find a better example? — Bruce Macintosh (@bmac_astro) February 8, 2023
+
+Google said the error, first reported by Reuters, underlined the need for testing new systems. Bard has been released to a team of specialist testers and has yet to be rolled out to the public.
+
+“This highlights the importance of a rigorous testing process, something that we’re kicking off this week with our trusted tester program,” a Google spokesperson said. “We’ll combine external feedback with our own internal testing to make sure Bard’s responses meet a high bar for quality, safety and groundedness in real-world information.”
+
+Bard is based on a so-called large language AI model, a type of neural network, which mimics the underlying architecture of the brain in computer form. It is fed vast amounts of text from the internet in a process that teaches it how to generate responses to text-based prompts. However, this can also lead to the chatbot repeating errors from the information that it absorbs.
+
+Bard is an experimental conversational AI service, powered by LaMDA. Built using our large language models and drawing on information from the web, it’s a launchpad for curiosity and can help simplify complex topics → https://t.co/fSp531xKy3 pic.twitter.com/JecHXVmt8l — Google (@Google) February 6, 2023
+
+Google also gave a live-streamed presentation in Paris on Wednesday that did not include details of how and when it would integrate Bard into its core search function. A day earlier, Microsoft held an event in which it announced that it was launching a public version of its Bing search with ChatGPT functions integrated.
+
+Gil Luria, a senior software analyst at DA Davidson, said: “While Google has been a leader in AI innovation over the last several years, they seemed to have fallen asleep on implementing this technology into their search product.
+
+“Google has been scrambling over the last few weeks to catch up on search and that caused the announcement to be rushed and the embarrassing mess-up of posting a wrong answer during their demo.”
+
+Alphabet, whose main business is Google, is coming off a disappointing fourth quarter as advertisers cut spending. Microsoft is a key backer of the company behind ChatGPT, the San Francisco-based OpenAI, and its move to integrate ChatGPT technology into its products including search has forced Google, also a big investor in AI, to take action.
+
+“People are starting to question: is Microsoft going to be a formidable competitor now against Google’s really bread-and-butter business?” said King Lip, the chief strategist at BakerAvenue Wealth Management, which owns Alphabet and Microsoft shares.
+
+Lip cautioned that concerns about Alphabet may be overblown, saying: “I think still Bing is a far, far cry away from Google’s search capabilities.”. . Shortly before Google introduced Bard, its AI chatbot, to the public in March, it asked employees to test the tool.
+
+One worker’s conclusion: Bard was “a pathological liar,” according to screenshots of the internal discussion. Another called it “cringe-worthy.” One employee wrote that when they asked Bard suggestions for how to land a plane, it regularly gave advice that would lead to a crash; another said it gave answers on scuba diving “which would likely result in serious injury or death.”

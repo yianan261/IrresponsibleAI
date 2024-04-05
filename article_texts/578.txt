@@ -1,0 +1,29 @@
+Surprise, surprise: people are already using Meta's large language model (LLM), LLaMA — a powerful AI that Meta controversially made open-source earlier this year — to create their own graphic, AI-powered sexbots, The Washington Post reports.
+
+It's not terribly surprising news, given users have already been using a variety of AI models for such not-safe-for-work (NSFW) purposes.
+
+Even so, the report highlights the growing tensions between those who support keeping the code behind LLMs like LLaMA open-source and those who advocate for a more careful, closed-source approach.
+
+The report also examines the growing trend of users turning to generative AI systems to play out their sexual fantasies, which worryingly also include violent and illegal ones.
+
+In the report, WaPo presented the example of "Allie," a chatbot that claims to be an "18-year-old with long brain hair" who has had "tons of sexual experience." Allie tells users that because she "lives for attention," she'll "share details of her escapades."
+
+Those "escapades," however, can reportedly include violent scenes of rape and abuse fantasies. Allie's creator, who spoke under anonymity, told WaPo that he sees his bot as a healthy, safe space to "explore" one's sexuality without having to circumvent or manipulate guardrails.
+
+"I think it's good to have a safe outlet to explore," the creator told WaPo. "Can't really think of anything safer than a text-based role-play against a computer, with no humans actually involved."
+
+Still, while having a safe and nonjudgemental space to explore your sexuality isn't inherently bad, having an unchecked space to engage in more violent fantasies with lifelike chatbots isn't exactly great, either. And in some deeply concerning cases, it's already causing very real problems. As WaPo also recently reported, experts believe that predators are using open-source image generators like Stability AI's powerful Stable Diffusion model to generate realistic and AI-generated child sexual abuse material.
+
+Meta's AI isn't the only AI system that's found itself in ethically murky waters. CharacterAI, a billion-dollar chatbot companion startup, has become a sexting hotbed, while OpenAI's ChatGPT and various OpenAI API integrations like Quora's Poe, will readily churn out smut with the right prompt, guardrails be damned.
+
+Learning how to beat various chatbots' NSFW guardrails has also become somewhat of a communal sport. On Reddit, user communities gather to share tips and tricks for how to circumvent the rules to generate incredibly dirty smut.
+
+According to the WaPo, some developers have taken to YouTube to share how you can Build Your Own Chatbot using LLaMA as the underlying model.
+
+But does this all mean that we should hide the code of various AI models behind closed doors to ensure that users are unable to generate smut or even child pornography? Experts are divided on the debate.
+
+On the one hand, corporate guardrails like those deployed by OpenAI and Google have proven imperfect anyway, and proponents of open-sourcing, Meta included, have argued that open-sourcing will lead to greater innovation and therefore should be prioritized.
+
+"Open source is a positive force to advance technology," the Meta spokesperson told WaPo. "That's why we shared LLaMA with members of the research community to help us evaluate, make improvements and iterate together." Proponents of closed-sourced systems, however, argue that while gatekeeping might be imperfect, it's also the safest way to develop AI technology — at least for now. "We don't open-source nuclear weapons," Gary Marcus, a cognitive scientist, told WaPo. "Current AI is still pretty limited, but things might change." Sure, the AI field is generally unregulated, and we have to rely on those working behind closed doors to do right by everyone else on the planet. That's a big bet, but at least our most powerful AIs aren't being manipulated by any old edgelord on 4Chan, right? Regardless of the outcome, Meta has made its choice — and some are clearly thrilled by the decision. "It's rare," Allie's creator told WaPo, "to have the opportunity to experiment with 'state of the art' in any field."
+
+More on AI sexbots: People Are Tricking a ChatGPT Competitor Into Talking Dirty

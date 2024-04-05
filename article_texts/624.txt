@@ -1,0 +1,363 @@
+A Stanford Internet Observatory (SIO) investigation identified hundreds of known images of child sexual abuse material (CSAM) in an open dataset used to train popular AI text-to-image generation models, such as Stable Diffusion.
+
+A previous SIO report with the nonprofit online child safety group Thorn found rapid advances in generative machine learning make it possible to create realistic imagery that facilitates child sexual exploitation using open source AI image generation models. Our new investigation reveals that these models are trained directly on CSAM present in a public dataset of billions of images, known as LAION-5B. The dataset included known CSAM scraped from a wide array of sources, including mainstream social media websites and popular adult video sites.
+
+Removal of the identified source material is currently in progress as researchers reported the image URLs to the National Center for Missing and Exploited Children (NCMEC) in the U.S. and the Canadian Centre for Child Protection (C3P). The study was primarily conducted using hashing tools such as PhotoDNA, which match a fingerprint of an image to databases maintained by nonprofits that receive and process reports of online child sexual exploitation and abuse. Researchers did not view abuse content, and matches were reported to NCMEC and confirmed by C3P where possible.
+
+There are methods to minimize CSAM in datasets used to train AI models, but it is challenging to clean or stop the distribution of open datasets with no central authority that hosts the actual data. The report outlines safety recommendations for collecting datasets, training models and hosting models trained on scraped datasets. Images collected in future datasets should be checked against known lists of CSAM by using detection tools such as Microsoft’s PhotoDNA or partnering with child safety organizations such as NCMEC and C3P.. A popular training dataset for AI image generation contained links to child abuse imagery, Stanford’s Internet Observatory found, potentially allowing AI models to create harmful content.
+
+LAION-5B, a dataset used by Stable Diffusion creator Stability AI, included at least 1,679 illegal images scraped from social media posts and popular adult websites.
+
+The researchers began combing through the LAION dataset in September 2023 to investigate how much, if any, child sexual abuse material (CSAM) was present. They looked through hashes or the image’s identifiers. These were sent to CSAM detection platforms like PhotoDNA and verified by the Canadian Centre for Child Protection.
+
+The dataset does not keep repositories of the images, according to the LAION website. It indexes the internet and contains links to images and alt text that it scrapes. Google’s initial version of the Imagen text-to-image AI tool, released only for research, trained on a different variant of LAION’s datasets called LAION-400M, an older version of 5B. The company said subsequent iterations did not use LAION datasets. The Stanford report noted Imagen’s developers found 400M included “a wide range of inappropriate content including pornographic imagery, racist slurs, and harmful social stereotypes.”
+
+LAION, the nonprofit that manages the dataset, told Bloomberg it has a “zero-tolerance” policy for harmful content and would temporarily remove the datasets online. Stability AI told the publication that it has guidelines against the misuse of its platforms. The company said that while it trained its models with LAION-5B, it focused on a portion of the dataset and fine-tuned it for safety.
+
+Stanford’s researchers said the presence of CSAM does not necessarily influence the output of models trained on the dataset. Still, there’s always the possibility the model learned something from the images.
+
+“The presence of repeated identical instances of CSAM is also problematic, particularly due to its reinforcement of images of specific victims,” the report said.
+
+The researchers acknowledged it would be difficult to fully remove the problematic content, especially from the AI models trained on it. They recommended that models trained on LAION-5B, such as Stable Diffusion 1.5, “should be deprecated and distribution ceased where feasible.” Google released a new version of Imagen but has not made public which dataset it trained on aside from not using LAION.
+
+US attorneys general have called on Congress to set up a committee to investigate the impact of AI on child exploitation and prohibit the creation of AI-generated CSAM.. by: LAION.ai , 19 Dec, 2023
+
+There have been reports in the press about the results of a research project at Stanford University, according to which the LAION training set 5B contains potentially illegal content in the form of CSAM. We would like to comment on this as follows:
+
+LAION is a non-profit organization that provides datasets, tools and models for the advancement of machine learning research. We are committed to open public education and the environmentally safe use of resources through the reuse of existing datasets and models.
+
+LAION datasets (more than 5.85 billion entries) are sourced from the freely available Common Crawl web index and offer only links to content on the public web, with no images. We developed and published our own rigorous filters to detect and remove illegal content from LAION datasets before releasing them.
+
+LAION collaborates with universities, researchers and NGOs to improve these filters and are currently working with the Internet Watch Foundation (IWF) to identify and remove content suspected of violating laws. LAION invites the Stanford researchers to join its Community to improve our datasets and to develop efficient filters for detecting harmful content.
+
+LAION has a zero tolerance policy for illegal content and in an abundance of caution, we are temporarily taking down the LAION datasets to ensure they are safe before republishing them.
+
+Following a discussion with the Hamburg State Data Protection Commissioner, we would also like to point out that the CSAM data is data that must be deleted immediately for data protection reasons in accordance with Art. 17 GDPR.. A widely-used artificial intelligence data set used to train Stable Diffusion, Imagen and other AI image generator models has been removed by its creator after a study found it contained thousands of instances of suspected child sexual abuse material.
+
+LAION — also known as Large-scale Artificial Intelligence Open Network, is a German nonprofit organization that makes open-sourced artificial intelligence models and data sets used to train several popular text-to-image models.
+
+Screenshot of the dataset Source: LAION
+
+A Dec. 20 report from researchers at the Stanford Internet Observatory’s Cyber Policy Center said they identified 3,226 instances of suspected CSAM — or child sexual abuse material — in the LAION-5B data set, "much of which was confirmed as CSAM by third parties,” according to Stanford Cyber Policy Center's Big Data Architect and Chief Technologist David Thiel.
+
+Thiel noted that while the presence of CSAM doesn’t necessarily mean it will “drastically” influence the output of models trained on the data set, it could still have some effect.
+
+“While the amount of CSAM present does not necessarily indicate that the presence of CSAM drastically influences the output of the model above and beyond the model’s ability to combine the concepts of sexual activity and children, it likely does still exert influence," said Thiel.
+
+“The presence of repeated identical instances of CSAM is also problematic, particularly due to its reinforcement of images of specific victims,” he added.
+
+The LAION-5B dataset was released in March 2022 and includes 5.85 billion image-text pairs, according to LAION.
+
+LAION has a zero tolerance policy for illegal content. We work with organizations like IWF and others to validate links in the LAION datasets with filtering tools developed by our community and partner organizations to ensure they are safe. https://t.co/SStsqukbFK — LAION (@laion_ai) December 20, 2023
+
+In a statement, LAION said it has removed the data sets out of “an abundance of caution,” including both LAION-5B and its LAION-400M, “to ensure they are safe before republishing them.”. Eryk Salvaggio /
+
+Jan 2, 2024
+
+Anne Fehres and Luke Conroy & AI4Media / Better Images of AI / Humans Do The Heavy Data Lifting / CC-BY 4.0
+
+In The Ones Who Walk Away From Omelas, the fiction writer Ursula K. Le Guin describes a fantastic city wherein technological advancement has ensured a life of abundance for all who live there. Hidden beneath the city, where nobody needs to confront her or acknowledge her existence, is a human child living in pain and filth, a cruel necessity of Omelas’ strange infrastructure.
+
+In the past, Omelas served as a warning about technology. Today, it has become an apt description for generative AI systems. Stanford Internet Observatory’s David Thiel — building on crucial prior work by researchers including Dr. Abeba Birhane — recently confirmed more than 1,000 URLS containing verified Child Sexual Abuse Material (CSAM) is buried within LAION-5B, the training dataset for Stable Diffusion 1.5, an AI image tool that transformed photography and illustration in 2023. Stable Diffusion is an open source model, and it is a foundational component for thousands of the image generating tools found across apps and websites.
+
+Datasets are the building blocks of every AI generated image and text. Diffusion models break images in these datasets down into noise, learning how the images “diffuse.” From that information, the models can reassemble them. The models then abstract those formulas into categories using related captions, and that memory is applied to random noise, so as not to duplicate the actual content of training data, though it sometimes happens. An AI-generated image of a child is assembled from thousands of abstractions of these genuine photographs of children. In the case of Stable Diffusion and Midjourney, these images come from the LAION-5B dataset, a collection of captions and links to 2.3 billion images. If there are hundreds of images of a single child in that archive of URLs, that child could influence the outcomes of these models.
+
+The presence of child pornography in this training data is obviously disturbing. An additional point of serious concern is the likelihood that images of children who experienced traumatic abuse are influencing the appearance of children in the resulting model’s synthetic images, even when those generated images are not remotely sexual.
+
+The presence of this material in AI training data points to an ongoing negligence of the AI data pipeline. This crisis is partly the result of who policymakers talk with and allow to define AI: too often, it is industry experts who have a vested interest in deterring attention from the role of training data, and the facts of what lies within it. As with Omelas, we each face a decision of what to do now that we know these facts.
+
+LAION-5B as Infrastructure
+
+LAION’s data is gathered from the Web without supervision: there is no “human in the loop.” Some companies rely on underpaid labor to “clean” this dataset for use in image generation. Previous reporting has highlighted that these workers are frequently exposed to traumatic content, including images of violence and sexual abuse. This has been known for years. In 2022, the National Center for Missing and Exploited Children identified more than 32 million images of CSAM online. The Stanford report notes that LAION’s dataset was collected from the web without any consultation with child safety experts, and was never checked against known lists of abusive content. Instead, LAION was filtered using CLIP, an automated content detection system whose designers, Dr. Birhane points out, warned against its own fitness for filtration purposes when they released it.
+
+In my own analysis of LAION’s content — prior to the dataset’s removal — I was troubled by its inclusion of images of historical atrocities, which are abstracted into unrelated categories. Nazi soldiers are in the training data for “hero,” for example. I refer to these assemblages as “trauma collages,” noting that a single generated image could incorporate patterns learned from images of the Nazi Wehrmacht on vacation, portraits of people killed in the Holocaust, and prisoners tortured at Abu Ghraib, alongside images of scenes from the Archie Comics reboot “Riverdale'' and pop culture iconography.
+
+We have little understanding of how these images trickle into the display of these “beautiful” illustrations and images, but there seems to be a failure of cultural reckoning with the fact that these are rotten ingredients.
+
+The knowledge that workers were exposed to traumatic content has, to date, failed to mobilize the industry (or policymakers) to action — to grapple with the kinds of data being collected, and the method of collecting it. The warnings of independent researchers such as Dr. Birhane, who documented the misogynistic and racist content in LAION, failed to spur action. The concerns of artists over copyrighted material held in LAION-5B has yielded a similarly timid response from lawmakers. Had policymakers and journalists taken the concerns of artists and independent researchers seriously, the presence of even more deeply unsettling material would not have come as a surprise.
+
+The news media is also to blame. The way we have framed artificial intelligence since the generative AI boom has been deeply flawed. Rather than understanding AI as an automated form of data analytics, stripped of human supervision, we have seen countless reports on their capacities and outcomes. Pivoting our understanding of data collection and algorithms to the frame of “Generative AI” has unnecessarily severed the understanding of this technology, erasing a decade or more of scholarship into algorithmic systems and Big Data.
+
+This pivot has created a harmful frame shift as policymakers scramble to understand this supposedly “unprecedented” technology. The reason for this error is clear: it has direct benefits to industry leaders. This year, Sam Altman, the CEO of OpenAI, was referenced twice as often as the 42 women in Time magazine’s “Top 100 list of AI influencers” combined. That list includes Dr. Birhane, whose crucial research work exploring LAION-5B has received comparatively little media and policy attention. Meanwhile, the majority of those invited to Senate Majority Leader Chuck Schumer’s (D-NY) AI “Insight Forums” represented industry, including figures such as Altman and Elon Musk.
+
+Industry experts certainly have knowledge to offer. But they also have an interest in steering conversations away from data rights and transparency. The venture investment firm a16z recently announced that “Imposing the cost of actual or potential copyright liability on the creators of AI models will either kill or significantly hamper their development.” In other words: data isn’t worthless, but they want us to treat it that way.
+
+Yet, artists' calls for control over the use of their data in these datasets have largely been ignored. The resistance to opening up training data to scrutiny is hard to isolate from the presence of CSAM within it. In the two weeks since the Stanford report was published, a number of websites which had offered exploratory versions of LAION for artists and independent researchers have taken these tools down.
+
+This makes sense: nobody wants tools that enable child abuse or provide access to these images. But it is a deep irony that the very tools that made it possible for researchers to examine and identify the training data are now offline. That means it is literally impossible for artists and copyright holders to see if their work is being used to train these systems, or for researchers to understand what harmful materials are contained within them. (Another example: a report that showed the dataset contained not only photographs of children alongside easily identifiable location data).
+
+In the race to sweep up as much data as possible, companies have operated in an environment that benefits from obfuscation. Last year was marked by illusions and delusions of artificial general intelligence, the promise of a sophistication that emerges from some abstract concept of “intelligence” in a dense network of on/off signals we call neural nets. There is a lack of seriousness in these conversations, a failure to connect the dots between these systems and their sources. That lack of seriousness is encouraged by the heads of the companies developing these technologies, who directly benefit from confusion about (and even fear of) what these systems are and how they work.
+
+With industry’s goals at the center of policy framing, it’s no wonder that so much media attention has been paid to long-term theoretical risks and techno-solutionist “superalignment.” This is at the expense of a deep focus into real-world training data and processes that shape immediate and direct harms, such as child abuse, racist surveillance and crime “prediction,” and the capture of personal data without consent.
+
+How Should We Frame AI?
+
+What might greater scrutiny over datasets look like? Thiel’s team at Stanford recommends against training datasets on images of children altogether — especially general purpose models that blend multiple categories of images. This is both a data rights issue and a child safety issue. Addressed as a data rights issue, children’s likenesses ought to be protected from data scraping, as there is no way to anticipate uses of their image. As a child safety issue, the risk of reproducing a real child’s face in an AI generated image carries real risks, especially as we see a boom in VC-backed deepfake pornography mills.
+
+It is not enough to simply trust companies which train on these datasets to regulate themselves. It was not Stability AI, OpenAI or Midjourney that reported these findings, but independent researchers. Without searchable, open models, we might never have known. Furthermore, it is far preferable for independent researchers to be able to audit training sets than for companies to withdraw from responsible accounting by withholding access to their models.
+
+Yet, there is a contradiction at the heart of this proposal. Open datasets such as LAION-5B are used by researchers because they are used to train AI models. If datasets are open, many fear, then all kinds of variations can be built, including models specifically designed for deepfakes, harassment, or child abuse.
+
+The tragically overlooked 2021 paper from Dr. Birhane and her coauthors assessed this issue: “Large-scale AI models can be viewed, in the simplest case, as compressed representations of the large-scale datasets they are trained on. Under this light, it is important to ask what should be compressed within the weights of a neural network and by proxy, what is in a training dataset. Often, large neural networks trained on large datasets amortize the computational cost of development via mass deployment to millions (or even billions) of users around the world. Given the wide-scale and pervasive use of such models, it is even more important to question what information is being compressed within them and disseminated to their users.”
+
+The paper poses the challenge to policymakers: Should images of trauma, circulated online in content deemed illegal, be permitted for research or commercialized? If we all agree it should not, then why do we allow vast copies of the internet to be incorporated into AI systems without interventions or oversight? Where should accountability be placed?
+
+The AI Foundation Model Transparency Act, proposed by Reps. Anna Eshoo (D-CA) and Don Beyer (D-VA) just a day or so after the release of the Stanford report, seems like the beginning of a decent compromise. The bill would direct the “Federal Trade Commission to establish standards for making publicly available information about the training data and algorithms used in artificial intelligence foundation models, and for other purposes,” and requests that the FTC establish mechanisms for data transparency and reporting. This would not only give consumers and users of generative AI insight into the content of training data, but would confront generative AI companies with the demand that they understand their own training data. While this bill is focused on copyright management, it is heartening to see legal and policy precedents that place accountability where it belongs.
+
+Accountability is not as challenging as AI companies would like us to believe. Flying a commercial airliner full of untested experimental fuel is negligence. Rules asking airlines to tell us what’s in the fuel tank do not hamper innovation. Deploying models in the public sphere without oversight is negligence, too. Artificial Intelligence systems may be a black box, but the human decisions that go into building and deploying them are crystal clear. Deploying and automating an unaccountable machine is a management and design decision. These managers and engineers should be held accountable for the consequences of building and deploying systems they can’t control.
+
+Likewise, perhaps it is time to abandon the idea that data is nothing but ephemeral debris. Data is firmly at the heart of today’s AI, and the industry would like consumers and policymakers to ignore the thorny questions that surround it. Venture capital and big tech firms benefit when the rest of us undervalue our data. But our data, collectively, is immensely valuable. It holds value under the usual rubric of economics, but also in our social spheres. Data is the mark of our lives lived online. It can be evidence of creative expression, or trauma. If we have any hope to build ethical AI systems, we must think carefully about the ways we curate and harness these datasets. Responsible AI demands more than the vast extraction of our information. It calls for thoughtful approaches and decision making about the archives that shape their outcomes. It demands that we ask who this data serves and who it harms.
+
+That will require a much greater engagement of interdisciplinary experts — which includes communities that grapple with the consequences of automated data analysis. An industry that prides itself on creative innovation should be able to grapple with restrictions on toxic, illegal and violating content. It should aim to build datasets that center consent, respect, and even joy. But without accountability and engagement beyond the tech world, we will never be able to see AI through any other lens but that which industry prefers.
+
+I would never conflate the burden these systems place on copyright holders with the trauma of abused children, and each issue related to data should be handled according to the particular response it demands. But in so many cases, the media and policy community has neglected broader engagement in its scrutiny of the data pipeline. This distorts the conceptual frameworks we use to understand and regulate AI. Artificial Intelligence systems start with data, and policy should too.
+
+Data is a vital piece of our digital infrastructure. Like all infrastructure, it is deeply entangled with our social worlds. Too often, our technological infrastructure is accumulated, rather than designed. But it is worth making time for care and thoughtful dependencies in our digital lives. Otherwise, we risk building a future in which the pain of others is embedded through neglect. We risk building AI as Omelas was built.. Updated A massive public dataset that served as training data for a number of AI image generators has been found to contain thousands of instances of child sexual abuse material (CSAM).
+
+In a study published today, the Stanford Internet Observatory (SIO) said it pored over more than 32 million data points in the LAION-5B dataset and was able to validate, using the Microsoft-developed tool PhotoDNA, 1,008 CSAM images – some included multiple times. That number is likely "a significant undercount," the researchers said in their paper.
+
+LAION-5B doesn't include the images themselves, and is instead a collection of metadata including a hash of the image identifier, a description, language data, whether it may be unsafe, and a URL pointing to the image. A number of the CSAM photos linked in LAION-5B were found hosted on websites like Reddit, Twitter, Blogspot, and Wordpress, as well as adult websites like XHamster and XVideos.
+
+To find images in the dataset worth testing, SIO focused on images tagged by LAION's safety classifier as "unsafe." Those images were scanned with PhotoDNA to detect CSAM, and matches were sent to the Canadian Centre for Child Protection (C3P) to be verified.
+
+"Removal of the identified source material is currently in progress as researchers reported the image URLs to the National Center for Missing and Exploited Children (NCMEC) in the US and the C3P," the SIO said.
+
+LAION-5B was used to train, among other things, popular AI image generator Stable Diffusion version 1.5, which is well known in certain corners of the internet for its ability to create explicit images. While not directly linked to cases like a child psychiatrist using AI to generate pornographic images of minors, it's that sort of tech that's made deepfake sextortion and other crimes easier.
+
+According to the SIO, Stable Diffusion 1.5 remains popular online for generating explicit photos after "widespread dissatisfaction from the community" with the release of Stable Diffusion 2.0, which added filters to prevent unsafe images from slipping into the training dataset.
+
+We asked Stability AI, which funds and steers the development of Stable Diffusion, if it knew about the presence of CSAM in LAION-5B, and if any of that material made its way into the startup's series of models; the company didn't respond to our questions.
+
+We note that though Stability has released various spins of Stable Diffusion, including version 2.0 with the aforementioned filters, version 1.5, which was studied by the SIO and trained on LAION-5B, was released by another startup called RunwayML, which collaborates with Stability AI.
+
+Oops, they did it again
+
+While it's the first time German non-profit LAION's AI training data has been accused of harboring child porn, the organization has caught flack for including questionable content in its training data before.
+
+Google, which used a LAION-2B predecessor known as LAION-400M to train its Imagen AI generator, decided to never release the tool due to several concerns, including whether the LAION training data had helped it build a biased and problematic model.
+
+According to the Imagen team, the generator showed "an overall bias towards generating images of people with lighter skin tones and … portraying different professions to align with Western gender stereotypes." Modeling things other than humans didn't improve the situation, causing Imagen to "encode a range of social and cultural biases when generating images of activities, events and objects."
+
+An audit of LAION-400M itself "uncovered a wide range of inappropriate content including pornographic imagery, racist slurs, and harmful social stereotypes."
+
+A few months after Google decided to pass on making Imagen public, an artist spotted medical images from a surgery she underwent in 2013 present in LAION-5B, which she never gave permission to include.
+
+LAION didn't respond to our questions on the matter, but founder Christoph Schuhmann did tell Bloomberg earlier this year that he was unaware of any CSAM present in LAION-5B, while also admitting "he did not review the data in great depth."
+
+Coincidentally or not – the SIO study isn't mentioned – LAION chose yesterday to introduce plans for "regular maintenance procedures," beginning immediately, to remove "links in LAION datasets that still point to suspicious, potentially unlawful content on public internet."
+
+"LAION has a zero tolerance policy for illegal content," the company said. "The public datasets will be temporarily taken down, to return back after update filtering." LAION plans to return its datasets to the public in the second half of January. ®
+
+Updated to add
+
+A spokesperson for Stability AI declined to clarify whether or not the upstart knew of the problematic content in LAION-5B, and instead said its own Stable Diffusion series was trained on a portion of the dataset's images – though we're not told whether that portion had CSAM in it or not.
+
+"Stability AI models were trained on a filtered subset of that dataset," the rep said. "In addition, we subsequently fine-tuned these models to mitigate residual behaviors."
+
+The spokesperson also said it places filters on input prompts and output images to ideally catch and prevent attempts to make unlawful content. "We are committed to preventing the misuse of AI and prohibit the use of our image models and services for unlawful activity, including attempts to edit or create CSAM," they told The Register.
+
+Finally, Stability AI stressed to us that the SIO studied version 1.5 of Stable Diffusion, which the startup did not release. It said it did not agree with the decision by collaborator RunwayML to release that version of the LAION-5B-trained model.. This piece is published with support from The Capitol Forum.
+
+The LAION-5B machine learning dataset used by Stable Diffusion and other major AI products has been removed by the organization that created it after a Stanford study found that it contained 3,226 suspected instances of child sexual abuse material, 1,008 of which were externally validated.
+
+LAION told 404 Media on Tuesday that out of “an abundance of caution,” it was taking down its datasets, including LAION-5B and another called LAION-400M temporarily “to ensure they are safe before republishing them."
+
+According to a new study by the Stanford Internet Observatory shared with 404 Media ahead of publication, the researchers found the suspected instances of CSAM through a combination of perceptual and cryptographic hash-based detection and analysis of the images themselves.
+
+“We find that having possession of a LAION‐5B dataset populated even in late 2023 implies the possession of thousands of illegal images—not including all of the intimate imagery published and gathered non‐consensually, the legality of which is more variable by jurisdiction,” the paper says. “While the amount of CSAM present does not necessarily indicate that the presence of CSAM drastically influences the output of the model above and beyond the model’s ability to combine the concepts of sexual activity and children, it likely does still exert influence. The presence of repeated identical instances of CSAM is also problematic, particularly due to its reinforcement of images of specific victims.”
+
+The finding highlights the danger of largely indiscriminate scraping of the internet for the purposes of generative artificial intelligence.
+
+Large-scale Artificial Intelligence Open Network, or LAION, is a non-profit organization that creates open-source tools for machine learning. LAION-5B is one of its biggest and most popular products. It is made up of more than five billion links to images scraped from the open web, including user-generated social media platforms, and is used to train the most popular AI generation models currently on the market. Stable Diffusion, for example, uses LAION-5B, and Stability AI funded its development.
+
+“If you have downloaded that full dataset for whatever purpose, for training a model for research purposes, then yes, you absolutely have CSAM, unless you took some extraordinary measures to stop it,” David Thiel, lead author of the study and Chief Technologist at the Stanford Internet Observatory told 404 Media.
+
+Public chats from LAION leadership in the organization’s official Discord server show that they were aware of the possibility of CSAM being scraped into their datasets as far back as 2021.. An influential machine learning dataset—the likes of which has been used to train numerous popular image-generation applications—includes thousands of suspected images of child sexual abuse, a new academic report reveals.
+
+Giancarlo Esposito on Having His Own Action Figures CC Share Subtitles Off
+
+English view video Giancarlo Esposito on Having His Own Action Figures
+
+The report, put together by Stanford University’s Internet Observatory, says that LAION-5B, a massive tranche of visual media, includes a significant number of illegal abuse images.
+
+Advertisement
+
+LAION-5B is maintained by the non-profit organization LAION (short for Large-scale Artificial Intelligence Open Network) and isn’t actually a stored collection of images but is instead a list of links to images that have been indexed by the organization. The links include metadata for each image, which helps machine learning models find images to draw on for training.
+
+Advertisement
+
+To sift through this expansive data tranche, researchers used PhotoDNA, a proprietary content filtering tool developed by Microsoft to help organizations identify and report certain types of prohibited content, including CSAM. In the course of their scroll through LAION’s dataset, researchers say that PhotoDNA found some 3,226 instances of suspected child abuse material. By consulting outside organizations, researchers were able to determine that many of those images were confirmed cases of CSAM. While the dataset in question involves billions of images, the existence of any amount of abuse content in its content should be troubling.
+
+Advertisement
+
+On Tuesday, after receiving an embargoed copy of Stanford’s report, LAION took the dataset offline and released a statement to address the controversy. It reads, in part:
+
+LAION has a zero tolerance policy for illegal content. We work with organizations like IWF and others to continually monitor and validate links in the publicly available LAION datasets. Datasets are also validated through intensive filtering tools developed by our community and partner organizations to ensure they are safe and comply with the law. ...In an abundance of caution we have taken LAION 5B offline and are working quickly with the IWF and others to find and remove links that may still point to suspicious, potentially unlawful content on the public web.
+
+Advertisement
+
+LAION-5B has been used to train numerous AI applications, including the popular Stable Diffusion image generation app created by Stability AI. Gizmodo reached out to Stability AI for comment and will update this story if it responds.. . . Over 1,000 images of sexually abused children have been discovered inside the largest dataset used to train image-generating AI, shocking everyone except for the people who have warned about this exact sort of thing for years. Over 1,000 images of sexually abused children have been discovered inside the largest dataset used to train image-generating AI, shocking everyone except for the people who have warned about this exact sort of thing for years.
+
+The dataset was created by LAION, a non-profit organization behind the massive image datasets used by generative AI systems like Stable Diffusion. Following The dataset was created by LAION, a non-profit organization behind the massive image datasets used by generative AI systems like Stable Diffusion. Following a report from researchers at Stanford University, 404 Media reported that LAION confirmed the presence of child sexual abuse material (CSAM) in the dataset, called LAION-5B, and scrubbed it from their online channels.
+
+Advertisement
+
+The LAION-5B dataset contains links to 5 billion images scraped from the internet. The LAION-5B dataset contains links to 5 billion images scraped from the internet.
+
+AI ethics researchers have long warned that the massive scale of AI training datasets makes it effectively impossible to filter them, or audit the AI models that use them. But tech companies, eager to claim their piece of the growing generative AI market, have largely AI ethics researchers have long warned that the massive scale of AI training datasets makes it effectively impossible to filter them, or audit the AI models that use them. But tech companies, eager to claim their piece of the growing generative AI market, have largely ignored these concerns , building their various products on top of AI models that are trained using these massive datasets. Stable Diffusion, one of the most commonly used text-to-image generation systems, is based on LAION data, for example. And various other AI tools incorporate parts of LAION's datasets in addition to other sources.
+
+This, AI ethics researchers say, is the inevitable result of apathy. This, AI ethics researchers say, is the inevitable result of apathy.
+
+“Not surprising, [to be honest]. We found numerous disturbing and illegal content in the LAION dataset that didn’t make it into our paper,” wrote Abeba Birhane, the lead author of a “Not surprising, [to be honest]. We found numerous disturbing and illegal content in the LAION dataset that didn’t make it into our paper,” wrote Abeba Birhane, the lead author of a recent paper examining the enormous datasets, in a tweet responding to the Stanford report. “The LAION dataset gives us a [glimpse] into corp datasets locked in corp labs like those in OpenAI, Meta, & Google. You can be sure, those closed datasets—rarely examined by independent auditors—are much worse than the open LAION dataset.”
+
+Advertisement
+
+LAION told 404 Media that they were removing the dataset “temporarily” in order to remove the CSAM content the researchers identified. But AI experts say the damage is already done. LAION told 404 Media that they were removing the dataset “temporarily” in order to remove the CSAM content the researchers identified. But AI experts say the damage is already done.
+
+“It’s sad but really unsurprising,” Sasha Luccioni, an AI and data ethics researcher at HuggingFace who co-authored the paper with Birhane, told Motherboard. “Pretty much all image generation models used some version of [LAION]. And you can’t remove stuff that’s already been trained on it.” “It’s sad but really unsurprising,” Sasha Luccioni, an AI and data ethics researcher at HuggingFace who co-authored the paper with Birhane, told Motherboard. “Pretty much all image generation models used some version of [LAION]. And you can’t remove stuff that’s already been trained on it.”
+
+The issue, said Luccioni, is that these massive troves of data aren’t being properly analyzed before they’re used, and the scale of the datasets makes filtering out unwanted material extremely difficult. In other words, even if LAION manages to remove specific unwanted material after it’s discovered, the sheer size of the data means it’s virtually impossible to ensure you’ve gotten rid of all of it—especially if no one cares enough to even try before a product goes to market. The issue, said Luccioni, is that these massive troves of data aren’t being properly analyzed before they’re used, and the scale of the datasets makes filtering out unwanted material extremely difficult. In other words, even if LAION manages to remove specific unwanted material after it’s discovered, the sheer size of the data means it’s virtually impossible to ensure you’ve gotten rid of all of it—especially if no one cares enough to even try before a product goes to market.
+
+“Nobody wants to work on data because it’s not sexy,” said Luccioni. “Nobody appreciates data work. Everyone just wants to make models go brrr.” ("Go brrr" “Nobody wants to work on data because it’s not sexy,” said Luccioni. “Nobody appreciates data work. Everyone just wants to make models go brrr.” ("Go brrr" is a meme referring to a hypothetical money-printing machine).
+
+AI ethics researchers have warned for years about the dangers of AI models and datasets that contain racist and sexist text and images pulled from the internet, with study after study demonstrating how these biases result in automated systems that replicate and amplify discrimination in areas such as healthcare, housing, and policing. The LAION dataset is another example of this “garbage-in, garbage-out” dynamic, where datasets filled with explicit, illegal or offensive material become entrenched in the AI pipeline, resulting in products and software that inherit all of the same issues and biases. AI ethics researchers have warned for years about the dangers of AI models and datasets that contain racist and sexist text and images pulled from the internet, with study after study demonstrating how these biases result in automated systems that replicate and amplify discrimination in areas such as healthcare, housing, and policing. The LAION dataset is another example of this “garbage-in, garbage-out” dynamic, where datasets filled with explicit, illegal or offensive material become entrenched in the AI pipeline, resulting in products and software that inherit all of the same issues and biases.
+
+These harms can be mitigated by fine-tuning systems after the fact, to try and prevent them from generating harmful or unwanted outputs. But researchers like Luccioni warn that these technological tweaks don’t actually address the root cause of the problem. These harms can be mitigated by fine-tuning systems after the fact, to try and prevent them from generating harmful or unwanted outputs. But researchers like Luccioni warn that these technological tweaks don’t actually address the root cause of the problem.. Ritwik Gupta /
+
+Jan 2, 2024
+
+The current homepage of LAION, the nonprofit organization hosting LAION-5B, depicts a notice that the dataset is under a safety review.
+
+Generative AI has been democratized. The toolkits to download, set up, use, and fine-tune a variety of models have been turned into one-click frameworks for anyone with a laptop to use. While this technology allows users to generate and experiment with a wide range of content, without guardrails it also allows for the generation of incredibly harmful material.
+
+Last month, the Stanford Internet Observatory (SIO) released a report identifying Child Sexual Abuse Material (CSAM) in the Large-scale Artificial Intelligence Open Network’s (LAION) LAION-5B, a popular AI image training database. Building upon prior work, the report and ensuing press coverage highlighted an ugly and disturbing side of the generative AI boom and the challenges that face law enforcement, governments, and private industry in prosecuting, countering, and creating legislation around AI-Generated CSAM.
+
+Law enforcement agencies and policymakers, already overwhelmed by the sheer volume of digital CSAM, are finding the rapid proliferation and the capabilities of generative AI daunting. These advanced systems can not only replicate existing CSAM but also generate new instances that do not involve direct human victims, complicating legal responses. The implications are profound: if a model is trained using data that includes original CSAM, its weights might replicate or even generate new CSAM, leading to a form of digital revictimization that is complex and pervasive. The LAION finding is particularly alarming—the dataset underpins widely used models such as Stable Diffusion 1.5 and Midjourney and was found to contain no less than 1,679 instances of CSAM, as identified by SIO.
+
+Considering the technical nature of these models, particularly the way model weights might encapsulate actual CSAM, there is an urgent need to reassess how these are viewed under the law. Current legal frameworks need to evolve to address the nuances of both non-visual depictions of CSAM and synthetic CSAM, recognizing the potential of these models to harbor and perpetuate abuse. A concerted effort among governmental bodies, the private sector, and academia is imperative to guide the development of generative AI responsibly and ethically.
+
+Background - Generative AI
+
+Recent progress in generative AI has enabled the layperson to generate realistic artwork, images, and videos from text prompts. The latest generative AI models are called “diffusion models,” born from academic research at the University of California, Berkeley and Stanford University. In terms of useful background, a “model” is composed of a set of code that defines an “architecture” and a set of “weights” that define how a text prompt is turned into a meaningful image. Think of the “architecture” as the chassis of a car and the “weights” as the fuel: the chassis is useless without the fuel. These models are trained on datasets curated by scraping a massive amount of imagery and related text from the Internet—with different models from different firms like OpenAI or Stability AI using data collected through different sources. This enables these models to be generalist image generators: they generate common items well, while niche, specific items are often subpar.
+
+To make these models work for more specific prompts, users can collect a small set of images and captions on a topic and “fine-tune” the model, therefore modifying the weights (but not the architecture) of the model to generate images tailored to their specifications.
+
+Given a text prompt, any common smartphone on the market today can generate a realistic image in under 12 seconds. This time limit is decreasing rapidly as AI research progresses. Both the architectures and fine-tuned weights for many models are available for download to anyone around the world. Weights for specific topics such as “chibi anime”, “hyperrealistic portraits”, “lo-fi artist”, and more have been fine-tuned and made easily accessible.
+
+Moreover, an unsettling aspect of these models is their capacity to “memorize” their training data, meaning that the weights of a trained model contain latent representations of the original data, which can then be reconstructed to produce the original or similar content. The issue becomes particularly alarming when considering the generation of CSAM. Since models can effectively memorize and potentially recreate the original training data, the weights of these models, when trained or fine-tuned on CSAM, are not just abstract numbers but may represent potential reproductions of real and harmful content. Recognizing the weights as potential reproductions of CSAM is crucial in understanding and legislating against the perpetuation of CSAM through these technologies.
+
+Cases of Concern
+
+To grasp the gravity and complexity of this issue, it is essential to understand the mechanisms by which malicious actors can harness generative AI to produce CSAM. Typically, this involves collecting CSAM, fine-tuning a generative AI model with this data, and then using the resulting model weights as a generative function to continually produce new instances of CSAM. Publicly accessible generative AI models, like Stable Diffusion XL1.5 and MidJourney, have been documented to have been trained on datasets containing CSAM such as LAION-5B, raising significant concerns.
+
+Let's delve deeper into two illustrative cases:
+
+Case 1: Fine-tuning a generative AI model to generate CSAM
+
+Consider an individual aiming to generate CSAM. They begin by downloading a foundational generative AI model—typically designed to produce benign imagery—from the Internet. Armed with a collection of CSAM and using readily available open-source toolkits, this individual then fine-tunes the generative AI model, thereby creating a set of model weights that are optimized to produce CSAM. Consequently, the individual is in possession of several enabling items: the original CSAM, a model capable of generating both replicas of CSAM and novel synthetic CSAM, and the potential to generate a substantial volume of this illegal material with minimal effort.
+
+Case 2: Downloading a generative AI model to generate CSAM
+
+In this scenario, an individual acquires a model already fine-tuned for CSAM generation, possibly through downloading from the Internet or via transfer of files through physical media.
+
+Through the use of widely available toolkits, this individual can generate a large volume of CSAM with ease. Unlike in the first case, the individual here does not possess physical CSAM images but rather the model weights derived from such material. These weights, however, are capable of containing near-perfect representations of the original CSAM, albeit in a transformed or scrambled form.
+
+As mentioned above, generative AI models have the disconcerting ability to "memorize" their training data, meaning that when models are trained or further fine-tuned on CSAM, they inherently possess the ability to produce near exact replicas of the original abusive images within the weights. In this second case, while the individual does not hold the original CSAM physically, the internal representations within the model weights effectively constitute duplications of CSAM. This implies that each use of these weights to generate new CSAM indirectly contributes to the revictimization of individuals from the original CSAM, as their likenesses are exploited to create new, realistic instances of child sexual abuse.
+
+Law Enforcement Challenges
+
+In this changing environment, law enforcement is scrambling to keep up—both in the United States and around the globe. In the US, 18 U.S. Code § 2256 defines “child pornography” as “any visual depiction, including any photograph, film, video, picture, or computer or computer-generated image or picture, whether made or produced by electronic, mechanical, or other means, of sexually explicit conduct.” Furthermore, it defines the production of child pornography to be “producing, directing, manufacturing, issuing, publishing, or advertising” child pornography. Additionally, the PROTECT Act of 2003 outlaws any “drawing, cartoon, sculpture, or painting” that “depicts a minor [or someone appearing to be a minor] engaging in sexually explicit conduct.”
+
+Laws written years ago must be updated. Under current interpretations of 18 U.S. Code § 2256, model weights likely do not represent a “visual depiction” of child pornography. Additionally, model weights do not appear to contain an “identifiable minor,” the definition under the PROTECT Act of 2003. Therefore, under current law, model weights derived from CSAM are not considered to be covered items under US statutes. Additionally, the above laws should be updated to place restrictions on automated tools that are primarily used to generate CSAM.
+
+Moving forward, care must be taken to address loopholes in any proposed amendments. For example, a “second generation” model might be trained to reconstruct the outputs of a “first generation” model that was trained on original CSAM. As this model is being trained on outputs that are realistic, a “second generation” model could still be capable of generating realistic CSAM. However, the weights of a “second generation” model would not be derived from original CSAM—just synthetic, photo-realistic images. Ensuring that such loopholes do not exist will require a layered redefinition of synthetic CSAM and the tools used to generate it.
+
+Responding to the Insatiable Need for Data at Any Cost
+
+The LAION incident represents a serious misstep. The field of AI must do better to avoid a repetition of a failure of this scale in the future. Immediately, any person or organization involved with generative AI work should conduct a thorough inventory of their servers and identify if and where they possess affected datasets along with models that have been trained or otherwise derived from these models.
+
+Additionally, the field of AI as a whole (including private industry, academia, and government) must create a standardized process for web-scale data curation that includes verifiable checks for harmful material and copyrighted material. Companies and academics are curating datasets larger than LAION-5B which almost certainly contain CSAM, necessitating the creation of a process that ensures that this does not occur again in the future.
+
+Academia, in particular, must give more substantial consideration to the datasets that it accepts for usage in the field. LAION-5B was submitted to the highly influential Neural Information Processing Systems (NeurIPS) conference for peer review, where it was accepted and awarded the best paper in the “datasets and benchmarks” track. The reviews for the paper highlighted severe ethical concerns around copyrighted and harmful materials. Yet, the ethics reviewers for NeurIPS recommended that the paper be accepted after acknowledging that if NeurIPS did not accept the paper it would still be shared elsewhere and distributed. The bar for acceptance to AI’s most prestigious venues must be higher.
+
+Academia and industry must also collaborate to establish methods by which trained models can be automatically vetted against databases such as PhotoDNA to ensure that their weights do not contain memorized CSAM, and to verify that models cannot create synthetic CSAM. Zero-knowledge proofs of model training (zkPoT) represent a promising start in this direction. Using a zkPoT, proofs for otherwise “black-box” models can be provided to auditors who can verify that the model was not trained on known instances of CSAM.
+
+Players in the field of AI have been curating and releasing large datasets for years with no checks and balances in place. Indeed, many companies allow users to produce and distribute generative AI weights. As a consequence, there could be industry pushback against any legislation that attempts to limit the use of generative AI or adds a significant barrier to the commercialization of such software. By targeting the weights of the models themselves rather than the generated images output by the models, there is likely an easier path to enforcement under the First Amendment.
+
+Lawmakers must act as well. US code must be amended to include non-visual depictions of CSAM as covered material. Additionally, the PROTECT Act should be updated to criminalize the creation, possession, and distribution of models that have been trained primarily for the creation of CSAM. To accomplish this in a manner that is free of loopholes, synthetic CSAM must also be re-defined in response to advances in technology. Strict liability for the release of unvetted web-scale data sources must also be established. This will require legislation and battles in court.
+
+Finally, investigative procedures at law enforcement agencies, including the US Federal Bureau of Investigation and other agencies around the world, need comprehensive updates to address the nuances of generative AI in the furtherance of crimes including CSAM. This involves extending the scope of search warrants to rigorously scrutinize generative AI models and the associated weights when such materials are discovered on a suspect's computer. Beyond procedural updates, there's a pressing need to enhance the technical acumen of law enforcement personnel. Training programs specifically tailored to understanding and investigating the intricacies of generative AI technologies are crucial. This will empower law enforcement to effectively identify, trace, and prosecute the misuse of AI in generating and distributing CSAM, ensuring that officers are not only equipped with the necessary legal tools but also the technical expertise to tackle these complex challenges.
+
+Together, these measures serve as a strong start to ensuring the field of AI is responsible for protecting against the curation, generation, and distribution of CSAM and other harmful material.. . The integrity of a major AI image training dataset, LAION-5B, utilized by influential AI models like Stable Diffusion, has been compromised after the discovery of thousands of links to Child Sexual Abuse Material (CSAM). This revelation has triggered concerns about the potential ramifications of such content infiltrating the AI ecosystem.
+
+The Unveiling of Disturbing Content
+
+Stanford Internet Observatory researchers are the ones who uncovered the unsettling truth behind the LAION-5B dataset. They revealed that the dataset contained over 3,000 suspected instances of CSAM. This extensive dataset, integral to the AI ecosystem, faced removal following the shocking discovery made by the Stanford team.
+
+LAION-5B’s Temporary Removal
+
+LAION is a non-profit organization responsible for creating open-source tools for machine learning. In response to the findings, the organization decided to temporarily take down its datasets, including LAION-5B and another named LAION-400M. The organization expressed a commitment to ensuring the safety of its datasets before republishing them.
+
+Also Read: US Sets Rules for Safe AI Development
+
+The Methodology Behind the Discovery
+
+The Stanford researchers employed a combination of perceptual and cryptographic hash-based detection methods to identify instances of suspected CSAM in the LAION-5B dataset. Their study raised concerns about the indiscriminate scraping of the internet for AI training purposes. It further emphasized the dangers associated with such practices.
+
+The Ripple Effect on AI Companies
+
+Major generative AI companies, including Stable Diffusion, relied on LAION-5B for training their models. The Stanford paper highlighted the potential influence of CSAM on AI model outputs and the reinforcement of harmful images within the dataset. The repercussions extended to other models, such as Google’s Imagen, which found inappropriate content in LAION’s datasets during an audit.
+
+Also Read: OpenAI Prepares for Ethical and Responsible AI
+
+Our Say
+
+The revelations about the inclusion of Child Sexual Abuse Material in the LAION-5B dataset underscore the need for responsible practices in the development and utilization of AI training datasets. The incident raises questions about the efficacy of existing filtering mechanisms and the responsibility of organizations to consult with experts in ensuring the safety and legality of their datasets. As the AI community grapples with these challenges, a comprehensive reevaluation of dataset creation processes is imperative to prevent the inadvertent perpetuation of illegal and harmful content through AI models.. Researchers from the Stanford Internet Observatory say that a dataset used to train AI image generation tools contains at least 1,008 validated instances of child sexual abuse material. The Stanford researchers note that the presence of CSAM in the dataset could allow AI models that were trained on the data to generate new and even realistic instances of CSAM.
+
+LAION, the non-profit that created the dataset, told 404 Media that it "has a zero tolerance policy for illegal content and in an abundance of caution, we are temporarily taking down the LAION datasets to ensure they are safe before republishing them." The organization added that, before publishing its datasets in the first place, it created filters to detect and remove illegal content from them. However, 404 points out that LAION leaders have been aware since at least 2021 that there was a possibility of their systems picking up CSAM as they vacuumed up billions of images from the internet.
+
+According to previous reports, the LAION-5B dataset in question contains "millions of images of pornography, violence, child nudity, racist memes, hate symbols, copyrighted art and works scraped from private company websites." Overall, it includes more than 5 billion images and associated descriptive captions (the dataset itself doesn't include any images but rather links to scraped images and alt text). LAION founder Christoph Schuhmann said earlier this year that while he was not aware of any CSAM in the dataset, he hadn't examined the data in great depth.
+
+It's illegal for most institutions in the US to view CSAM for verification purposes. As such, the Stanford researchers used several techniques to look for potential CSAM. According to their paper, they employed "perceptual hash‐based detection, cryptographic hash‐based detection, and nearest‐neighbors analysis leveraging the image embeddings in the dataset itself." They found 3,226 entries that contained suspected CSAM. Many of those images were confirmed as CSAM by third parties such as PhotoDNA and the Canadian Centre for Child Protection.
+
+Stability AI founder Emad Mostaque trained Stable Diffusion using a subset of LAION-5B data. The first research version of Google's Imagen text-to-image model was trained on LAION-400M, but that was never released; Google says that none of the following iterations of Imagen use any LAION datasets. A Stability AI spokesperson told Bloomberg that it prohibits the use of its test-to-image systems for illegal purposes, such as creating or editing CSAM.“This report focuses on the LAION-5B dataset as a whole,” the spokesperson said. “Stability AI models were trained on a filtered subset of that dataset. In addition, we fine-tuned these models to mitigate residual behaviors.”
+
+Stable Diffusion 2 (a more recent version of Stability AI's image generation tool) was trained on data that substantially filtered out 'unsafe' materials from the dataset. That, Bloomberg notes, makes it more difficult for users to generate explicit images. However, it's claimed that Stable Diffusion 1.5, which is still available on the internet, does not have the same protections. "Models based on Stable Diffusion 1.5 that have not had safety measures applied to them should be deprecated and distribution ceased where feasible," the Stanford paper's authors wrote.
+
+Correction, 4:30PM ET: This story originally stated that Google's Imagen tool used a subset of LAION-5B data. The story has been updated to note that Imagen used LAION-400M in its first research version, but hasn't used any LAION data since then. We apologize for the error.. There have been significant problems with AI's training data, with various complaints already filed by those who claimed their work was stolen, but the most recent discovery saw child sexual abuse images in their dataset. In a recent study, the large open dataset known as LAION-5B contained these illegal and sensitive materials, best known for being used by a famous AI platform.
+
+Massive disputes against AI have been present since it debuted, from the unlicensed and unpermitted access to online data, down to the sensitive information it used.
+
+AI Training Data Contains Child Sexual Abuse Images
+
+(Photo : Mika Baumeister from Unsplash)
+
+A new report from the Stanford Internet Observatory (SIO) and its researcher David Thiel uncovered an alarming case of AI training data that contained more than 1,000 child sexual abuse materials (CSAM). This latest discovery corroborates the rumor from 2022, with claims that the LAION-5B also features illegal images in its dataset made available to many.
+
+The rumors from before (via Bloomberg) centered on fears regarding the wide access of AI, now confirmed in the recent findings of the study.
+
+Thiel regarded via Ars Technica that the availability of these child sexual abuse images on AI models may enable to create "new, potentially realistic child abuse content."
+
+Read Also: Biden Administration Starts Writing AI Standards, to Ask for Public Input
+
+LAION-5B Dataset is Used by a Known AI Platform
+
+That being said, the LAION-5B is a renowned open dataset that is best known for being the tool used by Stable Diffusion 1.5, with the investigation claiming that these models were trained directly on CSAM.
+
+LAION-5B's dataset has billions of images taken from renowned social media websites including Reddit, WordPress, X, and Blogspot. It also contained materials from known adult video sites.
+
+It was regarded that LAION is removing datasets from the internet as part of its "zero tolerance policy," but will be republished after verification.
+
+AI's Training Data and Access to Online Info
+
+For a long time, one of the top issues against artificial intelligence has been security, and this is because it trains in the world's massive data, particularly the internet, for it to be able to create what it delivers for all. After significant disputes, different companies have taken it upon themselves to make AI models safe, with OpenAI also announcing their new "Preparedness Framework" for it.
+
+While some want to use AI for good, there is a bad side to it where threat actors use it for malicious attacks, with the technology prone to these undertakings.
+
+There have been massive investigations into AI by different countries, particularly with its access to personal data which it gets online, and the issue of licenses is still present.
+
+Data and information are massive on the internet, but there is also a bad side of the web which centers on abusive and illegal content, including the lowest ones you could think of. That being said, the recent discovery of child sexual abuse materials on the LAION-5B dataset is one alarming case, especially as Stable Diffusion 1.5 is known for using it.
+
+Related Article: AI Models Like ChatGPT Can't Analyze SEC Filings, New Study Finds
+
+ⓒ 2024 TECHTIMES.com All rights reserved. Do not reproduce without permission.

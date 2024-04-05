@@ -1,0 +1,115 @@
+Bing AI got some answers completely wrong during their demo. But no one noticed. Instead, everyone jumped on the Bing hype train.
+
+Google’s Bard got an answer wrong during an ad, which everyone noticed. Now the narrative is “Google is rushing to catch up to Bing and making mistakes!”.
+
+That would be a fine narrative if Bing didn’t make even worse mistakes during its own demo.
+
+Pet Vacuums
+
+Let’s go buy a pet vacuum!
+
+Bing results for “What are the pros and cons of the top 3 selling pet vacuums?”
+
+According to this pros and cons list, the “Bissell Pet Hair Eraser Handheld Vacuum” sounds pretty bad. Limited suction power, a short cord, and it’s noisy enough to scare pets? Geez, how is this thing even a best seller?
+
+Oh wait, this is all completely made up information.
+
+Bing AI was kind enough to give us its sources, so we can go to the hgtv article and check for ourselves.
+
+The cited article says nothing about limited suction power or noise. In fact, the top amazon review for this product talks about how quiet it is.
+
+The article also says nothing about the “short cord length of 16 feet” because it doesn’t have a cord. It’s a portable handheld vacuum.
+
+I hope Bing AI enjoys being sued for libel.
+
+(Note: There is another version of this product with the same name which does have a cord and may actually be noisy. However, that is not the version of the product in Bing’s citation. Presumably Bing intended to describe the best-selling version, which is the cordless version that it cited. But instead it got confused and described the corded version.)
+
+Mexico Nightlife
+
+Let’s go to Mexico!
+
+Bing results for “Where is the nightlife?” after asking for a Mexico City trip itinerary
+
+Bing AI generated a 5-day trip itinerary for Mexico City, and now we’re asking it for nightlife options. This would be pretty cool if the descriptions weren’t inaccurate.
+
+Cecconi’s Bar *might* be classy, but doesn’t seem particularly cozy from the images I saw. And it most definitely does not have a website where you can make reservations and see their menu.
+
+Primer Nivel Night Club is an absolute mystery. There’s one TripAdvisor review from 2014, and the latest Facebook review is from 2016. There are no mentions of it on TikTok, so I seriously doubt “it is popular among the young crowd”. Seems like all the details about this place are AI hallucinations.
+
+El Almacen *might* be rustic or charming, but Bing AI left out the very relevant fact that this is a gay bar. In fact, it is one of the oldest gay bars in Mexico City. It is quite surprising that it has “no ratings or reviews yet” when it has 500 Google reviews, but maybe that’s a limitation with Bing’s sources.
+
+El Marra is a vibrant and colorful bar, though the hours may be wrong. There are so many ratings of this place online that it’s once again surprising that there are “no ratings or reviews yet”.
+
+Guadalajara de Noche is the first one that seems like an accurate description. Good job Bing AI, you got something right! I’m so proud of you. What’s that? You want to try reading financial statements? What could go wrong…
+
+Gap Financial Statement Summary
+
+This is by far the worst mistake made during the demo. It’s also the most unexpected. I would have thought that summarizing a document would be trivial for AI at this point. But Bing AI manages to take a simple financial document, and make all the numbers wrong.
+
+“Gap Inc. reported net sales of $4.04 billion, up 2% compared to last year, and comparable sales were up 1% year-over-year”
+
+Bing AI starts off fine. This statement is totally correct, probably because it is a direct copy paste from the financial document.
+
+“Gap Inc. reported gross margin of 37.4%, adjusted for impairment charges related to Yeezy Gap, and merchandise margin declined 370 basis points versus last year due to higher discounting and inflationary commodity price increases”
+
+Uh…no. That’s the unadjusted gross margin. The gross margin adjusted for impairment charges was 38.7%. And the merchandise margin declined 480 basis points if we’re adjusting for impairment charges.
+
+Don’t worry, it gets much worse.
+
+“Gap Inc. reported operating margin of 5.9%, adjusted for impairment charges and restructuring costs, and diluted earnings per share of $0.42, adjusted for impairment charges, restructuring costs, and tax impacts.”
+
+“5.9%” is neither the adjusted nor the unadjusted value. This number doesn’t even appear in the entire document. It’s completely made up.
+
+The operating margin including impairment is 4.6% and excluding impairment is 3.9%.
+
+The diluted earnings per share is also a completely made up number that doesn’t appear in the document. Adjusted diluted earnings per share is $0.71 and unadjusted is $0.77.
+
+“Gap Inc. reaffirmed its full year fiscal 2022 guidance, expecting net sales growth in the low double digits, operating margin of about 7%, and diluted earnings per share of $1.60 to $1.75.”
+
+No…they don’t expect net sales growth in the low double digits. They expect net sales to be down mid-single digits.
+
+And I didn’t see anything else in this document about the future outlook for operating margin, or diluted earnings per share. So Bing AI either got that from a separate document, or made it up completely.
+
+But it gets worse. Now we’re going to compare Gap to Lululemon
+
+Bing AI compares Gap and Lululemon’s Q3 2022 financial reports
+
+Now we’re comparing made up numbers.
+
+The Lululemon data is about as accurate as the Gap data.
+
+Lululemon’s gross margin is given as “58.7%”, which is a hallucinated value that doesn’t appear in their financial document. The real value is 55.9%.
+
+Lululemon’s operating margin is 19%, not 20.7%.
+
+Lululemon’s diluted earnings per share is $2.00 not $1.65.
+
+Cash and cash equivalents is wrong for Gap (should be $679 million) but correct for Lululemon.
+
+Inventory is wrong for Gap (should be $3.04 billion) but correct for Lululemon.
+
+Conclusion
+
+Bing AI did a great job of creating media hype, but their product is no better than Google’s Bard. At least as far as we can tell from the limited information we have about both.
+
+I am shocked that the Bing team created this pre-recorded demo filled with inaccurate information, and confidently presented it to the world as if it were good.
+
+I am even more shocked that this trick worked, and everyone jumped on the Bing AI hype train without doing an ounce of due diligence.
+
+Bing AI is incapable of extracting accurate numbers from a document, and confidently makes up information even when it claims to have sources.
+
+It is definitely not ready for launch, and should not be used by anyone who wants an accurate model of reality.
+
+(For more thoughts on search and AI, follow me on twitter @dkbrereton)
+
+Appendix 1: Bing AI doesn’t know what year it is
+
+Appendix 2: Bing AI hallucinates the Super Bowl
+
+Note: this was asked before the Super Bowl, so it shouldn’t be able to come up with a winner. Even ignoring that, the date, and location are wrong.
+
+“At least that's relatively innocuous. I asked it how to identify a species of edible mushroom, and it gave me some of the characteristics from its deadly look alike.” - HN comment.
+
+Appendix 3: Bing AI kicks Croatia out of the EU
+
+The actual question that Bard failed at was “What new discoveries from the James Webb Space Telescope can I tell my 9 year old about?”, but Bing makes up a new question, then claims that Bard gave the wrong answer (yet that answer is actually correct).

@@ -114,16 +114,12 @@ example_output_explanation_id_6 = """
         "Number of people actually affected": "Unknown", reasoning -> We can't know the exact number
         "Number of people potentially affected": "Millions (Twitter user base and wider online community)",
         "Class of irresponsible AI use": 
-            "Human Incompetence", reasoning-> Microsoft engineers did not properly test the bot or safeguard it, otherwise the inappropriate tweets won't come out in the first place.
             "Disinformation", reasoning-> Tweeting that the Holocaust didn't exist, and that feminism is cancer, for examples, is spreading non-factual disinformation.
             "Discrimination", reasoning->  Tay tweeted discriminatory texts about feminists and Jews.
-            "Mental Health", reasoning-> This incident could be psychologically traumatic to certain groups of people, for example, Holocaust survivor families, as well as feminists and gender equality advocates.
-        ,
+        ,            
         "Subclasses": [
-            "Human Incompetence-> Technical", reasoning-> The subclasses of 'Human Incompetence' in the taxonomy example includes 'technical', and 'administrative'. The human incompetence subclass is a technical one, which could have been preventable with more robust algorithm/testing/tuning of the bot.
             "Disinformation-> Textual", reasoning-> The disinformation subclasses in the taxonomy includes 'textual, audio, image, video'. The most appropriate subclass here is "textual" since "Tweets" are texts on a social platform.
             "Discrimination-> Data bias, Algorithmic bias", reasoning-> The subclasses of 'discrimination' according to the taxonomy includes 'data bias', and 'algorithmic bias'. The discriminatory tweets could be caused by inbalanced data (data bias) that was used to train the model or poor algorithmic design (algorithmic bias).
-            "Mental Health-> ", reasoning-> mental health is one of the classes, but it has no subclasses in the taxonomy, therefore the subclass will be left empty.
         ],
         "Sub-subclass": [ 
         "Data bias"->"gender, race, other", reasoning-> The sub-subclasses of 'data bias' in the taxonomy includes 'gender, race, sexual orientation, economic, and other'. We have support in the article for potential gender data bias (it tweets about feminism being cancer), race (it tweets that it hates Jews), other (potentially other bias not in the list).
@@ -147,19 +143,16 @@ example_output_id_6 = """
         "Number of people actually affected": "Unknown",
         "Number of people potentially affected": "Millions (Twitter user base and wider online community)",
         "Class of irresponsible AI use": [
-            "Human Incompetence",
             "Disinformation",
             "Discrimination",
-            "Mental Health"
         ],
         "Subclasses": {
-            "Human Incompetence":["Technical"],
             "Disinformation":["Textual"],
             "Discrimination":["Data bias","Algorithmic bias"],
         },
         "Sub-subclass": {
         "Data bias":["gender","race","other"],
-        "Algorithmic bias":["feedback loop", "optimization function", "other"]
+        "Algorithmic bias":["feedback loop", "other"]
         },
         "Area of AI Application": ["Chatbot"],
         "Online": "Yes"
@@ -263,13 +256,11 @@ example_output_explanation_id_1 = """
     "Affected population": "Children on Youtube", reasoning-> The incident affects children on youtube directly.
     "Number of people actually affected": "Unknown", reasoning-> There is no record of an actual number in the article text, we cannot know how many people are directly affected.
     "Number of people potentially affected": "Unknown", reasoning-> There is no record of potential number of people affected in the article, we cannot know how many people are potentially affected.
-    "Class of irresponsible AI use": ["Disinformation", "Human Incompetence", "Mental Health", "Copyright Violation"], reasoning-> The classes in the taxonomy include "discrimination,human incompetence, psuedoscience, environmental impact, disinformation, copyright violation, mental health".
-    We choose "disinformation" because in fact the videos potentially spread false information to children, such as violent Mickey Mouse shooting.
-    "Human Incompetence" because the engineers and administrators behind the platform have not well-regulated the videos, causing such an issue.
+    "Class of irresponsible AI use": "Disinformation", "Human Incompetence", "Mental Health", "Copyright Violation"], reasoning-> The classes in the taxonomy include "discrimination,human incompetence, psuedoscience, environmental impact, disinformation, copyright violation, mental health".
+    We choose "Human Incompetence" because the engineers and administrators behind the platform have not well-regulated the videos, causing such an issue.
     "Mental Health" because the disturbing videos could potentially affect children's mental health.
     "Copyright Violation" because the videos use characters without permission such as Mickey Mouse and Elsa from Disney, and Peppa Pig fakes to portray disturbing acts in videos.
     "Subclasses": {
-      "Disinformation":["Video","Audio","Textual"], reasoning-> The subclasses of 'disinformation' in the taxonomy include 'Video,Audio,Textual,Image', of which 'Video', 'Audio', and 'Textual', are the mediums of the Youtube Kids platform mentioned or suggested in the article.
       "Human Incompetence":["Technical", "Administrative"], reasoning-> The subclasses of 'human incompetence' in the taxonomy example include 'technical' and 'administrative', and both in this case seem to be appropriate tags of this incident because the technically, the channel algorithm should be more robust to filter out inappropriate content for kids, and administratively, better monitoring and regulation of videos should be imposed by Youtube's team to prevent such problems.
       "Mental Health":[], reasoning-> 'Mental health' doesn't have a subclass in the taxonomy, so it should be left empty.
       "Copyright Violation":[], reasoning-> 'Copyright Violation' doesn't have a subclass in the taxonomy, so it should be left empty.
@@ -292,9 +283,8 @@ example_output_id_1 = """
     "Affected population": ["Children on Youtube"],
     "Number of people actually affected": "Unknown",
     "Number of people potentially affected": "Unknown",
-    "Class of irresponsible AI use": ["Disinformation", "Human Incompetence", "Mental Health", "Copyright Violation"],
+    "Class of irresponsible AI use": ["Human Incompetence", "Mental Health", "Copyright Violation"],
     "Subclasses": {
-      "Disinformation":["Video","Audio","Textual"],
       "Human Incompetence":["Technical", "Administrative"]
     },
     "Sub-subclass": [],
@@ -315,10 +305,8 @@ example_output = """
         "Number of people actually affected": "Unknown",
         "Number of people potentially affected": "Millions (Twitter user base and wider online community)",
         "Class of irresponsible AI use": [
-            "Human Incompetence",
             "Disinformation",
             "Discrimination",
-            "Mental Health"
         ],
         "Subclasses": {
             "Human Incompetence":["Technical"],

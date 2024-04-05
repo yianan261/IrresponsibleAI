@@ -1,0 +1,29 @@
+{
+    "39": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Multiple companies including Adobe, University of Washington, Lyrebird, and Jordan Peele\u2019s production company",
+        "Company city": "Multiple locations",
+        "Company state": "",
+        "Affected population": "General Public",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Video"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": {
+            "Video": []
+        },
+        "Area of AI Application": "Video content manipulation",
+        "Online": "yes"
+    }
+}

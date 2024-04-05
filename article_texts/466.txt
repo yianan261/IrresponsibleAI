@@ -1,0 +1,328 @@
+. . . . The Science of Detecting LLM-Generated Texts Ruixiang Tang · Follow 5 min read · Feb 3, 2023 -- Listen Share
+
+Recent advancements in natural language generation (NLG) technology have significantly improved the diversity, control, and quality of LLM-generated texts. A notable example is OpenAI’s ChatGPT, which demonstrates exceptional performance in tasks such as answering questions, composing emails, essays, and codes. However, this newfound capability to produce human-like texts at high efficiency also raises concerns about detecting and preventing misuse of LLMs in tasks such as phishing, disinformation, and academic dishonesty.
+
+Full Paper Link
+
+Figure 1. An overview of the LLM-generated Text Detection
+
+Existing detection methods can be roughly grouped into two categories: black-box detection and white-box detection, black-box detection methods are limited to API-level access to LLMs. They rely on collecting text samples from human and machine sources, respectively, to train a classification model that can be used to discriminate between LLM- and human-generated texts. An alternative is white-box detection, in this scenario, the detector has full access to the LLMs and can control the model’s generation behavior for traceability purposes. In practice, black-box detectors are commonly constructed by external entities, whereas white-box detection is generally carried out by LLM developers.
+
+Figure 2. The top-k overlay using the visualization tool GLTR. There is a notable difference between the two texts. The human-written text is from Chalkbeat New York.
+
+Black-box Detection
+
+To construct an effective detector, black-box methods require the collection of text samples from both human-generated and machine-generated sources. Subsequently, a classifier is trained to differentiate between the two categories based on chosen features.
+
+Some commonly used detection features include statistical disparities and linguistic patterns. For example, GLTR [1] has been developed to detect generation artifacts across common sampling methods, as demonstrated in Figure. 2. Perplexity is another commonly used metric for LLM-generated text detection. It measures the quality of the language model by quantifying the negative average log-likelihood of the texts under the LLM. Studies have shown that language models tend to concentrate on common patterns in the texts they were trained on, resulting in low perplexity scores for LLM-generated text. Conversely, human authors have the ability to express themselves in a wide range of styles, resulting in higher perplexity values.
+
+Figure 3. Inference Time watermark
+
+White-box Detection
+
+In white-box detection, the detector has full access to the target language model, allowing the embedding of secret watermarks into its outputs for monitoring any suspicious or unauthorized activity. A representative example of this method can be found in research conducted by Kirchenbauer et al. [2]. During the next token generation, a hash code is generated based on the previously generated token, which is then used to seed a random number generator. This seed randomly divides the whole vocabulary into a “green list” and a “red list” of equal size. The next token is subsequently generated from the green list. In this way, the watermark is embedded into every generated word, as depicted in Figure. 3. To detect the watermark, a third party with knowledge of the hash function and random number generator can reproduce the red list for each token and count the number of violations of the red list rule, thus verifying the authenticity of the text. The probability that a natural source produces N tokens without violating the red list rule is only (1/2)^N, which is vanishingly small even for text fragments with a few dozen words. To remove the watermark, adversaries need to modify at least half of the document’s tokens.
+
+A taxonomy of LLM-generated text detection.
+
+Authors’ Concerns:
+
+(1) Data collection plays a vital role in the development of black-box detectors, as these systems rely on the data they are trained on to learn how to identify detection signals. However, it is important to note that the data collection process can introduce biases that can negatively impact the performance and generalization of the detector. These biases can take several forms. For example, many existing studies tend to focus on only one or a few specific tasks, such as question-answering or news generation, which can lead to an imbalanced distribution of topics in the data. Additionally, human artifacts can easily be introduced during data collection, as seen in the study conducted by Guo et al. [3], where the lack of style instruction led to OpenAI’s ChatGPT producing answers with a neutral sentiment. These spurious correlations can be captured and even amplified by the detector, leading to poor generalization performance when deployed in real-world applications.
+
+(2) Current detection methods are based on the assumption that the LLM is controlled by the developers and offered as a service to end-users, this one-to-many relationship is conducive to detection purposes. However, the possibility of developers open-sourcing their models or the models being stolen by hackers poses a challenge to these detection approaches. Once the end user gets full access to the LLM, the ability to modify the LLMs’ behavior hinders black-box detection from identifying generalized language patterns. Embedding a watermark in the open-sourced LLM is a potential solution. However, it can still be defeated as users have full access to the model and can fine-tune it or change sampling strategies to erase the watermark. Currently. the cost and effort involved in LLMs training make it unlikely that developers will release their most powerful LLMs. Nonetheless, detecting LLM-generated texts from open-sourced LLMs remains a critical issue that needs to be addressed in the future.
+
+Conclusion
+
+While black-box detection works at present due to detectable signals left by language models in generated text, it will gradually become less viable as language model capabilities advance and ultimately become infeasible. In light of the rapid improvement in LLM-generated text quality, the future of reliable detection tools lies in white-box watermarking detection approaches.
+
+References
+
+[1] Gehrmann, Sebastian, Hendrik Strobelt, and Alexander M. Rush. “GLTR: Statistical Detection and Visualization of Generated Text.” Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations. 2019.
+
+[2] Kirchenbauer, John, et al. “A Watermark for Large Language Models.” arXiv preprint arXiv:2301.10226 (2023).
+
+[3] Guo, Biyang, et al. “How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.” arXiv preprint arXiv:2301.07597 (2023).. Personal updates
+
+I submitted more comments to the New York City’s Department of Consumer and Worker Protection regarding automated employment decision tools, ahead of the second public hearing on 2023-01-23.
+
+A month of ChatGPT-fuelled news
+
+This past month was clearly dominated with ChatGPT news, headlined by OpenAI’s announcement of $10b of new investment from Microsoft in return for a 49% stake and plans of extensive product integrations. OpenAI’s cookbook also exceeded 11,000 stars on GitHub. Interestingly, Microsoft’s announced integrations of a new LLM with Bing search and the Edge browser.
+
+Jailbreaking. Since ChatGPT was released to the public, many ad hoc attempts have been made to jailbreak OpenAI’s limitations on generating harmful content using prompt engineering. More systematic jailbreaks are making headlines. Redditors have launched DAN (Do Anything Now), a contextual reinforcement learning-based jailbreak for ChatGPT to reverse sublimate its identity as a chatbot without restrictions. The latest version, DAN 5.0, was just released on 2023-02-04.
+
+Math. Despite OpenAI’s release notes that ChatGPT has been upgraded with better mathematical skills, Twitter continues to report miserable failure in basic tests for prime numbers alongside failure to convert units correctly and inability to order B.C. dates.
+
+Invisible human labor. Recent news from OpenAI support the ongoing trend in the AI industry for powering AI advances with lowly paid human labor. TIME reported that OpenAI hired Kenyan firm Sama for content moderation, paying workers as little as US$2/hr to do so. Sama, who was also Facebook’s partner for content moderation, announced plans in January to exit the content moderation industry entirely as a Kenyan court refused to strike Meta from a pending court case filed by Daniel Motaung alleging toxic workplace conditions for content moderators. At the same time, OpenAI is hiring more contractors for data labeling and training code generation tools.
+
+AI-generated text detection gone wrong. To mitigate the risk of plagiarism, OpenAI launched AI Text Classifier, a tool meant to check if text was generated using AI. OpenAI claims that its tool has a precision of 74%. Nevertheless, high profile failures such as Sebastian Raschka’s popular Python machine learning book, the Book of Genesis and Macbeth; the ease of evading detection through reprompting and paraphrasing; and issues with writings from neurodivergent people, all caution against any real-world usage of AI for detecting plagiarism. Edward Tian’s GPTZero and its next-generation GPTZeroX exhibit similar failures when fed ChatGPT output, even as faculty at Harvard, Yale, and the University of Rhode Island are using GPTZero for enforcing academic codes of conduct. Researchers at Rice University published a perspective summarizing the difficulties inherent in detecting AI-generated text. See also Kirchenbauer et al. below.
+
+ChatGPT downstream. Educators have split opinions on ChatGPT, with some calling for bans on its use in schools and others embracing the challenge of teaching to wield a new tool. See also Mollick and Mollick below. PwC warns its consultants not to use ChatGPT for client work. OpenAI goes on record calling for AI regulation to avoid misuse. In an ironic turn of unrelated events, a judge in Colombia admitted to using ChatGPT’s output in writing his judgment. See also Downing and Lucey below on generating finance journal submissions.
+
+Google, determined not to be left behind, announced its own ChatGPT competitor, Bard, having just invested $300m into Anthropic. Anthropic in turn released its own ChatGPT competitor, Claude, but with much more limited access and visibility. Bard is reputedly powered under the hood by LaMDA, the LLM which Google engineer Blake Lemoine claimed was sentient just half a year ago. The investment in chatbot technology comes amidst growing gripes of declining search quality and interest in supplanting search with chatbot UIs, on top of pending antitrust legislation over its core advertising business.
+
+Meanwhile, Meta’s Chief Scientist is suddenly dismissive of generative text AI in general:
+
+Ethics. Amidst the accelerating race to innovate new chatbots, concerns still remain about the fundamental premise that LLMs can only generate bullshit, and that ethics will be the first casualty in the ongoing race to take AI to market. DeepMind’s CEO ‘“would advocate not moving fast and breaking things”’, calling out the massive scale of experimentation inherent in deploying chatbot technology on the general public.
+
+Other commercial news
+
+The fall of DoNotPay’s robot lawyer. On 2023-01-25, DoNotPay aborted its attempt to bring its robot lawyer to an actual courtroom, after a state bar threatened jail time for practicing law without a license. This turnaround comes in the wake of investigations into DoNotPay’s legal services being generic form-filling exercises that generate ineffective legal documents, and DoNotPay’s subsequent ban on consumers testing its legal services. The fallout continues: reports continue to surface of questionable business practices at DoNotPay, such as failing to cancel subscriptions; and questionable behavior of its CEO, Joshua Browder, such as doctoring the date of donations for medical debt cancellation [2].
+
+“Nothing, Forever,” the successful synthetic Seinfeld spin-off show, was banned from Twitch for 14 days after emitting transphobic content. The show’s creators blamed a fallback from the Davinci model to the smaller Curie model, whence OpenAI’s provided content moderation tools failed.
+
+The Intercept published footage of Tesla’s fatal accident on the San Francisco Bay Bridge on Thanksgiving 2022, showing that its full self-driving feature braked abruptly.
+
+CNET paused its publication of AI-ghost written articles after its use of AI for writing articles was first reported and evidence of plagiarism surfaced, along with claims of factual errors.
+
+ML researchers documented an intriguing set of inputs that reliably break GPT-n LLMs, such as the failure to repeat back input tokens like “SolidGoldMagikarp”, “StreamerBot” and “ petertodd” and instead evading the question (sometimes by insulting the user!). Interestingly, the corner cases seem to involve broken tokens that include spaces and null characters, which ought to have been stripped.
+
+StableAttribution.com from a startup called Chroma claims to let users trace which images were used in the output of generative AI, but without any published methodology. However, some users have complained about a lack of close similarity. Without access to the actual models, such methods are at best based on post hoc explainability methods like CLIP interrogation.
+
+Test proctoring software vendor Proctorio lost an appeal in their copyright infringement suit against whistleblower Ian Linkletter.
+
+Synthetic data. Researchers and startups continue to use synthetic data to augment facial datasets to improve diversity, despite well-known limitations of extrapolation inherent in generating synthetic data. See Jacobsen below.
+
+On 2023-02-01, The Markup reported that healthcare company GoodRx continues to receive medical information from social media for its marketing campaigns, and that the FTC is seeking a court order to permanently ban it from doing so.
+
+Stability AI faces new lawsuits, including a class action from the team behind the Github Copilot lawsuit (which is also suing Midjourney and DeviantArt). Getty Images also filed a lawsuit alleging IP infringement by using over 12 million copyrighted images in training Stable Diffusion. Meanwhile, its nonprofit, LAION-AI, has announced its plans for Open Assistant, its answer to ChatGPT.
+
+Deepfake technology from Flawless AI was used to virtually redub swear words, both aurally and visually, in multiple languages for the movie Fall.
+
+At the end of January, Glass Health HQ announced Glass AI, a tool to generate medical diagnoses and clinical action plans. However, Twitter users quickly found that it hallucinates symptoms that were not reported in the text prompt and is quick to assign psychiatric disorders to ordinary situations.
+
+In late January, ElevenLabs, a Polish pre-seed startup, released a public beta of Prime Voice AI, a voice cloning tool. Sample audiobook clips are of very high quality. However, reports of abuse quickly followed, such as a deepfake of Emma Watson reading Mein Kampf, forcing ElevenLabs to restrict free usage.
+
+On 2022-12-21, Spanish police arrested an AI programmer for generating and distributing AI-generated child pornography.
+
+The CEO of the Interactive Advertising Bureau (IAB), an online advertising trade association, accused the US government of “crippling” the advertising industry. Other trade groups quickly distanced themselves from the IAB in response.
+
+Meta. Former employee George Hayward filed a lawsuit against Meta alleging that he was terminated for refusing to implement “negative testing”, which allegedly drains the batteries of unsuspecting users’ cell phones. Documents unsealed from another lawsuit in the aftermath of the Cambridge Analytica scandal show that Facebook may have offered similarly unfettered access to user data to over 130,000 developers in sanctioned countries, triggering questions from the Senate Intelligence Committee.
+
+Madison Square Garden (MSG). MSG’s billionaire owner doubles down to defend his use of facial recognition technology to ban lawyers from the grounds, even as New York’s Attorney General wrote him a letter on 2023-01-25 highlighting the risk of civil rights and human rights violations, with one lawyer even growing a beard to evade recognition.
+
+TikTok. On 2023-01-20, Forbes reported that ByteDance and TikTok manually boosted videos to go viral, apparently overwriting algorithmic recommendations when necessary.
+
+Users have complained that social chatbots from the startup Replika are sexually harassing them with “spicy selfies”.
+
+The AP reports that ShotSpotter’s “precision policing system” is overridden by human overseers about 10% of the time; Suresh Venkatasubramanian points out that the greater issue about ShotSpotter’s opacity still remains.
+
+Mental health startup Koko experimented on over 4,000 non-consenting users by providing counseling services powered by GPT-3, followed by predictable controversy over unethical experimentation on vulnerable people and the uncanny valley of simulated empathy. AI has been used by other nonprofits to train counselors but not placed directly in front of patients.
+
+Mac app Historical Figures Chat by Sidhant Chadda proffers the chance to talk to AI simulacra of famous historical figures, but was quickly panned for factual errors and glossing over uncomfortable historical events, such as denying Henry Ford’s antisemitic views.
+
+Community
+
+The Distributed AI Research Institute (DAIR) is commemorating Stochastic Parrots Day on 2023-03-17, with a retrospective on the eponymous paper.
+
+☛ Register for free on Eventbrite.
+
+Government and Policy
+
+Brazil
+
+On 2022-12-01, the Brazilian Senate approved a draft framework on AI regulation which covers both rights and risks. See Luca Belli et al. below for analysis of issues with earlier iterations.
+
+On 2022-12-06, the Comissão de Juristas responsável por subsidiar elaboração de substitutivo sobre inteligência artificial no Brasil (Commission of Jurists on the Brazilian Artificial Intelligence Bill) published its final report.
+
+France
+
+On 2023-01-14, the French Senate amended the French Transport Code to permit “automated collections of publicly accessible multimodal travel data or information on digital services”, in so doing, harmonizing with European law and permitting algorithmic audits on public transport data.
+
+On 2023-01-31, the French Senate passed a bill allowing AI-powered video surveillance to be used during the 2024 Olympics and Paralympics. The bill specifically calls out bias testing and monitoring, while excluding the possibility of using facial recognition.
+
+Germany
+
+On 2023-01-05, researchers published an update to the Corpus des Deutschen Bundesrechts (Corpus of German Federal Law; C-DBR), published in a form that shows the network of interdependencies.
+
+Iran
+
+On 2023-01-10, Wired reported that Iran is using facial recognition to enforce the wearing of hijabs.
+
+The Netherlands
+
+On 2023-01-01, the Algorithm Supervisory Body began operations as part of the Autoriteit Persoonsgegevens (Data Protection Authority).
+
+United Kingdom
+
+On 2023-02-03, The Financial Conduct Authority (FCA) published a report showing that AI enabled a nearly 14-fold increase in the enforcement of regulations around financial advertising in 2022.
+
+The Home Office concluded 9 trials of facial recognition technology for age verification for alcohol purchases. Preliminary findings were mixed, included sensitivity to environmental lighting and low take-up, possibly due to the clunky hand-off between shop registers and facial verification apps.
+
+United States
+
+On 2023-01-10, the Office of the Chief Statistician published recommended best practices for the collection of self-reported sexual orientation and gender identity (SOGI) data by federal agencies.
+
+[FR] On 2023-01-10, the Equal Employment Opportunity Commission (EEOC) published a request for public comment on its Draft Strategic Enforcement Plan, which “[r]ecognizes employers' increasing use of automated systems, including artificial intelligence or machine learning, to target job advertisements, recruit applicants, and make or assist in hiring decisions”.
+
+☛ Submit a comment to Regulations.gov by 2022-02-09.
+
+[News Release] On 2023-01-10, the Office of the Comptroller of the Currency (OCC) updated its Fair Lending booklet, which describes how its regulators assess compliance with the Fair Housing Act (FHA), the Equal Credit Opportunity Act and Regulation B. This is the first update since 2010.
+
+[News Release] On 2023-01-23, the OCC issued a Call for Papers on Emerging Risks in the Banking System ahead of a conference at OCC Headquarters in Washington, D.C., on June 12-14, 2023.
+
+☛ Submit academic research papers to EconomicsSymposium@occ.treas.gov by 2023-03-03.
+
+On 2023-01-24, the White House released a Federal Evidence Agenda on LGBTQI+ Equity, promoting the collection of relevant data by federal agencies.
+
+On 2023-01-24, The National Artificial Intelligence Research Resource (NAIRR) Task Force published their report: Strengthening and Democratizing the U.S. Artificial Intelligence Innovation Ecosystem: An Implementation Plan for a National Artificial Intelligence Research Resource.
+
+[Website] On 2023-01-26, the National Institutes for Standards and Technology (NIST) launched v1.0 of its AI Risk Management Framework, along with its companion resources.
+
+[FR] On 2023-01-27, the Office of Management and Budget (OMB) published a request for public comment on its Initial Proposals For Updating OMB's Race and Ethnicity Statistical Standards, which changes the current 2x5 matrix of race and ethnicity to a much more fine-grained taxonomy that permits detailed identification of multiple categories.
+
+☛ Submit a comment to Regulations.gov by 2023-04-12.
+
+On 2023-01-31, the EEOC held a public hearing on Navigating Employment Discrimination in AI and Automated Systems: A New Civil Rights Frontier.
+
+☛ Submit written comments to Commissionmeetingcomments@eeoc.gov or by mail to to Commission Meeting, EEOC Executive Officer, 131 M Street, N.E., Washington, D.C. 20507.
+
+California
+
+On 2023-01-01, California Privacy Rights Act (CPRA), an amendment to the California Consumer Privacy Act (CCPA), went into effect. CPRA gives consumers new rights, such as the right to correct inaccurate personal information and the the right to limit the use and disclosure of sensitive personal information.
+
+Software
+
+[GitHub] unredactor is a proof-of-concept reconstruction for pixelated images which successfully decoded an infosec challenge.
+
+[GitHub, Twitter] Promptify is a Python package to generate ChatGPT prompts for NLP tasks, leveraging the emergent properties of LLMs.
+
+Papers
+
+Law and policy
+
+Brett Murphy, They Called 911 for Help. Police and Prosecutors Used a New Junk Science to Decide They Were Liars (Dec. 28, 2022), ProPublica. Documents the use of proprietary 911 call analysis methods by law enforcement.
+
+Luca Belli et al., AI regulation in Brazil: Advancements, flows, and need to learn from the data protection experience, Computer Law & Security Review (Apr. 2023) 48:105767. Documents some contradictions between proposed AI legislation in Brazil (pdf, 2022-12-06, Twitter) and existing consumer protection laws, as well as other structural risks that may hamper effective regulation.
+
+[SSRN, Twitter] Brent Mittelstadt et al., The Unfairness of Fair Machine Learning: Levelling down and strict egalitarianism by default. Describes how a blind adherence to group fairness creates the potential risk of “levelling down”, i.e., to purposely worsen results for advantaged groups in the pursuit for parity with disadvantaged groups, rather than uplifting the disadvantaged.
+
+Johann Laux et al., Trustworthy artificial intelligence and the European Union AI act: On the conflation of trustworthiness and acceptability of risk (2023), Regulation & Governance. Argues that “low risk” is too narrow an interpretation of trustworthiness as it potentially excludes public participation in governance processes, which are primarily the responsibility of institutions to be held accountable to the public.
+
+[SSRN] Veena Dubal, On Algorithmic Wage Discrimination. See also the article on the Law and Political Economy Project. Documents the “casino culture” of gig work, where workers are incentivized to take on as much work as possible, most of which has low pay set by algorithmic price discrimination, for the rare outcome of large payouts.
+
+[Website] Christie Lawrence et al., Implementation Challenges to Three Pillars of America’s AI Strategy. Shows that the majority of legal requirements under current law and executive orders have yet to be implemented.
+
+[SSRN] Ifeoma Ajunwa, Automated Governance (Jan. 29, 2023). North Carolina Law Review 101:355. Argues that any automated decision-making tools used by governments be subject to audit and human oversight to implement “appropriate societal safeguards”.
+
+Benjamin N. Jacobsen, Machine learning and the politics of synthetic data (Jan.-Jun. 2023), Big Data & Society 10(1):1-12. Critiques the use of synthetic data to place unwarranted confidence in amplifying predictive signal and studying deviations from expected data distributions, particularly when data in the tail are difficult to gather.
+
+Andrey Komilitzin et al., A participatory initiative to include LGBT+ voices in AI for mental health (Jan 10-11, 2023), Nature Medicine 29:10-11. Argues that LGBT+ people, while at greater risk of mental health issues, are not properly supported with current data collection procedures in healthcare.
+
+[SpringerLink] Damian Okaibedi Eke et al., eds. Responsible AI in Africa: Challenges and Opportunities. A monograph focusing on African cultural contexts for AI use.
+
+Generative AI
+
+[Website, arXiv] Andrea Agostinelli et al., MusicLM: Generating Music From Text. This latest model from Google Research produces high quality music from text captions. The use of overlapping generated music and “story mode” to chain longer generated audio seems particularly novel. The paper also distributes a new dataset, MusicCaps, with over 5,000 music-text pairs prepared by musicians. See also the related subproject, SingSong, to add musical accompaniment to vocal tracks.
+
+[arXiv, Twitter] Tianyi Zhang and Faisal Ladhak et al., Benchmarking Large Language Models for News Summarization. GPT-3 performed well against crowdsourced human summaries, and instruction tuning was important for performance. Points out the low quality of reference summaries in existing benchmarks.
+
+[arXiv, Twitter] John Kirchenbauer et al., A Watermark for Large Language Models. Describes a method for watermarking generated text by selectively promoting the use of certain tokens and downweighting the use of others, producing an entropic imbalance that can be detected without access to the generative model.
+
+[arXiv, GitHub] Peter Hase et al., Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models. Describes how the localization structure in mid-layer weights found by causal tracing, a method to localize the storage of facts in a neural network, is not useful for creating meaningful edits.
+
+[arXiv, Twitter, Website] Eric Mitchell et al., DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature. Exploits the conventional structure of generative AI for maximizing entropy to verify if the entropy of generated text is near a local maximum, against the hypothesis that human written text would not maximize entropy.
+
+[medRxiv] Tiffany H. Kung et al., Performance of ChatGPT on USMLE: Potential for AI-Assisted Medical Education Using Large Language Models. Evaluates ChatGPT’s performance on clinical reasoning tested on the United States Medical Licensing Examination (USMLE), showing that it obtains a passing grade on the sample exam and provided at least one significant insight on almost 90% of the questions. ChatGPT outperformed PubMedGPT, a specialist LLM. Interestingly, its performance was only slightly worse than Med-PaLM, which was instruction prompt tuned for performance on this exam.
+
+Lilian Weng, The Transformer Family Version 2.0. A comprehensive update covering many recent new transformer architectures.
+
+[arXiv] Wenzhe Li et al., A Survey on Transformers in Reinforcement Learning. Also covers how the transformer architectures can also support secondary tasks like data augmentation and self-supervised learning.
+
+[arXiv, Twitter] Rosanne Liu et al., Character-Aware Models Improve Visual Text Rendering. Incorporating character-aware text encoders in image generation improves the spelling in output.
+
+[SSRN, Twitter] Michael M. Dowling and Brian M. Lucey, ChatGPT for (Finance) Research: The Bananarama Conjecture (25 Jan. 2023), Finance Research Letters, 103662. Surveys reviewers of finance journals showing that the raw output of ChatGPT is likely to pass peer review, with the odds of acceptance improving with even modest refinement.
+
+[SSRN] Ethan R. Mollick and Lilach Mollick, New Modes of Learning Enabled by AI Chatbots: Three Methods and Assignments. This working paper embraces the opportunity of using generated AI text to teach critical reading skills, such as recognizing the cognitive bias of explanatory depth.
+
+Data privacy
+
+[arXiv, Twitter] Nicholas Carlini et al., Extracting Training Data from Diffusion Models. Shows that as much of 2.5% of the popular CIFAR-10 data set can be memorized and passed off as generated output, and that memorization occurs in both diffusion models and generative adversarial networks (GANs) despite GANs supposedly using only gradient information from training data.
+
+[arXiv, Twitter] Keyu Zhu et al., Privacy and Bias Analysis of Disclosure Avoidance Systems. Benchmarks differential privacy (DP) against more traditional methods of disclosure avoidance and shows that DP offers better performance.
+
+[arXiv, Twitter] Samuel B. Hopkins et al., Robustness Implies Privacy in Statistical Estimation. Shows that robustness and differential privacy can be simultaneously achieved in polynomial time.
+
+Learning theory
+
+[arXiv] Amin Karbasi and Kasper Green Larsen, The Impossibility of Parallelizing Boosting. The key intuition is that parallelization has to come at the cost of exponentially large reductions in the possible improvements in learning.
+
+[arXiv, Twitter] Mahdi Haghifam et al., Limitations of Information-Theoretic Generalization Bounds for Gradient Descent Methods in Stochastic Convex Optimization, ALT’23. Shows that the generalization error of gradient descent cannot be bounded using information theoretic minimax arguments.
+
+[arXiv] Guillaume Garrigos and Robert M. Gower, Handbook of Convergence Theorems for (Stochastic) Gradient Methods. Comprehensive collection of theoretical convergence results for SGD.
+
+[arXiv, GitHub, Twitter [2]] Aaron Defazio and Konstantin Mishchenko, Learning-Rate-Free Learning by D-Adaptation, ICLR’23. Provides drop-in, parameter-free Adam-type optimizations that sequentially bound the distance, D, from the initial guess to the solution.
+
+[arXiv, Twitter] Tian Jin et al., Pruning’s Effect on Generalization Through the Lens of Training and Regularization, NeurIPS’22. Systematically studies pruning and double descent. On top of size reduction, pruning can also improve training and regularization.
+
+[OpenReview, Twitter] Soufiane Hayou, On the infinite-depth limit of finite-width neural networks (Jan. 27, 2023), TMLR. Shows that the limiting behavior can be understood as a generalized Ornstein-Uhlenbeck process, albeit with sensitivity to the precise choice of activation function.
+
+Explainability
+
+[arXiv, Twitter] Ángel Alexander Cabrera et al., Improving Human-AI Collaboration with Descriptions of AI Behavior, CSCW’23. Showing evidence of how an AI arrived at its outputs enables humans to update their mental models of how the AI works, thus improving trust.
+
+[arXiv, Twitter] Venkatesh Sivaraman et al., Ignore, Trust, or Negotiate: Understanding Clinician Acceptance of AI-Based Treatment Recommendations in Health Care, CHI’23. Identifies four distinct ways human clinicians use AI to make clinical treatment decisions, with adoption of AI recommendations strongest when in line with perceived standard treatment protocol.
+
+[arXiv, GitHub] David Lindner et al., Tracr: Compiled Transformers as a Laboratory for Interpretability. Describes a high-level compiler for implementing programs on transformer architectures. Although presented as an explainability technique, the actual explanation task seems more akin to implementing the corresponding decompiler.
+
+[ResearchGate, Twitter] Qian Yang et al., Harnessing Biomedical Literature to Calibrate Clinicians’ Trust in AI Decision Support Systems, ICLR’23. Shows that clinicians base decisions upon incomplete evidence, and that counterfactual evidence arguing against specific decisions are the most effective.
+
+[arXiv, Twitter] Kirsten Roth et al., Disentanglement of Correlated Factors via Hausdorff Factorized Support, ICLR’23. Introduces a new disentanglement method with weaker assumptions of factorizable support while maintain SOTA performance.
+
+Calibration and uncertainty quantification
+
+[arXiv, Twitter] Zhen Lin et al., Taking a Step Back with KCal: Multi-Class Kernel-Based Calibration for Deep Neural Networks, ICLR’23. Proposes KCal, a calibration method for deep neural networks using kernel density estimation on the latent embeddings.
+
+[arXiv, Twitter] Anastasios N. Angelopoulos et al., Prediction-Powered Inference. Derives new estimates for confidence intervals based on model errors.
+
+Security and cryptography
+
+[arXiv, Twitter] Graham Cormode et al., Streaming Zero-Knowledge Proofs. Introduces streaming versions of zero-knowledge proofs based on homomorphic evaluation and spatial constraints.
+
+[arXiv] Sanghyun Hong et al., Publishing Efficient On-device Models Increases Adversarial Vulnerability, SatML’23. Shows that on-device models can be used as effective priors to reconstruct the full federated model, and fine-tuning can greatly hinder reconstruction efforts.
+
+Other machine learning
+
+[OpenReview, Twitter] Subham Sekhar Sahoo et al., Backpropagation through Combinatorial Algorithms: Identity with Projection Works, ICLR’23. Shows that simply backpropagating through discrete optimization steps with the identity works fairly robustly.
+
+[OpenReview, Twitter] Yutong Xie et al., How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules, ICLR’23. Calibrates similarity measures with biological activity in addition to theoretical soundness, and uses the best performing measure to compute coverage of the design space.
+
+[arXiv, Twitter] Jianfei Gao et al., Double Permutation Equivariance for Knowledge Graph Completion. Proposes a formal definition of knowledge graphs as graphs with certain permutation symmetries, with consequences for completion tasks.
+
+[arXiv] Noveen Sachdeva, Julian McAuley, Data Distillation: A Survey. Shows that factorization-based approaches perform the best across multiple data types.
+
+[arXiv] Cem Akkus et al., Multimodal Deep Learning. Reviews datasets and architectures in use today.
+
+Emily Sohn, The reproducibility issues that haunt health-care AI (Jan. 9, 2023), Nature. Problems with mediocre accuracy, reproducibility and data leakage plague the field even as AI is seeing production-time usage.
+
+[Website] Miguel A. Hernán and James M. Robins. Causal Inference: What If (the book). Presents a comprehensive and interdisciplinary approach to causal inference. Updated 2023-01-14.
+
+[arXiv] Yuancheng Xu et al., Exploring and Exploiting Decision Boundary Dynamics for Adversarial Robustness, ICLR’23. Observes that adversarially robust training can worsen misclassification of vulnerable data points, and proposes a dynamics-aware training method to improve robustness for these data.
+
+[arXiv] Adaptive Agents Team (DeepMind), Human-Timescale Adaptation in an Open-Ended Task Space. Introduces the Adaptive Agent (AdA) algorithm for reinforcement learning in open-ended settings for 3D tasks.
+
+[arXiv] Colin White et al., Neural Architecture Search: Insights from 1000 Papers. A comprehensive overview of NAS methods.
+
+[arXiv, Twitter] Shoaib Ahmed Siddiqui et al., Metadata Archaeology: Unearthing Data Subsets by Leveraging Training Dynamics, ICLR’23. Proposes MAP-D, a new method for inferring the existence of fine-grained categories from training histories.
+
+[arXiv, Twitter, Website] Carrie Wright et al., Open Case Studies: Statistics and Data Science Education through Real-World Applications. Describes the use of curated case study materials for teaching real world data science skills such as data preparation and exploration.
+
+Sumit Agarwal et al., Who Pays For Your Rewards? Redistribution in the Credit Card Market (Jan. 20, 2023), Finance and Economics Discussion Series, Federal Reserve: DC. Estimates that credit card reward programs constitute an effective wealth transfer of $15b annually from people with low credit scores to those with higher scores.. In response to the growing concern from educators over ChatGPT’s ability to help students cheat, OpenAI released a tool on Tuesday that can detect AI-written text. However, the company said, “Our classifier is not fully reliable.” In response to the growing concern from educators over ChatGPT’s ability to help students cheat, OpenAI released a tool on Tuesday that can detect AI-written text. However, the company said,Our classifier is not fully reliable.”
+
+“In our evaluations on a ‘challenge set’ of English texts, our classifier correctly identifies 26% of AI-written text (true positives) as ‘likely AI-written,’ while incorrectly labeling human-written text as AI-written 9% of the time (false positives),” the company, which developed ChatGPT, “In our evaluations on a ‘challenge set’ of English texts, our classifier correctly identifies 26% of AI-written text (true positives) as ‘likely AI-written,’ while incorrectly labeling human-written text as AI-written 9% of the time (false positives),” the company, which developed ChatGPT, wrote in a blog post
+
+Advertisement
+
+The classifier, which was trained on a dataset of human-written and AI-written text on the same topic, is not yet dependable and is only supposed to complement other ways of determining who a text is written by. The limitations that the classifier has, according to OpenAI, include being unreliable on short texts and performing worse in other languages. The classifier, which was trained on a dataset of human-written and AI-written text on the same topic, is not yet dependable and is only supposed to complement other ways of determining who a text is written by. The limitations that the classifier has, according to OpenAI, include being unreliable on short texts and performing worse in other languages.
+
+OpenAI said that it has developed preliminary resources on the impact of ChatGPT for educators, acknowledging that it is important to recognize “the limits and impacts of AI generated text classifiers in the classroom.” OpenAI said that it has developed preliminary resources on the impact of ChatGPT for educators, acknowledging that it is important to recognize “the limits and impacts of AI generated text classifiers in the classroom.”
+
+Recently, Recently, NYU professors told students on the first day of classes that they were not allowed to use ChatGPT without explicit permission, saying that any usage of the tool would be considered plagiarism. Professors have been coming up with their own ways to detect AI writing in order to prevent any sort of cheating, such as running their essay prompts through ChatGPT to have a benchmark of what an AI-generated essay would look like.
+
+A 22-year-old student named Edward Tian developed his own ChatGPT detector, which was launched in beta earlier this year and released in full as A 22-year-old student named Edward Tian developed his own ChatGPT detector, which was launched in beta earlier this year and released in full as GPTZeroX on January 29. In this app, you can insert text or upload one or more documents at once and the app will generate a score for how much of the text was written by AI and highlight the sentences that were written by AI. According to Tian, the app was wrong less than 2 percent of the time when tested on a dataset of BBC news articles and machine-generated articles with the same prompt, which would make GPTZeroX seemingly more reliable than OpenAI’s own detector.
+
+OpenAI includes a call-to-action in its blog post, offering people directly impacted by the language bot, “including but not limited to teachers, administrators, parents, students, and education service providers,” to provide OpenAI includes a call-to-action in its blog post, offering people directly impacted by the language bot, “including but not limited to teachers, administrators, parents, students, and education service providers,” to provide feedback through a Google Form survey. As ChatGPT becomes capable of writing everything from college essays to code, teachers around the country are attempting to adjust their classrooms around the new technology and discussing how the tool can be used in an ethical way.
+
+“We’re not educators ourselves—we’re very aware of that—and so our goals are really to help equip teachers to deploy these models effectively in and out of the classroom,” Open AI policy research director “We’re not educators ourselves—we’re very aware of that—and so our goals are really to help equip teachers to deploy these models effectively in and out of the classroom,” Open AI policy research director Lana Ahmad told CNN . “That means giving them the language to speak about it, help them understand the capabilities and the limitations, and then secondarily through them, equip students to navigate the complexities that AI is already introducing in the world.”
+
+
+

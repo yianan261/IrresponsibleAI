@@ -1,0 +1,69 @@
+The Boston Globe An MIT student asked AI to make her headshot more ‘professional.’ It gave her lighter skin and blue eyes. Computer science major Rona Wang said her experience shows how the emerging technology can have racial blind spots. MIT student Rona Wang asked an AI image creator app called Playground AI to make a photo of her look "professional." It gave her paler skin and blue eyes, and "made me look Caucasian." Rona Wang
+
+Rona Wang is no stranger to using artificial intelligence.
+
+A recent MIT graduate, Wang, 24, has been experimenting with the variety of new AI language and image tools that have emerged in the past few years, and is intrigued by the ways they can often get things wrong. She’s even written about her ambivalence toward the technology on the school’s website.
+
+Lately, Wang has been creating LinkedIn profile pictures of herself with AI portrait generators, and has received some bizarre results like images of herself with disjointed fingers and distorted facial features.
+
+But last week, the output she got using one startup’s tool stood out from the rest.
+
+Advertisement:
+
+On Friday, Wang uploaded a picture of herself smiling and wearing a red MIT sweatshirt to an image creator called Playground AI, and asked it to turn the image into “a professional LinkedIn profile photo.”
+
+In just a few seconds, it produced an image that was nearly identical to her original selfie — except Wang’s appearance had been changed. It made her complexion appear lighter and her eyes blue, “features that made me look Caucasian,” she said.
+
+was trying to get a linkedin profile photo with AI editing & this is what it gave me 🤨 pic.twitter.com/AZgWbhTs8Q — Rona Wang (@ronawang) July 14, 2023
+
+“I was like, ‘Wow, does this thing think I should become white to become more professional?’” said Wang, who is Asian-American.
+
+The photo, which gained traction online after Wang shared it on Twitter, has sparked a conversation about the shortcomings of artificial intelligence tools when it comes to race. It even caught the attention of the company’s founder, who said he hoped to solve the problem.
+
+Now, she thinks her experience with AI could be a cautionary tale for others using similar technology or pursuing careers in the field.
+
+Wang’s viral tweet came amid a recent TikTok trend where people have been using AI products to spiff up their LinkedIn profile photos, creating images that put them in professional attire and corporate-friendly settings with good lighting.
+
+Advertisement:
+
+Wang admits that, when she tried using this particular AI, at first she had to laugh at the results.
+
+“It was kind of funny,” she said.
+
+But it also spoke to a problem she’s seen repeatedly with AI tools, which can sometimes produce troubling results when users experiment with them.
+
+To be clear, Wang said, that doesn’t mean the AI technology is malicious.
+
+“It’s kind of offensive,” she said, “but at the same time I don’t want to jump to conclusions that this AI must be racist.”
+
+Experts have said that AI bias can exist under the surface, a phenomenon that’s been observed for years. The troves of data used to deliver results may not always accurately reflect various racial and ethnic groups, or may reproduce existing racial biases, they’ve said.
+
+Research — including at MIT — has found so-called AI bias in language models that associate certain genders with certain careers, or in oversights that cause facial recognition tools to malfunction for people with dark skin.
+
+Wang, who double-majored in mathematics and computer science and is returning to MIT in the fall for a graduate program, said her widely shared photo may have just been a blip, and it’s possible the program randomly generated the facial features of a white woman. Or, she said, it may have been trained using a batch of photos in which a majority of people depicted on LinkedIn or in “professional” scenes were white.
+
+Advertisement:
+
+It has made her think about the possible consequences of a similar misstep in a higher-stakes scenario, like if a company used an AI tool to select the most “professional” candidates for a job, and if it would lean toward people who appeared white.
+
+“I definitely think it’s a problem,” Wang said. “I hope people who are making software are aware of these biases and thinking about ways to mitigate them.”
+
+The people responsible for the program were quick to respond.
+
+Just two hours after she tweeted her photo, Playground AI founder Suhail Doshi replied directly to Wang on Twitter.
+
+“The models aren’t instructable like that so it’ll pick any generic thing based on the prompt. Unfortunately, they’re not smart enough,” he wrote in response to Wang’s tweet.
+
+“Happy to help you get a result but it takes a bit more effort than something like ChatGPT,” he added, referring to the popular AI chatbot which produces large batches of text in seconds with simple commands. “[For what it’s worth], we’re quite displeased with this and hope to solve it.”
+
+In additional tweets, Doshi said Playground AI doesn’t “support the use-case of AI photo avatars” and that it “definitely can’t preserve identity of a face and restylize it or fit it into another scene like” Wang had hoped.
+
+Reached by email, Doshi declined to be interviewed.
+
+Instead, he replied to a list of questions with a question of his own: “If I roll a dice just once and get the number 1, does that mean I will always get the number one? Should I conclude based on a single observation that the dice is biased to the number 1 and was trained to be predisposed to rolling a 1?”
+
+Advertisement:
+
+Wang said she hopes her experience serves as a reminder that even though AI tools are becoming increasingly popular, it would be wise for people to tread carefully when using them.
+
+“There is a culture of some people really putting a lot of trust in AI and relying on it,” she said. “So I think it’s great to get people thinking about this, especially people who might have thought AI bias was a thing of the past.”

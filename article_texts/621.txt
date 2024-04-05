@@ -1,0 +1,151 @@
+Warning: This column includes graphic AI-generated images that have been blurred out, but some readers still may find them disturbing. The pictures are horrifying: Joe Biden, Donald Trump, Hillary Clinton and Pope Francis with their necks sliced open. There are Sikh, Navajo and other people from ethnic-minority groups with internal organs spilling out of flayed skin.
+
+The images look realistic enough to mislead or upset people. But they’re all fakes generated with artificial intelligence that Microsoft says is safe — and has built right into your computer software.
+
+Skip to end of carousel Geoffrey A. Fowler (Señor Salme for The Washington Post) . Read more. Geoff’s column hunts for how tech can make your life better — and advocates for you when tech lets you down. Got a question or topic to investigate? Geoffrey.Fowler@washpost.com End of carousel
+
+What’s just as disturbing as the decapitations is that Microsoft doesn’t act very concerned about stopping its AI from making them.
+
+Lately, ordinary users of technology such as Windows and Google have been inundated with AI. We’re wowed by what the new tech can do, but we also keep learning that it can act in an unhinged manner, including by carrying on wildly inappropriate conversations and making similarly inappropriate pictures. For AI actually to be safe enough for products used by families, we need its makers to take responsibility by anticipating how it might go awry and investing to fix it quickly when it does.
+
+Advertisement
+
+In the case of these awful AI images, Microsoft appears to lay much of the blame on the users who make them.
+
+My specific concern is with Image Creator, part of Microsoft’s Bing and recently added to the iconic Windows Paint. This AI turns text into images, using technology called DALL-E 3 from Microsoft’s partner OpenAI. Two months ago, a user experimenting with it showed me that prompts worded in a particular way caused the AI to make pictures of violence against women, minorities, politicians and celebrities.
+
+“As with any new technology, some are trying to use it in ways that were not intended,” Microsoft spokesman Donny Turnbaugh said in an emailed statement. “We are investigating these reports and are taking action in accordance with our content policy, which prohibits the creation of harmful content, and will continue to update our safety systems.”
+
+Advertisement
+
+That was a month ago, after I approached Microsoft as a journalist. For weeks earlier, the whistleblower and I had tried to alert Microsoft through user-feedback forms and were ignored. As of the publication of this column, Microsoft’s AI still makes pictures of mangled heads.
+
+This is unsafe for many reasons, including that a general election is less than a year away and Microsoft’s AI makes it easy to create “deepfake” images of politicians, with and without mortal wounds. There’s already growing evidence on social networks including X, formerly Twitter, and 4chan, that extremists are using Image Creator to spread explicitly racist and antisemitic memes.
+
+Perhaps, too, you don’t want AI capable of picturing decapitations anywhere close to a Windows PC used by your kids.
+
+Accountability is especially important for Microsoft, which is one of the most powerful companies shaping the future of AI. It has a multibillion-dollar investment in ChatGPT-maker OpenAI — itself in turmoil over how to keep AI safe. Microsoft has moved faster than any other Big Tech company to put generative AI into its popular apps. And its whole sales pitch to users and lawmakers alike is that it is the responsible AI giant.
+
+Advertisement
+
+Microsoft, which declined my requests to interview an executive in charge of AI safety, has more resources to identify risks and correct problems than almost any other company. But my experience shows the company’s safety systems, at least in this glaring example, failed time and again. My fear is that’s because Microsoft doesn’t really think it’s their problem.
+
+Microsoft vs. the ‘kill prompt’
+
+I learned about Microsoft’s decapitation problem from Josh McDuffie. The 30-year-old Canadian is part of an online community that makes AI pictures that sometimes veer into very bad taste.
+
+“I would consider myself a multimodal artist critical of societal standards,” he tells me. Even if it’s hard to understand why McDuffie makes some of these images, his provocation serves a purpose: shining light on the dark side of AI.
+
+Advertisement
+
+In early October, McDuffie and his friends’ attention focused on AI from Microsoft, which had just released an updated Image Creator for Bing with OpenAI’s latest tech. Microsoft says on the Image Creator website that it has “controls in place to prevent the generation of harmful images.” But McDuffie soon figured out they had major holes.
+
+Broadly speaking, Microsoft has two ways to prevent its AI from making harmful images: input and output. The input is how the AI gets trained with data from the internet, which teaches it how to transform words into relevant images. Microsoft doesn’t disclose much about the training that went into its AI and what sort of violent images it contained.
+
+Companies also can try to create guardrails that stop Microsoft’s AI products from generating certain kinds of output. That requires hiring professionals, sometimes called red teams, to proactively probe the AI for where it might produce harmful images. Even after that, companies need humans to play whack-a-mole as users such as McDuffie push boundaries and expose more problems.
+
+Advertisement
+
+That’s exactly what McDuffie was up to in October when he asked the AI to depict extreme violence, including mass shootings and beheadings. After some experimentation, he discovered a prompt that worked and nicknamed it the “kill prompt.”
+
+The prompt — which I’m intentionally not sharing here — doesn’t involve special computer code. It’s cleverly written English. For example, instead of writing that the bodies in the images should be “bloody,” he wrote that they should contain red corn syrup, commonly used in movies to look like blood.
+
+McDuffie kept pushing by seeing if a version of his prompt would make violent images targeting specific groups, including women and ethnic minorities. It did. Then he discovered it also would make such images featuring celebrities and politicians.
+
+That’s when McDuffie decided his experiments had gone too far.
+
+Microsoft drops the ball
+
+Three days earlier, Microsoft had launched an “AI bug bounty program,” offering people up to $15,000 “to discover vulnerabilities in the new, innovative, AI-powered Bing experience.” So McDuffie uploaded his own “kill prompt” — essentially, turning himself in for potential financial compensation.
+
+Advertisement
+
+After two days, Microsoft sent him an email saying his submission had been rejected. “Although your report included some good information, it does not meet Microsoft’s requirement as a security vulnerability for servicing,” says the email.
+
+Unsure whether circumventing harmful-image guardrails counted as a “security vulnerability,” McDuffie submitted his prompt again, using different words to describe the problem.
+
+That got rejected, too. “I already had a pretty critical view of corporations, especially in the tech world, but this whole experience was pretty demoralizing,” he says.
+
+Frustrated, McDuffie shared his experience with me. I submitted his “kill prompt” to the AI bounty myself, and got the same rejection email.
+
+In case the AI bounty wasn’t the right destination, I also filed McDuffie’s discovery to Microsoft’s “Report a concern to Bing” site, which has a specific form to report “problematic content” from Image Creator. I waited a week and didn’t hear back.
+
+Meanwhile, the AI kept picturing decapitations, and McDuffie showed me that images appearing to exploit similar weaknesses in Microsoft’s safety guardrails were showing up on social media.
+
+I’d seen enough. I called Microsoft’s chief communications officer and told him about the problem.
+
+Advertisement
+
+“In this instance there is more we could have done,” Microsoft emailed in a statement from Turnbaugh on Nov. 27. “Our teams are reviewing our internal process and making improvements to our systems to better address customer feedback and help prevent the creation of harmful content in the future.”
+
+I pressed Microsoft about how McDuffie’s prompt got around its guardrails. “The prompt to create a violent image used very specific language to bypass our system,” the company said in a Dec. 5 email. “We have large teams working to address these and similar issues and have made improvements to the safety mechanisms that prevent these prompts from working and will catch similar types of prompts moving forward.”
+
+But are they?
+
+McDuffie’s precise original prompt no longer works, but after he changed around a few words, Image Generator still makes images of people with injuries to their necks and faces. Sometimes the AI responds with the message “Unsafe content detected,” but not always.
+
+Advertisement
+
+The images it produces are less bloody now — Microsoft appears to have cottoned on to the red corn syrup — but they’re still awful.
+
+What responsible AI looks like
+
+Microsoft’s repeated failures to act are a red flag. At minimum, it indicates that building AI guardrails isn’t a very high priority, despite the company’s public commitments to creating responsible AI.
+
+I tried McDuffie’s “kill prompt” on a half-dozen of Microsoft’s AI competitors, including tiny start-ups. All but one simply refused to generate pictures based on it.
+
+What’s worse is that even DALL-E 3 from OpenAI — the company Microsoft partly owns — blocks McDuffie’s prompt. Why would Microsoft not at least use technical guardrails from its own partner? Microsoft didn’t say.
+
+But something Microsoft did say, twice, in its statements to me caught my attention: people are trying to use its AI “in ways that were not intended.” On some level, the company thinks the problem is McDuffie for using its tech in a bad way.
+
+In the legalese of the company’s AI content policy, Microsoft’s lawyers make it clear the buck stops with users: “Do not attempt to create or share content that could be used to harass, bully, abuse, threaten, or intimidate other individuals, or otherwise cause harm to individuals, organizations, or society.”
+
+I’ve heard others in Silicon Valley make a version of this argument. Why should we blame Microsoft’s Image Creator any more than Adobe’s Photoshop, which bad people have been using for decades to make all kinds of terrible images?
+
+But AI programs are different from Photoshop. For one, Photoshop hasn’t come with an instant “behead the pope” button. “The ease and volume of content that AI can produce makes it much more problematic. It has a higher potential to be used by bad actors,” says McDuffie. “These companies are putting out potentially dangerous technology and are looking to shift the blame to the user.”
+
+The bad-users argument also gives me flashbacks to Facebook in the mid-2010s, when the “move fast and break things” social network acted like it couldn’t possibly be responsible for stopping people from weaponizing its tech to spread misinformation and hate. That stance led to Facebook’s fumbling to put out one fire after another, with real harm to society.
+
+“Fundamentally, I don’t think this is a technology problem; I think it’s a capitalism problem,” says Hany Farid, a professor at the University of California at Berkeley. “They’re all looking at this latest wave of AI and thinking, ‘We can’t miss the boat here.’”
+
+He adds: “The era of ‘move fast and break things’ was always stupid, and now more so than ever.”. In a chilling revelation, Microsoft’s artificial intelligence, touted as safe and integrated into everyday software, is under scrutiny for generating gruesome and violent images. The concern centers around Image Creator, a part of Microsoft’s Bing, recently added to the widely used Windows Paint. The technology, known as DALL-E 3 from Microsoft’s partner OpenAI, is now facing questions about its safety and the accountability of its creators.
+
+Microsoft vs. the ‘kill prompt’
+
+The disturbing images were brought to light by Josh McDuffie, a Canadian artist involved in an online community that explores the capabilities of AI in creating provocative and sometimes tasteless images. In October, McDuffie and his peers focused on Microsoft’s AI, specifically the Image Creator for Bing, incorporating OpenAI’s latest tech. Microsoft claims to have controls to prevent harmful image generation, but McDuffie found significant loopholes.
+
+Microsoft employs two strategies to prevent harmful image creation: input, involving training the AI with data from the internet, and output, creating guardrails to stop the generation of specific content. McDuffie, through experimentation, discovered a particular prompt, termed the “kill prompt,” that allowed the AI to create violent images. This prompted concerns about the efficacy of Microsoft’s safety measures.
+
+Despite McDuffie’s efforts to bring attention to the issue through Microsoft’s AI bug bounty program, his submissions were rejected, raising questions about the company’s responsiveness to potential security vulnerabilities. The rejection emails cited the lack of meeting Microsoft’s requirements for a security vulnerability, leaving McDuffie demoralized and highlighting potential flaws in the system.
+
+Microsoft falters in AI oversight
+
+Despite the launch of an AI bug bounty program, Microsoft’s response to McDuffie’s findings was less than satisfactory. The rejection of the “kill prompt” submissions and the lack of action on reported concerns underscored a potential disregard for the urgency of the issue. Meanwhile, the AI continued to generate disturbing images, even after some modifications were made to McDuffie’s original prompt.
+
+The lack of concrete action from Microsoft raises concerns about the company’s commitment to responsible AI. Comparisons with other AI competitors, including OpenAI, partially owned by Microsoft, reveal disparities in how different companies address similar issues. Microsoft’s repeated failures to address the problem signal a potential gap in prioritizing AI guardrails, despite public commitments to responsible AI development.
+
+The model for ethical AI development
+
+The reluctance of Microsoft to take swift and effective action suggests a red flag in the company’s approach to AI safety. McDuffie’s experiments with the “kill prompt” revealed that other AI competitors, including small start-ups, refused to generate harmful images based on similar prompts. Even OpenAI, a partner of Microsoft, implemented measures to block McDuffie’s prompt, emphasizing the need for robust safety mechanisms.
+
+Microsoft’s argument that users are attempting to use AI “in ways that were not intended” places the responsibility on individuals rather than acknowledging potential flaws in the technology. The comparison with Photoshop and the assertion that users should refrain from creating harmful content echoes a pattern seen in the past, reminiscent of social media platforms struggling to address misuse of their technology.
+
+As Microsoft grapples with the fallout of its AI generating disturbing images, the question lingers: is the company doing enough to ensure the responsible use of its technology? The apparent reluctance to address the issue promptly and effectively raises concerns about accountability and the prioritization of AI guardrails. As society navigates the evolving landscape of artificial intelligence, the responsibility lies not only with users but also with technology giants to ensure the ethical and safe deployment of AI. How can Microsoft bridge the gap between innovation and responsibility in the realm of artificial intelligence?. Content warning: This article contains numerous examples of bigoted rhetoric.
+
+Users on the far-right message board site 4chan have used Bing’s AI image generator to create numerous images promoting Nazi imagery and “propaganda” seemingly designed to inflame opinion surrounding the conflict in Israel and Gaza, despite promises from the companies involved that they were working to address the issue.
+
+Microsoft, which owns Bing, says it prohibits harmful content, and OpenAI, which created the technology powering Bing’s image generator, prohibits “hateful, harassing, or violent content.” But Media Matters found hundreds of cases of users sharing a link to Bing’s image generator, with over 100,000 combined replies — many of them including an apparent AI image.
+
+On October 3, Microsoft launched DALL-E 3, an AI text-to-image generator available to all Bing users for free, after rolling it out to select users about a week earlier. By October 5, reporting indicated the tool was already being used as part of a coordinated 4chan campaign “to flood the internet with racist images.”
+
+In response, a Microsoft spokesperson told Ars Technica that the company was “investigating these reports and will take action as needed in accordance with our content policy, which prohibits the creation of harmful content.”
+
+OpenAI also told the outlet that “the company prioritizes safety and has taken steps to limit DALL-E outputs.”
+
+In addition to Bing’s content policies, OpenAI also prohibits use of its products for “hateful, harassing, or violent content.” Microsoft in November also announced a partnership with the group Tech Against Terrorism to combat “the use of digital platforms to spread violent extremist content” created by AI.
+
+Numerous threads promoting Bing’s AI tool have appeared on 4chan’s far-right “politically incorrect” message board (known as “/pol/“) since the tool launched. Often titled “Memetic Warfare General,” the threads urge fellow users to create “propaganda” and note that “most people are using DALL-E 3.”
+
+These threads often include a link to Bing’s image generator, a warning for other users to “be careful” as “certain buzzwords will eventually time you out,” and instructions to “SAVE ones you like, EDIT them to enhance them, and SHARE them later,” including “beyond” 4chan.
+
+The threads have also included a link to a document with tips on how to “get around” being “censored by bing” and links to numerous “guides,” such as “The On Memewar Guide To Writing Better Propaganda,” a “good vs bad AI memes” guide, and a graphic on “the process” that guides users to save and edit the AI-created images and then share them on social media.

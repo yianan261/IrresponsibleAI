@@ -4,3 +4,4 @@ views/
 processed_results.json
 views.zip
 __pycache__/
+.venv

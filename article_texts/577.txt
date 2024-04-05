@@ -1,0 +1,55 @@
+The finance site Bankrate has started publishing AI-generated articles again, and it insists that this time they've been meticulously fact-checked by a human journalist before being published.
+
+"This article was generated using automation technology and thoroughly edited and fact-checked by an editor on our editorial staff," reads a message at the bottom of the new AI articles, while a separate assurance claims that a "dedicated team of Bankrate editors" work to "thoroughly edit and fact-check the content, ensuring that the information is accurate, authoritative and helpful to our audience."
+
+It would make sense for the site's leadership to be deeply concerned with getting every detail right.
+
+After Bankrate and its sister site CNET first started publishing AI-generated articles late last year, Futurism found that the articles were riddled with factual errors and even seemingly plagiarized material. The Washington Post called the affair a "journalistic disaster," and the LA Times quipped that the AI's behavior would "get a human student expelled or a journalist fired." CNET and Bankrate — both owned by a media company called Red Ventures, reportedly worth billions of dollars — paused the publication of AI content indefinitely following the dustup.
+
+Until now, at least. With no fanfare, last week Bankrate quietly started posting new AI-generated articles once again — which it described in a disclaimer as "maintained by an in-house natural language generation platform using industry-standard databases" — suggesting that CNET could soon restart the program as well.
+
+The new articles' topics are mundane and clearly designed to capture readers searching Google for information, with titles like "Documents needed for mortgage preapproval" and "Best places to live in Colorado in 2023."
+
+With so many eyes on the company's use of AI, you would expect that these first few new AI articles — at the very least — would be thoroughly scrutinized internally before publication. Instead, a basic examination reveals that the company's AI is still making rudimentary mistakes, and that its human staff, nevermind the executives pushing the use of AI, are still not catching them before they end up in front of unsuspecting readers.
+
+For example, consider that article about the best places to live in Colorado. It's extremely easy to fact-check the AI's claims, because the piece prominently features a link to a "methodology" page — evidently intended to bolster the site's position in search engine results by signaling to entities like Google's web crawler that its information is accurate — that documents precisely where the site is supposedly sourcing the data in its "Best places to live" articles.
+
+Comparing the AI's claims to that publicly-available data, here are some of the mistakes it made:
+
+-It claimed that Boulder's median home price is $1,075,000. In reality, according to the Redfin data that Bankrate cites, the actual figure is more than a quarter million dollars lower, at around $764,000.
+
+-It claimed that Boulder's average salary is $79,649. In reality, the Department of Commerce data it cites shows that the most recent figure is ten thousand dollars higher, at $89,593.
+
+-It claimed that Boulder's unemployment rate is 3.1 percent. In actuality, according to the Bureau of Labor Statistics data it cites, the actual figure is 2.5 percent.
+
+-It claimed that Boulder's total workers year-over-year had increased by 5.3 percent. The real figure, according to the Bureau of Labor Statistics data it cites, is 0.6 percent.
+
+-It claimed that Boulder's "well-being" score, as evaluated by a company called Sharecare, is 67.6. According to Sharecare's actual data, the score it assigned is 74.
+
+In total, a surface-level fact-check shows that an overwhelming proportion of claims that Bankrate's AI made about Colorado were false.
+
+In response to questions about the errors, Bankrate deleted the article — though it's archived here — and issued a statement in which a spokesperson defended the AI and blamed the errors on out-of-date data.
+
+"While some of the text in this article was created using an AI-assist tool, the errors noted were at the point of data collection and retrieval, not the generative AI-assist tooling," she said. "That data was pulled from a non-AI internal database last year."
+
+Remember, the same data they're now blaming is what they described in the article's disclaimer as an "industry-standard database."
+
+"Our editor confirmed the data points against the source material that was provided," she continued. "The editor is not at fault for the publishing error. The issue was with an out of date dataset that was pulled for this article."
+
+It's worth pointing out that the spokesperson's timeline — that the article data was "pulled" last year — doesn't make very much sense. According to a backup of the "Best places to live in Colorado" article on the Internet Archive, as recently as last month the piece still carried a human byline and didn't contain a single one of the errors we identified. In fact, it didn't even include Boulder as one of its recommended places to live, suggesting that its inclusion was based on inaccurate data.
+
+The spokesperson's response to a followup question about that discrepancy did little to clarify the situation.
+
+"We often update existing articles to ensure the information is relevant to our audience," she wrote. "In this particular example, as we were updating the article, we wanted to take a more data-driven approach to our list, but we unfortunately pulled from an outdated data set."
+
+Asked why the site would be running articles in June of 2023 based on data from the previous year, the spokesperson had no reply.
+
+Regardless, the spokesperson pledged that the company would soon continue publishing similar content.
+
+"We have removed the article and will update it with the most recent data," she said. "Going forward, we will ensure that all data studies include the date range of when the data was gathered."
+
+Overall, it feels like one more installment in a familiar pattern: publishers push their newsrooms to post hastily AI-generated articles with no serious fact-checking, in a bid to attract readers from Google without making sure they're being provided with accurate information. Called out for easily-avoidable mistakes, the company mumbles an excuse, waits for the outrage to die down, and then tries again.
+
+Asked whether anyone from the leadership at Red Ventures was willing to go on record to defend the company's track record publishing AI-generated content, the spokesperson had no response.
+
+More on AI: Leaked Messages Show How CNET's Parent Company Really Sees AI-Generated Content

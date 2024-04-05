@@ -1,7 +1,7 @@
 from .taxonomies import Taxonomies
 from .results import *
 
-taxanomy = '''
+taxanomy = """
 {
                     "Discrimination": {
                         "Data bias": [
@@ -36,10 +36,11 @@ taxanomy = '''
                     "Other": {}
                     }
 
-'''
+"""
 structure = "{ <class>: {<subclass>:{[<sub-subclass>]}} }"
 
-def get_prompt(article_text,prompt_type):
+
+def get_prompt(article_text, prompt_type):
     taxa = Taxonomies()
     if prompt_type == "zero_shot":
         return f"""
@@ -53,7 +54,7 @@ def get_prompt(article_text,prompt_type):
         - Company (i.e. the company that developed the technology involved in this incident):
         - Company city (the city where the headquarters of this company is located. If the company recently moved headquarters, please use the location of the new headquarter):
         - Company state (the state of the company city, if applicable, if not leave blank):
-        - Affected population (e.g.{taxa.population_examples},let's think about who are the affected demographic and which people are affected, it need not necessarily be from this list): 
+        - Affected population (let's think about who are the affected demographic and which people are affected, it need not necessarily be from this list): 
         - Number of people actually affected (let's check the number of people directly affected according to the article. Give a total number. If unknown output 'Unknown'):
         - Number of people potentially affected (let's check the article text to see if this information is provided or suggested, if not you may ouput 'Unknown'):
         - Classes of irresponsible AI use (please follow the rules and refer to this taxonomy: 
@@ -72,7 +73,7 @@ def get_prompt(article_text,prompt_type):
         Rule2: DO NOT ADD OR CREATE sub-subclass fields that are not in the provided taxonomy list. 
         Rule3: If a subclass in the taxonomy does not have a sub-subclass, leave it.
         Rule4: If none of the subclasses have sub-subclasses, just leave the field empty e.g. sub-subclass:[]
-        - Area of AI Application (e.g. content filtering, surveillance, illness prediction):
+        - Area of AI Application:
         - Online (yes or no):
 
         Article Content:
@@ -106,7 +107,7 @@ def get_prompt(article_text,prompt_type):
         {article_text}
         ================== End of Article Content =================
         """
-    
+
     elif prompt_type == "taxonomy_string":
         return f"""
         Imagine a computer research institute trying to categorize a list of incidents of irresponsible use of artificial intelligence technology.    
@@ -573,9 +574,11 @@ def get_prompt(article_text,prompt_type):
 
         return your classification output in JSON.
         """
-def get_prompt_for_check(article_text,result):
+
+
+def get_prompt_for_check(article_text, result):
     taxa = Taxonomies()
-    
+
     return f"""
             Check if this classification for the following article makes sense:
             Step 1: Read the article

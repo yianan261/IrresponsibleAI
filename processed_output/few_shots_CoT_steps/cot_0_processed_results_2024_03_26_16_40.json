@@ -1,0 +1,23 @@
+{
+    "0": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Not specified",
+        "Company city": "Not specified",
+        "Company state": "",
+        "Affected population": "Global Population",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Environmental Impact"
+        ],
+        "Subclasses": {
+            "Environmental Impact": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "General AI development and application",
+        "Online": "yes"
+    }
+}

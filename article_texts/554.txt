@@ -1,0 +1,31 @@
+For the second time in just one month, Google's search engine has allowed an AI-generated fake of a famous artist's work to rise to the top of its search results.
+
+Earlier this May, we reported that when Google users searched for the iconic American realist artist "Edward Hopper," the search engine's top result was an AI-generated knockoff in the style of the American painter. Google fixed the issue — but not before the phony Hopper had become the featured image in its overview of the artist and his work.
+
+Now, just a few weeks later, it's happened again with a different artist. Google the Dutch baroque master "Johannes Vermeer" — no mention of AI, no mention of a specific painting — and you'll be met with an AI-produced rendition of the painter's classic "Girl with a Pearl Earring" as the top result.
+
+And yes, just like the fake Hopper, the AI-generated Vermeer — first spotted by a sharp-eyed art fan — currently sits as the featured image in the Google overview. Here's what it looks like:
+
+That big, featured portrait is definitely not a real Vermeer, and has telltale characteristics that give away it's AI-produced instead. It's rendered in the same generic hyperrealism that's become to be ubiquitous among AI-generated portraits, for one thing, and there's also the fact that the girl's famous earrings are glowing like tiny electric lamps that illuminate the sides of her face. Vermeer's painting dates back to 1665; the lightbulb wasn't invented until more than two centuries later (and cordless light-up earrings, we would imagine, would have cropped up many decades after that.)
+
+Appearance aside, though, the fact that the image is AI-generated becomes abundantly and overtly clear the second that you actually click the linked article: a March blog post from art and culture outlet Hyperallergic titled "Museum Under Fire for Showing AI Version of Vermeer Masterpiece."
+
+The real "Girl with a Pear Earring" normally hangs in the Netherlands' Mauritshuis Museum, but has been on loan throughout the spring for a Vermeer retrospective. In the meantime, the Mauritshuis Museum decided to hang several fan-created versions of the historic painting in its place. The AI-made, earlamp-heavy rendition in question, by AI artist Julian van Dieken, was one of the four winners chosen from over 3,500 submissions — a decision that sparked controversy among the art community, with some saying the AI generation was an "insult" to Vermeer's legacy.
+
+Once again, however, Google's algorithms failed to recognize any of that contextual nuance.
+
+And frankly, its errors the second time around seem a bit more egregious. The phony Hopper painting that the search giant had previously featured was an entirely made-up work, crafted in the style of the real Hopper and listed on a third-party website; it took an extra click or two, however, to firmly establish that it was created using AI. In Vermeer's case, though, Google took an article that accurately reported that the painting was AI-generated and gave users the exact opposite takeaway.
+
+To understand how badly that phenomenon undermines the way information is shared online, remember that not everyone is equipped with the art history knowledge to know what the real "Girl with a Pearl Earring" looks like. Many people searching a painter's name are likely students or people with no familiarity, and many are likely taking Google's featured info at face value.
+
+"On Google Search, we build our systems to show helpful and high quality information, while giving users the tools that they need to make sense of what they find online," a Google spokeperson told us. "We’re rolling out new tools to help people quickly and easily assess the context and credibility of images, including our About this image tool as well as markup-based image labels for AI-generated images. Given the scale of the open web, however, it’s possible that our systems might not always select the best images regardless of how those images are produced, AI-generated or not."
+
+The trend could also likely be a sign of things to come. Synthetic content is bound to proliferate from here, likely at an astonishing scale. Dieken, the AI artist who made the fake Vermeer, never tried to pass the image off as a real Vermeer — and yet, because of Google's mistake, people looking for info on art history were left with the impression that it was. If this early into the introduction of publicly-available generative AI systems, Google's existing algorithms can't determine that this image was in fact AI-generated — well, that doesn't bode well for our information ecosystem's near future.
+
+It's all pretty bleak, especially considering how eager Google — along with the likes of search giant Microsoft, Silicon Valley darling OpenAI, and others – is to push its own new generative AI products to market.
+
+In any case, if art fans thought that just the existence of the AI-generated Vermeer was an affront to the 17th Century great, just wait until they get a load of this.
+
+Updated with comment from a Google spokesperson.
+
+More on Google: Top Google Result for "Edward Hopper" an AI-Generated Fake

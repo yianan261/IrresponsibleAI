@@ -1,0 +1,23 @@
+Thanks to Angelo Aimar for collaborating on this article
+
+On February 2, 2023, the Italian Data Protection Authority (“Garante”) issued an urgent order blocking the AI-powered chatbot Replika from processing the personal data of Italian users because it poses risks to minors and vulnerable people and is not in compliance with Article 13 of Regulation 679/2016 (General Data Protection Regulation, or “GDPR”).
+
+Replika is a “virtual friend”: through voice and text users can configure it to function and interact as a friend, romantic partner, or mentor. The AI-powered chatbot simulates human behavior and, through its algorithm, learns from users’ interactions to offer empathetic companionship, emotional support, comfort, and help with anxiety or socialization issues.
+
+According to the Garante, although Replika is pitched as improving users’ wellbeing by helping them understand and manage their emotions, it also has impact on users’ state of mind, which means it could pose a risk for individuals still in the developmental stages or in emotionally fragile states.
+
+The Garante noted that Replika lacks mechanisms sufficient to verify the ages of users creating accounts—the software merely requires users to indicate their names, email addresses, and genders. Furthermore, tests conducted showed that even when Replika was fed an explicit statement that a user was a minor, no blocking system was triggered to prevent further interaction between the user and the chatbot. As a result, a minor user could be provided inappropriate replies, including sex-related content that should not be made available to minors or to vulnerable individuals in general.
+
+The Garante acknowledged that Replika’s terms and conditions for use state that users under 13 are prohibited from using the software and that a minor under 18 years of age must have prior authorization from a parent or guardian to use it. The privacy policy also states that the service provider does not collect personal data from minors under 13 years of age and encourages parents to monitor their children’s Internet use, inviting them to contact the platform to delete any children’s data. However, the Garante considered these measures insufficient, and it noted that Replika did not provide an adequate procedure for verifying users’ ages.
+
+Moreover, the Garante stressed that Replika’s privacy policy was in violation of the transparency principles and obligations set out in the GDPR, as it did not disclose the key elements of the processing performed. In particular, the Garante noted that processing could not be based on a contract, especially considering that minors are incapable of entering into contracts in the first place.
+
+For these reasons, the Garante issued an urgent order limiting Replika’s processing of personal data of users in Italian territory. The U.S.-based controller now has 20 days to report on the measures adopted to comply with the Garante’s requests. The company may also challenge the decision before the appropriate court within 60 days, pursuant to Article 78 GDPR.
+
+This is the second urgent order issued by the Garante in relation to the protection of minors in a digital environment. It again confirms that the Garante is paying extremely close attention to protecting vulnerable individuals online, in part by requiring effective age verification systems.[1]
+
+The full decision is available (in English and Italian) here.
+
+[1]here.
+
+See Order No. 9524194 of January 2021 which immediately restricted processing performed by TikTok with regard to the data of users whose age could not be established with certainty, available

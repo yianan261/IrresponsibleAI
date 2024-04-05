@@ -1,0 +1,105 @@
+The startup behind the “world’s first robot lawyer,” DoNotPay, is gearing up for one of its first big court battles . And this time it probably can’t just back out of the case, as DoNotPay is the defendant. The company is facing a class action lawsuit over allegations that it misled customers and misrepresented its product.
+
+
+
+The FTC Just Prescribed a Can of Whoop Ass on Health Data CC Share Subtitles Off
+
+English view video The FTC Just Prescribed a Can of Whoop Ass on Health Data
+
+In the complaint (embedded below) filed March 3 in a San Francisco court and published Thursday, the plaintiff’s legal team claims that DoNotPay’s description of itself as the “world’s first robot lawyer” is incorrect and unlawful. Further it alleges that the company’s self-billing and lofty promises led its customers to believe they were receiving high quality legal advice and documents when they weren’t.
+
+Advertisement
+
+“Unfortunately for its customers, DoNotPay is not actually a robot, a lawyer, nor a law firm. DoNotPay does not have a law degree, is not barred in any jurisdiction, and is not supervised by any lawyer,” the suit reads. “DoNotPay is merely a website with a repository of—unfortunately, substandard—legal documents that at best fills in a legal adlib based on information input by customers,” it adds. The legal filing goes on to accuse the company of violating California code by “practicing law without a license.”
+
+Advertisement
+
+Among other things, the suit cites a DoNotPay customer review in which someone reportedly tried to use the service to dispute two parking tickets and ended up paying more money because the company didn’t respond to a summons. After trying to cancel their account, the customer was still charged a subscription fee by DoNotPay, per the lawsuit.
+
+Advertisement
+
+Though Gizmodo couldn’t immediately locate this particular review, the internet is chock-full of poor reviews of the startup that repeatedly reference challenges canceling subscriptions—which is deeply ironic considering one of the primary use cases the company has claimed for itself is in helping consumers navigate corporate bureaucracy to cancel subscriptions and get their money back.
+
+The lawsuit further goes into the specific case of primary plaintiff, Jonathan Faridian. It claims that Faridian used DoNotPay’s services up until January 2023 and found them severely lacking. The complaint alleges that, in at least one instance, DoNotPay failed to deliver demand letters to their intended recipients. It also states that, on several occasions, “documents Faridian purchased from DoNotPay were so poorly or inaccurately drafted that he could not even use them.”
+
+Advertisement
+
+DoNotPay is a company that’s made a name for itself on the internet for its claims of helping customers to get out of parking tickets, reclaim funds from cable companies, and manage other low-grade legal and consumer snafus—mostly by generating template based documents.
+
+Yet earlier this year, the company announced it was aiming higher than it had before with the help of OpenAI’s ChatGPT. DoNotPay claimed it was taking a pilot version of an AI-powered “robot lawyer” into the court room, to fight a speeding ticket charge before a judge. The company’s founder and CEO, Joshua Browder, also offered to pay $1 million to any lawyer willing to let its artificial intelligence argue a case before the U.S. Supreme Court. Neither the traffic court, nor the Supreme Court dreams panned out for DoNotPay, though. A bevvy of legal threats shut down Browder’s lofty goal of disrupting the legal industry.
+
+Advertisement
+
+Since then, the company and Browder have faced a wave of criticism, most prominently from those involved in the legal field, like paralegal Kathryn Tewson’s viral takedown. Tewson has also begun legal proceedings against Browder and DoNotPay, alleging fraud in a lawsuit filed to New York State’s Supreme Court in February.
+
+
+
+Back in January Browder subsequently announced DoNotPay would step back from its courtroom and lawyer-replacement goals (calling them “distractions”), and pivot its focus fully to consumer rights. Yet the company continues to bill itself the “world’s first robot lawyer,” on its website.
+
+In response to the class action suit CEO Browder, posted a lengthy Twitter thread criticizing the basis of the complaint and the law firm arguing the case against him. His thread mostly focuses in on Jay Edelson, the senior attorney on the case who is well-known for aggressively going after major tech companies like Google, Apple, and Amazon—and winning large settlements.
+
+Advertisement
+
+“Jay Edelson inspired me to start DoNotPay because he symbolizes everything wrong with the law,” Browder tweeted—citing a 2015 class action Facebook settlement in which Edelson’s firm earned $97.5 million while most people eligible for compensation who filled out the claim form got a few hundred bucks.
+
+Advertisement
+
+Granted, that payout to the law firm is a pretty standard 15% fee on a hefty $650 million settlement fund, per the U.S. Ninth Circuit Court of Appeals that rejected Facebook’s objections to the attorney fees in 2022.
+
+Browder’s tweets also critique Faridian as a plaintiff. According to Faridian’s LinkedIn profile, he is an entrepreneur who studied law at the American Heritage University School of Law. He also claims to be currently studying “law” at Purdue University’s online Concord Law School.
+
+Advertisement
+
+And it does seem a little odd that someone with a formal legal education would be using an online service to draft demand letters. Gizmodo reached out to Faridian’s legal team for more information, yet did not immediately receive a response. However, to CBS News, attorney Edelson said, “Jon is not a lawyer and has never held himself out as such. As his LinkedIn profile explained, he took classes in pursuit of a JD at American Heritage. We agree that the profile could have been clearer and Jon has updated it.”
+
+In addition to the tweet thread, Browder also shared the following statement with Gizmodo via text message:
+
+DoNotPay respectfully denies the false allegations. The named plaintiff has submitted dozens of successful cases to DoNotPay and the cases highlighted in this lawsuit are meritless. Furthermore, the case is being filed by a lawyer who has personally been paid hundreds of millions from class actions, so it’s unsurprising that he would accuse an AI of ‘unauthorized practice of law.’ We will defend ourselves vigorously.
+
+Advertisement
+
+Which brings us to the question of who is “we” and how, exactly, will DoNotPay opt to defend itself? Will the company lean on the established mores of the legal institution and hire a law firm, or will it be self-representing with a “robot”?
+
+Out of curiosity, I ran the company’s statement through a few different AI-generated content detectors, to get a sense of Browder’s strategy thus far. Most of them suggested the text was highly likely to have been written by a human (although in most cases I had to paste the statement more than once to meet the minimum word count). OpenAI’s own text classifier listed the statement (repeated 3x to meet the min) as “possibly AI-generated”. Though, no AI-detector is perfectly reliable.
+
+Advertisement
+
+Gizmodo also asked Browder directly if DoNotPay would be hiring a lawyer for its defense, or self-defending in court using the company’s own tools. In response, Browder declined to respond and said, “I apologize given the pending nature of the litigation I can’t comment further.” However, in his Thursday tweet thread, the CEO wrote, “We may even use our robot lawyer in the case.”
+
+Update 3/13/2023, 12:48 P.M. ET: This post has been updated with additional information about another, earlier lawsuit filed against DoNotPay.. "Robot lawyer" DoNotPay is headed back to court – and not to prove its merits as a legally inclined chatbot. It's being sued for practicing law in California without a license.
+
+In a lawsuit filed earlier this month but only released publicly late last week, DoNotPay customer Jonathan Faridian claimed that his experience with DoNotPay was anything but legally competent.
+
+"Unfortunately for its customers, DoNotPay is not actually a robot, a lawyer, nor a law firm. DoNotPay does not have a law degree, is not barred in any jurisdiction, and is not supervised by any lawyer," Faridian's lawyers wrote in their suit.
+
+The suit claims that Faridian was a paying DoNotPay customer, and used the site to draft demand letters, an independent contractor agreement, a pair of LLC operating agreements, and several court filings.
+
+Faridian's lawyers say he "believed he was purchasing legal documents and services that would be fit for use from a lawyer that was competent to provide them," but that's not what he allegedly received.
+
+Instead, demand letters weren't delivered, and one that was returned to his home address was "an otherwise-blank piece of paper with his name printed on it." The delays, his lawyers said, may result in his claims being time barred.
+
+Other documents were similarly a mess, the lawsuit claims, with one agency agreement containing inaccurately printed names and other errors that rendered the document "so poorly or inaccurately drafted that he could not even use them."
+
+"In the end, Faridian would not have paid to use DoNotPay's services had he known that DoNotPay was not actually a lawyer," his lawyers argued.
+
+The complaint included some other mentions of unhappy customers, such as one who had their "not at fault" plea changed by DoNotPay, resulting in them having to pay a fine they were trying to fight. Another DoNotPay customer alleged the company never responded to the summons he was trying to fight, leading to additional penalties.
+
+Faridian's lawyers are seeking a class action suit that would include all paying DoNotPay customers in the state of California. The suit is asking for "restitution of all amounts … paid to [DoNotPay] for its services" and other financial recompense.
+
+DoNotPay has 30 days from the date it was served a summons issued March 9 to respond to the complaint, and a case management session is scheduled for early August.
+
+The company sent us a statement: "DoNotPay respectfully denies the false allegations. The named plaintiff has submitted dozens of successful cases to DoNotPay and the cases highlighted in this lawsuit are meritless. Furthermore, the case is being filed by a lawyer who has personally been paid hundreds of millions from class actions, so it's unsurprising that he would accuse an AI of 'unauthorized practice of law.' We will defend ourselves vigorously."
+
+Park your robo-lawyer here
+
+AI language models like the one behind DoNotPay have become the hot new thing in tech recently. DoNotPay, founded in 2015 for the sole purpose of fighting parking tickets, has tried to ride that wave by proposing stunts like having a defendant use earbuds in court so the AI bot can listen and respond with legal arguments for them to regurgitate in real time.
+
+DoNotPay only managed to get its "world's first robot lawyer" to the concept stage, however. In late January, DoNotPay founder Joshua Browder claimed he was threatened with jail time by the California State Bar if DoNotPay tried to act as a lawyer in the courtroom.
+
+A cursory cast around the internet will return plenty of stories and video essays claiming DoNotPay doesn't keep up with timely deliveries (an issue serious enough to merit a link to its late delivery refunds page on its main site).
+
+For all its customer-level trouble, DoNotPay's biggest issue may not be the lawsuit – it could be the Federal Trade Commission, which last month said it planned to crack down on AI hype.
+
+FTC lawyer Michael Atleson said in an advisory that the FTC is in familiar territory when it comes to misleading marketing terms and their abuse – even if the industry has changed.
+
+"Marketers should know that – for FTC enforcement purposes – false or unsubstantiated claims about a product's efficacy are our bread and butter," said Atleson. Perhaps it's time for DoNotPay to ask itself how to draft a proper response to the feds before they come knocking. ®

@@ -1,0 +1,25 @@
+A ChatGPT bug found earlier this week also revealed user's payment information, says OpenAI.
+
+The AI chatbot was shut down on March 20, due to a bug that exposed titles and the first message of new conversations from active users' chat history to other users.
+
+Now, OpenAI has shared that even more private data from a small number of users was exposed.
+
+"In the hours before we took ChatGPT offline on Monday, it was possible for some users to see another active user’s first and last name, email address, payment address, the last four digits (only) of a credit card number, and credit card expiration date," said OpenAI. "Full credit card numbers were not exposed at any time."
+
+The hours OpenAI is referring to was a nine hour window before the bug was discovered. OpenAI reports that the payment-related information of 1.2 percent of ChatGPT Plus subscribers were exposed. Those users have been notified by OpenAI. Although, the announcement stipulated, the likelihood that other users actually saw this information is low. Between the hours of 1 a.m. PT and 10 a.m. PT, users would have had to open a ChatGPT Plus subscription confirmation email or navigated to the "Manage my subscription" page to view payment information.
+
+The bug has been patched and ChatGPT is up and running again with its user's chat history restored. But it's good to keep in mind that whatever you share with ChatGPT – or any place on the internet — is never 100 percent private.. ChatGPT's outage on Monday was a bit more problematic than it first appeared.
+
+According to Bloomberg, the AI chatbot was shut down due to a bug that exposed titles of users' chat histories to other users. The titles could be seen in the sidebar on the left, which typically shows user's chat history, but the details of users' conversations with ChatGPT were not visible.
+
+A Reddit user posted a screenshot of what the bug appeared like in their browser. Instead of their own chat history, the sidebar displayed the titles of someone else's ChatGPT sessions, and another user posted a similar screenshot. Similar reports were shared on Twitter.
+
+SEE ALSO: 10 of the best ChatGPT courses you can take for free this week
+
+An OpenAI spokesperson confirmed the news to Bloomberg and said that ChatGPT was temporarily disabled following reports on the bug. The issue was due to a bug in open-source software OpenAI was using, but the precise cause still hasn't been determined.
+
+ChatGPT went back online on Monday, but chat history isn't yet available. "We've fully restored ChatGPT service to all users. We're continuing to work to restore past conversation history to users," a notice on OpenAI's status dashboard said.
+
+Featured Video For You The robot that figured out how to open its own doors
+
+The issue was an unpleasant reminder that users should be careful with what they type into ChatGPT (or any similar service, for that matter). We've asked OpenAI about the incident and the steps the company plans to take in order to prevent such issues in the future, and will update this post when we hear back.

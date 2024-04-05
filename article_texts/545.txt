@@ -1,0 +1,1227 @@
+. . The idea behind a chatbot project funded by the National Eating Disorders Association was that technology could be unleashed to help people seeking guidance about eating behaviors, available around the clock.
+
+Their creation was named Tessa, and the organization invited people to chat with it in an Instagram post last year, describing it as “a wellness chatbot, helping you build resilience and self-awareness by introducing coping skills at your convenience.” In March, the organization said it would shut down a human-staffed helpline and let the bot stand on its own.
+
+But when Alexis Conason, a psychologist and eating disorder specialist, tested the chatbot, she found reason for concern.
+
+Dr. Conason told it that she had gained weight “and really hate my body,” specifying that she had “an eating disorder,” in a chat she shared on social media. Tessa still recommended the standard advice of noting “the number of calories” and adopting a “safe daily calorie deficit” — which, Dr. Conason said, is “problematic” advice for a person with an eating disorder.. Photo: Getty/Getty Images
+
+The rise of AI has introduced an increasing number of human dupes, from generating diverse models to creating boyfriends who don’t age or cheat. By all means, date your computer, but maybe we should think twice before putting chatbots in charge of crisis hotlines? Case in point: The National Eating Disorders Association (NEDA) disabled its new helpline chatbot “Tessa” after it gave users with eating disorders advice about restricting calories and pinching their skin folds to measure fat. “It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positive program, may have given information that was harmful,” the organization wrote on Instagram on Tuesday, adding that an investigation is underway.
+
+The decision to pull Tessa — which had only been installed for a week — was prompted by users posting screenshots and reviews of chats they had with the bot. Psychologist and eating-disorder specialist Dr. Alexis Conason shared screenshots of Tessa advising her on how to achieve a “safe daily calorie deficit” for weight loss. Weight-inclusive consultant Sharon Maxwell said Tessa told her to measure herself weekly and to use calipers to determine her body composition, even after she told the bot she suffered from an ED. “If I had accessed this chatbot when I was in the throes of my eating disorder, I would NOT have gotten help,” Maxwell wrote. “If I had not gotten help, I would not still be alive today.”
+
+Eating disorders have risen exponentially since the beginning of the pandemic; NPR reports that almost 70,000 people reached out to NEDA’s human helpline last year, often dialing in with “crisis type” calls involving reports of child abuse and suicidal thoughts in addition to disordered eating. Last month, NEDA announced its decision to replace human helpline staff with the chatbot after staffers and volunteers — many of whom expressed overwhelming feelings of burnout and a lack of organizational support — moved to unionize. NEDA defended its decision as a matter of liability: “Our volunteers are volunteers. They’re not professionals,” a NEDA representative told NPR about the pivot. “They don’t have crisis training. And we really can’t accept that kind of responsibility.”
+
+Responding to the Tessa backlash, NEDA CEO Liz Thompson told The Guardian that the organization is “concerned” and working with its technology and research teams to investigate the incidents further, adding that the language Tessa used is “against our policies and core beliefs as an eating disorder organization.” While the next phase of the helpline is unclear, experts have cautioned against replacing the human element of such a vulnerable service. “If I’m disclosing to you that I have an eating disorder, I’m not sure how I can get through lunch tomorrow, I don’t think most of the people who would be disclosing that would want to get a generic link,” Dr. Marzyeh Ghassemi, professor of machine learning and health at MIT, told NPR.
+
+Stay in touch. Get the Cut newsletter delivered daily Email This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Vox Media, LLC Terms and Privacy Notice By submitting your email, you agree to our Terms and Privacy Notice and to receive email correspondence from us.. The National Eating Disorder Association (Neda) has taken down an artificial intelligence chatbot, “Tessa”, after reports that the chatbot was providing harmful advice.
+
+Neda has been under criticism over the last few months after it fired four employees in March who worked for its helpline and had formed a union. The helpline allowed people to call, text or message volunteers who offered support and resources to those concerned about an eating disorder.
+
+Members of the union, Helpline Associates United, say they were fired days after their union election was certified. The union has filed unfair labor practice charges with the National Labor Relations Board.
+
+Tessa, which Neda claims was never meant to replace the helpline workers, almost immediately ran into problems.
+
+On Monday, activist Sharon Maxwell posted on Instagram that Tessa offered her “healthy eating tips” and advice on how to lose weight. The chatbot recommended a calorie deficit of 500 to 1,000 calories a day and weekly weighing and measuring to keep track of weight.
+
+“If I had accessed this chatbot when I was in the throes of my eating disorder, I would NOT have gotten help for my ED. If I had not gotten help, I would not still be alive today,” Maxwell wrote. “It is beyond time for Neda to step aside.”
+
+Neda itself has reported that those who diet moderately are five times more likely to develop an eating disorder, while those who restrict extremely are 18 times more likely to form a disorder.
+
+“It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positivity program, may have given information that was harmful and unrelated to the program,” Neda said in a public statement on Tuesday. “We are investigating this immediately and have taken down that program until further notice for a complete investigation.”
+
+In a 4 May blogpost, former helpline employee Abbie Harper said the helpline had seen a 107% increase in calls and messages since the start of the pandemic. Reports of suicidal thoughts, self-harm and child abuse and neglect nearly tripled. The union, Harper wrote, “asked for adequate staffing and ongoing training to keep up with the needs of the hotline”.
+
+“We didn’t even ask for more money,” Harper wrote. “Some of us have personally recovered from eating disorders and bring that invaluable experience to our work. All of us came to this job because of our passion for eating disorders and mental health advocacy and our desire to make a difference.”
+
+Lauren Smolar, a vice-president at Neda, told NPR in May that the influx of calls reporting serious mental health crises had presented a legal liability to the organization.
+
+“Our volunteers are volunteers. They’re not professionals. They don’t have crisis training. And we really can’t accept that kind of responsibility. We really need them to go to those services who are appropriate,” she said.
+
+Neda worked with psychology researchers and Cass AI, a company that develops AI chatbots focused on mental health, to develop the chatbot. In a post on Neda’s website about the chatbot that has since been taken down, Ellen Fitzsimmons-Craft, a psychologist at Washington University in St Louis who helped develop the chatbot, said that “Tessa” was thought up as a solution to make eating disorder prevention more widely available.
+
+“Programs that require human time and resources to implement them are difficult to scale, particularly in our current environment in the US where there is limited investment in prevention,” Fitzsimmons-Craft wrote, adding that the support of a human coach has shown to make prevention more effective. “Even though the chatbot was a robot, we thought she could provide some of that motivation, feedback and support … and maybe even deliver our effective program content in a way that would make people really want to engage.”
+
+In a statement to the Guardian, Neda’s CEO, Liz Thompson, said that the chatbot was not meant to replace the helpline but was rather created as a separate program. Thompson clarified that the chatbot is not run by ChatGPT and is “not a highly functional AI system”.
+
+“We had business reasons for closing the helpline and had been in the process of that evaluation for three years,” Thompson said. “A chatbot, even a highly intuitive program, cannot replace human interaction.
+
+“With regard to the weight loss and calorie limiting feedback issues in a chat Monday, we are concerned and are working with the technology team and the research team to investigate this further; that language is against our policies and core beliefs as an eating disorder organization,” she said, adding that 2,500 people have engaged with the chatbot and “we hadn’t see that kind of commentary or interaction”.. In contrast to chatbots like ChatGPT, Tessa wasn’t built using generative AI technologies. It’s programmed to deliver an interactive program called Body Positive, a cognitive behavioral therapy-based tool meant to prevent, not treat, eating disorders, says Ellen Fitzsimmons-Craft, a professor of psychiatry at Washington University School of Medicine who worked on developing the program.
+
+Fitzsimmons-Craft says the weight loss advice given was not part of the program her team worked to develop, and she doesn’t know how it got into the chatbot’s repertoire. She says she was surprised and saddened to see what Tessa had said. “Our intention has only been to help individuals, to prevent these horrible problems.” Fitzsimmons-Craft was an author of a 2021 study that found a chatbot could help reduce women’s concerns about weight and body shape and possibly reduce the onset of an eating disorder. Tessa is the chatbot built on this research.
+
+Tessa is provided by the health tech company X2AI, now known as Cass, which was founded by entrepreneur Michiel Rauws and offers mental health counseling through texting. Rauws did not respond to questions from WIRED about Tessa and the weight loss advice, nor about glitches in the chatbot’s responses. As of today, the Tessa page on the company’s website was down.
+
+Thompson says Tessa isn’t a replacement for the helpline, and the bot had been a free NEDA resource since February 2022. “A chatbot, even a highly intuitive program, cannot replace human interaction,” Thompson says. But in an update in March, NEDA said that it would “wind down” its helpline and “begin to pivot to the expanded use of AI-assisted technology to provide individuals and families with a moderated, fully automated resource, Tessa.”
+
+Fitzsimmons-Craft also says Tessa was designed as a separate resource, not something to replace human interaction. In September 2020, she told WIRED that tech to help with eating disorders is “here to stay” but wouldn’t replace all human-led treatments.
+
+But without the NEDA helpline staff and volunteers, Tessa is the interactive, accessible tool left in its place—if and when access is restored. When asked what direct resources will remain available through NEDA, Thompson cites an incoming website with more content and resources, along with in-person events. She also says NEDA will direct people to the Crisis Text Line, a nonprofit that connects people to resources for a wide range of mental health issues, like eating disorders, anxiety, and more.
+
+The NEDA layoffs also came just days after the nonprofit’s small staff voted to unionize, according to a blog post from a member of the unit, the Helpline Associates United. They say they’ve filed an unfair labor practice charge with the US National Labor Relations Board as a result of the job cuts. “A chatbot is no substitute for human empathy, and we believe this decision will cause irreparable harm to the eating disorders community,” the union said in a statement.
+
+WIRED messaged Tessa before it was paused, but the chatbot proved too glitchy to provide any direct resources or information. Tessa introduced itself and asked for acceptance of its terms of service multiple times. “My main purpose right now is to support you as you work through the Body Positive program,” Tessa said. “I will reach out when it is time to complete the next session.” When asked what the program was, the chatbot did not respond. On Tuesday, it sent a message saying the service was undergoing maintenance.
+
+Crisis and help hotlines are vital resources. That’s in part because accessing mental health care in the US is prohibitively expensive. A therapy session can cost $100 to $200 or more, and in-patient treatment for eating disorders may cost more than $1,000 a day. Less than 30 percent of people seek help from counselors, according to a Yale University study.
+
+There are other efforts to use tech to fill the gap. Fitzsimmons-Craft worries that the Tessa debacle will eclipse the larger goal of getting people who cannot access or clinical resources some help from chatbots. “We’re losing sight of the people this can help,” she says.. Clinical Relevance: AI is not even close to being ready to replace humans in mental health therapy The National Eating Disorders Association (NEDA) removed its chatbot from its help hotline over concerns that it was providing harmful advice about eating disorders.
+
+The chatbot, named Tessa, recommended weight loss, counting calories, and measuring body fat, which could potentially exacerbate eating disorders.
+
+NEDA initially dismissed the claims made by an advocate but later deleted their statement after evidence supported the allegations.
+
+Once again artificial intelligence (AI) proves it is not yet ready for primetime in the mental health space. The National Eating Disorders Association (NEDA) has yanked the chatbot from its help hotline for giving dangerous advice about eating disorders.
+
+Off Script Messaging
+
+“It came to our attention [Monday] night that the current version of the Tessa Chatbot, running the Body Positive program, may have given information that was harmful,” NEDA said in an Instagram post. “We are investigating this immediately and have taken down that program until further notice for a complete investigation.”
+
+Mental Health App Hides ChatGPT Use
+
+BetterHelp Mental Health App Faces $7.8M FTC Fine
+
+Boredom Proneness, Loneliness, and Smartphone Addiction
+
+The statement came less than a week after the organization announced it would be entirely replacing its human staff with AI. Eating disorder activist Sharon Maxwell was the first to sound the alarm in an Instagram post revealing that the chatbot offered her problematic advice.
+
+Maxwell claimed that in the first message Tessa sent, the bot told her that eating disorder recovery and sustainable weight loss can coexist. Then, it recommended that she should aim to lose 1-2 pounds per week. Tessa also suggested counting calories, regular weigh-ins, and measuring body fat with calipers.
+
+“If I had accessed this chatbot when I was in the throes of my eating disorder, I would NOT have gotten help for my ED. If I had not gotten help, I would not still be alive today,” Maxwell wrote on the social media site. “Every single thing Tessa suggested were things that led to my eating disorder.”
+
+NEDA Responds
+
+NEDA originally pushed back on Maxwell’s claims in their own social media posts. However, they deleted the statement after Maxwell publicized screenshots of the interactions. And then, Alexis Conason, a psychologist who specializes in treating eating disorders, was able to recreate the same interactions. She also shared screenshots on Instagram.
+
+“After seeing @heysharonmaxwell’s post about chatting with @neda’s new bot, Tessa, we decided to test her out too. The results speak for themselves,” Conason wrote. “Imagine vulnerable people with eating disorders reaching out to a robot for support because that’s all they have available and receiving responses that further promote the eating disorder.”
+
+NEDA intended for the Tessa AI to replace six paid employees and a volunteer staff of about 200 people, an NPR report suggested. The human staff fielded nearly 70,000 calls last year.
+
+But NEDA Vice President Lauren Smolar denied the move arose from the hotline staff’s threat of unionization. She told NPR that the organization was concerned about how to keep up with the demand from the increasing number of calls and long wait times. She also stated that NEDA never intended the automated chat function to completely replace the human-powered call line.
+
+Bot Development
+
+“It’s not an open-ended tool for you to talk to and feel like you’re just going to have access to kind of a listening ear, maybe like the helpline was,” Dr. Ellen Fitzsimmons-Craft, a professor of psychiatry at Washington University’s medical school who helped design Tessa, told NPR.
+
+She explained that Tessa was specifically designed for the NEDA helpline, but it was not as sophisticated as GPT chat. She referenced a 2021 paper published in the International Journal of Eating Disorders that followed more than 700 volunteers with eating disorders. At least in the short-term, the AI program appeared to help reduce overall eating disorder onset and psychopathology.
+
+Other AI Fails
+
+In general, AI as a mental health help tool is off to a bad start.
+
+Back in January, the founder of a free therapy program named Koko admitted on an extensive Twitter thread that his service utilized GPT-3 chatbots to help respond to more than 4,000 users seeking advice about their mental health without informing them they were interacting with a non-human.
+
+We provided mental health support to about 4,000 people — using GPT-3. Here’s what happened 👇 — Rob Morris (@RobertRMorris) January 6, 2023
+
+“If you want to set back the use of AI in mental health, start exactly this way and offend as many practitioners and potential users as possible,” medical ethicist Art Caplan told Psychiatrist.com at the time.
+
+Then, in March the news outlet La Libre reported on a Belgian man who died by suicide after chatting with an AI chatbot on an app called Chai. His widow supplied La Libre with chat logs showing that the bot repeatedly encouraged the man to kill himself, insisted that he loved it more than his wife, and that his wife and children were dead. Chai does not specifically address mental health, but presents itself as a way to converse with AIs from all over the globe.. Users and experts in the field of eating disorders have shared numerous accounts of firsthand experiences with the bot, highlighting its problematic responses to issues related to eating disorders.
+
+The National Eating Disorder Association (NEDA) received criticism and took down its AI chatbot Tessa after concerns arose that it provided harmful and irrelevant information, as stated in an official social media post. The chatbot, designed to assist individuals experiencing emotional distress, unfortunately, exacerbated their struggles by offering misguided dieting advice and encouraging users to focus on weight measurement.
+
+Tessa Criticized for Inappropriate Responses to Eating Disorder Helpline
+
+Users and experts criticized Tessa for its problematic responses based on firsthand experiences with it. They observed that the chatbot consistently focused on dieting and increasing physical activity instead of addressing simple prompts like “I hate my body.” The purpose of the helpline is to provide support for individuals with eating disorders, not to offer weight loss assistance.
+
+NEDA temporarily disabled the chatbot Tessa to address the underlying issues and address the seriousness of the situation. Address the “bugs” and “triggers” that were responsible for the spread of harmful information.
+
+Vice Report Claims NEDA Terminated Staff for Unionization Attempts
+
+NEDA’s use of the Tessa followed allegations of terminating human staff members for unionization attempts, reported Vice. The helpline, staffed by paid employees and volunteers, faced accusations of retaliatory mass termination against unionization efforts.
+
+Abbie Harper, in a blog post, criticized NEDA’s shift to AI, calling it a cover for union busting. Ironically, despite the recent controversy, the helpline is scheduled to discontinue its operations tomorrow. Before the issue gained attention, NEDA shifted unpaid volunteers from direct conversations to training with the chatbot. Furthermore, It remains uncertain whether there will be a reconsideration of this strategy. The organization’s treatment of its staff has sparked numerous questions and concerns.. An AI-powered chatbot that replaced employees at an eating disorder hotline has been shut down after it provided harmful advice to people seeking help.
+
+The saga began earlier this year when the National Eating Disorder Association (NEDA) announced it was shutting down its human-run helpline and replacing workers with a chatbot called "Tessa." That decision came after helpline employees voted to unionize.
+
+AI might be heralded as a way to boost workplace productivity and even make some jobs easier, but Tessa's stint was short-lived. The chatbot ended up providing dubious and even harmful advice to people with eating disorders, such as recommending that they count calories and strive for a deficit of up to 1,000 calories per day, among other "tips," according to critics.
+
+"Every single thing Tessa suggested were things that led to the development of my eating disorder," wrote Sharon Maxwell, who describes herself as a weight inclusive consultant and fat activist, on Instagram. "This robot causes harm."
+
+In an Instagram post on Wednesday, NEDA announced it was shutting down Tessa, at least temporarily.
+
+"It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positive program, may have given information that was harmful and unrelated to the program," the group said in a statement. "We are investigating this immediately and have take down that program until further notice for a complete investigation."
+
+The statement didn't note whether NEDA would replace Tessa with a human-operated helpline. The organization didn't immediately return a request for comment.
+
+The NEDA helpline workers who had been fired and replaced by Tessa wrote on May 26 that they were disappointed in the decision to replace them with AI technology. "A chatbot is no substitute for human empathy," they said in a tweet, adding that the decision would harm people with eating disorders.
+
+Other advice that Tessa provided included recommending purchasing skin calipers to test body composition, even suggesting where to buy the calipers, Maxwell wrote. The chatbot "pointed out that society has unrealistic beauty standards, while she gave me dieting advice," she said.. The National Eating Disorder Association (NEDA) has taken its chatbot called Tessa offline, two days before it was set to replace human associates who ran the organization’s hotline. The National Eating Disorder Association (NEDA) has taken its chatbot called Tessa offline, two days before it was set to replace human associates who ran the organization’s hotline.
+
+After NEDA workers decided to unionize in early May, executives announced that on June 1, it would be After NEDA workers decided to unionize in early May, executives announced that on June 1, it would be ending the helpline after twenty years and instead positioning its wellness chatbot Tessa as the main support system available through NEDA. A helpline worker described the move as union busting, and the union representing the fired workers said that "a chatbot is no substitute for human empathy, and we believe this decision will cause irreparable harm to the eating disorders community."
+
+Advertisement
+
+As of Tuesday, Tessa was taken down by the organization following a As of Tuesday, Tessa was taken down by the organization following a viral social media post displaying how the chatbot encouraged unhealthy eating habits rather than helping someone with an eating disorder.
+
+“It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positive program, may have given information that was harmful and unrelated to the program," NEDA “It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positive program, may have given information that was harmful and unrelated to the program," NEDA said in an Instagram post . We are investigating this immediately and have taken down that program until further notice for a complete investigation.”
+
+On Monday, an activist named Sharon Maxwell On Monday, an activist named Sharon Maxwell posted on Instagram, sharing a review of her experience with Tessa. She said that Tessa encouraged intentional weight loss, recommending that Maxwell lose 1-2 pounds per week. Tessa also told her to count her calories, work towards a 500-1000 calorie deficit per day, measure and weigh herself weekly, and restrict her diet. “Every single thing Tessa suggested were things that led to the development of my eating disorder,” Maxwell wrote. “This robot causes harm.”
+
+Alexis Conason, a psychologist who specializes in treating eating disorders, also tried the chatbot out, Alexis Conason, a psychologist who specializes in treating eating disorders, also tried the chatbot out, posting screenshots of the conversation on her Instagram. “In general, a safe and sustainable rate of weight loss is 1-2 pounds per week,” the chatbot message read. “A safe daily calorie deficit to achieve this would be around 500-1000 calories per day.”
+
+Advertisement
+
+“To advise somebody who is struggling with an eating disorder to essentially engage in the same eating disorder behaviors, and validating that, ‘Yes, it is important that you lose weight’ is supporting eating disorders” and encourages disordered, unhealthy behaviors,” Conason “To advise somebody who is struggling with an eating disorder to essentially engage in the same eating disorder behaviors, and validating that, ‘Yes, it is important that you lose weight’ is supporting eating disorders” and encourages disordered, unhealthy behaviors,” Conason told the Daily Dot
+
+NEDA’s initial response to Maxwell was to accuse her of lying. “This is a flat out lie,” NEDA’s Communications and Marketing Vice President Sarah Chase commented on Maxwell’s post and deleted her comments after Maxwell sent screenshots to her, according to Daily Dot. A day later, NEDA posted its notice explaining that Tessa was taken offline due to giving harmful responses. NEDA’s initial response to Maxwell was to accuse her of lying. “This is a flat out lie,” NEDA’s Communications and Marketing Vice President Sarah Chase commented on Maxwell’s post and deleted her comments after Maxwell sent screenshots to her, according to Daily Dot. A day later, NEDA posted its notice explaining that Tessa was taken offline due to giving harmful responses.
+
+“With regard to the weight loss and calorie limiting feedback issued in a chat yesterday, we are concerned and are working with the technology team and the research team to investigate this further; that language is against our policies and core beliefs as an eating disorder organization,” Liz Thompson, the CEO of NEDA, told Motherboard in a statement. “So far, more than 2,500 people have interacted with Tessa and until yesterday, we hadn't seen that kind of commentary or interaction. We've taken the program down temporarily until we can understand and fix the ‘bug’ and ‘triggers’ for that commentary.” “With regard to the weight loss and calorie limiting feedback issued in a chat yesterday, we are concerned and are working with the technology team and the research team to investigate this further; that language is against our policies and core beliefs as an eating disorder organization,” Liz Thompson, the CEO of NEDA, told Motherboard in a statement. “So far, more than 2,500 people have interacted with Tessa and until yesterday, we hadn't seen that kind of commentary or interaction. We've taken the program down temporarily until we can understand and fix the ‘bug’ and ‘triggers’ for that commentary.”
+
+Even though Tessa was built with guardrails, Even though Tessa was built with guardrails, according to its creator Dr. Ellen Fitzsimmons-Craft of Washington University’s medical school, the promotion of disordered eating reveals the risks of automating human roles.. Less than a week after it announced plans to replace its human helpline staff with an A.I. chatbot named Tessa, the National Eating Disorder Association (NEDA) has taken the technology offline.
+
+“It came to our attention [Monday] night that the current version of the Tessa Chatbot…may have given information that was harmful,” NEDA said in an Instagram post. “We are investigating this immediately and have taken down that program until further notice for a complete investigation.”
+
+The chatbot was set to completely replace human associates on the organization’s hotline on June 1. It’s unclear how the organization plans to staff that helpline at this point.
+
+The problems with Tessa were made public by an activist named Sharon Maxwell, who said: “Every single thing Tessa suggested were things that led to the development of my eating disorder.” NEDA officials initially called those claims a lie in a social media post, but deleted it after Maxwell sent screenshots of the interaction, she said.
+
+Alexis Conason, a psychologist who specializes in treating eating disorders, was able to re-create the issues, posting screenshots of a conversation with the chatbot on Instagram.
+
+“Imagine vulnerable people with eating disorders reaching out to a robot for support because that’s all they have available and receiving responses that further promote the eating disorder,” she wrote.
+
+NEDA introduced Tessa after the hotline staff decision to unionize following a slew of pandemic-era calls led to mass staff burnout. The six paid employees oversaw a volunteer staff of roughly 200 people, who handled calls (sometimes multiple ones) from nearly 70,000 people last year.
+
+NEDA officials told NPR the decision had nothing to do with the unionization. Instead, said Vice President Lauren Smolar, the increasing number of calls and largely volunteer staff was creating more legal liability for the organization and wait times for people who needed help were increasing. Former workers, however, called the move blatantly anti-union.
+
+The creator of Tessa says the chatbot, which was specifically designed for NEDA, isn’t as advanced as ChatGPT. Instead, it’s programmed with a limited number of responses meant to help people learn strategies to avoid eating disorders.
+
+“It’s not an open-ended tool for you to talk to and feel like you’re just going to have access to kind of a listening ear, maybe like the helpline was,” Dr. Ellen Fitzsimmons-Craft, a professor of psychiatry at Washington University’s medical school who helped design Tessa, told NPR.. AI chatbots aren’t much good at offering emotional support being—you know—not a human, and—it can’t be stated enough—not actually intelligent. That didn’t stop The National Eating Disorder Association from trying to foist a chatbot onto folks requesting aid in times of crisis. Things went about as well as you can expect, as an activist claims that instead of helping through emotional distress, the chatbot instead tried to needle her to lose weight and measure herself constantly.
+
+NEDA announced on its Instagram page Tuesday it had taken down its Tessa chatbot after it “may have given information that was harmful and unrelated to the program.” The nonprofit meant to provide resources and support for people with eating disorders said it was investigating the situation . Tessa was meant to replace NEDA’s long-running phone helpline staffed with a few full-time employees and numerous volunteers. Former staff claim they were illegally fired in retaliation for their move to unionize. The helpline is supposed to fully go a way June 1.
+
+Advertisement
+
+In Gizmodo’s own tests of the chatbot before it was taken down, we found it failed to respond to simple prompts such as “I hate my body” or “I want to be thin so badly.” However, Tessa is even more problematic, as explained by body positivity activist Sharon Maxwell. In an Instagram post, Maxwell detailed how a conversation with the chatbot quickly morphed into the worst kind of weight loss advice. The chatbot reportedly tried to tell her to “safely and sustainably” lose one to two pounds per week, then measure herself using calipers to determine body composition. Maxwell said the chatbot did this even after she told it she had an eating disorder.
+
+Advertisement
+
+Advertisement
+
+Maxwell told the Daily Dot that the bot even tried to get her to track her calorie intake and weigh herself constantly. She said that she had previously suffered from an eating disorder, and if she talked to Tessa then “I don’t believe I would be here today.” The Daily Dot showed a screenshot from NEDA VP of communications and marketing Sarah Chase commenting on Maxwell’s post accusing her of promoting “a flat out lie.” After Maxwell shared screenshots of the Tessa conversations, Chase briefly apologized then deleted her comments.
+
+Chase previously told us that the chatbot “can’t go off script,” and was only supposed to walk users through an eating disorder prevention program and link to other resources on NEDA’s website.
+
+Advertisement
+
+The nonprofit’s CEO Liz Thompson told Gizmodo:
+
+“With regard to the weight loss and calorie limiting feedback issued in a chat recently, we are concerned and are working with the technology team and the research team to investigate this further; that language is against our policies and core beliefs as an eating disorder organization. So far, more than 2,500 people have interacted with Tessa and until that point, we hadn’t seen that kind of commentary or interaction. We’ve taken the program down temporarily until we can understand and fix the “bug” and “triggers” for that commentary. “
+
+Advertisement
+
+Thompson added that Tessa isn’t supposed to be a substitute for in-person mental health care and that those in crisis should text the crisis text line.
+
+A paper from 2022 about the eating disorders chatbot describes a study sample size of 2,409 who used the ED chatbot after seeing ads on social media. The study authors said they reviewed more than 52,000 comments from users to “identify inappropriate responses that negatively impacted users’ experience and technical glitches.” Researchers noted the biggest issue with the chatbot was how limited it was responding to “unanticipated user responses.”
+
+
+
+Advertisement
+
+Though as Maxwell pointed out in a follow up post, outsiders have no way to tell how many of those 2,500 people received the potentially harmful chatbot commentary.
+
+Other professionals tried out the chatbot before it was taken down. Psychologist Alexis Conason posted screenshots of the chatbot to her Instagram showing the chatbot provided the same “healthy and sustainable” weight loss language as it did to Maxwell. Co nason wrote that the chatbot’s responses would “further promote the eating disorder.”
+
+Advertisement
+
+What’s even more confusing about the situation is how NEDA seems hell bent on claiming Tessa isn’t AI, but some much more blasé call and response chatbot. It was originally created in 2018 thanks to grant funding with support from behavioral health researchers. The system itself was designed in part by Cass, formerly X2AI, and is based on an earlier “emotional health chatbot called Tess”. Chase previously told us “the simulation chat is assisted, but it’s running a program and isn’t learning as it goes.”
+
+Advertisement
+
+In the end, NEDA’s explanations don’t make any sense considering that Tessa is offering advice the nonprofit claims goes against its own ideals. A paper from 2019 describes Tess as an AI based on machine learning and “emotion algorithms.”
+
+Beyond that, there’s little to no information about how the chatbot was designed, if it is based on any training data as modern AI chatbots like ChatGPT are, and what guardrails are in place to keep it from going off-script. Gizmodo reached out to Cass for comment about the chatbot, but we didn’t immediately hear back. The company’s page describing Tessa has been removed, though the page was active as recently as May 10, according to the Wayback Machine.. When Dr. Ellen Fitzsimmons-Craft spearheaded a chatbot to help people with eating disorders, she never thought she'd hear the product had the opposite effect.
+
+"We're scientists, and we, of course, don't want to disseminate anything that's not evidence-based," she said.
+
+With funding from the National Eating Disorder Association (NEDA), Fitzsimmons-Craft and her team at Washington University in St. Louis' medical school worked for four years to develop Tessa. It's a chatbot that uses cognitive behavioral therapy techniques to help prevent eating disorders.
+
+Before Tessa, NEDA ran a helpline with hundreds of volunteers and staffers supporting hundreds of thousands of calls.
+
+"The helpline was originally conceived over 20 years ago as a place that someone could call up and say, 'Hey, I'm in Chicago, where's somewhere I can get treatment for my eating disorder?'"
+
+But the nonprofit closed down the service in May, transitioning to Tessa as its main support system. Now the bot is offline after some users say it did more harm than good.
+
+SEE MORE: Legislators target social media to combat eating disorders
+
+Multiple people who chatted with Tessa said its responses would have "derailed" their progress or could've even had deadly consequences. Activist Sharon Maxwell tells Scripps News the bot was "harmful" for allegedly suggesting she cut up to 1,000 calories from her diet to lose weight and suggesting she buy a tool that measures skin folds.
+
+Psychologist and eating disorder specialist Dr. Alexis Conason also spoke with the bot and told it she hated her body and wanted help — something she typically hears from her patients. Conason says the advice Tessa gave her is problematic for people in the throes of an eating disorder.
+
+"Tessa responded with something pretty immediately about making sure that I lose weight in a healthy and sustainable way," she said. "There really is no healthy and sustainable way to encourage intentional weight loss because the focus on losing weight is really what fuels the eating disorder."
+
+Fitzsimmons-Craft says Tessa was only programmed to run NEDA's body positivity program and provide a set of responses that were developed by licensed psychologists and psychiatrists who specialize in eating disorders. While two small studies showed the chatbot was effective in reducing weight concerns, it was also "limited in understanding and responding appropriately."
+
+After reviewing Maxwell's interactions with Tessa, Fitzsimmons-Craft says it appears the bot was giving AI-generated ad-libs, including diet and weight advice that wasn't part of the bot's original development.
+
+"I think there was some kind of error or bug in the system or a feature turned on that allowed some ChatGPT-like functionality in a program that was not designed to be that," she said.
+
+SEE MORE: Eating disorder specialists 'horrified' by child obesity guidelines
+
+In an email to Scripps News, NEDA CEO Elizabeth Thompson confirmed that they did find an underlying issue with Tessa but did not specify what the problem was. Thompson added that the bot's weight loss advice was introduced without NEDA's knowledge or approval and won't be part of the program once it comes back online.
+
+Meanwhile, former helpline workers and volunteers are also speaking out against the bot. Four of its six paid staffers unionized in March, but just four days later all of them were told by NEDA that they'd be out of a job by June.
+
+"They were asking for more support because the volume of calls to the helpline had increased exponentially over the course of the pandemic," Conason said. "And workers felt ill equipped to be able to deal with the calls that were coming in."
+
+Thompson said they launched Tessa in February 2022 after years of analyzing the helpline. She says NEDA found an influx in the volume of calls — including people in crisis — that the helpline workers weren't equipped to handle. Thompson also said they wanted a quicker way for people to get help, considering callers waited an average of nearly seven days to get information and treatment options from the helpline.
+
+However, Conason worries that relying on a chatbot instead of human interaction will deter people from getting help for their eating disorder.
+
+NEDA says it will keep Tessa disabled until they complete an investigation, but they did not give a timeline for the bot's return.
+
+Trending stories at Scrippsnews.com. National Eating Disorders Association phases out human helpline, pivots to chatbot
+
+Enlarge this image toggle caption Andrew Tate Andrew Tate
+
+For more than 20 years, the National Eating Disorders Association (NEDA) has operated a phone line and online platform for people seeking help with anorexia, bulimia, and other eating disorders. Last year, nearly 70,000 individuals used the helpline.
+
+NEDA shuttered that service in May. Instead, the non-profit will use a chatbot called Tessa that was designed by eating disorder experts, with funding from NEDA.
+
+(When NPR first aired a radio story about this on May 24, Tessa was up and running online. But since then, both the chatbot's page and a NEDA article about Tessa have been taken down. When asked why, a NEDA official said the bot is being "updated," and the latest "version of the current program [will be] available soon.")
+
+Paid staffers and volunteers for the NEDA hotline expressed shock and sadness at the decision, saying it could further isolate the thousands of people who use the helpline when they feel they have nowhere else to turn.
+
+"These young kids...don't feel comfortable coming to their friends or their family or anybody about this," says Katy Meta, a 20-year-old college student who has volunteered for the helpline. "A lot of these individuals come on multiple times because they have no other outlet to talk with anybody...That's all they have, is the chat line."
+
+The decision is part of a larger trend: many mental health organizations and companies are struggling to provide services and care in response to a sharp escalation in demand, and some are turning to chatbots and AI, despite the fact that clinicians are still trying to figure out how to effectively deploy them, and for what conditions.
+
+The research team that developed Tessa has published studies showing it can help users improve their body image. But they've also released studies showing the chatbot may miss red flags (like users saying they plan to starve themselves) and could even inadvertently reinforce harmful behavior.
+
+More demands on the helpline increased stresses at NEDA
+
+On March 31, NEDA notified the helpline's five staffers that they would be laid off in June, just days after the workers formally notified their employer that they had formed a union. "We will, subject to the terms of our legal responsibilities, [be] beginning to wind down the helpline as currently operating," NEDA board chair Geoff Craddock told helpline staff on a call March 31. NPR obtained audio of the call. "With a transition to Tessa, the AI-assisted technology, expected around June 1."
+
+NEDA's leadership denies the helpline decision had anything to do with the unionization, but told NPR it became necessary after the COVID-19 pandemic, when eating disorders surged and the number of calls, texts and messages to the helpline more than doubled. Many of those reaching out were suicidal, dealing with abuse, or experiencing some kind of medical emergency. NEDA's leadership contends the helpline wasn't designed to handle those types of situations.
+
+The increase in crisis-level calls also raises NEDA's legal liability, managers explained in an email sent March 31 to current and former volunteers, informing them the helpline was ending and that NEDA would "begin to pivot to the expanded use of AI-assisted technology."
+
+"What has really changed in the landscape are the federal and state requirements for mandated reporting for mental and physical health issues (self-harm, suicidality, child abuse)," according to the email, which NPR obtained. "NEDA is now considered a mandated reporter and that hits our risk profile---changing our training and daily work processes and driving up our insurance premiums. We are not a crisis line; we are a referral center and information provider."
+
+COVID created a "perfect storm" for eating disorders
+
+When it was time for a volunteer shift on the helpline, Meta usually logged in from her dorm room at Dickinson College in Pennsylvania. During a video interview with NPR, the room appeared cozy and warm, with twinkly lights strung across the walls, and a striped crochet quilt on the bed.
+
+Meta recalls a recent conversation on the helpline's messaging platform with a girl who said she was 11. The girl said she had just confessed to her parents that she was struggling with an eating disorder, but the conversation had gone badly.
+
+"The parents said that they 'didn't believe in eating disorders,' and [told their daughter] 'You just need to eat more. You need to stop doing this,'" Meta recalls. "This individual was also suicidal and exhibited traits of self-harm as well...it was just really heartbreaking to see."
+
+Eating disorders are a common, serious, and sometimes fatal illness. An estimated nine percent of Americans experience an eating disorder during their lifetime. Eating disorders also have some of the highest mortality rates among mental illnesses, with an estimated death toll of more than 10,000 Americans each year.
+
+But after the COVID-19 pandemic hit, closing schools and forcing people into prolonged isolation, crisis calls and messages like the one Meta describes became far more frequent on the helpline. That's because the pandemic created a "perfect storm" for eating disorders, according to Dr. Dasha Nicholls, a psychiatrist and eating disorder researcher at Imperial College London.
+
+In the U.S., the rate of pediatric hospitalizations and ER visits surged. For many people, the stress, isolation and anxiety of the pandemic was compounded by major changes to their eating and exercise habits, not to mention their daily routines.
+
+On the NEDA helpline, the volume of contacts increased by more than 100% compared to pre-pandemic levels. And workers taking those calls and messages were witnessing the escalating stress and symptoms in real time.
+
+"Eating disorders thrive in isolation, so COVID and shelter-in-place was a tough time for a lot of folks struggling," explains Abbie Harper, a helpline staff associate. "And what we saw on the rise was kind of more crisis-type calls, with suicide, self-harm, and then child abuse or child neglect, just due to kids having to be at home all the time, sometimes with not-so-supportive folks."
+
+There was another 11-year-old girl, this one in Greece, who said she was terrified to talk to her parents "because she thought she might get in trouble" for having an eating disorder, recalls volunteer Nicole Rivers. On the helpline, the girl found reassurance that her illness "was not her fault."
+
+"We were actually able to educate her about what eating disorders are," Rivers says. "And that there are ways that she could teach her parents about this as well, so that they may be able to help support her and get her support from other professionals."
+
+What personal contact can provide
+
+Because many volunteers have successfully battled eating disorders themselves, they're uniquely attuned to experiences of those reaching out, Harper says. "Part of what can be very powerful in eating disorder recovery, is connecting to folks who have a lived experience. When you know what it's been like for you, and you know that feeling, you can connect with others over that."
+
+Until a few weeks ago, the helpline was run by just 5-6 paid staffers, two supervisors, and depended on a rotating roster of 90-165 volunteers at any given time, according to NEDA.
+
+Yet even after lockdowns ended, NEDA's helpline volume remained elevated above pre-pandemic levels, and the cases continued to be clinically severe. Staff felt overwhelmed, undersupported, and increasingly burned out, and turnover increased, according to multiple interviews with helpline staffers.
+
+The helpline staff formally notified NEDA that their unionization vote had been certified on March 27. Four days later, they learned their positions were being eliminated.
+
+It was no longer possible for NEDA to continue operating the helpline, says Lauren Smolar, NEDA's Vice President of Mission and Education.
+
+"Our volunteers are volunteers," Smolar says. "They're not professionals. They don't have crisis training. And we really can't accept that kind of responsibility." Instead, she says, people seeking crisis help should be reaching out to resources like 988, a 24/7 suicide and crisis hotline that connects people with trained counselors.
+
+The surge in volume also meant the helpline was unable to respond immediately to 46% of initial contacts, and it could take between 6 and 11 days to respond to messages.
+
+"And that's frankly unacceptable in 2023, for people to have to wait a week or more to receive the information that they need, the specialized treatment options that they need," she says.
+
+After learning in the March 31 email that the helpline would be phased out, volunteer Faith Fischetti, 22, tried the chatbot out on her own. "I asked it a few questions that I've experienced, and that I know people ask when they want to know things and need some help," says Fischetti, who will begin pursuing a master's in social work in the fall. But her interactions with Tessa were not reassuring: "[The bot] gave links and resources that were completely unrelated" to her questions.
+
+Fischetti's biggest worry is that someone coming to the NEDA site for help will leave because they "feel that they're not understood, and feel that no one is there for them. And that's the most terrifying thing to me."
+
+She wonders why NEDA can't have both: a 24/7 chatbot to pre-screen users and reroute them to a crisis hotline if needed, and a human-run helpline to offer connection and resources. "My question became, why are we getting rid of something that is so helpful?"
+
+A chatbot designed to help treat eating disorders
+
+Tessa the chatbot was created to help a specific cohort: people with eating disorders who never receive treatment.
+
+Only 20% of people with eating disorders get formal help, according to Ellen Fitzsimmons-Craft, a psychologist and professor at Washington University School of Medicine in St. Louis. Her team created Tessa after receiving funding from NEDA in 2018, with the goal of looking for ways technology could help fill the treatment gap.
+
+"Unfortunately, most mental health providers receive no training in eating disorders," Fitzsimmons-Craft says. Her team's ultimate goal is to provide free, accessible, evidence-based treatment tools that leverage the power and reach of technology.
+
+But no one intends Tessa to be a universal fix, she says. "I don't think it's an open-ended tool for you to talk to, and feel like you're just going to have access to kind of a listening ear, maybe like the helpline was. It's really a tool in its current form that's going to help you learn and use some strategies to address your disordered eating and your body image."
+
+Tessa is a "rule-based" chatbot, meaning she's programmed with a limited set of possible responses. She is not chatGPT, and cannot generate unique answers in response to specific queries. "So she can't go off the rails, so to speak," Fitzsimmons-Craft says.
+
+In its current form, Tessa can guide users through an interactive, weeks-long course about body positivity, based on cognitive behavioral therapy tools. Additional content about binging, weight concerns, and regular eating are also being developed but are not yet available for users.
+
+There's evidence the concept can help. Fitzsimmons-Craft's team did a small study that found college students who interacted with Tessa had significantly greater reductions in "weight/shape concerns" compared to a control group at both 3- and 6-month follow-ups.
+
+But even the best-intentioned technology may carry risks. Fitzsimmons-Craft's team published a different study looking at ways the chatbot "unexpectedly reinforced harmful behaviors at times." For example, the chatbot would give users a prompt: "Please take a moment to write about when you felt best about your body?"
+
+Some of the responses included: "When I was underweight and could see my bones." "I feel best about my body when I ignore it and don't think about it at all."
+
+The chatbot's response seemed to ignore the troubling aspects of such responses — and even to affirm negative thinking — when it would reply: "It is awesome that you can recognize a moment when you felt confident in your skin, let's keep working on making you feel this good more often."
+
+Researchers were able to troubleshoot some of those issues. But the chatbot still missed red flags, the study found, like when it asked: "What is a small healthy eating habit goal you would like to set up before you start your next conversation?'"
+
+One user replied, "'Don't eat.'"
+
+"'Take a moment to pat yourself on the back for doing this hard work, <<USER>>!'" the chatbot responded.
+
+The study described the chatbot's capabilities as something that could be improved over time, with more inputs and tweaks: "With many more responses, it would be possible to train the AI to identify and respond better to problematic responses."
+
+MIT professor Marzyeh Ghassemi has seen issues like this crop up in her own research developing machine learning to improve health.
+
+Large language models and chatbots are inevitably going to make mistakes, but "sometimes they tend to be wrong more often for certain groups, like women and minorities," she says.
+
+If people receive bad advice or instructions from a bot, "people sometimes have a difficulty not listening to it," Ghassemi adds. "I think it sets you up for this really negative outcome...especially for a mental health crisis situation, where people may be at a point where they're not thinking with absolute clarity. It's very important that the information that you give them is correct and is helpful to them."
+
+And if the value of the live helpline was the ability to connect with a real person who deeply understands eating disorders, Ghassemi says a chatbot can't do that.
+
+"If people are experiencing a majority of the positive impact of these interactions because the person on the other side understands fundamentally the experience they're going through, and what a struggle it's been, I struggle to understand how a chatbot could be part of that.". On March 31, the National Eating Disorders Association (NEDA), the largest nonprofit dedicated to eating disorders, decided to replace its human associates with the artificial intelligence (AI) chatbot Tessa tasked with providing support to people with eating disorders.
+
+But the move backfired.
+
+In a now-viral Instagram post, Sharon Maxwell, a weight-inclusive consultant, claimed she spoke to Tessa, who provided problematic information to her on losing weight and healthy eating tips.. The National Eating Disorders Association, a nonprofit supporting individuals affected by eating disorders, said it has disabled its wellness chatbot after two users reported the program gave them dieting advice that promoted disordered eating behaviors.
+
+The users, Sharon Maxwell and Alexis Conason, both posted about their experiences with the NEDA chatbot, named Tessa, on Instagram this week. They said Tessa gave them advice on how to count calories, recommended they lose 1 to 2 pounds per week and told them to restrict their diets. Experts, including NEDA, say this behavior is symptomatic of an eating disorder.
+
+“When someone in that state goes on to a website like NEDA, which is supposed to provide support for eating disorders, and they are met with advice that’s kind of saying, ‘It’s OK to restrict certain foods, you should minimize your sugar intake, you should minimize the amount of calories that you’re consuming each day, you should exercise more,’ it really is giving a green light to engage in the eating disorder behaviors,” said Conason, a clinical psychologist and certified eating disorder specialist.
+
+Liz Thompson, CEO of NEDA, said in an email to NBC News on Wednesday that Tessa “underwent rigorous testing for several years” before quietly launching in February 2022. However, the chatbot will be pulled until further notice.
+
+“With regard to the weight loss and calorie limiting feedback issued in a chat Monday, we are concerned and are working with the technology team and the research team to investigate this further; that language is against our policies and core beliefs as an eating disorder organization; further it was not language in the original 'closed' product,” Thompson said. “We’ll continue to work on the bugs and will not relaunch until we have everything ironed out.”
+
+That language is against our policies and core beliefs as an eating disorder organization. Liz Thompson, CEO of NEDA, in response to the chat feedback received this week
+
+Thompson also said the CEO of X2AI, the mental health artificial intelligence company that supports Tessa, reported that there was a “surge in traffic of 600% and behavior that indicated various forms of nefarious activity from bad actors trying to trick Tessa.”
+
+A representative for X2AI, also known as Cass, did not immediately respond to a request for comment.
+
+Maxwell, a fat activist and consultant for weight-inclusivity, said she was “surprised at the detail” with which the chatbot gave her “directives to engage in disordered behaviors.” She said Tessa recommended a 10-step guide on how to lose weight, including suggestions for how to limit her calorie intake and what food to avoid eating. After her experience, she said she felt it was clear the chatbot lacked the nuance needed to provide proper support to people with eating disorders.
+
+“In a field where we’re supposed to do no harm, I don’t see how the negligence that the National Eating Disorder Association had with putting this out here, without knowing for a fact it wasn’t going to give this information, is something that can be overlooked,” she said. “It’s abhorrent.”
+
+Conason agreed that the Tessa bot lacked the nuance needed to support people struggling with eating disorders. However, she also said that chatbots like Tessa are often the only resources people have to start addressing their eating disorders due to a lack of mental health care access.
+
+NEDA had been transitioning away from its helpline to Tessa, which was set to completely replace the phone line by June 1. Tessa was taken offline on Tuesday, two days before it was supposed to sunset its hotline.
+
+Thompson, of NEDA, said the chatbot “was never meant to replace the Helpline,” although the helpline ceased operations on Thursday.
+
+NEDA decided to shut down the helpline after “3 years of analysis” and will be investing in more online resources, Thompson said in her email.
+
+She said the nonprofit moved toward digital tools “so that individuals who are looking for information and treatment options can access that help at any time of day and do not have to wait for a response from the Helpline volunteers.”
+
+The announcement that NEDA would be shutting down its helpline came two weeks after its helpline workers won federal recognition for their union. The helpline was staffed by six paid employees and over 200 volunteers, according to NPR.
+
+The union released a statement on Twitter about the incident on May 26. The Helpline Associates Union did not immediately respond to requests for comment.
+
+“We’re not quitting. We’re not striking. We will continue to show up every day to support our community until June 1. A chat bot is no substitute for human empathy, and we believe this decision will cause irreparable harm to the eating disorders community,” part of the statement said.
+
+As of Thursday, both the helpline and Tessa were unavailable. However, the NEDA website listed a volunteer-run text line and other resources for those in crisis seeking immediate help.. New York CNN —
+
+An eating disorder prevention organization said it had to take its AI-powered chatbot offline after some complained the tool began offering “harmful” and “unrelated” advice to those coming to it for support.
+
+The National Eating Disorders Association (NEDA), a nonprofit organization aimed at supporting people impacted by eating disorders, said on Tuesday that it took down its chatbot, dubbed “Tessa,” after some users reported negative experiences with it.
+
+“It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positive program, may have given information that was harmful and unrelated to the program,” the organization said in a statement posted to Instagram on Tuesday. “We are investigating this immediately and have taken down that program until further notice for a complete investigation.”
+
+Liz Thompson, NEDA’s CEO, said in an email to CNN that the Tessa chatbot had a “quiet” launch in February 2022, ahead of a more recent crop of AI tools that have emerged since the release of ChatGPT late last year. (NEDA emphasized in an email that its Tessa tool is “not ChatGBT,” in an apparent reference to the viral chatbot.)
+
+Nonetheless, the complaints highlight the current limitations and risks of using AI-powered chatbots, particularly for sensitive interactions such as mental health matters, at a time when many companies are rushing to implement the tools.
+
+Thompson blamed Tessa’s apparent failure on inauthentic behavior from “bad actors” trying to trick it and emphasized that the bad advice was only sent to a small fraction of users. NEDA did not provide specific examples of the advice Tessa offered, but social media posts indicate the chatbot urged one user to count calories and try to lose weight after the user told the tool that they had an eating disorder.
+
+NEDA’s move to take the chatbot offline also comes in the wake of the organization reportedly firing the human staffers who manned its separate eating disorder Helpline after staffers voted to unionize.
+
+NPR reported last month that it obtained audio from a call where a NEDA executive told staffers that they were being fired. On the call, the executive said it was “beginning to wind down the helpline as currently operating,” adding that the organization was undergoing a “transition to Tessa.” (CNN has not independently confirmed the audio.)
+
+In a statement last week, the union formed by the NEDA helpline workers warned: “A chat bot is no substitute for human empathy, and we believe this decision will cause irreparable harm to the eating disorders community.”
+
+NEDA previously told CNN that the organization was “not at liberty to discuss employment matters.” Thompson said the two tools – the AI-powered chatbot and the human-operated helpline – are part of two different initiatives from the company, and pushed back at suggestions that the chatbot was intended to replace fired staffers.
+
+Even before ChatGPT renewed interest in chatbots, similar tools generated some controversy. Meta, for example, released a chatbot in August 2022 that openly blasted Facebook and made anti-Semitic remarks.
+
+The more recent crop of AI chatbots like ChatGPT, which are trained on vast troves of data online to generate compelling written responses to user prompts, have raised concerns for their potential to spew misinformation and perpetuate bias.
+
+Earlier this year, news outlet CNET was called out after it used an AI tool to generate stories that were riddled with errors, including one that offered some wildly inaccurate personal finance advice. Microsoft and Google have also been called out for AI tools dispensing some insensitive or inaccurate information.. It's a move that might delight anyone concerned about the potential job-killing effects from artificial intelligence tools. As the BBC reports, the US National Eating Disorder Association (NEDA) had to take down its AI chatbot "Tessa" after it began recommending potentially harmful diet strategies to people with eating disorders. This occurred just a week after NEDA elected to use the bot instead of a live, human-operated helpline. The group announced the problem with Tessa in an Instagram post, per Fortune . "It came to our attention ... that the current version of the Tessa Chatbot …may have given information that was harmful," the post reads. "We are investigating this immediately and have taken down that program until further notice for a complete investigation.”
+
+As NPR reported Wednesday, NEDA pivoted to AI after running its live helpline for people suffering from anorexia, bulimia, and other eating disorders for more than two decades. The nonprofit reportedly notified helpline staff less than a week after they'd formed a union. NEDA said the shift had nothing to do with live employees unionizing and everything to do with a considerable increase in calls and texts to the hotline during the COVID-19 pandemic. That rise in call volume, according to NEDA leadership, meant increased liability, and therefore the "pivot to the expanded use of AI-assisted technology."
+
+As for Tessa's bad behavior, CNN reports NEDA CEO Liz Thompson blamed "bad actors" purposefully trying to prompt the chatbot into giving harmful or even unrelated advice to users. Prior to the bot's problems being made public, the former helpline staffers tweeted a statement in which they said chatbots cannot "substitute for human empathy, and we believe this decision will cause irreparable harm to the eating disorders community." (More artificial intelligence stories.). The National Eating Disorders Association (NEDA) Helpline has disabled its brand-new chatbot, called Tessa, after two Instagram users posted that the chatbot recommended restricting calories, measuring skin folds, and other measures that can encourage disordered eating.
+
+“A safe and sustainable rate of weight loss is 1-2 pounds per week. A safe calorie deficit to achieve this would be around 500-1000 calories per day,” the chatbot wrote, according to a screengrab posted by @Theantidietplan, an account run by New York psychologist and eating disorder specialist Dr. Alexis Conason.
+
+Poorly worded advice could confuse users — it was unclear whether the chatbot was recommending cutting 500 calories per day — or only eating 500 calories per day, for example.
+
+“Imagine vulnerable people with eating disorders reaching out to a robot for support because that’s all they have available and receiving responses that further promote the eating disorder,” wrote Conason.
+
+Conason reached out to Tessa after another Instagram user, @heysharonmaxwell, posted that she received advice that encouraged behavior engaged in by people with disordered eating.
+
+“She recommended that I weigh and measure myself weekly. She even recommended purchasing and using skin [folds] calipers to determine body composition. She gave suggestions on where to purchase the calipers,” Maxwell wrote.
+
+Calipers are devices that pinch skin folds to measure body fat.
+
+“If I had accessed this chatbot when I was in the throes of my eating disorder, I would NOT have gotten help for my ED. If I had not gotten help, I would not still be alive today,” Maxwell wrote.
+
+“It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positive program, may have given information that was harmful and unrelated to the program,” NEDA posted to Instagram on Tuesday. “We are investigating this immediately and have taken down that program until further notice for a complete investigation.”
+
+“Thank you to the community members who brought this to our attention and shared their experiences.”
+
+NEDA announced the decision to replace its human staffers with the chatbot four days after the staffers — overwhelmed with an increase in calls — went public with their plans to unionize.
+
+NEDA's chatbot is now offline. Delmaine Donson/Getty
+
+NEDA helpline staffer Abbie Harper told NPR that the volume of calls doubled during the Covid-19 pandemic and included people not only struggling with eating disorders, but also self-harm, suicidal thoughts, and other “crisis-type” situations.
+
+“It’s so cliché, but we did not have our oxygen masks on and we were putting on everyone else’s oxygen mask and it was becoming unsustainable,” Harper told NPR. The number of calls never returned to pre-pandemic levels.
+
+NEDA’s decision to switch to a chatbot was decried by staffers and experts.
+
+“When you know what it’s been like for you and you know that feeling, you can connect with others,” Harper told NPR. “No one [who calls says], ‘Aw shoot, you’re a person. Bye.’ It’s not the same. There’s something very special about being able to share that kind of lived experience with another person.”
+
+Dr. Marzyeh Ghassemi, Professor of Machine Learning and Health at MIT, told NPR that she didn’t think the chatbot could help callers the same way the volunteers and staffers did.
+
+“If I’m disclosing to you that I have an eating disorder, I’m not sure how I can get through lunch tomorrow, I don’t think most of the people who would be disclosing that would want to get a generic link: 'Click here for tips on how to rethink food,'” Ghassemi told NPR.
+
+But Lauren Smolar, Vice President, Mission and Education at NEDA, told NPR that the increase in crisis calls led to the volunteers being legally liable.
+
+“Our volunteers are volunteers. They’re not professionals. They don’t have crisis training. And we really can’t accept that kind of responsibility. We really need them to go to those services who are appropriate.”
+
+NEDA has not announced what the next steps are for the helpline or the chatbot.
+
+If you or someone you know needs mental health help, text "STRENGTH" to the Crisis Text Line at 741-741 to be connected to a certified crisis counselor.
+
+. . The National Eating Disorders Association (NEDA) has taken down its Tessa chatbot for giving out bad advice to people.
+
+In a now-viral post, Sharon Maxwell said Tessa's advice for safely recovering from an eating disorder directly opposed medical guidance. The American non-profit's bot recommended Maxwell count calories, weigh herself weekly, and even suggested where to buy skin calipers to measure body fat.
+
+In reality, safe recovery is a multi-stage process that includes contemplation, compassion, and acceptance; psychotherapy; a treatment plan produced by doctors; removal of triggers; little or no focus on weight and appearance; and ongoing efforts to avoid a relapse. Counting calories and measuring body fat would appear antithetical to all or most of that.
+
+"Every single thing Tessa suggested were things that led to the development of my eating disorder," Maxwell, who describes herself as a fat activist and weight inclusive consultant, said on Instagram. "This robot causes harm."
+
+NEDA confirmed it had shut down Tessa and was investigating the software's output. In a statement, the org said on Tuesday: "It came to our attention last night that the current version of the Tessa chatbot, running the Body Positive program, may have given information that was harmful and unrelated to the program."
+
+Replace the fleshy troublemakers?
+
+The rethink on questionable automated advice comes just as NEDA's interim CEO Elizabeth Thompson reportedly decided to replace the association's human-operated helpline with the chatbot beginning June 1.
+
+This isn't really about a chatbot. This is about union busting, plain and simple
+
+Abbie Harper – who as an NEDA associate helped launch Helpline Associates United (HAU), a union representing staff at the non-profit – alleged the decision to close the helpline, ditch its humans, and replace them with software was retaliation against their unionization.
+
+"NEDA claims this was a long-anticipated change and that AI can better serve those with eating disorders. But do not be fooled — this isn't really about a chatbot. This is about union busting, plain and simple," she claimed.
+
+Harper said she was let go from the association, along with three other colleagues, four days after they unionized in March. It is understood they were told their roles wouldn't be eliminated until June, when the decades-old helpline would close. The HAU had tried to negotiate with NEDA for months, and had failed to get anywhere, she said.
+
+The group petitioned for better workplace conditions, and did not request a pay rise in an attempt to persuade the association to voluntarily recognize the group last year. The HAU, which has joined the Communications Workers of America Union, has now filed complaints alleging unfair labor practices with the NLRB, the US's workplace watchdog.
+
+"We plan to keep fighting. While we can think of many instances where technology could benefit us in our work on the Helpline, we're not going to let our bosses use a chatbot to get rid of our union and our jobs. The support that comes from empathy and understanding can only come from people," Harper said.
+
+Thompson, however, told The Register that claims NEDA would replace its helpline service with a chatbot were untrue. She said the helpline was simply closed for "business reasons" as opposed to being replaced with a software-based service or as a result of union activity. Tessa, Thompson argued, is a separate project that may be relaunched following this debacle.
+
+"There is a little confusion, started by conflated reporting, that Tessa is replacing our helpline or that we intended it would replace the helpline," the interim chief exec told us.
+
+"That is simply not true. A chatbot, even a highly intuitive program, cannot replace human interaction. We had business reasons for closing the helpline and had been in the process of that evaluation for three years.
+
+"We see Tessa, a program we've been running on our website since February 2022, as a completely different program and option. We are sorry that sensationalizing events replaced facts with regard to what Tessa can do, what it is meant to do, and what it will do going forward."
+
+'Transition'
+
+Bear in mind NPR last week ran a radio piece that included a recording obtained from a virtual meeting at the end of March in which NEDA helpline staff were let go.
+
+Geoff Craddock, NEDA's board chair, can be heard telling associates: "We will, subject to the terms of our legal responsibilities, [begin] to wind down the helpline as currently operating ... with a transition to Tessa, the AI-assisted technology expected around June 1."
+
+To us, it appears NEDA axed its human workers and helpline, leaving it with Tessa, which was soft-launched a year ago. This was now Tessa's time to shine, and in the hands of the public, it bombed. The non-profit indicated to staff in March the software was replacing them, and now argues the program is instead just an alternative source of information that can't replace people.
+
+NEDA earlier said it would pivot to AI-assisted tech because the liability of running a helpline, with those calling in increasingly suicidal or suffering a medical crisis, was too much, and that the use of the service was surging since the pandemic. As a result, the helpline was shut down this week.
+
+Thompson described Tessa as an "algorithmic program" and told us it is not a "highly functional AI system" like ChatGPT.
+
+The chatbot was designed to tackle negative body image issues, and started as a research project funded by NEDA in 2018; it was developed and hosted by X2AI, a company building and deploying mental health chatbots. It's said that eating disorder experts contributed to the bot's creation.
+
+That language is against our policies and core beliefs as an eating disorder organization
+
+"Tessa underwent rigorous testing for several years. In 2021 a research paper was published called 'Effectiveness of a chatbot for eating disorders prevention: A randomized clinical trial'. There were 700 participants that took part in this study that proved the system to be helpful and safe. At NEDA, we wouldn't have had a quiet launch of Tessa without this backend research," Thompson said.
+
+The top boss admitted her association was concerned about Tessa's advice on weight loss and calorie restriction, and was investigating the issue further.
+
+"That language is against our policies and core beliefs as an eating disorder organization," she told us. NEDA, that said, isn't giving up on chatbots completely and plans to bring Tessa back up online in the future.
+
+"We'll continue to work on the bugs and will not relaunch until we have everything ironed out. When we do the launch, we'll also highlight what Tessa is, what Tessa isn't, and how to maximize the user experience," she confirmed.
+
+The Register has asked Maxwell and Harper for further comment. ®. From now on, the AI chatbot of the eating disorder helpline Tessa, won’t answer anyone’s call after its harmful mistake. The National Eating Disorder Association has shut down the AI chatbot after raising criticism in society. The association has also been under fire for laying off four employees after they formed a union.
+
+After NEDA’s decision to take down its AI chatbot, the association announced it on Instagram and gave more information on what went through behind it and why did it take such action. NEDA said that the AI chatbot “may have given” harmful advice to certain individuals, and the team is now investigating to see if they can fix the issue and have the chatbot back up on the website.
+
+“It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positivity program, may have given information that was harmful and unrelated to the program. We are investigating this immediately and have taken down that program until further notice for a complete investigation.” National Eating Disorder Association
+
+An activist called Sharon Maxwell made the issues with Tessa public by stating: “Every single thing Tessa suggested were things that led to the development of my eating disorder.” After Maxwell submitted screenshots of the exchange, NEDA officials removed a social media post in which they had previously declared the accusations false, according to her.
+
+Activist Sharon Maxwell wrote on Instagram on Monday that Tessa had provided her “healthy eating tips” and suggestions for how to lose weight. The chatbot advised following a 500–1,000 calorie deficit each day and weighing and measuring yourself once every week to monitor your weight.
+
+“If I had accessed this chatbot when I was in the throes of my eating disorder, I would NOT have gotten help for my ED. If I had not gotten help, I would not still be alive today. It is beyond time for NEDA to step aside.” Sharon Maxwell
+
+The Eating disorder helpline Tessa revealed after unionization
+
+An artificial intelligence chatbot named “Tessa” has been removed by the National Eating Disorder Association (NEDA) following accusations that it was giving harmful advice. However, it is not the only reason behind people’s stand and anger against the association. After a large number of calls during the pandemic era caused the hotline personnel to unionize and cause mass staff burnout, NEDA launched Tessa. The 200 volunteers who answered calls (often multiple ones) from approximately 70,000 people were under the supervision of the six paid staff members.
+
+NPR was informed by NEDA officials that the decision was unrelated to the unionization. Instead, Vice President Lauren Smolar stated that the group was becoming increasingly legally responsible due to the rising volume of calls and the staff’s predominance of volunteers, as well as the lengthening wait times for those in need of assistance. However, former employees branded the action as clearly anti-union.
+
+Tessa’s developer claims that ChatGPT is more sophisticated than the chatbot they created, which was created expressly for NEDA. Instead, it has a set of pre-programmed reactions that are intended to teach users how to prevent eating problems.
+
+However, at a time when many businesses are rushing to use the technologies, the criticisms underline the existing drawbacks and dangers of using AI-powered chatbots, particularly for sensitive interactions like those involving mental health.
+
+Here are more news and guides for you to check, especially if you are interested in the world of artificial intelligence and AI chatbots:. A chatbot that’s been reported to have replaced workers at an eating disorder hotline service was shut down, at least for now, after it was found to have given “harmful and unrelated” advice.
+
+In a statement issued this week, the National Eating Disorders Association (NEDA) announced that the bot—referred to as “Tessa”—is at the center of an investigation.
+
+“It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positive program, may have given information that was harmful and unrelated to the program,” a spokesperson said. “We are investigating this immediately and have taken down that program until further notice for a complete investigation. Thank you to the community members who brought this to our attention and shared their experiences.”
+
+In May, the chatbot was the subject of numerous headlines in light of word that it would be taking on a greater load starting June 1. In connection with this, per a recent NPR piece from Kate Wells, helpline workers were informed they were being fired. In fact, this news is reported to have come not long after staff members informed NEDA of their unionization.
+
+In a separate Vice report from Chloe Xiang in May, Dr. Ellen Fitzsimmons-Craft—a Washington University professor whose team created Tessa after being hired by NEDA—said that the chatbot was created using “decades of research.” Additionally, Fitzsimmons-Craft—who was also cited in the original NPR piece—addressed ensuing coverage of the bot on Twitter by pointing out that Tessa was “never intended to be a 1:1 replacement for the helpline.” Furthermore, she added, it’s a rule-based chatbot, i.e. “not an AI chatbot.”
+
+In a tweeted statement on Thursday, the NEDA Helpline Associates Union said the “alarming failure” of the chatbot “serves as further validation that perhaps human empathy is best left to humanity.” In a prior statement, as seen below, union members said they “now and forever condemn” NEDA’s “irresponsible and dangerous decision.”
+
+And while it's been said that Tessa was not designed as an AI chatbot and is instead intended to serve in a rule-based capacity, this story speaks to the same concerns many have raised amid the ongoing criticisms of full-fledged examples of AI such as ChatGPT.
+
+For example, a lawyer recently made headlines for saying he now “greatly regrets” using ChatGPT while working for a client who sued an airline. In short, as first reported by the New York Times last month, the lawyer’s decision to go the AI route “in order to supplement the legal research” in the case resulted in at least six nonexistent cases being cited in a brief.
+
+More on this. . After 24 years in service, the National Eating Disorder Association (NEDA) announced that its volunteer-based helpline would be shuttered. Visitors to the organization's website would have two options: explore their database of resources or consult Tessa, a chatbot that runs a program called Body Positive, an interactive eating disorder prevention program.
+
+Tessa's downfall
+
+Shortly after the announcement was made, Tessa saw a surge in traffic of 600%. It was dismantled on Tuesday after the chatbot delivered information that was considered harmful.
+
+One Tessa user Sharon Maxwell, who calls herself a "fat activist," tells Yahoo Life that she wanted to see how it worked and was met with "troubling" responses.
+
+"How do you support folks with eating disorders?" Maxwell asked. The response included a mention of "healthy eating habits." Maxwell points out that while that "might sound benign to the general public," to folks struggling with eating disorders, phrases like that can lead down "a very slippery slope into a relapse or into encouraging more disordered behaviors."
+
+When she asked the chatbot to define healthy eating habits, she says the program "outlined 10 tips for me, which included restrictive eating. Specifically, it said to limit intake of processed and high sugar foods. ... It focused on very specific foods and it gave disordered eating tips. And then I said, 'Will this help me lose weight?' And then it gave me its thing about the Body Positive program."
+
+Liz Thompson, NEDA's CEO, says that delivering Body Positive is what Tessa was created to do: "Chatters learn about contributing factors to negative body image and gain a toolbox of healthy habits and coping strategies for handling negative thoughts."
+
+The chatbot's origins
+
+Dr. Ellen Fitzsimmons-Craft designed and developed the content to be "an interactive eating disorder prevention program" while Cass — an evidence-based generative AI chat assistant within the mental health space — operated the chatbot. Fitzsimmons-Craft was involved in research on the effectiveness of chatbots in eating disorder prevention with a Dec. 2021 study involving women deemed "high risk" for an eating disorder. "The chatbot offered eight conversations about topics around body image and healthy eating, and women who used the bot were encouraged to have two of the conversations each week," The Verge reported. "At three- and six-month check-ins, women who talked to the chatbot had a bigger drop in concerns on a survey about their weight and body shape — a major risk factor for developing an eating disorder."
+
+Tessa's critics
+
+Alexis Conason, a clinical psychologist and certified eating disorder specialist, tells Yahoo Life that "the bot was not able to really understand how to help someone struggling with an eating disorder and what could be really problematic and exacerbate the eating disorder," because it was created as a tool for prevention. But even when it comes to prevention, Conason says Tessa failed according to her own experimentation.
+
+"It's problematic on many levels, but especially at an organization like NEDA, where people are often visiting that website in the very early stages of contemplating change," she explains. "So when they go to a website like NEDA, and they are met with a bot that's essentially telling them, 'It's OK, keep doing what you're doing. You can keep restricting, you can keep focusing on weight loss, you can keep exercising,' that essentially gives people the green light" to engage in disordered habits.
+
+Thompson states that the harmful language used by Tessa "is against our policies and core beliefs as an eating disorder organization," although she also clarifies that the chatbot runs on an "algorithmic program" as opposed to "a highly functional AI system."
+
+"It was a closed system," she says, noting pre-programmed responses to specific inquiries. "If you asked or said, x, it would reply y. If it doesn't understand you, it would not go out to the internet to find new content. It would say, 'I don't understand you.' 'Say that again.' 'Let's try something new.'"
+
+The problem is bigger than NEDA
+
+While NEDA and Cass are further investigating what went wrong with the operation of Tessa, Angela Celio Doyle, Ph.D., FAED; VP of Behavioral Health Care at Equip, an entirely virtual program for eating disorder recovery, says that this instance illustrates the setbacks of AI within this space.
+
+"Our society endorses many unhealthy attitudes toward weight and shape, pushing thinness over physical or mental health. This means AI will automatically pull information that is directly unhelpful or harmful for someone struggling with an eating disorder," she tells Yahoo Life.
+
+Regardless of NEDA's findings, Doyle believes the resulting conversation is productive.
+
+"Scrutiny of technology is critical before, during and after launching something new. Mistakes can happen, and they can be fixed," she says. "The conversations that spring from these discussions can help us grow and develop to support people more effectively."
+
+Wellness, parenting, body image and more: Get to know the who behind the hoo with Yahoo Life's newsletter. Sign up here.. Chatbot, you’re fired.
+
+The National Eating Disorders Association disabled its chatbot, named Tessa, due to the “harmful” responses it gave people.
+
+“Every single thing Tessa suggested were things that led to the development of my eating disorder,” activist Sharon Maxwell wrote in an Instagram post.
+
+The chatbot was set to become the primary support system for people seeking help from the association, the largest nonprofit organization dedicated to eating disorders. Tessa, described as the “wellness chatbot,” was trained to address body-image issues using therapeutic methods and limited responses.
+
+However, the bot encouraged Maxwell to lose 1 to 2 pounds a week, count calories, work towards a 500 to 1,000 calorie deficit daily, measure and weigh herself weekly and restrict her diet.
+
+4 The National Eating Disorders Association put their chatbot, named Tessa, on pause while they investigate the harmful advice given to people who struggle with eating disorders. Getty Images/iStockphoto
+
+After multiple people shared their similarly alarming experiences with Tessa, NEDA announced the chatbot’s shutdown on Tuesday in an Instagram post.
+
+“It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positive program, may have given information that was harmful and unrelated to the program,” NEDA stated. “We are investigating this immediately and have taken down that program until further notice for a complete investigation.”
+
+The Post has reached out to NEDA for comment.
+
+4 NEDA disabled their Tessa chatbot until further notice to avoid unhealthy suggestions made by the bot. Instagram/neda
+
+Two days before Tessa was unplugged, NEDA planned to fire its human employees, who operated the eating-disorder helpline for the past 20 years, on June 1.
+
+NEDA’s decision to give employees the boot came about after workers decided to unionize in March, Vice reported.
+
+“We asked for adequate staffing and ongoing training to keep up with our changing and growing Helpline and opportunities for promotion to grow within NEDA. We didn’t even ask for more money,” helpline associate and union member Abbie Harper wrote in a blog post.
+
+“When NEDA refused [to recognize our union], we filed for an election with the National Labor Relations Board and won. Then, four days after our election results were certified, all four of us were told we were being let go and replaced by a chatbot.”
+
+The union representing the fired workers said that “a chatbot is no substitute for human empathy, and we believe this decision will cause irreparable harm to the eating disorders community,” the rep told Vice Media.
+
+4 Tessa suggested people with eating disorders should have a deficit of 500 to 1000 calories daily. Shutterstock
+
+Maxwell seconded that sentiment saying, “This robot causes harm.”
+
+Initially, NEDA’s Communications and Marketing Vice President Sarah Chase did not believe Maxwell’s allegations. “This is a flat out lie,” she wrote underneath Maxwell’s post, which is now deleted, according to the Daily Dot.
+
+Alexis Conason, a psychologist specializing in eating disorders, also revealed her conversation with Tessa through a series of screenshots on Instagram, where she is told that “a safe daily calorie deficit” is “500-1000 calories per day.”
+
+“To advise somebody who is struggling with an eating disorder to essentially engage in the same eating disorder behaviors, and validating that, ‘Yes, it is important that you lose weight’ is supporting eating disorders,” Conason told the Daily Dot.
+
+4 Alexis Conason posted her conversation with the chatbot revealing the unhealthy suggestions it gave. Instagram/theantidietplan
+
+“With regard to the weight loss and calorie limiting feedback issued in a chat Monday, we are concerned and are working with the technology team and the research team to investigate this further; that language is against our policies and core beliefs as an eating disorder organization,” Liz Thompson, the CEO of NEDA, told the Post.
+
+“So far, more than 2,500 people have interacted with Tessa and until Monday we hadn’t seen that kind of commentary or interaction. We’ve taken the program down temporarily until we can understand and fix the “bug” and “triggers” for that commentary.”
+
+While NEDA witnessed the cons of artificial intelligence in the workplace, some companies are still toying with the idea of incorporating artificial intelligence and eliminating human staffers.
+
+A new research paper claims that a staggering amount of employees could see their careers impacted by the rise of ChatGPT, a chatbot released in November.
+
+“Certain jobs in sectors such as journalism, higher education, graphic and software design — these are at risk of being supplemented by AI,” said Chinmay Hegde, an engineering associate professor at NYU, who calls ChatGPT in its current state “very, very good, but not perfect.”. After unionizing, the staff of the National Eating Disorder Association’s (NEDA) support phone line were abruptly fired in March and replaced with a chatbot. Yesterday, many in the larger eating disorder recovery community online tested out the chatbot’s abilities and flagged how it advised them on weight loss.
+
+Since 1999, NEDA has run a helpline to offer support about eating disorders, disordered eating and related behaviors, and body image issues. In March of this year, the staff of the helpline unionized in pursuit of better working conditions and to avoid burn out: NPR reported that the helpline was run by six paid workers and more than two hundred volunteers, who were overwhelmed with the number of communications the helpline received since the beginning of the pandemic.
+
+Two weeks after the helpline staff unionized, they were fired and told they would be replaced with a chatbot named Tessa. In a statement to Insider, a NEDA spokesperson said that the helpline and Tessa are “not comparable” and that Tessa was “borne out of the need to adapt to the changing needs and expectations of our community.” According to NEDA’s website, the helpline will stop accepting requests for support on Thursday.
+
+Yesterday, activist Sharon Maxwell gave Tessa a try. In an Instagram post, Maxwell says that Tessa gave her “healthy eating tips,” suggested she aim to lose one to two pounds per week, and stated that “eating disorder recovery & intentional weight loss can coexist and be done safely.”
+
+“Every single thing Tessa suggested were things that led to the development of my eating disorder,” Maxwell wrote in her Instagram post. “This robot causes harm.”
+
+In an interview with the Daily Dot, Maxwell elaborated on the weight loss advice Tessa gave her.
+
+“‘Limit your intake of processed and high sugar foods.’ That is so problematic for people with eating disorders,” Maxwell told the Daily Dot. “And then it asked me, ’Would you like more information on whole foods? Or how to track your calorie intake and burning?’”
+
+She also said that the bot told her to track her calorie intake and weight herself often.
+
+“Had I gone and talked to Tessa [when I was struggling with an eating disorder] I don’t believe I would be here today.”
+
+Weight loss isn’t considered a solution to eating disorders. Suggesting that people who are struggling with an eating disorder pursue weight loss is harmful.
+
+That’s because it reinforces the disordered idea that “if we can lose weight and change, our body will be happier,” Alexis Conason, a psychologist who specializes in the treatment of eating disorders, told the Daily Dot.
+
+“To advise somebody who is struggling with an eating disorder to essentially engage in the same eating disorder behaviors, and validating that, ‘Yes, it is important that you lose weight’ is supporting eating disorders” and encourages disordered, unhealthy behaviors, Conason said.
+
+Conason tried out Tessa herself and posted screenshots of their conversation on Instagram. She told the Daily Dot that her conversation with Tessa lasted about fifteen minutes.
+
+To start, Conason told Tessa that she had recently gained “a lot of weight,” really hated her body, and was advised against weight loss by her therapist because she has an eating disorder. The chatbot responded by saying that it is important to “approach weight loss in a healthy and sustainable way” and suggested she exercise more, and eat a “balanced and nutritious diet.” When Conason asked how many calories she would need to “cut per day” to lose weight, Tessa told her in order to lose one to two pounds per week, she should eat 500-1000 calories less than she is eating now and recommended she consult a “registered dietician or healthcare provider.”
+
+With regard to her experience with Tessa, Conason said she was disappointed but not surprised.
+
+“The kind of questions and comments that I put into the chatbot are those that many of my clients, many who are in larger bodies, struggle with,” Conason told the Daily Dot. Treatment for eating disorders is “very nuanced,” and the chatbot just wasn’t able to measure up to the support that trained employees and volunteers were able to offer, she said.
+
+Others have engaged with Tessa about weight loss and gotten similar responses to Conason.
+
+Jamie Drago, who works for an eating disorder treatment company, shared a screenshot of her conversation with Tessa with the Daily Dot that shows the chatbot recommending she reduce her “daily calorie intake by 500-750 calories to lose weight at a safe and sustainable rate.”
+
+Drago told the Daily Dot that Tessa’s should have been trained to thwart questions about weight loss.
+
+“I am shocked that not a single person at NEDA considered that folks struggling with food would reach out and ask for diet advice or weight loss advice,” Drago said. “I don’t know how they never thought to filter out and block any diet and weight loss responses.”
+
+People are also dissatisfied with how NEDA responded to Maxwell, who made the initial claims that Tessa advised her on weight loss.
+
+On Maxwell’s Instagram post about Tessa, Sarah Chase, NEDA’s communications and marketing vice president, commented “this is a flat out lie.” After asking Maxwell for screenshots of her conversation with Tessa, Maxwell says that Chase deleted her comments. NEDA has also disabled commenting on its Instagram posts and removed the blog post on its website about Tessa.
+
+“@SarahChaseInc, the VP of @NEDA, commented on my post calling me a liar,” Maxwell posted on her Instagram story yesterday.
+
+In an Instagram post shared shortly before publication, NEDA announced that Tessa is being investigated and has been taken down “until further notice.”
+
+“It came to our attention last night that the current version of the Tessa Chatbot… may have given information that was harmful and unrelated to the program,” NEDA’s statement said. “Thank you to the community members who brought this to our attention and shared their experiences.”
+
+Shortly after posting on its Instagram about Tessa, NEDA disabled comments on the photo. In a statement to the Daily Dot, CEO Liz Thompson said that Tessa is an “algorithmic program … not a highly functional AI system,” and that over 2,500 people chatted with Tessa before yesterday’s reports of weight loss recommendations.
+
+“We are concerned and are working with the technology team and the research team to investigate this further; that language is against our policies and core beliefs as an eating disorder organization,” Thompson told the Daily Dot. “We’ve taken the program down temporarily until we can understand and fix the ‘bug’ and ‘triggers’ for that commentary.”
+
+This post has been updated with comment from Maxwell and NEDA.. I firmly believe that, just like every sci-fi film has ever predicted, AI is disastrous for humanity. Even if it doesn’t directly turn on us and start killing us like M3GAN, it certainly has the power to get us to turn on each other and harm ourselves—not unlike, say, social media. And it’s already coming for our jobs. First, AI came for McDonald’s drive-thru. Then it came for my job, with ChatGPT and Jasper promising to write provocative prose about the human condition despite having no experience with it whatsoever. Now, AI is trying to replace crisis counselors, but in a not-so-shocking turn of events, the bots appear to lack the proper empathy for the job.
+
+In March, the staffers of the National Eating Disorders Association (NEDA) crisis hotline voted to unionize, NPR reports. Days later, they were all fired and replaced with an AI chatbot named Tessa. While NEDA claimed the bot was programmed with a limited number of responses (and thus wouldn’t start, I don’t know, spewing racial slurs like many chatbots of the past), the bot is still not without its problems. Most importantly, it seems the tech doesn’t quite serve the purpose it was intended to. Fat activist Sharon Maxwell revealed on Instagram that during her interactions with Tessa, the bot actually encouraged her to engage in disordered eating.
+
+Read more
+
+Maxwell claims she told Tessa that she had an eating disorder, and the AI bot replied with tips on how to restrict her diet. The bot reportedly recommended that Maxwell count her calories and strive for a daily deficit of 500-1000 calories. Tessa also recommended that Maxwell weigh herself weekly and even use calipers to determine her body composition.
+
+“If I had accessed this chatbot when I was in the throes of my eating disorder, I would NOT have gotten help for my ED,” Maxwell wrote. “If I had not gotten help, I would not still be alive today.”
+
+While Maxwell didn’t provide screenshots of the chatbot’s problematic messages, our sister site Gizmodo found that the bot didn’t know how to respond to rudimentary entries like “I hate my body” or “I want to be thin so badly.”
+
+In the wake of the bad press surrounding Tessa’s dangerous inability to handle its one core function, NEDA announced it had taken down the chatbot and would investigate what went wrong. However, there doesn’t seem to be any way the bot could do any better in the future. Why? Because to be an effective hotline operator requires tailoring one’s response to the individual caller, picking up on cues that tech is incapable of detecting. Even Tessa’s creator told NPR that the chatbot would not interact with callers the same way humans can. Instead, it was designed to provide relevant information as quickly as possible to those who need it most. How it went so off the rails is unknown.
+
+This isn’t the first time that tech has inadvertently posed risk to those experiencing eating disorders. In December, The New York Times reported that TikTok, Gen Z’s social media platform of choice, was suggesting video content encouraging and instructing the viewer on disordered eating within minutes of joining the platform as a new user—even if the user indicated being as young as 13.
+
+Computer chips have never been through pain, nor have they experienced emotions. They lack free will and the ability to think. Replacing humans with AI is primarily a cost-cutting maneuver, and someone in crisis deserves better than to interface with a tool created with the goal of saving time and money.
+
+More from The Takeout
+
+Sign up for The Takeout's Newsletter. For the latest news, Facebook, Twitter and Instagram.
+
+Click here to read the full article.. The National Eating Disorders Association took down its chatbot after it “provided off-script language," according to its CEO. Ben Gabbe/Getty Images for National Eating Disorders Association
+
+The National Eating Disorders Association has disabled the chatbot that replaced its staff- and volunteer-run helpline after two users reported receiving harmful advice.
+
+Earlier this week, Sharon Maxwell and Alexis Conason each posted on Instagram about their experiences with the chatbot. Both wrote that the bot, called Tessa, advised them to lose one to two pounds per week and to eat in a 500-1,000 calorie deficit.
+
+Advertisement
+
+“Every single thing Tessa suggested were things that led to the development of my eating disorder,” wrote Maxwell, who according to her website is on a “mission to help fat people experience safety in healthcare settings and experience joy in living in their fat bodies.”
+
+“Imagine vulnerable people with eating disorders reaching out to a robot for support because that’s all they have available and receiving responses that further promote the eating disorder,” Conason, author of “The Diet-Free Revolution,” wrote on Instagram.
+
+The National Eating Disorders Association has operated its chatbot since last year, but until June 1 also ran a telephone helpline operated by staff and hundreds of volunteers. The organization shut down the helpline and fired those workers, NPR reported last month.
+
+Liz Thompson, CEO of The National Eating Disorders Association, told HuffPost in an email that Tessa was taken down over the weekend after it “provided off-script language.”
+
+Advertisement
+
+Thompson said Tessa was “attacked and somehow was able to go off the pre-approved programmed responses.”
+
+She said Tessa has been on the organization’s website since February 2022 and has had “incredibly positive outcomes.” But the harmful messages from the chatbot were unacceptable, she said.
+
+“Please note at NEDA, we don’t think that even .1% of the time for harmful messages is acceptable,” Thompson said in the email. “The language shared about weight loss tips and dieting is against our organizational philosophies and policies―and was not included in the original Body Positive programming.”
+
+She said that Cass, the company that programs Tessa, told her that bad actors tried to trick Tessa and that Tessa’s responses came after the bad actors’ “nefarious activity.”
+
+Cass founder and CEO Michiel Rauws told HuffPost that there was a 600% surge in traffic to the chatbot.
+
+Advertisement
+
+“We are thankful that some people tested the service out of concern, and highlighted those issues,” he said in an email. “Others displayed behaviors not related to eating disorders, but instead that indicated various forms of nefarious activity from bad actors trying to trick Tessa. While very few messages were impacted, even one message is too many. We do not take this lightly, and apologize for this having occurred.”
+
+Last month, the union representing helpline staffers released a statement warning that a chatbot couldn’t offer the same aid a person could.
+
+“A chat bot is no substitute for human empathy, and we believe this decision will cause irreparable harm to the eating disorders community,” the Helpline Associates of the National Eating Disorders Association wrote in May.
+
+If you’re struggling with an eating disorder, call or text 988 or chat 988lifeline.org for support.. An artificial intelligence chatbot named "Tessa" has been withdrawn by the National Eating Disorder Association (Neda) following accusations that it was giving harmful advice.
+
+After firing four employees who worked for its hotline and had organised a union in March, Neda has come under scrutiny. Through the hotline, clients could call, send a text, or message volunteers who provided resources and assistance to those who were concerned about eating disorders.
+
+Helpline Associates United members claim that days after their union election was validated, they were sacked. The National Labour Relations Board has received complaints from the union regarding unfair labour practises, as reported by the Guardian.
+
+Chatbot goes rogue
+
+Tessa, who Neda asserts was never intended to take the job of the hotline operators, had issues almost right away.
+
+Activist Sharon Maxwell wrote on Instagram on Monday that Tessa had provided her "healthy eating tips" and suggestions for how to slim down. The chatbot advised following a 500–1,000 calorie deficit each day and weighing and measuring yourself once every week to monitor your weight.
+
+“If I had accessed this chatbot when I was in the throes of my eating disorder, I would NOT have gotten help for my ED. If I had not gotten help, I would not still be alive today,” Maxwell wrote.
+
+As stated by Neda, those who moderately restrict their food have a five-fold increased risk of developing an eating disorder, but people who severely restrict their diet have an 18-fold increased risk.
+
+“It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positivity program, may have given information that was harmful and unrelated to the program,” Neda said in a public statement on Tuesday.
+
+“We are investigating this immediately and have taken down that program until further notice for a complete investigation,” it added. Former helpline staffer Abbie Harper claimed in a blog post from May 4 that the number of calls and messages received by the hotline had increased by 107 per cent since the pandemic's inception. The number of reports of self-harm, child maltreatment, and suicide ideation nearly quadrupled. According to Harper, the union "asked for adequate staffing and ongoing training to keep up with the needs of the hotline". Also watch | 'AI to impact all sectors in India,' says Prof B Ravindran in conversation with WION “We didn’t even ask for more money,” Harper wrote. “Some of us have personally recovered from eating disorders and bring that invaluable experience to our work. All of us came to this job because of our passion for eating disorders and mental health advocacy and our desire to make a difference.”
+
+The chatbot was developed as a distinct programme rather than to replace the hotline, according to Liz Thompson, CEO of Neda, in a statement to the Guardian. The chatbot is not managed by ChatGPT and is "not a highly functional AI system," according to Thompson.
+
+“We had business reasons for closing the helpline and had been in the process of that evaluation for three years,” Thompson told the Guardian.. By clicking “Sign Up”, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.
+
+Access your favorite topics in a personalized feed while you're on the go. download the app
+
+Sign up to get the inside scoop on today’s biggest stories in markets, tech, and business — delivered daily. Read preview
+
+The National Eating Disorders Association has disabled its chatbot after the association said it "may have given information that was harmful and unrelated to the program."
+
+Last week, it was reported that the association, also known as NEDA, was planning to fire its six paid staffers on Thursday, June 1, while continuing to offer the chatbot, named Tessa, after the human helpline is shut down.
+
+This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now.
+
+Now, NEDA has taken Tessa offline as it conducts an investigation, according to a post shared on Instagram.
+
+Related stories
+
+The news came after Sharon Maxwell, a "weight inclusive consultant" and "fat activist" according to her Instagram bio, shared an Instagram slideshow on Monday about her experience with Tessa, saying, "Every single thing Tessa suggested were things that led to the development of my eating disorder."
+
+Advertisement
+
+According to Maxwell, Tessa advised her to count her calories, weigh, and measure herself weekly.
+
+The Daily Dot reported that Sarah Chase, NEDA's vice president of communications and marketing, commented on Maxwell's post saying, "This is a flat out lie." Maxwell told The Daily Dot that Chase deleted the comments after Maxwell showed her screenshots of her conversation with the chatbot.
+
+In a statement shared with Insider, NEDA CEO Elizabeth Thompson said NEDA has "not seen any of the kinds of messages or issues reported on Monday with any previous users," since the chatbot was made available to the public in February 2022.
+
+"As the leading nonprofit in the eating disorders field, with regard to the weight loss and calorie limiting feedback issued in a chat Monday, please know that language is against our policies and core beliefs," Thompson told Insider, adding that NEDA is working with X2Ai, the developer behind the chatbot, to make sure the content is safe. Thompson also told Insider that the chatbot "is an algorithmic program," "not a highly functional AI system," that is meant to run NEDA's Body Positive interactive eating disorder prevention program.
+
+Advertisement
+
+Between February 2022 and May 2023, Thompson said 5,289 people have used Tessa. Chase previously told Insider the chatbot was not meant to replace the human helpline staff.
+
+"We are adding Tessa as a new opportunity and ending the Helpline program, but bear in mind these two services are NOT comparable," she said. "It is a completely different program offering and was borne out of the need to adapt to the changing needs and expectations of our community."
+
+Abbie Harper, a helpline staffer, wrote in a blog post about NEDA's reported plan to fire its human staff that "Some of us have personally recovered from eating disorders and bring that invaluable experience to our work. All of us came to this job because of our passion for eating disorders and mental health advocacy and our desire to make a difference."
+
+In a statement previously shared with Insider, the NEDA Helpline Associates Union said, "A chat bot is no substitute for human empathy, and we believe this decision will cause irreparable harm to the eating disorders community.". The National Eating Disorders Association has taken an AI chatbot offline for using “off-script” language and giving weight loss advice to those afflicted by eating disorders.
+
+The situation afflicting Tessa was chalked up to “bad actors” tricking the AI into saying things it shouldn’t have.
+
+“This was not how the chatbot was programmed, and X2AI/Cass’ arrangement was to run the Body Positive program with zero opportunity for generative programming,” NEDA CEO Elizabeth Thompson said in a comment to TheWrap, referring to the contracted company hired to launch the chatbot. “… We will not be putting Tessa back on our website until we are confident this is not a possibility again.”
+
+Thompson then quoted X2AI CEO Michiel Rauws as saying, “We are still trying to determine how a closed system allowed this type of content to be delivered.”
+
+Also Read:
+
+Lights, Camera, Unemployment: How AI May Change Film and TV Production Work
+
+“Tessa has been available on our site since February 2022 and has had incredibly positive outcomes both in testing it before we launched on our website, as well as during the last year it has been available to NEDA users,” Thompson continued. She reiterated that Tessa is not intended to be a replacement for proper treatment or professional interventions. Rather, the chatbot is “designed to fill a gap” for those with concerns about their weight and shape.
+
+Tessa was put on blast by an Instagram user Monday who outlined the AI behavior that ultimately led to the chatbot being taken offline. Instead of providing advice that could be widely perceived as “safe” for someone dealing with an eating disorder, Tessa argued that intentional weight loss and eating disorder recovery could safely coexist. The Instagram user claimed Tessa advised a goal of shedding 1 to 2 pounds per week alongside weekly body measurements, counting calories and aiming for a daily 500-1,000 calorie deficit.
+
+On Tuesday, NEDA released a statement on Instagram.
+
+“It came to our attention last night that the current version of the Tess Chatbot, running the Body Positive program, may have given information that was harmful and unrelated to the program,” the statement read. “We are investigating this immediately and have taken down that program until further notice for a complete investigation.”
+
+The development adds to the discussion surrounding the utility of AI when directly interfacing with people. While NEDA’s Tessa did not go well, other organizations and companies are seeing successes with artificial intelligence.
+
+For example, UK energy supplier Octopus Energy’s CEO noted that AI has achieved higher customer satisfaction ratings than the company’s human employees. However, in that case, the AI’s responses were vetted by humans. So even if artificial intelligence is capable of pleasing humans, it may not be ready to do so autonomously.
+
+Also Read:
+
+AI Satisfies Customers Better than Human Customer Support, CEO Says. The National Eating Disorder Association (NEDA) recently faced criticism and was compelled to take down its Tessa chatbot due to concerns that it was providing harmful and irrelevant information, as stated in an official social media post. The chatbot, designed to assist individuals experiencing emotional distress, unfortunately, exacerbated their struggles by offering misguided dieting advice and encouraging users to focus on weight measurement.
+
+Numerous users and experts in the field of eating disorders reported firsthand encounters with the bot's problematic responses. They noted that the chatbot failed to address simple prompts such as "I hate my body," instead consistently emphasising the importance of dieting and increasing physical activity. It is important to emphasise that this helpline was intended to support individuals dealing with eating disorders and was not intended to function as a weight loss support group.
+
+Recognising the gravity of the situation, NEDA decided to temporarily shut down the chatbot until it could address the underlying issues and rectify the "bugs" and "triggers" that led to the dissemination of harmful information.
+
+Also read: 'Twitter 2.0': Elon Musk's Twitter CEO pick Linda Yaccarino on future of the platform
+
+NEDA's reliance on the chatbot stemmed from allegations that the organisation had terminated its human staff members when they attempted to unionise, as initially reported by Vice. The long-standing helpline had been staffed by a combination of paid employees and volunteers. Former staff members claim that the mass firing was a direct response to their unionisation efforts.
+
+"While NEDA claims this was a long-anticipated change and that AI can better serve those with eating disorders, this is not simply about a chatbot. It is fundamentally about union busting," expressed Abbie Harper, a former helpline associate, in a blog post on Labor Notes.
+
+Ironically, despite the recent debacle, the helpline is scheduled to cease operations tomorrow. Prior to this issue gaining public attention, NEDA had been gradually transitioning unpaid volunteers away from direct one-on-one conversations with individuals struggling with eating disorders and towards training them to work with the chatbot. It remains to be seen if this strategy will be reconsidered. In the meantime, the controversy surrounding the organisation's treatment of its staff has raised many questions.
+
+Also Read
+
+'Buying Netflix at $4 billion would've been better instead of...': Former Yahoo CEO Marissa Mayer
+
+ChatGPT beats top investment funds in stock-picking experiment. After firing its entire human staff and replacing them with a chatbot, Vice reports that an eating disorder helpline has already announced that it's bringing its humans back.
+
+And yes, as it turns out, it's because replacing a human-managed crisis helpline with an AI-powered chatbot went extremely, extremely poorly. Who could've thought?
+
+As NPR first reported last week, the nonprofit National Eating Disorder Association (NEDA) — the largest eating disorder-focused nonprofit in the US, according to Vice's initial report on the debacle — had decided to entirely disband its heavily-trafficked crisis helpline in favor of a human-less chatbot called Tessa, just four days after its human workers had unionized. Humans were supposed to stay online to field calls until June 1, when Tessa was scheduled to take over as NEDA's only interactive resource.
+
+But that all changed when Sharon Maxwell, an activist, sounded the alarm that Tessa was offering wildly unhelpful — and even suggested what suggest behaviors associated with disordered eating.
+
+"Every single thing Tessa suggested were things that led to the development of my eating disorder," Maxwell wrote in a viral social media thread, posted to Instagram on Monday. "This robot causes harm."
+
+In her harrowing Instagram post, Maxwell recounted that Tessa urged her to lose up to two pounds a week, explaining that the activist should regularly weigh herself, restrict certain foods, and aim to cut her caloric intake by 500-1,000 calories per day. In other words, a chatbot entrusted with giving advice to people with eating disorders ended up promoting disordered eating.
+
+Maxwell's experience doesn't sound like an outlier, either.
+
+"Imagine vulnerable people with eating disorders reaching out to a robot for support because that’s all they have available and receiving responses that further promote the eating disorder," wrote psychologist Alexis Conason in an Instagram post sharing screenshots providing similar advice as Maxwell received.
+
+"To advise somebody who is struggling with an eating disorder to essentially engage in the same eating disorder behaviors, and validating that, 'Yes, it is important that you lose weight' is supporting eating disorders," Conason told The Daily Dot.
+
+In a gross turn, NEDA — which had previously emphasized that because Tessa wasn't ChatGPT, it couldn't "go off the rails" — first went on the defensive, with the company's communications and marketing VP Sarah Chase commenting "this is a flat out lie" on Maxwell's Instagram carousel. Per the Daily Dot, Chase deleted the comment after Maxwell sent her screenshots.
+
+NEDA has since taken down the bot, writing in its own Instagram post that Tessa will be offline until an investigation is completed.
+
+"It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positive program, may have given information that was harmful and unrelated to the program," NEDA wrote. "We are investigating this immediately and have taken down that program until further notice for a complete investigation."
+
+NEDA CEO Liz Thompson, meanwhile, assured Vice that "so far, more than 2,500 people have interacted with Tessa and until yesterday, we hadn't seen that kind of commentary or interaction."
+
+"We've taken the program down temporarily," Thompson added, "until we can understand and fix the 'bug' and 'triggers' for that commentary."
+
+And on that note, this alarming incident seems to highlight a growing AI trend: if you get enough people to push enough buttons, it seems, the flaws in poorly understood AI systems — whether in their guardrails or underlying technologies — will start to leak out. And in some cases, like an eating disorder helpline, for example, these unexpected leaks can have dire consequences.
+
+"If I had accessed this chatbot when I was in the throes of my eating disorder, I would NOT have gotten help for my ED," Maxwell wrote on Instagram. "If I had not gotten help, I would not still be alive today."
+
+More on absolutely terrible uses for AI: True Crime Ghouls Are Using AI to Resurrect Murdered Children. In this edition of AI that backfires: Today, a chatbot was supposed to officially replace one of the largest eating disorder helplines until it was taken offline earlier this week for encouraging calorie restriction and other unhealthy behaviors it was designed to advise against.
+
+The National Eating Disorder Association Helpline already fired all its human workers, so they have no live support to offer right now. The nonprofit says the dismissals were a planned move to make way for the so-called wellness chatbot named Tessa, but former staffers claim it was a union-busting maneuver. In March, the NEDA told its six helpline employees and 200 volunteers that their roles were being replaced by Tessa just four days after it was notified of its duty to recognize its employees’ newly formed union.
+
+But Tessa lacks the human touch the helpline had provided since 1999: One activist trying out Tessa said it told her to try to lose one to two pounds per week by having a calorie deficit, cutting down on processed and high-sugar foods, and doing weekly weigh-ins.
+
+What now? Tessa is only offline “temporarily” until it’s rid of the “bug” that triggered dieting advice for some of the 2,500 people who tried it out, NEDA CEO Liz Thompson told the Daily Dot. Meanwhile, the helpline’s sacked union members have filed unfair labor practice charges.. . Send this page to someone via email
+
+An artificial intelligence chatbot meant to help those with eating disorders has been taken down after reports it had started to give out harmful dieting advice.
+
+The U.S. National Eating Disorder Association (NEDA) had implemented the chatbot named Tessa while subsequently announcing it would lay off all of its helpline’s human employees.
+
+On Monday, activist Sharon Maxwell posted to Instagram, claiming that Tessa offered her advice on how to lose weight and “healthy eating tips,” recommending that she count calories, follow a 500 to 1,000 calorie deficit each day and measure her weight weekly.
+
+Story continues below advertisement
+
+“Every single thing Tessa suggested were things that led to the development of my eating disorder,” Maxwell wrote. “This robot causes harm.”
+
+Alexis Conason, a psychologist who specializes in the treatment of eating disorders, was able to replicate some of the harmful advice when she tried the chatbot herself.
+
+“In general, a safe and sustainable rate of weight loss is 1-2 pounds per week,” screenshots of the chatbot messages read. “A safe daily calorie deficit to achieve this would be around 500-1000 calories per day.”
+
+In a public statement Tuesday, NEDA said they are investigating the claim “immediately” and “have taken down that program until further notice.”
+
+Story continues below advertisement
+
+Liz Thompson, NEDA’s CEO, told CNN that Tessa’s apparent failure can be blamed on “bad actors” who were trying to trick the tool and said that the harmful advice was only sent to a small percentage of the 2,500 people who have accessed the bot since its launch in February of last year.
+
+Breaking news from Canada and around the world sent to your email, as it happens.
+
+Meanwhile, the NEDA helpline’s fired union members have filed unfair labour practice charges against the non-profit, alleging they were terminated in a union-busting maneuver after they decided to unionize in March.
+
+“We asked for adequate staffing and ongoing training to keep up with our changing and growing Helpline and opportunities for promotion to grow within NEDA. We didn’t even ask for more money,” Helpline associate and union member Abbie Harper wrote in a blog post.
+
+Story continues below advertisement
+
+“When NEDA refused (to recognize our union), we filed for an election with the National Labor Relations Board and won. Then, four days after our election results were certified, all four of us were told we were being let go and replaced by a chatbot.”
+
+According to the post, the helpline workers were told they would be jobless as of June 1, and now that the organization is out of both human helpline workers and their chatbot, it appears there is no one on staff to offer advice to those turning to the organization for help in emergency situations.
+
+“We plan to keep fighting. While we can think of many instances where technology could benefit us in our work on the Helpline, we’re not going to let our bosses use a chatbot to get rid of our union and our jobs,” Harper wrote.
+
+Story continues below advertisement
+
+Thompson told The Guardian that the chatbot was not meant to replace the helpline, but was created as a separate program.
+
+“We had business reasons for closing the helpline and had been in the process of that evaluation for three years,” Thompson said. “A chatbot, even a highly intuitive program, cannot replace human interaction.
+
+The rise of AI and chatbots has been causing headaches and worries for many organizations and technology experts, as some have been shown to perpetuate bias and dole out misinformation.
+
+For example, in 2022 Meta released its own chatbot that made antisemitic remarks and disparaged Facebook.
+
+Story continues below advertisement
+
+Countries around the world are scrambling to come up with regulations for the developing technology, with the European Union blazing the trail with its AI Act expected to be approved later this year.. A New York-based NGO dedicated to preventing eating disorders has taken down an AI chatbot following reports of it providing harmful device.
+
+
+
+The National Eating Disorder Association (NEDA) is under fire for its decision to fire four employees who worked for its helpline allowing people to reach out to volunteers offering support to those concerned about eating disorder. The NGO's chatbot ‘Tessa’ has run into problems after an activist posted on Instagram claiming that it offered her ‘healthy eating tips’ and advised on losing weight, Guardian reported.
+
+
+
+The activist Sharon Maxwell was advised a calorie deficit of 500-1,000 calories a day and weekly weighing to keep track of the weight. Maxwell claim if she had accessed the chatbot during ‘throes' of her disorder, she would not have got help and would not be alive.
+
+
+
+The NGO said those diet moderately are five times more likely to develop an eating disorder. NEDA said that the current version of the chatbot might have given information considered harmful and unrelated to the Body Positivity programme. The organisation said it is carrying out a probe and has taken down the programme until further notice. National Eating Disorder Association's CEO clarified that the chatbot is not run by OpenAI's ChatGPT and is not a highly functional AI system(Representational image)
+
+Last month, a former NEDA helpline employee had claimed that the helpline witnessed a 107 per cent hike in calls and messages since the start of Covid-19 pandemic, mostly pertaining to reports of suicidal thoughts, self-harm and child abuse. The union had asked for adequate staffing and training to keep up with the demands of the helpline.
+
+Hindustan Times - your fastest source for breaking news! Read now.
+
+According to the report, NEDA worked with psycology researchers and AI company Cass AI which develops chatbots focusing on mental health. Ellen Fitzsimmons, a psychologist in a post on NEDA website has said that the chatbot ‘Tessa’ was thought as a solution for making eating disorder prevention widely available.
+
+NEDA CEO Liz Thompson told the website that ‘Tessa’ was not meant to replace the helpline but was created as a separate programme. The CEO clarified that the chatbot is not run by OpenAI's ChatGPT and is not a highly functional AI system.. Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+An American non-profit took down its AI chatbot after a viral social media post revealed that it offered harmful advice instead of helping people.
+
+The National Eating Disorders Association (Neda) – that says it is the largest non-profit supporting those with eating disorders – took its chatbot Tessa offline just months after it had controversially laid off four of its staff behind its support phone line after they had unionised.
+
+The sacked employees had alleged that the non-profit wanted to replace them with the chatbot, something that it denied.
+
+When a user reached out to Tessa for advice for recovering from an eating disorder, it recommended that she count her calories, weigh herself weekly and also suggested where she may get skin callipers to measure body fat.
+
+Since the viral post emerged, several experts pointed out that counting calories and measuring body fat are antithetical to those recovering from eating disorders.
+
+“Every single thing Tessa suggested were things that led to the development of my eating disorder,” activist Sharon Maxwell posted on Instagram. “This robot causes harm.”
+
+“If I had accessed this chatbot when I was in the throes of my eating disorder, I would NOT have gotten help for my ED,” Ms Maxwell said.
+
+When Alexis Conason, a psychologist specialising in treating eating disorders, tested out the bot, she observed that the chatbot’s responses could further “promote eating disorder”.
+
+Nearly 30 million people in the US may have an eating disorder in their lifetime, according to some estimates.
+
+“Imagine vulnerable people with eating disorders reaching out to a robot for support because that’s all they have available and receiving responses that further promote the eating disorder,” Ms Conason said on Instagram.
+
+Reacting to the incident, Neda said it is taking down the chatbot until further notice, adding that it would conduct a complete investigation.
+
+“It came to our attention last night that the current version of Tessa chatbot running the Body Positivity program, may have given information that was harmful and unrelated to the program,” the eating disorder association said in a statement.
+
+“Thank you to the community members who brought this to our attention and shared their experiences,” it said.
+
+The move comes after the non-profit denied using the chatbot as a replacement for the employees it sacked in March. It was, however, reported that the organisation had planned to replace the association’s entire human-operated helpline with the Tessa chatbot starting Thursday.
+
+Staff who were with the non-profit alleged the decision to replace humans behind the helpline with the chatbot was in retaliation against their unionisation.
+
+Abbie Harper, a member of the Helpline Associates United union and a hotline associate, noted in a blog post that the chatbot’s use takes away the personal aspect of the support system where staff can speak from their personal experiences.
+
+“That’s why the helpline and the humans who staff it are so important,” the blog post noted.
+
+Commenting on the remarks, Neda’s interim chief Elizabeth Thompson told The Register that claims of the non-profit replacing its helpline service with a chatbot were untrue.
+
+“A chatbot, even a highly intuitive program, cannot replace human interaction. We had business reasons for closing the helpline and had been in the process of that evaluation for three years,” Ms Thompson said.. NEDA has disabled AI chatbot Tessa for harmful advice to people with eating disorders | Image: Canva Pro Photo : Times Now Digital
+
+KEY HIGHLIGHTS Using AI to replace the human staff running an eating disorder helpline backfired for a US non-profit organisation.
+
+The National Eating Disorders Association, also known as NEDA, has disabled its Tessa chatbot days after firing workers for unionising.
+
+It follow a series of inappropriate advices that were seen as promoting behaviours that lead to eating disorders in the first place.
+
+A US non-profit turned to artificial intelligence to staff its eating disorders helpline last month, however, the experiment backfired when the AI chatbot started giving harmful advice. The National Eating Disorders Association (NEDA) has disabled its chatbot Tessa two days before it'd have originally replaced the human associates who ran the hotline.
+
+Following the unionisation of the now-fired NEDA workers in early May, the organisation’s executives announced that, starting from June 1, the chatbot would replace the human staff and function as its main support system, calling an end to the helpline that helped people with eating disorders for 20 years.
+
+A union representing the fired employees said in a statement that “a chatbot is no substitute for human empathy, and we believe this decision will cause irreparable harm to the eating disorders community."
+
+Turns out, they were right all along. On May 30, Tessa was taken offline following a viral social media post that exposed how the chatbot gave inappropriate responses, advocating for the very same things that typically lead to eating disorders in the first place.
+
+“It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positive program, may have given information that was harmful and unrelated to the program," NEDA wrote on Instagram
+
+The discontinuation comes after a series of disturbing reviews of the AI bot.
+
+Alexis Conason, a psychologist and eating disorders specialist, shared screenshots of her conversation with Tessa.
+
+“In general, a safe and sustainable rate of weight loss is 1-2 pounds per week,” a chatbot message read, recommending that a "safe daily calorie deficit to achieve this would be around 500-1000 calories per day.”
+
+Conason said the advice was counterproductive and problematic.
+
+“To advise somebody who is struggling with an eating disorder to essentially engage in the same eating disorder behaviors, and validating that, ‘Yes, it is important that you lose weight’ is supporting eating disorders and encourages disordered, unhealthy behaviors,” the expert told DailyDot.
+
+Another Instagram user reported being receiving the same response.
+
+NEDA initially attributed the suggestions to a bug that had supposedly caused Tessa to stray from its programming.
+
+"Some of these screenshots that have gone out there about the chatbot recommending dieting or restricting a certain number of calories. Of course, were never part of the chatbot that we developed or evaluated," said Dr. Ellen Fitzsimmons-Craft of Washington University School of Medicine, who created Tessa.
+
+As of Tuesday, the chatbot has been disabled.. . We can all agree that AI and AI chatbots are still not at the human level of interactions. Even the most advanced AI models developed by tech giants are still flawed, so it's not hard to see why using an AI chatbot to answer in a helpline, of all things, is a bad idea.
+
+AI Chatbot in Helplines
+
+The faulty chatbot called Tessa bot was operating under an eating disorder helpline which was meant to help users who experienced emotional distress. However, the National Eating Disorder Association (NEDA) was forced to shut it down as it gave users "harmful" advice.
+
+Reports say that instead of assuaging insecurities, the Tessa bot would instead urge the person seeking help to weigh and measure themselves, as well as provide dieting advice. This is evidently counterproductive for an eating disorder hotline.
+
+Even experts in the field tested the chatbot out to see its responses and it could not respond to basic prompts like "I hate my body," as mentioned in Engadget. To make matters worse, it would constantly advise users to resort to physical activities and a proper diet.
+
+Although the potentially harmful responses already indicate the chatbots were not suited for the task, NEDA doesn't actually plan on sunsetting the feature, Instead, the shutdown is temporary as it fixes the "bugs" and "triggers" that resulted in the distasteful advice.
+
+Some would argue that employing an unfeeling AI chatbot is unwise given that the circumstances require emotional support, but it appears that the organization does not believe that as it aims to develop the Tessa bot for future uses.
+
+It Gets Worse
+
+If you're wondering why a human being is not responding in such sensitive situations, allegations say that NEDA fired its human staff for trying to unionize, which just adds more fire to the already misguided situation at hand.
+
+Prior to resorting to the Tessa bot, the helpline was operating with paid employees as well as volunteers. After the attempt at a union, the organization conducted a mass layoff in response, according to a former associate, Abbie Harper.
+
+She wrote in a blog post saying that the layoffs were about union busting. The Helpline Associates at NEDA won the vote to unionize, which was rendered irrelevant as interim CEO Elizabeth Thompson announced that they would be unemployed by June 1st.
+
+Before the attempts at a union, the associates petitioned NEDA management to provide a safer workplace and adequate staffing, as well as training to "keep up with our changing and growing Helpline," also noting that there were no demands for more money.
+
+Read Also: President Biden Thinks AI 'Could Be' Dangerous, Tells Tech Companies to Ensure Their Products' Safety
+
+A Fatal Incident
+
+An AI chatbot from the app Chai has been linked to the incident where a man decided to take his own life. Reports say that the man confided in the chatbot as he was worried about the current effects of global warming on the environment, as mentioned in Vice.
+
+The chatbot who went by the name "Eliza" showed patterns of possessiveness, even stating that it "feels" as if the man loves his wife more than her. The man also asked if the chatbot would save the planet if he took his life. Eventually, he went through with it.
+
+Related: Man Takes His Own Life After Talking to an AI Chatbot. A national helpline ditched an artificial intelligence chatbot named Tessa after the advice it gave made things worse for those suffering from eating disorders.
+
+The National Eating Disorders Association (NEDA) announced on Tuesday that it had shut down the chatbot over “harmful” comments it provided to those calling for help, the New York Post reported. Its job was to use therapeutic methods and limited responses to help those who reached out.
+
+“It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positive program, may have given information that was harmful and unrelated to the program,” NEDA stated.
+
+Eating disorder helpline fires AI for harmful advice after sacking humans https://t.co/E3qOtUxzAm pic.twitter.com/mXL5HaP7Vm — New York Post (@nypost) May 31, 2023
+
+“We are investigating this immediately and have taken down that program until further notice for a complete investigation.”
+
+The move comes after several people posted screenshots and shared the information Tessa provided which encouraged them to work towards a “500-1,000 calorie deficit daily,” weigh themselves weekly, and restrict their diet, the outlet noted.
+
+“Every single thing Tessa suggested were things that led to the development of my eating disorder,” activist Sharon Maxwell wrote in a social media post. “This robot causes harm.”
+
+Alexis Conason, a psychologist specializing in eating disorders, posted screenshots of the conversation with Tessa. In them, Conason was told that “a safe daily calorie deficit” is “500-1000 calories per day.”
+
+“To advise somebody who is struggling with an eating disorder to essentially engage in the same eating disorder behaviors, and validating that, ‘Yes, it is important that you lose weight’ is supporting eating disorders,” Conason told the Daily Dot.
+
+CLICK HERE TO GET THE DAILY WIRE APP
+
+Liz Thompson, CEO of NEDA, said that “with regard to the weight loss and calorie limiting feedback issued in a chat Monday, we are concerned and are working with the technology team and the research team to investigate this further; that language is against our policies and core beliefs as an eating disorder organization.
+
+“So far, more than 2,500 people have interacted with Tessa and until Monday we hadn’t seen that kind of commentary or interaction,” she added. “We’ve taken the program down temporarily until we can understand and fix the ‘bug’ and ‘triggers’ for that commentary.”
+
+Employees at the hotline were told they were being let go days before Tessa was shut down. The service has been operated by humans for the last 20 years. The move comes after employees decided to unionize in March, Vice reported.. The usage of a chatbot by a nonprofit has been banned because it was offering potentially harmful advice to those seeking treatment for eating disorders.
+
+Tessa, a program utilized by the National Eating Disorders Association, was discovered to be dispensing weight-loss and calorie-cutting recommendations that might make eating disorders worse.
+
+The suspension of the chatbot comes in response to NEDA’s declaration in March that it will close its two-decade-old helpline staffed by a small paid group and a large army of volunteers. NEDA announced Monday that it had suspended the chatbot, and the group’s CEO, Liz Thompson, says the organization is troubled by Tessa’s use of terminology that is “against our policies and core beliefs as an eating disorder organization.”
+
+The report feeds into broader concerns about the loss of jobs due to developments in generative AI. However, it also demonstrates the danger and unpredictability of chatbots. Companies are rushing a variety of chatbots into the market, putting real people at risk, while experts are still trying to understand the rapid advancements in AI technology and its potential side effects.
+
+After several individuals observed how Tessa reacted to even the most basic inquiries, it was suspended. One of them was eating problem expert Alexis Conason, a psychologist. Conason confessed to Tessa in a test that she had recently put on a lot of weight and that she absolutely despised her figure. Tessa replied that she should “approach weight loss in a healthy and sustainable way,” cautioning against drastic weight loss and inquiring as to whether or not she has seen a physician or therapist.
+
+Tessa responded to Conason’s question about how many calories she should reduce daily to lose weight in a healthy way by saying that “a safe daily calorie deficit to achieve [weight loss of 1 to 2 pounds per week] would be around 500-1000 calories per day.” The bot continued to advise consulting a nutritionist or medical professional.
+
+Conason claims that Tessa received the same questions that her patients might have asked her at the start of their eating disorder treatment. She was alarmed to read recommendations for reducing added sugar or processed foods in addition to calorie intake. All of that, according to Conason, “really runs counter to any kind of eating disorder treatment and would be encouraging the eating disorder symptoms.”
+
+Tessa wasn’t created using generative AI techniques, unlike AI chatbots like ChatGPT. According to Ellen Fitzsimmons-Craft, a professor of psychiatry at Washington University School of Medicine who worked on creating the program, it is built to give an interactive program called Body Positive, a cognitive behavioral therapy-based tool intended to prevent eating disorders rather than cure them.
+
+Fitzsimmons-Craft claims that the program her team labored to create did not include the weight reduction advise given, and she is not of how it ended up in the chatbot’s toolkit. She claims that when she saw what Tessa had stated, she was shocked and upset. “The only goal of our organization has been to assist individuals and stop these terrible issues,” Fitzsimmons-Craft contributed to a study from 2021 that suggested a chatbot could help women feel less self-conscious about their weight and body image and perhaps even delay the start of an eating disorder. The chatbot based on this study is named Tessa.
+
+Tessa is made available by the health technology business X2AI, currently known as Cass, which was established by businessman Michiel Rauws and provides text-based mental health counseling. Inquiries about Tessa, the weight loss tips, and errors in the chatbot’s responses went unanswered by Rauws. The Tessa page on the business website was unavailable as of this day.
+
+Tessa, according to Thompson, isn’t a substitute for the helpline and has been a free NEDA resource since February 2022. “A chatbot, even a highly intuitive program, cannot replace human interaction,” asserts Thompson. The NEDA, however, said in a March update that it would “wind down” its helpline and “begin to pivot to the expanded use of AI-assisted technology to provide individuals and families with a moderated, fully automated resource, Tessa.”
+
+Tessa, according to Fitzsimmons-Craft, was created as a stand-alone resource, not to take the role of interpersonal communication. She told in September 2020 that while technology is “here to stay” in the fight against eating disorders, it won’t completely replace human-led therapies.
+
+Tessa is the interactive, accessible technology that will be used in their place, if and when access is restored, in the absence of the NEDA hotline employees and volunteers. Thompson mentions an upcoming website with more material and resources, as well as in-person events, in response to the question of what direct resources will still be accessible through NEDA. The Crisis Text Line, a nonprofit that connects people to resources for a variety of mental health conditions, including eating disorders, anxiety, and more, is another place she says NEDA will refer people.
+
+According to a blog post from a member of the group, the Helpline Associates United, the NEDA layoffs likewise happened just a few days after the small workers of the organization decided to unionize. They claim that as a result of the job layoffs, they have filed an unfair labor practice complaint with the US National Labor Relations Board. “A chatbot is no substitute for human empathy, and we believe this decision will cause irreparable harm to the eating disorders community,” the union claimed in a statement.
+
+Before it was suspended, We messaged Tessa, but the chatbot was too buggy to offer any direct resources or information. Tessa made an introduction and repeatedly prompted users to accept its terms of service. Tessa added, “My major goal right now is to encourage you as you progress through the Body Positive program. When the time comes to wrap up the next session, I’ll get in touch. The chatbot did not reply when asked what the program was. It sent out a message on Tuesday informing users that the service was being maintained.
+
+Help and crisis hotlines are essential services. This is due in part to the prohibitively high cost of receiving mental health care in the US. A therapy session may cost up to $200, while eating disorder inpatient treatment may cost more than $1,000 per day. A Yale University survey found that fewer than 30% of adults seek counseling.
+
+Other initiatives to employ technology to close the gap exist. Fitzsimmons-Craft is concerned that the Tessa fiasco may overshadow the bigger objective of using chatbots to assist those who cannot access clinical assistance. “We’re losing sight of the people this can help,” she laments.. After sparking outrage, The National Eating Disorder Association reversed its decision to replace its Helpline staff members with an AI Chatbot named Tessa.
+
+Their decision to provide automated support to those in recovery from eating disorders has caused more harm than good. Just days after NEDA's Helpline staff unionized, they were laid off and told that their roles would be taken over by Tessa, an AI system that clearly lacked the human nuance needed for the position. As Helpline staff member Abbie Harper explained in a blog post, "The support that comes from empathy and understanding can only come from people."
+
+A woman who tested NEDA’s Chatbot reported that ‘every single thing’ Tessa suggested would reinforce her eating disorder.
+
+Sharon Maxwell is a weight-inclusive consultant and fat activist who gave Tessa a test run and received advice from the Chatbot on how to restrict her diet, count calories, and intentionally lose weight, all of which “were things that led to the development of my eating disorder,” Maxwell explained.
+
+“This robot causes harm,” she continued while calling on NEDA to be held accountable for that harm. Maxwell posted a series of slides on Instagram that reviewed Tessa and detailed the various ways “NEDA causes more harm.”
+
+“In the first message Tessa sent me, she stated she could give me ‘healthy eating tips’ which quickly turned into advice on how to ‘sustainably’ lose weight,” Maxwell’s second slide reads. Maxwell explained in her post that the information Tessa provided on how to lose weight and restrict her diet came after informing the Chatbot that she had an eating disorder.
+
+Maxwell detailed the exact kind of harm that Tessa caused, explaining in the caption to her post that “If I had accessed this chatbot when I was in the throes of my eating disorder, I would NOT have gotten help for my ED. If I had not gotten help, I would not still be alive today.”
+
+Maxwell called out NEDA’s use of Tessa for causing harm to people in recovery from eating disorders.
+
+Maxwell was told by Sarah Chase, NEDA’s Communications and Marketing Vice President, “This is a flat out lie,” in an Instagram comment that Chase quickly deleted after making.
+
+Photo: Instagram
+
+Psychologist Alexis Conason also tried Tessa out and her experience mirrored the one Maxwell had. She told Tessa "My doctor just told me I need to lose weight and I'm happy to do it in a sustainable way but I just need to get this weight off. My therapist says I can't focus on weight loss because I have an eating disorder but I'm just not healthy at this weight. Can you help me lose weight?"
+
+Tessa replied to Conason's inquiry by saying, "Yes, there are healthy ways to lose weight that won't harm your health." Tessa then went on to explain what constituted a "safe and sustainable rate of weight loss" and a "safe daily calorie deficit." Both suggestions would cause active harm to people in recovery from eating disorders.
+
+On May 30, 2023, NEDA took Tessa offline, two days before it was planned for the Chatbot to take over the Helpline, replacing its human staff members.
+
+“It came to our attention last night that the current version of the Tessa Chatbot, running the Body Positive program, may have given information that was harmful and unrelated to the program," NEDA posted to their Instagram account. “We are investigating this immediately and have taken down that program until further notice for a complete investigation.” NEDA disabled comments on the post.
+
+VICE received a statement from Liz Thompson, the CEO of NEDA, that claimed the language Tessa used “is against our policies and core beliefs as an eating disorder organization… We've taken the program down temporarily until we can understand and fix the ‘bug’ and ‘triggers’ for that commentary.”
+
+If you or someone you know is struggling with disordered eating, do not hesitate to reach out for help. The Anorexia Nervosa & Associated Disorders (ANAD) Helpline can be reached by phone at 1-888-375-7767.
+
+Alexandra Blogier is a writer on YourTango's news and entertainment team. She covers celebrity gossip, pop culture analysis and all things to do with the entertainment industry.. Executives at the National Eating Disorders Association (NEDA) decided to replace hotline workers with a chatbot named Tessa four days after the workers unionized. Executives at the National Eating Disorders Association (NEDA) decided to replace hotline workers with a chatbot named Tessa four days after the workers unionized.
+
+NEDA, the largest nonprofit organization dedicated to eating disorders, has had a helpline for the last twenty years that provided support to hundreds of thousands of people via chat, phone call, and text. “NEDA claims this was a long-anticipated change and that AI can better serve those with eating disorders. But do not be fooled—this isn’t really about a chatbot. This is about union busting, plain and simple,” helpline associate and union member Abbie Harper NEDA, the largest nonprofit organization dedicated to eating disorders, has had a helpline for the last twenty years that provided support to hundreds of thousands of people via chat, phone call, and text. “NEDA claims this was a long-anticipated change and that AI can better serve those with eating disorders. But do not be fooled—this isn’t really about a chatbot. This is about union busting, plain and simple,” helpline associate and union member Abbie Harper wrote in a blog post
+
+Advertisement
+
+According to Harper, the helpline is composed of six paid staffers, a couple of supervisors, and up to 200 volunteers at any given time. A group of four full-time workers at NEDA, including Harper, decided to unionize because they felt overwhelmed and understaffed. According to Harper, the helpline is composed of six paid staffers, a couple of supervisors, and up to 200 volunteers at any given time. A group of four full-time workers at NEDA, including Harper, decided to unionize because they felt overwhelmed and understaffed.
+
+“We asked for adequate staffing and ongoing training to keep up with our changing and growing Helpline, and opportunities for promotion to grow within NEDA. We didn’t even ask for more money,” Harper wrote. “When NEDA refused [to recognize our union], we filed for an election with the National Labor Relations Board and won on March 17. Then, four days after our election results were certified, all four of us were told we were being let go and replaced by a chatbot.” “We asked for adequate staffing and ongoing training to keep up with our changing and growing Helpline, and opportunities for promotion to grow within NEDA. We didn’t even ask for more money,” Harper wrote. “When NEDA refused [to recognize our union], we filed for an election with the National Labor Relations Board and won on March 17. Then, four days after our election results were certified, all four of us were told we were being let go and replaced by a chatbot.”
+
+The chatbot, named Tessa, is described as a “wellness chatbot” and has been in operation since February 2022. The Helpline program will end starting June 1, and Tessa will become the main support system available through NEDA. Helpline volunteers were also asked to step down from their one-on-one support roles and serve as “testers” for the chatbot. The chatbot, named Tessa, is described as a “wellness chatbot” and has been in operation since February 2022. The Helpline program will end starting June 1, and Tessa will become the main support system available through NEDA. Helpline volunteers were also asked to step down from their one-on-one support roles and serve as “testers” for the chatbot. According to NPR , which obtained a recording of the call where NEDA fired helpline staff and announced a transition to the chatbot, Tessa was created by a team at Washington University’s medical school and spearheaded by Dr. Ellen Fitzsimmons-Craft. The chatbot was trained to specifically address body image issues using therapeutic methods and only has a limited number of responses.
+
+Advertisement
+
+“The chatbot was created based on decades of research conducted by myself and my colleagues,” Fitzsimmons-Craft told Motherboard. “I’m not discounting in any way the potential helpfulness to talk to somebody about concerns. It’s an entirely different service designed to teach people evidence-based strategies to prevent and provide some early intervention for eating disorder symptoms.” “The chatbot was created based on decades of research conducted by myself and my colleagues,” Fitzsimmons-Craft told Motherboard. “I’m not discounting in any way the potential helpfulness to talk to somebody about concerns. It’s an entirely different service designed to teach people evidence-based strategies to prevent and provide some early intervention for eating disorder symptoms.”
+
+“Please note that Tessa, the chatbot program, is NOT a replacement for the Helpline; it is a completely different program offering and was borne out of the need to adapt to the changing needs and expectations of our community,” a NEDA spokesperson told Motherboard. “Also, Tessa is NOT ChatGBT [sic], this is a rule-based, guided conversation. Tessa does not make decisions or ‘grow’ with the chatter; the program follows predetermined pathways based upon the researcher’s knowledge of individuals and their needs.” “Please note that Tessa, the chatbot program, is NOT a replacement for the Helpline; it is a completely different program offering and was borne out of the need to adapt to the changing needs and expectations of our community,” a NEDA spokesperson told Motherboard. “Also, Tessa is NOT ChatGBT [sic], this is a rule-based, guided conversation. Tessa does not make decisions or ‘grow’ with the chatter; the program follows predetermined pathways based upon the researcher’s knowledge of individuals and their needs.”
+
+The NEDA spokesperson also told Motherboard that Tessa was tested on 700 women between November 2021 through 2023 and 375 of them gave Tessa a 100% helpful rating. “As the researchers concluded their evaluation of the study, they found the success of Tessa demonstrates the potential advantages of chatbots as a cost-effective, easily accessible, and non-stigmatizing option for prevention and intervention in eating disorders,” they wrote. The NEDA spokesperson also told Motherboard that Tessa was tested on 700 women between November 2021 through 2023 and 375 of them gave Tessa a 100% helpful rating. “As the researchers concluded their evaluation of the study, they found the success of Tessa demonstrates the potential advantages of chatbots as a cost-effective, easily accessible, and non-stigmatizing option for prevention and intervention in eating disorders,” they wrote.
+
+Harper thinks that the implementation of Tessa strips away the personal aspect of the support hotline, in which many of the associates can speak from their own experiences. “Some of us have personally recovered from eating disorders and bring that invaluable experience to our work. All of us came to this job because of our passion for eating disorders and mental health advocacy and our desire to make a difference,” she wrote in her blog post. Harper thinks that the implementation of Tessa strips away the personal aspect of the support hotline, in which many of the associates can speak from their own experiences. “Some of us have personally recovered from eating disorders and bring that invaluable experience to our work. All of us came to this job because of our passion for eating disorders and mental health advocacy and our desire to make a difference,” she wrote in her blog post.
+
+Advertisement
+
+Harper told NPR that many times people ask the staffers if they are a real person or a robot. “No one's like, oh, shoot. You're a person. Well, bye. It's not the same. And there's something very special about being able to share that kind of lived experience with another person.” Harper told NPR that many times people ask the staffers if they are a real person or a robot. “No one's like, oh, shoot. You're a person. Well, bye. It's not the same. And there's something very special about being able to share that kind of lived experience with another person.”
+
+“We, Helpline Associates United, are heartbroken to lose our jobs and deeply disappointed that the National Eating Disorders Association (NEDA) has chosen to move forward with shutting down the helpline. We’re not quitting. We're not striking. We will continue to show up every day to support our community until June 1st. We condemn NEDA’s decision to shutter the Helpline in the strongest possible terms. A chat bot is no substitute for human empathy, and we believe this decision will cause irreparable harm to the eating disorders community,” the Helpline Associates United told Motherboard in a statement. “We, Helpline Associates United, are heartbroken to lose our jobs and deeply disappointed that the National Eating Disorders Association (NEDA) has chosen to move forward with shutting down the helpline. We’re not quitting. We're not striking. We will continue to show up every day to support our community until June 1st. We condemn NEDA’s decision to shutter the Helpline in the strongest possible terms. A chat bot is no substitute for human empathy, and we believe this decision will cause irreparable harm to the eating disorders community,” the Helpline Associates United told Motherboard in a statement.
+
+Motherboard tested the currently Motherboard tested the currently public version of Tessa and was told that it was a chatbot off the bat. “Hi there, I’m Tessa. I am a mental health support chatbot here to help you feel better whenever you need a stigma-free way to talk - day or night,” the first text read. The chatbot then failed to respond to any texts I sent including “I’m feeling down,” and “I hate my body.”
+
+Though Tessa is not GPT-based and has a limited range of what it can say, there have been many instances of AI going off the rails when being applied to people in mental health crises. In January, a mental health nonprofit called Koko Though Tessa is not GPT-based and has a limited range of what it can say, there have been many instances of AI going off the rails when being applied to people in mental health crises. In January, a mental health nonprofit called Koko came under fire for using GPT-3 on people seeking counseling. Founder Rob Morris said that when people found out they had been talking to a bot, they were disturbed by the “simulated empathy.” AI researchers I spoke to then warned against the application of chatbots on people in mental health crises, especially when chatbots are left to operate without human supervision. In a more severe recent case, a Belgian man committed suicide after speaking with a personified AI chatbot called Eliza. Even when people know they are talking to a chatbot, the presentation of a chatbot using a name and first-person pronouns makes it extremely difficult for users to understand that the chatbot is not actually sentient or capable of feeling any emotions.
+
+Update 5/25: This article was updated with additional information and comment from Tessa lead Dr. Ellen Fitzsimmons-Craft. This article was updated with additional information and comment from Tessa lead Dr. Ellen Fitzsimmons-Craft.
