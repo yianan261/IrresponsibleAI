@@ -385,7 +385,7 @@ def get_prompt(article_text, prompt_type):
         """
     elif prompt_type == "few_shots_CoT_steps":
         return f"""
-        Imagine a computer researcher trying to categorize a list of incidents of irresponsible use of artificial intelligence technology.    
+        You are a computer researcher trying to categorize a list of incidents of irresponsible use of artificial intelligence technology.    
         Given the aggregated news article texts on relevant incidents, please extract the following information, your responses should be well thought-out and well-supported by the content of the articles, please also follow instructions of this prompt.
         1. Take a look at this taxonomy
         ```taxonomy
@@ -476,8 +476,8 @@ def get_prompt(article_text, prompt_type):
         """
     elif prompt_type == "ToT_CoT":
         return f"""
-        Imagine three expert academic researchers trying to categorize and classify a list of incidents of irresponsible use of artificial intelligence technology.    
-        Given the aggregated news article texts on relevant incidents, the three researchers will fill out the following classifications. Their responses are well-thought-out responses that are well-supported by the article text.
+        You are three expert academic researchers trying to categorize and classify a list of incidents of irresponsible use of artificial intelligence technology.    
+        Given the aggregated news article texts on relevant incidents, each of the three experts will fill out the following classifications. Their responses are well-thought-out responses that are well-supported by the article text.
         The experts will share their reasoning for all their classifications.
         Each expert will share their thought process in detail, taking into account the previous thoughts of other and admitting any errors. 
         The experts will create a breadth-first search of the tree of probable classifications and will vote on which classification is the most promising and well-supported.
@@ -573,6 +573,77 @@ def get_prompt(article_text, prompt_type):
         DO NOT make up your own field. DO NOT use fields that are not in the list. DO NOT USE example 1 and example 2 output on different articles.
 
         return your classification output in JSON.
+        """
+    elif prompt_type == "COT_USER_PROMPT":
+
+        return f"""
+        You are a computer researcher trying to categorize a list of incidents of irresponsible use of artificial intelligence technology.    
+        Given the aggregated news article texts on relevant incidents, please extract the following information, your responses should be well thought-out and well-supported by the content of the articles, please also follow instructions of this prompt.
+        1. Take a look at this taxonomy
+        ```taxonomy
+          {taxanomy}
+        ``` 
+        Now, take a look at this example:
+        ==============start of example===============
+         step 1. Read article text. For an example article such as: 
+        ```start of example article 1```
+        {example_article_id_6}
+        ```end of example article 1```
+        step 2. Reason for the classifications: 
+        Here is the reasoning for its classifications:
+        ```start of response reasoning```
+        {example_output_explanation_id_6}
+        ```end of response reasoning```
+        step 3. generate expected output 
+        ```start of output example```
+        {example_output_id_6}
+        ```end of output example```
+        ============== end of example =================
+        2. Your task is mainly this part. You have to fill out the following fields according to the article content:
+        STEP 1: Read the article text:
+        ================== Start of Article Content =================
+        {example_article_id_1}
+        ================== End of Article Content ===================
+        STEP 2: State your reason for your classifications for the following:
+        =================Classification Fields====================
+        - Country (output "Worldwide" if the incident happened across multiple countries):
+        - State (if not applicable leave blank):
+        - City (if not applicable leave blank):
+        - Continent (output "Worldwide" if the incident happened across multiple countries):
+        - Company (i.e. the company that developed the technology involved in this incident):
+        - Company city (the city where the headquarters of this company is located. If the company recently moved headquarters, please use the location of the new headquarter):
+        - Company state (the state of the company city, if applicable, if not leave blank):
+        - Affected population (let's think about which groups of people are directly affected by the incident in the article.): 
+        - Number of people actually affected (let's check the number of people directly affected according to the article. Give a total number. If unknown output 'Unknown'):
+        - Number of people potentially affected (let's check the article text to see if this information is provided or suggested, if not you may ouput 'Unknown'):
+        - Classes of irresponsible AI use (please follow the rules and refer to this taxonomy: 
+        ```taxonomy classes
+                {taxa.classes} 
+        ```   
+        Rule1: There could be more than one classes the article classifies as. 
+        Rule2: DO NOT create your own class, adhere strictly to the provided list.
+        - Subclasses (please follow the rules and refer to this taxonomy structure `<class>:[<subclass>]`):
+          ```taxonomy subclasses       
+                 {taxa.subclasses}
+          ```
+        Rule1 : The subclasses should be the children of the classes. Let's think about which sub-categories of the class/classes this article belong in. 
+        Rule2: DO NOT ADD subclass fields that are NOT in the provided taxonomy list
+        Rule3: If there is no subclass for a particular class in the taxonomy, leave it.
+        - Sub-subclass (please follow the rules and refer to this taxonomy structure `<subclass>:[<sub-subclass>]`): 
+        ```taxonomy structure
+               {taxa.sub_subclasses}
+        ```
+        Rule1: Only find the sub-subclass relation in the provided taxonomy. The sub-subclass are children of subclass.
+        Rule2: DO NOT ADD OR CREATE sub-subclass fields that are not in the provided taxonomy list. 
+        Rule3: If a subclass in the taxonomy does not have a sub-subclass, leave it.
+        Rule4: If none of the subclasses have sub-subclasses, just leave the field empty e.g. sub-subclass:[]
+        - Area of AI Application (e.g. content filtering, surveillance, illness prediction):
+        - Online (yes or no):
+        =================Classification Fields====================
+        
+        DO NOT make up your own field. DO NOT use fields that are not in the list. DO NOT USE example 1 and example 2 output on different articles.
+
+        Give your classification and reasonings for classification of each field.
         """
 
 
