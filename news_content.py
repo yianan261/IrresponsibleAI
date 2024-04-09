@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 import logging
 import datetime
 from format_checker import FormatChecker
+import os
 
 load_dotenv()
 openai_client = OpenaiAPI()
@@ -28,38 +29,40 @@ COT_USER_PROMPT = "COT_USER_PROMPT"
 prompt_type = COT_USER_PROMPT
 
 # get incident ids of 2023
-path_to_file = "/Users/chenyian261/Documents/GitHub/IrresponsibleAI/ids_2023.json"
+
+base = os.path.abspath(os.path.dirname(__file__))
+print("base", base)
+path_to_file = f"{base}/ids_2023.json"
 
 with open(path_to_file, "r") as file:
     ids_2023 = json.load(file)
 set_ids_2023 = set(str(i) for i in ids_2023)
-# id_set = set([0, 1, 2, 3, 4, 5, 6, 9, 10, 11, 13, 14, 451, 382, 505, 167])
+id_set = set([0, 1, 2, 3, 4, 5, 6, 9, 10, 11, 13, 14, 451, 382, 505, 167])
 # scraped_set = (str(i) for i in id_set)
 
-# # function that uses Newspaper3k library to scrape article
-# def scrape_article(url):
-#     article = None
-#     try:
-#         article = Article(url)
-#         article.download()
-#         article.parse()
-#     except:
-#         logging.info(f"the URL {url} cannot be accessed")
-#         return ""
-#     return article.text
+# function that uses Newspaper3k library to scrape article
+def scrape_article(url):
+    article = None
+    try:
+        article = Article(url)
+        article.download()
+        article.parse()
+    except:
+        logging.info(f"the URL {url} cannot be accessed")
+        return ""
+    return article.text
 
 
-# # import news URL json file and loop through
-# with open("newsUrls.json", "r") as file:
-#     urls_dict = json.load(file)
+# import news URL json file and loop through
+with open("newsUrls.json", "r") as file:
+    urls_dict = json.load(file)
 
-# # logging.info("Successfully loaded JSON data, starting to scrape articles...")
+# logging.info("Successfully loaded JSON data, starting to scrape articles...")
 
 aggregated_content = {}
 
 # # TODO: remove counter (testing with the first 5 incidents)
 # count = 0
-# print("HEREEEEE")
 # for id, urls in urls_dict.items():
 #     if count == 15:
 #         break
@@ -74,10 +77,8 @@ aggregated_content = {}
 #     # with open(file_path, "w") as f:
 #     #     f.write(concated)
 
-for i in range(1, 2):
-    file_path = (
-        f"/Users/chenyian261/Documents/GitHub/IrresponsibleAI/article_texts/{i}.txt"
-    )
+for i in id_set:
+    file_path = f"{base}/article_texts/{i}.txt"
     with open(file_path, "r", encoding="utf-8") as file:
         file_content = file.read()
     aggregated_content[str(i)] = file_content

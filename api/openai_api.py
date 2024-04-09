@@ -1,5 +1,6 @@
 from openai import OpenAI
 import api.prompt_factory as prompt_factory
+from .results import *
 from llmlingua import PromptCompressor
 
 
@@ -68,26 +69,6 @@ class OpenaiAPI:
         """
         prompt = prompt_factory.get_prompt(article_text, prompt_type)
 
-        # llm_lingua = PromptCompressor(
-        #     model_name="TheBloke/Llama-2-7b-Chat-GPTQ", device_map="mps"
-        # )
-
-        # llm_lingua = PromptCompressor(
-        #     model_name="microsoft/llmlingua-2-xlm-roberta-large-meetingbank",
-        #     use_llmlingua2=True,  # Whether to use llmlingua-2
-        # )
-
-        compressed_article = llm_lingua.compress_prompt(
-            article_text, rate=0.4, force_tokens=["\n", "?"]
-        )
-        # llm_lingua = PromptCompressor(
-        #     model_name="microsoft/llmlingua-2-xlm-roberta-large-meetingbank",
-        #     use_llmlingua2=True,  # Whether to use llmlingua-2
-        # )
-        compressed_prompt = llm_lingua.compress_prompt(
-            prompt, rate=0.6, force_tokens=["\n", "?"]
-        )
-
         message1 = [
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": prompt},
@@ -112,13 +93,13 @@ class OpenaiAPI:
                 "content": f"""
              read this article: 
              ====start of article====
-             {compressed_article}
+             {example_article_id_1}
              ====end of article ====
              Follow the previous steps 1. provide classification and reasoning 2. give your final classification results in JSON format
              """,
             },
         ]
-        messages = message_with_rules
+        messages = message1
         response = self.create_prompt(messages)
         return response, prompt
 
@@ -129,7 +110,7 @@ class OpenaiAPI:
             {"role": "user", "content": prompt},
             {
                 "role": "system",
-                "content": "You are a helpful university assistant designed to classify news articles to specific categories.",
+                "content": "You are a helpful assistant",
             },
         ]
 

@@ -43,6 +43,12 @@ structure = "{ <class>: {<subclass>:{[<sub-subclass>]}} }"
 
 def get_prompt(article_text, prompt_type):
     taxa = Taxonomies()
+    llm_lingua = PromptCompressor(
+        "TheBloke/Llama-2-7b-Chat-GPTQ", model_config={"revision": "main"}
+    )
+    compressed_article = llm_lingua.compress_prompt(article_text)
+    compressed_example_article_6 = llm_lingua.compress_prompt(example_article_id_6)
+    compressed_example_article_1 = llm_lingua.compress_prompt(example_article_id_1)
     if prompt_type == "zero_shot":
         return f"""
         Imagine a computer researcher trying to categorize a list of incidents of irresponsible use of artificial intelligence technology.    
@@ -234,14 +240,14 @@ def get_prompt(article_text, prompt_type):
         Given the aggregated news article texts on relevant incidents, the three researchers will fill out the following classifications. Their responses are well-thought-out responses that are well-supported by the article text.
         The experts will share their reasoning for their taxonomy classificaiton of "Classes of irresponsible AI use", and its "subclasses" and sub-subclasses, and compare their results. 
         Each expert will share their thought process in detail, taking into account the previous thoughts of other and admitting any errors. 
-        The experts will create a breadth-first search of the tree of probable classifications and will vote on which classification is the most promising and well-supported.
-        Given the aggregated news article texts on relevant incidents, the experts will reach a consensus on how an incident should be classified according to the following format.
+        The experts will create a breadth-first search of the tree of probable classifications and will vote on which classification is the most promising and well-supported by the article text and use that for the final result.
+        Given the aggregated news article texts on relevant incidents, the experts will vote on how an incident should be classified according to the following format.
         
         1. The experts will take look at this taxonomy {taxanomy}, and take a close look at this these examples already reasoned and classified by previous research experts:
         ==============start of example 1===============
         step 1. Read article text. For an example article such as: 
         ```start of example article 1```
-        {example_article_id_1}
+        {compressed_example_article_1}
         ```end of example article 1```
         step 2. Reason for the classifications: 
         Here is the reasoning for its classifications:
@@ -481,8 +487,7 @@ def get_prompt(article_text, prompt_type):
         Given the aggregated news article texts on relevant incidents, each of the three experts will fill out the following classifications. Their responses are well-thought-out responses that are well-supported by the article text.
         The experts will share their reasoning for all their classifications.
         Each expert will share their thought process in detail, taking into account the previous thoughts of other and admitting any errors. 
-        The experts will create a breadth-first search of the tree of probable classifications and will vote on which classification is the most promising and well-supported.
-        Given the aggregated news article texts on relevant incidents, please extract the following information, the response should be well thought-out and well-supported by the content of the articles, please also follow instructions of this prompt.
+        For each classificaiton field, the experts will create a breadth-first search of the tree of probable classifications and will vote on which of their classification is the most well-supported by the article text.
         1. The experts will take a look at this taxonomy:
         ```taxonomy
           {taxanomy}
@@ -490,7 +495,7 @@ def get_prompt(article_text, prompt_type):
         ==============start of example 1===============
         step 1. Read article text. For an example article such as: 
         ```start of example article 1```
-        {example_article_id_1}
+        {compressed_example_article_1}
         ```end of example article 1```
         step 2. Reason for the classifications: 
         Here is the reasoning for its classifications:
@@ -506,7 +511,7 @@ def get_prompt(article_text, prompt_type):
         ==============start of example 2===============
          step 1. Read article text. For an example article such as: 
         ```start of example article 1```
-        {example_article_id_6}
+        {compressed_example_article_6}
         ```end of example article 1```
         step 2. Reason for the classifications: 
         Here is the reasoning for its classifications:
@@ -522,7 +527,7 @@ def get_prompt(article_text, prompt_type):
         2. Each expert's task is mainly this part. The experts each have to fill out the following fields according to the article content following the steps below:
         STEP 1: Read the article text:
         ================== Start of Article Content =================
-        {article_text}
+        {compressed_article}
         ================== End of Article Content ===================
         STEP 2: State your reason for your classifications for the following:
         =================Classification Fields====================
@@ -560,7 +565,7 @@ def get_prompt(article_text, prompt_type):
         - Area of AI Application (e.g. content filtering, surveillance, illness prediction):
         - Online (yes or no):
         =================Classification Fields====================
-        STEP 3: Share results with other experts and decide on the most promising and well-reasoned classification for each field.
+        STEP 3: Each expert checks their reasoning and see if it makes sense. Share results with other experts and decide on the most promising and well-reasoned classification for each field.
         STEP 4: Can you confirm the "class", "subclass", and "sub-subclass" of your final classification you are listed in the taxonomy here?
         ```taxonomy
         {taxanomy}
