@@ -68,9 +68,14 @@ class OpenaiAPI:
         """
         prompt = prompt_factory.get_prompt(article_text, prompt_type)
 
-        llm_lingua = PromptCompressor(
-            model_name="TheBloke/Llama-2-7b-Chat-GPTQ", device_map="mps"
-        )
+        # llm_lingua = PromptCompressor(
+        #     model_name="TheBloke/Llama-2-7b-Chat-GPTQ", device_map="mps"
+        # )
+
+        # llm_lingua = PromptCompressor(
+        #     model_name="microsoft/llmlingua-2-xlm-roberta-large-meetingbank",
+        #     use_llmlingua2=True,  # Whether to use llmlingua-2
+        # )
 
         compressed_article = llm_lingua.compress_prompt(
             article_text, rate=0.4, force_tokens=["\n", "?"]
