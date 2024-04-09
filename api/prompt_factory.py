@@ -1,5 +1,6 @@
 from .taxonomies import Taxonomies
 from .results import *
+from llmlingua import PromptCompressor
 
 taxanomy = """
 {
