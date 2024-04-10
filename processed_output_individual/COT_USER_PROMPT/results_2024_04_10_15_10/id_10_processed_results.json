@@ -1,0 +1,27 @@
+{
+    "10": {
+        "Country": "United States",
+        "State": "California",
+        "City": "San Diego",
+        "Continent": "North America",
+        "Company": "Starbucks Corporation",
+        "Company city": "Seattle",
+        "Company state": "Washington",
+        "Affected population": "Retail and restaurant workers, specifically Starbucks baristas",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "All Starbucks employees, potentially extending to other retail and restaurant workers using similar scheduling software",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Workforce management and scheduling",
+        "Online": "No"
+    }
+}

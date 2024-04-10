@@ -1,0 +1,32 @@
+{
+    "9": {
+        "Country": "United States",
+        "State": "New York",
+        "City": "New York City",
+        "Continent": "North America",
+        "Company": "New York City Department of Education",
+        "Company city": "New York City",
+        "Company state": "New York",
+        "Affected population": "Teachers in New York City public schools",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "All teachers evaluated by the system, over 12,000",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Pseudoscience"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative"
+            ],
+            "Pseudoscience": [
+                "Other"
+            ]
+        },
+        "Sub-subclass": {
+            "Administrative": [],
+            "Other": []
+        },
+        "Area of AI Application": "Educational assessment and teacher evaluation",
+        "Online": "No"
+    }
+}

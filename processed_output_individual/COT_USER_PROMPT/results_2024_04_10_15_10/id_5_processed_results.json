@@ -1,0 +1,33 @@
+{
+    "5": {
+        "Country": "United States",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company": "Intuitive Surgical",
+        "Company city": "Sunnyvale",
+        "Company state": "California",
+        "Affected population": "Patients undergoing robotic surgeries",
+        "Number of people actually affected": "1,535",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Technical Failure"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Technical Failure": []
+        },
+        "Sub-subclass": {
+            "Technical": [
+                "Optimization function",
+                "Feedback loop",
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Healthcare - Robotic Surgery",
+        "Online": "No"
+    }
+}
