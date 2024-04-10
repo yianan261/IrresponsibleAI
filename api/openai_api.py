@@ -1,7 +1,6 @@
 from openai import OpenAI
 import api.prompt_factory as prompt_factory
 from .results import *
-from llmlingua import PromptCompressor
 
 
 class OpenaiAPI:

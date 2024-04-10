@@ -1,6 +1,5 @@
 from .taxonomies import Taxonomies
 from .results import *
-from llmlingua import PromptCompressor
 
 taxanomy = """
 {
@@ -43,12 +42,12 @@ structure = "{ <class>: {<subclass>:{[<sub-subclass>]}} }"
 
 def get_prompt(article_text, prompt_type):
     taxa = Taxonomies()
-    llm_lingua = PromptCompressor(
-        "TheBloke/Llama-2-7b-Chat-GPTQ", model_config={"revision": "main"}
-    )
-    compressed_article = llm_lingua.compress_prompt(article_text)
-    compressed_example_article_6 = llm_lingua.compress_prompt(example_article_id_6)
-    compressed_example_article_1 = llm_lingua.compress_prompt(example_article_id_1)
+    # llm_lingua = PromptCompressor(
+    #     "TheBloke/Llama-2-7b-Chat-GPTQ", model_config={"revision": "main"}
+    # )
+    # compressed_article = llm_lingua.compress_prompt(article_text)
+    # compressed_example_article_6 = llm_lingua.compress_prompt(example_article_id_6)
+    # compressed_example_article_1 = llm_lingua.compress_prompt(example_article_id_1)
     if prompt_type == "zero_shot":
         return f"""
         Imagine a computer researcher trying to categorize a list of incidents of irresponsible use of artificial intelligence technology.    

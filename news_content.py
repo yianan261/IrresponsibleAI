@@ -82,7 +82,7 @@ class NewsContent:
         format_checker = FormatChecker()
         current_time = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M")
         results_directory = f"{self.base}/processed_output_individual/{prompt_type}/results_{current_time}"
-        os.makedirs(results_directory)
+        os.makedirs(results_directory, exist_ok=True)
         prompt = ""
         for id, content in aggregated_content.items():
             result, prompt = openai_client.process_content(content, prompt_type)
@@ -151,12 +151,10 @@ class NewsContent:
         ) as json_file:
             json.dump(processed_results, json_file, indent=4)
 
-        logging.info(
-            "Check completed. Results saved to JSON file."
-        )
+        logging.info("Check completed. Results saved to JSON file.")
         return
 
-    def main(self,scrape_articles=False,double_check=False):
+    def main(self, scrape_articles=False, double_check=False):
         load_dotenv()
 
         logging.basicConfig(
@@ -186,7 +184,7 @@ class NewsContent:
             self.process_aggregate_results(prompt_type, ZERO_SHOT)
 
         if double_check == True:
-            self.get_double_check(prompt_type,ZERO_SHOT)
+            self.get_double_check(prompt_type, ZERO_SHOT)
 
         logging.info("Script completed successfully.")
 
