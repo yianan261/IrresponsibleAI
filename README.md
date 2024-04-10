@@ -71,22 +71,24 @@ Individual JSON outputs are under the `processed_output_individual` directory
 
 # File Structure
 
-IrresponsibleAI/
-├── README.md
-├── news_content.py <!-- Main application script -->
-├── incident_data.py <!-- Utility functions used by news_content.py-->
-├── api/<!-- Main directory that for LLM APIs -->
-│ ├── openai_api.py <!-- Main class of calling LLM APIs -->
-│ └── prompt_factory.py <!-- Contains all the prompts -->
-│ └── results.py <!-- Examples -->
-│ └── taxonomies.py <!-- Taxonomic structure -->
-├── cut_text.py <!-- Utility function -->
-├── format_checker.py <!-- Utility function -->
-├── aiid.py <!-- Script that load datas to mongoDB -->
-├── article_texts/ <!-- Contains the scraped articles of AIID (not complete) -->
-├── article_texts2/ <!-- This will be removed -->
-├── processed_output/ <!-- Main directory of aggregated output -->
-├── processed_output_individual/ <!-- Main directory of individual output -->
-└── newsUrls.json <!-- Json file of all news article urls -->
-└── ids_2023.json <!-- Json file of all incident ids of 2023-->
-└── IrresponsibleAI.ipynb <!-- Preliminary data exploration notebook-->
+```plaintext
+    IrresponsibleAI/
+    ├── README.md <!-- Entry point documentation of the project -->
+    ├── news_content.py <!-- Main application script -->
+    ├── incident_data.py <!-- Utility functions used by news_content.py-->
+    ├── api/ <!-- Main directory for LLM APIs -->
+    │ ├── openai_api.py <!-- Main class for calling LLM APIs -->
+    │ ├── prompt_factory.py <!-- Contains all the prompts -->
+    │ ├── results.py <!-- Examples -->
+    │ └── taxonomies.py <!-- Taxonomic structure -->
+    ├── cut_text.py <!-- Utility function -->
+    ├── format_checker.py <!-- Utility function -->
+    ├── aiid.py <!-- Script that loads data to MongoDB -->
+    ├── article_texts/ <!-- Contains the scraped articles of AIID (not complete) -->
+    ├── article_texts2/ <!-- This will be removed -->
+    ├── processed_output/ <!-- Main directory of aggregated output -->
+    ├── processed_output_individual/ <!-- Main directory of individual output -->
+    ├── newsUrls.json <!-- JSON file of all news article URLs -->
+    ├── ids_2023.json <!-- JSON file of all incident IDs of 2023-->
+    └── IrresponsibleAI.ipynb <!-- Preliminary data exploration notebook-->
+```
