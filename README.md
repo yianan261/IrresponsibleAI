@@ -61,3 +61,32 @@ IrresponsibleAI.ipynb file is used for data exploration. Current version can be 
 # Data Visualization
 
 Data processing and visualization can be found [here](https://observablehq.com/d/126c228131c034d7)
+
+Interactive tree visualization of results of different prompting techniques can be found [here](https://observablehq.com/d/da2342040625eb8d)
+
+# Prompt Results
+
+Different prompting techniques are employed in this classification task. The aggregated results of different techniques are located in the `processed output` directory.
+Individual JSON outputs are under the `processed_output_individual` directory
+
+# File Structure
+
+IrresponsibleAI/
+├── README.md
+├── news_content.py <!-- Main application script -->
+├── incident_data.py <!-- Utility functions used by news_content.py-->
+├── api/<!-- Main directory that for LLM APIs -->
+│ ├── openai_api.py <!-- Main class of calling LLM APIs -->
+│ └── prompt_factory.py <!-- Contains all the prompts -->
+│ └── results.py <!-- Examples -->
+│ └── taxonomies.py <!-- Taxonomic structure -->
+├── cut_text.py <!-- Utility function -->
+├── format_checker.py <!-- Utility function -->
+├── aiid.py <!-- Script that load datas to mongoDB -->
+├── article_texts/ <!-- Contains the scraped articles of AIID (not complete) -->
+├── article_texts2/ <!-- This will be removed -->
+├── processed_output/ <!-- Main directory of aggregated output -->
+├── processed_output_individual/ <!-- Main directory of individual output -->
+└── newsUrls.json <!-- Json file of all news article urls -->
+└── ids_2023.json <!-- Json file of all incident ids of 2023-->
+└── IrresponsibleAI.ipynb <!-- Preliminary data exploration notebook-->

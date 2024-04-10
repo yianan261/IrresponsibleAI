@@ -1,0 +1,37 @@
+{
+    "167": {
+        "Country": "United States",
+        "State": "California",
+        "City": "Stanford",
+        "Continent": "North America",
+        "Company": "Stanford University",
+        "Company city": "Stanford",
+        "Company state": "California",
+        "Affected population": "LGBTQ community and individuals concerned with privacy",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Pseudoscience"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ],
+            "Pseudoscience": [
+                "Facial"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Other"
+            ],
+            "Algorithmic bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Facial recognition",
+        "Online": "Yes"
+    }
+}

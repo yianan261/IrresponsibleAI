@@ -1,0 +1,33 @@
+{
+    "6": {
+        "Country": "United States",
+        "State": "Washington",
+        "City": "Redmond",
+        "Continent": "North America",
+        "Company": "Microsoft Corporation",
+        "Company city": "Redmond",
+        "Company state": "Washington",
+        "Affected population": "Users interacting with Tay on Twitter, GroupMe, and Kik",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Textual"
+            ],
+            "Human Incompetence": [
+                "Technical",
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": {
+            "Textual": []
+        },
+        "Area of AI Application": "Social Media Interaction",
+        "Online": "Yes"
+    }
+}

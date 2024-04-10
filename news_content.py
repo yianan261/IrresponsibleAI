@@ -181,7 +181,7 @@ class NewsContent:
         else:
             id_set = data.get_handpicked_id_set()
             self.read_article_from_file(id_set)
-            self.process_aggregate_results(prompt_type, ZERO_SHOT)
+        self.process_aggregate_results(prompt_type, ZERO_SHOT)
 
         if double_check == True:
             self.get_double_check(prompt_type, ZERO_SHOT)
