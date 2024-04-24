@@ -20,8 +20,11 @@ class NewsContent:
         self.openai_client = OpenaiAPI()
         self.processed_results = {}
 
-    # using Newspaper3k library to scrape article
-    def scrape_article(self, url):
+    def scrape_article(self, url) -> str:
+        """
+        scrape articles with Newspaper3k library
+        returns article text string
+        """
         article = None
         try:
             article = Article(url)
@@ -33,6 +36,10 @@ class NewsContent:
         return article.text
 
     def fill_article_content(self, write=False):
+        """
+        populates aggregated_content dict with article text
+        writes to local files if write == True
+        """
         # import news URL json file and loop through
         with open("newsUrls.json", "r") as file:
             urls_dict = json.load(file)
@@ -76,6 +83,10 @@ class NewsContent:
         return
 
     def process_aggregate_results(self, prompt_type, check_prompt):
+        """
+        processes the scraped articles and calls OpenAI API to process the content for classification.
+        Writes individual incident results and aggregate results to file
+        """
         processed_results = self.processed_results
         aggregated_content = self.aggregated_content
         openai_client = self.openai_client
@@ -85,8 +96,8 @@ class NewsContent:
         os.makedirs(results_directory, exist_ok=True)
         prompt = ""
         for id, content in aggregated_content.items():
-            result, prompt = openai_client.process_content(content, prompt_type)
             try:
+                result, prompt = openai_client.process_content(content, prompt_type)
                 individual_result = {}
                 json_result = json.loads(result)
                 check = format_checker.check_format(json_result)
@@ -129,6 +140,9 @@ class NewsContent:
         return
 
     def get_double_check(self, prompt_type, check_prompt):
+        """
+        Double checks processed results by calling OpenAI API again
+        """
         processed_results = self.processed_results
         aggregated_content = self.aggregated_content
         openai_client = self.openai_client
@@ -173,7 +187,8 @@ class NewsContent:
         FEW_SHOTS_COT_STEPS = "few_shots_CoT_steps"
         TREE_OF_THOUGHTS_COT = "ToT_CoT"
         COT_USER_PROMPT = "COT_USER_PROMPT"
-        prompt_type = COT_USER_PROMPT
+        TOT_MULTI_TURN = "ToT_CoT_Multi_turn"
+        prompt_type = TOT_MULTI_TURN
 
         data = IncidentData()
         if scrape_articles == True:

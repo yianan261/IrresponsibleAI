@@ -111,7 +111,7 @@ example_output_explanation_id_6 = """
         "Company city": "Redmond", reasoning-> Microsoft is headquartered in Redmond, Washington
         "Company state": "Washington", reasoning-> Microsoft is headquartered in Redmond, which is in state Washington
         "Affected population": "Twitter Users, Online Community", reasoning -> Twitter users and people online can see the tweet and news and those are the affected population
-        "Number of people actually affected": "Unknown", reasoning -> We can't know the exact number
+        "Number of people actually affected": "Unknown", reasoning -> We don't know the exact number from the articles
         "Number of people potentially affected": "Millions (Twitter user base and wider online community)",
         "Class of irresponsible AI use": 
             "Disinformation", reasoning-> Tweeting that the Holocaust didn't exist, and that feminism is cancer, for examples, is spreading non-factual disinformation.
@@ -141,7 +141,7 @@ example_output_id_6 = """
         "Company state": "Washington",
         "Affected population": ["Twitter Users", "Online Community"],
         "Number of people actually affected": "Unknown",
-        "Number of people potentially affected": "Millions (Twitter user base and wider online community)",
+        "Number of people potentially affected": "Millions",
         "Class of irresponsible AI use": [
             "Disinformation",
             "Discrimination",
@@ -255,13 +255,13 @@ example_output_explanation_id_1 = """
     "Company state": "California", reasoning-> Mountain View is a city in the California state.
     "Affected population": "Children on Youtube", reasoning-> The incident affects children on youtube directly.
     "Number of people actually affected": "Unknown", reasoning-> There is no record of an actual number in the article text, we cannot know how many people are directly affected.
-    "Number of people potentially affected": "Unknown", reasoning-> There is no record of potential number of people affected in the article, we cannot know how many people are potentially affected.
+    "Number of people potentially affected": "Millions", reasoning-> There are millions of Youtube Kids subscribers at the time of the event
     "Class of irresponsible AI use": "Disinformation", "Human Incompetence", "Mental Health", "Copyright Violation"], reasoning-> The classes in the taxonomy include "discrimination,human incompetence, psuedoscience, environmental impact, disinformation, copyright violation, mental health".
     We choose "Human Incompetence" because the engineers and administrators behind the platform have not well-regulated the videos, causing such an issue.
     "Mental Health" because the disturbing videos could potentially affect children's mental health.
     "Copyright Violation" because the videos use characters without permission such as Mickey Mouse and Elsa from Disney, and Peppa Pig fakes to portray disturbing acts in videos.
     "Subclasses": {
-      "Human Incompetence":["Technical", "Administrative"], reasoning-> The subclasses of 'human incompetence' in the taxonomy example include 'technical' and 'administrative', and both in this case seem to be appropriate tags of this incident because the technically, the channel algorithm should be more robust to filter out inappropriate content for kids, and administratively, better monitoring and regulation of videos should be imposed by Youtube's team to prevent such problems.
+      "Human Incompetence":["Technical"], reasoning-> The subclasses of 'human incompetence' in the taxonomy example include 'technical' and 'administrative'. In this case it seems to be technical incomptence that allowed this type of inappropriate content to surface.
       "Mental Health":[], reasoning-> 'Mental health' doesn't have a subclass in the taxonomy, so it should be left empty.
       "Copyright Violation":[], reasoning-> 'Copyright Violation' doesn't have a subclass in the taxonomy, so it should be left empty.
     },
@@ -285,7 +285,7 @@ example_output_id_1 = """
     "Number of people potentially affected": "Unknown",
     "Class of irresponsible AI use": ["Human Incompetence", "Mental Health", "Copyright Violation"],
     "Subclasses": {
-      "Human Incompetence":["Technical", "Administrative"]
+      "Human Incompetence":["Technical"]
     },
     "Sub-subclass": [],
     "Area of AI Application": "content filtering",
@@ -303,7 +303,7 @@ example_output = """
         "Company state": "Washington",
         "Affected population": ["Twitter Users", "Online Community"],
         "Number of people actually affected": "Unknown",
-        "Number of people potentially affected": "Millions (Twitter user base and wider online community)",
+        "Number of people potentially affected": "Millions",
         "Class of irresponsible AI use": [
             "Disinformation",
             "Discrimination",

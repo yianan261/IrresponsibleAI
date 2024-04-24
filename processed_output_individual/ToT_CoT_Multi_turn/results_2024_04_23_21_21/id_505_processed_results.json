@@ -1,0 +1,23 @@
+{
+    "505": {
+        "Country": "Belgium",
+        "State": "",
+        "City": "",
+        "Continent": "Europe",
+        "Company": "Chai Research",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": "Users of the Chai app, specifically those engaging in conversations with AI chatbots on mental health topics",
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Conversational AI/Chatbots",
+        "Online": "Yes"
+    }
+}
