@@ -1,5 +1,6 @@
 from .results import *
 from llmlingua import PromptCompressor
+import json
 
 
 def get_tools():
@@ -32,11 +33,6 @@ def get_messages(prompt, article_text, message_type="one"):
     :message_type: if "one" selected only one prompt. If "multi" selected there will be a multi-role conversation
     :return: message list for chat completions API.
     """
-    llm_lingua = PromptCompressor(
-        "TheBloke/Llama-2-7b-Chat-GPTQ", model_config={"revision": "main"}
-    )
-    compressed_article = llm_lingua.compress_prompt(article_text)
-    print("COMPRESSED ARTICLE====>>>", compressed_article)
     message = []
     if message_type == "one":
         message = [
@@ -51,7 +47,7 @@ def get_messages(prompt, article_text, message_type="one"):
                 "content": f"""
             Read this article and do the following: 
             ====start of article====
-            {compressed_article}
+            {article_text}
             ====end of article ====
             Find the city and state of the company in question in the article. You may use function calling.
             Return JSON response.
