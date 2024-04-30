@@ -125,8 +125,8 @@ class NewsContent:
             except Exception as e:
                 logging.error(f"An error occurred for ID {id}: {e}")
                 raise
-        with open(f"{results_directory}/prompt.txt", "w") as prompt_file:
-            prompt_file.write(prompt)
+        # with open(f"{results_directory}/prompt.txt", "w") as prompt_file:
+        #     prompt_file.write(prompt)
 
         logging.info("LLM processing completed. Saving aggregate results to file...")
         # writing aggregate results

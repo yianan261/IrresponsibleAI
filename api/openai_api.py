@@ -25,21 +25,14 @@ class OpenaiAPI:
     def handle_tool_calls(self, tool_calls):
         location_candidates = []
         available_functions = self.available_functions
-        i = 0
-        current_time = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M")
-        location_directory = (
-            f"{os.path.abspath(os.path.dirname(__file__))}/location_{current_time}"
-        )
-        os.makedirs(location_directory, exist_ok=True)
+        search = None
         for tool_call in tool_calls:
-            i += 1
-            with open(f"{location_directory}/{i}.txt", "w") as location_file:
-                location_file.write(f"{location_candidates}")
             function_name = tool_call.function.name
             function_to_call = available_functions[function_name]
             print("FUNCTION TO CALL", function_to_call)
             function_args = json.loads(tool_call.function.arguments)
             function_response = function_to_call(query=function_args.get("query"))
+            print(">>>>>>FUNCTION RESPONSE>>>>>", function_response)
             search = function_response
         temp_snippet = []
         temp_metatag = []
@@ -53,6 +46,7 @@ class OpenaiAPI:
             for snippet, metatag in zip(temp_snippet, temp_metatag):
                 location_candidates.append((i, snippet, metatag))
                 i += 1
+        print("LOCATION CANDIDATES=========", location_candidates)
         return location_candidates
 
     def process_content(self, article_text, prompt_type):

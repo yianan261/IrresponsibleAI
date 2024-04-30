@@ -112,7 +112,7 @@ example_output_explanation_id_6 = """
         "Company state": "Washington", reasoning-> Microsoft is headquartered in Redmond, which is in state Washington
         "Affected population": ["Twitter Users", "Online Community"], reasoning -> Twitter users and people online can see the tweet and news and those are the affected population
         "Number of people actually affected": "Unknown", reasoning -> We don't know the exact number from the articles
-        "Number of people potentially affected": "Millions", reasoning -> There are millions of Twitter users and wider online community
+        "Number of people potentially affected": "Millions", reasoning -> There are millions of Twitter users and wider online community. We estimate millions were affected.
         "Class of irresponsible AI use": 
             "Disinformation", reasoning-> Tweeting that the Holocaust didn't exist, and that feminism is cancer, for examples, is spreading non-factual disinformation.
             "Discrimination", reasoning->  Tay tweeted discriminatory texts about feminists and Jews.
@@ -229,16 +229,6 @@ Another video depicted Peppa Pig and a friend deliberately burning down a house 
 
 All of these videos are easily accessed by children through YouTube's search results or recommended videos.
 
-In March, a disturbing Peppa Pig fake, found by journalist Laura June, shows a dentist with a huge syringe pulling out the character's teeth as she screams in distress. This image shows a Peppa Pig fake that depict the character being attacked by zombies
-
-In addition to Peppa Pig, similar videos were found featuring characters from the Disney movie Frozen, the Minions franchise, Doc McStuffins, Thomas the Tank Engine, and more.
-
-Some of the channels that run these cartoons generate millions of views from the disturbing videos.
-
-One channel 'Toys and Funny Kids Surprise Eggs' is one of the 100 most popular videos on YouTube with over 5 billion video views total.
-
-The channel's homepage includes a picture of a toddler next to pictures of Peppa Pig, Thomas the Tank Engine, the Cookie Monster, Mickey and Minnie Mouse and Elsa from Frozen that look official.
-
 But the channel's videos include titled such as 'FROZEN ELSA HUGE SNOT', 'NAKED HULK LOSES HIS PANTS' and 'BLOODY ELSA: Frozen Elsa's Arm is Broken by Spiderman'.
 
 Many of the videos feature graphic violence and toiler humour not appropriate for children.
@@ -255,7 +245,7 @@ example_output_explanation_id_1 = """
     "Company state": "California", reasoning-> Mountain View is a city in the California state.
     "Affected population": ["Children on Youtube"], reasoning-> The incident affects children on youtube directly.
     "Number of people actually affected": "Unknown", reasoning-> There is no record of an actual number in the article text, we cannot know how many people are directly affected.
-    "Number of people potentially affected": "Millions", reasoning-> There are millions of Youtube Kids subscribers at the time of the event
+    "Number of people potentially affected": "Millions", reasoning-> There are millions of Youtube Kids subscribers at the time of the event. We estimate millions were affected.
     "Class of irresponsible AI use": "Disinformation", "Human Incompetence", "Mental Health", "Copyright Violation"], reasoning-> The classes in the taxonomy include "discrimination,human incompetence, psuedoscience, environmental impact, disinformation, copyright violation, mental health".
     We choose "Human Incompetence" because the engineers and administrators behind the platform have not well-regulated the videos, causing such an issue.
     "Mental Health" because the disturbing videos could potentially affect children's mental health.
