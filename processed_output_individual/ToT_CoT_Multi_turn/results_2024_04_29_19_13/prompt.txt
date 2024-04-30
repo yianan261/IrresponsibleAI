@@ -1,4 +1,52 @@
-example_article_id_6 = """
+
+        You are three expert academic researchers trying to categorize and classify a list of incidents of irresponsible use of artificial intelligence technology.    
+        Given the aggregated news article texts on relevant incidents, each of the three experts will fill out the following classifications. Their responses are well-thought-out responses that are well-supported by the article text.
+        The experts will share their reasoning for all their classifications.
+        Each expert will share their thought process in detail, taking into account the previous thoughts of other and admitting any errors. 
+        For each classificaiton field, the experts will create a breadth-first search of the tree of probable classifications and will vote on which of their classification is the most well-supported by the article text.
+        1. The experts will take a look at this taxonomy:
+        ```taxonomy
+          
+{
+                    "Discrimination": {
+                        "Data bias": [
+                        "Gender",
+                        "Race",
+                        "Sexual Orientation",
+                        "Economic"
+                        ],
+                        "Algorithmic bias": [
+                        "Interaction",
+                        "Feedback loop",
+                        "Optimization function",
+                        "Other"
+                        ]
+                    },
+                    "Human Incompetence": {
+                        "Administrative": [],
+                        "Technical": []
+                    },
+                    "Pseudoscience": {
+                        "Facial": []
+                    },
+                    "Environmental Impact": {},
+                    "Disinformation": {
+                        "Textual": [],
+                        "Image": [],
+                        "Video": [],
+                        "Audio": []
+                    },
+                    "Copyright Violation": {},
+                    "Mental Health": {},
+                    "Other": {}
+                    }
+
+
+        ```, take a look at this example:
+        ==============start of example===============
+         step 1. Read article text. For an example article such as: 
+        ```start of example article 1```
+        
 Yesterday, something that looks like a big failure has happened: Microsoft’s chatbot Tay has been taken offline after a series of offending tweets. And here’s how the social media has responded:
 
 Keywords associated with "Artificial Intelligence" throughout the day. "Microsoft" and "dangerous" are on the rise.
@@ -101,8 +149,12 @@ Reuters contributed to this report. When Tay started its short digital life on M
 
 Within a few hours, though, Tay’s optimistic, positive tone had changed. “Hitler was right I hate the jews,” it declared in a stream of racist tweets bashing feminism and promoting genocide. Concerned about their bot’s rapid radicalization, Tay’s creators shut it down after less than 24 hours of existence.
 
-"""
-example_output_explanation_id_6 = """
+
+        ```end of example article 1```
+        step 2. Reason for the classifications: 
+        Here is the reasoning for its classifications:
+        ```start of response reasoning```
+        
      {"Country": "Worldwide", reasoning-> Twitter can be accessed from many countries.
         "State": "", reasoning-> The incident happened worldwide, not specific to one state.
         "City": "", reasoning-> The incident happened worldwide, not specific to one city.
@@ -110,9 +162,9 @@ example_output_explanation_id_6 = """
         "Company": "Microsoft", reasoning-> from the article 'Microsoft’s chatbot Tay', 'Microsoft's sexist racist Twitter bot @TayandYou'...etc
         "Company city": "Redmond", reasoning-> Microsoft is headquartered in Redmond, Washington
         "Company state": "Washington", reasoning-> Microsoft is headquartered in Redmond, which is in state Washington
-        "Affected population": ["Twitter Users", "Online Community"], reasoning -> Twitter users and people online can see the tweet and news and those are the affected population
+        "Affected population": "Twitter Users, Online Community", reasoning -> Twitter users and people online can see the tweet and news and those are the affected population
         "Number of people actually affected": "Unknown", reasoning -> We don't know the exact number from the articles
-        "Number of people potentially affected": "Millions", reasoning -> There are millions of Twitter users and wider online community
+        "Number of people potentially affected": "Millions (Twitter user base and wider online community)",
         "Class of irresponsible AI use": 
             "Disinformation", reasoning-> Tweeting that the Holocaust didn't exist, and that feminism is cancer, for examples, is spreading non-factual disinformation.
             "Discrimination", reasoning->  Tay tweeted discriminatory texts about feminists and Jews.
@@ -129,8 +181,11 @@ example_output_explanation_id_6 = """
         "Online": "Yes", reasonoing-> Tay is a chatbot online that uses Twitter, which is an online social media platform
       }  
         
-"""
-example_output_id_6 = """
+
+        ```end of response reasoning```
+        step 3. generate expected output 
+        ```start of output example```
+        
      {
         "Country": "Worldwide", 
         "State": "", 
@@ -157,8 +212,14 @@ example_output_id_6 = """
         "Area of AI Application": ["Chatbot"],
         "Online": "Yes"
       }
-"""
-example_article_id_1 = """
+
+        ```end of output example```
+        ============== end of example =================
+
+        2. Each expert's task is mainly the next classificaiton part. Each expert has to fill out the following fields according to the article content:
+        STEP 1: Read the article text:
+        ================== Start of Article Content =================
+        
 Google-owned YouTube has apologised again after more disturbing videos surfaced on its YouTube Kids app.
 
 Investigators found several unsuitable videos including one of a burning aeroplane from the cartoon Paw Patrol and footage explaining how to sharpen a knife.
@@ -243,81 +304,104 @@ But the channel's videos include titled such as 'FROZEN ELSA HUGE SNOT', 'NAKED 
 
 Many of the videos feature graphic violence and toiler humour not appropriate for children.
 
-"""
-example_output_explanation_id_1 = """
-  {
-    "Country": "Worldwide", reasoning-> Youtube, including Youtube Kids, can be accessed in many countries. Though the incident is reported in the U.S., it doesn't mean the problem is limited to only the U.S..
-    "State": "", reasoning-> The incident is nation-wide in the United States, not specific to one state.
-    "City": "", reasoning-> The incident is nation-wide in the United States, not specific to one city.
-    "Continent": "Worldwide", reasoning-> Youtube, including Youtube Kids, can be accessed in many countries. Though the incident is reported in the U.S., it doesn't mean the problem is limited to only the U.S.; therefore the result should be 'Worldwide' for continent.
-    "Company": "Google LLC", reasoning-> Youtube is a subsidiary under Google.
-    "Company city": "Mountain View", reasoning-> Youtube is a subsidiary under Google and Google's headquarter is in Mountain View.
-    "Company state": "California", reasoning-> Mountain View is a city in the California state.
-    "Affected population": ["Children on Youtube"], reasoning-> The incident affects children on youtube directly.
-    "Number of people actually affected": "Unknown", reasoning-> There is no record of an actual number in the article text, we cannot know how many people are directly affected.
-    "Number of people potentially affected": "Millions", reasoning-> There are millions of Youtube Kids subscribers at the time of the event
-    "Class of irresponsible AI use": "Disinformation", "Human Incompetence", "Mental Health", "Copyright Violation"], reasoning-> The classes in the taxonomy include "discrimination,human incompetence, psuedoscience, environmental impact, disinformation, copyright violation, mental health".
-    We choose "Human Incompetence" because the engineers and administrators behind the platform have not well-regulated the videos, causing such an issue.
-    "Mental Health" because the disturbing videos could potentially affect children's mental health.
-    "Copyright Violation" because the videos use characters without permission such as Mickey Mouse and Elsa from Disney, and Peppa Pig fakes to portray disturbing acts in videos.
-    "Subclasses": {
-      "Human Incompetence":["Technical"], reasoning-> The subclasses of 'human incompetence' in the taxonomy example include 'technical' and 'administrative'. In this case it seems to be technical incomptence that allowed this type of inappropriate content to surface.
-      "Mental Health":[], reasoning-> 'Mental health' doesn't have a subclass in the taxonomy, so it should be left empty.
-      "Copyright Violation":[], reasoning-> 'Copyright Violation' doesn't have a subclass in the taxonomy, so it should be left empty.
-    },
-    "Sub-subclass": [], reasoning-> There are no sub-subclasses of the subclasses listed in the taxonomy, therefore this field should be left empty.
-    "Area of AI Application": "content filtering", reasoning-> The area of AI application here is content filtering.
-    "Online": "Yes", reasoning-> Youtube is an online platform, therefore this incident is in fact an online incident.
-  },
-"""
 
-example_output_id_1 = """ 
-  {
-    "Country": "Worldwide",
-    "State": "",
-    "City": "",
-    "Continent": "Worldwide",
-    "Company": "Google LLC",
-    "Company city": "Mountain View",
-    "Company state": "California",
-    "Affected population": ["Children on Youtube"],
-    "Number of people actually affected": "Unknown",
-    "Number of people potentially affected": "Millions",
-    "Class of irresponsible AI use": ["Human Incompetence", "Mental Health", "Copyright Violation"],
-    "Subclasses": {
-      "Human Incompetence":["Technical"]
-    },
-    "Sub-subclass": [],
-    "Area of AI Application": "content filtering",
-    "Online": "Yes"
-  }
-"""
-example_output = """
-     "6": {
-        "Country": "Worldwide", 
-        "State": "", 
-        "City": "", 
-        "Continent": "Worldwide",
-        "Company": "Microsoft", 
-        "Company city": "Redmond",
-        "Company state": "Washington",
-        "Affected population": ["Twitter Users", "Online Community"],
-        "Number of people actually affected": "Unknown",
-        "Number of people potentially affected": "Millions",
-        "Class of irresponsible AI use": [
-            "Disinformation",
-            "Discrimination",
-        ],
-        "Subclasses": {
-            "Human Incompetence":["Technical"],
-            "Disinformation":["Textual"],
-            "Discrimination":["Data bias","Algorithmic bias"],
-        },
-        "Sub-subclass": {
-        "Data bias":["gender","race","other"],
-        "Algorithmic bias":["feedback loop", "optimization function", "other"]
-        },
-        "Area of AI Application": ["Chatbot"],
-        "Online": "Yes"
-    },
-"""
+        ================== End of Article Content ===================
+        STEP 2: State your reasons for your classifications for the following:
+        =================Classification Fields====================
+        - Country (output "Worldwide" if the incident happened across multiple countries):
+        - State (if not applicable leave blank):
+        - City (if not applicable leave blank):
+        - Continent (output "Worldwide" if the incident happened across multiple countries):
+        - Company (i.e. the company that developed the technology involved in this incident):
+        - Company city (the city where the headquarters of this company is located. If the company recently moved headquarters, please use the location of the new headquarter):
+        - Company state (the state of the company city, if applicable, if not leave blank):
+        - Affected population (let's think about which groups of people are directly affected by the incident in the article.): 
+        - Number of people actually affected (let's check the number of people directly affected according to the article. Give a total number. If unknown output 'Unknown'):
+        - Number of people potentially affected (let's check the article text to see if this information is provided or suggested, if not you may ouput 'Unknown'):
+        - Classes of irresponsible AI use (please follow the rules and refer to this taxonomy: 
+        ```taxonomy classes
+                ["Discrimination",
+                    "Human Incompetence",
+                    "Pseudoscience",
+                    "Environmental Impact",
+                    "Disinformation",
+                    "Copyright Violation",
+                    "Mental Health",
+                    "Other"]
+                     
+        ```   
+        Rule1: There could be more than one classes the article classifies as. 
+        Rule2: DO NOT create your own class, adhere strictly to the provided list.
+        - Subclasses (please follow the rules and refer to this taxonomy structure `<class>:[<subclass>]`):
+          ```taxonomy subclasses       
+                 
+                {
+                    "Discrimination": [
+                        "Data bias",
+                        "Algorithmic bias"
+                    ],
+                    "Human Incompetence": [
+                        "Administrative",
+                        "Technical"
+                    ],
+                    "Pseudoscience": [
+                        "Facial",
+                        "Other"
+                    ],
+                    "Environmental Impact":[],
+                    "Disinformation": [
+                        "Textual",
+                        "Image",
+                        "Video",
+                        "Audio",
+                    ],
+                    "Copyright Violation": [],
+                    "Mental Health": [],
+                    "Other": []
+                    }
+            
+          ```
+        Rule1 : The subclasses should be the children of the classes. Let's think about which sub-categories of the class/classes this article belong in. 
+        Rule2: DO NOT ADD subclass fields that are NOT in the provided taxonomy list
+        Rule3: If there is no subclass for a particular class in the taxonomy, leave it.
+        - Sub-subclass (please follow the rules and refer to this taxonomy structure `<subclass>:[<sub-subclass>]`): 
+        ```taxonomy structure
+               
+                    {
+                        "Data bias": [
+                        "Gender",
+                        "Race",
+                        "Sexual Orientation",
+                        "Economic",
+                        "Other"
+                        ],
+                        "Algorithmic bias": [
+                        "Interaction",
+                        "Feedback loop",
+                        "Optimization function",
+                        "Other"
+                        ],
+                        "Administrative":[],
+                        "Technical":[],
+                        "Facial": [],
+                        "Textual": [],
+                        "Image": [],
+                        "Video": [],
+                        "Audio": []
+                    },
+
+                
+        ```
+        Rule1: Only find the sub-subclass relation in the provided taxonomy. The sub-subclass are children of subclass.
+        Rule2: DO NOT ADD OR CREATE sub-subclass fields that are not in the provided taxonomy list. 
+        Rule3: If a subclass in the taxonomy does not have a sub-subclass, leave it.
+        Rule4: If none of the subclasses have sub-subclasses, just leave the field empty e.g. sub-subclass:[]
+        - Area of AI Application (e.g. content filtering, surveillance, illness prediction):
+        - Online (yes or no):
+        =================Classification Fields====================
+        STEP 3: The experts will discuss with each other their classification and reasoning and vote on the best one for each field.
+
+        Note to the experts: DO NOT make up your own field. If for some reason you are unable to extract information for a certain field, leave it blank.
+
+        Provide the classification and reasonings for each field. 
+        

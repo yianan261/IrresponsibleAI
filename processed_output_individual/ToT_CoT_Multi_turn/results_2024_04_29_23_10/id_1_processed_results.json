@@ -1,0 +1,33 @@
+{
+    "1": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "San Bruno",
+        "Company state": "California",
+        "Affected population": [
+            "Children"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Mental Health": [],
+            "Other": []
+        },
+        "Sub-subclass": {
+            "Technical": []
+        },
+        "Area of AI Application": "Content Distribution",
+        "Online": "yes"
+    }
+}

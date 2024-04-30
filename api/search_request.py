@@ -44,12 +44,10 @@ def make_request(payload):
     )
     if response.status_code != 200:
         raise Exception("Request failed")
-    print("SEARCH API RESPONSE=========", response.json())
     return response.json()
 
 
 def get_location(query):
-    print("CALLEDDDDDDD")
     payload = build_payload(query)
     response = make_request(payload)
     return response

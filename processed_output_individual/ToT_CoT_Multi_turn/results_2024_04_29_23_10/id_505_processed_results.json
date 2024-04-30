@@ -1,0 +1,27 @@
+{
+    "505": {
+        "Country": "Belgium",
+        "State": "",
+        "City": "",
+        "Continent": "Europe",
+        "Company": "Chai Research",
+        "Company city": "Palo Alto",
+        "Company state": "California",
+        "Affected population": "Users of AI chatbots, specifically those seeking mental health support or vulnerable individuals",
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Mental Health",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Mental Health": [],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Conversational AI",
+        "Online": "Yes"
+    }
+}

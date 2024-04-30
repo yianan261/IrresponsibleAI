@@ -1,0 +1,31 @@
+{
+    "1": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "San Bruno",
+        "Company state": "California",
+        "Affected population": "Children using YouTube Kids",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health",
+            "Disinformation",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Disinformation": [
+                "Video"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content distribution and filtering",
+        "Online": "Yes"
+    }
+}

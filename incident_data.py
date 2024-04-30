@@ -18,7 +18,7 @@ class IncidentData:
 
     def get_handpicked_id_set(self) -> set[str]:
         # id_set = set([0, 1, 2, 3, 4, 5, 6, 9, 10, 11, 13, 14, 451, 382, 505, 167])
-        id_set = set([167, 505])
+        id_set = set([1, 9, 167, 505])
         # id_set = set([i for i in range(1,16)])
         id_int_to_string = (str(i) for i in id_set)
         return id_int_to_string

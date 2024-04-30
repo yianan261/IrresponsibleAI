@@ -685,15 +685,15 @@ def get_prompt(article_text, prompt_type):
         STEP 2: State your reasons for your classifications for the following:
         =================Classification Fields====================
         - Country (output "Worldwide" if the incident happened across multiple countries):
-        - State (if not applicable leave blank):
-        - City (if not applicable leave blank):
+        - State (State impacted by the incident; if not applicable leave blank):
+        - City (City impacted by the incident; if not applicable leave blank):
         - Continent (output "Worldwide" if the incident happened across multiple countries):
         - Company (i.e. the company that developed the technology involved in this incident):
-        - Company city (the city where the headquarters of this company is located. If the company recently moved headquarters, please use the location of the new headquarter):
+        - Company city (the city where the headquarters of this company is located):
         - Company state (the state of the company city, if applicable, if not leave blank):
         - Affected population (let's think about which groups of people are directly affected by the incident in the article.): 
         - Number of people actually affected (let's check the number of people directly affected according to the article. Give a total number. If unknown output 'Unknown'):
-        - Number of people potentially affected (let's check the article text to see if this information is provided or suggested, if not you may ouput 'Unknown'):
+        - Number of people potentially affected (let's think and estimate how many people might have been potentially affected by this incident):
         - Classes of irresponsible AI use (please follow the rules and refer to this taxonomy: 
         ```taxonomy classes
                 {taxa.classes} 
@@ -722,7 +722,7 @@ def get_prompt(article_text, prompt_type):
 
         Note to the experts: DO NOT make up your own field. If for some reason you are unable to extract information for a certain field, leave it blank.
 
-        For each the chosen classification by vote, provide the classification and reasonings for each field.
+        Provide the classification and reasonings for each field. 
         """
 
 

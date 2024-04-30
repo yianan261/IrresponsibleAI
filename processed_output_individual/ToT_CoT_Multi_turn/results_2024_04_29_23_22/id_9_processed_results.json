@@ -1,0 +1,35 @@
+{
+    "9": {
+        "Country": "United States",
+        "State": "New York",
+        "City": "New York City",
+        "Continent": "North America",
+        "Company": "New York City Department of Education",
+        "Company city": "New York",
+        "Company state": "New York",
+        "Affected population": [
+            "Teachers in New York City"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative"
+            ],
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Educational Assessment",
+        "Online": "No"
+    }
+}
