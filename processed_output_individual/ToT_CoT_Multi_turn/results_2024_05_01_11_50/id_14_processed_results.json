@@ -1,0 +1,33 @@
+{
+    "14": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": "Users of Google Cloud Natural Language API",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Other"
+            ],
+            "Algorithmic bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Natural Language Processing",
+        "Online": "Yes"
+    }
+}

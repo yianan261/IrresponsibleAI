@@ -1,0 +1,140 @@
+{
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "Jakarta",
+        "Continent": "Asia",
+        "Company": "Lion Air",
+        "Company city": "Jakarta",
+        "Company state": "",
+        "Affected population": [
+            "Passengers and crew of Lion Air Flight 610"
+        ],
+        "Number of people actually affected": 189,
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Other": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Aviation control systems",
+        "Online": "No"
+    },
+    "4": {
+        "Country": "USA",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company": "Uber",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Pedestrians",
+            "Drivers",
+            "General Public"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical",
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous Vehicles",
+        "Online": "No"
+    },
+    "9": {
+        "Country": "United States",
+        "State": "New York",
+        "City": "New York",
+        "Continent": "North America",
+        "Company": "Not explicitly stated",
+        "Company city": "Not explicitly stated",
+        "Company state": "Not explicitly stated",
+        "Affected population": "Teachers evaluated by the Respondents\u2019 Growth Model",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative",
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Administrative": [],
+            "Technical": []
+        },
+        "Area of AI Application": "Educational Assessment",
+        "Online": "No"
+    },
+    "10": {
+        "Country": "United States",
+        "State": "Massachusetts",
+        "City": "Lowell",
+        "Continent": "North America",
+        "Company": "Kronos Incorporated",
+        "Company city": "Lowell",
+        "Company state": "Massachusetts",
+        "Affected population": "Retail and restaurant workers, especially single mothers",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative",
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Workforce management",
+        "Online": "No"
+    },
+    "14": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": "Users of Google Cloud Natural Language API",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Other"
+            ],
+            "Algorithmic bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Natural Language Processing",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "9": {
+        "Country": "United States",
+        "State": "New York",
+        "City": "New York",
+        "Continent": "North America",
+        "Company": "Not explicitly stated",
+        "Company city": "Not explicitly stated",
+        "Company state": "Not explicitly stated",
+        "Affected population": "Teachers evaluated by the Respondents\u2019 Growth Model",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative",
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Administrative": [],
+            "Technical": []
+        },
+        "Area of AI Application": "Educational Assessment",
+        "Online": "No"
+    }
+}

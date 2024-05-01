@@ -1,0 +1,29 @@
+{
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "Jakarta",
+        "Continent": "Asia",
+        "Company": "Lion Air",
+        "Company city": "Jakarta",
+        "Company state": "",
+        "Affected population": [
+            "Passengers and crew of Lion Air Flight 610"
+        ],
+        "Number of people actually affected": 189,
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Other": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Aviation control systems",
+        "Online": "No"
+    }
+}

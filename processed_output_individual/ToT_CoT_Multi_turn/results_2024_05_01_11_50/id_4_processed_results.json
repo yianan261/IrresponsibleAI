@@ -1,0 +1,30 @@
+{
+    "4": {
+        "Country": "USA",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company": "Uber",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Pedestrians",
+            "Drivers",
+            "General Public"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical",
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous Vehicles",
+        "Online": "No"
+    }
+}
