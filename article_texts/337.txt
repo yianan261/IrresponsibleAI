@@ -1,16 +1,56 @@
-A crash involving a Tesla Model S left two people dead Sunday after the car collided with a tree and caught fire, according to local NBC News affiliate KPRC 2 in Spring, Texas. Authorities say an investigation into the crash is ongoing, though the consensus so far is neither of the two men involved in the crash were driving the Model S at the time of impact. On Monday, Tesla CEO Elon Musk spoke out on Twitter to refute initial findings from the early investigation, as two federal agencies examine the wreck.
+Tesla has released more details about the fatal crash in Texas that has captivated the media over the last week.
 
-First responders found one of the men in the front passenger seat and discovered the second in the back seat. The seating arrangement points to Tesla's Autopilot or Full Self-Driving mode beta being enabled, though this wasn't explicitly mentioned in the initial report. Musk tweeted that standard Autopilot "would require lane lines to turn on, which this street did not have."
+While Tesla released more information following an investigation with local authorities, ther are still a lot of questions unanswered.
 
-"Data logs recovered so far show Autopilot was not enabled and this car did not purchase FSD," he added.
+On April 17, a strange and tragic accident in a Tesla that happened in Spring, Texas near Houston.
 
-Neither Autopilot nor the Full Self-Driving driver-assist systems are fully autonomous and both are considered Level 2 systems on the SAE scale of autonomy. A Tesla is not capable of handling driving on its own, despite the "Full Self-Driving" name. According to tweets from a local reporter, embedded above, the car failed to navigate a curve in the road and hit a tree before bursting into flames, with no driver behind the wheel to regain control.
+A Tesla Model S missed a turn, hit a tree and caught on fire – leaving the two people inside dead. The owner of the Model S, a local doctor, and his friend.
 
-The National Highway Traffic Safety Administration confirmed on Monday it deployed a Special Crash Investigation Team to the incident. An agency spokesperson told Roadshow, "We are actively engaged with local law enforcement and Tesla to learn more about the details of the crash and will take appropriate steps when we have more information." Local police also demanded any crash data from Tesla.
+The accident made national news and it was reported that as a “driverless Tesla crash” because the police said that they believe no one was driving the vehicle.
 
-Highlighting the need for fire safety in the budding EV era, local crews needed to contact Tesla to understand how to put the fire out. Firefighters used 32,000 gallons of water to get the blaze under control, according to KPRC 2.
+That statement was reportedly based on the bodies being found in the front passenger seat and the backseat as well as a comment from a family member about the driver possibly jumping into the backseat.
 
-Tesla does not operate a public relations department to field requests for comment.. A Tesla Model S that crashed and caught fire recently in Texas, killing two men, may have had someone in the driver’s seat, according to Tesla’s top executives. Their comments in an earnings call Monday contradict statements made by local law enforcement in the immediate aftermath of the crash, and could complicate the efforts by federal crash investigators who are also examining the incident.
+Tesla doesn’t have autonomous vehicles on the road where drivers can jump in the backseat, but many speculated that Tesla’s Autopilot driver-assist features might have been involved.
+
+CEO Elon Musk quickly commented that data showed Autopilot wasn’t engaged and couldn’t have been engaged on the road where the accident happened and criticized the media for suggesting that it might have been the case.
+
+The NTSB and NHTSA both launched investigations into the accident.
+
+Now Tesla has commented in more detail than Musk’s short tweet from last week.
+
+During a conference call for Tesla’s Q1 2021 results, Lars Moravy, Tesla’s Vice President of Vehicle Engineering, commented:
+
+“We did a study with the authorities within the past week to understand what happened in that particular crash and what we have learned from that is Autosteer did not and could not engage on the road conditions as it was designed and adaptive cruise control only engaged when the driver was buckled and driving above 5 mph, and it only accelerated to 30 mph within the distance before the car crash.” As well, the car’s adaptive cruise control decelerated and came to a stop after the driver’s seatbelt was unbuckled.Through further investigation of the vehicle accident remains with NTSB and local police and we were able to find that the steering wheel was indeed deformed leading to the likelihood that someone was indeed in the driver’s seat and all seatbelts post-crash were unbuckled.
+
+The Tesla executive also confirmed that Tesla couldn’t retrieve the SD card with more data or video of the crash.
+
+The authorities are still working on that and the investigations are ongoing.
+
+Electrek’s Take
+
+Alright, this is a much better response from Tesla than what Elon said, but it is still confusing.
+
+First of all, Autopilot was involved in that drive (not the crash apparently). Maybe not Autosteer, but Tesla has advertised TACC, its traffic-aware cruise control, as an Autopilot feature.
+
+Now it doesn’t mean it was involved in the crash, but it does explain a few things.
+
+It looks like the driver did try to engage Autopilot with adaptive cruise control, but only cruise control could come up and then he unbuckled his seatbelt – presumably to jump on the backseat as stated by a family member.
+
+Therefore, it looks like the theory that they went on a drive to “test out autonomous features” is a real possibility even though Tesla’s Autopilot features shouldn’t be described as “autonomous driving” and it looks like the Autopilot driver-assist features were misused.
+
+Now it looks like the driver might have misunderstood the capability of Tesla’s Autopilot features since it looks like they worked as intended but were misused if he tried to jump in the backseat.
+
+If TACC indeed came to a stop as described by Moravy, then we still don’t know what happened after and leading to the actual crash.
+
+We are still far from a clear picture of what happened that night despite the whole event apparently being only a very short drive and hope the NTSB and NHTSA investigation shed more light on this tragic and strange accident.
+
+As for Elon’s comment about the media, there sure was some misreporting regarding this event, but a lot of that came from the police stating that they believed no one was in the driver’s seat.
+
+There were some speculations in the media that wasn’t smart, but it’s not wrong for the media to report what the police were saying about the crash. As long as they share the new information as it comes in, I don’t think we can blame them much on that front.
+
+Now I’m not talking about the few media, like Automotive News for example, who straight put the blame of Autopilot. That’s obviously bad reporting.
+
+It felt to me that a lot of the misreporting came from misunderstanding Autopilot in the media. A PR department would certainly help on that front.. A Tesla Model S that crashed and caught fire recently in Texas, killing two men, may have had someone in the driver’s seat, according to Tesla’s top executives. Their comments in an earnings call Monday contradict statements made by local law enforcement in the immediate aftermath of the crash, and could complicate the efforts by federal crash investigators who are also examining the incident.
 
 Lars Moravy, Tesla’s vice president of vehicle engineering, said that company representatives were able to inspect the crash, along with local law enforcement and investigators from the National Highway Traffic Safety Administration (NHTSA) and the National Transportation Safety Board (NTSB). Moravy said the company was able to determine that the steering wheel was “deformed,” leading them to conclude there was someone in the driver’s seat at the time of the crash.
 
@@ -82,172 +122,22 @@ Despite the safety concerns and "really severe supply chain issues," Tesla hit a
 
 The company also reported record net income of $438 million, or 39 cents per share, compared with $16 million, or 2 cents a share, a year ago. Adjusted for one-time items, the company earned 93 cents per share. Total revenue grew 74% year-over-year to $10.3 billion, with about $518 million in automotive revenue coming from sales of regulatory credits. Both top and bottom line exceeded analyst estimates.
 
-Ticker Security Last Change Change % TSLA TESLA INC. 183.28 -10.77 -5.55%
+Ticker Security Last Change Change % TSLA TESLA INC. 181.80 -1.48 -0.81%
 
 Tesla expects the first deliveries of its latest Model S to begin "very shortly" and noted that Model Y production in Shanghai and Fremont, California continues to ramp up. The company also noted that its making progress on its two new factories in Berlin and Texas, which remain on track to start vehicle production and deliveries later this year. Tesla Semi deliveries will also begin in 2021.
 
 Looking ahead, the company expects 50% average growth in vehicle deliveries in 2021 and beyond.
 
-Tesla stock fell as much as 3% in after-hours trading following company's earnings announcement.. Two men were killed in Texas after a Tesla they were in crashed on Saturday and caught fire with neither of the men behind the wheel, the authorities said.
+Tesla stock fell as much as 3% in after-hours trading following company's earnings announcement.. A crash involving a Tesla Model S left two people dead Sunday after the car collided with a tree and caught fire, according to local NBC News affiliate KPRC 2 in Spring, Texas. Authorities say an investigation into the crash is ongoing, though the consensus so far is neither of the two men involved in the crash were driving the Model S at the time of impact. On Monday, Tesla CEO Elon Musk spoke out on Twitter to refute initial findings from the early investigation, as two federal agencies examine the wreck.
 
-Mark Herman, the Harris County Precinct 4 constable, said that physical evidence from the scene and interviews with witnesses led officials “to believe no one was driving the vehicle at the time of the crash.”
+First responders found one of the men in the front passenger seat and discovered the second in the back seat. The seating arrangement points to Tesla's Autopilot or Full Self-Driving mode beta being enabled, though this wasn't explicitly mentioned in the initial report. Musk tweeted that standard Autopilot "would require lane lines to turn on, which this street did not have."
 
-The vehicle, a 2019 Model S, was going at a “high rate of speed” around a curve at 11:25 p.m. local time when it went off the road about 100 feet and hit a tree, Constable Herman said. The crash occurred in a residential area in the Woodlands, an area about 30 miles north of Houston.
+"Data logs recovered so far show Autopilot was not enabled and this car did not purchase FSD," he added.
 
-The men were 59 and 69 years old. One was in the front passenger seat and one in the rear seat, Constable Herman said.. Authorities near Houston, Texas are investigating a horrifying and deadly crash scene involving what deputies believe was a driverless Tesla on Autopilot that sparked a raging four hour fire, killing two people inside.
+Neither Autopilot nor the Full Self-Driving driver-assist systems are fully autonomous and both are considered Level 2 systems on the SAE scale of autonomy. A Tesla is not capable of handling driving on its own, despite the "Full Self-Driving" name. According to tweets from a local reporter, embedded above, the car failed to navigate a curve in the road and hit a tree before bursting into flames, with no driver behind the wheel to regain control.
 
-ELON MUSK SUGGESTS CYBERTRUCK IS NOT HAPPENING THIS YEAR
+The National Highway Traffic Safety Administration confirmed on Monday it deployed a Special Crash Investigation Team to the incident. An agency spokesperson told Roadshow, "We are actively engaged with local law enforcement and Tesla to learn more about the details of the crash and will take appropriate steps when we have more information." Local police also demanded any crash data from Tesla.
 
-Deputies say that a fully-electric 2019 Tesla Model S, worth about $80,000, was traveling along a curve at a high rate of speed before crashing into a tree at around 11:25 p.m. Saturday night in the Carlton Woods subdivision near The Woodlands.
+Highlighting the need for fire safety in the budding EV era, local crews needed to contact Tesla to understand how to put the fire out. Firefighters used 32,000 gallons of water to get the blaze under control, according to KPRC 2.
 
-Officials believe the Tesla may have been operating on Autopilot, noting that one of the individuals was found in the passenger seat while the other was found in the back seat.
-
-TESLA ‘BUILDING UP’ COLLISION REPAIR CAPABILITIES, ELON MUSK SAYS
-
-According to KPRC 2, the brother-in-law of one of the victims said the men were taking the car out for a spin, and that the driver was seen backing out of the driveway and may have hopped in the back seat before the crash.
-
-A sheriff's department spokesperson said the vehicle immediately burst into flames following the crash, and that local firefighters worked for four hours to put out the blaze, which required 32,000 gallons of water to extinguish. At one point, responding deputies had to call Tesla at one point to ask them how to put out the fire in the battery, which kept reigniting.
-
-Officials are still reportedly investigating whether the front passenger air bag deployed and whether the vehicle's advanced driver-assistance system was enabled at the time of the crash and will conduct autopsies on the two men.
-
-GET FOX BUSINESS ON THE GO BY CLICKING HERE
-
-The incident comes as Tesla released its accident data for the first quarter of 2021.
-
-CEO Elon Musk claimed that Tesla vehicles with Autopilot engaged are now approaching a 10 times lower chance of an accident than the average vehicle.
-
-In the first quarter of 2021, the company registered one accident for every 4.19 million miles driven with Autopilot engaged. For those driving without Autopilot but with the Tesla's active safety features, the company registered one accident for every 2.05 million miles driven. As for those driving without Autopilot or active safety features, the company registered one accident for every 978,000 miles driven.
-
-In comparison, the most recent data from the National Highway Transportation Security Administration, the auto industry's top safety regulator, finds that there is an automobile crash in the United States every 484,000 miles.
-
-CLICK HERE TO READ MORE ON FOX BUSINESS
-
-Tesla notes that the Model S, Model X and Model 3 have all achieved the lowest overall probability of injury of any vehicle tested by the federal government's new car assessment program.
-
-"Much of this has to do with the rigid, fortified structure of the battery pack that is mounted to a car’s floor, which provides a vehicle with exceptional strength, large crumple zones, and a uniquely low center of gravity," the company said in a statement. "Because of their strength, Tesla’s battery packs rarely incur serious damage in accidents. And, in the extremely unlikely event that a fire occurs, the state-of-the-art design of our battery packs ensures that its safety system works as intended and isolates a fire to select areas within the battery while simultaneously venting heat away from the passenger cabin and the vehicle."
-
-However, Tesla also warns in a support page on its website that its Autopilot and full self-driving capability are "intended for use with a fully attentive driver, who has their hands on the wheel and is prepared to take over at any moment."
-
-"While these features are designed to become more capable over time, the currently enabled features do not make the vehicle autonomous," Tesla added.
-
-Tesla has also previously provided first responders with guidance on how to deal with emergency situations related to its vehicles.
-
-Ticker Security Last Change Change % TSLA TESLA INC. 183.28 -10.77 -5.55%
-
-The NHTSA told FOX Business in a statement that it is "aware of the tragic crash involving a Tesla vehicle outside of Houston, Texas" and has deployed a team to investigate.
-
-"We are actively engaged with local law enforcement and Tesla to learn more about the details of the crash and will take appropriate steps when we have more information," the agency added.
-
-Reuters reported last month that the NHTSA opened 27 investigations into crashes related to Tesla vehicles, 23 of which remain active.
-
-Representatives for Tesla did not immediately return FOX Business' requests for comment.. . Tesla has released more details about the fatal crash in Texas that has captivated the media over the last week.
-
-While Tesla released more information following an investigation with local authorities, ther are still a lot of questions unanswered.
-
-On April 17, a strange and tragic accident in a Tesla that happened in Spring, Texas near Houston.
-
-A Tesla Model S missed a turn, hit a tree and caught on fire – leaving the two people inside dead. The owner of the Model S, a local doctor, and his friend.
-
-The accident made national news and it was reported that as a “driverless Tesla crash” because the police said that they believe no one was driving the vehicle.
-
-That statement was reportedly based on the bodies being found in the front passenger seat and the backseat as well as a comment from a family member about the driver possibly jumping into the backseat.
-
-Tesla doesn’t have autonomous vehicles on the road where drivers can jump in the backseat, but many speculated that Tesla’s Autopilot driver-assist features might have been involved.
-
-CEO Elon Musk quickly commented that data showed Autopilot wasn’t engaged and couldn’t have been engaged on the road where the accident happened and criticized the media for suggesting that it might have been the case.
-
-The NTSB and NHTSA both launched investigations into the accident.
-
-Now Tesla has commented in more detail than Musk’s short tweet from last week.
-
-During a conference call for Tesla’s Q1 2021 results, Lars Moravy, Tesla’s Vice President of Vehicle Engineering, commented:
-
-“We did a study with the authorities within the past week to understand what happened in that particular crash and what we have learned from that is Autosteer did not and could not engage on the road conditions as it was designed and adaptive cruise control only engaged when the driver was buckled and driving above 5 mph, and it only accelerated to 30 mph within the distance before the car crash.” As well, the car’s adaptive cruise control decelerated and came to a stop after the driver’s seatbelt was unbuckled.Through further investigation of the vehicle accident remains with NTSB and local police and we were able to find that the steering wheel was indeed deformed leading to the likelihood that someone was indeed in the driver’s seat and all seatbelts post-crash were unbuckled.
-
-The Tesla executive also confirmed that Tesla couldn’t retrieve the SD card with more data or video of the crash.
-
-The authorities are still working on that and the investigations are ongoing.
-
-Electrek’s Take
-
-Alright, this is a much better response from Tesla than what Elon said, but it is still confusing.
-
-First of all, Autopilot was involved in that drive (not the crash apparently). Maybe not Autosteer, but Tesla has advertised TACC, its traffic-aware cruise control, as an Autopilot feature.
-
-Now it doesn’t mean it was involved in the crash, but it does explain a few things.
-
-It looks like the driver did try to engage Autopilot with adaptive cruise control, but only cruise control could come up and then he unbuckled his seatbelt – presumably to jump on the backseat as stated by a family member.
-
-Therefore, it looks like the theory that they went on a drive to “test out autonomous features” is a real possibility even though Tesla’s Autopilot features shouldn’t be described as “autonomous driving” and it looks like the Autopilot driver-assist features were misused.
-
-Now it looks like the driver might have misunderstood the capability of Tesla’s Autopilot features since it looks like they worked as intended but were misused if he tried to jump in the backseat.
-
-If TACC indeed came to a stop as described by Moravy, then we still don’t know what happened after and leading to the actual crash.
-
-We are still far from a clear picture of what happened that night despite the whole event apparently being only a very short drive and hope the NTSB and NHTSA investigation shed more light on this tragic and strange accident.
-
-As for Elon’s comment about the media, there sure was some misreporting regarding this event, but a lot of that came from the police stating that they believed no one was in the driver’s seat.
-
-There were some speculations in the media that wasn’t smart, but it’s not wrong for the media to report what the police were saying about the crash. As long as they share the new information as it comes in, I don’t think we can blame them much on that front.
-
-Now I’m not talking about the few media, like Automotive News for example, who straight put the blame of Autopilot. That’s obviously bad reporting.
-
-It felt to me that a lot of the misreporting came from misunderstanding Autopilot in the media. A PR department would certainly help on that front.. HOUSTON – A Memorial Hermann doctor has been identified as one of two men killed when the Tesla they were in crashed into a tree. The accident has made national headlines because local officials investigating the accident say no one was driving the vehicle.
-
-The crash happened at 11:25 p.m. Saturday in the Carlton Woods subdivision near The Woodlands. The car burst into flames after hitting a tree near 18 Hammock Dunes Place.
-
-Harris County Precinct 4 Constable Mark Herman told KPRC 2 that the investigation showed “no one was driving” the fully electric 2019 Tesla when the accident happened. There was a person in the passenger seat of the front of the car and in the rear passenger seat of the car.
-
-One of those men has now been identified as Dr. William Varner, a member of the Memorial Hermann medical system.
-
-The charred wreckage of a crash involving a self-driving Tesla vehicle is seen on April 17, 2021. (KPRC)
-
-Constable Herman said authorities believe no one else was in the car and that it burst into flames immediately. He said he believes it wasn’t being driven by a human.
-
-Harris County Constable Precinct 4 deputies said the vehicle was traveling at a high speed when it failed to negotiate a cul-de-sac turn, ran off the road and hit the tree.
-
-KPRC 2 reporter Deven Clarke spoke to one man’s brother-in-law who said he was taking the car out for a spin with his best friend, so there were just two in the vehicle.
-
-The owner, he said, backed out of the driveway, and then may have hopped in the back seat only to crash a few hundred yards down the road. He said the owner was found in the back seat upright.
-
-The charred wreckage of a crash involving a self-driving Tesla vehicle is seen on April 17, 2021. (KPRC)
-
-The brother-in-law of one of the victims said relatives watched the car burn for four hours as authorities tried to tap out the flames.
-
-Authorities said they used 32,000 gallons of water to extinguish the flames because the vehicle’s batteries kept reigniting. At one point, Herman said, deputies had to call Tesla to ask them how to put out the fire in the battery.
-
-Authorities will perform autopsies on both men.
-
-The National Highway Traffic Safety Administration sent KPRC 2 the following statement:
-
-“NHTSA is aware of the tragic crash involving a Tesla vehicle outside of Houston, Texas. NHTSA has immediately launched a Special Crash Investigation team to investigate the crash. We are actively engaged with local law enforcement and Tesla to learn more about the details of the crash and will take appropriate steps when we have more information.”
-
-Elon Musk, the CEO of Tesla Motors, tweeted about the crash on Monday, saying that data logs recovered showed that autopilot was not enabled and the car did not purchase FSD.
-
-Your research as a private individual is better than professionals @WSJ!
-
-
-
-Data logs recovered so far show Autopilot was not enabled & this car did not purchase FSD.
-
-
-
-Moreover, standard Autopilot would require lane lines to turn on, which this street did not have. — Elon Musk (@elonmusk) April 19, 2021
-
-On Monday night, Memorial Hermann issued the following statement regarding the loss of Dr. Varner in this accident.. Tesla offers a $10,000 feature called Full Self-Driving Capability. It includes futuristic goodies like the ability to summon the car via app in a parking lot, and it can detect and react to traffic lights and stop signs. FSD, as Tesla enthusiasts call it, includes Autopilot, a feature that “automatically” drives on highways, changing lanes, keeping a car within its lane and at a consistent distance from other vehicles.
-
-But even people who shell out for Full Self-Driving don’t own a self-driving car, and vehicles with Autopilot can’t automatically pilot themselves. Lengthy blocks of text in Tesla owners’ manuals describe when, where, and how the features should be used: by a fully attentive driver who is holding the steering wheel and is “mindful of road conditions and surrounding traffic.” That driver shouldn’t be near city streets, construction zones, bicyclists, or pedestrians, the manual says. As Tesla puts it on its website, in slightly smaller print: “The currently enabled features require active driver supervision and do not make the vehicle autonomous.”
-
-The nuance may have been lost on two men who died in the Houston suburb of Spring, Texas, on Saturday evening when their 2019 Model S reportedly slammed into a tree and caught fire. It took local firefighters four hours to put out the flames and keep them at bay. In an interview with The Wall Street Journal, Harris County constable Mark Herman said that while local authorities’ preliminary investigation is not complete, they believe no one was behind the wheel of the vehicle when it crashed. “We’re almost 99.9 percent sure,” he said. The bodies of the two victims were reportedly found in the passenger and back seats. Herman told Reuters that the men were talking about Autopilot before they hopped in the car. "We have witness statements from people that said they left to test-drive the vehicle without a driver and to show the friend how it can drive itself," he said.
-
-Tesla didn’t respond to questions about the incident, but CEO Elon Musk tweeted Monday evening that “data logs recovered so far show Autopilot was not enabled & this car did not purchase FSD.” Constable Herman did not respond to phone calls, but he told Reuters late Monday that law enforcement will serve search warrants to Tesla to secure data related to the crash.
-
-Both the National Highway Traffic Safety Administration—the government agency that oversees car safety—and the National Transportation Safety Board—an independent agency that investigates noteworthy incidents—have dispatched teams to Texas to study the crash. “We are actively engaged with local law enforcement and Tesla to learn more about the details of the crash and will take appropriate steps when we have more information,” NHTSA said in a statement. It will likely be weeks, if not months, before results of an investigation are released.
-
-Still, the incident again highlights the still-yawning gap between Tesla’s marketing of its technology and its true capabilities, highlighted in in-car dialog boxes and owners’ manuals.
-
-The WIRED Guide to Self-Driving Cars How a chaotic skunkworks race in the desert launched what's poised to be a runaway global industry.
-
-There’s a small cottage industry of videos on platforms like YouTube and TikTok where people try to “fool” Autopilot into driving without an attentive driver in the front seat; some videos show people “sleeping” in the back or behind the wheel. Tesla owners have even demonstrated that, once the driver’s seat belt is secured, someone can prompt a car in Autopilot mode to travel for a few seconds without anyone behind the wheel.
-
-Tesla—and particularly Musk—have a mixed history of public statements about Full Self-Driving and Autopilot. A Tesla on Autopilot issues visible and audible warnings to drivers if its sensors do not detect the pressure of their hands on the wheel every 30 or so seconds, and it will come to a stop if it doesn’t sense hands for a minute. But during a 60 Minutes appearance in 2018, Musk sat behind the wheel of a moving Model 3, leaned back, and put his hands in his lap. “Now you’re not driving at all,” the anchor said with surprise.
+Tesla does not operate a public relations department to field requests for comment.

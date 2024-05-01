@@ -5,6 +5,7 @@ from .search_request import *
 import json
 from .param_data import *
 
+
 class OpenaiAPI:
     def __init__(self, model="gpt-4-1106-preview"):
         self.client = OpenAI()
@@ -31,10 +32,10 @@ class OpenaiAPI:
         for tool_call in tool_calls:
             function_name = tool_call.function.name
             function_to_call = available_functions[function_name]
-            print("FUNCTION TO CALL", function_to_call)
+            # print("FUNCTION TO CALL", function_to_call)
             function_args = json.loads(tool_call.function.arguments)
             function_response = function_to_call(query=function_args.get("query"))
-            print(">>>>>>FUNCTION RESPONSE>>>>>", function_response)
+            # print(">>>>>>FUNCTION RESPONSE>>>>>", function_response)
             search = function_response
         temp_snippet = []
         temp_metatag = []
@@ -48,7 +49,7 @@ class OpenaiAPI:
             for snippet, metatag in zip(temp_snippet, temp_metatag):
                 location_candidates.append((i, snippet, metatag))
                 i += 1
-        print("LOCATION CANDIDATES=========", location_candidates)
+        # print("Location candidates====", location_candidates)
         return location_candidates
 
     def process_content(self, article_text, prompt_type):

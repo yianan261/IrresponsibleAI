@@ -66,32 +66,3 @@ Share this: Twitter
 
 Facebook
 
-. The creators of a controversial tool that attempted to use AI to predict people's gender from their internet handle or email address have shut down their service after a huge backlash.
-
-The Genderify app launched this month, and invited people to try it out for free on its website. Netizens were horrified when they realized how sexist it was; it was riddled with the usual stereotyping, such as associating usernames or email addresses containing "nurse" more with women than men, whereas "doctor" or "professor" was considered more male than female. That meant female academics, who have earned the title of doctor or professor, were more likely to be considered male by Genderify.
-
-Many were also disappointed that Genderify boxed people into two genders, ignoring those who don’t identify as either male or female. Sasha Constanza-Chock, associate professor of Civic Media at the Massachusetts Institute of Technology, explained to The Register how this binary classification could be harmful if it was used for, say, selecting targeted advertising to show to people online.
-
-“Think how a trans man might feel if targeted by ads for stereotypically gendered female things, or vice versa," Constanza-Chock said. "Or the harm in opportunity cost of not showing employment ads to people based on misgendered assumptions.”
-
-What’s more, the tool was often wrong or downright bizarre. For example, it was confident that the presence of the word ‘woman’ in an online nick signaled there was a more than 96 per cent chance the netizen was male, and less than four per cent female.
-
-Uhh pic.twitter.com/s3m1sFF5so — Alex Betsos, Marquis De Réagent (@ADrugResearcher) July 28, 2020
-
-To demonstrate how garbage the tool was, someone even entered the name of Genderify’s chief operating officer, Arevik Gasparyan, who is female, for the software to analyze. Unfortunately, it predicted with over 91 per cent confidence that she was, in fact, a bloke.
-
-Genderify’s website has now been shut down (here's what it looked like, thanks to the Wayback Machine).
-
-Before the service was taken down, however, a spokesperson from the platform told The Register there are numerous similar gender-guessing APIs out there, hosted on cloud platforms. “Several companies have already been publicly providing similar technology for the last six years, have you ever heard that anybody got harmed from detecting their gender?” the spinner said.
-
-When The Register sent the website's support staff examples of dumb results, Genderify admitted its tool wasn’t always perfect. “We understand that our model will never provide ideal results, and the algorithm needs significant improvements, but our goal was to build a self-learning AI that will not be biased as any existing solutions,” a rep said.
-
-Oh dear... AI models used to flag hate speech online are, er, racist against black people READ MORE
-
-It said that in order for it to improve, it needed help from the LGBTQ community: “And to make it work, we very much relied on the feedback of transgender and non-binary visitors to help us improve our gender detection algorithms as best as possible for the LGBTQ+ community.”
-
-At first, Genderify tried to calm its critics by updating its FAQ on its website to address the question of how to avoid gender discrimination.
-
-"As our AI model’s decisions are based on already existing binary name and gender databases, our Product team is actively looking into ways of improving the experience for transgender and non-binary visitors. For example, the team is working on separating the concepts of name/username/email from gender identity," its site previously said.
-
-But as the internet's fury rained down on its Twitter feed, the platform eventually removed its tool altogether. “After this kind of 'warm' welcome, we were not sure if it is worth our time and efforts to make a change in existing biased reality,” a spinner told El Reg. ®

@@ -116,32 +116,4 @@ And even Jesus Christ did not get a pass from the search engine, with the writin
 
 A Google spokesperson said that its controversial assisted writing feature is undergoing “ongoing evolution.”
 
-“Assisted writing uses language understanding models, which rely on millions of common phrases and sentences to automatically learn how people communicate,” the representative said. “This also means they can reflect some human cognitive biases. “Our technology is always improving, and we don’t yet (and may never) have a complete solution to identifying and mitigating all unwanted word associations and biases.”. In brief The AI algorithms used by Google Docs to suggest edits to make writing more inclusive have been blasted for being annoying.
-
-Language models are used in Google Docs for features like Smart Compose; it suggests words to autocomplete sentences as a user types. The Chocolate Factory now wants to go further than that, and is rolling out "assistive writing," another AI-powered system designed to help people write punchier documents more quickly.
-
-Assistive writing is being introduced to enterprise users, and the feature is turned on by default. Not everyone is a fan of being guided by the algorithm, and some people find its "inclusive language" ability irritating, Vice reported.
-
-Words like "policemen" could trigger the model into suggesting it be changed to something more neutral like "police officers." That's understandable, but it can get a bit ridiculous. For example, it proposed replacing the word "landlord" with "property owner" or "proprietor." It also doesn't like curse words as one writer found.
-
-"Assisted writing uses language understanding models, which rely on millions of common phrases and sentences to automatically learn how people communicate. This also means they can reflect some human cognitive biases," a spokesperson for Google told Vice. "Our technology is always improving, and we don't yet (and may never) have a complete solution to identifying and mitigating all unwanted word associations and biases."
-
-Fairness in AI is complicated
-
-As experts strive to create the holy grail of a perfect, unbiased intelligent system, fairness in machine learning models is proving to be a tricky thing to measure and improve.
-
-Why? Well, for starters, there are apparently 21 definitions of fairness in academia. Fairness means different things to different groups of people. What might be considered fair in computer science may not align with what's considered fair in, say, the social sciences or law.
-
-All this has led to a nightmare for the field of AI, John Basl, a philosopher working at Northeastern University in the US, told Vox, adding: "We're currently in a crisis period, where we lack the ethical capacity to solve this problem." Trying to fix fairness is difficult, not only because people can't agree on what the term even means, but because the solutions for one application may not be suitable for another.
-
-It's not always as simple as making sure developers are training on a more diverse, representative data set. Sometimes the impacts of an algorithm are different for different social groups. Although there is regulation in some use cases, like financial algorithms, there is no easy fix to make these models fair.
-
-IBM: Ethics is a major roadblock to enterprises adopting AI technology
-
-IBM CEO Arvind Krishna has risen through the ranks, working his way up over 30 years to lead IBM. He's witnessed booms and busts in the technology industry, and said that although AI is the future, he's careful about deploying its vast capabilities in the real world. Ah, yeah, that'll be why Watson wasn't fully realized.
-
-"We are only probably 10 per cent of the journey in [artificial intelligence]," he said in an interview with the Wall Street Journal. "With the amount of data today, we know there is no way we as human beings can process it all. Techniques like analytics and traditional databases can only go so far."
-
-"The only technique we know that can harvest insight from the data, is artificial intelligence. The consumer has kind of embraced it first. The bigger impact will come as enterprises embrace it." But Krisha admitted businesses are facing hurdles related to machine-learning models often being biased or the technology being used unfairly.
-
-"We've got some issues. We've got to solve ethics. We've got to make sure that all of the mistakes of the past don't repeat themselves. We have got to understand the life science of AI. Otherwise we are going to create a monster. I am really optimistic that if we pay attention, we can solve all of those issues," he said. ®
+“Assisted writing uses language understanding models, which rely on millions of common phrases and sentences to automatically learn how people communicate,” the representative said. “This also means they can reflect some human cognitive biases. “Our technology is always improving, and we don’t yet (and may never) have a complete solution to identifying and mitigating all unwanted word associations and biases.”

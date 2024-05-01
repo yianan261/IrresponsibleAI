@@ -1,20 +1,4 @@
-. We are an award-winning tech website where trusted research and expert knowledge come together
-
-Since 2003, we have helped millions of people learn how to solve tech problems large and small. We work with credentialed experts, a team of trained researchers, and a devoted community to create the most reliable, comprehensive and delightful content on the Internet.. Nest Labs–a startup recently bought by Google which brings high style and web smarts to mundane household devices–is recalling Nest Protect, a smoke and carbon monoxide detector, over concerns that its alarm might fail to go off in emergency situations. The Consumer Product Safety Commission estimates that 440,000 Nest Protect units are affected by the problem.
-
-Wednesday’s recall news, though important, isn’t quite as big a deal as it sounds like: It’s more of a formality, as the CPSC is officially alerting consumers to measures which Nest took on its own back on April 3. And the “recall” doesn’t involve Nest owners having to send the detectors back for repair; they were designed all along to update their own software over Wi-Fi, a feature which makes this unexpected development less of a disaster.
-
-The risk relates to one of the detector’s most clever features, “wave to dismiss.” If the alarm goes off because of something which isn’t actually dangerous–like a little smoke wafting from your oven as you cook dinner–you don’t need to frantically whip a towel through the air or stand on a chair to turn it off. Instead, you can merely wave your hand and a motion detector inside Nest Protect will shut off the alarm.
-
-Here’s the rub: The company concluded that there was a chance that the feature might malfunction, causing Nest Protect to stay silent in a situation that really is dangerous. There are no known examples of any harm coming to people or property because of the problem, but Nest decided to issue a software update which temporarily disabled the feature while it worked on a permanent fix.
-
-On April 3, Nest disclosed the discovery of the potential hazard, issued the software update which shut off wave-to-dismiss, halted sales of new units and offered a refund to any Nest Protect owner who was unable or unwilling to perform the update.
-
-Why the delay before the CPSC’s recall notice? The agency had its own technicians examine Nest’s solution for the issue and approve it–a process which took a few weeks. It considers the formal notification it published today to be a recall, even though the resolution involves the smoke detector self-installing the update. (And as before, consumers can also return the unit for a refund.)
-
-Nest, meanwhile, says it’s finishing a new version of “wave-to-dismiss” which will bring back the feature while eliminating the malfunction. It’ll be part of another software update which the company plans to push out in the next few weeks, whereupon it will also resume sales of Nest Protect.
-
-MORE: How a Thermostat Can Save the World. Late last September it was rumored that a smart smoke/carbon monoxide detector would join the now Google-owned Nest line of smart thermostats and was later announced in early October to a great response.
+Late last September it was rumored that a smart smoke/carbon monoxide detector would join the now Google-owned Nest line of smart thermostats and was later announced in early October to a great response.
 
 The Nest Protect, which retails for $129 in both a wired and battery powered variant, intelligently interacts with an iPhone app called Nest Home with warnings about low batteries (if applicable) and when alarms are active or about to be active. It also features a handy dismissal gesture for silencing a screaming alarm.
 
@@ -32,10 +16,4 @@ For its part, Nest has been readily replacing reportedly defective units for cus
 
 We’ve reached out to Nest for comment on the reports of false alarms experienced by customers and will update if we hear a response.
 
-Could a firmware update resolve the issue for existing users? Have you experienced any false alarms yourself? Sound off in the comments below.. . Remedy:
-
-The repair is an automatic electronic update that disables the Nest Wave feature and is delivered automatically to devices connected wirelessly to the Internet and linked to a Nest account. Consumers should take one of the following actions:
-
-Consumers who have not connected their Nest Protect devices to their wireless network and linked them to a Nest account should immediately do so. The devices will automatically receive the update that disables the Nest Wave feature. Customers should confirm that their devices have been updated by going to Nest Sense on their Nest account mobile or web application and ensuring that the button for Nest Wave is off and grayed out. Instructions on how to connect to a network and disable the feature are available at http://support.nest.com/article/Nest-Protect-Safety or by contacting Nest Labs.
-
-Consumers whose Nest Protect devices are connected to their wireless network and linked to a Nest account should immediately confirm the receipt of an automatic repair that disabled the Nest Wave feature by going to Nest Sense on their Nest account mobile or web application and ensuring that the button for Nest Wave is set to "off" and grayed out. No further action is required and consumers can continue to use their devices.
+Could a firmware update resolve the issue for existing users? Have you experienced any false alarms yourself? Sound off in the comments below.. 

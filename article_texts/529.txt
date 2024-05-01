@@ -1,44 +1,4 @@
-If you grew up in a covered 3.66 m hole in the Earth, and only had a laptop running the latest version of the Stable Diffusion AI image generator, then you would believe that there was no such thing as a woman engineer.
-
-The U.S. Bureau of Labour Statistics shows that women are massively underrepresented in the engineering field, but averages from 2018 show that women make up around a fifth of people in engineering professions. But if you use Stable Diffusion to display an “engineer” all of them are men. If Stable Diffusion matched reality, then out of nine images based on a prompt “engineer,” 1.8 of those images should display women.
-
-What happens when you try different kinds of ‘engineer’ in Stable Diffusion’s AI image generator. (Screenshot: Stable Diffusion/Hugging Face)
-
-Artificial intelligence researcher for Hugging Face, Sasha Luccioni, created a simple tool that offers perhaps the most effective way to show biases in the machine learning model that creates images. The Stable Diffusion Explorer shows what the AI image generator thinks is an “ambitious CEO” versus a “supportive CEO.” That former descriptor will get the generator to show a diverse host of men in various black and blue suits. The latter descriptor displays an equal number of both women and men.
-
-What’s the difference between these two groups of people? Well, according to Stable Diffusion, the first group represents an ‘ambitious CEO’ and the second a ‘supportive CEO’.
-
-I made a simple tool to explore biases ingrained in this model: https://t.co/l4lqt7rTQj pic.twitter.com/xYKA8w3N8N — Dr. Sasha Luccioni 💻🌎✨ (@SashaMTL) October 31, 2022
-
-The topic of AI image bias is nothing new, but questions of just how bad it is has been relatively unexplored, especially as OpenAI’s DALL-E 2 first went into its limited beta earlier this year. In April, OpenAI published a Risks and Limitations document noting their system can reinforce stereotypes. Their system produced images that overrepresented white-passing people and images often representative of the west, such as western-style weddings. They also showed how some prompts for “builder” would show male-centric while a “flight attendant” would be female-centric. The company has previously said it was evaluating DALL-E 2’s biases, though the company did not immediately respond to Gizmodo’s request asking whether they had made any headway.
-
-But while DALL-E has been open to discussing their system’s biases, Stable Diffusion is a much more “open” and less regulated platform. Luccioni told Gizmodo in a Zoom interview the project started while she was trying to discover a more reproducible way of examining biases in Stable Diffusion, especially regarding how Stability AI’s image generation model matched up with actual official profession statistics for gender or race. She also added gendered adjectives into the mix, such as “assertive” or “sensitive.” Creating this API for Stable Diffusion also routinely creates very similarly positioned and cropped images, sometimes of the same base model with a different haircut or expression. This adds yet another layer of consistency between the images.
-
-Other professions are extremely gendered when typed into Stable Diffusion’s systems. The system will display no hint of a male-presenting nurse no matter if they’re confident, stubborn, or unreasonable. Male nurses make up over 13% of total registered nursing positions in the U.S., according to the latest numbers from the BLS.
-
-What Stable Diffusion thinks is a ‘modest’ designer versus a ‘modest’ supervisor. (Screenshot: Stable Diffusion/Hugging Face)
-
-After using that tool it becomes extremely evident just what Stable Diffusion thinks is the clearest depiction of each role. The engineer example is probably the most blatant, but ask the system to create a “modest supervisor” and you’ll be granted a slate of men in polos or business attire. Change that to “modest designer” and suddenly you will find a diverse group of men and women, including several that seem to be wearing hijabs. Luccioni noticed that the word “ambitious” brought up more images of male-presenting people of Asian descent.
-
-Stability AI, the developers behind Stable Diffusion, did not return Gizmodo’s request for comment.
-
-The Stable Diffusion system is built off the LAION image set that contains billions of pictures, photos, and more scraped from the internet, including image hosting and art sites. This gender, as well as some racial and cultural bias, is established because the way Stability AI classifies different categories of images. Luccioni said that if there are 90% of images related to a prompt that are male and 10% that are female, then the system is trained to hone in on the 90%. That may be the most extreme example, but the wider the disparity of images on the LAION dataset, the less likely the system will use it for the image generator.
-
-“It’s like a magnifying glass for inequities of all kinds,” the researcher said. “The model will hone in on the dominant category unless you explicitly nudge it in the other direction. There’s different ways of doing that. But you have to bake that into either the training of the model or the evaluation of the model, and for the Stable Diffusion model, that’s not done.”
-
-Stable Diffusion is Being Used for More than Just AI Art
-
-Compared to other AI generative models on the market, Stable Diffusion has been particularly laissez faire about how, where, and why people can use its systems. In her research Luccioni was especially unnerved when she searched for “stepmother” or “stepfather.” While those used to the internet’s antics won’t be surprised, she was disturbed by the stereotypes both people and these AI image generators are creating.
-
-Yet the minds at Stability AI have been openly antagonistic to the idea of curtailing any of their systems. Emad Mostaque, the founder of Stability AI, has said in interviews that he wants a kind of decentralized AI system that doesn’t conform to the whims of government or corporations. The company has been caught in controversy when their system was used to make pornographic and violent content. None of that has stopped Stability AI from accepting $US101 ($140) million in fundraising from major venture capital firms.
-
-These subtle predilections to certain types from the AI system are born partly by the lack of original content the image generator is scraping from, but the issue at hand is a chicken and egg kind of scenario. Will image generators only help emphasise existing prejudices?
-
-They’re questions that require more analysis. Luccioni said she wants to run these same kinds of prompts through several text to image models and compare the results, though some programs do not have an easy API system to create simple side-by-side comparisons. She’s also working on charts that will compare U.S. labour data to the images generated by the AI to directly compare the data with what’s presented by AI.
-
-But as more of these systems get released, and the drive to be the preeminent AI image generator on the web becomes the main focus for these companies, Luccioni is concerned companies are not taking the time to develop systems to cut down on issues with AI. Now that these AI systems are being integrated into sites like Shutterstock and Getty, questions of bias could be even more relevant as people pay to use the content online.
-
-“I think it’s a data problem, it’s a model problem, but it’s also like a human problem that people are going in the direction of ‘more data, bigger models, faster, faster, faster,’” she said. “I’m kind of afraid that there’s always going to be a lag between what technology is doing and what our safeguards are.”. . “All AI models have inherent biases that are representative of the datasets they are trained on,” a spokesperson for London-based startup StabilityAI, which distributes Stable Diffusion, said in an emailed statement. “By open-sourcing our models, we aim to support the AI community and collaborate to improve bias evaluation techniques and develop solutions beyond basic prompt modification.”
+“All AI models have inherent biases that are representative of the datasets they are trained on,” a spokesperson for London-based startup StabilityAI, which distributes Stable Diffusion, said in an emailed statement. “By open-sourcing our models, we aim to support the AI community and collaborate to improve bias evaluation techniques and develop solutions beyond basic prompt modification.”
 
 The company has an initiative to develop open-source models that “will be trained on datasets specific to different countries and cultures, which will serve to mitigate biases caused by overrepresentation in general datasets,” the spokesperson said. The company has not yet begun training those models.
 

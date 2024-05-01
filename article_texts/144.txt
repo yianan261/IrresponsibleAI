@@ -1,4 +1,46 @@
-YouTube's overeager AI might have misinterpreted a conversation about chess as racist language.
+AI May Mistake Chess Discussions as Racist Talk
+
+References to chess piece colors can trigger alarm
+
+ć
+
+ć
+
+February 19, 2021"The Queen's Gambit," the recent TV mini-series about a chess master, may have stirred increased interest in chess, but a word to the wise: social media talk about game-piece colors could lead to misunderstandings, at least for hate-speech detection software.That's what a pair of Carnegie Mellon University researchers suspect happened to Antonio Radić, or "agadmator," a Croatian chess player who hosts a popular YouTube channel. Last June, his account was blocked for "harmful and dangerous" content.YouTube never provided an explanation and reinstated the channel within 24 hours, said Ashique R. KhudaBukhsh a project scientist in CMU's Language Technologies Institute (LTI). It's nevertheless possible that "black vs. white" talk during Radi's interview with Grandmaster Hikaru Nakamura triggered software that automatically detects racist language, he suggested."We don't know what tools YouTube uses, but if they rely on artificial intelligence to detect racist language, this kind of accident can happen," KhudaBukhsh said. And if it happened publicly to someone as high-profile as Radi, it may well be happening quietly to lots of other people who are not so well known.To see if this was feasible, KhudaBukhsh and Rupak Sarkar, an LTI course research engineer, tested two state-of-the-art speech classifiers — a type of AI software that can be trained to detect indications of hate speech. They used the classifiers to screen more than 680,000 comments gathered from five popular chess-focused YouTube channels.They then randomly sampled 1,000 comments that at least one of the classifiers had flagged as hate speech. When they manually reviewed those comments, they found that the vast majority — 82% — did not include hate speech. Words such as black, white, attack and threat seemed to be triggers, they said.As with other AI programs that depend on machine learning, these classifiers are trained with large numbers of examples and their accuracy can vary depending on the set of examples used.For instance, KhudaBukhsh recalled an exercise he encountered as a student, in which the goal was to identify "lazy dogs" and "active dogs" in a set of photos. Many of the training photos of active dogs showed broad expanses of grass because running dogs often were in the distance. As a result, the program sometimes identified photos containing large amounts of grass as examples of active dogs, even if the photos didn't include any dogs.In the case of chess, many of the training data sets likely include few examples of chess talk, leading to misclassification, he noted.The research paper by KhudaBukhsh and Sarkar, a recent graduate of Kalyani Government Engineering College in India, won the Best Student Abstract Three-Minute Presentation this month at the Association for the Advancement of AI annual conference. (Photo : George Becker from Pexels) YouTube AI could have mistakenly blocked a channel of a chess streamer due to alleged racist remarks.
+
+It might be unbelievable at first that a YouTube algorithm has detected a chess discussion as 'racist' and flagged it for punishment. In the case of the chess YouTuber, he was blocked by the video-streaming company for the alleged, sensitive issue.
+
+YouTube AI Could Have Mistakenly Perceived The Chess Chat As 'Racist'
+
+The incident happened in June 2020 and people have entirely no idea why the algorithm blocked the streamer from making his content videos about chess. At the very least, it could have known that the video was flagged as 'harmful' and 'dangerous' content. Maybe, it recognized an amount of hate speech in the discussion forum if that was the case.
+
+In a report by Daily Mail, the Croatian chess enthusiast, Antonio Radic, who is also known by his YouTube name "agadmator" was puzzled why he was barred from any activity within the video-sharing platform. Two researchers from the Carnegie Mellon University (CMU) had a wild guess about the mystery behind the confusion.
+
+What's intriguing regarding the case was YouTube did not even explain why Radic's channel was shut down immediately. However, after 24 hours, it returned as if nothing happened. To solve the mind-boggling scenario, a project scientist said that it happened because Radic's viral interview with GM Hikaru Nakamura had detected words that sparked racism.
+
+Ashique KhudaBukhsh of the Language Technologies Institute in CMU admitted that they have no clue what tool did YouTube use to detect a racist slur in the discussion. The video, however, mentioned "black" and "white" which were believed to be racist language.
+
+Read Also: TikTok Silhouette Challenge No Filter Tutorial: How to Remove Red Filter
+
+Furthermore, he added that if the incident struck popular YouTubers like Radic, what more if the AI has been doing the same thing to other people who just stream for fun. KhudaBukhsh and his companion Rupak Sarkar, a research engineer ran two AI software that could detect hate speech to test its feasibility. Along with the test, they have discovered over 680,000 comments which came from five channels that were all about chess.
+
+Moreover, out of nearly 700,000 comments, a simple random test was carried out for 1,000 sample comments. They found out that 82% of the comments did not tackle anything about hate speech. But, they have seen that words related to racism like white, threat, black, and attack could be the missing key to the AI's sudden action.
+
+The AI could have a different way of filtering the messages through large samples and rest assured that the accuracy also varies based on the examples.
+
+Comparing The Past Situation To What Happened To Radic
+
+In a report by CMU News, KhudaBukhsh experienced encountering the sample problem before. His objective will be to recognize the 'active dogs' and the 'lazy dogs' in a group of photos. Majority of the pictures which have 'active dogs' contained grasses where the dogs ran. However, the program sometimes considered those photos that have grasses as samples of an 'active dog,' even in some cases, no dogs were detected in the photos.
+
+What happened to Radic was just a mere resemblance of it. The training data sets were only a few even though the main topic was chess. As a result, wrong classifications of them happened.
+
+Related Article: PewDiePie's Diss Track About Cocomelon Removed? YouTube Deletes Content After Violating Guidelines
+
+This article is owned by Tech Times.
+
+Written by Joen Coronel
+
+ⓒ 2024 TECHTIMES.com All rights reserved. Do not reproduce without permission.. YouTube's overeager AI might have misinterpreted a conversation about chess as racist language.
 
 Last summer, a YouTuber who produces popular chess videos saw his channel blocked for including what the site called 'harmful and dangerous' content.
 
@@ -58,41 +100,7 @@ His most popular video, a review of a 1962 match between Rashid Nezhmetdinov and
 
 COVID lockdowns have sparked a renewed interest in chess: Since March 2020, the server and social network Chess.com has added roughly 2 million new members a month since the pandemic began, Annenberg Media reported.
 
-The game of kings has also benefited from the popularity of 'The Queen's Gambit,' an acclaimed mini-series about a troubled female chess master that dropped on Netflix in October.. (Photo : George Becker from Pexels) YouTube AI could have mistakenly blocked a channel of a chess streamer due to alleged racist remarks.
-
-It might be unbelievable at first that a YouTube algorithm has detected a chess discussion as 'racist' and flagged it for punishment. In the case of the chess YouTuber, he was blocked by the video-streaming company for the alleged, sensitive issue.
-
-YouTube AI Could Have Mistakenly Perceived The Chess Chat As 'Racist'
-
-The incident happened in June 2020 and people have entirely no idea why the algorithm blocked the streamer from making his content videos about chess. At the very least, it could have known that the video was flagged as 'harmful' and 'dangerous' content. Maybe, it recognized an amount of hate speech in the discussion forum if that was the case.
-
-In a report by Daily Mail, the Croatian chess enthusiast, Antonio Radic, who is also known by his YouTube name "agadmator" was puzzled why he was barred from any activity within the video-sharing platform. Two researchers from the Carnegie Mellon University (CMU) had a wild guess about the mystery behind the confusion.
-
-What's intriguing regarding the case was YouTube did not even explain why Radic's channel was shut down immediately. However, after 24 hours, it returned as if nothing happened. To solve the mind-boggling scenario, a project scientist said that it happened because Radic's viral interview with GM Hikaru Nakamura had detected words that sparked racism.
-
-Ashique KhudaBukhsh of the Language Technologies Institute in CMU admitted that they have no clue what tool did YouTube use to detect a racist slur in the discussion. The video, however, mentioned "black" and "white" which were believed to be racist language.
-
-Read Also: TikTok Silhouette Challenge No Filter Tutorial: How to Remove Red Filter
-
-Furthermore, he added that if the incident struck popular YouTubers like Radic, what more if the AI has been doing the same thing to other people who just stream for fun. KhudaBukhsh and his companion Rupak Sarkar, a research engineer ran two AI software that could detect hate speech to test its feasibility. Along with the test, they have discovered over 680,000 comments which came from five channels that were all about chess.
-
-Moreover, out of nearly 700,000 comments, a simple random test was carried out for 1,000 sample comments. They found out that 82% of the comments did not tackle anything about hate speech. But, they have seen that words related to racism like white, threat, black, and attack could be the missing key to the AI's sudden action.
-
-The AI could have a different way of filtering the messages through large samples and rest assured that the accuracy also varies based on the examples.
-
-Comparing The Past Situation To What Happened To Radic
-
-In a report by CMU News, KhudaBukhsh experienced encountering the sample problem before. His objective will be to recognize the 'active dogs' and the 'lazy dogs' in a group of photos. Majority of the pictures which have 'active dogs' contained grasses where the dogs ran. However, the program sometimes considered those photos that have grasses as samples of an 'active dog,' even in some cases, no dogs were detected in the photos.
-
-What happened to Radic was just a mere resemblance of it. The training data sets were only a few even though the main topic was chess. As a result, wrong classifications of them happened.
-
-Related Article: PewDiePie's Diss Track About Cocomelon Removed? YouTube Deletes Content After Violating Guidelines
-
-This article is owned by Tech Times.
-
-Written by Joen Coronel
-
-ⓒ 2024 TECHTIMES.com All rights reserved. Do not reproduce without permission.. Sign up to our free fortnightly newsletter from The Independent's Race Correspondent Nadine White Sign up to our free fortnightly newsletter The Race Report Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+The game of kings has also benefited from the popularity of 'The Queen's Gambit,' an acclaimed mini-series about a troubled female chess master that dropped on Netflix in October.. Sign up to our free fortnightly newsletter from The Independent's Race Correspondent Nadine White Sign up to our free fortnightly newsletter The Race Report Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
 
 The Race Report email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
 
@@ -114,58 +122,4 @@ KhudaBukhsh tested this theory by using a state-of-the-art speech classifier to 
 
 After manually reviewing a selection of 1,000 comments that had been classed by the AI as hate speech, they found that 82 per cent of them had been misclassified due to the use of words like “black”, “white”, “attack” and “threat” – all of which commonly used in chess parlance.
 
-The paper was presented this month at the Association for the Advancement of AI annual conference.. AI May Mistake Chess Discussions as Racist Talk
-
-References to chess piece colors can trigger alarm
-
-ć
-
-ć
-
-February 19, 2021"The Queen's Gambit," the recent TV mini-series about a chess master, may have stirred increased interest in chess, but a word to the wise: social media talk about game-piece colors could lead to misunderstandings, at least for hate-speech detection software.That's what a pair of Carnegie Mellon University researchers suspect happened to Antonio Radić, or "agadmator," a Croatian chess player who hosts a popular YouTube channel. Last June, his account was blocked for "harmful and dangerous" content.YouTube never provided an explanation and reinstated the channel within 24 hours, said Ashique R. KhudaBukhsh a project scientist in CMU's Language Technologies Institute (LTI). It's nevertheless possible that "black vs. white" talk during Radi's interview with Grandmaster Hikaru Nakamura triggered software that automatically detects racist language, he suggested."We don't know what tools YouTube uses, but if they rely on artificial intelligence to detect racist language, this kind of accident can happen," KhudaBukhsh said. And if it happened publicly to someone as high-profile as Radi, it may well be happening quietly to lots of other people who are not so well known.To see if this was feasible, KhudaBukhsh and Rupak Sarkar, an LTI course research engineer, tested two state-of-the-art speech classifiers — a type of AI software that can be trained to detect indications of hate speech. They used the classifiers to screen more than 680,000 comments gathered from five popular chess-focused YouTube channels.They then randomly sampled 1,000 comments that at least one of the classifiers had flagged as hate speech. When they manually reviewed those comments, they found that the vast majority — 82% — did not include hate speech. Words such as black, white, attack and threat seemed to be triggers, they said.As with other AI programs that depend on machine learning, these classifiers are trained with large numbers of examples and their accuracy can vary depending on the set of examples used.For instance, KhudaBukhsh recalled an exercise he encountered as a student, in which the goal was to identify "lazy dogs" and "active dogs" in a set of photos. Many of the training photos of active dogs showed broad expanses of grass because running dogs often were in the distance. As a result, the program sometimes identified photos containing large amounts of grass as examples of active dogs, even if the photos didn't include any dogs.In the case of chess, many of the training data sets likely include few examples of chess talk, leading to misclassification, he noted.The research paper by KhudaBukhsh and Sarkar, a recent graduate of Kalyani Government Engineering College in India, won the Best Student Abstract Three-Minute Presentation this month at the Association for the Advancement of AI annual conference. Last June, Antonio Radić, the host of a YouTube chess channel with more than a million subscribers, was live-streaming an interview with the grandmaster Hikaru Nakamura when the broadcast suddenly cut out.
-
-Instead of a lively discussion about chess openings, famous games, and iconic players, viewers were told Radić’s video had been removed for “harmful and dangerous” content. Radić saw a message stating that the video, which included nothing more scandalous than a discussion of the King’s Indian Defense, had violated YouTube’s community guidelines. It remained offline for 24 hours.
-
-Exactly what happened still isn’t clear. YouTube declined to comment beyond saying that removing Radić’s video was a mistake. But a new study suggests it reflects shortcomings in artificial intelligence programs designed to automatically detect hate speech, abuse, and misinformation online.
-
-Ashique KhudaBukhsh, a project scientist who specializes in AI at Carnegie Mellon University and a serious chess player himself, wondered if YouTube’s algorithm may have been confused by discussions involving black and white pieces, attacks, and defenses.
-
-So he and Rupak Sarkar, an engineer at CMU, designed an experiment. They trained two versions of a language model called BERT, one using messages from the racist far-right website Stormfront and the other using data from Twitter. They then tested the algorithms on the text and comments from 8,818 chess videos and found them to be far from perfect. The algorithms flagged around 1 percent of transcripts or comments as hate speech. But more than 80 percent of those flagged were false positives—read in context, the language was not racist. “Without a human in the loop,” the pair say in their paper, “relying on off-the-shelf classifiers’ predictions on chess discussions can be misleading.”
-
-“Fundamentally, language is still a very subtle thing.” Tom Mitchell, professor, Carnegie Mellon University
-
-The experiment exposed a core problem for AI language programs. Detecting hate speech or abuse is about more than just catching foul words and phrases. The same words can have vastly different meaning in different contexts, so an algorithm must infer meaning from a string of words.
-
-“Fundamentally, language is still a very subtle thing,” says Tom Mitchell, a CMU professor who has previously worked with KhudaBukhsh. “These kinds of trained classifiers are not soon going to be 100 percent accurate.”
-
-Yejin Choi, an associate professor at the University of Washington who specializes in AI and language, says she is “not at all” surprised by the YouTube takedown, given the limits of language understanding today. Choi says additional progress in detecting hate speech will require big investments and new approaches. She says that algorithms work better when they analyze more than just a piece of text in isolation, incorporating, for example, a user’s history of comments or the nature of the channel in which the comments are being posted.
-
-But Choi’s research also shows how hate-speech detection can perpetuate biases. In a 2019 study, she and others found that human annotators were more likely to label Twitter posts by users who self-identify as African American as abusive and that algorithms trained to identify abuse using those annotations will repeat those biases.
-
-The WIRED Guide to Artificial Intelligence Supersmart algorithms won't take all the jobs, But they are learning faster than ever, doing everything from medical diagnostics to serving up ads.
-
-Companies have spent many millions collecting and annotating training data for self-driving cars, but Choi says the same effort has not been put into annotating language. So far, no one has collected and annotated a high-quality data set of hate speech or abuse that includes lots of “edge cases” with ambiguous language. “If we made that level of investment on data collection—or even a small fraction of it—I’m sure AI can do much better,” she says.
-
-Mitchell, the CMU professor, says YouTube and other platforms likely have more sophisticated AI algorithms than the one KhudaBukhsh built; but even those are still limited.. The world’s most popular YouTube chess channel was blocked after artificial algorithms set up to detect racist content and hate speech mistook discussion about black and white chess pieces as racism, reports Independent UK.
-
-On June 28, 2020, Croatian chess player Antonio Radic's YouTube chess channel, with more than 1 million subscribers was blocked during a chess show with Grandmaster Hikaru Nakamura.
-
-He received no explanation from the video platform.
-
-Google fires second AI ethics leader as dispute over research, diversity grows
-
-Radic’s channel was restored 24 hours later. He suspects that the account may have been blocked because he referred to the chess game as “Black against White”.
-
-YouTube relies on both humans and AI algorithms, which means the AI system could make an error if it is not trained correctly to interpret context.
-
-“If they rely on artificial intelligence to detect racist language, this kind of accident can happen,” said Ashiqur KhudaBukhsh, a project scientist at CMU’s Language Technologies Institute.
-
-KhudaBukhs tested this theory by using the best speech classifier that’s available to screen 680,000 comments gathered from five popular chess-focused YouTube channels.
-
-Facebook faces new UK class action after data harvesting scandal
-
-After manually reviewing 1,000 comments, he found that 82 per cent of them had been wrongly categorized by AI as hate speech because the comments used words like “black”, “white”, “attack” and “threat”.
-
-YouTube, Facebook, and Twitter warned last year that videos and content may be erroneously removed for policy violations, as the companies rely on automated takedown software during the coronavirus pandemic.
-
-In a blog post, Google said that to reduce the need for people to come into offices, YouTube and other business divisions are temporarily relying more on artificial intelligence and automated tools to find problematic content.
+The paper was presented this month at the Association for the Advancement of AI annual conference.

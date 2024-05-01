@@ -1,4 +1,48 @@
-Want to market Nazi memorabilia, or recruit marchers for a far-right rally? Facebook’s self-service ad-buying platform had the right audience for you.
+Facebook lives and dies by its algorithms. They decide the order of posts in your News Feed, the ads you see when you open the app, and which which news topics are trending. Algorithms make its vast platform possible, and Facebook can often seem to trust them completely—or at least thoughtlessly.
+
+On Thursday, a pitfall of that approach became clear. ProPublica revealed that people who buy ads on Facebook can choose to target them at self-described anti-Semites. The company’s ad-targeting tool allows companies to show ads specifically to people who use the language “Jew hater” or “How to burn Jews” on their profile.
+
+The number of people in those groups alone isn’t large enough to target for an ad, as Facebook will only let advertisers focus on groups of several thousand people. The platform’s ad-selling portal reported, at most, 2,200 self-interested “Jew haters.”
+
+But the anti-Semitic categories can be lumped up into larger groups, which can be targeted. When ProPublica first tried buying an ad, the service suggested that it add “Second Amendment,” presumably because self-described “Jew haters” also expressed an interest in that law. ProPublica declined its suggestion, ultimately targeting fans of Germany’s National Democratic Party, an ultranationalist organization often described as neo-Nazi.
+
+A screenshot from Facebook’s ad-buying portal (ProPublica)
+
+ProPublica does not argue that Facebook actually set up an anti-Semitic demographic that can be targeted by advertising. Rather, it suggests that algorithms—which developed the list of targetable demographics—saw enough people self-describing as “Jew hater” to lump them into a single group.
+
+“Facebook does not know what its own algorithm is doing,” said Susan Benesch, a faculty associate at the Berkman Klein Center for Internet and Society and the director of the Dangerous Speech Project. “It is not the case that somebody at Facebook is sitting in a dark room cackling, and said, ‘Let’s encourage people to sell Nazi ads to Nazi sympathizers.’”
+
+She continued: “In some ways, that would be much easier to correct, because there would be some intention, some bad person doing this on purpose somewhere. The algorithm doesn’t have a bad intention.”
+
+“It’s not surprising, sadly, that people are expressing hateful views on Facebook, but it was surprising to see that hate reflected back in the categories that Facebook uses to sell ads,” said Aaron Rieke, a technologist at Upturn, a civil-rights and technology consulting firm based in Washington, D.C.
+
+He suggested that human oversight may be the best mechanism to avoid this kind of mistake. “We don’t need to be too awed by this problem,” he told me: Even if its list of algorithmic categories is tens of thousands of entries long, it would take relatively little time for a couple paid, full-time employees to go through it.
+
+“Real accountability takes place through public channels.”
+
+“This is not a situation where you’re asking Facebook to monitor the ocean of user content,” he said. “This is saying: Okay, you have a finite list of categories, many of which were generated automatically. Take a look, and see what matches up with your community standards and the values of the company. Facebook can monitor the things it does that make it money.”
+
+After ProPublica published its story, Facebook said that it had removed the offending ad categories. “We know we have more work to do, so we're also building new guardrails in our product and review processes to prevent other issues like this from happening in the future,” Rob Leathern, a product-management director at Facebook, said in a statement.
+
+He also reiterated that Facebook does not allow hate speech. “Our community standards strictly prohibit attacking people based on their protected characteristics, including religion, and we prohibit advertisers from discriminating against people based on religion and other attributes.”
+
+Last October, another ProPublica investigation revealed that Facebook allowed landlords and other housing providers to omit certain races when selling advertising, a practice that violates the Fair Housing Act.
+
+To Jonathan Zittrain, a professor of law at Harvard University, that story suggests the entire way that tech companies currently sell ads online might need an overhaul. “For categories with tiny audiences, with titles drawn from data that Facebook users themselves enter—such as education and interests—it may amount to a tree falling in a forest that no one hears,” he said. “But should anything more than negligible ad traffic begin with categories, there’s a responsibility to see what the platform is supporting.”
+
+He continued:
+
+More generally, there should be a public clearinghouse of ad categories —and ads—searchable by anyone interested in what’s being shown to audiences large and small. Unscrupulous lenders ought not to be able to exquisitely target vulnerable people at their greatest moments of weakness with no one else ever knowing, and real accountability takes place through public channels, not only through adding another detachment of “ad checkers” internal to the company.
+
+Indeed, Facebook might not be alone in permitting unscrupulous ads to get through. The journalist Josh Benton demonstrated on Thursday that many of the same anti-Semitic keywords used by Facebook can also be used to buy ads on Google.
+
+For Facebook, this entire episode comes as the platform comes under unprecedented political scrutiny. Last week, Facebook admitted to selling $100,000 in internet ads to a Kremlin-connected troll farm during last year’s U.S. presidential election. The ads, which the company did not previously reveal, could have been seen by tens of millions of Americans.
+
+On Wednesday, Facebook announced new rules governing what kinds of content can and can’t be monetized on its platform, prohibiting any violent, pornographic, or drug- or alcohol-related content. The guidelines followed the U.S.-wide debut of a video tab in its mobile app.
+
+Zittrain said the episode reminded him of the T-shirt vendor Solid Gold Bomb. In 2011, that firm used software to auto-generate more than 10 million possible T-shirts, almost all variations on a couple themes. Shirts were only produced when someone actually ordered one. But after the Amazon listing for one shirt, which read “KEEP CALM AND RAPE A LOT,” went viral in 2013, Amazon shut down the company’s accounts, and it saw its business collapse.
+
+His point: Algorithms can seem ingenious at making money, or making T-shirts, or doing any task, until they suddenly don’t. But Facebook is more important than T-shirts: After all, the average American spends 50 minutes of their time there every day. Facebook’s algorithms do more than make the platform possible. They also serve as the country’s daily school, town crier, and newspaper editor. With great scale comes great responsibility.. Want to market Nazi memorabilia, or recruit marchers for a far-right rally? Facebook’s self-service ad-buying platform had the right audience for you.
 
 Until this week, when we asked Facebook about it, the world’s largest social network enabled advertisers to direct their pitches to the news feeds of almost 2,300 people who expressed interest in the topics of “Jew hater,” “How to burn jews,” or, “History of ‘why jews ruin the world.’”
 
@@ -58,87 +102,7 @@ As people fill in their education or employer on their profile, we have found a 
 
 Keeping our community safe is critical to our mission. And to help ensure that targeting is not used for discriminatory purposes, we are removing these self-reported targeting fields until we have the right processes in place to help prevent this issue. We want Facebook to be a safe place for people and businesses, and we’ll continue to do everything we can to keep hate off Facebook.
 
-Advertisers can report any inappropriate targeting fields directly in the ads interface or via our Help Center.. Update: Facebook has disabled using the user-reported fields in question in its advertising system until further notice.
-
-Update 2: Google has disabled similar functionality in its own ad targeting system as well. (Details below)
-
-Facebook automatically generates categories advertisers can target, such as “jogger” and “activist,” based on what it observes in users’ profiles. Usually that’s not a problem, but ProPublica found that Facebook had generated anti-Semitic categories such as “Jew Hater” and “Hitler did nothing wrong,” which could be targeted for advertising purposes.
-
-The categories were small — a few thousand people total — but the fact that they existed for official targeting (and in turn, revenue for Facebook) rather than being flagged raises questions about the effectiveness — or even existence — of hate speech controls on the platform. Although surely countless posts are flagged and removed successfully, the failures are often conspicuous.
-
-ProPublica, acting on a tip, found that a handful of categories autocompleted themselves when their researchers entered “jews h” into the advertising category search box. To verify these were real, they bundled a few together and bought an ad targeting them, which indeed went live.
-
-Upon being alerted, Facebook removed the categories and issued a familiar-sounding strongly worded statement about how tough on hate speech the company is:
-
-We don’t allow hate speech on Facebook. Our community standards strictly prohibit attacking people based on their protected characteristics, including religion, and we prohibit advertisers from discriminating against people based on religion and other attributes. However, there are times where content is surfaced on our platform that violates our standards. In this case, we’ve removed the associated targeting fields in question. We know we have more work to do, so we’re also building new guardrails in our product and review processes to prevent other issues like this from happening in the future.
-
-The problem occurred because people were listing “jew hater” and the like in their “field of study” category, which is of course a good one for guessing what a person might be interested in: meteorology, social sciences, etc. Although the numbers were extremely small, that shouldn’t be a barrier to an advertiser looking to reach a very limited group, like owners of a rare dog breed.
-
-But as difficult as it might be for an algorithm to determine the difference between “History of Judaism” and “History of ‘why Jews ruin the world,'” it really does seem incumbent on Facebook to make sure an algorithm does make that determination. At the very least, when categories are potentially sensitive, dealing with personal data like religion, politics, and sexuality, one would think they would be verified by humans before being offered up to would-be advertisers.
-
-Facebook told TechCrunch that it is now working to prevent such offensive entries in demographic traits from appearing as addressable categories. Of course, hindsight is 20/20, but really — only now it’s doing this?
-
-It’s good that measures are being taken, but it’s kind of hard to believe that there was not some kind of flag list that watched for categories or groups that clearly violate the no-hate-speech provision. I asked Facebook for more details on this, and will update the post if I hear back.
-
-As Harvard’s Joshua Benton pointed out on Twitter, one can also target the same groups for Google ad words:
-
-Re: This story on FB allowing anti-Semitic ad targeting https://t.co/zR31joq02l I just tried & Google seems to let you target the same terms pic.twitter.com/HDIMZQTf7x — Joshua Benton (@jbenton) September 14, 2017
-
-I feel like this is different somehow, although still troubling. You could put nonsense words into those keyword boxes and they would be accepted. On the other hand, Google does suggest related anti-Semitic phrases in case you felt like “Jew haters” wasn’t broad enough:
-
-And Google is happy to suggest some other search terms I might want to target to broaden my anti-Semitic reach pic.twitter.com/qZrT4UKigF — Joshua Benton (@jbenton) September 15, 2017
-
-To me the Facebook mechanism seems more like a selection by Facebook of existing, quasi-approved (i.e. hasn’t been flagged) profile data it thinks fits what you’re looking for, while Google’s is a more senseless association of queries it’s had — and it has less leeway to remove things, since it can’t very well not allow people to search for ethnic slurs or the like. But obviously it’s not that simple. I honestly am not quite sure what to think.
-
-Google’s SVP of ads, Sridhar Ramaswamy, issued the following statement after disabling a number of offensive ad suggestions:
-
-Our goal is to prevent our keyword suggestions tool from making offensive suggestions, and to stop any offensive ads appearing. We have language that informs advertisers when their ads are offensive and therefore rejected. In this instance, ads didn’t run against the vast majority of these keywords, but we didn’t catch all these offensive suggestions. That’s not good enough and we’re not making excuses. We’ve already turned off these suggestions, and any ads that made it through, and will work harder to stop this from happening again.
-
-Offensive terms will not see suggestions from Google, although it’s unclear how Google arrived at the set of terms or phrases it deems offensive.. Facebook lives and dies by its algorithms. They decide the order of posts in your News Feed, the ads you see when you open the app, and which which news topics are trending. Algorithms make its vast platform possible, and Facebook can often seem to trust them completely—or at least thoughtlessly.
-
-On Thursday, a pitfall of that approach became clear. ProPublica revealed that people who buy ads on Facebook can choose to target them at self-described anti-Semites. The company’s ad-targeting tool allows companies to show ads specifically to people who use the language “Jew hater” or “How to burn Jews” on their profile.
-
-The number of people in those groups alone isn’t large enough to target for an ad, as Facebook will only let advertisers focus on groups of several thousand people. The platform’s ad-selling portal reported, at most, 2,200 self-interested “Jew haters.”
-
-But the anti-Semitic categories can be lumped up into larger groups, which can be targeted. When ProPublica first tried buying an ad, the service suggested that it add “Second Amendment,” presumably because self-described “Jew haters” also expressed an interest in that law. ProPublica declined its suggestion, ultimately targeting fans of Germany’s National Democratic Party, an ultranationalist organization often described as neo-Nazi.
-
-A screenshot from Facebook’s ad-buying portal (ProPublica)
-
-ProPublica does not argue that Facebook actually set up an anti-Semitic demographic that can be targeted by advertising. Rather, it suggests that algorithms—which developed the list of targetable demographics—saw enough people self-describing as “Jew hater” to lump them into a single group.
-
-“Facebook does not know what its own algorithm is doing,” said Susan Benesch, a faculty associate at the Berkman Klein Center for Internet and Society and the director of the Dangerous Speech Project. “It is not the case that somebody at Facebook is sitting in a dark room cackling, and said, ‘Let’s encourage people to sell Nazi ads to Nazi sympathizers.’”
-
-She continued: “In some ways, that would be much easier to correct, because there would be some intention, some bad person doing this on purpose somewhere. The algorithm doesn’t have a bad intention.”
-
-“It’s not surprising, sadly, that people are expressing hateful views on Facebook, but it was surprising to see that hate reflected back in the categories that Facebook uses to sell ads,” said Aaron Rieke, a technologist at Upturn, a civil-rights and technology consulting firm based in Washington, D.C.
-
-He suggested that human oversight may be the best mechanism to avoid this kind of mistake. “We don’t need to be too awed by this problem,” he told me: Even if its list of algorithmic categories is tens of thousands of entries long, it would take relatively little time for a couple paid, full-time employees to go through it.
-
-“Real accountability takes place through public channels.”
-
-“This is not a situation where you’re asking Facebook to monitor the ocean of user content,” he said. “This is saying: Okay, you have a finite list of categories, many of which were generated automatically. Take a look, and see what matches up with your community standards and the values of the company. Facebook can monitor the things it does that make it money.”
-
-After ProPublica published its story, Facebook said that it had removed the offending ad categories. “We know we have more work to do, so we're also building new guardrails in our product and review processes to prevent other issues like this from happening in the future,” Rob Leathern, a product-management director at Facebook, said in a statement.
-
-He also reiterated that Facebook does not allow hate speech. “Our community standards strictly prohibit attacking people based on their protected characteristics, including religion, and we prohibit advertisers from discriminating against people based on religion and other attributes.”
-
-Last October, another ProPublica investigation revealed that Facebook allowed landlords and other housing providers to omit certain races when selling advertising, a practice that violates the Fair Housing Act.
-
-To Jonathan Zittrain, a professor of law at Harvard University, that story suggests the entire way that tech companies currently sell ads online might need an overhaul. “For categories with tiny audiences, with titles drawn from data that Facebook users themselves enter—such as education and interests—it may amount to a tree falling in a forest that no one hears,” he said. “But should anything more than negligible ad traffic begin with categories, there’s a responsibility to see what the platform is supporting.”
-
-He continued:
-
-More generally, there should be a public clearinghouse of ad categories —and ads—searchable by anyone interested in what’s being shown to audiences large and small. Unscrupulous lenders ought not to be able to exquisitely target vulnerable people at their greatest moments of weakness with no one else ever knowing, and real accountability takes place through public channels, not only through adding another detachment of “ad checkers” internal to the company.
-
-Indeed, Facebook might not be alone in permitting unscrupulous ads to get through. The journalist Josh Benton demonstrated on Thursday that many of the same anti-Semitic keywords used by Facebook can also be used to buy ads on Google.
-
-For Facebook, this entire episode comes as the platform comes under unprecedented political scrutiny. Last week, Facebook admitted to selling $100,000 in internet ads to a Kremlin-connected troll farm during last year’s U.S. presidential election. The ads, which the company did not previously reveal, could have been seen by tens of millions of Americans.
-
-On Wednesday, Facebook announced new rules governing what kinds of content can and can’t be monetized on its platform, prohibiting any violent, pornographic, or drug- or alcohol-related content. The guidelines followed the U.S.-wide debut of a video tab in its mobile app.
-
-Zittrain said the episode reminded him of the T-shirt vendor Solid Gold Bomb. In 2011, that firm used software to auto-generate more than 10 million possible T-shirts, almost all variations on a couple themes. Shirts were only produced when someone actually ordered one. But after the Amazon listing for one shirt, which read “KEEP CALM AND RAPE A LOT,” went viral in 2013, Amazon shut down the company’s accounts, and it saw its business collapse.
-
-His point: Algorithms can seem ingenious at making money, or making T-shirts, or doing any task, until they suddenly don’t. But Facebook is more important than T-shirts: After all, the average American spends 50 minutes of their time there every day. Facebook’s algorithms do more than make the platform possible. They also serve as the country’s daily school, town crier, and newspaper editor. With great scale comes great responsibility.. Facebook has allowed advertisers to target users interested in the topics of “Jew hater” and “How to burn Jews”, according to an investigation that adds to mounting criticisms of the way the company allows and profits from unethical ads.
+Advertisers can report any inappropriate targeting fields directly in the ads interface or via our Help Center.. Facebook has allowed advertisers to target users interested in the topics of “Jew hater” and “How to burn Jews”, according to an investigation that adds to mounting criticisms of the way the company allows and profits from unethical ads.
 
 ProPublica, an investigative news organization, reported on Thursday that the social network’s self-service ad-buying system allowed people to direct advertisements to nearly 2,300 users interested in several explicitly antisemitic subjects, including a category labeled “History of ‘why Jews ruin the world’”.
 

@@ -9,7 +9,6 @@ class IncidentData:
     # get incident ids of 2023
     def get_incidents_2023(self):
         base = self.base
-        print("base", base)
         path_to_file = f"{base}/ids_2023.json"
         with open(path_to_file, "r") as file:
             ids_2023 = json.load(file)

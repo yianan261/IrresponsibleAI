@@ -1,54 +1,4 @@
-An Australian news channel apologized after a female lawmaker criticized its use of an image that had been edited to show her in a more revealing outfit.
-
-Georgie Purcell, who represents the Animal Justice Party in the state parliament of Victoria, posted about the edited image on X, formerly Twitter, on Tuesday. “Having my body and outfit photoshopped by a media outlet was not on my bingo card,” she said, sharing the original photo of her beside the graphic created by the Nine TV network.. A lawmaker in the Australian state of Victoria sat down to watch the nightly news on Monday, expecting to see herself featured as a prominent opponent of duck hunting.
-
-But the member of Victoria’s Parliament, Georgie Purcell, noticed that in one photo used on 9News, the tattoos on her midriff were missing.
-
-“I saw the image come up on the screen and I thought, ‘That’s really odd,’ because my stomach is heavily tattooed,” Ms. Purcell said on Wednesday.. "The message this sends to young women and girls across Victoria is that even at the top of your field, your body is always up for grabs," she said on January 30.. It’s been five years since Australia’s last Photoshop scandal, involving then-prime minister Scott Morrison’s white shoes, but it feels like a world away.
-
-This week the Animal Justice Party MP Georgie Purcell had her photo edited to enlarge her breasts and insert a crop into her top that hadn’t been there. Having previously been a victim of image-based abuse, Purcell said the incident felt violating, and that the explanation given by Nine News failed to address the issue.
-
-For its part, Nine blamed an “automation” tool in Photoshop – the recently launched “generative fill”, which, as the name suggests, fills in the blanks of an image when it is resized using artificial intelligence. Nine said the company was working from an already-cropped version of the original image, and used the tool to expand beyond the image’s existing borders. But whoever did alter the image presumably still exported the modified version without considering the impact of their changes.
-
-The Photoshop blunder feels like a harbinger for a media world that increasingly relies on artificial intelligence, where determining whether something was created by human or machine is ever more murky and AI becomes a convenient scapegoat to explain away mistakes.
-
-The incident also reveals Nine is using AI on images it broadcasts without disclosing the AI manipulation.
-
-In August, Nine’s CEO, Mike Sneesby, said he could “see potential for Nine to use AI to drive meaningful, longer term benefits in content production, operational efficiency and commercialisation throughout the business”.
-
-Adobe’s generative fill tool no doubt offers “operational efficiency”, but should Nine have declared it had started using generative fill and flagged that in images put to air?
-
-Although Nine has apologised and accepted responsibility, the incident appears to breach the (voluntary) Australian AI ethics principles, which advise that people using AI should be identifiable and accountable for the outcomes, and there should be human oversight.
-
-The Media, Entertainment and Arts Alliance journalist code of ethics concurs, stating pictures and sound must be true and accurate, and “manipulation likely to mislead should be disclosed”.
-
-On the tech side of things, it raises questions about the dataset Adobe uses to train its AI. Tests conducted by Guardian Australia this week suggested Adobe’s generative fill on images of women would often lead to shorter shorts, something Crikey was also able to replicate.
-
-Adobe said in a statement it had trained its model with “diverse image datasets” and continually tests the model to mitigate against “perpetuating harmful stereotypes”. The company said it was also reliant on reports from users for potentially biased outputs to improve the processes.
-
-“This two-way dialogue with the public is critical so that we can work together to continue to make generative AI better for everyone.”
-
-Part of the mess that AI tools create is not just the fake images, video and audio but the doubt they sow about everything else.
-
-Australia is yet to see a scandal involving a politician claiming an inconvenient audio grab or video is an AI deep fake, but it likely won’t be long.
-
-In the US, right wing political operative Roger Stone last month claimed leaked audio of him threatening to kill Democrats was AI-generated. At the same time, an AI-faked version of US president Joe Biden’s voice was making robocalls that spread misinformation about the New Hampshire primary.
-
-When you can’t tell what is real and what is AI, suddenly everything is suspect. That means for media companies at the very least, and tech companies too, disclosure is crucial.
-
-Globally, legislators are still figuring out exactly how to implement guardrails and progress has been piecemeal. In the United States, legislation has been introduced to criminalise the spread of nonconsensual, sexualised images generated by artificial intelligence after the online circulation of deepfakes depicting Taylor Swift last week.
-
-Australia will probably join in this ban via codes enforced by the eSafety commissioner, but it to has largely been watching from afar. Last month, Australia announced an “expert panel” will be consulted on the best next steps on high risk AI.
-
-And some issues will be covered by existing law. Dr Rita Matulionyte, a senior lecturer in law at Macquarie University, has authored a paper on AI and moral rights. She told Guardian Australia the copyright act, for instance, should prevent “derogatory treatment” of copyright works, such as alteration or mutilation by AI, although there were few cases where it had been successfully argued.
-
-Matulionyte said it was also unclear whether such law would help Purcell, given she was not the photographer, and the manipulation may not be substantial enough.
-
-“If the person in the image was stripped of most/all of the clothes or a background were added that would mutilate the idea behind the picture, then the infringement of the right of integrity would be more likely to succeed,” she said.
-
-In the end, it’s all about transparency.
-
-The government has said it will work with industry to develop a “voluntary code” to label or watermark AI-generated content. Leaving it up to the goodwill of the large companies involved in this technology to do the right thing is clearly not a viable option.. . AI is rarely out of the news, and last week's clickbait in Australia was about doctoring a photograph of Victorian politician Georgie Purcell.
+AI is rarely out of the news, and last week's clickbait in Australia was about doctoring a photograph of Victorian politician Georgie Purcell.
 
 In the nightly news broadcast by Channel 9 for a story on duck hunting, a photograph of the young blonde Animal Rights Party MP was edited to enlarge her breasts and change her clothing, putting her in a mid-riff top that exposed her stomach.
 
@@ -118,69 +68,7 @@ And while we’re at it, let’s stop blaming the robots.
 
 We've created them, so we have to take responsibility for them. Shirking responsibility is a sure way to undermine trust and retard the productivity gains which AI can deliver if only humans can get it right.
 
-Image credit: iStockphoto/BrianAJackson. By T.J. Thomson - Feb 06, 2024 10:15 am AEDT
-
-Channel Nine published an altered image of Victorian MP Georgie Purcell that showed her in a midriff-exposing tank top. The outfit was actually a dress. How can news media use AI responsibly?
-
-Purcell chastised the channel for the image manipulation and accused it of being sexist. Nine apologised for the edit and blamed it on an artificial intelligence (AI) tool in Adobe Photoshop. Generative AI has become increasingly prevalent over the past six months, as popular image editing and design tools like Photoshop and Canva have started integrating AI features into their programs. But what are they capable of, exactly? Can they be blamed for doctored images? As these tools become more widespread, learning more about them and their dangers – alongside opportunities – is increasingly important. What happened with the photo of Purcell? Typically, making AI-generated or AI-augmented images involves “prompting” – using text commands to describe what you want to see or edit. But late last year, Photoshop unveiled a new feature, generative fill. Among its options is an “expand” tool that can add content to images, even without text prompts. For example, to expand an image beyond its original borders, a user can simply extend the canvas and Photoshop will “imagine” content that could go beyond the frame. This ability is powered by Firefly, Adobe’s own generative AI tool.
-
-I endured a lot yesterday. But having my body and outfit photoshopped by a media outlet was not on my bingo card. Note the enlarged boobs and outfit to be made more revealing. Can’t imagine this happening to a male MP. What gives? pic.twitter.com/NhnkDRMidc — Georgie Purcell (@georgievpurcell) January 29, 2024
-
-Nine resized the image to better fit its television composition but, in doing so, also generated new parts of the image that weren’t there originally. The source material – and if it’s cropped – are of critical importance here. In the above example where the frame of the photo stops around Purcell’s hips, Photoshop just extends the dress as might be expected. But if you use generative expand with a more tightly cropped or composed photo, Photoshop has to “imagine” more of what is going on in the image, with variable results. Is it legal to alter someone’s image like this? It’s ultimately up to the courts to decide. It depends on the jurisdiction and, among other aspects, the risk of reputational harm. If a party can argue that publication of an altered image has caused or could cause them “serious harm”, they might have a defamation case.
-
-How else is generative AI being used? Generative fill is just one way news organisations are using AI. Some are also using it to make or publish images, including photorealistic ones, depicting current events. An example of this is the ongoing Israel-Hamas conflict. Others use it in place of stock photography or to create illustrations for hard-to-visualise topics, like AI itself. Many adhere to institutional or industry-wide codes of conduct, such as the Journalist Code of Ethics from the Media, Entertainment & Arts Alliance of Australia. This states journalists should “present pictures and sound which are true and accurate” and disclose “any manipulation likely to mislead.” Some outlets do not use AI-generated or augmented images at all, or only when reporting on such images if they go viral. Newsrooms can also benefit from generative AI tools. An example includes uploading a spreadsheet to a service like ChatGPT-4 and receiving suggestions on how to visualise the data. Or using it to help create a three-dimensional model that illustrates how a process works or how an event unfolded. What safeguards should media have for responsible generative AI use? I’ve spent the last year interviewing photo editors and people in related roles about how they use generative AI and what policies they have in place to do so safely. I’ve learned that some media outlets bar their staff from using AI to generate any content. Others allow it only for non-realistic illustrations, such as using AI to create a Bitcoin symbol or illustrate a story about finance. News outlets, according to editors I spoke to, want to be transparent with their audiences about the content they create and how it is edited. In 2019, Adobe started the Content Authenticity Initiative, which now includes major media organisations, image libraries and multimedia companies. This has led to the rollout of content credentials, a digital history of what equipment was used to make an image and what edits have been done to it. This has been touted as a way to be more transparent with AI-generated or augmented content. However, content credentials are not widely used yet. Besides, audiences shouldn’t outsource their critical thinking to a third party. In addition to transparency, news editors I spoke to were sensitive to AI potentially displacing human labour. Many outlets strive to use only AI generators that have been trained with proprietary content. This is because of the ongoing cases in jurisdictions around the world over AI training data and whether resulting generations breach copyright. Lastly, news editors said they are aware of the potential for bias in AI generations, given the unrepresentative data AI models are trained on. This year, the World Economic Forum has named AI-fuelled misinformation and disinformation as the world’s greatest short-term risk. It placed this above even disasters like extreme weather events, inflation and armed conflict.
-
-The top ten risks as outlined in the World Economic Forum’s Global Risk Report 2024. World Economic Forum, Global Risks Perception Survey 2023–2024
-
-Because of this risk and the elections happening in the United States and around the world this year, engaging in healthy scepticism about what you see online is a must. As is being thoughtful about where you get your news and information from. Doing so makes you better equipped to participate in a democracy, and less likely to fall for scams.. Leading photo editing software organisation Adobe has debunked Nine News’ apology to Georgie Purcell, after a sexist edited image of her was used in the nightly news bulletin.
-
-On Tuesday, the Victorian MP from the Animal Justice Party called out the Australian media outlet for editing an image that enlarged her breasts and made her outfit more revealing.
-
-Nine News director Hugh Nailon claimed there was no staff member involved in editing the image and it was artificial intelligence (AI) that altered the picture whilst they were re-sizing the photo.
-
-However, as reported by Guardian Australia, Adobe, creator of Photoshop, has confirmed the incident could not have occurred without “human intervention”.
-
-“Any changes to this image would have required human intervention and approval,” the statement read.
-
-AI-edited images and deepfakes
-
-AI-edited media content, such as images and videos, disproportionately targets and affects women, particularly high-profile women. This week alone, Georgie Purcell is not the first woman to have an image of herself altered in a sexist way.
-
-Over the weekend, sexually explicit deepfake images of Taylor Swift were circulated on the social media platform X. Formerly known as Twitter, X Corp. responded to the incident on Sunday night by removing the images and the account that first published the deepfakes, as well as temporarily blocking users’ ability to search “Taylor Swift” on the platform.
-
-According to a report from The New York Times, one of the several images that were in circulation was viewed 47 million times before the deepfake, along with the account that published it, was removed from X.
-
-On Wednesday morning, Georgie Purcell spoke on ABC’s RN Breakfast about the rise in AI technologies targeting women and girls.
-
-“This has happened to me this week, it also actually happened to Taylor Swift this week with deep fake [images] using AI, happening to her all over Twitter on a much larger scale,” Purcell said.
-
-“I think we need to seriously consider that our laws are probably not keeping pace with emerging technologies like AI and the risks they pose not just women in public life, but everyday women as well.
-
-“I’ve heard stories from young women who have had just enough photos on their Instagram profiles for them to be taken and altered to appear naked without their consent. and it’s deeply deeply concerning.”
-
-Earlier this month, the government released its interim response to the Safe and Responsible AI in Australia consultation, outlining its short-term action plan for the growing technology.
-
-Although the interim response paper mentions general “bias and discriminatory outputs” that currently exist in AI, there is no specific mention of women or considering AI with a gender lens.
-
-‘No way to represent a woman.’
-
-On Tuesday, Premier Jacinta Allan told reporters there’s still “a long way to go” in the representation of women in the media, including in social media, after Purcell called out Nine News’ distorted image.
-
-“That’s no way to represent any woman, let alone a woman who holds a position in public office, represents a community and is in the public discourse every single day,” Allan told reporters.
-
-“It’s another reminder that everyone who has the opportunity to be part of the public debate to consider how men and women, but in this instance particularly women, are represented.”
-
-In 2022, Raise Our Voice Australia released a report on the impact of the media on young women and gender diverse people’s aspirations to enter politics.
-
-In that report, 87 per cent of respondents felt that representation of women in politics by the media was mostly negative.
-
-Nearly half (47 per cent) were less likely to pursue a career in politics given the events of the last 12 months, which at the time of the report’s release, included the allegations of Bruce Lehrmann raping Brittany Higgins in parliament house, the allegations against former Attorney-General Christian Porter, the ABC’s program Ms Represented and much more.
-
-The Victorian Premier said the incident involving Georgie Purcell sends another discouraging message to young women wanting to enter politics, something that needs urgent attention.
-
-“We know it can, young women tell us that themselves and that’s why again, it’s important to both call it out, which I think is what’s happening here this morning,” Allan said.
-
-“It’s important to call it out, to identify, to do better and to understand that we have come a long way, but we’ve still got a way to go.”. Her white sleeveless dress has been transformed into a halter top.
+Image credit: iStockphoto/BrianAJackson. . Her white sleeveless dress has been transformed into a halter top.
 
 An Australian television news channel apologised "unreservedly" Tuesday for altering a photo of a state lawmaker, who complained it gave her "enlarged boobs" and a more revealing dress.
 
@@ -242,4 +130,18 @@ Victoria's premier also criticised the incident.
 
 "Let's think about the message that sends particularly to young women."
 
-(Except for the headline, this story has not been edited by NDTV staff and is published from a syndicated feed.)
+(Except for the headline, this story has not been edited by NDTV staff and is published from a syndicated feed.). By T.J. Thomson - Feb 06, 2024 10:15 am AEDT
+
+Channel Nine published an altered image of Victorian MP Georgie Purcell that showed her in a midriff-exposing tank top. The outfit was actually a dress. How can news media use AI responsibly?
+
+Purcell chastised the channel for the image manipulation and accused it of being sexist. Nine apologised for the edit and blamed it on an artificial intelligence (AI) tool in Adobe Photoshop. Generative AI has become increasingly prevalent over the past six months, as popular image editing and design tools like Photoshop and Canva have started integrating AI features into their programs. But what are they capable of, exactly? Can they be blamed for doctored images? As these tools become more widespread, learning more about them and their dangers – alongside opportunities – is increasingly important. What happened with the photo of Purcell? Typically, making AI-generated or AI-augmented images involves “prompting” – using text commands to describe what you want to see or edit. But late last year, Photoshop unveiled a new feature, generative fill. Among its options is an “expand” tool that can add content to images, even without text prompts. For example, to expand an image beyond its original borders, a user can simply extend the canvas and Photoshop will “imagine” content that could go beyond the frame. This ability is powered by Firefly, Adobe’s own generative AI tool.
+
+I endured a lot yesterday. But having my body and outfit photoshopped by a media outlet was not on my bingo card. Note the enlarged boobs and outfit to be made more revealing. Can’t imagine this happening to a male MP. What gives? pic.twitter.com/NhnkDRMidc — Georgie Purcell (@georgievpurcell) January 29, 2024
+
+Nine resized the image to better fit its television composition but, in doing so, also generated new parts of the image that weren’t there originally. The source material – and if it’s cropped – are of critical importance here. In the above example where the frame of the photo stops around Purcell’s hips, Photoshop just extends the dress as might be expected. But if you use generative expand with a more tightly cropped or composed photo, Photoshop has to “imagine” more of what is going on in the image, with variable results. Is it legal to alter someone’s image like this? It’s ultimately up to the courts to decide. It depends on the jurisdiction and, among other aspects, the risk of reputational harm. If a party can argue that publication of an altered image has caused or could cause them “serious harm”, they might have a defamation case.
+
+How else is generative AI being used? Generative fill is just one way news organisations are using AI. Some are also using it to make or publish images, including photorealistic ones, depicting current events. An example of this is the ongoing Israel-Hamas conflict. Others use it in place of stock photography or to create illustrations for hard-to-visualise topics, like AI itself. Many adhere to institutional or industry-wide codes of conduct, such as the Journalist Code of Ethics from the Media, Entertainment & Arts Alliance of Australia. This states journalists should “present pictures and sound which are true and accurate” and disclose “any manipulation likely to mislead.” Some outlets do not use AI-generated or augmented images at all, or only when reporting on such images if they go viral. Newsrooms can also benefit from generative AI tools. An example includes uploading a spreadsheet to a service like ChatGPT-4 and receiving suggestions on how to visualise the data. Or using it to help create a three-dimensional model that illustrates how a process works or how an event unfolded. What safeguards should media have for responsible generative AI use? I’ve spent the last year interviewing photo editors and people in related roles about how they use generative AI and what policies they have in place to do so safely. I’ve learned that some media outlets bar their staff from using AI to generate any content. Others allow it only for non-realistic illustrations, such as using AI to create a Bitcoin symbol or illustrate a story about finance. News outlets, according to editors I spoke to, want to be transparent with their audiences about the content they create and how it is edited. In 2019, Adobe started the Content Authenticity Initiative, which now includes major media organisations, image libraries and multimedia companies. This has led to the rollout of content credentials, a digital history of what equipment was used to make an image and what edits have been done to it. This has been touted as a way to be more transparent with AI-generated or augmented content. However, content credentials are not widely used yet. Besides, audiences shouldn’t outsource their critical thinking to a third party. In addition to transparency, news editors I spoke to were sensitive to AI potentially displacing human labour. Many outlets strive to use only AI generators that have been trained with proprietary content. This is because of the ongoing cases in jurisdictions around the world over AI training data and whether resulting generations breach copyright. Lastly, news editors said they are aware of the potential for bias in AI generations, given the unrepresentative data AI models are trained on. This year, the World Economic Forum has named AI-fuelled misinformation and disinformation as the world’s greatest short-term risk. It placed this above even disasters like extreme weather events, inflation and armed conflict.
+
+The top ten risks as outlined in the World Economic Forum’s Global Risk Report 2024. World Economic Forum, Global Risks Perception Survey 2023–2024
+
+Because of this risk and the elections happening in the United States and around the world this year, engaging in healthy scepticism about what you see online is a must. As is being thoughtful about where you get your news and information from. Doing so makes you better equipped to participate in a democracy, and less likely to fall for scams.

@@ -96,4 +96,28 @@ As one would expect in light of the fact that GitHub Copilot is still just a few
 
 “I’d caution anyone using Copilot right now to help write code to pay close attention to the nature of Copilot’s suggestions,” Downing says. “To the extent you see a piece of suggested code that’s very clearly regurgitated from another source — perhaps it still has comments attached to it, for example — use your common sense and don’t use those kinds of suggestions.”
 
-Additional Resources. . 
+Additional Resources. We’ve filed a law­suit chal­leng­ing GitHub Copi­lot, an AI prod­uct that relies on unprece­dented open-source soft­ware piracy.
+
+Because AI needs to be fair & eth­i­cal for every­one.
+
+Hello. This is Matthew Butterick. On Octo­ber 17 I told you that I had teamed up with the amaz­ingly excel­lent class-action lit­i­ga­tors Joseph Saveri, Cadio Zir­poli, and Travis Man­fredi at the Joseph Saveri Law Firm to inves­ti­gate GitHub Copi­lot.
+
+Today, we’ve filed a class-action law­suit in US fed­eral court in San Fran­cisco, CA on behalf of a pro­posed class of pos­si­bly mil­lions of GitHub users. We are chal­leng­ing the legal­ity of GitHub Copi­lot (and a related prod­uct, OpenAI Codex, which pow­ers Copi­lot). The suit has been filed against a set of defen­dants that includes GitHub, Microsoft (owner of GitHub), and OpenAI.
+
+Today’s fil­ings:
+
+By train­ing their AI sys­tems on pub­lic GitHub repos­i­to­ries (though based on their pub­lic state­ments, pos­si­bly much more) we con­tend that the defen­dants have vio­lated the legal rights of a vast num­ber of cre­ators who posted code or other work under cer­tain open-source licenses on GitHub. Which licenses? A set of 11 pop­u­lar open-source licenses that all require attri­bu­tion of the author’s name and copy­right, includ­ing the MIT license, the GPL, and the Apache license. (These are enu­mer­ated in the appen­dix to the com­plaint.)
+
+In addi­tion to vio­lat­ing the attri­bu­tion require­ments of these licenses, we con­tend that the defen­dants have vio­lated:
+
+In the weeks ahead, we will likely amend this com­plaint to add other par­ties and claims.
+
+This is the first step in what will be a long jour­ney. As far as we know, this is the first class-action case in the US chal­leng­ing the train­ing and out­put of AI sys­tems. It will not be the last. AI sys­tems are not exempt from the law. Those who cre­ate and oper­ate these sys­tems must remain account­able. If com­pa­nies like Microsoft, GitHub, and OpenAI choose to dis­re­gard the law, they should not expect that we the pub­lic will sit still. AI needs to be fair & eth­i­cal for every­one. If it’s not, then it can never achieve its vaunted aims of ele­vat­ing human­ity. It will just become another way for the priv­i­leged few to profit from the work of the many.
+
+We plan to update this web­site reg­u­larly dur­ing the lit­i­ga­tion. Please join our email list for the lat­est.
+
+We’ve filed a sec­ond class-action law­suit in US fed­eral court in San Fran­cisco, CA on behalf of two addi­tional plain­tiffs. The defen­dants and claims are oth­er­wise sim­i­lar to the ini­tial com­plaint filed on Novem­ber 3.
+
+Today’s fil­ings:
+
+If you’re a mem­ber of the press or the pub­lic with other ques­tions about this case or related top­ics, con­tact github_inquiries@saver­i­law­firm.com. (Though please don’t send con­fi­den­tial or priv­i­leged infor­ma­tion.) More infor­ma­tion about the back­ground of this case is avail­able here.

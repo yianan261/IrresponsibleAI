@@ -7,11 +7,14 @@ import datetime
 from format_checker import FormatChecker
 import os
 from incident_data import IncidentData
-import threading
 import concurrent.futures
+import random
+from check_urls import process_urls
 
 
 class FileNotFoundError(Exception):
+    """Exception raised when a file is expected but not found."""
+
     pass
 
 
@@ -24,8 +27,14 @@ class NewsContent:
 
     def scrape_article(self, url) -> str:
         """
-        scrape articles with Newspaper3k library
-        returns article text string
+        Attempts to download and parse an article from a given URL using the Newspaper3k library.
+        Logs a message if the article cannot be accessed.
+
+        Args:
+            url (str): The URL from which to scrape the article.
+
+        Returns:
+            str: The text content of the article, or an empty string if an error occurs.
         """
         article = None
         try:
@@ -39,32 +48,51 @@ class NewsContent:
 
     def fill_article_content(self, write=False):
         """
-        populates aggregated_content dict with article text
-        writes to local files if write == True
+        Retrieves URLs to scrape, downloads articles, aggregates content, and optionally writes to files.
+
+        Args:
+            write (bool): If True, writes the aggregated article content to local files.
+
+        Returns:
+            None
         """
-        # import news URL json file and loop through
-        with open("newsUrls.json", "r") as file:
-            urls_dict = json.load(file)
+        urls_dict = process_urls()
 
         logging.info("Successfully loaded JSON data, starting to scrape articles...")
 
         aggregated_content = self.aggregated_content
         for id, urls in urls_dict.items():
-            with concurrent.futures.ThreadPoolExecutor(max_workers=16) as executor:
-                article_texts = executor.map(self.scrape_article, urls)
+            if len(urls) > 4:
+                urls = random.sample(urls, 4)
+            with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+                article_texts = list(executor.map(self.scrape_article, urls))
             concated = ". ".join(article_texts)
             aggregated_content[id] = concated
             # write to file
-            if write == True:
+            if write:
                 file_path = f"{self.base}/article_texts/{id}.txt"
-                with open(file_path, "w") as f:
-                    f.write(concated)
+                try:
+                    with open(file_path, "w") as f:
+                        f.write(concated)
+                except IOError as e:
+                    logging.error(f"Failed to write to file {file_path}: {e}")
 
         logging.info("Article scraping completed. Processing with LLM...")
         return
 
-    # the directory article_texts already contains previously scraped articles. For articles already scraped there's no need to re-scrape
     def read_article_from_file(self, id_set):
+        """
+        Reads article content from local files for a given set of IDs.
+
+        Args:
+            id_set (set): A set of article IDs to read from local files.
+
+        Returns:
+            None
+
+        Raises:
+            FileNotFoundError: If a file for an ID does not exist.
+        """
         aggregated_content = self.aggregated_content
         for i in id_set:
             try:
@@ -78,8 +106,14 @@ class NewsContent:
 
     def process_aggregate_results(self, prompt_type, check_prompt):
         """
-        processes the scraped articles and calls OpenAI API to process the content for classification.
-        Writes individual incident results and aggregate results to file
+        Processes scraped articles through OpenAI API, classifies content, and saves results.
+
+        Args:
+            prompt_type (str): The type of prompt to use for OpenAI classification.
+            check_prompt (str): The prompt to use if re-checking is needed.
+
+        Returns:
+            None
         """
         processed_results = self.processed_results
         aggregated_content = self.aggregated_content
@@ -119,8 +153,8 @@ class NewsContent:
             except Exception as e:
                 logging.error(f"An error occurred for ID {id}: {e}")
                 raise
-        # with open(f"{results_directory}/prompt.txt", "w") as prompt_file:
-        #     prompt_file.write(prompt)
+        with open(f"{results_directory}/prompt.txt", "w") as prompt_file:
+            prompt_file.write(prompt)
 
         logging.info("LLM processing completed. Saving aggregate results to file...")
         # writing aggregate results
@@ -135,7 +169,14 @@ class NewsContent:
 
     def get_double_check(self, prompt_type, check_prompt):
         """
-        Double checks processed results by calling OpenAI API again
+        Rechecks processed results with OpenAI API to ensure accuracy and updates results.
+
+        Args:
+            prompt_type (str): The type of prompt to use for initial checks.
+            check_prompt (str): The prompt to use for rechecking.
+
+        Returns:
+            None
         """
         processed_results = self.processed_results
         aggregated_content = self.aggregated_content
@@ -188,7 +229,7 @@ class NewsContent:
         if scrape_articles == True:
             self.fill_article_content()
         else:
-            id_set = data.get_handpicked_id_set()
+            id_set = data.get_incidents_2023()
             self.read_article_from_file(id_set)
         self.process_aggregate_results(prompt_type, ZERO_SHOT)
 

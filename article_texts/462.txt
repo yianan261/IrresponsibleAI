@@ -1,8 +1,8 @@
 In an unfortunate turn of events, the AI Seinfeld show that’s been all over Twitch has been hit with the ban hammer for some terribly transphobic “jokes.”
 
-We Taste-Tested The Super Mario Bros. Movie Hot Sauces CC Share Subtitles Off
+Meet The Filmmaker Behind This Legend of Zelda Speedrunning Documentary CC Share Subtitles Off
 
-English view video We Taste-Tested The Super Mario Bros. Movie Hot Sauces
+English view video Meet The Filmmaker Behind This Legend of Zelda Speedrunning Documentary
 
 Created by the media lab Mismatch Media, Nothing, Forever has captivated the internet because of its stilted hilarity and technoabsurdism. A 24/7/365 show livestreaming on the watchmeforever Twitch channel, Nothing, Forever is a sitcom-like Seinfeld-esque comedy about four friends talking about nothing in between bits of stand-up and silence. The show is entirely operated by machine-learning technologies, including DALL-E, OpenAI GPT-3, Stable Diffusion, and others. So, as Larry Feinberg (voxel Jerry Seinfeld) and AI friends—Elaine (Yvonne Torres), George (Fred Kastopolous), and Kramer (Zoltan Kakler)—all sit around a New York-looking apartment, everything is generative. And thus, (ideally) no two jokes or scenarios would ever reappear as the show went on.
 
@@ -102,53 +102,7 @@ In the project’s Discord, show staff blamed the event on having to switch the 
 
 "I would like to add that none of what was said reflects the devs' (or anyone else on the staff team's) opinions," another staffer posted. "I would like to add that none of what was said reflects the devs' (or anyone else on the staff team's) opinions," another staffer posted.
 
-The incident is emblematic of one faced by most AI: When AI is trained on hateful or biased material, the outputs can often be hateful or biased. This has given rise to the field of AI safety, which develops tools to mitigate the biases baked into models. This is why ChatGPT typically won't make blatantly racist, sexist, or transphobic remarks when asked simply. Many AI tools are moderated by underpaid workers in the developing world. The incident is emblematic of one faced by most AI: When AI is trained on hateful or biased material, the outputs can often be hateful or biased. This has given rise to the field of AI safety, which develops tools to mitigate the biases baked into models. This is why ChatGPT typically won't make blatantly racist, sexist, or transphobic remarks when asked simply. Many AI tools are moderated by underpaid workers in the developing world.. The scene is a familiar one to any ’90s sitcom fan: Jerry Seinfeld in front of a microphone, riffing to a crowd during a stand-up routine. But it isn’t Seinfeld. The figure onstage, “Larry Feinberg,” is a pixelated approximation of the famous comedian and makes sudden, jerky motions and speaks in a digital monotone. An electronic beat plays in the background. And the show never, ever stops.
-
-This is the oddity — and, to some, the eclectic charm — of “Nothing, Forever,” an art project made up of a never-ending stream of episodes parodying “Seinfeld” that uses artificial intelligence program GPT-3, the strikingly responsive text-generating program that powers the viral AI tool ChatGPT.
-
-“Nothing, Forever” began broadcasting on the live-streaming platform Twitch in December and attracted a following online for its ambitious and surreal application of generative AI, which can theoretically crank out strange imitations of America’s beloved sitcom forever.
-
-Advertisement
-
-Or at least until early Monday morning, when the “Nothing, Forever” artificial comedian made several transphobic comments in a stand-up routine. Feinberg, proposing ideas for future comedy routines, said that being transgender was “a mental illness” and “ruining the fabric of society” and that “all liberals are secretly gay and want to impose their will on everyone.”
-
-“But no one is laughing, so I’m going to stop,” Feinberg said after making the offending comments. “… Where’d everybody go?”
-
-Shortly afterward, Twitch suspended the channel for 14 days for violating the platform’s community guidelines.
-
-“We are super embarrassed, and … the generative content created in no way reflects the values or opinions of our staff,” Skyler Hartle, one of the co-creators of “Nothing, Forever,” wrote in an email to The Washington Post. “We very much regret this happened and hope to be back on the air soon, with all the appropriate safeguards in place.”
-
-Twitch declined to comment on the suspension, citing privacy reasons, but included an excerpt from the platform’s community guidelines, which prohibits discrimination by gender and gender identity.
-
-Advertisement
-
-Hartle and fellow co-creator Brian Habersberger created “Nothing, Forever” about four years ago after discussing the idea of an “always-on” show inspired by ’90s sitcoms, Hartle wrote.
-
-The ChatGPT service — which, like “Nothing, Forever,” is powered by the GPT3 program — can identify patterns in swaths of human writing to generate new responses to requests and has proved incredibly versatile, if error-prone and not quite humanlike, in responding to a range of tasks and creative prompts.
-
-Share this article Share
-
-Clips from “Nothing, Forever” show the program’s rough edges. Awkward silences follow punchlines and laugh tracks occasionally trigger at the wrong times. But the show’s surreal quality earned itself fans and amused observers. In one instance, the show’s characters asked, “Why are we here?” and whether their existence was a “cosmic joke,” prompting some on social media to speculate in jest that the program had become self-aware.
-
-the Seinfeld AI is becoming self-aware this is not a drill pic.twitter.com/H1zPO9Cnqa — Al Sikkan (@AlsikkanTV) February 2, 2023
-
-The show’s programming was harmless, if awkward, until the transphobic comments on Monday. They were generated when the show’s team changed the program it was using to create the “Nothing, Forever” script due to a GPT-3 service outage, Hartle wrote.
-
-Advertisement
-
-GPT-3 offers several different models, which vary in speed and processing power. The “Nothing, Forever” team lost connection to the model it was using, Davinci, and switched to a different one, Curie, to keep the show running, Hartle wrote. Curie generated the offensive lines of dialogue, he added.
-
-Upon investigating, the “Nothing, Forever” team found it was not using OpenAI’s content moderation tools, which, according to Hartle, aren’t automatically applied to GPT-3’s output.
-
-“We had made an assumption that content moderation was baked into the Davinci and Curie models, but we were unfortunately mistaken,” Hartle wrote.
-
-OpenAI’s website lists a free moderation tool that developers may use to identify whether generated text contains hateful speech. Its usage policy forbids the generation of content promoting “hate based on identity” and recommends developers use their moderation tool to remain compliant, but does not clarify if GPT-3 moderates itself.
-
-Advertisement
-
-Hartle wrote that “Nothing, Forever” would no longer use Curie as a backup and will implement OpenAI’s content moderation tool to scan the show’s dialogue going forward. The team will also investigate using a secondary moderation system as a redundancy, he wrote.
-
-Hartle acknowledged the risks of what he called a “very new and undiscovered space,” but wrote that he was excited by the potential for generative AI making it easier to create shows and films.. Since the hit sitcom Seinfeld went off the air in 1998 after nine seasons, the show’s devoted followers have long mused about an alternate reality: What if the original “show about nothing” had never ended?
+The incident is emblematic of one faced by most AI: When AI is trained on hateful or biased material, the outputs can often be hateful or biased. This has given rise to the field of AI safety, which develops tools to mitigate the biases baked into models. This is why ChatGPT typically won't make blatantly racist, sexist, or transphobic remarks when asked simply. Many AI tools are moderated by underpaid workers in the developing world. The incident is emblematic of one faced by most AI: When AI is trained on hateful or biased material, the outputs can often be hateful or biased. This has given rise to the field of AI safety, which develops tools to mitigate the biases baked into models. This is why ChatGPT typically won't make blatantly racist, sexist, or transphobic remarks when asked simply. Many AI tools are moderated by underpaid workers in the developing world.. Since the hit sitcom Seinfeld went off the air in 1998 after nine seasons, the show’s devoted followers have long mused about an alternate reality: What if the original “show about nothing” had never ended?
 
 Now they’ve gotten what they wished for—well, sort of. In mid-December, a never-ending AI-generated reboot, aptly named Nothing, Forever, launched on the streaming platform Twitch. The characters Jerry Seinfeld, Elaine Benes, George Costanza, and Cosmo Kramer don’t exist here, but you can watch their pixelated, copyright-abiding doppelgängers—Larry Feinberg, Yvonne Torres, Fred Kastopolous, and Zoltan Kakler—shoot the breeze live, 24 hours a day, seven days a week, forever. You could, anyway, until earlier this week, when forever abruptly ended—or was at least briefly interrupted, and in just about the most fitting way imaginable: by the AI scriptwriter devolving into bigotry.
 

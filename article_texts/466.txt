@@ -1,4 +1,4 @@
-. . . . The Science of Detecting LLM-Generated Texts Ruixiang Tang · Follow 5 min read · Feb 3, 2023 -- Listen Share
+The Science of Detecting LLM-Generated Texts Ruixiang Tang · Follow 5 min read · Feb 3, 2023 -- Listen Share
 
 Recent advancements in natural language generation (NLG) technology have significantly improved the diversity, control, and quality of LLM-generated texts. A notable example is OpenAI’s ChatGPT, which demonstrates exceptional performance in tasks such as answering questions, composing emails, essays, and codes. However, this newfound capability to produce human-like texts at high efficiency also raises concerns about detecting and preventing misuse of LLMs in tasks such as phishing, disinformation, and academic dishonesty.
 

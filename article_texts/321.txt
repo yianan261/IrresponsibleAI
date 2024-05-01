@@ -1,4 +1,46 @@
-Drivers need to be ready to grab the wheel if the lane markings disappear, or lanes split, which may have been a contributing factor in this crash. Systems like Autopilot have known weaknesses. The manual also warns that it may not see stationary objects, a shortcoming highlighted when a Tesla slammed into a stopped firetruck near Los Angeles in January. The systems are designed to discard radar data about things that aren’t moving, to prevent false alarms for every overhead gantry or street-side trash can.
+Tesla has said a car that crashed in California last week, killing its driver, was operating on Autopilot.
+
+The 23 March crash on highway 101 in Mountain View is the latest accident to involve self-driving technology. Earlier this month, a self-driving Volvo SUV that was being tested by the ride-hailing service Uber struck and killed a pedestrian in Arizona.
+
+Federal investigators are looking into the California crash, as well a crash in January of a Tesla Model S that may have been operating under the Autopilot system.
+
+
+
+In a blogpost, Tesla said the driver of the sport-utility Model X that crashed in Mountain View, 38-year-old Apple software engineer Wei Huang, “had received several visual and one audible hands-on warning earlier in the drive and the driver’s hands were not detected on the wheel for six seconds prior to the collision.
+
+“The driver had about five seconds and 150 meters of unobstructed view of the concrete divider … but the vehicle logs show that no action was taken.”
+
+Tesla also said the concrete highway divider had previously been damaged, increasing its impact on the car. The vehicle also caught fire, though Tesla said no one was in the vehicle when that happened.
+
+The company said its Autopilot feature can keep speed, change lanes and self-park but requires drivers to keep their eyes on the road and hands on the wheel, in order to be able to take control and avoid accidents.
+
+
+
+Autopilot does not prevent all accidents, Tesla said, but it does make them less likely.
+
+
+
+“No one knows about the accidents that didn’t happen,” Tesla said, “only the ones that did. The consequences of the public not using Autopilot, because of an inaccurate belief that it is less safe, would be extremely severe.
+
+“There are about 1.25 million automotive deaths worldwide. If the current safety level of a Tesla vehicle were to be applied, it would mean about 900,000 lives saved per year.”
+
+
+
+The company added that it “care[s] deeply for and feel[s] indebted to those who chose to put their trust in us. However, we must also care about people now and in the future whose lives may be saved if they know that Autopilot improves safety.
+
+“None of this changes how devastating an event like this is or how much we feel for our customer’s family and friends. We are incredibly sorry for their loss.”. (Bloomberg) -- The Tesla Inc. Model X that crashed in California while being guided by its semi-autonomous driving system sped up to 71 miles an hour in the seconds before the vehicle slammed into a highway barrier, investigators said Thursday.
+
+U.S. National Transportation Safety Board issued a preliminary report on the March 23 crash showing that the driver’s hands were detected on the steering wheel only 34 seconds during the last minute before impact.
+
+The investigation is the latest to shine a spotlight into potential flaws in emerging autonomous driving technology. Another NTSB probe of a self-driving Uber Technologies Inc. car that killed a pedestrian March 18 in Arizona found that the car’s sensors picked up the victim, but the vehicle wasn’t programmed to brake for obstructions.
+
+Walter Huang, a 38-year-old engineer who worked at Apple Inc., died in Mountain View, California, in the March 23 crash when his Model X struck a highway barrier as he was using the driver-assistance system known as Autopilot. The car’s computer didn’t sense his hands on the steering wheel for six seconds before the collision, according to NTSB.
+
+To contact the reporters on this story: Alan Levin in Washington at alevin24@bloomberg.net;Ryan Beene in Washington at rbeene@bloomberg.net
+
+To contact the editors responsible for this story: Jon Morgan at jmorgan97@bloomberg.net, Elizabeth Wasserman, Justin Blum
+
+©2018 Bloomberg L.P.. Drivers need to be ready to grab the wheel if the lane markings disappear, or lanes split, which may have been a contributing factor in this crash. Systems like Autopilot have known weaknesses. The manual also warns that it may not see stationary objects, a shortcoming highlighted when a Tesla slammed into a stopped firetruck near Los Angeles in January. The systems are designed to discard radar data about things that aren’t moving, to prevent false alarms for every overhead gantry or street-side trash can.
 
 Autopilot was first enabled on Tesla’s cars, via an over-the-air software updates, in October 2015. The system combines radar-controlled cruise control with automatic steering to stay within painted lane lines. The first person known to die using Autopilot was Joshua Brown, whose Model S crashed into a truck that turned across his path in Florida, in May 2016. Neither he nor the car’s computers saw the white truck against the bright sky.
 
@@ -16,45 +58,7 @@ The federal investigations into Huang’s crash are ongoing, and may not produce
 
 Coupled with Uber’s fatal crash in Arizona, in which one of its self-driving cars hit and killed a pedestrian pushing a bike, this incident marks the beginning of what is likely to be a difficult time for the autonomous vehicle industry. Engineers are convinced that taking the easily-distracted human out of the driving equation will cut down on the 40,000 road deaths each year on American roads. But right now, the systems aren’t sophisticated enough to operate without human oversight, which is difficult to ensure. And that leaves everyone in a difficult middle ground—a no man’s land with no obvious or immediate route out.
 
-Autonomous Accidents. Sign up to our free weekly IndyTech newsletter delivered straight to your inbox Sign up to our free IndyTech newsletter Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy policy Thanks for signing up to the
-
-IndyTech email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
-
-Tesla has defended its Autopilot driver-assist technology after a probe was launched into a fatal crash involving a Tesla Model X SUV.
-
-The accident took place on the afternoon of Friday 23 March on a motorway in Mountain View, California. The 38-year-old driver died at a nearby hospital shortly after the crash.
-
-Tesla vehicles have a system called Autopilot which runs some driving tasks but it is not clear if Tesla’s automated control system was driving the car.
-
-According to the National Transport Safety Board (NTSB) and police, the accident involved two other cars.
-
-The NTSB announced it was investigating the accident on Tuesday. It said it would be looking into how the Model X caught fire in the wake of the collision and would take steps to make the vehicle safe before removing it from the scene of the incident.
-
-Tesla, which specialises in electric vehicles, energy storage and solar panel manufacturing and which was founded by Elon Musk, has sought to defend the technology in spite of the NTSB saying it was unclear whether the Model X Autopilot system was engaged before the accident.
-
-In a blog post, the company said: “Our data shows that Tesla owners have driven this same stretch of highway with Autopilot engaged roughly 85,000 times since Autopilot was first rolled out in 2015 and roughly 20,000 times since just the beginning of the year, and there has never been an accident that we know of.”
-
-Tesla also argued part of the reason the fatal crash was so severe was to do with the fact a collision barrier on the highway was either taken away or restricted.
-
-World news in pictures Show all 50 1 / 50 World news in pictures World news in pictures 30 September 2020 Pope Francis prays with priests at the end of a limited public audience at the San Damaso courtyard in The Vatican AFP via Getty World news in pictures 29 September 2020 A girl's silhouette is seen from behind a fabric in a tent along a beach by Beit Lahia in the northern Gaza Strip AFP via Getty World news in pictures 28 September 2020 A Chinese woman takes a photo of herself in front of a flower display dedicated to frontline health care workers during the COVID-19 pandemic in Beijing, China. China will celebrate national day marking the founding of the People's Republic of China on October 1st Getty World news in pictures 27 September 2020 The Glass Mountain Inn burns as the Glass Fire moves through the area in St. Helena, California. The fast moving Glass fire has burned over 1,000 acres and has destroyed homes Getty World news in pictures 26 September 2020 A villager along with a child offers prayers next to a carcass of a wild elephant that officials say was electrocuted in Rani Reserve Forest on the outskirts of Guwahati, India AFP via Getty World news in pictures 25 September 2020 The casket of late Supreme Court Justice Ruth Bader Ginsburg is seen in Statuary Hall in the US Capitol to lie in state in Washington, DC AFP via Getty World news in pictures 24 September 2020 An anti-government protester holds up an image of a pro-democracy commemorative plaque at a rally outside Thailand's parliament in Bangkok, as activists gathered to demand a new constitution AFP via Getty World news in pictures 23 September 2020 A whale stranded on a beach in Macquarie Harbour on the rugged west coast of Tasmania, as hundreds of pilot whales have died in a mass stranding in southern Australia despite efforts to save them, with rescuers racing to free a few dozen survivors The Mercury/AFP via Getty World news in pictures 22 September 2020 State civil employee candidates wearing face masks and shields take a test in Surabaya AFP via Getty World news in pictures 21 September 2020 A man sweeps at the Taj Mahal monument on the day of its reopening after being closed for more than six months due to the coronavirus pandemic AP World news in pictures 20 September 2020 A deer looks for food in a burnt area, caused by the Bobcat fire, in Pearblossom, California EPA World news in pictures 19 September 2020 Anti-government protesters hold their mobile phones aloft as they take part in a pro-democracy rally in Bangkok. Tens of thousands of pro-democracy protesters massed close to Thailand's royal palace, in a huge rally calling for PM Prayut Chan-O-Cha to step down and demanding reforms to the monarchy AFP via Getty World news in pictures 18 September 2020 Supporters of Iraqi Shi'ite cleric Moqtada al-Sadr maintain social distancing as they attend Friday prayers after the coronavirus disease restrictions were eased, in Kufa mosque, near Najaf, Iraq Reuters World news in pictures 17 September 2020 A protester climbs on The Triumph of the Republic at 'the Place de la Nation' as thousands of protesters take part in a demonstration during a national day strike called by labor unions asking for better salary and against jobs cut in Paris, France EPA World news in pictures 16 September 2020 A fire raging near the Lazzaretto of Ancona in Italy. The huge blaze broke out overnight at the port of Ancona. Firefighters have brought the fire under control but they expected to keep working through the day EPA World news in pictures 15 September 2020 Russian opposition leader Alexei Navalny posing for a selfie with his family at Berlin's Charite hospital. In an Instagram post he said he could now breathe independently following his suspected poisoning last month Alexei Navalny/Instagram/AFP World news in pictures 14 September 2020 Japan's Prime Minister Shinzo Abe, Chief Cabinet Secretary Yoshihide Suga, former Defense Minister Shigeru Ishiba and former Foreign Minister Fumio Kishida celebrate after Suga was elected as new head of the ruling party at the Liberal Democratic Party's leadership election in Tokyo Reuters World news in pictures 13 September 2020 A man stands behind a burning barricade during the fifth straight day of protests against police brutality in Bogota AFP via Getty World news in pictures 12 September 2020 Police officers block and detain protesters during an opposition rally to protest the official presidential election results in Minsk, Belarus. Daily protests calling for the authoritarian president's resignation are now in their second month AP World news in pictures 11 September 2020 Members of 'Omnium Cultural' celebrate the 20th 'Festa per la llibertat' ('Fiesta for the freedom') to mark the Day of Catalonia in Barcelona. Omnion Cultural fights for the independence of Catalonia EPA World news in pictures 10 September 2020 The Moria refugee camp, two days after Greece's biggest migrant camp, was destroyed by fire. Thousands of asylum seekers on the island of Lesbos are now homeless AFP via Getty World news in pictures 9 September 2020 Pope Francis takes off his face mask as he arrives by car to hold a limited public audience at the San Damaso courtyard in The Vatican AFP via Getty World news in pictures 8 September 2020 A home is engulfed in flames during the "Creek Fire" in the Tollhouse area of California AFP via Getty World news in pictures 7 September 2020 A couple take photos along a sea wall of the waves brought by Typhoon Haishen in the eastern port city of Sokcho AFP via Getty World news in pictures 6 September 2020 Novak Djokovic and a tournament official tends to a linesperson who was struck with a ball by Djokovic during his match against Pablo Carreno Busta at the US Open USA Today Sports/Reuters World news in pictures 5 September 2020 Protesters confront police at the Shrine of Remembrance in Melbourne, Australia, during an anti-lockdown rally AFP via Getty World news in pictures 4 September 2020 A woman looks on from a rooftop as rescue workers dig through the rubble of a damaged building in Beirut. A search began for possible survivors after a scanner detected a pulse one month after the mega-blast at the adjacent port AFP via Getty World news in pictures 3 September 2020 A full moon next to the Virgen del Panecillo statue in Quito, Ecuador EPA World news in pictures 2 September 2020 A Palestinian woman reacts as Israeli forces demolish her animal shed near Hebron in the Israeli-occupied West Bank Reuters World news in pictures 1 September 2020 Students protest against presidential elections results in Minsk TUT.BY/AFP via Getty World news in pictures 31 August 2020 The pack rides during the 3rd stage of the Tour de France between Nice and Sisteron AFP via Getty World news in pictures 30 August 2020 Law enforcement officers block a street during a rally of opposition supporters protesting against presidential election results in Minsk, Belarus Reuters World news in pictures 29 August 2020 A woman holding a placard reading "Stop Censorship - Yes to the Freedom of Expression" shouts in a megaphone during a protest against the mandatory wearing of face masks in Paris. Masks, which were already compulsory on public transport, in enclosed public spaces, and outdoors in Paris in certain high-congestion areas around tourist sites, were made mandatory outdoors citywide on August 28 to fight the rising coronavirus infections AFP via Getty World news in pictures 28 August 2020 Japanese Prime Minister Shinzo Abe bows to the national flag at the start of a press conference at the prime minister official residence in Tokyo. Abe announced he will resign over health problems, in a bombshell development that kicks off a leadership contest in the world's third-largest economy AFP via Getty World news in pictures 27 August 2020 Residents take cover behind a tree trunk from rubber bullets fired by South African Police Service (SAPS) in Eldorado Park, near Johannesburg, during a protest by community members after a 16-year old boy was reported dead AFP via Getty World news in pictures 26 August 2020 People scatter rose petals on a statue of Mother Teresa marking her 110th birth anniversary in Ahmedabad AFP via Getty World news in pictures 25 August 2020 An aerial view shows beach-goers standing on salt formations in the Dead Sea near Ein Bokeq, Israel Reuters World news in pictures 24 August 2020 Health workers use a fingertip pulse oximeter and check the body temperature of a fisherwoman inside the Dharavi slum during a door-to-door Covid-19 coronavirus screening in Mumbai AFP via Getty World news in pictures 23 August 2020 People carry an idol of the Hindu god Ganesh, the deity of prosperity, to immerse it off the coast of the Arabian sea during the Ganesh Chaturthi festival in Mumbai, India Reuters World news in pictures 22 August 2020 Firefighters watch as flames from the LNU Lightning Complex fires approach a home in Napa County, California AP World news in pictures 21 August 2020 Members of the Israeli security forces arrest a Palestinian demonstrator during a rally to protest against Israel's plan to annex parts of the occupied West Bank AFP via Getty World news in pictures 20 August 2020 A man pushes his bicycle through a deserted road after prohibitory orders were imposed by district officials for a week to contain the spread of the Covid-19 in Kathmandu AFP via Getty World news in pictures 19 August 2020 A car burns while parked at a residence in Vacaville, California. Dozens of fires are burning out of control throughout Northern California as fire resources are spread thin AFP via Getty World news in pictures 18 August 2020 Students use their mobile phones as flashlights at an anti-government rally at Mahidol University in Nakhon Pathom. Thailand has seen near-daily protests in recent weeks by students demanding the resignation of Prime Minister Prayut Chan-O-Cha AFP via Getty World news in pictures 17 August 2020 Members of the Kayapo tribe block the BR163 highway during a protest outside Novo Progresso in Para state, Brazil. Indigenous protesters blocked a major transamazonian highway to protest against the lack of governmental support during the COVID-19 novel coronavirus pandemic and illegal deforestation in and around their territories AFP via Getty World news in pictures 16 August 2020 Lightning forks over the San Francisco-Oakland Bay Bridge as a storm passes over Oakland AP World news in pictures 15 August 2020 Belarus opposition supporters gather near the Pushkinskaya metro station where Alexander Taraikovsky, a 34-year-old protester died on August 10, during their protest rally in central Minsk AFP via Getty World news in pictures 14 August 2020 AlphaTauri's driver Daniil Kvyat takes part in the second practice session at the Circuit de Catalunya in Montmelo near Barcelona ahead of the Spanish F1 Grand Prix AFP via Getty World news in pictures 13 August 2020 Soldiers of the Brazilian Armed Forces during a disinfection of the Christ The Redeemer statue at the Corcovado mountain prior to the opening of the touristic attraction in Rio AFP via Getty World news in pictures 12 August 2020 Young elephant bulls tussle playfully on World Elephant Day at the Amboseli National Park in Kenya AFP via Getty
-
-“We have never seen this level of damage to a Model X in any other crash,” Tesla wrote in its post.
-
-The firm explained it is working in conjunction with authorities to recover the logs from the computer inside the vehicle to try to get a better understanding of what happened. The company statement failed to address if the vehicle had been in Autopilot mode.
-
-“We have been deeply saddened by this accident, and we have offered our full cooperation to the authorities as we work to establish the facts of the incident,” Tesla said in a statement earlier.
-
-The NTSB’s announcement that the accident had prompted a federal field investigation triggered a big selloff in Tesla stock.
-
-After the investigation was announced, Tesla tumbled 8.2 per cent, or $25 a share, to close at $279.18. This is the lowest close in nearly a year.
-
-It is not clear how long it will take the NTSB to carry out their inquiry but their investigations generally last for 12 to 18 months.
-
-This is the second NTSB field investigation into a Tesla crash since January. The NTSB and US National Highway Traffic Safety Administration sent investigators to California in January to investigate the crash of a fire truck and a Tesla that apparently was moving in semi-autonomous mode. The agencies have yet to reveal any findings.
-
-In September, NTSB Chairman Robert Sumwalt said operational limitations in the Tesla Model S played a key role in a May 2016 crash in Florida that killed a driver using Autopilot.
-
-The particular crash sparked questions about the safety of systems that are able to carry out driving tasks for long periods of time but cannot totally substitute human drivers.. Tesla said on Friday that a Tesla Model X involved a fatal crash in California last week had activated its Autopilot system, raising new questions about the semi-autonomous system that handles some driving tasks.
+Autonomous Accidents. Tesla said on Friday that a Tesla Model X involved a fatal crash in California last week had activated its Autopilot system, raising new questions about the semi-autonomous system that handles some driving tasks.
 
 Tesla also said vehicle logs from the accident showed no action had been taken by the driver soon before the crash and that he had received earlier warnings to put his hands on the wheel.
 
@@ -88,130 +92,4 @@ Tesla said that in the United States "there is one automotive fatality every 86 
 
 Tesla in September 2016 unveiled improvements to Autopilot, adding new limits on hands-off driving.
 
-On Thursday, Tesla said it was recalling 123,000 Model S sedans built before April 2016 in order to replace bolts in the power steering component that can begin to corrode after contact in cold temperatures with road salt. No accidents or injuries were reported.. On Friday, March 23, a Tesla Model X crashed into a concrete divider on U.S. Highway 101 in Mountain View, California. The driver died as a result of the crash — which occurred despite numerous warnings, the car company said.
-
-Now, the National Transportation Safety Board has released its own preliminary report about the crash, noting that the driver did not have his hands on the steering wheel for a full six seconds before the vehicle crashed into the barricade. The NTSB also concluded that the Tesla Model X had its Autopilot function on and engaged during the crash.
-
-Recommended Videos
-
-The federal agency’s report does not differ from Tesla’s own investigation into the crash, though the NTSB has yet to point to a concrete decision about what ultimately caused the fatal accident. In the report, investigators note that all “aspects of the crash remain under investigation as the NTSB determines the probable cause, with the intent of issuing safety recommendations to prevent similar crashes.”
-
-Some new details that have emerged from the NTSB include that the Autopilot feature was set to maintain a driving speed of 75 mph. We also now know that about eight seconds before the crash, the car was behind another vehicle moving at 65 mph, which probably caused the Model X to slow down a bit. Four seconds before the collision, however, the Tesla stopped following the aforementioned vehicle, causing it to accelerate just before it hit the barricade.
-
-Prior to the crash, the Model X did send two visual and an auditory cue to the driver to take the wheel. “These alerts were made more than 15 minutes prior to the crash,” the NTSB noted.
-
-In Tesla’s initial report following the accident, the company included photos of a crash attenuator at the accident site before retrieving the car’s computer logs. One photo shows the safety device appearing in proper condition on an unstated date. The second image, taken on March 22 by a dash cam in a car driven by a witness to the accident, shows the same barrier crushed from an earlier crash.
-
-Previous Next 1 of 2 Tesla Tesla
-
-According to Tesla, “the reason this crash was so severe is that the crash attenuator, a highway safety barrier which is designed to reduce the impact into a concrete lane divider, had either been removed or crushed in a prior accident without being replaced.”
-
-In a follow-up report after Tesla retrieved the car’s logs, the company stated, “In the moments before the collision, which occurred at 9:27 a.m. on Friday, March 23, Autopilot was engaged with the adaptive cruise control follow-distance set to minimum. The driver had received several visual and one audible hands-on warning earlier in the drive and the driver’s hands were not detected on the wheel for six seconds prior to the collision. The driver had about five seconds and 150 meters of unobstructed view of the concrete divider with the crushed crash attenuator, but the vehicle logs show that no action was taken.”
-
-Reacting to criticism that Tesla lacks empathy for crash tragedy when it quotes the relative statistical safety of driving in Telsa vehicles, the company stated, “Nothing could be further from the truth. We care deeply for and feel indebted to those who chose to put their trust in us. However, we must also care about people now and in the future whose lives may be saved if they know that Autopilot improves safety. None of this changes how devastating an event like this is or how much we feel for our customer’s family and friends. We are incredibly sorry for their loss.”
-
-Tesla’s Autopilot warnings, and the company’s admonitions about not using the system without keeping hands on the wheel and eyes on the road, do not mean the system is safe from misuse. Following the first Tesla fatality in 2016, the National Traffic Safety Board reported the driver was at fault for not paying attention and for “overreliance on vehicle automation.” The NTSB also reported at the time that Tesla “could have taken further steps to prevent the system’s misuse,” Reuters reported.
-
-The National Highway Traffic Safety Administration (NHTSA) is also investigating the accident.
-
-Human error is widely considered at least partially responsible for more than 90 percent of fatal accidents each year, as documented by a study published by Stanford Law School. Tesla states there is one automobile fatality for all vehicles for every 86 million driving miles, but one fatality for every 320 million miles with Teslas equipped with Autopilot hardware. According to Tesla’s figures, Tesla drivers with Autopilot hardware are 3.7 times less likely to be in a fatal accident.
-
-Updated on June 8 to include findings from the NTSB’s investigation.
-
-Editors' Recommendations. Tesla’s Autopilot is getting smarter. The semi-autonomous driving system, set to form the basis of CEO Elon Musk’s self-driving car ambitions, has been receiving regular software updates to improve the underlying artificial intelligence. The company’s vehicles running on the Hardware 2 system can now tackle some of the toughest corners on the road.
-
-In a video shared by Electrek on Thursday, Tesla Model X owner Mike switches on Autopilot along a curve of Virginia highway near Chester. The Tesla Model S P100D loaner car that he’s using effortlessly guides its way through a tricky corner, where previously his car struggled to make the turn.
-
-It’s a promising step for Tesla as it prepares to roll out autonomous driving. The Hardware 2 suite of cameras and sensors, which have shipped with every car since October 2016, are expected to power the new mode with just computer updates. Musk has suggested that coast-to-coast autonomy is achievable in the next six months.
-
-Before that point, Tesla needs to get the existing Autopilot features moving past the Mobileye systems used in previous vehicles. In the Enhanced Autopilot feature set, Tesla promises advanced features like moving to the correct lane, a feature this video suggests is coming soon.
-
-“Once on the freeway, your Tesla will determine which lane you need to be in and when,” the company says in its description of Enhanced Autopilot. “In addition to ensuring you reach your intended exit, Autopilot will watch for opportunities to move to a faster lane when you’re caught behind slower traffic. When you reach your exit, your Tesla will depart the freeway, slow down and transition control back to you.”
-
-Watch the feat in action below:
-
-In a second video, Mike tried the curve again with his Model X at night. It sticks closer to the left side of the curve than right, but ultimately offers a far smoother ride than before:
-
-“This is a huge improvement for the vehicle,” Mike says in the second video. “One of the best runs ever by this Model X.”
-
-Perhaps autonomy this year isn’t so unfeasible after all.. A Tesla vehicle is at the center of another tragic crash, and the company is coming under renewed scrutiny over safety concerns as a result. The driver of a Model X has died after his electric SUV collided with a median barrier on Highway 101 in Mountain View and was subsequently struck by two other vehicles. The incident destroyed the front half of the vehicle and sparked a fire that involved the battery, leading to Tesla sending an employee to investigate. Witnesses reported seeing a fireball during the crash.
-
-It's not certain whether or not Autopilot was involved, or the degree to which the battery was involved in destroying the vehicle. Fires are common in crashes regardless of the power plant. We've asked Tesla for comment, but the California Highway Patrol believed the battery might have played a role.
-
-Regardless of the causes, the crash highlights the uncertainties surrounding the safety of electric cars, especially as the introduce autonomous features. First responders still aren't certain how to deal with EV crashes, and there's now the potential for autonomous driving systems to play as much of a role as humans.
-
-A Good Samaritan at the scene of the Tesla Model X car crash described the car to be "actively emitting full flames from the battery bank." https://t.co/n78v5ekcgV pic.twitter.com/EVGqKJnhcR — NBC Bay Area (@nbcbayarea) March 24, 2018. . Follow us today...
-
-The National Transportation Safety Board has issued a preliminary report on the Tesla Model X P100D crash that killed its occupant on March 23rd on a highway in California. The report has detailed information on the pre-crash events. Part of the information retrieved from the Tesla data logged by the vehicle shows that the Tesla accelerated just prior to the impact to speeds above the posted speed limit and that the car seems to have steered itself directly into the barrier.
-
-Included in the report is the statement "At 3 seconds prior to the crash and up to the time of impact with the crash attenuator,the Tesla’s speed increased from 62 to 70.8 mph, with no precrash braking or evasive steering movement detected." The speed limit on that roadway is 65 MPH. The report also says that the Autopilot system was set by the driver to 10 MPH higher than the speed limit. Prior to the car accelerating, it had been following another car (using adaptive cruise control) and thus, was traveling slower than the setpoint of the Autopilot.
-
-Lane-keeping assist was engaged leading up to the moment of the crash. The Model X had been following another vehicle that did not crash, but steered itself out of the lane and into the barrier.
-
-Although the car was engulfed in flames when the vehicle's lithium batteries caught fire, the driver was pulled free by bystanders who found him in his seat with seatbelt on. The fire department required hundreds of gallons of fire foam and ten minutes to extinguish the flames.
-
-Five days after the crash, the battery re-ignited.
-
-As we have previously reported, an NTSB report on an earlier crash of Tesla Model S using Autopilot seemed to eerily predict more crashes. According to that report, "The way in which the Tesla “Autopilot” system monitored and responded to the driver’s interaction with the steering wheel was not an effective method of ensuring driver engagement." In this crash, the report says the data indicate, "During the 60 seconds prior to the crash, the driver’s hands were detected on the steering wheel on three separate occasions, for a total of 34 seconds; for the last 6 seconds prior to the crash, the vehicle did not detect the driver’s hands on the steering wheel."
-
-Related Story: Video Emerges from Highway 101 Tesla Model X Crash. . What Happened
-
-​​On March 23, 2018, at 9:27 a.m., a 2017 Tesla Model X P100D electric-powered sport utility vehicle (SUV), occupied by a 38-year-old male driver, was traveling south on US Highway 101 (US-101) in Mountain View, Santa Clara County, California. At this location, US-101 has six southbound traffic lanes, including a high-occupancy vehicle (HOV) exit lane to State Route 85 (SR-85) southbound on the far left. As the SUV approached the US-101−SR-85 interchange, it was traveling in the lane second from the left, which was an HOV lane for continued travel on US-101.
-
-While approaching a paved gore area dividing the main travel lanes of US-101 from the SR-85 left-exit ramp, the SUV moved to the left and entered the gore. The vehicle continued traveling through the gore and struck a damaged and nonoperational crash attenuator at a speed of about 71 mph. The crash attenuator was positioned at the end of a concrete median barrier. As a result of the collision, the SUV rotated counterclockwise and the front body structure separated from the rear of the vehicle. The Tesla was involved in subsequent collisions with two other vehicles, a 2010 Mazda 3 and a 2017 Audi A4.
-
-The Tesla’s high-voltage battery was breached in the collision and a postcrash fire ensued. On-scene witnesses found the Tesla driver in his seat with his lap/shoulder belt buckled. They removed him from the vehicle before it was engulfed in flames. The driver was transported to a local hospital, where he died from blunt-force trauma injuries. The driver of the Mazda sustained minor injuries, and the driver of the Audi was uninjured.
-
-System performance data downloaded from the Tesla indicated that the driver was operating the SUV using the Traffic-Aware Cruise Control (an adaptive cruise control system) and Autosteer system (a lane-keeping assist system), which are advanced driver assistance systems in Tesla’s “Autopilot” suite. As part of this investigation, the National Transportation Safety Board (NTSB) reviewed previous NTSB investigations involving the Tesla Autopilot system in Williston, Florida; Culver City, California; and Delray Beach, Florida, to examine common issues regarding the safety of advanced driver assistance systems that provide partial driving automation (both lateral and longitudinal control).
-
-
-
-
-
-
-
-4/12/2018 - Tesla Party Removal Notification Letter to CEO Elon Musk​
-
-. (Bloomberg) -- The Tesla Inc. Model X that crashed in California while being guided by its semi-autonomous driving system sped up to 71 miles an hour in the seconds before the vehicle slammed into a highway barrier, investigators said Thursday.
-
-U.S. National Transportation Safety Board issued a preliminary report on the March 23 crash showing that the driver’s hands were detected on the steering wheel only 34 seconds during the last minute before impact.
-
-The investigation is the latest to shine a spotlight into potential flaws in emerging autonomous driving technology. Another NTSB probe of a self-driving Uber Technologies Inc. car that killed a pedestrian March 18 in Arizona found that the car’s sensors picked up the victim, but the vehicle wasn’t programmed to brake for obstructions.
-
-Walter Huang, a 38-year-old engineer who worked at Apple Inc., died in Mountain View, California, in the March 23 crash when his Model X struck a highway barrier as he was using the driver-assistance system known as Autopilot. The car’s computer didn’t sense his hands on the steering wheel for six seconds before the collision, according to NTSB.
-
-To contact the reporters on this story: Alan Levin in Washington at alevin24@bloomberg.net;Ryan Beene in Washington at rbeene@bloomberg.net
-
-To contact the editors responsible for this story: Jon Morgan at jmorgan97@bloomberg.net, Elizabeth Wasserman, Justin Blum
-
-©2018 Bloomberg L.P.. Tesla has said a car that crashed in California last week, killing its driver, was operating on Autopilot.
-
-The 23 March crash on highway 101 in Mountain View is the latest accident to involve self-driving technology. Earlier this month, a self-driving Volvo SUV that was being tested by the ride-hailing service Uber struck and killed a pedestrian in Arizona.
-
-Federal investigators are looking into the California crash, as well a crash in January of a Tesla Model S that may have been operating under the Autopilot system.
-
-
-
-In a blogpost, Tesla said the driver of the sport-utility Model X that crashed in Mountain View, 38-year-old Apple software engineer Wei Huang, “had received several visual and one audible hands-on warning earlier in the drive and the driver’s hands were not detected on the wheel for six seconds prior to the collision.
-
-“The driver had about five seconds and 150 meters of unobstructed view of the concrete divider … but the vehicle logs show that no action was taken.”
-
-Tesla also said the concrete highway divider had previously been damaged, increasing its impact on the car. The vehicle also caught fire, though Tesla said no one was in the vehicle when that happened.
-
-The company said its Autopilot feature can keep speed, change lanes and self-park but requires drivers to keep their eyes on the road and hands on the wheel, in order to be able to take control and avoid accidents.
-
-
-
-Autopilot does not prevent all accidents, Tesla said, but it does make them less likely.
-
-
-
-“No one knows about the accidents that didn’t happen,” Tesla said, “only the ones that did. The consequences of the public not using Autopilot, because of an inaccurate belief that it is less safe, would be extremely severe.
-
-“There are about 1.25 million automotive deaths worldwide. If the current safety level of a Tesla vehicle were to be applied, it would mean about 900,000 lives saved per year.”
-
-
-
-The company added that it “care[s] deeply for and feel[s] indebted to those who chose to put their trust in us. However, we must also care about people now and in the future whose lives may be saved if they know that Autopilot improves safety.
-
-“None of this changes how devastating an event like this is or how much we feel for our customer’s family and friends. We are incredibly sorry for their loss.”
+On Thursday, Tesla said it was recalling 123,000 Model S sedans built before April 2016 in order to replace bolts in the power steering component that can begin to corrode after contact in cold temperatures with road salt. No accidents or injuries were reported.

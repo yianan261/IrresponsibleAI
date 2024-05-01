@@ -1,128 +1,4 @@
-(Photo : Pexels/Julia M Cameron) Universities to stop using remote-testing software
-
-The Univeristy of Illinois had finally announced that it will no longer use Proctorio, a remote-testing software that is used during exams to monitor students. The software will be discontinued in mid-2021.
-
-The decision of the univeristy came a year after students filed complaints over the software and voiced their concerns about privacy violation, issues with accessibility and discrimination.
-
-University of Illinois to discontinue remote-testing software
-
-According to TechNewsTube, the University of Illinois has been using Proctorio for years in a classroom setting and the software has been available for years. However, it was only in 2020 that the public, especially the students took notice when they were forced to home school due to the coronavirus pandemic.
-
-The software received major backlash from the students, the schools staff and the general public as they pointed out that it invades the students' personal space and it gives them anxiety over the thought of being closely monitored.
-
-Also Read: Top 5 Online Education Sites of 2020: Learn New Skills At Home On Your Own Schedule
-
-There were also accusations of discrimintation towards marginalized students, as the software allegedly recognizes white face more than it does with faces of students of color.
-
-But what exactly is Proctorio and what does it do?
-
-Proctorio is a software used by colleges and universities to monitor students and prevent cheating during exams.
-
-It uses a machine learning technology and it uses advanced facial detection to record students through their webcams as they take their test and the software monitor the positions of the students' head.
-
-If the software detects any suspicious behavior, it automatically notifies the professors, who can review the recordings. The software also enables the professors to see the websites that their students opened while they were taking the test, and it disables computer functions like copying, pasting and printing.
-
-Privacy concerns
-
-Also the software is helpful in the grand scheme of things, the idea of being monitored does not sit well with students and even other teachers.
-
-The University of Illinois has been using Proctorio in a classroom setting during examination period, but due to the pandemic, students were forced to bring it to their homes, which invades their privacy.
-
-Because of this, more than 1,000 people, students and teachers alike, signed a petition asking the university to discontinue the software.
-
-Proctorio is not the only remote-testing software that is used by colleges and universities, a university in Miami was also forced to discontinue a remote-testing software after a petition with more than 500 signatures was passed, citing the same issues.
-
-The software ProctorTrack, a remote-testing software used by the University of Regina, will also get the boot after a petition with 3,500 signatures was passed. Honorlock, a smiliar software used by the University of Central Floria, will also be discontinued after a petition with 1,200 signatures was passed.
-
-No matter what type of remote-testing software is used and in which university the petition was given, the main concern is the same. Students, teachers and even parents are worried about security and privacy.
-
-Proctorio's feature which lets professors record their students through webcams is problematic enough, let alone having access to the computer activities of the students. And also, since students are now taking classes at home through their webcams, the software can record parts of the students' home.
-
-Aside from privacy, discrimination is another factor that made students ask for the end of the software. Proctorio, in particular, can't propery identify the students because it can't properly recognized dark skined students.
-
-This issue can lead to confusion in the university, and it is obvious that the software is built for lighter skined individuals. Students with darker skin tones are in danger of being falsely accused of cheating because of the software's failure to recorgnize them.
-
-Despite the study and evidence shown, Proctorio denied that the software discriminates individuals who use it. The company claims that lighting, the position of the webcam and the quality of the webcam are the only factors why it won't work, and it has nothing to do with a person's skin tone.
-
-Because of the dangers that it imposes, there are now movements to ban these types of softwares, according to DailyCal.org. Those who are part of the movement states that cheating during an examination is not a threat to society and that there is no need to invade the privacy of students who are trying to get a degree.
-
-Related Article: Albion College Under Fire Over 'Flawed' COVID Tracking App That Offers No Way to Opt Out
-
-ⓒ 2024 TECHTIMES.com All rights reserved. Do not reproduce without permission.. Proctorio, a piece of exam surveillance software designed to keep students from cheating while taking tests, relies on open-source software that has a history of racial bias issues, according to a report by Motherboard. The issue was discovered by a student who figured out how the software did facial detection, and discovered that it fails to recognize black faces over half the time.
-
-The software failed to recognize black faces more than half the time
-
-After anecdotally hearing about these issues, Lucy Satheesan decided to look into the facial detection methods that the software was using. She discovered that it looked and performed identically to OpenCV, an open-source computer vision program that can be used to recognize faces (which has had issues with racial bias in the past). After learning this, she ran tests using OpenCV and a data set designed to validate how well machine vision algorithms deal with diverse faces. According to her second blog post, the results were not good.
-
-The results testing the software Proctorio relies on were not good. Graph: Lucy Satheesan, ProctorNinja
-
-Not only did the software fail to recognize black faces more than half the time, it wasn’t particularly good at recognizing faces of any ethnicity — the highest hit rate was under 75 percent. In its report, Motherboard contacted a security researcher, who was able to validate both Satheesan’s results and analysis. Proctorio itself also confirms that it uses OpenCV on its licenses page, though it doesn't go into detail about how.
-
-In a statement to Motherboard, a Proctorio spokesperson said that Satheesan’s tests prove that the software only looks to detect faces, not recognize the identities associated with them. Well that may be a (small) comfort for students who may rightly be worried about privacy issues related to proctoring software, it doesn't address the accusations of racial bias at all.
-
-This isn’t the first time Proctorio has been called out for failing to recognize diverse faces: the issues that it caused students of color were cited by one university as a reason why it would not renew its contract with the company. Senator Richard Blumenthal (D-CT) even called out the company when talking about bias in proctoring software.. My name is Ian Linkletter. Today is October 16th, 2020. I have filed legal documents in the B.C. Supreme Court to defend myself against a lawsuit filed by a company called Proctorio Incorporated. You may read these filings at http://defence.linkletter.org . I need financial support to continue this fight.
-
-
-
-
-
-
-
-Proctorio makes academic surveillance software. I call it “academic surveillance software” because that’s exactly what it does. It watches and records students as they take exams online. It uses secret algorithms to track so-called “abnormalities” and then reports the “suspicion level” for every student to their professor.
-
-
-
-As colleges and universities move online during the COVID-19 pandemic, many students have been required to use this software. In dozens of petitions from around the world, students are saying that academic surveillance software is harmful. Students have very valid concerns and should be heard.
-
-
-
-I have also been vocal with my criticism of Proctorio, and they have noticed. In August, I wrote seven tweets with links to YouTube videos about Proctorio. When Proctorio disabled the videos, I wrote another tweet pointing out how they deleted them. For these eight tweets, Proctorio has sued me, claiming I infringed their copyright and distributed "confidential" material.
-
-
-
-This kind of lawsuit, in which a company like Proctorio sues an outspoken critic like me, is sometimes referred to as a Strategic Lawsuit Against Public Participation (or "SLAPP"). SLAPP lawsuits are a threat to freedom of expression. The Protection of Public Participation Act gives every British Columbian a streamlined legal process for getting these lawsuits dismissed.
-
-
-
-That is what I am now set to do, with your help. Fighting this lawsuit for over a month has cost my wife and I tens of thousands of dollars so far - more than the goal of this campaign. I am all in and at peace with that decision. However, my legal costs continue to grow. This crowdfunding campaign will help with the balance.
-
-
-
-I am represented by Joseph Arvay Q.C. and John Trueman of Arvay Finlay, LLP. The legal documents they filed today in the B.C. Supreme Court are now available at http://defence.linkletter.org . These documents provide a fulsome account of my defence to the lawsuit and my application to have it dismissed as a SLAPP case.
-
-
-
-Please read what we've filed and consider standing with me by donating to my legal defence fund.
-
-
-
-If we succeed and this SLAPP suit is dismissed, Proctorio may be ordered to pay full indemnity legal costs. This is special to the Protection of Public Participation Act. If we fully succeed in defeating Proctorio's SLAPP, they'll pay for it.
-
-
-
-If Proctorio is ordered to pay for my legal defence, what happens to your contribution? It pays forward.
-
-
-
-if our application is successful and Proctorio is ordered to pay full indemnity legal costs, the entire proceeds from this campaign will be donated to the BCCLA (British Columbia Civil Liberties Association). This donation will sustain the important work the BCCLA does to promote, defend, sustain, and extend civil liberties and human rights. Most importantly, it will send a message to litigious corporations that British Columbians will not stand for SLAPPs.. EFF client Erik Johnson, a Miami University computer engineering undergraduate, reached a settlement in the lawsuit we brought on his behalf against exam surveillance software maker Proctorio, in a victory for fair use of copyrighted material and people’s right to fight back against bad faith Digital Millennium Copyright Act (DMCA) takedowns used to silence critics.[1]
-
-Johnson, who is also a security researcher, sued Proctorio a year ago after it misused the copyright takedown provisions of the DMCA to remove his posts. Proctorio had gone after a series of tweets Johnson published critiquing Proctorio that linked to short excerpts of its software code and a screenshot of a video illustrating how the software captures images of students’ rooms that are accessible to teachers and potentially Proctorio’s agents. Johnson’s lawsuit asked the court to rule that his posts were protected by the fair use doctrine and hold Proctorio responsible for submitting takedown notices in bad faith.
-
-Under the settlement, Proctorio dropped its copyright claim and other claims it had filed blaming Johnson’s advocacy for damaging its reputation and interfering with its business. In return, Johnson dropped his claims against Proctorio. Johnson’s tweets, which were restored by Twitter through the DMCA’s counter-notice process, will remain up.
-
-Proctoring apps like Proctorio’s are privacy-invasive software that “watches” students using tools like face detection for supposed signs of cheating as they take tests or complete schoolwork. Their use skyrocketed during the pandemic, leading privacy advocates and students to protest this new kind of surveillance. Johnson, whose instructors use Proctorio, was concerned about how much private information the software could collect from students’ computers and used his skills as a security researcher to examine its functions.
-
-Shining a light on how the software worked rankled Proctorio, but it did not infringe on the company’s copyrights. As we said when we brought the lawsuit, using pieces of code to explain your research or support critical commentary is no different from quoting a book in a book review.
-
-DMCA abuse is not new. Bogus copyright complaints have threatened all kinds of creative expression, opinions, and speech on the Internet. Recipients of bogus takedown notices can fight back because DMCA provisions allow users to challenge improper takedowns through counter-notices and sue for damages when infringement notices are submitted in bad faith.
-
-Unfortunately, not everyone has the resources to take on big business interests that use the DMCA to bully and retaliate against critics, as was the case here. All kinds of fair use, non-infringing content is removed, further emboldening rightsholders to abuse the DMCA’s censorship power.
-
-In this case, Johnson fought back, with our help.
-
-Falsely accusing researchers, creators, or a parent who posted a cute video of their child dancing is seriously wrong, especially when the goal is plainly to intimidate and undermine. We hope this case shows that people will fight back if they can and deters other rightsholders from using bogus DMCA claims to harass their critics.
-
-[1] This post has been updated to revise descriptions of Proctorio's software and the claims against Johnson that were dismisssed, and incorporates stylistic changes and additional details throughout.. The University of Illinois at Urbana-Champaign said last week that it does not plan to renew its emergency contract with Proctorio, one of several online proctoring programs whose client bases have expanded during the pandemic but which remain controversial among students and professors alike.
+The University of Illinois at Urbana-Champaign said last week that it does not plan to renew its emergency contract with Proctorio, one of several online proctoring programs whose client bases have expanded during the pandemic but which remain controversial among students and professors alike.
 
 The university began using Proctorio last spring, in response to the rapid shift to online instruction. It will not renew the contract past this summer. In a memo to faculty members announcing the decision, university administrators cited the “significant accessibility concerns” associated with Proctorio, along with other worries about privacy, data security and equity.
 
@@ -170,56 +46,78 @@ Elbanna said his own COVID-era students have been completing take-home, open-boo
 
 All in all, he said, “this was a win-win situation. It encouraged the students to work through the problems on their own, under less stressful circumstances, and also enabled me to know the students better and help them find their mistakes and correct them.”
 
-“I am glad that the university had cut ties with Proctorio,” he added. “I believe we can always find better ways, as humans, to grow together through hard times.”. Updated A committee at the University of Texas in Austin has advised against using AI software to oversee students' online tests, citing the psychological toll on students and the financial toll on academic institutions.
+“I am glad that the university had cut ties with Proctorio,” he added. “I believe we can always find better ways, as humans, to grow together through hard times.”. Proctorio, a piece of exam surveillance software designed to keep students from cheating while taking tests, relies on open-source software that has a history of racial bias issues, according to a report by Motherboard. The issue was discovered by a student who figured out how the software did facial detection, and discovered that it fails to recognize black faces over half the time.
 
-Acknowledging that some form of online proctoring is necessary to discourage academic misconduct, the committee concluded, "we strongly recommend against the use of AI-based software like Proctorio and ProctorU."
+The software failed to recognize black faces more than half the time
 
-The Report of the Academic Integrity Committee about Online Testing and Assessment, spotted by Megan Menchaca, education reporter for the Austin-American Statesman, is said to have been included in a university official's recent message to faculty.
+After anecdotally hearing about these issues, Lucy Satheesan decided to look into the facial detection methods that the software was using. She discovered that it looked and performed identically to OpenCV, an open-source computer vision program that can be used to recognize faces (which has had issues with racial bias in the past). After learning this, she ran tests using OpenCV and a data set designed to validate how well machine vision algorithms deal with diverse faces. According to her second blog post, the results were not good.
 
-AI-based software to watch over remote students as they take online tests – "academic surveillance software" to detractors – has flourished during the COVID-19 pandemic. Large numbers of students have been studying remotely and schools believe they need a way to prevent cheating.
+The results testing the software Proctorio relies on were not good. Graph: Lucy Satheesan, ProctorNinja
 
-But the software that's been deployed has been widely criticized by students and privacy advocates. The concern centers around the inability to audit the software source code and the possibility that these systems rely on flawed algorithms and biased or arbitrary signals to label students cheaters.
+Not only did the software fail to recognize black faces more than half the time, it wasn’t particularly good at recognizing faces of any ethnicity — the highest hit rate was under 75 percent. In its report, Motherboard contacted a security researcher, who was able to validate both Satheesan’s results and analysis. Proctorio itself also confirms that it uses OpenCV on its licenses page, though it doesn't go into detail about how.
 
-Critics also worry that the software can't account for varied student living conditions and is vulnerable to racial bias – eg, motion tracking that produces different results with different skin tones – and cognitive bias such as gaze tracking that flags ADHD behaviors as suspicious.
+In a statement to Motherboard, a Proctorio spokesperson said that Satheesan’s tests prove that the software only looks to detect faces, not recognize the identities associated with them. Well that may be a (small) comfort for students who may rightly be worried about privacy issues related to proctoring software, it doesn't address the accusations of racial bias at all.
 
-Such criticism last year led UC Berkeley [PDF] and Baruch College in New York to stop using remote proctoring products. In February, the University of Illinois at Urbana-Champaign said it will drop Proctorio after this summer due to "significant accessibility concerns."
+This isn’t the first time Proctorio has been called out for failing to recognize diverse faces: the issues that it caused students of color were cited by one university as a reason why it would not renew its contract with the company. Senator Richard Blumenthal (D-CT) even called out the company when talking about bias in proctoring software.. EFF client Erik Johnson, a Miami University computer engineering undergraduate, reached a settlement in the lawsuit we brought on his behalf against exam surveillance software maker Proctorio, in a victory for fair use of copyrighted material and people’s right to fight back against bad faith Digital Millennium Copyright Act (DMCA) takedowns used to silence critics.[1]
 
-When in doubt, sue
+Johnson, who is also a security researcher, sued Proctorio a year ago after it misused the copyright takedown provisions of the DMCA to remove his posts. Proctorio had gone after a series of tweets Johnson published critiquing Proctorio that linked to short excerpts of its software code and a screenshot of a video illustrating how the software captures images of students’ rooms that are accessible to teachers and potentially Proctorio’s agents. Johnson’s lawsuit asked the court to rule that his posts were protected by the fair use doctrine and hold Proctorio responsible for submitting takedown notices in bad faith.
 
-Amid this backlash, proctoring software maker Proctorio sued critics, alleging last year that Ian Linkletter, a learning technology specialist at the University of British Columbia (UBC) in Vancouver, Canada, violated US copyright law by linking to the company's publicly viewable videos. That case remains ongoing in Canada, and has forced Linkletter to appeal for funds to defend himself through the costly legal process.
+Under the settlement, Proctorio dropped its copyright claim and other claims it had filed blaming Johnson’s advocacy for damaging its reputation and interfering with its business. In return, Johnson dropped his claims against Proctorio. Johnson’s tweets, which were restored by Twitter through the DMCA’s counter-notice process, will remain up.
 
-Proctorio also last year filed a Digital Millennium Copyright Act (DMCA) takedown complaint against Miami University computer science student Erik Johnson seeking the removal of posts on Twitter that were critical of the company. Twitter removed the posts and later restored them.
+Proctoring apps like Proctorio’s are privacy-invasive software that “watches” students using tools like face detection for supposed signs of cheating as they take tests or complete schoolwork. Their use skyrocketed during the pandemic, leading privacy advocates and students to protest this new kind of surveillance. Johnson, whose instructors use Proctorio, was concerned about how much private information the software could collect from students’ computers and used his skills as a security researcher to examine its functions.
 
-The firm's legal crusade prompted pushback from the Electronic Frontier Foundation, which said the company should not be able "to abuse copyright law to undermine their critics."
+Shining a light on how the software worked rankled Proctorio, but it did not infringe on the company’s copyrights. As we said when we brought the lawsuit, using pieces of code to explain your research or support critical commentary is no different from quoting a book in a book review.
 
-The UT Austin committee began working on its report after student councils in the spring of 2021 asked the university to get rid of AI proctoring software, which was used widely during the 2020-2021 academic year.
+DMCA abuse is not new. Bogus copyright complaints have threatened all kinds of creative expression, opinions, and speech on the Internet. Recipients of bogus takedown notices can fight back because DMCA provisions allow users to challenge improper takedowns through counter-notices and sue for damages when infringement notices are submitted in bad faith.
 
-The committee asked student leaders and faculty to provide information about how the software was employed and decided that it just wasn't worth it.
+Unfortunately, not everyone has the resources to take on big business interests that use the DMCA to bully and retaliate against critics, as was the case here. All kinds of fair use, non-infringing content is removed, further emboldening rightsholders to abuse the DMCA’s censorship power.
 
-"The invasive nature of the tools as well as the warnings that the tools may send to the screen during the exam cause high levels of anxiety," the report says.
+In this case, Johnson fought back, with our help.
 
-"Although these tools were used extensively by faculty in academic year 2020-2021, only 27 cases were referred to the Student Conduct and Academic Integrity office as potential violations of academic integrity, and of these only 13 were upheld. Thus, the psychological (and financial) costs of the tool do not seem to be worth the small benefit of using it."
+Falsely accusing researchers, creators, or a parent who posted a cute video of their child dancing is seriously wrong, especially when the goal is plainly to intimidate and undermine. We hope this case shows that people will fight back if they can and deters other rightsholders from using bogus DMCA claims to harass their critics.
 
-Trust the teachers
+[1] This post has been updated to revise descriptions of Proctorio's software and the claims against Johnson that were dismisssed, and incorporates stylistic changes and additional details throughout.. My name is Ian Linkletter. Today is October 16th, 2020. I have filed legal documents in the B.C. Supreme Court to defend myself against a lawsuit filed by a company called Proctorio Incorporated. You may read these filings at http://defence.linkletter.org . I need financial support to continue this fight.
 
-The report goes on to suggest alternative methods of watching over students during tests, such as Zoom for small groups, and other academic software like Canvas Quizzes, Gradescope, and Panopto. It also recommends that instructors consider rethinking how they assess student progress in order to reduce online test anxiety.
 
-The University of Texas at Austin, Proctorio, and ProctorU did not respond to requests for comment.
 
-In an email to The Register, Linkletter – still awaiting a ruling on his effort to dismiss Proctorio's copyright complaint under Canada's anti-SLAPP statute, the Protection of Public Participation Act – said what stands out to him from the UT Austin report is the finding that Proctorio just isn't worth it.
 
-"Every institution should be taking a hard look at whether Proctorio is worth the 'psychological cost' mentioned in the report, let alone the expense," he said.
 
-"Over half of the 27 students accused had their academic integrity cases tossed. Thousands of students were surveilled, at great expense, for what? How much faculty and staff time was wasted? How much unnecessary heartbreak caused?
 
-"Students understand that surveillance is wrong. They know how the technology works. There is no technical explanation that will reduce the harm being done – it simply needs to stop.
 
-"The only way institutions can demonstrate they are listening to students is to stop using academic surveillance software." ®
+Proctorio makes academic surveillance software. I call it “academic surveillance software” because that’s exactly what it does. It watches and records students as they take exams online. It uses secret algorithms to track so-called “abnormalities” and then reports the “suspicion level” for every student to their professor.
 
-Updated to add
 
-In a statement emailed to The Register Jarrod Morgan, Chief Strategy Officer of Meazure Learning, the parent company of ProctorU, took issue with the UT report and said that his firm gave up on AI proctoring several months ago.
 
-“After our decision and announcement earlier this year to discontinue all Al-only exam monitoring, every single exam from every single test-taker using ProctorU is reviewed by a trained, live proctor,” said Morgan.
+As colleges and universities move online during the COVID-19 pandemic, many students have been required to use this software. In dozens of petitions from around the world, students are saying that academic surveillance software is harmful. Students have very valid concerns and should be heard.
 
-“As ProctorU announced at the time, it’s only proctoring if a human does it and, more importantly, it’s the only way to be sure the process is accurate, fair and consistent. Some exam monitoring companies may rely on AI software to monitor exams and score students, ProctorU is not one of them and it is important to understand the differences between true proctoring with a trained live proctor and the less-expensive and in our opinion, unacceptable option of ‘monitoring’ software such as that offered by Proctorio.”
+
+
+I have also been vocal with my criticism of Proctorio, and they have noticed. In August, I wrote seven tweets with links to YouTube videos about Proctorio. When Proctorio disabled the videos, I wrote another tweet pointing out how they deleted them. For these eight tweets, Proctorio has sued me, claiming I infringed their copyright and distributed "confidential" material.
+
+
+
+This kind of lawsuit, in which a company like Proctorio sues an outspoken critic like me, is sometimes referred to as a Strategic Lawsuit Against Public Participation (or "SLAPP"). SLAPP lawsuits are a threat to freedom of expression. The Protection of Public Participation Act gives every British Columbian a streamlined legal process for getting these lawsuits dismissed.
+
+
+
+That is what I am now set to do, with your help. Fighting this lawsuit for over a month has cost my wife and I tens of thousands of dollars so far - more than the goal of this campaign. I am all in and at peace with that decision. However, my legal costs continue to grow. This crowdfunding campaign will help with the balance.
+
+
+
+I am represented by Joseph Arvay Q.C. and John Trueman of Arvay Finlay, LLP. The legal documents they filed today in the B.C. Supreme Court are now available at http://defence.linkletter.org . These documents provide a fulsome account of my defence to the lawsuit and my application to have it dismissed as a SLAPP case.
+
+
+
+Please read what we've filed and consider standing with me by donating to my legal defence fund.
+
+
+
+If we succeed and this SLAPP suit is dismissed, Proctorio may be ordered to pay full indemnity legal costs. This is special to the Protection of Public Participation Act. If we fully succeed in defeating Proctorio's SLAPP, they'll pay for it.
+
+
+
+If Proctorio is ordered to pay for my legal defence, what happens to your contribution? It pays forward.
+
+
+
+if our application is successful and Proctorio is ordered to pay full indemnity legal costs, the entire proceeds from this campaign will be donated to the BCCLA (British Columbia Civil Liberties Association). This donation will sustain the important work the BCCLA does to promote, defend, sustain, and extend civil liberties and human rights. Most importantly, it will send a message to litigious corporations that British Columbians will not stand for SLAPPs.

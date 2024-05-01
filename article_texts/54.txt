@@ -1,454 +1,4 @@
-Gabriel Dance Mark Hansen
-
-
-
-Additional production by Andy Rossback Graphics byandAdditional production by
-
-Just over a year after Michael Brown’s death became a focal point for a national debate about policing and race, Ferguson and nearby St. Louis suburbs have returned to what looks, from the outside, like a kind of normalcy. Near the Canfield Green apartments, where Brown was shot by police officer Darren Wilson, a sign reading “Hands Up Don’t Shoot” and a mountain of teddy bears have been cleared away. The McDonald’s on West Florissant Avenue, where protesters nursed rubber bullet wounds and escaped tear gas, is now just another McDonald’s.
-
-This story was produced in collaboration with
-
-Half a mile down the road in the city of Jennings, between the China King restaurant and a Cricket cell phone outlet, sits an empty room that the St. Louis County Police Department keeps as a substation. During the protests, it was a war room, where law enforcement leaders planned their responses to the chaos outside.
-
-One day last December, a few Jennings police officers flicked on the substation’s fluorescent lights and gathered around a big table to eat sandwiches. The conversation drifted between the afternoon shift’s mundane roll of stops, searches, and arrests, and the day’s main excitement: the officers were trying out a new software program called HunchLab, which crunches vast amounts of data to help predict where crime will happen next.
-
-The conversation also turned to the grand anxieties of post-Ferguson policing. “Nobody wants to be the next Darren Wilson,” Officer Trevor Voss told me. They didn’t personally know Wilson. Police jurisdiction in St. Louis is notoriously labyrinthine and includes dozens of small, local municipal agencies like the Ferguson Police Department, where Wilson worked — munis, the officers call them — and the St. Louis County Police Department, which patrols areas not covered by the munis and helps with “resource intense events,” like the protests in Ferguson. The munis have been the targets of severe criticism; in the aftermath 2014's protests, Ferguson police were accused by the federal Department of Justice of being racially discriminatory and poorly trained, more concerned with handing out tickets to fund municipal coffers than with public safety.
-
-The officers in Jennings work for the St. Louis County Police Department; in 2014, their colleagues appeared on national TV, pointing sniper rifles at protesters from armored trucks. Since then, the agency has also been called out by the Justice Department for, among other things, its lack of engagement with the community.
-
-ST. LOUIS COUNTY HUNCHLAB CRIME MAP ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD FLORISSANT St. Louis 70 ST CHARLES BALLWIN KIRKWOOD 270 FERGUSON FENTON JENNINGS MEHLVILLE Mississippi River MARYLAND HEIGHTS 64 St. Louis CHESTERFIELD 5 miles CREVE COEUR CLAYTON ST. LOUIS COUNTY POLICE DEPARTMENT JURISIDICTION BALLWIN WILDWOOD ST CHARLES KIRKWOOD FLORISSANT 55 FERGUSON JENNINGS FENTON Mississippi River CHESTERFIELD 255 St. Louis MEHLVILLE 44 BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles 5 miles ST. LOUIS COUNTY POLICE JURISIDICTION ST. LOUIS COUNTY ST CHARLES FLORISSANT FLORISSANT FERGUSON FERGUSON JENNINGS JENNINGS Mississippi River Mississippi River CHESTERFIELD CHESTERFIELD St. Louis St. Louis BALLWIN BALLWIN FENTON FENTON MEHLVILLE MEHLVILLE 5 miles 5 miles HUNCHLAB CRIME MAP ST CHARLES FLORISSANT 70 FERGUSON 270 JENNINGS 64 Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD 55 255 FENTON MEHLVILLE 44 5 miles ST. LOUIS COUNTY ST CHARLES FLORISSANT 70 FERGUSON 270 JENNINGS 64 Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD 55 255 FENTON MEHLVILLE 44 5 miles ST. LOUIS COUNTY POLICE JURISIDICTION ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles HUNCHLAB CRIME MAP ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles
-
-Still, the county police enjoy a better local reputation than the munis. Over the last five years, Jennings precinct commander Jeff Fuesting has tried to improve relations between officers — nearly all white — and residents — nearly all black — by going door to door for “Walk and Talks.” Fuesting had expressed interest in predictive policing years before, so when the department heads brought in HunchLab, they asked his precinct to roll it out first. They believed that data could help their officers police better and more objectively. By identifying and aggressively patrolling “hot spots,” as determined by the software, the police wanted to deter crime before it ever happened.
-
-HunchLab, produced by Philadelphia-based startup Azavea, represents the newest iteration of predictive policing, a method of analyzing crime data and identifying patterns that may repeat into the future. HunchLab primarily surveys past crimes, but also digs into dozens of other factors like population density; census data; the locations of bars, churches, schools, and transportation hubs; schedules for home games — even moon phases. Some of the correlations it uncovers are obvious, like less crime on cold days. Others are more mysterious: rates of aggravated assault in Chicago have decreased on windier days, while cars in Philadelphia were stolen more often when parked near schools.
-
-What Is Predictive Policing?
-
-At the same time, a growing chorus of activists and academics worry that the reliance on data is a sign that police departments have not adequately heeded the lessons of Ferguson. Kade Crockford, the director of the Technology for Liberty program at the Massachusetts ACLU, says that predictive policing is based on “data from a society that has not reckoned with its past,” adding “a veneer of technological authority” to policing practices that still disproportionately target young black men. In other cities, some police departments are even moving toward predicting which people, rather than which places, are most crime-prone.
-
-“At a time when communities are crying out for justice,” Crockford told me, “I never heard anyone in one of these communities say, ‘I think police need to use more computers!’”
-
-Predicting crime has always been part of police work; any beat cop can tell you that a particularly dark street corner is vulnerable to carjackers, or a large parking lot offers anonymity for drug dealers. Scholars have been mapping crime since the 1800s, but during New York City’s crime spike in the 1990s, police officers started doing so systematically. Most notable among them was Jack Maple, a quick-talking, up-from-the-bottom transit cop who wore double-breasted suits, homburg hats, and two-tone shoes and has become a near-mythic figure in police circles. At the NYPD’s Manhattan headquarters, Maple would stretch out butcher paper across 55 feet of wall space. "I called them the Charts of the Future," he once told an interviewer. “I mapped every train station in New York City and every train. Then I used crayons to mark every violent crime, robbery, and grand larceny that occurred.”
-
-Maple’s boss, Police Commissioner Bill Bratton, sent officers to patrol the areas Maple marked up. The process evolved into an entire system of police management called CompStat, which uses data to hold individual precinct commanders accountable for the crime levels in their areas. In varying forms, “hot-spot policing” has spread throughout the nation’s police departments. Bratton calls it “computerized fishing.”
-
-Homicide Aggravated Assault GUN CRIME R0bbery ST CHARLES ST CHARLES FLORISSANT FLORISSANT SIMPLE ASSAULT FERGUSON FERGUSON JENNINGS JENNINGS GUN CRIMES Mississippi River Mississippi River CHESTERFIELD CHESTERFIELD aggrAvated assault St. Louis St. Louis Drunk driving BALLWIN BALLWIN KIRKWOOD KIRKWOOD VEHICLE ACCIDENT FENTON FENTON MEHLVILLE MEHLVILLE TRESPASSING burglary 5 miles 5 miles larceny Time Location Last Occurrence Aggravated assault (assault with a dangerous weapon) makes up 18.5 percent of the overall risk score assigned to a cell. The darkest regions on this map represent cells with a 1 in 320 chance of at least one aggravated assault taking place there during the shift. Gun crime (all homicides, robberies, and aggravated assaults with a firearm) makes up about 16.5 percent of the overall risk score. The darkest regions represent a 1 in 850 chance of at least one gun crime taking place. DRIVING WHILE INTOXICATED TRESPASSING HOMICIDE ST CHARLES ST CHARLES FLORISSANT FLORISSANT FLORISSANT ST CHARLES FERGUSON FERGUSON FERGUSON JENNINGS JENNINGS JENNINGS Mississippi River Mississippi River Mississippi River CHESTERFIELD CHESTERFIELD CHESTERFIELD St. Louis St. Louis St. Louis BALLWIN BALLWIN BALLWIN KIRKWOOD KIRKWOOD KIRKWOOD FENTON FENTON FENTON MEHLVILLE MEHLVILLE MEHLVILLE 5 miles 5 miles 5 miles Driving while intoxicated makes up 10 percent of the total risk score. The darkest regions represent a 1 in 1,300 chance of at least one DWI taking place. Trespassing makes up about 10 percent of the total risk score. The darkest regions represent cells a 1.7 percent chance of at least one act of trespassing taking place. Homicides make up 0.66 percent of the total risk score assigned to a cell. The two darkest cells on this map present a 3 percent chance of at least one homicide taking place. Homicide R0bbery SIMPLE ASSAULT GUN CRIMES aggrAvated assault Drunk driving VEHICLE ACCIDENT TRESPASSING burglary larceny Time Location Last Occurrence Aggravated Assault ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Aggravated assault (assault with a dangerous weapon) makes up 18.5 percent of the overall risk score assigned to a cell. The darkest regions on this map represent cells with a 1 in 320 chance of at least one aggravated assault taking place there during the shift. GUN CRIME ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Gun crime (all homicides, robberies, and aggravated assaults with a firearm) makes up about 16.5 percent of the overall risk score. The darkest regions represent a 1 in 850 chance of at least one gun crime taking place. DRIVING WHILE INTOXICATED FLORISSANT ST CHARLES FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Driving while intoxicated makes up 10 percent of the total risk score. The darkest regions represent a 1 in 1,300 chance of at least one DWI taking place. TRESPASSING ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Trespassing makes up about 10 percent of the total risk score. The darkest regions represent cells a 1.7 percent chance of at least one act of trespassing taking place. HOMICIDE ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Homicides make up 0.66 percent of the total risk score assigned to a cell. The two darkest cells on this map present a 3 percent chance of at least one homicide taking place. Homicide R0bbery SIMPLE ASSAULT GUN CRIMES aggrAvated assault Drunk driving VEHICLE ACCIDENT TRESPASSING burglary larceny Time Location Last Occurrence Aggravated Assault ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Aggravated assault (assault with a dangerous weapon) makes up 18.5 percent of the overall risk score assigned to a cell. The darkest regions on this map represent cells with a 1 in 320 chance of at least one aggravated assault taking place there during the shift. GUN CRIME ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Gun crime (all homicides, robberies, and aggravated assaults with a firearm) makes up about 16.5 percent of the overall risk score. The darkest regions represent a 1 in 850 chance of at least one gun crime taking place. DRIVING WHILE INTOXICATED FLORISSANT ST CHARLES FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Driving while intoxicated makes up 10 percent of the total risk score. The darkest regions represent a 1 in 1,300 chance of at least one DWI taking place. TRESPASSING ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Trespassing makes up about 10 percent of the total risk score. The darkest regions represent cells a 1.7 percent chance of at least one act of trespassing taking place. HOMICIDE ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Homicides make up 0.66 percent of the total risk score assigned to a cell. The two darkest cells on this map present a 3 percent chance of at least one homicide taking place.
-
-“Cops-on-dots,” as it’s sometimes known, has often been associated with Bratton’s other major legacy, “Broken Windows,” in which police target low-level offenses like graffiti and public drinking, creating a sense of public order that is believed to deter more serious crimes. Such tactics have been credited with helping bring down crime rates, but they have also contributed to the aggressive targeting — and stopping and searching — of black people, fostering resentment of police in many communities.
-
-St. Louis officials had been using data to send police to patrol hot spots since 2009; today the city holds weekly meetings for commanders to discuss why certain crimes keep hitting certain places, and how to address it. When one precinct captain noticed a lot of robberies of appliances from houses under construction, officers were instructed to keep track of building schedules. In agencies across the country, the more commanders looked at the data, the more timely their responses to that data could be, and crime analysis started edging toward real time. The dream was to go beyond the present.
-
-Throughout the criminal justice system, a faith in data’s ability to improve upon human judgment has led judges, prosecutors, and other officials in recent years to embrace tools that address the future; many use “risk assessments” of defendants — which involve questionnaires about demographics, family, and personal history — in sentencing decisions. The White House has asked Silicon Valley companies if they can develop algorithms to predict which people are likely to become “radicalized.”
-
-In the summer of 2014, a couple of months before Ferguson erupted, St. Louis County Police Chief Jon Belmar returned from a conference of police leaders in Boston, where he had been impressed by presentations from mathematicians and data analysts. He told his aide, Sgt. Colby Dolly, that he wanted their department to join dozens of cities already using predictive policing software.
-
-As Dolly studied the predictive policing market, he found it was crowded with competitors. Since 2009, the National Institute of Justice had been funding research into crime prediction, transforming the field into big business. IBM, Hitachi, and Lexis had all begun to offer ways to predict crime through data.
-
-The leader in the field is PredPol, a company that grew out of a team of researchers and officers working under Bratton during the chief’s mid-2000s stint in Los Angeles. PredPol’s algorithms digest years of data on crime locations, times, and types, spitting out the spots most likely to be hit by crime again. After using PredPol for four months, police in the Foothill Division in the San Fernando Valley claimed that property crime dropped 13 percent, while in the rest of the city, it rose by 0.4 percent. PredPol has received millions in venture capital funding and is now used by more than 50 police agencies in the US and UK.
-
-But Dolly was attracted by Azavea’s ability to analyze the impact of businesses, churches, and weather patterns on criminal activity. It was also cheaper: Azavea quoted around $50,000 for a year of HunchLab, where PredPol was asking for roughly $200,000.
-
-Azavea’s employees have a Silicon Valley ebullience — their website mentions “ping pong tournaments, team runs, hackathons,” and “chess matches over lunch” — but they do not share the tech industry’s talk of “disruption.” Their rhetoric is civic-minded; the company’s other projects include tools to analyze legislative districts, as well as an app that helps city residents map the locations of trees in order to study their environmental impact.
-
-As predictive policing has spread, researchers and police officers have begun exploring how it might contribute to a version of policing that downplays patrolling — as well as stopping, questioning, and frisking — and focuses more on root causes of particular crimes. Rutgers University researchers specializing in “risk terrain modeling” have been using analysis similar to HunchLab to work with police on “intervention strategies.” In one Northeast city, they have enlisted city officials to board up vacant properties linked to higher rates of violent crime, and to advertise after-school programming to kids who tend to gather near bodegas in high-risk areas.
-
-A Day of Potential Robberies The shifting risk of robberies over the course of 24 hours in December. The darkest regions on this map represent areas with the highest risk of a robbery taking place. Source: HunchLab
-
-Dolly was not opposed to examining and addressing the causes of crime, but the department was still focused on patrolling. He hoped using HunchLab might improve relations with the community by reducing the frequency with which police had to aggressively sweep an area in the wake of a crime. “You can only go so far in enforcing or arresting your way out of crime issues,” he said. “This is a way to combat crime that should have minimal impact on the community.”
-
-In order to sidestep concerns about racially disproportionate policing, Dolly asked HunchLab to only predict the kinds of serious felonies that result in 911 calls, and not low-level crimes like drug possession. He asked the analysts to produce two boxes for every patrol area — no matter how wealthy or poor, black or white — showing two areas at the highest risk of crime for every 8-hour shift. But Dolly also recognized the fundamental limitation of the tool — it was “telling you where to go,” he said. “It’s not telling you what to do.”
-
-A few hours before police officers in Jennings started their afternoon patrol, Dolly sat down at his computer at police headquarters. He logged into the HunchLab website and pulled up a map. The sprawling metropolis was covered in little bright dots. He clicked to zoom in, and the dots grew into transparent boxes, each covering a space roughly half the size of a city block, and each tinted green, orange, red, purple, blue, pink, or yellow. The colors indicated which type of crime was most likely to hit that box: green for larceny, orange for gun crimes, red for aggravated assault.
-
-As Dolly zoomed in on Jennings, he saw two boxes tinted green to indicate a high risk of larceny. He knew this area was one of Jennings’ only commercial districts, so of course there would be a lot of shoplifting. As he panned toward the residential neighborhoods nearby, however, he saw red and orange boxes in areas that looked fairly random. “I’ve been doing police work 16 years,” he said, “and I don’t think you’d be able to isolate locations like this.”
-
-Where Crime Might Strike Jennings, divided into HunchLab squares on the morning of December 15, 2015. The darker the square , the greater the risk that a crime will occur. FERGUSON JENNINGS POPULATION 14,737 MEDIAN HOUSEHOLD INCOME $27,785 POLICE STATION RACIAL MAKEUP BLACK 89.8% WHITE 8.5% HISPANIC 0.6% 1 mile FERGUSON JENNINGS POPULATION 14,737 MEDIAN HOUSEHOLD INCOME $27,785 POLICE STATION RACIAL MAKEUP BLACK 89.8% WHITE 8.5% HISPANIC 0.6% 1 mile FERGUSON JENNINGS POP 14,737 MEDIAN HOUSEHOLD INCOME $27,785 POLICE STATION RACIAL MAKEUP BLACK 89.8% WHITE 8.5% HISPANIC 0.6% 1 mile
-
-Source: U.S. Census Note: HunchLab does not make predictions for squares containing police stations or hospitals as the incidents reported at these places may include inaccurate locations.Source: HunchLab
-
-A few hours later, Thomas Keener arrived for his afternoon shift, checked his gun, got into his squad car, and pulled up the same map. Ten hours a day, four days a week, Keener’s primary job is to answer 911 calls and provide backup to other officers. When calls don’t come in, he patrols. Keener, 27, grew up in southern Missouri and graduated from the police academy six years ago. He is unfailingly polite. While his peers wear short sleeves, he chooses a long-sleeve khaki uniform and a dark brown tie, a formal get-up that, coupled with his buzzed hair, accentuates his boyishness.
-
-When Keener began his shift, he headed toward the boxes HunchLab deemed to be high-risk. Like Dolly, he immediately registered that a green larceny box was over an area that contained a couple of dollar stores where he has caught people running out with stolen goods. He pointed out common escape routes. “See how it’s easy to disappear over there?” Even without HunchLab, he would have probably gone to the area. In other cities where HunchLab has been used, police officers are often unsurprised by the locations of the boxes — police in Lincoln, Nebraska, started experimenting with the software in 2014 but have found it mostly tells them what they already know. “When I look at the HunchLab maps,” said former police chief Tom Casady, “I say, 'Yep, it got that right!’”
-
-The shift rolled on, and Keener got a series of calls: to help a man who had overdosed, to assist with an arrest at the police station, to help look for some young men in hoodies suspected of a burglary. The day was proving to be a safe one. “I’m going to choose to credit the patrols with that,” Keener said.
-
-Driving through Jennings, it was clear Keener already had a predictive map stored in his brain. He pointed out non-descript yards and houses where he had been called to the scene of homicides, burglaries, and gang shootings.
-
-He continued through particular blocks of residential neighborhoods where HunchLab had placed red and orange boxes to indicate a risk of aggravated assault and gun crime. The streets were lined with crumbling little brick houses. In a few yards, signs reading “We Must Stop Killing Each Other” had been stuck into the dirt.
-
-As Keener drove through the bottom left corner of a HunchLab box — red to indicate a high risk of aggravated assaults — he noticed a white Chevy Impala with a dark window tint, dark enough to merit a traffic ticket.
-
-Keener gunned his motor and flashed his lights. The car slowed to a stop, and Keener walked up to the window. Leaning down, he caught a whiff of marijuana. The young man was black and looked to be in his 20s, with a baseball cap, grey sweatpants, and a tattoo that crept out of his shirt. Keener said, politely but firmly, “I smell what smells like weed to me.”
-
-The man said he smoked earlier, but that there was “nothing in the car.”
-
-Keener decided the smell gave him probable cause for a search. He told the young man to step out, frisked him, and asked him if he had anything “I should know about.” The man said he had a gun. Keener found a black Glock 23 pistol, .40 caliber, under the seat. He took it back to his car, noticing it had no magazine — just a bullet in the pipe. “Pretty big,” Keener said, turning the gun in his hands.
-
-Another police car rolled up behind Keener — a standard call for backup had gone out. Standing between his own car and Keener’s car, the young man stared at the ground, clearly annoyed but also trying not to appear annoyed. When Keener asked about the smell again, he said, “You ask me if I smoke. I smoke, man!”
-
-LOCATION OF STOP ASSIGNED PATROL SQUARE TOP CRIME RISKS 1 AGGRAVATED ASSAULT 2 GUN CRIME 3 BURGLARY 4 LARCENY 5 SIMPLE ASSAULT 250 feet An area in southwest Jennings that HunchLab has identified as having a high risk of aggravated assault. Keener checks the registration of a Glock 23 pistol he found while searching a car near this square. LOCATION OF STOP ASSIGNED PATROL SQUARE TOP CRIME RISKS 1 AGGRAVATED ASSAULT 2 GUN CRIME 3 BURGLARY 4 LARCENY 5 SIMPLE ASSAULT 250 feet An area in southwest Jennings that HunchLab has identified as having a high risk of aggravated assault. Keener checks the registration of a Glock 23 pistol he found while searching a car. LOCATION OF STOP ASSIGNED PATROL SQUARE 250 feet An area in southwest Jennings that HunchLab has identified as having a high risk of aggravated assault. Keener checks the registration of a Glock 23 pistol he found while searching a car.
-
-While the man paced, Keener looked up his name and the gun’s ID number. It didn’t turn up as stolen. It is legal to have a gun in your car in Missouri if you’re over 18 and not a convicted felon. The man had been arrested, but never convicted, for stealing a gun. Keener let him go with a ticket for the window tint.
-
-The Record The best criminal justice reporting from around the web, organized by subject
-
-As the Impala drove off, Keener looked back at the HunchLab map. The stop itself had gone down just outside the aggravated assault square. “He could have been going to shoot somebody,” he said, shrugging. “Or not.”
-
-That HunchLab had sent him to a location where he may or may not have averted illegal activity was, for the moment, tangential; it would not be clear for months whether crime rates in Jennings might be affected by the program.
-
-Research on the impact of predictive policing programs is still in its infancy. Last year, PredPol researchers published a study finding that sending patrol officers to several areas of Los Angeles predicted by their algorithm led to a reduction, on average, of more than four crimes per week in these neighborhoods — twice as efficient as human crime analysts. The researchers said the savings — resulting from not having to investigate and prosecute crimes that otherwise may have happened — could reach $9 million per year.
-
-Jeremy Heffner, the product manager for HunchLab, is careful about making promises; he argues the results will vary based on how a particular police agency uses their analysis. “By having more accurate locations, we amplify the effect a meaningful tactic may have,” Heffner told me, “but you still need a meaningful tactic.” Studies of HunchLab’s effectiveness are underway in several cities, and researchers in Philadelphia are comparing patrolling in marked police cars to sending unmarked cars, which could quickly respond to crime, but might not deter it.
-
-Even with data-driven tools, on-the-ground police work is full of ambiguity and discretion, which makes measuring their impact difficult. Would Keener have stopped the car at all had it not been in a HunchLab box? “It’s all relative,” Keener said. “Probably.” He was careful to point out that being in the box alone was not a good enough reason to stop someone. “Does the data give me grounds to stop just because they’re walking around? No.”
-
-“My son don’t have anything positive to say, so he’d rather not say anything at all,” said the mother of the man whom Keener had stopped. It was a few weeks later, and we were talking by phone — her son had not wanted to be interviewed, and she was too suspicious of the police to put her name in print. “Believe it or not, if you say anything to the press,” she said, the police “will make sure to pull you over and treat you worse.”
-
-The mother and her son have been pulled over a lot, she said, and it often feels as though they are targeted because they’re black. “They give you a reason” — the tinted windows, the marijuana smell — “but then they get to asking you to get out [of the car]. Well, why do I have to get out? Because you said so? All I can go on is it’s because I’m black.”
-
-There are widespread fears among civil liberties advocates that predictive policing will actually worsen relations between police departments and black communities. “It’s a vicious cycle,” said John Chasnoff, program director of the ACLU chapter for Eastern Missouri. “The police say, ‘We’ve gotta send more guys to North County,’ [where Jennings is located] because there have been more arrests there, and then you end up with even more arrests, compounding the racial problem.”
-
-Dolly had tried to mitigate this issue by having HunchLab identify two boxes for every beat, no matter how “high-crime” the area. But to Chasnoff, the entire emphasis on patrolling was misplaced. “I don’t think anyone, in the abstract, has a problem with figuring out where crime is and responding to it,” he said. “But what’s the appropriate response? The assumption is: we predicted crime here, and you send in police. But what if you used that data and sent in resources?”
-
-Many at the top of the county police agree with Chasnoff, and are interested in finding ways to use predictive policing software to address crime through other government resources. “We can’t just have the criminal justice system solve our problems,” Belmar, the St. Louis County police chief, said the morning before Keener’s shift.
-
-Late last year, the department began sending lists of high-crime areas to a nonprofit called Better Family Life, which deploys outreach workers to connect residents with drug treatment and educational programs. In theory, HunchLab could provide even more targeted areas for this organization and others to apply their model of what James Clark, the nonprofit’s vice president, calls “hot-spot resources.”
-
-This has not happened yet. For those who would like to see police change their methods in the wake of Ferguson — and shift toward problem-solving and community relationships rather than patrolling — HunchLab looks like one method of data analysis being swapped for another. It may be more objective and may lead well-meaning police commanders to be more thoughtful about what’s driving crime, but that’s little comfort to the young black men stopped and searched. “It’s another example of the county police selling themselves as more professional,” Chasnoff said, “but maybe it’s just a more professional use of the same bad ideas.”
-
-Throughout his shift, Officer Keener witnessed hints of simmering distrust. At one point, several children danced in the street, which he said was locally understood to be an insult to police. Later on, just outside one of the HunchLab boxes, he drove by a house where, he said, a drug dealer lived. A suspicious-looking rental car was parked outside. As he slowed down and peered out, the car door opened and a woman — black, maybe mid-30s — emerged. She pointed at the police vehicle to someone in the car and scrunched up her face in disgust. Keener turned back toward the dashboard screen and rolled away.. Sgt. Charles Coleman popped out of his police SUV and scanned a trash-strewn street popular with the city's homeless, responding to a crime that hadn't yet happened. It wasn’t a 911 call that brought the Los Angeles Police Department officer to this spot, but a whirring computer crunching years of crime data to arrive at a prediction: An auto theft or burglary would probably occur near here on this particular morning.
-
-Hoping to head it off, Coleman inspected a line of ramshackle RVs used for shelter by the homeless, roused a man sleeping in a pickup truck and tapped on the side of a shack made of plywood and tarps.
-
-“How things going, sweetheart?” he asked a woman who ambled out. Coleman listened sympathetically as she described how she was nearly raped at knifepoint months earlier, saying the area was “really tough” for a woman.
-
-Advertisement
-
-Soon, Coleman was back in his SUV on his way to fight the next pre-crime. Dozens of other LAPD officers were doing the same at other spots, guided by the crime prognostication system known as PredPol.
-
-“Predictive policing” represents a paradigm shift that is sweeping police departments across the country. Law enforcement agencies are increasingly trying to forecast where and when crime will occur, or who might be a perpetrator or a victim, using software that relies on algorithms, the same math Amazon uses to recommend books.
-
-“The hope is the holy grail of law enforcement — preventing crime before it happens,” said Andrew G. Ferguson, a University of District of Columbia law professor preparing a book on big data and policing.
-
-Now used by 20 of the nation’s 50 largest police forces by one count, the technologies are at the center of an increasingly heated debate about their effectiveness, potential impact on poor and minority communities, and implications for civil liberties.
-
-Advertisement
-
-Some police departments have hailed PredPol and other systems as instrumental in reducing crime, focusing scarce resources on trouble spots and individuals and replacing officers’ hunches and potential biases with hard data.
-
-But privacy and racial justice groups say there is little evidence the technologies work and note the formulas powering the systems are largely a secret. They are concerned the practice could unfairly concentrate enforcement in communities of color by relying on racially skewed policing data. And they worry that officers who expect a theft or burglary is about to happen may be more likely to treat the people they encounter as potential criminals.
-
-The experiments are one of the most consequential tests of algorithms that are increasingly powerful forces in our lives, determining credit scores, measuring job performance and flagging children that might be abused. The White House has been studying how to balance the benefits and risks they pose.
-
-Advertisement
-
-“The technical capabilities of big data have reached a level of sophistication and pervasiveness that demands consideration of how best to balance the opportunities afforded by big data against the social and ethical questions these technologies raise,” the White House wrote in a recent report.
-
-A seismic shift in policing
-
-It was 6:45 a.m. on a Monday, but the sheet of paper Coleman held in his hands offered a glimpse of how Oct. 24 might go: an auto theft near the corner of Van Nuys and Glenoaks, a burglary at Laurel Canyon and Roscoe and so on.
-
-The crime forecast is produced by PredPol at the beginning of each shift. Red boxes spread across Google maps of the San Fernando Valley, highlighting 500-by-500-square-foot locations where PredPol concluded property crimes were likely.
-
-The forecast is cutting edge, but it is used in the service of an old-fashioned policing philosophy: deterrence. Between calls that day, Coleman and other officers were expected to spend time and engage with people in the roughly 20 boxes PredPol identified around the Foothill Division.
-
-Advertisement
-
-Coleman sat behind the wheel of his SUV, plotting which boxes to hit the way someone consulting a weather map might weigh whether to bring an umbrella.
-
-“It’s not always that we are going to catch someone in the box, but by being there we prevent crime,” said Capt. Elaine Morales, who oversees the Foothill Division.
-
-Foothill is far from the glitz of Hollywood on the northern edge of L.A., but it has been at the center of the transformation going on in policing.
-
-The division was one of the first in the nation to adopt predictive policing five years ago and has helped refine PredPol. The technology has spread to other LAPD divisions and more than 60 other departments across the country, making it the nation’s most popular predictive-policing system.
-
-PredPol often draws comparisons to the movie “Minority Report,” in which a government unit rounds up future criminals who have not yet committed crimes, but one of the software’s developers said it is not a crystal ball.
-
-Jeff Brantingham, a professor at the University of California at Los Angeles, said crime often seems random, but it follows patterns.
-
-Advertisement
-
-“The question becomes, ‘Can we build mathematical structures to understand these patterns?’ The answer is yes, absolutely,” Brantingham said. “The best way to capture the way we think about crime patterns . . . is to think about earthquakes.”
-
-That’s not just an analogy. Brantingham said a breakthrough moment in PredPol’s development came when one of his partners realized an algorithm that described seismic activity could be used to predict crime.
-
-Just as earthquakes happen along fault lines, Brantingham explained research has shown crime is often generated by structures in the environment, like a high school, mall parking lot or bar. Additional crimes tend to follow the initial event near in time and space, like an aftershock.
-
-PredPol uses years of crime data to establish these patterns and then the algorithm uses near real-time crime data to predict the next property crime. Other systems use even more esoteric data — from the weather to phases of the moon — to arrive at their crime forecasts.
-
-Advertisement
-
-But does it work?
-
-Coleman fired up his SUV and headed out to a PredPol box, as streaks of light poured over the dry hills surrounding L.A. Parents walked their kids to school, and others rushed to work in the blue-collar, largely Latino community.
-
-Can crime be predicted?
-
-Coleman’s SUV was one of only eight police cruisers circulating that morning in the Foothill, a 46-square-mile area that has a population of more than 180,000. It’s easy to see why any system that could accurately pinpoint crime would be a major boon to the LAPD.
-
-For decades, police have mapped crimes using pushpins on paper maps and more recently blotchy hot-spot maps on computers. The maps always lagged crime on the street and could only offer general areas to focus police patrols.
-
-Coleman, a strapping and gregarious 26-year veteran of the LAPD, said he and other officers were initially skeptical PredPol could anticipate a crime better than a seasoned officer — and do it in a box the size of a city block.
-
-Advertisement
-
-But he quickly became a believer.
-
-“If you spend three hours in that box the week after you had 10 crimes, the next week you are going to see three,” Coleman said as L.A.’s low-slung houses, palm trees and strip malls slid by the SUV’s windows.
-
-LAPD Cmdr. Sean Malinowski, who pioneered PredPol’s use in the department, was also convinced. He relayed a story of how two of his officers found a thief in a stolen car in an area where PredPol predicted an auto theft. The suspect escaped, but the officers found him again — in another stolen vehicle in another box where PredPol forecast a theft.
-
-But the data on the effectiveness of PredPol — and other predictive systems — presents a murkier picture.
-
-PredPol and the LAPD credit the system with helping bring about substantial reductions in property crime in the Foothill in 2012 through 2014, but crime has crept back up in the past couple years as it has in the rest of Los Angeles.
-
-Advertisement
-
-A study by Brantingham and other researchers found the system was roughly twice as good at predicting where crime will occur as the LAPD's crime analysts and reduced crime 7 percent, but no independent researchers have verified those claims or looked at PredPol.
-
-The only independent study of a place-based predictive-policing system found the software had no statistically significant impact on property crime in Shreveport, La. The system was one created by the researchers, not PredPol.
-
-PredPol is just one iteration of predictive policing.
-
-Police in Kansas City, Mo., and Chicago maintain lists of hundreds of people that an algorithm predicted were likely to be involved in gun violence, either as perpetrators or victims. The calculations are based on arrests, gang affiliations and other variables.
-
-Share this article Share
-
-Police warn those on the list they are being watched, while social-service agencies offer help.
-
-Chicago police said earlier this year its system was effective — more than 70 percent of the people who were shot and 80 percent of those arrested for shootings in 2016 were on the list.
-
-But a RAND Corporation study released in the summer found individuals on a 2013 version of the list were no more or less likely to be the victim of a shooting than a comparison group. Police dispute the study's findings.
-
-Increasing concerns
-
-Inconclusive benefits are just one critique in an increasingly heated debate over the systems as they become more widespread.
-
-Predictive policing has become a flash point in the discussion over race and policing that has roiled the nation in recent years. Malinowski and police officials elsewhere see PredPol and similar systems as a way to combat bias among officers by using data to guide patrols.
-
-“Through the use of data, it’s less subjective,” Malinowski said. “It’s objective.”
-
-But the ACLU and 16 other groups issued a statement in August outlining a range of concerns about predictive policing, saying such systems give a technological sheen to old patterns of policing.
-
-David Robinson, a founder of the Upturn think tank, wrote in a report that accompanies the statement that predictive policing could increase police presence in poor and minority communities by creating a “ratchet effect.”
-
-“The basic problem is those forecasts are only as good as the data they are based on,” Robinson said. “People in heavily policed communities have a tendency to get in trouble. These systems are apt to continue those patterns by relying on that biased data.”
-
-Brantingham said it is a valid concern, but PredPol only uses data from crimes reported to the police and that have been verified. He said drug arrests and other offenses that rely on the discretion of officers are not used because they are often more heavily enforced in poor and minority communities.
-
-Robinson also pointed out that the public — and even the police who use the software — often do not know exactly how the systems are flagging particular locations or individuals. He said that makes accountability impossible.
-
-Ferguson, the UDC law professor, said predictive policing raises a host of fundamental concerns and questions. He questioned how police will ensure the accuracy of the vast reams of data the systems rely on. An error could unfairly cast suspicion on a location or individual.
-
-Ferguson also wonders how predictive systems will affect officers. He anticipates forecasts will be used as a factor in officers’ decisions to reach the “reasonable suspicion” threshold to stop people on the street and could color the way officers approach stops.
-
-“When you are told to be on the lookout for a particular crime in a particular place, that has to affect what you are going to do,” Ferguson said.
-
-Coleman arrived at his next PredPol spot around 8:20 a.m. at a busy intersection. He chatted up three homeless people sitting on a bench at a bus stop, asking a question for which PredPol had already given him an answer: “How much crime occurs around here?”. 
-
-This is Episode 12 of Real Future, Fusion’s documentary series about technology and society. More episodes available at realfuture.tv.
-
-There’s a new kind of software that claims to help law enforcement agencies reduce crime, by using algorithms to predict where crimes will happen and directing more officers to those areas. It’s called “predictive policing,” and it’s already being used by dozens of police departments all over the country, including the Los Angeles, Chicago, and Atlanta Police Departments.
-
-Aside from the obvious “Minority Report” pre-crime allusions, there has been a tremendous amount of speculation about what the future of predictive policing might hold. Could people be locked up just because a computer model says that they are likely to commit a crime? Could all crime end altogether, because an artificial intelligence gets so good at predicting when crimes will occur?
-
-Some skeptics doubt that predictive policing software actually works as advertised. After all, most crimes occur only in semi-regular patterns, while big, low-frequency crimes like terrorist attacks aren’t typically governed by patterns at all, making them much harder for an algorithm to predict.
-
-There is also the question of what happens to communities of color under a predictive policing regime. Brown and black people are already the disproportionate targets of police action, and with predictive policing software, some worry that police could feel even more empowered to spend time looking for crime in neighborhoods populated by minorities.
-
-Although big companies like IBM also make predictive policing tools, one of the most widely deployed products comes from a small Santa Cruz, California firm called PredPol.
-
-The way PredPol works is actually quite simple. It takes in past crime data—only when it happened and what type of crime—and spits out predictions about where future crimes are more likely to occur. It turns those predictions into 500 foot by 500 foot red boxes on a Google map, indicating areas that police officers should patrol when they’re not actively responding to a call. The idea is that if officers focus their attention on an area that’s slightly more likely to see a crime committed than other places, they will reduce the amount of crime in that location.
-
-Police chiefs who have tried PredPol and similar systems swear that it work. For example, the Norcross (GA) Police Department claims it saw a 15-30% reduction in burglaries and robberies after deploying the software.
-
-But I wanted to ask tougher questions about predictive policing—not just whether it helps reduce crime, but how it helps reduce crime, and whether the system could serve as an algorithmic justification for old-school racial profiling by placing more police in minority-populated neighborhoods.
-
-So I went to Santa Cruz, California, where the local police department is using PredPol to patrol the city. I went on a ride-along with Deputy Police Chief Steve Clark, and spoke to local activists who fear that predictive policing software could invite harm, rather than preventing it.
-
-Here’s the video of my trip to see the real effects of predictive policing:. Faiza Patel is the co-director of the Liberty and National Security Program at the Brennan Center for Justice at New York University Law School. She is on Twitter.
-
-In every age, police forces gain access to new tools that may advance their mission to prevent and combat crime. Predictive technologies — the use of data from a variety of sources to create an assessment model for the probability of future crimes — have been touted as a means to forecast where crime will likely take place and sometimes who is likely to commit a crime.
-
-Technology that purports to zero in on an individual who is likely to commit a crime is particularly suspect.
-
-Given the far-reaching implications of acting on such projections, any police department considering a predictive analytical tool must thoroughly test the reliability of its claims. So far, research is in its infancy.
-
-A handful of studies have shown short-term decreases in crime when police allocate resources to predicted “hotspots,” but other assessments have showed no statistically significant correlation or diminishing returns.
-
-At a time of rising concern about over-policing in minority communities, surging police to particular locations may have its own compounding negative consequences. Technology that purports to zero in on categories of people likely to commit crimes is even more suspect. It undermines the constitutional requirement that police should target people based upon an individual suspicion of wrongdoing, not statistical probability.
-
-Of course, even algorithms used to predict the location of crime will only be as good as the information that is fed into them. If an algorithm is populated primarily with crimes committed by black people, it will spit out results that send police to black neighborhoods. This is a serious and perhaps insurmountable problem, considering that people of color are stopped, detained, arrested and incarcerated at higher levels than whites regardless of crime rates. The New York Police Department’s infamous stop-and-frisk program overwhelmingly targeted black and Latino men, even though the number of arrests or summons resulting from stops was actually lower for minority targets. The risks of “driving while black” are also well-documented.
-
-These realities mean we, as a society, should proceed with extreme caution despite the hype about the promise of data. Predictive policing shouldn’t just become racial profiling by another name.
-
-
-
-Join Opinion on Facebook and follow updates on twitter.com/roomfordebate.
-
-. “Predictive policing” is happening now — and police could learn a lesson from Minority Report. David Robinson · Follow Published in Equal Future · 6 min read · Aug 31, 2016 -- Listen Share
-
-In the movie Minority Report, mutants in a vat look into the future, and tell Tom Cruise who is about to commit a crime, so he can arrest the offender before the crime happens. Spoiler alert: Those mutant fortune tellers turn out not to be infallible, but the cops treat them as though they were. Law enforcement’s blind faith in a tool that doesn’t always work — a tool that can easily finger the wrong person, with terrible results — provides the central tension for that blockbuster film.
-
-Real police are now at risk of making a similar mistake. But this time the results are in the street, not at the box office. Today’s cops don’t rely on soothsayers, but they do increasingly use software to forecast where future crimes may happen, or who may be involved. And they are nowhere near skeptical enough of the forecasts those computers are making.
-
-Today, a national coalition of 17 advocacy groups is raising the alarm about this, with a shared statement highlighting six ways that this trend threatens civil rights.
-
-These groups all agree — the current rush toward predictive policing is wrong.
-
-Upturn, where I work, helped draft the new statement, and today we’re releasing a report designed to empower you to get beyond the hype and make up your own mind about what the industry calls “predictive policing.” As lead author of that report, here’s what I’d like you to know.
-
-Police can easily trust these tools too much.
-
-People often overestimate the accuracy, objectivity, and reliability of information that comes from a computer, including from a predictive policing system. The RAND Corporation, which has done the best studies to date, is a famously buttoned-down kind of place. But they’re just as bothered by this problem as I am. They write: “[p]redictive policing has been so hyped that the reality cannot live up to the hyperbole. There is an underlying, erroneous assumption that advanced mathematical and computational power is both necessary and sufficient to reduce crime [but in fact] the predictions are only as good as the data used to make them.”
-
-Police data about crime paints a distorted picture, which can easily lead to discriminatory policing patterns.
-
-These systems only predict which crimes police will detect in the future — and that creates a distorted picture. As an eminent criminologist once said, “[i]t has been known for more than 30 years that, in general, police statistics are poor measures of true levels of crime.”
-
-In the context of predictive policing, statistics generated by the policing process are often treated as though they are records of underlying criminal behavior. But these numbers are a direct record of how law enforcement responds to particular crimes, and they are only indirect evidence about what is actually happening in the world. Criminologists argue that “[a]rrest, conviction, and incarceration data are most appropriately viewed as measures of official response to criminal behavior.”
-
-Of course, it makes sense for police to be responsive to community needs. Different communities served by the same police department often do have different needs, and different levels of need. That means officers will see more of what goes on in some neighborhoods than they will in others. But it is dangerous to treat the results of that process as though they were a completely neutral reflection of the world.
-
-As data scientist Cathy O’Neil explains, “people have too much trust [that] numbers [will] be intrinsically objective.”
-
-Rather than changing their tactics, police who use predictive tools have tended to focus on generating more citations and arrests. I read everything I could find about how police are actually using predictive policing tools. The consistent answer was that police aren’t being guided toward different or more humane tactics. Instead, where the computer says to focus, the police do more enforcement. Which worsens the data problem.
-
-Data could be used in ways that strengthen civil rights, but we’re missing that opportunity.
-
-This, to me, is one of the most exciting things we found in our research. To quote from our report:
-
-In most of the nation, police currently measure outcomes and assess performance based on only some of the activities, costs, and benefits that matter in policing… Serious violent crimes will always be important. But violent crime doesn’t reflect the full scope of community concerns… [E]xperts on police performance measurement have long argued that police should track all uses of coercive authority so they can better promote public safety with minimum coercion…. And research on police performance measurement consistently calls for surveying victims to gather their feedback on the police officers with whom they interact. Beyond the basic goal of constitutional, lawful policing, measuring factors like these could allow the police to track and reward strategies that do a better job of balancing a community’s needs and interests. As a White House report recently found, “if feedback loops are not thoughtfully constructed, a predictive algorithmic system … could perpetuate policing practices that are not sufficiently attuned to community needs and potentially impede efforts to improve community trust and safety.” In other words, police and the systems they use might gather data, make predictions, and base decisions not only where future crimes may be found, but also on the need to economize their use of authority, maintain community trust, and provide positive experiences for crime victims.
-
-Predictive policing tools are being widely adopted before their impact can be measured, with little transparency and, often, no public engagement.
-
-In our survey of the nation’s 50 largest police departments plus select others that have considered these technologies, we found that at least 20 of them have used a predictive policing system, and at least 11 more are looking into doing so. Yet only a few cities have seen a meaningful public debate about how these technologies operate or what policies control their use. In fact, in our search for public information about how police use these systems, Chicago was the only place with any policy governing the use of predictive policing at all.
-
-Today’s tools may not make anyone safer.
-
-Our report sums up the evidence:
-
-We are currently aware of two rigorous, scholarly studies of predictive policing in the United States whose authors have no interest in the success of the method being evaluated. Both of these were conducted by the RAND Corporation. Neither analysis found any safety benefit in the predictive policing tools studied. In Chicago, evaluating an early version of the city’s person-based Strategic Subject List, RAND found that the effort “does not appear to have been successful in reducing gun violence.” [And in] Shreveport, Louisiana, RAND evaluated a tool that the police department had developed in-house, and found “no statistical evidence that [the program] as implemented reduced crime or any of its subtypes.”
-
-In the full report, we also review several studies conducted by people who build predictive policing tools. Unsurprisingly, several of those find a public safety benefit.
-
-A new approach to data in policing is needed.
-
-Our report recommends:
-
-More independent, rigorous validation of predictive techniques
-
-The inclusion of more data that reflects community priorities in these systems
-
-More public engagement about the risks and benefits of these systems at both a local and national level
-
-Informed public approval before these systems are deployed.
-
-Though these systems are rolling out in police departments nationwide, we found pervasive, fundamental gaps in what’s publicly known about them. For example, how these tools work and make predictions, how they define and measure their performance and how police departments actually use these systems day-to-day, are all unclear. On top of that, vendors routinely claim that the inner working of their technology is proprietary, keeping their methods a closely-held trade secret, even from the departments themselves. All of this evidences a trend of rapid, poorly informed adoption.
-
-We believe that positive uses of data could improve police practices in the future. But we found little evidence that today’s systems live up to their claims, and significant reason to fear that they may actually reinforce disproportionate and discriminatory policing practices.. A few months before, in the fall of 2014, Birch had attended a national conference for police chiefs where he was introduced to PredPol, a predictive policing software that several major cities across the US have started to use. It can forecast when and where crimes may occur based on prior crime reports, but the results of its impact on crime reduction have been mixed.
-
-Paul Figueroa, then the assistant chief of Oakland Police, who sat next door to Birch, was the culprit.
-
-Tim Birch was six months into his new job as head of research and planning for the Oakland Police Department when he walked into his office and found a piece of easel pad paper tacked onto his wall. Scribbled across the page were the words, "I told you so!"
-
-"Maybe we could reduce crime more by using predictive policing, but the unintended consequences [are] even more damaging… and it's just not worth it," Birch said. He said it could lead to even more disproportionate stops of African Americans, Hispanics and other minorities.
-
-He decided to rescind his funding request from Schaaf, telling her the OPD would not be using the software. That's when Figueroa put the note on his wall.
-
-Birch finally came around to Figueroa's thinking in April 2015 after further research and a newfound understanding of Oakland. He realized the city didn't need to give its people another reason to be suspicious. It was too easy for the public to interpret predictive policing as another form of racial profiling.
-
-"If we have a way to use mathematics to find out where we need to be in order to prevent crime, let's use it."
-
-But Figueroa was skeptical of the technology. An Oakland native and 25-year veteran of the force, he worried the technology could have unintended consequences—such as disproportionately scrutinizing certain neighborhoods—and erode community trust. Figueroa and Birch had spirited discussions after the January budget proposal about why it wouldn't work in a city with a sordid history of police and community relations, including several misconduct scandals.
-
-Birch, a former police officer in Daly City, thought it could help Oakland's understaffed and underfunded police force. During the January 2015 budgeting planning process he convinced Mayor Libby Schaaf to earmark $150,000 in the city's budget to fund the software over two years.
-
-These authorities say the software may be able to predict crime, but may not actually help prevent crime because knowing when a crime may occur doesn't necessarily solve the problem of stopping it. Critics of the software also argue it perpetuates racial bias inherent in crime data and the justice system, which could lead to more disproportionate stops of people of color. But police departments who support using PredPol say police presence in these predicted crime zones can potentially deter crime.
-
-But Bay Area departments are raising questions about the effectiveness and dangers of relying on data to prevent crime. San Francisco currently has no plans to use predictive policing technology. Berkeley does not either. Just north of Oakland, the Richmond Police Department canceled its contract with Predpol earlier this year and to the south, the Milpitas Police Department cut its ties with the software maker back in 2014.
-
-According to a 2014 national survey conducted by the Police Executive Research Forum, a Washington-based think tank made up of police executives, 70 percent of police department representatives surveyed said they expected to implement the technology in the next two to five years. Thirty-eight percent said they were already using it at the time.
-
-A 2013 PredPol pilot in Atlanta was one of the first key tests of the software.
-
-The Oakland police's decision runs counter to a broader nationwide trend. Departments in cities like New York, Los Angeles, Atlanta and Chicago are turning to predictive policing software like PredPol as a way to reduce crime by deploying officers and resources more effectively.
-
-"We put some experiments into the field to see if it was possible to predict crime, and do so better than the existing practices the [LAPD] was using," Brantingham said. "It proved to be a substantial improvement."
-
-Malinowski said a few years into the research project the team realized the software's potential as a practical tool that could help police prevent crime. Jeff Brantingham, an anthropology professor at UCLA who helped develop PredPol, became its chief of research and development.
-
-In theory, the algorithm is not too different from heat maps that law enforcement have used for years to lay out locations of past crimes. PredPol funnels in data such as the location and time of property crimes and theft from crime reports into an algorithm that analyzes the areas that are at high-risk for future crime. During routine police patrols, officers glance at a laptop inside their car to view "the box," a small red square highlighting a 500 by 500 foot region on their patrol area map. These boxes indicated where and when a crime is most likely to occur during an officer's shift.
-
-PredPol first began as a research project within UCLA's Institute for Pure and Applied Mathematics, which uses math to solve scientific and technology challenges across fields. The research team was trying to figure out if they could predict crime like scientists predict earthquake aftershocks, but they needed data to crunch. That's when they formed an informal partnership with Los Angeles Police Department Captain Sean Malinowski.
-
-According to PredPol, crimes in Foothill went down 13 percent in the four months following the implementation of the algorithm. However, the LAPD's crime stats digest for 2011 and 2010 show other divisions that were not using the software also saw crime reduction as high as 16 percent.
-
-"I said if we have a way to use mathematics to find out where we need to be in order to prevent crime, let's use it," said Malinowski, now LAPD chief of staff. "The only training you need to give the officers is what the map means and how to use the map."
-
-In 2011, the team launched a prototype of the software to be tested by the Foothill division of the LAPD, where Malinowski was stationed at the time.
-
-The company draws a distinction between predicting when or where a crime is likely to occur and who is going to commit a crime because civil rights advocates, who have spoken with PredPol and Malinowski, expressed concerns about targeted policing. In the algorithm, PredPol does not include arrest data, which could include biases inherent in the criminal justice system, or information about suspects involved in a crime, because they could foresee contributing to disproportionate stops of people of color. It also omits drug-related offenses and other violent crimes because the data may bring another layer of complexity that can't yet be untangled in the algorithm.
-
-"On one hand I can say it was successful because when officers were there nothing really happened," he said, explaining how arrest and crime statistics don't accurately measure the software's success. "Or you can say it wasn't all that successful because a few times when the officers were there the crime still happened."
-
-In 2016, the Richmond Police Department terminated its contract halfway into a three-year program because it found no measurable impact on crime reduction. RPD spokesperson Lieutenant Felix Tan said it was difficult to quantify the software's impact on crime.
-
-But Bay Area police departments have backed away from the technology because there are few independent evaluations from researchers outside of police departments on the direct effect of PredPol on crime reduction.
-
-"They had to change their way of thinking, because for years they were rewarded on their productivity, which meant citations and arrests, and I had to convince them that's not what I'm rewarding you for," he said. "I'm interested in rewarding for fewer victims."
-
-Malinowski said he noticed a shift in officers' behavior when they started using PredPol. They became less focused on arrests, which was desirable from his standpoint because the public might see that and be more willing to trust the police, and more focused on preventing victimhood.
-
-The Santa Cruz police department followed shortly after, becoming the first law enforcement group in the nation to pilot the finished software. Now, over 60 police departments across the nation use the software.
-
-"We are not police officers. We have no business telling them what tactical activities they should be engaged in," said Brantingham.
-
-Brantingham of Predpol said he still doesn't understand why these departments decided to back out. The software simply provides them with predictions about where and when the risk of crime is greatest, then it's up to officers to decide what to do with that information, he said.
-
-"If you have systemic bias in this collection of the data your prediction is going to reflect that systematic bias"
-
-Milpitas, a small city located about 35 miles south of Oakland, received a discounted rate in 2013 after it referred the software to another agency. But it severed the $37,500 agreement with PredPol just one year into its three-year contract back in 2014.
-
-Tan said old-fashioned crime data analysis was still a crucial part of fighting crime because history often dictates future patterns. He said most departments including in Richmond have an in-house crime analysis unit.
-
-"We have very competent police officers very much in tune with our community, and with that trust you gain intelligence. I don't think you can get anything like that out of software," he said.
-
-Tan said the department believes in the strength of their officers' experience and their community relationships over the technology.
-
-The study concluded that if the OPD had used PredPol to predict future drug crimes, officers would have been deployed to mostly lower-income minority neighborhoods where the previous drug crimes were recorded. This feedback loop may not accurately reflect where drug crime is occurring throughout the city because officers are focused on certain neighborhoods to look for crime while ignoring other areas of the city where those same crimes may be occurring.
-
-The complex history of race relations between the police and communities may also be hindering the software's public perception.
-
-"We need a lot more work in this area before we'll see a large crime reduction as a result of these sort of initiatives," she said, adding that crime prediction is not the same as crime prevention. "No one is looking at this second part which is, 'How do you actually prevent it?'"
-
-"The promise of it is amazing, so I can see why everyone wants to believe in it," said Jessica Saunders, who co-authored the study, based on a pilot program that took place in Shreveport, Louisiana in 2012. Her team had compared how officers using the software in a block-sized area fared against officers using the status quo policing approach.
-
-But research think tank RAND Corporation, which in 2014 published one of the few formal studies about predictive policing using a similar model to PredPol, found that it did not reduce crime.
-
-"If you have systemic bias in this collection of the data your prediction is going to reflect that systematic bias," said Isaac.
-
-Matthew Odom looks over statistics posted for PredPol at the at the Tech Innovation Center in the Atlanta Police Foundation in 2015. Image: Ann Hermes/The Christian Science Monitor
-
-Other researchers have argued that predictive models will continue to direct police back to areas that are already disproportionately scrutinized, even when drug-crime or arrest data isn't used. Other researchers have argued that predictive models will continue to direct police back to areas that are already disproportionately scrutinized, even when drug-crime or arrest data isn't used.
-
-"We don't really know what the actual crime rate is," said Solon Barocas, a post-doctorate researcher at Microsoft Research focusing on the ethics of machine learning and automated decision-making. "We don't really know what the actual crime rate is," said Solon Barocas, a post-doctorate researcher at Microsoft Research focusing on the ethics of machine learning and automated decision-making.
-
-Borocas is part of a growing body of data scientists looking at ways to improve crime data, and in turn improve prediction models. He pointed out that one of the primary barriers to doing this is the amount of crime that goes unobserved and unreported. Borocas is part of a growing body of data scientists looking at ways to improve crime data, and in turn improve prediction models. He pointed out that one of the primary barriers to doing this is the amount of crime that goes unobserved and unreported.
-
-"The nature of crime will often explain whether or not it's likely to be reported, and because of the fraught relation with police there are many underreported incidents of crime," he said, adding that police departments need to stop and consider what the goal of predictive policing really is before purchasing the pricey software. "Is it to reduce crime by means of actually physically putting police throughout the neighborhood or address the root of crime?" he said. "The nature of crime will often explain whether or not it's likely to be reported, and because of the fraught relation with police there are many underreported incidents of crime," he said, adding that police departments need to stop and consider what the goal of predictive policing really is before purchasing the pricey software. "Is it to reduce crime by means of actually physically putting police throughout the neighborhood or address the root of crime?" he said.
-
-Another growing trend among police departments across the nation restructuring their approach to crime reduction is community policing. It's a loosely defined term with different meanings if you ask numerous police departments. But the general goal of this style of policing is to engage with at-risk communities, build relationships between the police and those they serve, and disentangle the root cause of crime. Another growing trend among police departments across the nation restructuring their approach to crime reduction is community policing. It's a loosely defined term with different meanings if you ask numerous police departments. But the general goal of this style of policing is to engage with at-risk communities, build relationships between the police and those they serve, and disentangle the root cause of crime.
-
-Malinowski said the LAPD is looking at ways to apply PredPol to this methodology. Malinowski said the LAPD is looking at ways to apply PredPol to this methodology.
-
-One of the department's community relations sergeants approached Malinowski recently about how they could use predicted crime zones for community building and intervention in a high-risk neighborhood in Los Angeles. This sergeant had noticed one apartment building kept falling inside the hotspot for future crime. LAPD officers went door-to-door inside the apartment complex handing out flyers. One of the department's community relations sergeants approached Malinowski recently about how they could use predicted crime zones for community building and intervention in a high-risk neighborhood in Los Angeles. This sergeant had noticed one apartment building kept falling inside the hotspot for future crime. LAPD officers went door-to-door inside the apartment complex handing out flyers.
-
-"We'd show them the map and say this is an area that's at a heightened risk for burglary, you got to look out for your neighbors," Malinowski said. "When you talk to those people it puts us in direct contact with the community, and that's sort of my definition where the rubber meets the road." "We'd show them the map and say this is an area that's at a heightened risk for burglary, you got to look out for your neighbors," Malinowski said. "When you talk to those people it puts us in direct contact with the community, and that's sort of my definition where the rubber meets the road."
-
-Since distancing itself from the software, the OPD has been working on community policing strategies of its own to improve public perception and rebuild the trust that has been broken over many decades. Birch said the department is building a new handcuffing policy that will encourage officers to think twice before handcuffing someone. Since distancing itself from the software, the OPD has been working on community policing strategies of its own to improve public perception and rebuild the trust that has been broken over many decades. Birch said the department is building a new handcuffing policy that will encourage officers to think twice before handcuffing someone.
-
-"Think about what it looks like when you're handcuffing an African-American male in East Oakland, what are the optics of that?" he said. "The community all around that is watching you, what are they thinking about you when they see you do that as an officer?" "Think about what it looks like when you're handcuffing an African-American male in East Oakland, what are the optics of that?" he said. "The community all around that is watching you, what are they thinking about you when they see you do that as an officer?". Algorithms have taken hold over our lives whether we appreciate it or not.
+Algorithms have taken hold over our lives whether we appreciate it or not.
 
 When Facebook delivers us clickbait and conspiracy theories, it's an algorithm deciding what you're interested in.
 
@@ -526,377 +76,7 @@ Schwartz pointed out that in some states, such as Illinois, there are legal proh
 
 As for Oakland, they may not have PredPol yet, but Mayor Libby Schaaf has repeatedly sought over $150,000 to purchase PredPol for the Oakland Police Department. Malkia Cyril, executive director of the Oakland-based Center for Media Justice, says Oakland's legislators don't care that PredPol hasn't proven to be effective.
 
-"Predictive policing is clearly not a solution, and it'll transfer existing bias and existing iniquities in the current policing system into a predictive approach," Cyril said. "It's not technology that makes the place a city more efficient and a better place to live. For us, it'll make the city unlivable.". Sunday, the New York Times published a well-meaning op-ed about the fears of racial bias in artificial intelligence and predictive policing systems. The author, Bärí A. Williams, should be commended for engaging the debate about building “intelligent” computer systems to predict crime, and for framing these developments in racial justice terms. One thing we have learned about new technologies is […]
-
-Sunday, the New York Times published a well-meaning op-ed about the fears of racial bias in artificial intelligence and predictive policing systems. The author, Bärí A. Williams, should be commended for engaging the debate about building “intelligent” computer systems to predict crime, and for framing these developments in racial justice terms. One thing we have learned about new technologies is that they routinely replicate deep-seated social inequalities — including racial discrimination. In just the last year, we have seen facial recognition technologies unable to accurately identify people of color, and familial DNA databases challenged as discriminatory to over-policed populations. Artificial intelligence policing systems will be no different. If you unthinkingly train A.I. models with racially-biased inputs, the outputs will reflect the underlying societal inequality.
-
-But the issue of racial bias and predictive policing is more complicated than what is detailed in the op-ed. I should know. For several years, I have been researching predictive policing because I was concerned about the racial justice impacts of these new technologies. I am still concerned, but think we need to be clear where the real threats exist.
-
-Take, for example, the situation in Oakland, California described in the op-ed. Ms. Williams eloquently writes:
-
-It’s no wonder criminologists have raised red flags about the self-fulfilling nature of using historical crime data.
-
-This hits close to home. An October 2016 study by the Human Rights Data Analysis Group concluded that if the Oakland Police Department used its 2010 record of drug-crimes information as the basis of an algorithm to guide policing, the department “would have dispatched officers almost exclusively to lower-income, minority neighborhoods,” despite the fact that public-health-based estimates suggest that drug use is much more widespread, taking place in many other parts of the city where my family and I live.
-
-Those “lower-income, minority neighborhoods” contain the barbershop where I take my son for his monthly haircut and our favorite hoagie shop. Would I let him run ahead of me if I knew that simply setting foot on those sidewalks would make him more likely to be seen as a criminal in the eyes of the law?
-
-These are honest fears.
-
-If, as the op-ed suggested, Oakland police used drug arrest statistics to forecast where future crime would occur, then its crime predictions would be as racially discriminatory as the arrest activity. In essence, the crime prediction simply would be replicating arrest patterns (where police patrol), not drug use (where people use drugs). Police patterns might, thus, be influenced by socio-economic and racial factors — not the underlying prevalence of the crime. This would be a discriminatory result — which is why it is quite fortunate that Oakland is doing no such thing. In fact, the Human Rights Data Analysis Group (HRDAG) report that Ms. Williams cites is a hypothetical model examining how a predictive policing system could be racially biased. The HRDAG researchers received a lot of positive press about their study because it used a real predictive policing algorithm designed by PredPol, an actual predictive policing company. But, PredPol does not predict drug crimes, and does not use arrests in its algorithm, precisely because the company knows the results would be racially discriminatory. Nor does Oakland use PredPol. So, the hypothetical fear is not inaccurate, but the suggestion that this is the way predictive policing is actually being used around Oakland barbershops is slightly misleading.
-
-Do not misunderstand this to be a minimization of the racial justice problems in Oakland. As Stanford Professor Jennifer Eberhardt and other researchers have shown, the Oakland Police Department has a demonstrated pattern of racial discrimination that impacts who gets stopped, arrested, and handcuffed — and which suggests deep systemic problems. But, linking real fears about racially unfair policing to hypothetical fears about predictive technologies (which are not being used as described) distorts the critique.
-
-Similarly, the op-ed singles out HunchLab as a company which uses artificial intelligence to build predictive policing systems:
-
-These downsides of A.I. are no secret. Despite this, state and local law enforcement agencies have begun to use predictive policing applications fueled by A.I. like HunchLab, which combines historical crime data, moon phases, location, census data and even professional sports team schedules to predict when and where crime will occur and even who’s likely to commit or be a victim of certain crimes.
-
-The problem with historical crime data is that it’s based upon policing practices that already disproportionately hone in on blacks, Latinos, and those who live in low-income areas.
-
-If the police have discriminated in the past, predictive technology reinforces and perpetuates the problem, sending more officers after people who we know are already targeted and unfairly treated.
-
-This statement certainly has accurate and concerning elements to it. Systems designed on past crime reports (not just arrests) will focus police on poor communities of color in a way that might exacerbate over-policing. This self-fulfilling prophesy problem is something I and others have flagged as it relates to constitutional law, racial bias, and distortions of police practices. It is a worthy concern that directly impacts concerns about racial inequality.
-
-But, here are two cautions to the op-ed’s analysis. The first is the need to be precise in identifying what technology you are critiquing. HunchLab is a place-based predictive policing technology. HunchLab does not do any person-based predictions, so the claim that HunchLab predicts “even who’s likely to commit or be a victim of certain crimes” is wrong and conflates place-based technologies with person-based systems like the Chicago Police Department’s “strategic subjects list” (a.k.a. the “heat list”). They are different systems with different concerns. Place-based predictive policing technologies (which forecast sites of criminal activity) and person-based predictive systems (which forecast individuals at risk for violence) are different in practice, theory, and design, and should not be lumped in the same analysis even if they both ultimately might negatively impact communities of color.
-
-Second, technologies like HunchLab do not blindly follow the data. Instead, they recognize — reflecting the op-ed’s concern — that sometimes the policing remedy does more harm than good. So, in response to a concern about over-policing, HunchLab might re-weight the severity of crimes in their predictive models to avoid policing in an aggressive and unthinking manner. For example, if certain crimes are deemed less threatening to community order, HunchLab recommends less deterrence-based policing in those areas to avoid unnecessary police-citizen contact. The company specifically tweaks the model to avoid unnecessary contact that might increase racial tension. Not all systems do this, and some racially discriminatory impacts will remain, but HunchLab — which was singled out — does attempt to avoid the problem.
-
-I am not minimizing the risks of predictive policing technologies on creating new forms of racial bias. In fact, I have made a scholarly career making similar critical arguments — and just wrote a book — The Rise of Big Data Policing: Surveillance, Race, and the Future of Law Enforcement –that explains how race is a central problem with these new technologies. But, my point is that if you are going to criticize racial bias in predictive policing, you have to do it on the merits of the where the dangers actually lie. In my mind, the more immediate focus of concern should be the Chicago Police Department’s “heat list.” The heat list disproportionately includes men of color in its ever-expanding listpartially because the algorithm uses arrests as the inputs (which again, are more of a function of policing practices than crime realities).
-
-I am also not minimizing the genuine fear that generated Ms. Williams’ op-ed. As anyone who has studied the history of policing in America knows, surveillance technologies tend to be used against communities of color first and in a disproportionate manner. Georgetown University Law School recently hosted a conference on the “color of surveillance” (the “color” unsurprisingly is predominantly black and brown). This reality must shape our critical reaction to any new technology which risks replicating old biases.
-
-In the final analysis, op-eds and news stories about the dangers of racial bias in predictive technologies may be helpful (even when not completely precise), because they generate a societal fear that the companies will respond to through their products. If citizens react to the potential problems, the technology companies can respond and offer ways to solve those problems. In fact, new entrants into the predictive policing field have begun advertising themselves as offering solutions to the problem of racial bias in the data.
-
-But, the danger of creating fear, without engaging the complexity of each technology, means that otherwise worthy arguments can be too easily defeated. Honest conversations are hard. Nuanced debates are less “headline worthy.” But, the future of policing depends on truthfully examining the technologies with an eye toward improving the capabilities and not demonizing the companies (unless they actually deserve it).
-
-Racial bias is a real and future concern for predictive policing, but we need to be thoughtful in our criticisms and precise in our analysis. The future of big data policing depends on it.. In the decade after the 9/11 attacks, the New York City Police Department moved to put millions of New Yorkers under constant watch. Warning of terrorism threats, the department created a plan to carpet Manhattan’s downtown streets with thousands of cameras and had, by 2008, centralized its video surveillance operations to a single command center. Two years later, the NYPD announced that the command center, known as the Lower Manhattan Security Coordination Center, had integrated cutting-edge video analytics software into select cameras across the city.
-
-The video analytics software captured stills of individuals caught on closed-circuit TV footage and automatically labeled the images with physical tags, such as clothing color, allowing police to quickly search through hours of video for images of individuals matching a description of interest. At the time, the software was also starting to generate alerts for unattended packages, cars speeding up a street in the wrong direction, or people entering restricted areas.
-
-Over the years, the NYPD has shared only occasional, small updates on the program’s progress. In a 2011 interview with Scientific American, for example, Inspector Salvatore DiPace, then commanding officer of the Lower Manhattan Security Initiative, said the police department was testing whether the software could box out images of people’s faces as they passed by subway cameras and subsequently cull through the images for various unspecified “facial features.”
-
-While facial recognition technology, which measures individual faces at over 16,000 points for fine-grained comparisons with other facial images, has attracted significant legal scrutiny and media attention, this object identification software has largely evaded attention. How exactly this technology came to be developed and which particular features the software was built to catalog have never been revealed publicly by the NYPD.
-
-Now, thanks to confidential corporate documents and interviews with many of the technologists involved in developing the software, The Intercept and the Investigative Fund have learned that IBM began developing this object identification technology using secret access to NYPD camera footage. With access to images of thousands of unknowing New Yorkers offered up by NYPD officials, as early as 2012, IBM was creating new search features that allow other police departments to search camera footage for images of people by hair color, facial hair, and skin tone.
-
-IBM declined to comment on its use of NYPD footage to develop the software. However, in an email response to questions, the NYPD did tell The Intercept that “Video, from time to time, was provided to IBM to ensure that the product they were developing would work in the crowded urban NYC environment and help us protect the City. There is nothing in the NYPD’s agreement with IBM that prohibits sharing data with IBM for system development purposes. Further, all vendors who enter into contractual agreements with the NYPD have the absolute requirement to keep all data furnished by the NYPD confidential during the term of the agreement, after the completion of the agreement, and in the event that the agreement is terminated.”
-
-In an email to The Intercept, the NYPD confirmed that select counterterrorism officials had access to a pre-released version of IBM’s program, which included skin tone search capabilities, as early as the summer of 2012. NYPD spokesperson Peter Donald said the search characteristics were only used for evaluation purposes and that officers were instructed not to include the skin tone search feature in their assessment. The department eventually decided not to integrate the analytics program into its larger surveillance architecture, and phased out the IBM program in 2016.
-
-After testing out these bodily search features with the NYPD, IBM released some of these capabilities in a 2013 product release. Later versions of IBM’s software retained and expanded these bodily search capabilities. (IBM did not respond to a question about the current availability of its video analytics programs.)
-
-Asked about the secrecy of this collaboration, the NYPD said that “various elected leaders and stakeholders” were briefed on the department’s efforts “to keep this city safe,” adding that sharing camera access with IBM was necessary for the system to work. IBM did not respond to a question about why the company didn’t make this collaboration public. Donald said IBM gave the department licenses to apply the system to 512 cameras, but said the analytics were tested on “fewer than fifty.” He added that IBM personnel had access to certain cameras for the sole purpose of configuring NYPD’s system, and that the department put safeguards in place to protect the data, including “non-disclosure agreements for each individual accessing the system; non-disclosure agreements for the companies the vendors worked for; and background checks.”
-
-Civil liberties advocates contend that New Yorkers should have been made aware of the potential use of their physical data for a private company’s development of surveillance technology. The revelations come as a city council bill that would require NYPD transparency about surveillance acquisitions continues to languish, due, in part, to outspoken opposition from New York City Mayor Bill de Blasio and the NYPD.
-
-Inside the New York City Police Department’s lower Manhattan security center on Sept. 20, 2010, where cops monitor surveillance cameras, environmental sensors, and license plate readers around the clock. Photo: Timothy Fadek/Corbis via Getty Images
-
-Skin Tone Search Technology, Refined on New Yorkers
-
-IBM’s initial breakthroughs in object recognition technology were envisioned for technologies like self-driving cars or image recognition on the internet, said Rick Kjeldsen, a former IBM researcher. But after 9/11, Kjeldsen and several of his colleagues realized their program was well suited for counterterror surveillance.
-
-“After 9/11, the funding sources and the customer interest really got driven toward security,” said Kjeldsen, who said he worked on the NYPD program from roughly 2009 through 2013. “Even though that hadn’t been our focus up to that point, that’s where demand was.”
-
-IBM’s first major urban video surveillance project was with the Chicago Police Department and began around 2005, according to Kjeldsen. The department let IBM experiment with the technology in downtown Chicago until 2013, but the collaboration wasn’t seen as a real business partnership. “Chicago was always known as, it’s not a real — these guys aren’t a real customer. This is kind of a development, a collaboration with Chicago,” Kjeldsen said. “Whereas New York, these guys were a customer. And they had expectations accordingly.”
-
-The NYPD acquired IBM’s video analytics software as one part of the Domain Awareness System, a shared project of the police department and Microsoft that centralized a vast web of surveillance sensors in lower and midtown Manhattan — including cameras, license plate readers, and radiation detectors — into a unified dashboard. IBM entered the picture as a subcontractor to Microsoft subsidiary Vexcel in 2007, as part of a project worth $60.7 million over six years, according to the internal IBM documents.
-
-In New York, the terrorist threat “was an easy selling point,” recalled Jonathan Connell, an IBM researcher who worked on the initial NYPD video analytics installation. “You say, ‘Look what the terrorists did before, they could come back, so you give us some money and we’ll put a camera there.”
-
-A former NYPD technologist who helped design the Lower Manhattan Security Initiative, asking to speak on background citing fears of professional reprisal, confirmed IBM’s role as a “strategic vendor.” “In our review of video analytics vendors at that time, they were well ahead of everyone else in my personal estimation,” the technologist said.
-
-According to internal IBM planning documents, the NYPD began integrating IBM’s surveillance product in March 2010 for the Lower Manhattan Security Coordination Center, a counterterrorism command center launched by Police Commissioner Ray Kelly in 2008. In a “60 Minutes” tour of the command center in 2011, Jessica Tisch, then the NYPD’s director of policy and planning for counterterrorism, showed off the software on gleaming widescreen monitors, demonstrating how it could pull up images and video clips of people in red shirts. Tisch did not mention the partnership with IBM.
-
-During Kelly’s tenure as police commissioner, the NYPD quietly worked with IBM as the company tested out its object recognition technology on a select number of NYPD and subway cameras, according to IBM documents. “We really needed to be able to test out the algorithm,” said Kjeldsen, who explained that the software would need to process massive quantities of diverse images in order to learn how to adjust to the differing lighting, shadows, and other environmental factors in its view. “We were almost using the video for both things at that time, taking it to the lab to resolve issues we were having or to experiment with new technology,” Kjeldsen said.
-
-At the time, the department hoped that video analytics would improve analysts’ ability to identify suspicious objects and persons in real time in sensitive areas, according to Conor McCourt, a retired NYPD counterterrorism sergeant who said he used IBM’s program in its initial stages.
-
-“Say you have a suspicious bag left in downtown Manhattan, as a person working in the command center,” McCourt said. “It could be that the analytics saw the object sitting there for five minutes, and says, ‘Look, there’s an object sitting there.’” Operators could then rewind the video or look at other cameras nearby, he explained, to get a few possibilities as to who had left the object behind.
-
-Over the years, IBM employees said, they started to become more concerned as they worked with the NYPD to allow the program to identify demographic characteristics. By 2012, according to the internal IBM documents, researchers were testing out the video analytics software on the bodies and faces of New Yorkers, capturing and archiving their physical data as they walked in public or passed through subway turnstiles. With these close-up images, IBM refined its ability to search for people on camera according to a variety of previously undisclosed features, such as age, gender, hair color (called “head color”), the presence of facial hair — and skin tone. The documents reference meetings between NYPD personnel and IBM researchers to review the development of body identification searches conducted at subway turnstile cameras.
-
-“We were certainly worried about where the heck this was going,” recalled Kjeldsen. “There were a couple of us that were always talking about this, you know, ‘If this gets better, this could be an issue.’”
-
-According to the NYPD, counterterrorism personnel accessed IBM’s bodily search feature capabilities only for evaluation purposes, and they were accessible only to a handful of counterterrorism personnel. “While tools that featured either racial or skin tone search capabilities were offered to the NYPD, they were explicitly declined by the NYPD,” Donald, the NYPD spokesperson, said. “Where such tools came with a test version of the product, the testers were instructed only to test other features (clothing, eyeglasses, etc.), but not to test or use the skin tone feature. That is not because there would have been anything illegal or even improper about testing or using these tools to search in the area of a crime for an image of a suspect that matched a description given by a victim or a witness. It was specifically to avoid even the suggestion or appearance of any kind of technological racial profiling.” The NYPD ended its use of IBM’s video analytics program in 2016, Donald said.
-
-Donald acknowledged that, at some point in 2016 or early 2017, IBM approached the NYPD with an upgraded version of the video analytics program that could search for people by ethnicity. “The Department explicitly rejected that product,” he said, “based on the inclusion of that new search parameter.” In 2017, IBM released Intelligent Video Analytics 2.0, a product with a body camera surveillance capability that allows users to detect people captured on camera by “ethnicity” tags, such as “Asian,” “Black,” and “White.”
-
-Kjeldsen, the former IBM researcher who helped develop the company’s skin tone analytics with NYPD camera access, said the department’s claim that the NYPD simply tested and rejected the bodily search features was misleading. “We would have not explored it had the NYPD told us, ‘We don’t want to do that,’” he said. “No company is going to spend money where there’s not customer interest.”
-
-Kjeldsen also added that the NYPD’s decision to allow IBM access to their cameras was crucial for the development of the skin tone search features, noting that during that period, New York City served as the company’s “primary testing area,” providing the company with considerable environmental diversity for software refinement.
-
-“The more different situations you can use to develop your software, the better it’s going be,” Kjeldsen said. “That obviously pertains to people, skin tones, whatever it is you might be able to classify individuals as, and it also goes for clothing.”
-
-The NYPD’s cooperation with IBM has since served as a selling point for the product at California State University, Northridge. There, campus police chief Anne Glavin said the technology firm IXP helped sell her on IBM’s object identification product by citing the NYPD’s work with the company. “They talked about what it’s done for New York City. IBM was very much behind that, so this was obviously of great interest to us,” Glavin said.
-
-A monitor showing surveillance footage of a New York street on Sept. 20, 2010, viewed inside the New York City Police Department’s lower Manhattan security center. Photo: Timothy Fadek/Corbis via Getty Images
-
-Day-to-Day Policing, Civil Liberties Concerns
-
-The NYPD-IBM video analytics program was initially envisioned as a counterterrorism tool for use in midtown and lower Manhattan, according to Kjeldsen. However, the program was integrated during its testing phase into dozens of cameras across the city. According to the former NYPD technologist, it could have been integrated into everyday criminal investigations.
-
-“All bureaus of the department could make use of it,” said the former technologist, potentially helping detectives investigate everything from sex crimes to fraud cases. Kjeldsen spoke of cameras being placed at building entrances and near parking entrances to monitor for suspicious loiterers and abandoned bags.
-
-Donald, the NYPD spokesperson, said the program’s access was limited to a small number of counterterrorism officials, adding, “We are not aware of any case where video analytics was a factor in an arrest or prosecution.”
-
-Campus police at California State University, Northridge, who adopted IBM’s software, said the bodily search features have been helpful in criminal investigations. Asked about whether officers have deployed the software’s ability to filter through footage for suspects’ clothing color, hair color, and skin tone, Captain Scott VanScoy at California State University, Northridge, responded affirmatively, relaying a story about how university detectives were able to use such features to quickly filter through their cameras and find two suspects in a sexual assault case.
-
-“We were able to pick up where they were at different locations from earlier that evening and put a story together, so it saves us a ton of time,” Vanscoy said. “By the time we did the interviews, we already knew the story and they didn’t know we had known.”
-
-Glavin, the chief of the campus police, added that surveillance cameras using IBM’s software had been placed strategically across the campus to capture potential security threats, such as car robberies or student protests. “So we mapped out some CCTV in that area and a path of travel to our main administration building, which is sometimes where people will walk to make their concerns known and they like to stand outside that building,” Glavin said. “Not that we’re a big protest campus, we’re certainly not a Berkeley, but it made sense to start to build the exterior camera system there.”
-
-Civil liberties advocates say they are alarmed by the NYPD’s secrecy in helping to develop a program with the potential capacity for mass racial profiling.
-
-The identification technology IBM built could be easily misused after a major terrorist attack, argued Rachel Levinson-Waldman, senior counsel in the Brennan Center’s Liberty and National Security Program. “Whether or not the perpetrator is Muslim, the presumption is often that he or she is,” she said. “It’s easy to imagine law enforcement jumping to a conclusion about the ethnic and religious identity of a suspect, hastily going to the database of stored videos and combing through it for anyone who meets that physical description, and then calling people in for questioning on that basis.” IBM did not comment on questions about the potential use of its software for racial profiling. However, the company did send a comment to The Intercept pointing out that it was “one of the first companies anywhere to adopt a set of principles for trust and transparency for new technologies, including AI systems.” The statement continued on to explain that IBM is “making publicly available to other companies a dataset of annotations for more than a million images to help solve one of the biggest issues in facial analysis — the lack of diverse data to train AI systems.”
-
-Few laws clearly govern object recognition or the other forms of artificial intelligence incorporated into video surveillance, according to Clare Garvie, a law fellow at Georgetown Law’s Center on Privacy and Technology. “Any form of real-time location tracking may raise a Fourth Amendment inquiry,” Garvie said, citing a 2012 Supreme Court case, United States v. Jones, that involved police monitoring a car’s path without a warrant and resulted in five justices suggesting that individuals could have a reasonable expectation of privacy in their public movements. In addition, she said, any form of “identity-based surveillance” may compromise people’s right to anonymous public speech and association.
-
-Garvie noted that while facial recognition technology has been heavily criticized for the risk of false matches, that risk is even higher for an analytics system “tracking a person by other characteristics, like the color of their clothing and their height,” that are not unique characteristics.
-
-The former NYPD technologist acknowledged that video analytics systems can make mistakes, and noted a study where the software had trouble characterizing people of color: “It’s never 100 percent.” But the program’s identification of potential suspects was, he noted, only the first step in a chain of events that heavily relies on human expertise. “The technology operators hand the data off to the detective,” said the technologist. “You use all your databases to look for potential suspects and you give it to a witness to look at. … This is all about finding a way to shorten the time to catch the bad people.”
-
-Object identification programs could also unfairly drag people into police suspicion just because of generic physical characteristics, according to Jerome Greco, a digital forensics staff attorney at the Legal Aid Society, New York’s largest public defenders organization. “I imagine a scenario where a vague description, like young black male in a hoodie, is fed into the system, and the software’s undisclosed algorithm identifies a person in a video walking a few blocks away from the scene of an incident,” Greco said. “The police find an excuse to stop him, and, after the stop, an officer says the individual matches a description from the earlier incident.” All of a sudden, Greco continued, “a man who was just walking in his own neighborhood” could be charged with a serious crime without him or his attorney ever knowing “that it all stemmed from a secret program which he cannot challenge.”
-
-While the technology could be used for appropriate law enforcement work, Kjeldsen said that what bothered him most about his project was the secrecy he and his colleagues had to maintain. “We certainly couldn’t talk about what cameras we were using, what capabilities we were putting on cameras,” Kjeldsen said. “They wanted to control public perception and awareness of LMSI” — the Lower Manhattan Security Initiative — “so we always had to be cautious about even that part of it, that we’re involved, and who we were involved with, and what we were doing.” (IBM did not respond to a question about instructing its employees not to speak publicly about its work with the NYPD.)
-
-The way the NYPD helped IBM develop this technology without the public’s consent sets a dangerous precedent, Kjeldsen argued.
-
-“Are there certain activities that are nobody’s business no matter what?” he asked. “Are there certain places on the boundaries of public spaces that have an expectation of privacy? And then, how do we build tools to enforce that? That’s where we need the conversation. That’s exactly why knowledge of this should become more widely available — so that we can figure that out.”
-
-This article was reported in partnership with the Investigative Fund at the Nation Institute.. On a spring afternoon in 2014, Brisha Borden was running late to pick up her god-sister from school when she spotted an unlocked kid’s blue Huffy bicycle and a silver Razor scooter. Borden and a friend grabbed the bike and scooter and tried to ride them down the street in the Fort Lauderdale suburb of Coral Springs.
-
-Just as the 18-year-old girls were realizing they were too big for the tiny conveyances — which belonged to a 6-year-old boy — a woman came running after them saying, “That’s my kid’s stuff.” Borden and her friend immediately dropped the bike and scooter and walked away.
-
-But it was too late — a neighbor who witnessed the heist had already called the police. Borden and her friend were arrested and charged with burglary and petty theft for the items, which were valued at a total of $80.
-
-Compare their crime with a similar one: The previous summer, 41-year-old Vernon Prater was picked up for shoplifting $86.35 worth of tools from a nearby Home Depot store.
-
-Prater was the more seasoned criminal. He had already been convicted of armed robbery and attempted armed robbery, for which he served five years in prison, in addition to another armed robbery charge. Borden had a record, too, but it was for misdemeanors committed when she was a juvenile.
-
-Yet something odd happened when Borden and Prater were booked into jail: A computer program spat out a score predicting the likelihood of each committing a future crime. Borden — who is black — was rated a high risk. Prater — who is white — was rated a low risk.
-
-Two years later, we know the computer algorithm got it exactly backward. Borden has not been charged with any new crimes. Prater is serving an eight-year prison term for subsequently breaking into a warehouse and stealing thousands of dollars’ worth of electronics.
-
-Scores like this — known as risk assessments — are increasingly common in courtrooms across the nation. They are used to inform decisions about who can be set free at every stage of the criminal justice system, from assigning bond amounts — as is the case in Fort Lauderdale — to even more fundamental decisions about defendants’ freedom. In Arizona, Colorado, Delaware, Kentucky, Louisiana, Oklahoma, Virginia, Washington and Wisconsin, the results of such assessments are given to judges during criminal sentencing.
-
-Rating a defendant’s risk of future crime is often done in conjunction with an evaluation of a defendant’s rehabilitation needs. The Justice Department’s National Institute of Corrections now encourages the use of such combined assessments at every stage of the criminal justice process. And a landmark sentencing reform bill currently pending in Congress would mandate the use of such assessments in federal prisons.
-
-Two Petty Theft Arrests Vernon Prater Prior Offenses 2 armed robberies, 1 attempted armed robbery Low Risk 3 Subsequent Offenses 1 grand theft Brisha Borden Prior Offenses 4 juvenile misdemeanors High Risk 8 Subsequent Offenses None Borden was rated high risk for future crime after she and a friend took a kid’s bike and scooter that were sitting outside. She did not reoffend.
-
-In 2014, then U.S. Attorney General Eric Holder warned that the risk scores might be injecting bias into the courts. He called for the U.S. Sentencing Commission to study their use. “Although these measures were crafted with the best of intentions, I am concerned that they inadvertently undermine our efforts to ensure individualized and equal justice,” he said, adding, “they may exacerbate unwarranted and unjust disparities that are already far too common in our criminal justice system and in our society.”
-
-The sentencing commission did not, however, launch a study of risk scores. So ProPublica did, as part of a larger examination of the powerful, largely hidden effect of algorithms in American life.
-
-We obtained the risk scores assigned to more than 7,000 people arrested in Broward County, Florida, in 2013 and 2014 and checked to see how many were charged with new crimes over the next two years, the same benchmark used by the creators of the algorithm.
-
-The score proved remarkably unreliable in forecasting violent crime: Only 20 percent of the people predicted to commit violent crimes actually went on to do so.
-
-When a full range of crimes were taken into account — including misdemeanors such as driving with an expired license — the algorithm was somewhat more accurate than a coin flip. Of those deemed likely to re-offend, 61 percent were arrested for any subsequent crimes within two years.
-
-We also turned up significant racial disparities, just as Holder feared. In forecasting who would re-offend, the algorithm made mistakes with black and white defendants at roughly the same rate but in very different ways.
-
-The formula was particularly likely to falsely flag black defendants as future criminals, wrongly labeling them this way at almost twice the rate as white defendants.
-
-White defendants were mislabeled as low risk more often than black defendants.
-
-Could this disparity be explained by defendants’ prior crimes or the type of crimes they were arrested for? No. We ran a statistical test that isolated the effect of race from criminal history and recidivism, as well as from defendants’ age and gender. Black defendants were still 77 percent more likely to be pegged as at higher risk of committing a future violent crime and 45 percent more likely to be predicted to commit a future crime of any kind. (Read our analysis.)
-
-The algorithm used to create the Florida risk scores is a product of a for-profit company, Northpointe. The company disputes our analysis.
-
-In a letter, it criticized ProPublica’s methodology and defended the accuracy of its test: “Northpointe does not agree that the results of your analysis, or the claims being made based upon that analysis, are correct or that they accurately reflect the outcomes from the application of the model.”
-
-Northpointe’s software is among the most widely used assessment tools in the country. The company does not publicly disclose the calculations used to arrive at defendants’ risk scores, so it is not possible for either defendants or the public to see what might be driving the disparity. (On Sunday, Northpointe gave ProPublica the basics of its future-crime formula — which includes factors such as education levels, and whether a defendant has a job. It did not share the specific calculations, which it said are proprietary.)
-
-Northpointe’s core product is a set of scores derived from 137 questions that are either answered by defendants or pulled from criminal records. Race is not one of the questions. The survey asks defendants such things as: “Was one of your parents ever sent to jail or prison?” “How many of your friends/acquaintances are taking drugs illegally?” and “How often did you get in fights while at school?” The questionnaire also asks people to agree or disagree with statements such as “A hungry person has a right to steal” and “If people make me angry or lose my temper, I can be dangerous.”
-
-The appeal of risk scores is obvious: The United States locks up far more people than any other country, a disproportionate number of them black. For more than two centuries, the key decisions in the legal process, from pretrial release to sentencing to parole, have been in the hands of human beings guided by their instincts and personal biases.
-
-If computers could accurately predict which defendants were likely to commit new crimes, the criminal justice system could be fairer and more selective about who is incarcerated and for how long. The trick, of course, is to make sure the computer gets it right. If it’s wrong in one direction, a dangerous criminal could go free. If it’s wrong in another direction, it could result in someone unfairly receiving a harsher sentence or waiting longer for parole than is appropriate.
-
-The first time Paul Zilly heard of his score — and realized how much was riding on it — was during his sentencing hearing on Feb. 15, 2013, in court in Barron County, Wisconsin. Zilly had been convicted of stealing a push lawnmower and some tools. The prosecutor recommended a year in county jail and follow-up supervision that could help Zilly with “staying on the right path.” His lawyer agreed to a plea deal.
-
-But Judge James Babler had seen Zilly’s scores. Northpointe’s software had rated Zilly as a high risk for future violent crime and a medium risk for general recidivism. “When I look at the risk assessment,” Babler said in court, “it is about as bad as it could be.”
-
-Then Babler overturned the plea deal that had been agreed on by the prosecution and defense and imposed two years in state prison and three years of supervision.
-
-Criminologists have long tried to predict which criminals are more dangerous before deciding whether they should be released. Race, nationality and skin color were often used in making such predictions until about the 1970s, when it became politically unacceptable, according to a survey of risk assessment tools by Columbia University law professor Bernard Harcourt.
-
-In the 1980s, as a crime wave engulfed the nation, lawmakers made it much harder for judges and parole boards to exercise discretion in making such decisions. States and the federal government began instituting mandatory sentences and, in some cases, abolished parole, making it less important to evaluate individual offenders.
-
-But as states struggle to pay for swelling prison and jail populations, forecasting criminal risk has made a comeback.
-
-Two Drug Possession Arrests Dylan Fugett Prior Offense 1 attempted burglary Low Risk 3 Subsequent Offenses 3 drug possessions Bernard Parker Prior Offense 1 resisting arrest without violence High Risk 10 Subsequent Offenses None Fugett was rated low risk after being arrested with cocaine and marijuana. He was arrested three times on drug charges after that.
-
-Dozens of risk assessments are being used across the nation — some created by for-profit companies such as Northpointe and others by nonprofit organizations. (One tool being used in states including Kentucky and Arizona, called the Public Safety Assessment, was developed by the Laura and John Arnold Foundation, which also is a funder of ProPublica.)
-
-There have been few independent studies of these criminal risk assessments. In 2013, researchers Sarah Desmarais and Jay Singh examined 19 different risk methodologies used in the United States and found that “in most cases, validity had only been examined in one or two studies” and that “frequently, those investigations were completed by the same people who developed the instrument.”
-
-Their analysis of the research through 2012 found that the tools “were moderate at best in terms of predictive validity,” Desmarais said in an interview. And she could not find any substantial set of studies conducted in the United States that examined whether risk scores were racially biased. “The data do not exist,” she said.
-
-Since then, there have been some attempts to explore racial disparities in risk scores. One 2016 study examined the validity of a risk assessment tool, not Northpointe’s, used to make probation decisions for about 35,000 federal convicts. The researchers, Jennifer Skeem at University of California, Berkeley, and Christopher T. Lowenkamp from the Administrative Office of the U.S. Courts, found that blacks did get a higher average score but concluded the differences were not attributable to bias.
-
-The increasing use of risk scores is controversial and has garnered media coverage, including articles by the Associated Press, and the Marshall Project and FiveThirtyEight last year.
-
-Most modern risk tools were originally designed to provide judges with insight into the types of treatment that an individual might need — from drug treatment to mental health counseling.
-
-“What it tells the judge is that if I put you on probation, I’m going to need to give you a lot of services or you’re probably going to fail,” said Edward Latessa, a University of Cincinnati professor who is the author of a risk assessment tool that is used in Ohio and several other states.
-
-But being judged ineligible for alternative treatment — particularly during a sentencing hearing — can translate into incarceration. Defendants rarely have an opportunity to challenge their assessments. The results are usually shared with the defendant’s attorney, but the calculations that transformed the underlying data into a score are rarely revealed.
-
-“Risk assessments should be impermissible unless both parties get to see all the data that go into them,” said Christopher Slobogin, director of the criminal justice program at Vanderbilt Law School. “It should be an open, full-court adversarial proceeding.”
-
-Black Defendants’ Risk Scores White Defendants’ Risk Scores These charts show that scores for white defendants were skewed toward lower-risk categories. Scores for black defendants were not. (Source: ProPublica analysis of data from Broward County, Fla.)
-
-Proponents of risk scores argue they can be used to reduce the rate of incarceration. In 2002, Virginia became one of the first states to begin using a risk assessment tool in the sentencing of nonviolent felony offenders statewide. In 2014, Virginia judges using the tool sent nearly half of those defendants to alternatives to prison, according to a state sentencing commission report. Since 2005, the state’s prison population growth has slowed to 5 percent from a rate of 31 percent the previous decade.
-
-In some jurisdictions, such as Napa County, California, the probation department uses risk assessments to suggest to the judge an appropriate probation or treatment plan for individuals being sentenced. Napa County Superior Court Judge Mark Boessenecker said he finds the recommendations helpful. “We have a dearth of good treatment programs, so filling a slot in a program with someone who doesn’t need it is foolish,” he said.
-
-However, Boessenecker, who trains other judges around the state in evidence-based sentencing, cautions his colleagues that the score doesn’t necessarily reveal whether a person is dangerous or if they should go to prison.
-
-“A guy who has molested a small child every day for a year could still come out as a low risk because he probably has a job,” Boessenecker said. “Meanwhile, a drunk guy will look high risk because he’s homeless. These risk factors don’t tell you whether the guy ought to go to prison or not; the risk factors tell you more about what the probation conditions ought to be.”
-
-“I’m surprised [my risk score] is so low. I spent five years in state prison in Massachusetts.” (Josh Ritchie for ProPublica)
-
-Sometimes, the scores make little sense even to defendants.
-
-James Rivelli, a 54-year old Hollywood, Florida, man, was arrested two years ago for shoplifting seven boxes of Crest Whitestrips from a CVS drugstore. Despite a criminal record that included aggravated assault, multiple thefts and felony drug trafficking, the Northpointe algorithm classified him as being at a low risk of reoffending.
-
-“I am surprised it is so low,” Rivelli said when told by a reporter he had been rated a 3 out of a possible 10. “I spent five years in state prison in Massachusetts. But I guess they don’t count that here in Broward County.” In fact, criminal records from across the nation are supposed to be included in risk assessments.
-
-Less than a year later, he was charged with two felony counts for shoplifting about $1,000 worth of tools from Home Depot. He said his crimes were fueled by drug addiction and that he is now sober.
-
-Northpointe was founded in 1989 by Tim Brennan, then a professor of statistics at the University of Colorado, and Dave Wells, who was running a corrections program in Traverse City, Michigan.
-
-Wells had built a prisoner classification system for his jail. “It was a beautiful piece of work,” Brennan said in an interview conducted before ProPublica had completed its analysis. Brennan and Wells shared a love for what Brennan called “quantitative taxonomy” — the measurement of personality traits such as intelligence, extroversion and introversion. The two decided to build a risk assessment score for the corrections industry.
-
-Brennan wanted to improve on a leading risk assessment score, the LSI, or Level of Service Inventory, which had been developed in Canada. “I found a fair amount of weakness in the LSI,” Brennan said. He wanted a tool that addressed the major theories about the causes of crime.
-
-Brennan and Wells named their product the Correctional Offender Management Profiling for Alternative Sanctions, or COMPAS. It assesses not just risk but also nearly two dozen so-called “criminogenic needs” that relate to the major theories of criminality, including “criminal personality,” “social isolation,” “substance abuse” and “residence/stability.” Defendants are ranked low, medium or high risk in each category.
-
-Two DUI Arrests Gregory Lugo Prior Offenses 3 DUIs, 1 battery Low Risk 1 Subsequent Offenses 1 domestic violence battery Mallory Williams Prior Offenses 2 misdemeanors Medium Risk 6 Subsequent Offenses None Lugo crashed his Lincoln Navigator into a Toyota Camry while drunk. He was rated as a low risk of reoffending despite the fact that it was at least his fourth DUI.
-
-As often happens with risk assessment tools, many jurisdictions have adopted Northpointe’s software before rigorously testing whether it works. New York State, for instance, started using the tool to assess people on probation in a pilot project in 2001 and rolled it out to the rest of the state’s probation departments — except New York City — by 2010. The state didn’t publish a comprehensive statistical evaluation of the tool until 2012. The study of more than 16,000 probationers found the tool was 71 percent accurate, but it did not evaluate racial differences.
-
-A spokeswoman for the New York state division of criminal justice services said the study did not examine race because it only sought to test whether the tool had been properly calibrated to fit New York’s probation population. She also said judges in nearly all New York counties are given defendants’ Northpointe assessments during sentencing.
-
-In 2009, Brennan and two colleagues published a validation study that found that Northpointe’s risk of recidivism score had an accuracy rate of 68 percent in a sample of 2,328 people. Their study also found that the score was slightly less predictive for black men than white men — 67 percent versus 69 percent. It did not examine racial disparities beyond that, including whether some groups were more likely to be wrongly labeled higher risk.
-
-Brennan said it is difficult to construct a score that doesn’t include items that can be correlated with race — such as poverty, joblessness and social marginalization. “If those are omitted from your risk assessment, accuracy goes down,” he said.
-
-In 2011, Brennan and Wells sold Northpointe to Toronto-based conglomerate Constellation Software for an undisclosed sum.
-
-Wisconsin has been among the most eager and expansive users of Northpointe’s risk assessment tool in sentencing decisions. In 2012, the Wisconsin Department of Corrections launched the use of the software throughout the state. It is used at each step in the prison system, from sentencing to parole.
-
-In a 2012 presentation, corrections official Jared Hoy described the system as a “giant correctional pinball machine” in which correctional officers could use the scores at every “decision point.”
-
-Wisconsin has not yet completed a statistical validation study of the tool and has not said when one might be released. State corrections officials declined repeated requests to comment for this article.
-
-Some Wisconsin counties use other risk assessment tools at arrest to determine if a defendant is too risky for pretrial release. Once a defendant is convicted of a felony anywhere in the state, the Department of Corrections attaches Northpointe’s assessment to the confidential presentence report given to judges, according to Hoy’s presentation.
-
-In theory, judges are not supposed to give longer sentences to defendants with higher risk scores. Rather, they are supposed to use the tests primarily to determine which defendants are eligible for probation or treatment programs.
-
-Prediction Fails Differently for Black Defendants White African American Labeled Higher Risk, But Didn’t Re-Offend 23.5% 44.9% Labeled Lower Risk, Yet Did Re-Offend 47.7% 28.0% Overall, Northpointe’s assessment tool correctly predicts recidivism 61 percent of the time. But blacks are almost twice as likely as whites to be labeled a higher risk but not actually re-offend. It makes the opposite mistake among whites: They are much more likely than blacks to be labeled lower risk but go on to commit other crimes. (Source: ProPublica analysis of data from Broward County, Fla.)
-
-But judges have cited scores in their sentencing decisions. In August 2013, Judge Scott Horne in La Crosse County, Wisconsin, declared that defendant Eric Loomis had been “identified, through the COMPAS assessment, as an individual who is at high risk to the community.” The judge then imposed a sentence of eight years and six months in prison.
-
-Loomis, who was charged with driving a stolen vehicle and fleeing from police, is challenging the use of the score at sentencing as a violation of his due process rights. The state has defended Horne’s use of the score with the argument that judges can consider the score in addition to other factors. It has also stopped including scores in presentencing reports until the state Supreme Court decides the case.
-
-“The risk score alone should not determine the sentence of an offender,” Wisconsin Assistant Attorney General Christine Remington said last month during state Supreme Court arguments in the Loomis case. “We don’t want courts to say, this person in front of me is a 10 on COMPAS as far as risk, and therefore I’m going to give him the maximum sentence.”
-
-That is almost exactly what happened to Zilly, the 48-year-old construction worker sent to prison for stealing a push lawnmower and some tools he intended to sell for parts. Zilly has long struggled with a meth habit. In 2012, he had been working toward recovery with the help of a Christian pastor when he relapsed and committed the thefts.
-
-After Zilly was scored as a high risk for violent recidivism and sent to prison, a public defender appealed the sentence and called the score’s creator, Brennan, as a witness.
-
-Brennan testified that he didn’t design his software to be used in sentencing. “I wanted to stay away from the courts,” Brennan said, explaining that his focus was on reducing crime rather than punishment. “But as time went on I started realizing that so many decisions are made, you know, in the courts. So I gradually softened on whether this could be used in the courts or not.”
-
-“Not that I’m innocent, but I just believe people do change.” (Stephen Maturen for ProPublica)
-
-Still, Brennan testified, “I don’t like the idea myself of COMPAS being the sole evidence that a decision would be based upon.”
-
-After Brennan’s testimony, Judge Babler reduced Zilly’s sentence, from two years in prison to 18 months. “Had I not had the COMPAS, I believe it would likely be that I would have given one year, six months,” the judge said at an appeals hearing on Nov. 14, 2013.
-
-Zilly said the score didn’t take into account all the changes he was making in his life — his conversion to Christianity, his struggle to quit using drugs and his efforts to be more available for his son. “Not that I’m innocent, but I just believe people do change.”
-
-Florida’s Broward County, where Brisha Borden stole the Huffy bike and was scored as high risk, does not use risk assessments in sentencing. “We don’t think the [risk assessment] factors have any bearing on a sentence,” said David Scharf, executive director of community programs for the Broward County Sheriff’s Office in Fort Lauderdale.
-
-Broward County has, however, adopted the score in pretrial hearings, in the hope of addressing jail overcrowding. A court-appointed monitor has overseen Broward County’s jails since 1994 as a result of the settlement of a lawsuit brought by inmates in the 1970s. Even now, years later, the Broward County jail system is often more than 85 percent full, Scharf said.
-
-In 2008, the sheriff’s office decided that instead of building another jail, it would begin using Northpointe’s risk scores to help identify which defendants were low risk enough to be released on bail pending trial. Since then, nearly everyone arrested in Broward has been scored soon after being booked. (People charged with murder and other capital crimes are not scored because they are not eligible for pretrial release.)
-
-The scores are provided to the judges who decide which defendants can be released from jail. “My feeling is that if they don’t need them to be in jail, let’s get them out of there,” Scharf said.
-
-Two Shoplifting Arrests James Rivelli Prior Offenses 1 domestic violence aggravated assault, 1 grand theft, 1 petty theft, 1 drug trafficking Low Risk 3 Subsequent Offenses 1 grand theft Robert Cannon Prior Offense 1 petty theft Medium Risk 6 Subsequent Offenses None After Rivelli stole from a CVS and was caught with heroin in his car, he was rated a low risk. He later shoplifted $1,000 worth of tools from a Home Depot.
-
-Scharf said the county chose Northpointe’s software over other tools because it was easy to use and produced “simple yet effective charts and graphs for judicial review.” He said the system costs about $22,000 a year.
-
-In 2010, researchers at Florida State University examined the use of Northpointe’s system in Broward County over a 12-month period and concluded that its predictive accuracy was “equivalent” in assessing defendants of different races. Like others, they did not examine whether different races were classified differently as low or high risk.
-
-Scharf said the county would review ProPublica’s findings. “We’ll really look at them up close,” he said.
-
-Broward County Judge John Hurley, who oversees most of the pretrial release hearings, said the scores were helpful when he was a new judge, but now that he has experience he prefers to rely on his own judgment. “I haven’t relied on COMPAS in a couple years,” he said.
-
-Hurley said he relies on factors including a person’s prior criminal record, the type of crime committed, ties to the community, and their history of failing to appear at court proceedings.
-
-ProPublica’s analysis reveals that higher Northpointe scores are slightly correlated with longer pretrial incarceration in Broward County. But there are many reasons that could be true other than judges being swayed by the scores — people with higher risk scores may also be poorer and have difficulty paying bond, for example.
-
-Most crimes are presented to the judge with a recommended bond amount, but he or she can adjust the amount. Hurley said he often releases first-time or low-level offenders without any bond at all.
-
-However, in the case of Borden and her friend Sade Jones, the teenage girls who stole a kid’s bike and scooter, Hurley raised the bond amount for each girl from the recommended $0 to $1,000 each.
-
-Hurley said he has no recollection of the case and cannot recall if the scores influenced his decision.
-
-Sade Jones, who had never been arrested before, was rated a medium risk. (Josh Ritchie for ProPublica)
-
-The girls spent two nights in jail before being released on bond.
-
-“We literally sat there and cried” the whole time they were in jail, Jones recalled. The girls were kept in the same cell. Otherwise, Jones said, “I would have gone crazy.” Borden declined repeated requests to comment for this article.
-
-Jones, who had never been arrested before, was rated a medium risk. She completed probation and got the felony burglary charge reduced to misdemeanor trespassing, but she has still struggled to find work.
-
-“I went to McDonald’s and a dollar store, and they all said no because of my background,” she said. “It’s all kind of difficult and unnecessary.”
-
-Julia Angwin is a senior reporter at ProPublica. From 2000 to 2013, she was a reporter at The Wall Street Journal, where she led a privacy investigative team that was a finalist for a Pulitzer Prize in Explanatory Reporting in 2011 and won a Gerald Loeb Award in 2010.. Decades ago, when imagining the practical uses of artificial intelligence, science fiction writers imagined autonomous digital minds that could serve humanity. Sure, sometimes a HAL 9000 or WOPR would subvert expectations and go rogue, but that was very much unintentional, right?
-
-And for many aspects of life, artificial intelligence is delivering on its promise. AI is, as we speak, looking for evidence of life on Mars. Scientists are using AI to try to develop more accurate and faster ways to predict the weather.
-
-
-
-But when it comes to policing, the actuality of the situation is much less optimistic. Our HAL 9000 does not assert its own decisions on the world—instead, programs which claim to use AI for policing just reaffirm, justify, and legitimize the opinions and actions already being undertaken by police departments.
-
-
-
-AI presents two problems: tech-washing, and a classic feedback loop. Tech-washing is the process by which proponents of the outcomes can defend those outcomes as unbiased because they were derived from “math.” And the feedback loop is how that math continues to perpetuate historically-rooted harmful outcomes. “The problem of using algorithms based on machine learning is that if these automated systems are fed with examples of biased justice, they will end up perpetuating these same biases,” as one philosopher of science notes.
-
-
-
-Far too often artificial intelligence in policing is fed data collected by police, and therefore can only predict crime based on data from neighborhoods that police are already policing. But crime data is notoriously inaccurate, so policing AI not only misses the crime that happens in other neighborhoods, it reinforces the idea that the neighborhoods they are already over-policed are exactly the neighborhoods that police are correct to direct patrols and surveillance to.
-
-
-
-How AI tech washes unjust data created by an unjust criminal justice system is becoming more and more apparent.
-
-
-
-In 2021, we got a better glimpse into what “data-driven policing” really means. An investigation conducted by Gizmodo and The Markup showed that the software that put PredPol, now called Geolitica, on the map disproportionately predicts that crime will be committed in neighborhoods inhabited by working-class people, people of color, and Black people in particular. You can read here about the technical and statistical analysis they did in order to show how these algorithms perpetuate racial disparities in the criminal justice system.
-
-
-
-Gizmodo reports that, “For the 11 departments that provided arrest data, we found that rates of arrest in predicted areas remained the same whether PredPol predicted a crime that day or not. In other words, we did not find a strong correlation between arrests and predictions.” This is precisely why so-called predictive policing or any data-driven policing schemes should not be used. Police patrol neighborhoods inhabited primarily by people of color--that means these are the places where they make arrests and write citations. The algorithm factors in these arrests and determines these areas are likely to be the witness of crimes in the future, thus justifying heavy police presence in Black neighborhoods. And so the cycle continues again.
-
-
-
-This can occur with other technologies that rely on artificial intelligence, like acoustic gunshot detection, which can send false-positive alerts to police signifying the presence of gunfire.
-
-
-
-This year we also learned that at least one so-called artificial intelligence company which received millions of dollars and untold amounts of government data from the state of Utah actually could not deliver on their promises to help direct law enforcement and public services to problem areas.
-
-This is precisely why a number of cities, including Santa Cruz and New Orleans, have banned government use of predictive policing programs. As Santa Cruz’s mayor said at the time, “If we have racial bias in policing, what that means is that the data that’s going into these algorithms is already inherently biased and will have biased outcomes, so it doesn’t make any sense to try and use technology when the likelihood that it’s going to negatively impact communities of color is apparent.”
-
-
-
-Next year, the fight against irresponsible police use of artificial intelligence and machine learning will continue. EFF will continue to support local and state governments in their fight against so-called predictive or data-driven policing.
-
-This article is part of our Year in Review series. Read other articles about the fight for digital rights in 2021.. 
+"Predictive policing is clearly not a solution, and it'll transfer existing bias and existing iniquities in the current policing system into a predictive approach," Cyril said. "It's not technology that makes the place a city more efficient and a better place to live. For us, it'll make the city unlivable.". 
 
 
 
@@ -1862,120 +1042,122 @@ And that, too, was Ferguson’s point.
 
 Read the full peer-reviewed analysis on which this report is based here.
 
-. A police officer stands at the corner of a busy intersection, scanning the crowd with her body camera. The feed is live-streamed into the Real Time Crime Center at department headquarters, where specialized software uses biometric recognition to determine if there are any persons of interests on the street.
+. Gabriel Dance Mark Hansen
 
-Data analysts alert the officer that a man with an abnormally high threat score is among the crowd; the officer approaches him to deliver a “custom notification”, warning him that the police will not tolerate criminal behavior. He is now registered in a database of potential offenders.
 
-Overhead, a light aircraft outfitted with an array of surveillance cameras flies around the city, persistently keeping watch over entire sectors, recording everything that happens and allowing police to stop, rewind and zoom in on specific people or vehicles …
 
-None of this is techno-paranoia from the mind of Philip K Dick or Black Mirror, but rather existing technologies that are already becoming standard parts of policing.
+Additional production by Andy Rossback Graphics byandAdditional production by
 
-The California city of Fresno is just one of the police departments in the US already using a software program called “Beware” to generate “threat scores” about an individual, address or area. As reported by the Washington Post in January, the software works by processing “billions of data points, including arrest reports, property records, commercial databases, deep web searches and the [person’s] social media postings”.
+Just over a year after Michael Brown’s death became a focal point for a national debate about policing and race, Ferguson and nearby St. Louis suburbs have returned to what looks, from the outside, like a kind of normalcy. Near the Canfield Green apartments, where Brown was shot by police officer Darren Wilson, a sign reading “Hands Up Don’t Shoot” and a mountain of teddy bears have been cleared away. The McDonald’s on West Florissant Avenue, where protesters nursed rubber bullet wounds and escaped tear gas, is now just another McDonald’s.
 
-A brochure for Beware uses a hypothetical example of a veteran diagnosed with PTSD, indicating they also take into account health-related data. Scores are colour-coded so officers can know at a glance what level the threat is: green, yellow or red.
+This story was produced in collaboration with
 
-Chicago's computer-generated heat list profiled potential criminals – essentially suspects for crimes not yet committed
+Half a mile down the road in the city of Jennings, between the China King restaurant and a Cricket cell phone outlet, sits an empty room that the St. Louis County Police Department keeps as a substation. During the protests, it was a war room, where law enforcement leaders planned their responses to the chaos outside.
 
-This is just one of many new technologies facilitating “data-driven policing”. The collection of vast amounts of data for use with analytics programs allows police to gather data from just about any source and for just about any reason.
+One day last December, a few Jennings police officers flicked on the substation’s fluorescent lights and gathered around a big table to eat sandwiches. The conversation drifted between the afternoon shift’s mundane roll of stops, searches, and arrests, and the day’s main excitement: the officers were trying out a new software program called HunchLab, which crunches vast amounts of data to help predict where crime will happen next.
 
-The holy grail is ‘predictive policing’
+The conversation also turned to the grand anxieties of post-Ferguson policing. “Nobody wants to be the next Darren Wilson,” Officer Trevor Voss told me. They didn’t personally know Wilson. Police jurisdiction in St. Louis is notoriously labyrinthine and includes dozens of small, local municipal agencies like the Ferguson Police Department, where Wilson worked — munis, the officers call them — and the St. Louis County Police Department, which patrols areas not covered by the munis and helps with “resource intense events,” like the protests in Ferguson. The munis have been the targets of severe criticism; in the aftermath 2014's protests, Ferguson police were accused by the federal Department of Justice of being racially discriminatory and poorly trained, more concerned with handing out tickets to fund municipal coffers than with public safety.
 
-“Soon it will be feasible and affordable for the government to record, store and analyze nearly everything we do,” writes law professor Elizabeth Joh in Harvard Law & Policy Review. “The police will rely on alerts generated by computer programs that sift through the massive quantities of available information for patterns of suspicious activity.”
+The officers in Jennings work for the St. Louis County Police Department; in 2014, their colleagues appeared on national TV, pointing sniper rifles at protesters from armored trucks. Since then, the agency has also been called out by the Justice Department for, among other things, its lack of engagement with the community.
 
-The holy grail of data-fueled analytics is called “predictive policing”, which uses statistical models to tell officers where crime is likely to happen and who is likely to commit it.
+ST. LOUIS COUNTY HUNCHLAB CRIME MAP ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD FLORISSANT St. Louis 70 ST CHARLES BALLWIN KIRKWOOD 270 FERGUSON FENTON JENNINGS MEHLVILLE Mississippi River MARYLAND HEIGHTS 64 St. Louis CHESTERFIELD 5 miles CREVE COEUR CLAYTON ST. LOUIS COUNTY POLICE DEPARTMENT JURISIDICTION BALLWIN WILDWOOD ST CHARLES KIRKWOOD FLORISSANT 55 FERGUSON JENNINGS FENTON Mississippi River CHESTERFIELD 255 St. Louis MEHLVILLE 44 BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles 5 miles ST. LOUIS COUNTY POLICE JURISIDICTION ST. LOUIS COUNTY ST CHARLES FLORISSANT FLORISSANT FERGUSON FERGUSON JENNINGS JENNINGS Mississippi River Mississippi River CHESTERFIELD CHESTERFIELD St. Louis St. Louis BALLWIN BALLWIN FENTON FENTON MEHLVILLE MEHLVILLE 5 miles 5 miles HUNCHLAB CRIME MAP ST CHARLES FLORISSANT 70 FERGUSON 270 JENNINGS 64 Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD 55 255 FENTON MEHLVILLE 44 5 miles ST. LOUIS COUNTY ST CHARLES FLORISSANT 70 FERGUSON 270 JENNINGS 64 Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD 55 255 FENTON MEHLVILLE 44 5 miles ST. LOUIS COUNTY POLICE JURISIDICTION ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles HUNCHLAB CRIME MAP ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles
 
-In February 2014, the Chicago police department (CPD) attracted attention when officers pre-emptively visited residents on a computer-generated “heat list”, which marked them as likely to be involved in a future violent crime. These people had done nothing wrong, but the CPD wanted to let them know that officers would be keeping tabs on them.
+Still, the county police enjoy a better local reputation than the munis. Over the last five years, Jennings precinct commander Jeff Fuesting has tried to improve relations between officers — nearly all white — and residents — nearly all black — by going door to door for “Walk and Talks.” Fuesting had expressed interest in predictive policing years before, so when the department heads brought in HunchLab, they asked his precinct to roll it out first. They believed that data could help their officers police better and more objectively. By identifying and aggressively patrolling “hot spots,” as determined by the software, the police wanted to deter crime before it ever happened.
 
-Essentially, they were already considered suspects for crimes not yet committed.
+HunchLab, produced by Philadelphia-based startup Azavea, represents the newest iteration of predictive policing, a method of analyzing crime data and identifying patterns that may repeat into the future. HunchLab primarily surveys past crimes, but also digs into dozens of other factors like population density; census data; the locations of bars, churches, schools, and transportation hubs; schedules for home games — even moon phases. Some of the correlations it uncovers are obvious, like less crime on cold days. Others are more mysterious: rates of aggravated assault in Chicago have decreased on windier days, while cars in Philadelphia were stolen more often when parked near schools.
 
-From Fresno to New York, and Rio to Singapore, data analysts sit at the helm of futuristic control rooms, powered by systems such as IBM’s Intelligent Operations Center and Siemens’ City Cockpit. Monitors pipe in feeds from hundreds or even thousands of surveillance cameras in the city.
+What Is Predictive Policing?
 
-Is this really the promise of a ‘smart city’?
+At the same time, a growing chorus of activists and academics worry that the reliance on data is a sign that police departments have not adequately heeded the lessons of Ferguson. Kade Crockford, the director of the Technology for Liberty program at the Massachusetts ACLU, says that predictive policing is based on “data from a society that has not reckoned with its past,” adding “a veneer of technological authority” to policing practices that still disproportionately target young black men. In other cities, some police departments are even moving toward predicting which people, rather than which places, are most crime-prone.
 
-These analysts have access to massive databases of citizens’ records. Sensors installed around the city detect pedestrian traffic and suspicious activities. Software programs run analytics on all this data in order to generate alerts and “actionable insights”.
+“At a time when communities are crying out for justice,” Crockford told me, “I never heard anyone in one of these communities say, ‘I think police need to use more computers!’”
 
-Neither IBM nor the Chicago Police Department responded to a request to comment. But it this is the new model of how policing should be done in an era of “smart cities”?
+Predicting crime has always been part of police work; any beat cop can tell you that a particularly dark street corner is vulnerable to carjackers, or a large parking lot offers anonymity for drug dealers. Scholars have been mapping crime since the 1800s, but during New York City’s crime spike in the 1990s, police officers started doing so systematically. Most notable among them was Jack Maple, a quick-talking, up-from-the-bottom transit cop who wore double-breasted suits, homburg hats, and two-tone shoes and has become a near-mythic figure in police circles. At the NYPD’s Manhattan headquarters, Maple would stretch out butcher paper across 55 feet of wall space. "I called them the Charts of the Future," he once told an interviewer. “I mapped every train station in New York City and every train. Then I used crayons to mark every violent crime, robbery, and grand larceny that occurred.”
 
-These analytics can be used to great effect, potentially enhancing the ability of police to make more informed, less biased decisions about law enforcement. But they are often used in dubious ways and for repressive purposes. It is unclear – especially for analytics tools developed and sold by private tech companies – how exactly they even work.
+Maple’s boss, Police Commissioner Bill Bratton, sent officers to patrol the areas Maple marked up. The process evolved into an entire system of police management called CompStat, which uses data to hold individual precinct commanders accountable for the crime levels in their areas. In varying forms, “hot-spot policing” has spread throughout the nation’s police departments. Bratton calls it “computerized fishing.”
 
-What data are they using? How are they weighing variables? What values and biases are coded into them? Even the companies that develop them can’t answer all those questions, and what they do know can’t be divulged because of trade secrets.
+Homicide Aggravated Assault GUN CRIME R0bbery ST CHARLES ST CHARLES FLORISSANT FLORISSANT SIMPLE ASSAULT FERGUSON FERGUSON JENNINGS JENNINGS GUN CRIMES Mississippi River Mississippi River CHESTERFIELD CHESTERFIELD aggrAvated assault St. Louis St. Louis Drunk driving BALLWIN BALLWIN KIRKWOOD KIRKWOOD VEHICLE ACCIDENT FENTON FENTON MEHLVILLE MEHLVILLE TRESPASSING burglary 5 miles 5 miles larceny Time Location Last Occurrence Aggravated assault (assault with a dangerous weapon) makes up 18.5 percent of the overall risk score assigned to a cell. The darkest regions on this map represent cells with a 1 in 320 chance of at least one aggravated assault taking place there during the shift. Gun crime (all homicides, robberies, and aggravated assaults with a firearm) makes up about 16.5 percent of the overall risk score. The darkest regions represent a 1 in 850 chance of at least one gun crime taking place. DRIVING WHILE INTOXICATED TRESPASSING HOMICIDE ST CHARLES ST CHARLES FLORISSANT FLORISSANT FLORISSANT ST CHARLES FERGUSON FERGUSON FERGUSON JENNINGS JENNINGS JENNINGS Mississippi River Mississippi River Mississippi River CHESTERFIELD CHESTERFIELD CHESTERFIELD St. Louis St. Louis St. Louis BALLWIN BALLWIN BALLWIN KIRKWOOD KIRKWOOD KIRKWOOD FENTON FENTON FENTON MEHLVILLE MEHLVILLE MEHLVILLE 5 miles 5 miles 5 miles Driving while intoxicated makes up 10 percent of the total risk score. The darkest regions represent a 1 in 1,300 chance of at least one DWI taking place. Trespassing makes up about 10 percent of the total risk score. The darkest regions represent cells a 1.7 percent chance of at least one act of trespassing taking place. Homicides make up 0.66 percent of the total risk score assigned to a cell. The two darkest cells on this map present a 3 percent chance of at least one homicide taking place. Homicide R0bbery SIMPLE ASSAULT GUN CRIMES aggrAvated assault Drunk driving VEHICLE ACCIDENT TRESPASSING burglary larceny Time Location Last Occurrence Aggravated Assault ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Aggravated assault (assault with a dangerous weapon) makes up 18.5 percent of the overall risk score assigned to a cell. The darkest regions on this map represent cells with a 1 in 320 chance of at least one aggravated assault taking place there during the shift. GUN CRIME ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Gun crime (all homicides, robberies, and aggravated assaults with a firearm) makes up about 16.5 percent of the overall risk score. The darkest regions represent a 1 in 850 chance of at least one gun crime taking place. DRIVING WHILE INTOXICATED FLORISSANT ST CHARLES FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Driving while intoxicated makes up 10 percent of the total risk score. The darkest regions represent a 1 in 1,300 chance of at least one DWI taking place. TRESPASSING ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Trespassing makes up about 10 percent of the total risk score. The darkest regions represent cells a 1.7 percent chance of at least one act of trespassing taking place. HOMICIDE ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Homicides make up 0.66 percent of the total risk score assigned to a cell. The two darkest cells on this map present a 3 percent chance of at least one homicide taking place. Homicide R0bbery SIMPLE ASSAULT GUN CRIMES aggrAvated assault Drunk driving VEHICLE ACCIDENT TRESPASSING burglary larceny Time Location Last Occurrence Aggravated Assault ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Aggravated assault (assault with a dangerous weapon) makes up 18.5 percent of the overall risk score assigned to a cell. The darkest regions on this map represent cells with a 1 in 320 chance of at least one aggravated assault taking place there during the shift. GUN CRIME ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Gun crime (all homicides, robberies, and aggravated assaults with a firearm) makes up about 16.5 percent of the overall risk score. The darkest regions represent a 1 in 850 chance of at least one gun crime taking place. DRIVING WHILE INTOXICATED FLORISSANT ST CHARLES FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Driving while intoxicated makes up 10 percent of the total risk score. The darkest regions represent a 1 in 1,300 chance of at least one DWI taking place. TRESPASSING ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Trespassing makes up about 10 percent of the total risk score. The darkest regions represent cells a 1.7 percent chance of at least one act of trespassing taking place. HOMICIDE ST CHARLES FLORISSANT FERGUSON JENNINGS Mississippi River CHESTERFIELD St. Louis BALLWIN KIRKWOOD FENTON MEHLVILLE 5 miles Homicides make up 0.66 percent of the total risk score assigned to a cell. The two darkest cells on this map present a 3 percent chance of at least one homicide taking place.
 
-So when police say they are using data-driven techniques to make smarter decisions, what they really mean is they are relying on software that spits out scores and models, without any real understanding of how. This demonstrates a tremendous faith in the veracity of analytics.
+“Cops-on-dots,” as it’s sometimes known, has often been associated with Bratton’s other major legacy, “Broken Windows,” in which police target low-level offenses like graffiti and public drinking, creating a sense of public order that is believed to deter more serious crimes. Such tactics have been credited with helping bring down crime rates, but they have also contributed to the aggressive targeting — and stopping and searching — of black people, fostering resentment of police in many communities.
 
-Those affected lose their right to individualized treatment, as systems treat them as a mere collection of data points
+St. Louis officials had been using data to send police to patrol hot spots since 2009; today the city holds weekly meetings for commanders to discuss why certain crimes keep hitting certain places, and how to address it. When one precinct captain noticed a lot of robberies of appliances from houses under construction, officers were instructed to keep track of building schedules. In agencies across the country, the more commanders looked at the data, the more timely their responses to that data could be, and crime analysis started edging toward real time. The dream was to go beyond the present.
 
-It is absurd for police not to know what decisions, weights, values and biases are baked into the analytics they use. It obscures the factors and decisions that influence how police operate – even to the police themselves, and means these methods are not open to the scrutiny of public oversight and accountability.
+Throughout the criminal justice system, a faith in data’s ability to improve upon human judgment has led judges, prosecutors, and other officials in recent years to embrace tools that address the future; many use “risk assessments” of defendants — which involve questionnaires about demographics, family, and personal history — in sentencing decisions. The White House has asked Silicon Valley companies if they can develop algorithms to predict which people are likely to become “radicalized.”
 
-Yet even in the face of controversy, police departments continue to use and defend these technologies when questioned by the public, the media and politicians.
+In the summer of 2014, a couple of months before Ferguson erupted, St. Louis County Police Chief Jon Belmar returned from a conference of police leaders in Boston, where he had been impressed by presentations from mathematicians and data analysts. He told his aide, Sgt. Colby Dolly, that he wanted their department to join dozens of cities already using predictive policing software.
 
-Contrary to the common defense trotted out by technocrats, the judgments produced by the algorithms of big data analytics are not objective arbiters of discretion and punishment. Rather, they easily become ways of laundering subjective, biased decisions into ostensibly objective judgments.
+As Dolly studied the predictive policing market, he found it was crowded with competitors. Since 2009, the National Institute of Justice had been funding research into crime prediction, transforming the field into big business. IBM, Hitachi, and Lexis had all begun to offer ways to predict crime through data.
 
-Many researchers and advocates have argued that techniques like predictive policing don’t so much see the future as entrench and justify longstanding practices of racial profiling in policing certain urban neighborhoods, aggressively targeting already disempowered groups.
+The leader in the field is PredPol, a company that grew out of a team of researchers and officers working under Bratton during the chief’s mid-2000s stint in Los Angeles. PredPol’s algorithms digest years of data on crime locations, times, and types, spitting out the spots most likely to be hit by crime again. After using PredPol for four months, police in the Foothill Division in the San Fernando Valley claimed that property crime dropped 13 percent, while in the rest of the city, it rose by 0.4 percent. PredPol has received millions in venture capital funding and is now used by more than 50 police agencies in the US and UK.
 
-Those affected lose their right to individualized treatment and understanding, as technical systems treat people as a mere collection of data points.
+But Dolly was attracted by Azavea’s ability to analyze the impact of businesses, churches, and weather patterns on criminal activity. It was also cheaper: Azavea quoted around $50,000 for a year of HunchLab, where PredPol was asking for roughly $200,000.
 
-Moreover, by integrating these technologies deeper into their operations, police departments are opening the way for corporations to have disproportionate influence over what policing means in society. Technologies are not just neutral tools, and they are not divorced from politics; they are designed with certain values and goals in mind. And when large corporations and entrepreneurial startups establish those values and goals, you are likely to end up with policing modeled after technocratic motivations for total efficiency and control.
+Azavea’s employees have a Silicon Valley ebullience — their website mentions “ping pong tournaments, team runs, hackathons,” and “chess matches over lunch” — but they do not share the tech industry’s talk of “disruption.” Their rhetoric is civic-minded; the company’s other projects include tools to analyze legislative districts, as well as an app that helps city residents map the locations of trees in order to study their environmental impact.
 
-It is telling that the companies creating these analytics programs sell modified versions of their software to more than just police departments. As the Intercept reported in October 2015, the same types of analytics are used from marketing to the military; in essence, the Pentagon uses a data program to monitor drones in the same way businesses monitor customers.
+As predictive policing has spread, researchers and police officers have begun exploring how it might contribute to a version of policing that downplays patrolling — as well as stopping, questioning, and frisking — and focuses more on root causes of particular crimes. Rutgers University researchers specializing in “risk terrain modeling” have been using analysis similar to HunchLab to work with police on “intervention strategies.” In one Northeast city, they have enlisted city officials to board up vacant properties linked to higher rates of violent crime, and to advertise after-school programming to kids who tend to gather near bodegas in high-risk areas.
 
-IBM has its own vision of an internet-connected world, and its “Smarter Planet” concept happens to align with the goals of business, the military and the police. While its program has already been sold to law enforcement, it is also developing systems to process refugees and even predict terrorist attacks.
+A Day of Potential Robberies The shifting risk of robberies over the course of 24 hours in December. The darkest regions on this map represent areas with the highest risk of a robbery taking place. Source: HunchLab
 
-Many researchers have documented how police forces are increasingly technologized and militarized. Enthusiastic and rapid adoption of data-driven analytics has happened at the expense of meaningful public input, safeguards against misconduct and other basic procedures of accountability.
+Dolly was not opposed to examining and addressing the causes of crime, but the department was still focused on patrolling. He hoped using HunchLab might improve relations with the community by reducing the frequency with which police had to aggressively sweep an area in the wake of a crime. “You can only go so far in enforcing or arresting your way out of crime issues,” he said. “This is a way to combat crime that should have minimal impact on the community.”
 
-The question remains: are these technologies accurate, appropriate and legitimate?
+In order to sidestep concerns about racially disproportionate policing, Dolly asked HunchLab to only predict the kinds of serious felonies that result in 911 calls, and not low-level crimes like drug possession. He asked the analysts to produce two boxes for every patrol area — no matter how wealthy or poor, black or white — showing two areas at the highest risk of crime for every 8-hour shift. But Dolly also recognized the fundamental limitation of the tool — it was “telling you where to go,” he said. “It’s not telling you what to do.”
 
-Our governments and police departments are already deploying this technology, and need to be held to account. This technology encourages police officers to view the public as a threat, as criminals in waiting. These opaque procedures and questionable outcomes need to be scrutinized, before the efficiencies of connected data are used to justify taking power away from citizens and further concentrating it in police forces.. . More on: Human Rights
+A few hours before police officers in Jennings started their afternoon patrol, Dolly sat down at his computer at police headquarters. He logged into the HunchLab website and pulled up a map. The sprawling metropolis was covered in little bright dots. He clicked to zoom in, and the dots grew into transparent boxes, each covering a space roughly half the size of a city block, and each tinted green, orange, red, purple, blue, pink, or yellow. The colors indicated which type of crime was most likely to hit that box: green for larceny, orange for gun crimes, red for aggravated assault.
 
-David O’Connor is an intern for the Digital and Cyberspace Policy Program at the Council on Foreign Relations.
+As Dolly zoomed in on Jennings, he saw two boxes tinted green to indicate a high risk of larceny. He knew this area was one of Jennings’ only commercial districts, so of course there would be a lot of shoplifting. As he panned toward the residential neighborhoods nearby, however, he saw red and orange boxes in areas that looked fairly random. “I’ve been doing police work 16 years,” he said, “and I don’t think you’d be able to isolate locations like this.”
 
-The problem of policing has always been that it’s after-the-fact. If law enforcement officers could be at the right place at the right time, crime could be prevented, lives could be saved, and society would surely be safer. In recent years, predictive policing technology has been touted as just such a panacea. References to Minority Report are apparently obligatory when writing about the topic, but disguise a critical problem: predictive policing isn’t sci-fi; it’s a more elaborate version of existing, flawed practices.
+Where Crime Might Strike Jennings, divided into HunchLab squares on the morning of December 15, 2015. The darker the square , the greater the risk that a crime will occur. FERGUSON JENNINGS POPULATION 14,737 MEDIAN HOUSEHOLD INCOME $27,785 POLICE STATION RACIAL MAKEUP BLACK 89.8% WHITE 8.5% HISPANIC 0.6% 1 mile FERGUSON JENNINGS POPULATION 14,737 MEDIAN HOUSEHOLD INCOME $27,785 POLICE STATION RACIAL MAKEUP BLACK 89.8% WHITE 8.5% HISPANIC 0.6% 1 mile FERGUSON JENNINGS POP 14,737 MEDIAN HOUSEHOLD INCOME $27,785 POLICE STATION RACIAL MAKEUP BLACK 89.8% WHITE 8.5% HISPANIC 0.6% 1 mile
 
-Predictive policing is an umbrella term to describe law enforcement’s use of new big data and machine learning tools. There are two types of tools: person-based and location-based systems. Person-based systems like Chicago’s Strategic Subject List use a variety of risk factors, including social media analysis, to identify likely offenders. A 2015 report stated the Chicago Police D epartment had assembled a list of “roughly 400 individuals identified by certain factors as likely to be involved in violent crime.” This raises a host of civil liberties questions about what degree of latitude police should be granted to perform risk analysis on people with no criminal records. In the future, these questions will become ever more pressing as revelations of threat scores, StingRays and facial recognition technology continue to grab headlines.
+Source: U.S. Census Note: HunchLab does not make predictions for squares containing police stations or hospitals as the incidents reported at these places may include inaccurate locations.Source: HunchLab
 
-In the present, however, the majority of publicly-known predictive policing algorithms are location-based. Twenty of the nation’s fifty largest police departments are known to use such algorithms, all of which rely on historical crime data—things like 911 calls and police reports. Based on data trends, these algorithms direct police to locations that are likely to experience crime at a particular time. Unfortunately, the Department of Justice has estimated that less than half of violent crimes and even fewer household property crimes are reported to the police. An algorithm trying to make predictions based on historical data isn’t actually looking at crime; it’s looking at how police respond to crimes they know about.
+A few hours later, Thomas Keener arrived for his afternoon shift, checked his gun, got into his squad car, and pulled up the same map. Ten hours a day, four days a week, Keener’s primary job is to answer 911 calls and provide backup to other officers. When calls don’t come in, he patrols. Keener, 27, grew up in southern Missouri and graduated from the police academy six years ago. He is unfailingly polite. While his peers wear short sleeves, he chooses a long-sleeve khaki uniform and a dark brown tie, a formal get-up that, coupled with his buzzed hair, accentuates his boyishness.
 
-This merely reinforces the biases of existing policing practices. In October, the Human Rights Data Analysis Group released a study that applied a predictive policing algorithm to the Oakland Police Department’s drug crime records from 2010. The study found that the algorithm would dispatch officers “almost exclusively to lower income, minority neighborhoods”—despite the fact that drug users are estimated to be widely dispersed throughout the city. The predictive algorithm essentially sent cops to areas they had already made arrests, not identifying new areas where drugs might appear.
+When Keener began his shift, he headed toward the boxes HunchLab deemed to be high-risk. Like Dolly, he immediately registered that a green larceny box was over an area that contained a couple of dollar stores where he has caught people running out with stolen goods. He pointed out common escape routes. “See how it’s easy to disappear over there?” Even without HunchLab, he would have probably gone to the area. In other cities where HunchLab has been used, police officers are often unsurprised by the locations of the boxes — police in Lincoln, Nebraska, started experimenting with the software in 2014 but have found it mostly tells them what they already know. “When I look at the HunchLab maps,” said former police chief Tom Casady, “I say, 'Yep, it got that right!’”
 
-The algorithm the researchers analyzed was written by PredPol, one of the largest suppliers of predictive policing systems in the United States, and was chosen for being one of the few algorithms openly published in a scientific journal. PredPol says it uses “only three data points in making predictions: past type of crime, place of crime and time of crime. It uses no personal information about individuals or groups of individuals, eliminating any personal liberties and profiling concerns.” Ironically, these parsimonious standards ensure that the algorithm cannot improve on the historical record; it can only reinforce it.
+The shift rolled on, and Keener got a series of calls: to help a man who had overdosed, to assist with an arrest at the police station, to help look for some young men in hoodies suspected of a burglary. The day was proving to be a safe one. “I’m going to choose to credit the patrols with that,” Keener said.
 
-Some systems, like IBM’s, wisely incorporate other data points like weather and proximity of liquor stores. Unlike PredPol, however, the vast majority of these algorithms are trade secrets and not subject to independent review. The secrecy around the software makes it harder for police departments and local governments to make fully informed decisions. It also bars the public from participating in the decision-making process and sows distrust.
+Driving through Jennings, it was clear Keener already had a predictive map stored in his brain. He pointed out non-descript yards and houses where he had been called to the scene of homicides, burglaries, and gang shootings.
 
-That’s not to say that police departments shouldn’t use software to analyze their data. In fact, a 2015 study found predictive policing technology had significantly aided law enforcement in Los Angeles and Kent, England. In Norcross, Georgia, police claim that they saw a 15 percent reduction in robberies and burglaries within four months of deploying PredPol. The Atlanta Police Department was similarly enthused.
+He continued through particular blocks of residential neighborhoods where HunchLab had placed red and orange boxes to indicate a risk of aggravated assault and gun crime. The streets were lined with crumbling little brick houses. In a few yards, signs reading “We Must Stop Killing Each Other” had been stuck into the dirt.
 
-Further development of the technology is inevitable, so local governments and police departments should develop appropriate standards and practices. For starters, these algorithms should not be called ‘predictive.’ They aren’t crystal balls; they’re making forecasts based on limited data. Less obvious data points, like broken streetlights or the presence of trees, should be incorporated to refine these forecasts. As in St. Louis, they shouldn’t be used for minor crimes. Person-based algorithmic forecasts should never be accepted as meeting the reasonable suspicion requirement for detaining an individual, and only data specialists should have access to the software to reduce the chances of abuse. Police should by default incorporate racial impact assessments into their data and programs should be open to academic review. The potential for mission creep is enormous; reviews must be regular to ensure that software is being used appropriately. Most importantly, city governments and police departments should conduct a transparent dialogue with the public about what data is being collected, particularly in the cases of cell phone surveillance and social media analysis, and citizens should be able to see what data has been compiled on them, be it photos or a threat score or biometrics.
+As Keener drove through the bottom left corner of a HunchLab box — red to indicate a high risk of aggravated assaults — he noticed a white Chevy Impala with a dark window tint, dark enough to merit a traffic ticket.
 
-It’s a natural choice for police departments with shrinking budgets and huge troves of data to turn to machines for help. However, officials must recognize that nerds won’t solve the problem of policing; data must be a supplement to traditional, people-focused police work. Data-driven predictions have suffered many prominent setbacks in 2016. We should be cautious about using them to arrest people.. William Isaac and Kristian Lum
+Keener gunned his motor and flashed his lights. The car slowed to a stop, and Keener walked up to the window. Leaning down, he caught a whiff of marijuana. The young man was black and looked to be in his 20s, with a baseball cap, grey sweatpants, and a tattoo that crept out of his shirt. Keener said, politely but firmly, “I smell what smells like weed to me.”
 
-From Los Angeles to New York, there is a quiet revolution underway within police departments across the country.
+The man said he smoked earlier, but that there was “nothing in the car.”
 
-Just as major tech companies and political campaigns have leveraged data to target potential customers or voters, police departments have increasingly partnered with private firms or created new divisions to develop software to predict who will commit a crime or where crime will be committed before it occurs. While it may sound eerily reminiscent of the Tom Cruise movie Minority Report, the dream of having a tool that, in theory, could more efficiently allocate policing resources would be a boon for departments struggling with shrinking budgets and increasing pressure to be more responsive to their communities.
+Keener decided the smell gave him probable cause for a search. He told the young man to step out, frisked him, and asked him if he had anything “I should know about.” The man said he had a gun. Keener found a black Glock 23 pistol, .40 caliber, under the seat. He took it back to his car, noticing it had no magazine — just a bullet in the pipe. “Pretty big,” Keener said, turning the gun in his hands.
 
-Policing the USA
+Another police car rolled up behind Keener — a standard call for backup had gone out. Standing between his own car and Keener’s car, the young man stared at the ground, clearly annoyed but also trying not to appear annoyed. When Keener asked about the smell again, he said, “You ask me if I smoke. I smoke, man!”
 
-Not surprisingly, a 2012 survey by the Police Executive Research Forum found that 70% of roughly 200 police agencies planned to implement the use of predictive policing technology in the next two to five years. The technology policy institute Upturn found that at least 20 of the 50 largest police agencies currently use predictive policing technology, and another 150 departments are testing the tools. But, in the rush to adopt these new tools, police departments have failed to address very serious Fourth Amendment concerns and questions of whether predictive policing reveals new "hot spots" unknown to the police or simply concentrates police effort in already over-policed communities.
+LOCATION OF STOP ASSIGNED PATROL SQUARE TOP CRIME RISKS 1 AGGRAVATED ASSAULT 2 GUN CRIME 3 BURGLARY 4 LARCENY 5 SIMPLE ASSAULT 250 feet An area in southwest Jennings that HunchLab has identified as having a high risk of aggravated assault. Keener checks the registration of a Glock 23 pistol he found while searching a car near this square. LOCATION OF STOP ASSIGNED PATROL SQUARE TOP CRIME RISKS 1 AGGRAVATED ASSAULT 2 GUN CRIME 3 BURGLARY 4 LARCENY 5 SIMPLE ASSAULT 250 feet An area in southwest Jennings that HunchLab has identified as having a high risk of aggravated assault. Keener checks the registration of a Glock 23 pistol he found while searching a car. LOCATION OF STOP ASSIGNED PATROL SQUARE 250 feet An area in southwest Jennings that HunchLab has identified as having a high risk of aggravated assault. Keener checks the registration of a Glock 23 pistol he found while searching a car.
 
-Guilt by association, not evidence
+While the man paced, Keener looked up his name and the gun’s ID number. It didn’t turn up as stolen. It is legal to have a gun in your car in Missouri if you’re over 18 and not a convicted felon. The man had been arrested, but never convicted, for stealing a gun. Keener let him go with a ticket for the window tint.
 
-Contrary to Hollywood’s depiction of predictive policing, police departments do not have a team of psychics who see crimes before they occur. In reality, the predictions are made by a computer program that uses historical police records to make estimates about future crime or criminals. Those predictions then become part of policing strategies that, among other things, send police commanders to people's homes to monitor their activity. In some cases, the suspects receiving additional monitoring have yet to be implicated in any crimes.
+The Record The best criminal justice reporting from around the web, organized by subject
 
-In the more commonly used place-based predictive policing, departments are provided estimates of potential crime “hot spots” or locations where a high number of recorded crimes are expected to occur. Departments allocate additional officers to patrol these areas. While these examples may seem like only minor modifications to standard policing practices, predictive policing tools bring about a fundamental shift in how police decide that certain people and communities are deserving of greater police scrutiny and who is accountable for these decisions.
+As the Impala drove off, Keener looked back at the HunchLab map. The stop itself had gone down just outside the aggravated assault square. “He could have been going to shoot somebody,” he said, shrugging. “Or not.”
 
-Why whites must join fight for black justice: Voices
+That HunchLab had sent him to a location where he may or may not have averted illegal activity was, for the moment, tangential; it would not be clear for months whether crime rates in Jennings might be affected by the program.
 
-The Fourth Amendment, largely prohibits unreasonable searches and seizures. Many prominent civil liberties groups such as the American Civil Liberties Union have argued that the growth of predictive policing will allow officers in the field to stop suspects under the guise of “Big Data” rather than more stringent legal standards , such as reasonable suspicion. An even more egregious violation of the Fourth Amendment could come through the use of social media by law enforcement to monitor the contacts of known criminals. That could easily open the door to an even larger network of people being monitored who have actually committed no crime, but are seen by law enforcement as guilty by association. How often do we "friend" or "follow" folks whose past is largely a mystery to us?
+Research on the impact of predictive policing programs is still in its infancy. Last year, PredPol researchers published a study finding that sending patrol officers to several areas of Los Angeles predicted by their algorithm led to a reduction, on average, of more than four crimes per week in these neighborhoods — twice as efficient as human crime analysts. The researchers said the savings — resulting from not having to investigate and prosecute crimes that otherwise may have happened — could reach $9 million per year.
 
-Use of algorithms shows little crime reduction
+Jeremy Heffner, the product manager for HunchLab, is careful about making promises; he argues the results will vary based on how a particular police agency uses their analysis. “By having more accurate locations, we amplify the effect a meaningful tactic may have,” Heffner told me, “but you still need a meaningful tactic.” Studies of HunchLab’s effectiveness are underway in several cities, and researchers in Philadelphia are comparing patrolling in marked police cars to sending unmarked cars, which could quickly respond to crime, but might not deter it.
 
-More concerning is the lack of solid, independent evidence that predictive policing tools actually reduce crime or reveal hidden patterns in crime that were not already known to law enforcement. While one study co-written by the founders of the proprietary predictive policing software PredPol reported evidence of a small reduction in property crime through the use of their tool, a study conducted by RAND Corporation found no decline in crime rates after the deployment of a similar tool in Shreveport, La. Another peer reviewed study assessing the Chicago Police department’s algorithm that cranks out a suspicious subjects list, or “heat list,” also found no evidence that the program decreased the number of homicides in the city. What the study did find was that the program disproportionately targeted the city’s black residents.
+Even with data-driven tools, on-the-ground police work is full of ambiguity and discretion, which makes measuring their impact difficult. Would Keener have stopped the car at all had it not been in a HunchLab box? “It’s all relative,” Keener said. “Probably.” He was careful to point out that being in the box alone was not a good enough reason to stop someone. “Does the data give me grounds to stop just because they’re walking around? No.”
 
-In our new study, we apply a predictive policing algorithm to publicly available data of drug crimes in the city of Oakland, Calif. Predictive policing offered no insight into patterns of crime beyond what the police already knew. In fact, had the city of Oakland implemented predictive policing, the algorithm would have repeatedly sent the police back to exactly the same locations where police had discovered crime in the past. Through over-policing, these tools have the potential to cause greater deterioration of community-police relations, particularly in already over-policed communities.
+“My son don’t have anything positive to say, so he’d rather not say anything at all,” said the mother of the man whom Keener had stopped. It was a few weeks later, and we were talking by phone — her son had not wanted to be interviewed, and she was too suspicious of the police to put her name in print. “Believe it or not, if you say anything to the press,” she said, the police “will make sure to pull you over and treat you worse.”
 
-While the promise of predictive policing is alluring, the reality is that predictive policing tools raise serious legal and technical issues and appear ineffective at reducing crime.
+The mother and her son have been pulled over a lot, she said, and it often feels as though they are targeted because they’re black. “They give you a reason” — the tinted windows, the marijuana smell — “but then they get to asking you to get out [of the car]. Well, why do I have to get out? Because you said so? All I can go on is it’s because I’m black.”
 
-We need much more public scrutiny and research into the efficacy and community impact of predictive policing tools before they are further deployed across the country. Police departments and private vendors should release findings of their internal assessments (if conducted) as well as related data for third-party replication and assessment. Departments and private vendors should also engage a wider group of community stakeholders when departments conduct internal testing of new predictive tools and aggressively develop intervention and training protocols for patrol officers that minimize negative police interactions if they intend to use predictive policing tools.
+There are widespread fears among civil liberties advocates that predictive policing will actually worsen relations between police departments and black communities. “It’s a vicious cycle,” said John Chasnoff, program director of the ACLU chapter for Eastern Missouri. “The police say, ‘We’ve gotta send more guys to North County,’ [where Jennings is located] because there have been more arrests there, and then you end up with even more arrests, compounding the racial problem.”
 
-The reality is that many police departments – like many government agencies and large businesses – lack the institutional experience and resources to seamlessly evolve into a data-driven organization. This does not mean departments should reject data-driven approaches. Instead they should become more aware of flaws and biases embedded within data and ensure that decision-makers understand the limits of its use.
+Dolly had tried to mitigate this issue by having HunchLab identify two boxes for every beat, no matter how “high-crime” the area. But to Chasnoff, the entire emphasis on patrolling was misplaced. “I don’t think anyone, in the abstract, has a problem with figuring out where crime is and responding to it,” he said. “But what’s the appropriate response? The assumption is: we predicted crime here, and you send in police. But what if you used that data and sent in resources?”
 
-Future efforts of data-driven policing should be inclusive — a process that leverages all of a city's resources to improve community safety.
+Many at the top of the county police agree with Chasnoff, and are interested in finding ways to use predictive policing software to address crime through other government resources. “We can’t just have the criminal justice system solve our problems,” Belmar, the St. Louis County police chief, said the morning before Keener’s shift.
 
-William Isaac is a doctoral candidate in the Department of Political Science at Michigan State University. Kristian Lum is the lead statistician at the Human Rights Data Analysis Group.
+Late last year, the department began sending lists of high-crime areas to a nonprofit called Better Family Life, which deploys outreach workers to connect residents with drug treatment and educational programs. In theory, HunchLab could provide even more targeted areas for this organization and others to apply their model of what James Clark, the nonprofit’s vice president, calls “hot-spot resources.”
+
+This has not happened yet. For those who would like to see police change their methods in the wake of Ferguson — and shift toward problem-solving and community relationships rather than patrolling — HunchLab looks like one method of data analysis being swapped for another. It may be more objective and may lead well-meaning police commanders to be more thoughtful about what’s driving crime, but that’s little comfort to the young black men stopped and searched. “It’s another example of the county police selling themselves as more professional,” Chasnoff said, “but maybe it’s just a more professional use of the same bad ideas.”
+
+Throughout his shift, Officer Keener witnessed hints of simmering distrust. At one point, several children danced in the street, which he said was locally understood to be an insult to police. Later on, just outside one of the HunchLab boxes, he drove by a house where, he said, a drug dealer lived. A suspicious-looking rental car was parked outside. As he slowed down and peered out, the car door opened and a woman — black, maybe mid-30s — emerged. She pointed at the police vehicle to someone in the car and scrunched up her face in disgust. Keener turned back toward the dashboard screen and rolled away.

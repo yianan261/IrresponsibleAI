@@ -40,42 +40,4 @@ Coding or bias errors, in the Irish and UK grading algorithms this year, will ha
 
 We can't leave it at that, though. Our next step must be to push for laws that will require corporate algorithm transparency – as is beginning to happen now in the EU – because this isn't just about one-off grading scandals.
 
-This is about all of us, in thrall to obfuscating algorithms that judge us secretly and silently, with potentially life-changing impact, every single day.. The algorithm which brought together lots of different factors to come up with students’ grades had two errors – but those mistakes have had massive knock-on effects
-
-This week it emerged that a problem was discovered with the Leaving Certificate calculated grades system which means thousands of students will have their results upgraded. But what happened?
-
-What is an algorithm?
-
-It’s code that makes decisions that affect what you do, see or experience based on a number of different factors, circumstances and inputs.
-
-How was it used in the Leaving Cert 2020 grading process?
-
-It was supposed to put in effect a blended formula of students’ past performance that the Department of Education was implementing to come up with ‘calculated’ grades.
-
-So what exactly went wrong?
-
-The Department says that a single line of code (out of 50,000) had two errors in it that negatively affected students’ predicted grades. First, the code substituted a student’s worst two subjects for their best two subjects. Then it wrongly added a subject into the equation - the results of the Junior Cycle’s Civic, Social and Political Education. This shouldn’t have been counted.
-
-How was the coding issue not caught before now?
-
-We know that the code wasn’t sufficiently tested, which is normally a crucial part of any software release. Department officials say that there simply wasn’t enough time to test everything thoroughly due to the urgency of the situation and the resourcing constraints. They emphasised that this wasn’t a software package already being used elsewhere. It was custom-built for the particulars of our situation.
-
-“You can optimise for two of time, cost and quality,” said Brian Caulfield, an experienced Irish technology founder and investor. “Never all three. In this case time was non-negotiable. Government and the Department were in a no-win situation and guaranteed to be slaughtered if they spent a fortune.”
-
-How do we know whether the coding error was a basic one or not?
-
-We don’t. The code - and the implementation of the algorithms - aren’t available to check. In other words, they’re not ‘open source’ or reviewable in the way that, for example, the Irish Covid-19 Tracker smartphone app code is. But we do know that the Department of Education and Skills found the second error while performing checks related to the first one. That second error, Education Minister Norma Foley says, was contained in the same section of the code.
-
-How do we know there are no further errors in the code?
-
-We don’t, yet. We’ve been relying on after-the-fact investigation by the contracted firm, Polymetrika. It was their internal audit that notified Department officials of the error - if they had stayed quiet about it, we might not have known.
-
-However, the Department has made two comments on this. First, it says that it has carried out a series of further checks and has identified “no further errors in the coding”. Second, it has contracted a US-based specialist firm, Educational Testing Service (ETS), to “review essential aspects of the coding”. The Department says this review is expected to take a number of days.
-
-Are there any fundamental problems with relying on code for this type of sensitive situation?
-
-There may be. Coding experts say that the decision to use a code-supported calculated grading process in the first place is controversial.
-
-“There is a big open problem with these types of prediction systems, whether it be grades, mortgage risk prediction, or anything else,” said Andrew Anderson, a senior research fellow in the School of Computer Science and Statistics at Trinity College Dublin.
-
-“This is usually called the problem of inscrutability. The algorithm cannot tell you why any prediction should be right. In a normal appeal, the person doing the grading has to justify the grade they assigned and the student gets to see that sufficient care was taken in calculating that grade. With predicted grades, this transparency is sacrificed, because the algorithm can't justify the result. It's just a set of calculations.”
+This is about all of us, in thrall to obfuscating algorithms that judge us secretly and silently, with potentially life-changing impact, every single day.

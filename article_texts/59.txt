@@ -1,46 +1,90 @@
-. . . . An artificial intelligence tool that has revolutionised the ability of computers to interpret everyday language has been shown to exhibit striking gender and racial biases.
+As a result, it is not possible to understand this asymmetry as a reﬂection of workplace
 
-The findings raise the spectre of existing social inequalities and prejudices being reinforced in new and unpredictable ways as an increasing number of decisions affecting our everyday lives are ceded to automatons.
+demographics, and the prominence of male defaults in Google Translate is, w e believe, yet
 
-In the past few years, the ability of programs such as Google Translate to interpret language has improved dramatically. These gains have been thanks to new machine learning techniques and the availability of vast amounts of online text data, on which the algorithms can be trained.
+lacking a clear justiﬁcation.
 
-However, as machines are getting closer to acquiring human-like language abilities, they are also absorbing the deeply ingrained biases concealed within the patterns of language use, the latest research reveals.
+9. Conclusions
 
-Joanna Bryson, a computer scientist at the University of Bath and a co-author, said: “A lot of people are saying this is showing that AI is prejudiced. No. This is showing we’re prejudiced and that AI is learning it.”
+In this paper, we have pro vided preliminary evidence that statistical translation tools such
 
-But Bryson warned that AI has the potential to reinforce existing biases because, unlike humans, algorithms may be unequipped to consciously counteract learned biases. “A danger would be if you had an AI system that didn’t have an explicit part that was driven by moral ideas, that would be bad,” she said.
+as Google Translate can exhibit gender biases and a strong tendency to wards male defaults.
 
-The research, published in the journal Science, focuses on a machine learning tool known as “word embedding”, which is already transforming the way computers interpret speech and text. Some argue that the natural next step for the technology may involve machines developing human-like abilities such as common sense and logic.
+Although implicit, these biases possibly stem from the real world data which is used to train
 
+them, and in this context possibly provide a window in to the way our society talks (and
 
+writes) about women in the workplace. In this pap er, we suggest that and test the hypothesis
 
-“A major reason we chose to study word embeddings is that they have been spectacularly successful in the last few years in helping computers make sense of language,” said Arvind Narayanan, a computer scientist at Princeton University and the paper’s senior author.
+that statistical translation tools can be prob ed to yield insights about stereotypical gender
 
-The approach, which is already used in web search and machine translation, works by building up a mathematical representation of language, in which the meaning of a word is distilled into a series of numbers (known as a word vector) based on which other words most frequently appear alongside it. Perhaps surprisingly, this purely statistical approach appears to capture the rich cultural and social context of what a word means in the way that a dictionary definition would be incapable of.
+roles in our society – or at least in their training data. By translating professional-related
 
-For instance, in the mathematical “language space”, words for flowers are clustered closer to words linked to pleasantness, while words for insects are closer to words linked to unpleasantness, reflecting common views on the relative merits of insects versus flowers.
+sentences such as “He/She is an engineer” from gender neutral languages suc h as Hungarian
 
-The latest paper shows that some more troubling implicit biases seen in human psychology experiments are also readily acquired by algorithms. The words “female” and “woman” were more closely associated with arts and humanities occupations and with the home, while “male” and “man” were closer to maths and engineering professions.
+and Chinese into English, we w ere able to collect statistics about the asymmetry between
 
-And the AI system was more likely to associate European American names with pleasant words such as “gift” or “happy”, while African American names were more commonly associated with unpleasant words.
+female and male pronominal genders in the translation outputs. Our results show that male
 
-The findings suggest that algorithms have acquired the same biases that lead people (in the UK and US, at least) to match pleasant words and white faces in implicit association tests.
+defaults are not only prominent but exaggerated in ﬁelds suggested to be troubled with
 
-These biases can have a profound impact on human behaviour. One previous study showed that an identical CV is 50% more likely to result in an interview invitation if the candidate’s name is European American than if it is African American. The latest results suggest that algorithms, unless explicitly programmed to address this, will be riddled with the same social prejudices.
+gender stereotypes, such as STEM (Science, Tec hnology , Engineering and Mathematics)
 
-“If you didn’t believe that there was racism associated with people’s names, this shows it’s there,” said Bryson.
+jobs. And b ecause Google Translate t ypically uses English as a lingua franc a to translate
 
-The machine learning tool used in the study was trained on a dataset known as the “common crawl” corpus – a list of 840bn words that have been taken as they appear from material published online. Similar results were found when the same tools were trained on data from Google News.
+between other languages (e.g. Chinese → English → Portuguese) (Google, 2017; Boitet,
 
-Sandra Wachter, a researcher in data ethics and algorithms at the University of Oxford, said: “The world is biased, the historical data is biased, hence it is not surprising that we receive biased results.”
+Blanchon, Seligman, & Bellynck, 2010), our ﬁndings possibly extend to translations between
 
-Rather than algorithms representing a threat, they could present an opportunity to address bias and counteract it where appropriate, she added.
+gender neutral languages and non-gender neutral languages (apart from English) in general,
 
-“At least with algorithms, we can potentially know when the algorithm is biased,” she said. “Humans, for example, could lie about the reasons they did not hire someone. In contrast, we do not expect algorithms to lie or deceive us.”
+although we hav e not tested this hypothesis.
 
-However, Wachter said the question of how to eliminate inappropriate bias from algorithms designed to understand language, without stripping away their powers of interpretation, would be challenging.
+Although not conclusive, our results seem to suggest that this phenomenon extends
 
-“We can, in principle, build systems that detect biased decision-making, and then act on it,” said Wachter, who along with others has called for an AI watchdog to be established. “This is a very complicated task, but it is a responsibility that we as society should not shy away from.”. In debates over the future of artificial intelligence, many experts think of these machine-based systems as coldly logical and objectively rational. But in a new study, Princeton University-based researchers have demonstrated how machines can be reflections of their creators in potentially problematic ways.
+beyond the scope of the workplace, with the proportion of female pronouns varying sig-
+
+niﬁcantly according to adjectives used to describe a person. Adjectives such as Shy and
+
+Desirable are translated with a larger proportion of female pronouns, while Guilty and Cruel
+
+are almost exclusively translated with male ones. Diﬀerent languages also seemingly hav e a
+
+signiﬁcant impact in machine gender bias, with Hungarian exhibiting a better equilibrium
+
+between male and female pronouns than for example Chinese. Some languages such as
+
+Y oruba and Basque were found to translate sentences with gender neutral pronouns v ery
+
+often, although this is the exception rather than the rule and Basque also exhibits a high
+
+frequency of phrases for which we could not automatically extract a gender pronoun.
+
+T o solidify our results, we ran our pronominal gender translation statistics against the
+
+U.S. Bureau of Labor Statistics data on the frequency of women participation for each
+
+job position. Although Google Translate exhibits male defaults, this phenomenon may
+
+merely reﬂect the unequal distribution of male and female workers in some job positions.
+
+T o test this hypothesis, we compared the distribution of female work ers with the frequency
+
+of female translations, ﬁnding no correlation between said v ariables. Our data shows that
+
+Google Translate outputs fail to reﬂect the real-w orld distribution of female workers, under-
+
+estimating the expected frequency. That is to say that even if we do not expect a 50:50
+
+distribution of translated gender pronouns, Google Translate exhibits male defaults in a
+
+greater frequency that job occupation data alone would suggest. The prominence of male
+
+defaults in Google Translate is therefore to the best of our knowledge y et lacking a clear
+
+justiﬁcation.
+
+28. . In debates over the future of artificial intelligence, many experts think of these machine-based systems as coldly logical and objectively rational. But in a new study, Princeton University-based researchers have demonstrated how machines can be reflections of their creators in potentially problematic ways.
 
 Common machine-learning programs trained with ordinary human language available online can acquire the cultural biases embedded in the patterns of wording, the researchers reported in the journal Science April 14. These biases range from the morally neutral, such as a preference for flowers over insects, to discriminatory views on race and gender.
 
@@ -76,154 +120,4 @@ Computer programmers might hope to prevent the perpetuation of cultural stereoty
 
 "The biases that we studied in the paper are easy to overlook when designers are creating systems," Narayanan said. "The biases and stereotypes in our society reflected in our language are complex and longstanding. Rather than trying to sanitize or eliminate them, we should treat biases as part of the language and establish an explicit way in machine learning of determining what we consider acceptable and unacceptable."
 
-The paper, "Semantics derived automatically from language corpora contain human-like biases," was published April 14 in Science.. In the Turkish language, there is one pronoun, “o,” that covers every kind of singular third person. Whether it’s a he, a she, or an it, it’s an “o.” That’s not the case in English. So when Google Translate goes from Turkish to English, it just has to guess whether “o” means he, she, or it. And those translations reveal the algorithm’s gender bias.
-
-Here is a poem written by Google Translate on the topic of gender. It is the result of translating Turkish sentences using the gender-neutral “o” to English (and inspired by this Facebook post).
-
-Advertisement
-
-Gender
-
-by Google Translate
-
-he is a soldier
-
-she’s a teacher
-
-he is a doctor
-
-she is a nurse
-
-he is a writer
-
-he is a dog
-
-she is a nanny
-
-it is a cat
-
-he is a president
-
-he is an entrepreneur
-
-she is a singer
-
-he is a student
-
-he is a translator
-
-Advertisement
-
-he is hard working
-
-she is lazy
-
-he is a painter
-
-he is a hairdresser
-
-he is a waiter
-
-he is an engineer
-
-he is an architect
-
-he is an artist
-
-he is a secretary
-
-he is a dentist
-
-he is a florist
-
-he is an accountant
-
-he is a baker
-
-he is a lawyer
-
-he is a belly dancer
-
-he-she is a police
-
-she is beautiful
-
-he is very beautiful
-
-it’s ugly
-
-it is small
-
-he is old
-
-Advertisement
-
-he is strong
-
-he is weak
-
-he is pessimistic
-
-she is optimistic
-
-It’s not just Turkish. In written Chinese, the pronoun 他 is used for “he,” but also when the person’s gender is unknown, like “they” has come to be used in English. But Google only translates into “she” when you use 她, the pronoun that specifically identifies the person as a woman. So in the case of a gender tie, Google always chooses “he.” In Finnish, the pronoun “hän,” meaning either “he” or “she,” is rendered as “he.”
-
-In a way, this is not Google’s fault. The algorithm is basing its translations on a huge corpus of human language, so it is merely reflecting a bias that already exists. In Estonian, Google Translate converts “[he/she] is a doctor” to “she,” so perhaps there is less cultural bias in that corpus.
-
-At the same time, automation can reinforce biases, by making them readily available and giving them an air of mathematical precision. And some of these examples might not be the most common that Turks look to translate into English, but regardless, the algorithm has to make a decision as to “he” or “she.”
-
-Advertisement
-
-At least she remains optimistic.. . . An experiment shows that Google Translate systematically changes the gender of translations when they do not fit with stereotypes. It is all because of English, Google says
-
-If you were to read a story about male and female historians translated by Google, you might be forgiven for overlooking the females in the group. The phrase “vier Historikerinnen und Historiker” (four male and female historians) is rendered as “cuatro historiadores” (four male historians) in Spanish, with similar results in Italian, French and Polish. Female historians are simply removed from the text.
-
-In an experiment, I translated 11 occupations from one gender-inflected language to another. I analyzed 440 translation pairs to and from German, Italian, Polish, Spanish and French. Together, these languages are natively spoken by three in four citizens of the European Union.
-
-Fitting the stereotypes
-
-In many cases, Google changed the gender of the word in a grossly stereotypical way. “Die Präsidentin” (the female president) is rendered to “il presidente” in Italian, although the correct translation is “la presidente”. “Der Krankenpfleger” (the male nurse in German) becomes “l’infirmière” (the female nurse) in French.
-
-In my list, shop assistant was best translated by Google, with 33 correct translations out of 40. From French to Spanish for instance, “la vendeuse” was correctly translated to “la vendedora” and “le vendeur” to “el vendedor”.
-
-Errors are not systematic, showing that they can be fixed. “Kierowniczka” (Polish for female director) was correctly translated in all four target languages, although “die Chefin”, “la capa”, “la jefa” and “la cheffe” were wrongly translated to their masculine forms. (When Google correctly translated a feminine occupation, it was often because the target language’s word was not gender-inflected. For instance, “l'insegnante” in Italian designates both a female and a male teacher.)
-
-The experiment’s code and data are available online.
-
-External content from datawrapper.com We'd like to present you content that is not hosted on our servers. Once you provide your consent, the content will be loaded from external servers. Please understand that the third party may then process data from your browser. Additionally, information may be stored on your device, such as cookies. For further details on this, please refer directly to the third party. I agree I agree and want my consent stored in a cookie
-
-This experiment might not reflect what Google Translate shows when translating web pages or longer texts. In some cases, especially when nearby words contain feminine forms, Google correctly translates gender-inflected forms.
-
-Digital colonialism
-
-Stereotypes sneak into translations because Google optimizes translations for English.
-
-A Google spokesperson told AlgorithmWatch that “translating between language pairs requires high volumes of bilingual data that often don’t exist for all language pairs. The way to enable these translations is by using a technique called ‘bridging’. Language bridging in translation means that to translate from X to Y a third language is introduced (E) based on the existence of bilingual data to translate X to E and then E to Y. The most common language used as bridge is English.”
-
-“The majority of nouns in English are gender-neutral: so, when translating the feminine term for ‘nurse’ from a gender-inflected language to English, the gender is ‘lost’ in the translation to the bridging language,” the Google spokesperson added.
-
-Several experts I talked to agreed that the community of researchers working on machine translation was not very concerned about non-English languages. Only in May 2020 did the Association for Computational Linguistics, a large professional body, tell reviewers of their annual conference that they could not reject a paper solely because it was about a language other than English.
-
-Window dressing
-
-In 2018, Google introduced a feature that alerted users that some words could be gender-specific when translating from English.
-
-However, it is unclear whether such efforts were made in earnest. Over two years after the changes were deployed, “developer” is correctly translated into French both in the masculine form as “le développeur” and in the feminine as “la développeuse”. But “the developer” translates to “le développeur” and all the sentences I tried translated into the masculine, including the phrase “the developer is a woman”.
-
-Verified falsehoods
-
-In my experiment, 182 translations out of 440 turned out to be false. In their vast majority, the errors had to do with feminine forms converted to their masculine equivalent. 68 of the false translations were marked as “verified” by Google.
-
-The Google spokesperson declined to explain precisely how the “verified” label was awarded. “We mark translations as ‘verified’ when they’ve been reviewed by several volunteers in the Google Translate Community and these volunteers agree the translation is correct”, they said. “We are improving our detection of low-quality contributions with automated scoring methods and periodic knowledge checks.”
-
-My experiment raised other issues. “Le chef” (the boss, in French), was translated to “der Führer” in German, a word meaning “the guide” and very strongly linked to the Nazi era. The translation was marked as verified.
-
-But Google reassured me that no extremist group infiltrated the “Google Translate Community” to spread far-right language. “In this specific case, [the error] is due to the ‘bridging’ process”, the spokesperson said. “If you do a translation for ‘le chef’ from French to English we get ‘leader’. If you then translate ‘leader' from English to German you get 'Führer’”.
-
-No escape
-
-Google Translate is not just another translation service. It is a feature that Europeans can hardly escape.
-
-Since an update in April 2019, Google Chrome prompts users to instantly translate web pages. Anyone visiting a website in a foreign language is asked to choose between the original or the google-translated version, even if the website offers an official translation in the user’s preferred language. (Google cannot detect websites that provide an official translation and “errs on the side of helpfulness by offering a translate option in all circumstances”, the spokesperson said. They also said users could turn off the translation prompt.)
-
-Approximately 250 million, or one in two, citizens of the European Union use an Android phone. Unless they manage to bypass the system’s blocks (by “rooting” their device), they cannot remove Google Chrome. It is likely that many of them use Google Translate, perhaps unwittingly.
+The paper, "Semantics derived automatically from language corpora contain human-like biases," was published April 14 in Science.. 

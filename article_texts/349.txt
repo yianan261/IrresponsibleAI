@@ -1,48 +1,4 @@
-Gun Detection AI The Latest Tech To Make Schools Less Safe
-
-from the if-you-like-the-false-positives,-you're-going-to-love-the-false-negatives dept
-
-We’re just going to keep getting kids killed in America. We’ll never stop throwing money in the direction of the problem, but not directly at the problem. Nothing gets safer. It just gets more budget line items.
-
-The problem with school shootings is uniquely American. The proposed solutions — and the industry that has sprung up to address the problem — are simply demand creating supply. We have to stop shootings in schools. We just don’t think the problem is the easy availability of guns.
-
-So there’s a market — one that has been filled by public and private entities. Some public entities think training and expertise is the solution and spend their time terrorizing students and teachers in hopes that they’ll respond with slightly less terror when an actual shooting is occurring. These same entities also spend public money training law enforcement to respond quickly to reported shootings, only to see less than ideal results when this training is put to use.
-
-More public money buys tech that is supposed to keep the problem at bay. Students are routinely subjected to round-the-clock surveillance that is far more than cameras in schools. It also includes social media surveillance, unfettered access to student mental health records, and exploitation of loopholes in student privacy laws.
-
-Tech isn’t solving the problem. Schools are using ShotSpotter-esque tech to detect gunshots. Others are utilizing mics to “detect aggression” — something that manifests as false positives for slammed locker doors, coughing, and — in tests performed by researchers — clips of comedian Gilbert Gottfried.
-
-Now, a company is bringing AI into the mix, promising a high-tech solution to gun violence in schools. Evolv has been aggressively marketing its “AI-based weapons screening system” to schools. Schools, unfortunately, have been spending money on this unproven tech. The company has pretty decent copywriters. It does not, however, have much scientific evidence on hand to back its claims about weapon detection.
-
-Joseph Cox has public records receipts for Motherboard. His report shows the tradeoff of privacy for safety isn’t working out. Students are definitely losing whatever privacy they have left when entering schools using Evolv systems. What they aren’t getting in return is any additional safety. Emails from administrators of schools where Evolv is installed depict rollouts of the tech as catastrophic failures.
-
-On the ground, the reality of deploying Evolv scanners is very different than marketing materials suggest. Some school administrators are reporting that the scanners have caused “chaos”—failing to detect common handguns at commonly-used sensitivity settings, mistaking everyday school items for deadly weapons, and failing to deliver on the company’s promise of frictionless school security. “Today was probably the least safe day,” one principal observed the day scanners were deployed at her school, because the machines were triggering false alarms and requiring manual searches on “almost every child as they walked through” monopolizing the attention of safety officers who would otherwise be monitoring the halls and other entrances.
-
-The rollout in the Charlotte Mecklenburg School District was a response to twenty-three guns being found on its 180 campuses during the first four months of the 2021 school year. The district claimed Evolv was instrumental in dropping this number to only seven weapons during the rest of the year. But those actually in the schools saw something else — a failure one principal referred to as a “cluster[fuck].”
-
-The purchase and deployment took place despite noted concerns from district administrators, who informed Evolv they were able to bring a pistol into a school with the machine set to the default sensitivity. Promises of “line-free” convenient scanning were immediately proven false. The only suggestion that security experts had was for students to arrive earlier. As the system failed again and again, Evolv was somehow still included in district email chains as educators and administrators sought advice on how to respond to staff concerns and media questions.
-
-Evolv doesn’t appear to like the media much, especially when its AI is being questioned. In response to Motherboard’s inquiries about the multiple failures detailed in district emails, Evolv suggested the site was endangering students simply by publishing this article.
-
-“Our note to you, as a reporter doing your job: by publicly communicating detailed information on sensitivity settings, protocols and processes puts students and educators at risk and endangers lives,” said Evolv Chief Marketing Officer Dana Loof, in a statement sent to Motherboard.
-
-But this reporting doesn’t make students less safe. It appears Evolv’s AI is doing most of that work itself.
-
-Although phones and keys—menaces to traditional metal detectors—do not set off Evolv scanners, Spartansburg did report “3-ring binders do hit it a lot. Laptops will hit.” The school also reported that about 25 percent of students have to be searched manually using the “C” setting—the one that doesn’t detect a Glock pistol. Turning up the sensitivity setting would require even more students to be manually searched.
-
-The system is creating new problems, as detailed in one high school principal’s email:
-
-Currently, the reality is that ‘weapons of mass instruction’ set off almost every child as they walk through. If you have multiple binders or spiral notebooks in your bag then it lights up and we must search. The solve I was given was literally to ask kids not to bring so many binders. Seriously?
-
-False positives means tying up more personnel security with searches at entrances, leaving hallways and offices unmanned. And if there are false positives, there are bound to false negatives, especially when schools lower sensitivity settings after too many false positives.
-
-And it’s not like these problems aren’t well-documented. Motherboard links to IPVM reports on Evolv’s weapons detection AI that utilized previously publicly available Evolv instruction manuals. However, Evolv pulled these documents from its site in response to questions from IVPM, again suggesting any reporting on Evolv’s tech endangered the public.
-
-These are not the actions of a company that has confidence in its own product. But its desire to hide information from journalists hasn’t stopped it from presenting itself as a gun-detection solution for multiple public places, including schools. The reality of Evolv’s AI seems to be trailing far behind the rosier picture painted by its sales pitches. Continuing to deny the reality of the situation is going to get students killed.
-
-Filed Under: gun detection ai, guns, privacy, school shootings, schools, surveillance
-
-Companies: evolv. “I am excited about the new equipment and our scanning process, which will become another layer of safety support for our school,” Dean wrote in an email announcing the scanners’ installation at Mallard Creek High. “We have the unique opportunity, through the use of these scanners, to proactively screen for weapons every day and to deter people from bringing weapons on our campus.”
+. “I am excited about the new equipment and our scanning process, which will become another layer of safety support for our school,” Dean wrote in an email announcing the scanners’ installation at Mallard Creek High. “We have the unique opportunity, through the use of these scanners, to proactively screen for weapons every day and to deter people from bringing weapons on our campus.”
 
 On March 22, Jennifer Dean, the principal of Mallard Creek High School in Charlotte, North Carolina, emailed members of her staff to tell them about a new security system being installed. Made by a Massachusetts-based company called Evolv Technology, the system claims to use artificial intelligence to detect guns and other concealed weapons by scanning people as they enter a building.
 

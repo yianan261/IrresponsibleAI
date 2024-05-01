@@ -50,8 +50,8 @@ def get_messages(prompt, article_text, message_type="one"):
             ====start of article====
             {article_text}
             ====end of article ====
-            What is the name of the company that caused the problem according to the article? 
-            Find the city and state of the company that caused the problem. You may use function calling.
+            What is the name of the company that caused the problem according to the article? Think about it and note it down.
+            Now, find the city and state of the company that caused the problem. You may use function calling to find the company location.
             Return JSON response.
             If there are multiple companies involved, skip this step and return empty JSON.
             """,
@@ -67,15 +67,11 @@ def update_messages_with_location(article_text, prompt, location_candidates):
     :param location_candidates: list of Google Custom Search API result for LLM to determine location of the company
     :return: message list for chat completions API
     """
-    llm_lingua = PromptCompressor(
-        "TheBloke/Llama-2-7b-Chat-GPTQ", model_config={"revision": "main"}
-    )
-    compressed_article = llm_lingua.compress_prompt(article_text)
-    print("COMPRESSED ARTICLE---====", compressed_article)
-    print("ORIGIN TOKENS>>>>>", compressed_article.get("origin_tokens"))
-    print("COMPRESSED TOKENS>>>>>", compressed_article.get("compressed_tokens"))
-    print("RATIO OF COMPRESSION>>>>>>", compressed_article.get("ratio"))
-    print("SAVING>>>>>", compressed_article.get("saving"))
+    # llm_lingua = PromptCompressor(
+    #     "TheBloke/Llama-2-7b-Chat-GPTQ", model_config={"revision": "main"}
+    # )
+    # compressed_article = llm_lingua.compress_prompt(article_text)
+
     message = [
         {"role": "system", "content": "You are a helpful assistant."},
         {"role": "user", "content": prompt},
@@ -108,7 +104,7 @@ def update_messages_with_location(article_text, prompt, location_candidates):
             """,
         },
     ]
-    message2 = [
+    compressed_message = [
         {"role": "system", "content": "You are a helpful assistant."},
         {"role": "user", "content": prompt},
         {
@@ -140,4 +136,4 @@ def update_messages_with_location(article_text, prompt, location_candidates):
             """,
         },
     ]
-    return message2
+    return message

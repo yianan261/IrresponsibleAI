@@ -66,40 +66,4 @@ During the trial, one so-called 'hit' arose, which led to cooperation between th
 
 Authorities are not currently aware of consequences for individuals whose information has been processed using the Clearview AI app, such as data leaks or other abuse, but the matter is still being clarified by the NBI.
 
-Finnish police also use their own face recognition system, called KASTU. This system can be used to identify people suspected of a crime from the police's register and, according to the NBI, KASTU is still in use and meets the necessary data protection and data security requirements.. Background information
-
-Date of final decision: 20 September 2021
-
-Cross-border case or national case: National case
-
-Controller: National Police Board
-
-Legal Reference: Art. 14 in the Act on the Processing of Personal Data in Criminal Matters and in Connection with Maintaining National Security
-
-Decision: Reprimand
-
-Key words: Personal data breach
-
-Summary of the Decision
-
-Origin of the case
-
-The Deputy Data Protection Ombudsman has issued a statutory reprimand to the National Police Board for illegal processing of special categories of personal data during a facial recognition technology trial.
-
-The National Police Board notified the Office of the Data Protection Ombudsman in April 2021 of a personal data breach involving the trial use of facial recognition software by the National Bureau of Investigation in early 2020. The National Bureau of Investigation unit specialising in the prevention of child sexual abuse had experimented with facial recognition technology in identifying potential victims.
-
-The decision to try the software had been made independently by the police unit, and the processing of personal data had been performed without the approval of the controller, i.e. the National Police Board. The National Police Board had been informed of the use of the Clearview AI service by Buzzfeed News.
-
-Key Findings
-
-The controller’s responsibility was not fulfilled in these operations, and the measures taken by the controller had not prevented the unlawful processing of personal data. It would have been the duty of the National Police Board to ensure that police personnel are familiar with regulations and the required procedures.
-
-Neither had the police taken into consideration the requirements for processing special categories of personal data. Furthermore, the processing had been begun without obtaining information on how the service being used processed personal data. For example, the police had not determined in advance how long the data would be stored or whether it could be disclosed to third parties.
-
-Decision
-
-In addition to the reprimand, the Deputy Data Protection Ombudsman ordered the National Police Board to notify the data subjects of the personal data breach insofar as their identity could be determined. The National Police Board must also request that Clearview AI erase the data transmitted by the police from its storage platforms.
-
-For further information: Police reprimanded for illegal processing of personal data with facial recognition software (tietosuoja.fi)
-
-The news published here does not constitute official EDPB communication, nor an EDPB endorsement. This news item was originally published by the national supervisory authority and was published here at the request of the SA for information purposes. Any questions regarding this news item should be directed to the supervisory authority concerned
+Finnish police also use their own face recognition system, called KASTU. This system can be used to identify people suspected of a crime from the police's register and, according to the NBI, KASTU is still in use and meets the necessary data protection and data security requirements.

@@ -1,8 +1,14 @@
+This is your PSA to always protect your privacy.
+
+This is your PSA to always protect your privacy. Credit: Getty Images
+
 A ChatGPT bug found earlier this week also revealed user's payment information, says OpenAI.
 
 The AI chatbot was shut down on March 20, due to a bug that exposed titles and the first message of new conversations from active users' chat history to other users.
 
 Now, OpenAI has shared that even more private data from a small number of users was exposed.
+
+Mashable Light Speed Want more out-of-this world tech, space and science stories? Sign up for Mashable's weekly Light Speed newsletter. Loading... Sign Me Up By signing up you agree to our Terms of Use and Privacy Policy Thanks for signing up!
 
 "In the hours before we took ChatGPT offline on Monday, it was possible for some users to see another active user’s first and last name, email address, payment address, the last four digits (only) of a credit card number, and credit card expiration date," said OpenAI. "Full credit card numbers were not exposed at any time."
 
@@ -13,6 +19,8 @@ The bug has been patched and ChatGPT is up and running again with its user's cha
 According to Bloomberg, the AI chatbot was shut down due to a bug that exposed titles of users' chat histories to other users. The titles could be seen in the sidebar on the left, which typically shows user's chat history, but the details of users' conversations with ChatGPT were not visible.
 
 A Reddit user posted a screenshot of what the bug appeared like in their browser. Instead of their own chat history, the sidebar displayed the titles of someone else's ChatGPT sessions, and another user posted a similar screenshot. Similar reports were shared on Twitter.
+
+Mashable Light Speed Want more out-of-this world tech, space and science stories? Sign up for Mashable's weekly Light Speed newsletter. Loading... Sign Me Up By signing up you agree to our Terms of Use and Privacy Policy Thanks for signing up!
 
 SEE ALSO: 10 of the best ChatGPT courses you can take for free this week
 
