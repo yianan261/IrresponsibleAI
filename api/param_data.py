@@ -28,6 +28,7 @@ def get_tools():
 
 def get_messages(prompt, article_text, message_type="one"):
     """
+    this message prompt invokes get_location() from Google Custom Search API
     :param prompt: prompt for the LLM
     :param article_text: incident article
     :message_type: if "one" selected only one prompt. If "multi" selected there will be a multi-role conversation

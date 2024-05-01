@@ -1,0 +1,23 @@
+{
+    "382": {
+        "Country": "United Kingdom",
+        "State": "",
+        "City": "London",
+        "Continent": "Europe",
+        "Company": "Meta Platforms, Inc.",
+        "Company city": "Menlo Park",
+        "Company state": "California",
+        "Affected population": "Youth, Social Media Users",
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Social Media",
+        "Online": "Yes"
+    }
+}
