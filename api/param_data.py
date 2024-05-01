@@ -72,6 +72,10 @@ def update_messages_with_location(article_text, prompt, location_candidates):
     )
     compressed_article = llm_lingua.compress_prompt(article_text)
     print("COMPRESSED ARTICLE---====", compressed_article)
+    print("ORIGIN TOKENS>>>>>", compressed_article.get("origin_tokens"))
+    print("COMPRESSED TOKENS>>>>>", compressed_article.get("compressed_tokens"))
+    print("RATIO OF COMPRESSION>>>>>>", compressed_article.get("ratio"))
+    print("SAVING>>>>>", compressed_article.get("saving"))
     message = [
         {"role": "system", "content": "You are a helpful assistant."},
         {"role": "user", "content": prompt},
@@ -124,7 +128,7 @@ def update_messages_with_location(article_text, prompt, location_candidates):
             "content": f"""
             read this article: 
             ====start of article====
-            {compressed_article}
+            {compressed_article['compressed_prompt']}
             ====end of article ====
             please do the following:
             request 1. Follow the previous example steps, provide classification and reasoning. Construct your final classification results in JSON format.
