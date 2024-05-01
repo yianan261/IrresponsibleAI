@@ -1,0 +1,85 @@
+A Black teenager in the US was barred from entering a roller rink after a facial-recognition system wrongly identified her as a person who had been previously banned for starting a fight there.
+
+Lamya Robinson, 14, had been dropped off by her parents at Riverside Arena, an indoor rollerskating space in Livonia, Michigan, at the weekend to spend time with her pals. Facial-recognition cameras installed inside the premises matched her face to a photo of somebody else apparently barred following a skirmish with other skaters.
+
+Robinson was thus told to leave the premises by staff. She said the person in the image couldn’t possibly be her because she had never been to the skating rink before. Her parents, Juliea and Derrick, are now mulling whether it’s worth suing Riverside Arena or not.
+
+“To me, it's basically racial profiling," Lamya’s mother told Fox 2 Detroit. "You're just saying every young Black, brown girl with glasses fits the profile and that's not right."
+
+One of the arena's managers later called Lamya’s mother to discuss the issue. And in a statement, the biz said: “The software had her daughter at a 97 percent match. This is what we looked at ... if there was a mistake, we apologize for that."
+
+Lots of mistakes to be found
+
+Facial-recognition technology is controversial. Experts in the AI research community, lawyers, and even law enforcement have called Congress to place a moratorium on using the software in the real world. Several projects have shown that the algorithms involved generally struggle with accurately identifying women and people of color, such as Lamya.
+
+The House judiciary committee held a hearing about the effects of facial recognition used in law enforcement just this week. Robert Williams, a man from Detroit, who was wrongly arrested and detained for 30 hours, testified.
+
+“I grew up in Detroit, and I know from that experience that the fact of the matter is that people that look like me have long been more subject to surveillance, heavy policing, and mass incarceration than some other populations,” he said. “I worry that facial recognition technology, even if it works better than it did in my case, will make these problems worse.”
+
+There is no federal-level regulation of the technology in America, however, and Congress seems unlikely to act on the issue. Instead, individual states and cities have their own rules that vary in terms of how and where the facial recognition cameras can be used or not.
+
+In Maine, for example, state officials cannot use the technology and cannot contract third parties to do so. The software cannot be used except in cases involving serious crimes or to search for registered vehicles. Elsewhere, in Portland, Oregon, facial-recognition cameras are not allowed to be used inside any public or private places, from grocery stores to train stations.
+
+Many states, however, are pretty lax about it. Banks in Florida and North Carolina use systems to monitor customers and, in some cases, shoo away homeless people loitering outside. ®. A local roller skating rink is coming under fire for its use of facial recognition software after a teenager was banned for allegedly getting into a brawl there.
+
+"To me, it's basically racial profiling," said the girl's mother Juliea Robinson. "You're just saying every young Black, brown girl with glasses fits the profile and that's not right."
+
+Juliea and her husband Derrick are considering legal action against a Livonia skating rink after their daughter Lamya was misidentified by the business's facial recognition technology.
+
+"I was like, that is not me. who is that?" said Lamya Robinson.
+
+Lamya's mom dropped her off at Riverside Arena skating rink last Saturday to hang out with friends, but staffers barred her entry saying she was banned after her face was scanned - saying Lamya was involved in a brawl at the skating rink back in March.
+
+But there was one problem.
+
+"I was so confused because I've never been there," said Lamya.
+
+The Robinsons' beef with Riverside comes as facial recognition technology undergoes more scrutiny. Robert Williams, one of the first in the country to be misidentified and wrongfully arrested over the technology, testified on Capitol Hill Tuesday.
+
+"I just don't think it's right, that my picture was used in some type of lineup, and I never been in trouble," Williams said.
+
+Tawana Petty heads up Data 4 Black Lives, one of 35 organizations signing onto a campaign calling for retailers to not use facial recognition on customers or workers in their stores.
+
+According to campaign organizers, Lowes and Macy's are among those using the technology.
+
+Walmart, Kroger, Home Depot, and Target are among those that are not.
+
+"Facial recognition does not accurately recognize darker skin tones," Petty said. "So, I don't want to go to Walmart and be tackled by an officer or security guard, because they misidentified me for something I didn't do."
+
+The Robinsons say they are thankful the situation did not lead to an unnecessary interaction with police.
+
+Lamya Robinson
+
+Riverside made Lamya leave the building after misidentifying her, putting her safety, the Robinsons say, at risk.
+
+"You all put my daughter out of the establishment by herself, not knowing what could have happened," said Derrick Robinson. "It just happened to be a blessing that she was calling in frustration to talk to her cousin, but at the same time he pretty much said I'm not that far, let me go see what's wrong with her."
+
+We have a statement from the skating rink which reads in part:
+
+"One of our managers asked Ms. Robinson (Lamya's mother) to call back sometime during the week. He explained to her, this our usual process, as sometimes the line is quite long and it's a hard look into things when the system is running.
+
+"The software had her daughter at a 97 percent match. This is what we looked at, not the thumbnail photos Ms. Robinson took a picture of, if there was a mistake, we apologize for that."
+
+While Lowe’s has been sued for its alleged use of facial recognition technology, a spokeswoman says, "Lowe’s does not collect biometric or facial recognition data in our stores."
+
+For more information about stores using facial recognition, go to www.banfacialrecognition.com/stores/. French company Idemia’s algorithms scan faces by the million. The company’s facial recognition software serves police in the US, Australia, and France. Idemia software checks the faces of some cruise ship passengers landing in the US against Customs and Border Protection records. In 2017, a top FBI official told Congress that a facial recognition system that scours 30 million mugshots using Idemia technology helps “safeguard the American people.”
+
+But Idemia’s algorithms don’t always see all faces equally clearly. July test results from the National Institute of Standards and Technology indicated that two of Idemia’s latest algorithms were significantly more likely to mix up black women’s faces than those of white women, or black or white men.
+
+The NIST test challenged algorithms to verify that two photos showed the same face, similar to how a border agent would check passports. At sensitivity settings where Idemia’s algorithms falsely matched different white women’s faces at a rate of one in 10,000, it falsely matched black women’s faces about once in 1,000—10 times more frequently. A one in 10,000 false match rate is often used to evaluate facial recognition systems.
+
+Donnie Scott, who leads the US public security division at Idemia, previously known as Morpho, says the algorithms tested by NIST have not been released commercially, and that the company checks for demographic differences during product development. He says the differing results likely came from engineers pushing their technology to get the best overall accuracy on NIST’s closely watched tests. “There are physical differences in people and the algorithms are going to improve on different people at different rates,” he says.
+
+Computer vision algorithms have never been so good at distinguishing human faces. NIST said last year that the best algorithms got 25 times better at finding a person in a large database between 2010 and 2018, and miss a true match just 0.2 percent of the time. That’s helped drive widespread use in government, commerce, and gadgets like the iPhone.
+
+But NIST’s tests and other studies repeatedly have found that the algorithms have a harder time recognizing people with darker skin. The agency’s July report covered tests on code from more than 50 companies. Many top performers in that report show similar performance gaps to Idemia’s 10-fold difference in error rate for black and white women. NIST has published results of demographic tests of facial recognition algorithms since early 2017. It also has consistently found that they perform less well for women than men, an effect believed to be driven at least in part by the use of makeup.
+
+“White males ... is the demographic that usually gives the lowest FMR,” or false match rate, the report states. “Black females ... is the demographic that usually gives the highest FMR.” NIST plans a detailed report this fall on how the technology works on different demographic groups.
+
+NIST’s studies are considered the gold standard for evaluating facial recognition algorithms. Companies that do well use the results for marketing. Chinese and Russian companies have tended to dominate the rankings for overall accuracy, and tout their NIST results to win business at home. Idemia issued a press release in March boasting that it performed better than competitors for US federal contracts.
+
+Many facial recognition algorithms are more likely to mix up black faces than white faces. Each chart represents a different algorithm tested by the National Institute of Standards and Technology. Those with a solid red line uppermost incorrectly match black women's faces more than other groups. NIST
+
+The Department of Homeland Security has also found that darker skin challenges commercial facial recognition. In February, DHS staff published results from testing 11 commercial systems designed to check a person’s identity, as at an airport security checkpoint. Test subjects had their skin pigment measured. The systems that were tested generally took longer to process people with darker skin and were less accurate at identifying them—although some vendors performed better than others. The agency’s internal privacy watchdog has said DHS should publicly report the performance of its deployed facial recognition systems, like those in trials at airports, on different racial and ethnic groups.
+
+The government reports echo critical 2018 studies from ACLU and MIT researchers openly wary of the technology. They reported algorithms from Amazon, Microsoft, and IBM were less accurate on darker skin.

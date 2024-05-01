@@ -1,0 +1,171 @@
+Sexually explicit AI-generated images of Taylor Swift have been circulating on X (formerly Twitter) over the last day in the latest example of the proliferation of AI-generated fake pornography and the challenge of stopping it from spreading.
+
+One of the most prominent examples on X attracted more than 45 million views, 24,000 reposts, and hundreds of thousands of likes and bookmarks before the verified user who shared the images had their account suspended for violating platform policy. The post was live on the platform for around 17 hours prior to its removal.
+
+But as users began to discuss the viral post, the images began to spread and were reposted across other accounts. Many still remain up, and a deluge of new graphic fakes have since appeared. In some regions, the term “Taylor Swift AI” became featured as a trending topic, promoting the images to wider audiences.
+
+A report from 404 Media found that the images may have originated in a group on Telegram, where users share explicit AI-generated images of women often made with Microsoft Designer. Users in the group reportedly joked about how the images of Swift went viral on X. On Monday, 404 Media reported the loopholes had been addressed.
+
+Microsoft Responsible AI Engineering Lead Sarah Bird confirmed the changes, saying, “We are committed to providing a safe and respectful experience for everyone. We are continuing to investigate these images and have strengthened our existing safety systems to further prevent our services from being misused to help generate images like them.”
+
+X’s policies regarding synthetic and manipulated media and nonconsensual nudity both explicitly ban this kind of content from being hosted on the platform. While representatives for X, Swift, and the NFL have not responded to our requests for comment, X did post the following public statement almost a day after the incident began, but without mentioning the Swift images specifically.
+
+Swift’s fan base has criticized X for allowing many of the posts to remain live for as long as they have. In response, fans have responded by flooding hashtags used to circulate the images with messages that instead promote real clips of Swift performing to hide the explicit fakes.
+
+The incident speaks to the very real challenge of stopping deepfake porn and AI-generated images of real people. Some AI image generators have restrictions in place that prevent nude, pornographic, and photorealistic images of celebrities from being produced, but many others do not explicitly offer such a service. The responsibility of preventing fake images from spreading often falls to social platforms — something that can be difficult to do under the best of circumstances and even harder for a company like X that has hollowed out its moderation capabilities.
+
+The company is currently being investigated by the EU regarding claims that it’s being used to “disseminate illegal content and disinformation” and is reportedly being questioned regarding its crisis protocols after misinformation about the Israel-Hamas war was found being promoted across the platform.
+
+Update January 25th, 1:06PM ET: Added findings from 404 Media.
+
+Update January 26th, 5:31AM ET: Added Twitter’s general statement on posting non-consensual nudity.. Fake AI images sexualizing Taylor Swift spread to X, formerly known as Twitter, from a Telegram group dedicated to sharing "abusive images of women," 404 Media reported.
+
+These images began circulating online this week, quickly sparking mass outrage that may finally force a mainstream reckoning with harms caused by the spread of non-consensual deepfake pornography.
+
+At least one member of the Telegram group claimed to be the source of some of the Swift images, posting in the channel that they didn't know if they "should feel flattered or upset that some of these Twitter stolen pics are my gen."
+
+While it's still unknown how many AI tools were used to generate the flood of harmful images, 404 Media confirmed that some members of the Telegram group used Microsoft's free text-to-image AI generator, Designer.
+
+According to 404 Media, the images were not created by training an AI model on Taylor Swift's images but by hacking tools like Designer to override safeguards designed to stop tools from generating images of celebrities. Members of the group shared strategies for subverting these safeguards by avoiding prompts using "Taylor Swift" and instead using keywords like "Taylor 'singer' Swift." They were then able to generate sexualized images by using keywords describing "objects, colors, and compositions that clearly look like sexual acts," rather than attempting to use sexual terms, 404 Media reported.
+
+It's possible that Microsoft has already updated the tool to stop users from abusing Designer. 404 Media and Ars were not able to replicate outputs based on recommendations in the Telegram group. However, images of Swift can still be generated using the recommended keyword hack.
+
+So far, Microsoft has not yet verified that the images were created using any of its AI tools, but the company is taking steps to strengthen filters on prompts to prevent future misuse in the meantime.
+
+A Microsoft spokesperson told Ars that the tech giant is “investigating these reports" and has "taken appropriate action to prevent the misuse of our tools." The spokesperson also noted that Microsoft's Code of Conduct prohibits the use of Microsoft tools "for the creation of adult or non-consensual intimate content, and any repeated attempts to produce content that goes against our policies may result in loss of access to the service."
+
+Advertisement
+
+"We have teams working on the development of guardrails and other safety systems in line with our responsible AI principles, including content filtering, operational monitoring, and abuse detection to mitigate misuse of the system and help create a safer environment for users,” Microsoft's spokesperson said.
+
+Some members of the Telegram channel appeared amused to see the images spread, not just on social media but also on sites featuring celebrity nudes and stolen adult content, 404 Media reported. But others scolded members for sharing the images outside the group and risking the channel being shut down.
+
+Telegram has so far not responded to requests to comment.
+
+Fake Swift images first leaked on X
+
+Leaked from Telegram, a wide variety of fake images targeting Swift began spreading on X yesterday.
+
+Ars found that some posts have been removed, while others remain online, as of this writing. One X post was viewed more than 45 million times over approximately 17 hours before it was removed, The Verge reported. Seemingly fueling more spread, X promoted these posts under the trending topic "Taylor Swift AI" in some regions, The Verge reported.
+
+The Verge noted that since these images started spreading, "a deluge of new graphic fakes have since appeared." According to Fast Company, these harmful images were posted on X but soon spread to other platforms, including Reddit, Facebook, and Instagram. Some platforms, like X, ban the sharing of AI-generated images but seem to struggle with detecting banned content before it becomes widely viewed.
+
+Ars' AI reporter Benj Edwards warned in 2022 that AI image-generation technology was rapidly advancing, making it easy to train an AI model on just a handful of photos before it could be used to create fake but convincing images of that person in infinite quantities. At first, it seemed like this might have been what happened to Swift, but 404 Media's report confirmed that the fake AI images were not classic “deepfakes" but took advantage of free tools trained on large quantities of public data.
+
+It's currently unknown how many different non-consensual AI images of Swift have been generated or how widely those images have spread. 404 Media found "tens of thousands of bookmarks and likes and thousands of reposts" of the images online.. LONDON (AP) — Elon Musk’s social media platform X has restored searches for Taylor Swift after temporarily blocking users from seeing some results as pornographic deepfake images of the singer circulated online.
+
+Searches for the singer’s name on the site Tuesday turned up a list of tweets as normal.
+
+A day earlier, the same search resulted in an error message and a prompt for users to retry their search, which added, “Don’t fret — it’s not your fault.” Users, however, had been able to get around the block by putting quote marks around her name.
+
+Sexually explicit and abusive fake images of Swift began circulating widely last week on X, formerly known as Twitter, making her the most famous victim of a scourge that tech platforms and anti-abuse groups have struggled to fix.
+
+“Search has been re-enabled and we will continue to be vigilant for any attempt to spread this content and will remove it if we find it,” Joe Benarroch, head of business operations at X, said in a statement.
+
+Earlier, he said the company had taken “temporary action” to stop the searches and that it was “done with an abundance of caution” as it prioritized safety
+
+At least one search term — Taylor Swift AI — was still apparently blocked. Unlike more conventional doctored images that have troubled celebrities in the past, the Swift images appear to have been created using an artificial intelligence image-generator that can instantly create new images from a written prompt.
+
+After the images began spreading online, the singer’s devoted fanbase of “Swifties” quickly mobilized, launching a counteroffensive on X and a #ProtectTaylorSwift hashtag to flood it with more positive images of the pop star. Some said they were reporting accounts that were sharing the deepfakes.. NEW YORK (AP) — Pornographic deepfake images of Taylor Swift are circulating online, making the singer the most famous victim of a scourge that tech platforms and anti-abuse groups have struggled to fix.
+
+Sexually explicit and abusive fake images of Swift began circulating widely this week on the social media platform X.
+
+Her ardent fanbase of “Swifties” quickly mobilized, launching a counteroffensive on the platform formerly known as Twitter and a #ProtectTaylorSwift hashtag to flood it with more positive images of the pop star. Some said they were reporting accounts that were sharing the deepfakes.
+
+The deepfake-detecting group Reality Defender said it tracked a deluge of nonconsensual pornographic material depicting Swift, particularly on X. Some images also made their way to Meta-owned Facebook and other social media platforms.
+
+“Unfortunately, they spread to millions and millions of users by the time that some of them were taken down,” said Mason Allen, Reality Defender’s head of growth.
+
+The researchers found at least a couple dozen unique AI-generated images. The most widely shared were football-related, showing a painted or bloodied Swift that objectified her and in some cases inflicted violent harm on her deepfake persona.
+
+Researchers have said the number of explicit deepfakes have grown in the past few years, as the technology used to produce such images has become more accessible and easier to use. In 2019, a report released by the AI firm DeepTrace Labs showed these images were overwhelmingly weaponized against women. Most of the victims, it said, were Hollywood actors and South Korean K-pop singers.
+
+Brittany Spanos, a senior writer at Rolling Stone who teaches a course on Swift at New York University, says Swift’s fans are quick to mobilize in support of their artist, especially those who take their fandom very seriously and in situations of wrongdoing.
+
+“This could be a huge deal if she really does pursue it to court,” she said.
+
+Spanos says the deep fake pornography issue aligns with others Swift has had in the past, pointing to her 2017 lawsuit against a radio station DJ who allegedly groped her; jurors awarded Swift $1 in damages, a sum her attorney, Douglas Baldridge, called “a single symbolic dollar, the value of which is immeasurable to all women in this situation” in the midst of the MeToo movement. (The $1 lawsuit became a trend thereafter, like in Gwyneth Paltrow’s 2023 countersuit against a skier.)
+
+When reached for comment on the fake images of Swift, X directed the The Associated Press to a post from its safety account that said the company strictly prohibits the sharing of non-consensual nude images on its platform. The company has also sharply cut back its content-moderation teams since Elon Musk took over the platform in 2022.
+
+“Our teams are actively removing all identified images and taking appropriate actions against the accounts responsible for posting them,” the company wrote in the X post early Friday morning. “We’re closely monitoring the situation to ensure that any further violations are immediately addressed, and the content is removed.”
+
+Meanwhile, Meta said in a statement that it strongly condemns “the content that has appeared across different internet services” and has worked to remove it.
+
+“We continue to monitor our platforms for this violating content and will take appropriate action as needed,” the company said.
+
+A representative for Swift didn’t immediately respond to a request for comment Friday.
+
+Allen said the researchers are 90% confident that the images were created by diffusion models, which are a type of generative artificial intelligence model that can produce new and photorealistic images from written prompts. The most widely known are Stable Diffusion, Midjourney and OpenAI’s DALL-E. Allen’s group didn’t try to determine the provenance.
+
+OpenAI said it has safeguards in place to limit the generation of harmful content and “decline requests that ask for a public figure by name, including Taylor Swift.”
+
+Microsoft, which offers an image-generator based partly on DALL-E, said Friday it was in the process of investigating whether its tool was misused. Much like other commercial AI services, it said it doesn’t allow “adult or non-consensual intimate content, and any repeated attempts to produce content that goes against our policies may result in loss of access to the service.”
+
+Asked about the Swift deepfakes on “NBC Nightly News,” Microsoft CEO Satya Nadella told host Lester Holt in an interview airing Tuesday that there’s a lot still to be done in setting AI safeguards and “it behooves us to move fast on this.”
+
+“Absolutely this is alarming and terrible, and so therefore yes, we have to act,” Nadella said.
+
+Midjourney, OpenAI and Stable Diffusion-maker Stability AI didn’t immediately respond to requests for comment.
+
+Federal lawmakers who’ve introduced bills to put more restrictions or criminalize deepfake porn indicated the incident shows why the U.S. needs to implement better protections.
+
+“For years, women have been victims of non-consensual deepfakes, so what happened to Taylor Swift is more common than most people realize,” said U.S. Rep. Yvette D. Clarke, a Democrat from New York who’s introduced legislation would require creators to digitally watermark deepfake content.
+
+“Generative-AI is helping create better deepfakes at a fraction of the cost,” Clarke said.
+
+U.S. Rep. Joe Morelle, another New York Democrat pushing a bill that would criminalize sharing deepfake porn online, said what happened to Swift was disturbing and has become more and more pervasive across the internet.
+
+“The images may be fake, but their impacts are very real,” Morelle said in a statement. “Deepfakes are happening every day to women everywhere in our increasingly digital world, and it’s time to put a stop to them.”. Editor’s Note: Laurie Segall is a longtime tech journalist and the founder of Mostly Human, an entertainment company that produces docs, films and digital content focused on the intersection of technology and humanity. She is the author of ”Special Characters: My Adventures with Tech’s Titans and Misfits.” Previously, she was CNN’s senior technology correspondent. The views expressed in this commentary are her own. Read more opinion on CNN.
+
+CNN —
+
+Sexually explicit AI-generated photos of pop superstar Taylor Swift have flooded the internet, and we don’t need to calm down.
+
+Laurie Segall Angie Speranza
+
+Swift may be one of the most famous women in the world, but she represents every woman and every girl when it comes to what’s at stake in the future of artificial intelligence and consent.
+
+I’ve been in the trenches covering the impact of technology for nearly 15 years, and I believe sexually explicit deepfakes are one of the most significant threats we face with advances in AI. With the proliferation of AI-generated tools and Silicon Valley’s tendency to race to innovate, we are entering a phase of tech that feels familiar — only now, the stakes are even higher.
+
+We are in an era where it’s not just our data that’s up for grabs, it’s our most intimate qualities: Our voices, our faces, our bodies can all now be mimicked by AI. Put simply: Our humanity is a click away from being used against us.
+
+And if it can happen to Swift, it can happen to you. The biggest mistake we can make is believing that this type of harm is reserved for public figures. We are now seeing a democratization of image-generating apps enabling this type of behavior. Did your crush reject you? There’s an app for that. Now, you can digitally undress her or create your own explicit deepfake starring her.
+
+The problem will only get worse as we move into augmented and virtual worlds. Imagine an immersive environment where a scorned ex invites others to collectively view a sexually explicit deepfake video of the girl who rejected him. Earlier this month, it was reported that British police are investigating the case of a 16-year old who alleged being raped in the virtual world by multiple attackers.
+
+Video Ad Feedback Ramaswamy: NFL is rigging Super Bowl for potentially Taylor Swift to endorse Biden 02:22 - Source: CNN
+
+I recently spoke to George Washington University professor Dr. Mary Anne Franks, who specializes in civil rights, tech and free speech. She had a chilling warning: These types of apps and AI tools could lead to a new generation of young men with a “my wish is AI’s command” mentality. If we’re not careful, not only will we create a new generation of victims, but also a new generation of abusers.
+
+“We’ve just made all these tools — confused, resentful, angry young men are just using [them] instead of trying to sort through what it means to deal in a healthy way with rejection,” Franks said.
+
+Leveraging advances in technology to humiliate women is nothing new. In 2015, I created a series at CNN called “Revenge Porn: The Cyberwar Against Women.” At the time, non-consensual pornography — where a scorned ex or bad actor published naked photos of women on websites devoted to shaming them — was rampant. Like today, the laws had yet to catch up and tech companies weren’t yet making changes to protect victims.
+
+During that investigation, I will never forget looking at websites hosted on the dark web that featured non-consensual pornography of teenage girls. A security researcher who specialized in online abuse (and tracking down abusers) showed me the depths of the problem, guiding me through forums and images I will never unsee. On one site, perpetrators compromised teenagers’ web cameras and forced young girls to perform sexual acts with a threat: If you don’t comply, we’ll send your private images we’ve recorded to all your classmates.
+
+Fast forward to 2024. Imagine your teenager receives a sexually explicit video of themselves in a DM. They never taped a video, but due to advances in deepfake technology, it’s impossible to distinguish whether it’s real or fake. In a world where AI makes fiction so believable, truth and our perception of truth aren’t far apart. The feeling of shame, loss of control and helplessness doesn’t change because an image or video isn’t technically “real.”
+
+Swift’s deepfake nightmare is just the tip of the iceberg highlighting the existential threat women and girls face. While X may have removed the viral posts (after they were viewed tens of millions of times), there are still a number of alternative sites devoted to this type of exploitative content. One particular site, racking in millions of views a month, features pages of sexually explicit deepfake videos devoted to Swift and other celebrities who did not consent to having their likeness used for pornographic purposes.
+
+The genie is hard to put back in the bottle, and the cure comes with a cost. On Saturday, searches for Swift were blocked on X, with the company telling CNN that the move was temporary to “prioritize safety.”
+
+In order to protect one of the most famous women on the planet, X temporarily had to make her invisible. While it’s a temporary move, the message has lasting impact: If one of the most famous women must disappear online in order to be safe, what does that mean for the rest of us?
+
+I’ve thought a lot about what would actually move the needle.
+
+From a policy perspective, a handful of states have laws against the creation or sharing of these types of sexually explicit deepfakes. All of those laws vary in scope — so where someone is able to bring charges makes a difference. If, for example, Swift filed in New York as a resident of the state — New York’s law requires the victim of this type of abuse to prove intent to cause harm, an increasingly difficult feat for AI-generated sexually explicit images, Franks said.
+
+“Intent to harm is a very restrictive requirement because, as with other forms of image-based sexual abuse, there are lots of other motives [including] sexual gratification, to make money, to gain notoriety, to achieve social status,” Franks said. “Statutes that require intent to cause harm give all of those perpetrators a free pass.”
+
+To file criminal charges, Swift would be required to track down the perpetrator(s) — which is both expensive and difficult to accomplish, all while risking further exposure. This points to the reality that even states with existing laws have a prohibitively complex road to prosecution.
+
+“Someone like Taylor Swift has lawyers and someone who can help do this,” Franks said. “Your average victim is not going to have any assistance.”
+
+Franks says the ideal federal bill would include criminal and civil penalties, citing the bipartisan Preventing Deepfakes of Intimate Images Act, which would criminally prohibit the disclosure of sexually explicit digital images without consent and provide civil recourse for victims. Because laws banning deepfakes are challenging to enforce, lawmakers in Vermont recently introduced legislation that would hold developers of generative AI products accountable for the harms they create that are reasonably foreseeable. These are first steps, but legislation is being outpaced by the speed at which the technology is unfolding.
+
+It doesn’t seem fair to ask Swift to be our spokesperson for this, but I strongly believe that she — and the powerful coalition of fans that share her ethos — may be our best shot at building the momentum needed to create meaningful change starting now. Don’t get me wrong, there would be enormous hurdles and a personal cost for any woman, even a woman in Swift’s position, but given that she’s already reshaped the music industry and created a micro economy from her tour, I wouldn’t put anything past her.
+
+In the Swift universe, injustice is a stepping stone, heartbreak becomes an anthem, and every disappointment is an opportunity to grow. Hopefully, we can use this moment to collectively raise our voices to sing the ultimate ballad: one where we have consent over our bodies, online.. Graphika, a research firm that studies disinformation, traced the images back to one community on 4chan, a message board known for sharing hate speech, conspiracy theories and, increasingly, racist and offensive content created using A.I.
+
+The people on 4chan who created the images of the singer did so in a sort of game, the researchers said — a test to see whether they could create lewd (and sometimes violent) images of famous female figures.

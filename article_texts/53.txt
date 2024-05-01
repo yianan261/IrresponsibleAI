@@ -1,0 +1,343 @@
+The short answer to why Google’s algorithm returns racist results is that society is racist. But let’s start with a lil’ story.
+
+On June 6 (that’s Monday, for those of you keeping track at home) Kabir Alli, an 18-year old in Virginia, posted a brief video of himself running a couple of quick Google image searches. First he searched for “three black teenagers” and was met with several rows of decontextualized mugshots. Then he searched for “three white teenagers” and was served up stock photos of relaxed teens hanging out in front of various plain white backgrounds.
+
+The tweet has been retweeted 67,687 times as of this writing. On Thursday Alli told The Guardian that he’d been told about the differing results by friends, but that, “When I saw the results for myself I was shocked.”
+
+He also told the paper that he doesn’t think Google is racist. He noticed that some people were accusing the company of racism in responses to his tweet, and offered up a rejoinder.
+
+“The results were formed through the algorithm they set up. They aren’t racist but I feel like they should have more control over something like that.”
+
+Google agrees, at least when it comes to whether or not it’s racist. A spokesperson for Google offered the following statement to FUSION via email:
+
+Our image search results are a reflection of content from across the web, including the frequency with which types of images appear and the way they’re described online. This means that sometimes unpleasant portrayals of sensitive subject matter online can affect what image search results appear for a given query. These results don’t reflect Google’s own opinions or beliefs — as a company, we strongly value a diversity of perspectives, ideas and cultures.
+
+As many have already pointed out, this isn’t the first time this has happened. Earlier this year, grad student Bonnie Komona posted the results for “unprofessional hairstyles for work,” which showed photos of black women and those for “professional hairstyles for work,” which mostly displayed photos of white women.
+
+There are cases where Google will intervene when its algorithm does bad things, such as last summer after Google Photo’s auto-tagging program suggested that two young black people were gorillas. In that case a high-ranking engineer at the company apologized. There was also the 2009 instance where the company seemed to remove a racist image comparing Michelle Obama to a gorilla that appeared high in her search results.
+
+The search results for the two terms Alli used remain largely the same for now, although, as is often the case, they’re now also full of side-by-side comparisons from news articles. Here’s what they look as of this writing:
+
+And just for contrast, here are the results for “three latino teenagers:”
+
+And here’s “three asian teenagers,” where you will see a different kind of bias. It almost always shows female teens, often scantily clad. (These aren’t personalized to me, by the way; my colleagues got the same results.)
+
+As BuzzFeed News explained back in April, a number of factors play into what images appear first in Google’s image results, including “[t]he popularity of the image, how frequently it is shared, context such as text around the image, and meta-tagging.” Meta-tagging (or metadata) is information about the image provided by the page the image is from or the image itself, so in the case of “three black teenagers” that description is likely coming from the sites that posted the mugshots, and people are probably clicking on those images. And in general, Google’s algorithms are acting on a lot of inputs.
+
+Alli’s thought that Google “should have more control over [image results]” is a fair one. Google makes plenty of big, discretionary decisions about ad results and what appears in their other apps, but when it comes to search results they broadly stick to the line that they’re simply very good at efficiently turning up what people are looking for on the internet. In other words, they’re not racist, society is racist.
+
+And fair enough, society is racist. But Alli raises the very fair question about what role society’s institutions ought to play in allaying that racism rather than abetting it. Google may turn up what people on the web want, but because of its role as the world’s most popular search engine, it also reinforces those wants. Being at the top of those rankings can make all the difference in the world, and there’s a big industry based solely on getting there. But Google is ultimately a company in the U.S., and will pursue its fiduciary interests above anything else, which rely in part on not futzing too much with search results.
+
+So for now, our best option may be something a little more difficult: trying to make society as a whole less racist.
+
+Guess we’d better get on that.
+
+Ethan Chiel is a reporter for Fusion, writing mostly about the internet and technology. You can (and should) email him at [email protected]. This week Twitter user Kabir Alli posted a video of him carrying out two specific searches on Google. The search for “three white teenagers” produced smiling and happy generic images of white teenagers, while the search for “three black teenagers” produced some generic happy images too – alongside far too many mug shots and what could be perceived as negative images of black teenagers. The video of the search was put up without any explanation, and people predictably reacted emotively; it’s been shared more than 60,000 times. It brought back an internet meme I debunked back in March this year, in which, on the basis of such search results, people on social media called Google “racist”.
+
+The outrage towards Google as a result of those searches makes sense if a person isn’t aware of the nature of search engine optimisation (SEO), algorithms, alt tagging and stock photography.
+
+But once you have that knowledge, it enables you to direct your outrage more accurately. In short, Google doesn’t produce or tag the images themselves. Google is a search engine; search engines collect data from the internet. The most popular and most accurate search results make their way to the top. Websites and companies use SEO to get their images, products and articles to the top of the search engine. So you, the viewer, can see them.
+
+Alt tags are the descriptive words attached to an image or article by its producer, ie, a human, and Google uses these alt tags to bring you “accurate” results. For this particular search the images that appear tend to come from two sources: stock photography and news sites.
+
+YOOOOOO LOOK AT THIS pic.twitter.com/uY1JysFm8w — July 3rd. (@iBeKabir) June 7, 2016
+
+Stock photography involves a photographer taking generic images of models and then tagging the images in order to sell them to advertising companies. Black people make up 13% of the US population and 3% of the British population. That means there are far more white people in each population, which means far more companies potentially looking to buy images of smiling white teens. The demographic breakdown of society isn’t, in itself, racist. However, the fact that companies don’t think white people would buy their products if they had black models advertising them seems like a reflection of society’s prejudices. For instance, when the US clothing brand Old Navy used an interracial family in its advertising, it was bombarded with racist tweets.
+
+Whenever a news site publishes an article writers will describe the pictures in the caption and alt text, and these news pictures form the source of many of the “negative” images and mugshots that appear. So, if a story is about a white or black teenager committing a crime the image which accompanies it may well be associated with the phrase “black/white teenager”.
+
+News organisations want page views, and sadly many see the promotion of fear as a great way to reach a big audience. In western countries one of the fears some seek to exploit is the perception of black men as “dangerous”. This perception is evident if you compare the media’s depiction of young black men Tamir Rice and Trayvon Martin, who were 12 and 17 respectively when they were shot dead, and that of Brock Turner, 20, who has just been convicted of sexual assault. The two black teenagers were depicted as criminals and their deaths were blamed on themselves. This narrative was supported by images chosen to portray them with the “young black thug” stereotype. Turner has been depicted as the wholesome white swimming star with a bright future ahead of him – except for the moment he decided to try to rape an unconscious woman. The media portrayed him with a smiling college photo rather than his mugshot.
+
+A study by the US campaign group Color of Change found that black people account for 51% of those arrested for violent crime in New York City. However, the arrests of black people receive 75% of the news coverage. Why? Because a calculation has been made – even if subconsciously or inadvertently – that these stories are of particular interest to a news audience.
+
+So, is Google racist? No. But society is still racist. Not in the same way as the obvious and profound segregation seen in the US before the civil rights movement. But in more subtle, insidious ways, manifested through advertising, the media, film and policing.
+
+We have to accept that computers and search engines do not think for themselves. They are a reflection of their creators, and in the case of search engines, a reflection of those who use them – us. Negative images of black teenagers aren’t at the top of the search results because Google is racist, but because society reflects our institutional and subconscious prejudices.
+
+If people want to see positive images of black young people they are going to have to start writing, searching, reading and sharing them. This is the only way to change the negative perception of black teenagers, and black people.. To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Up Next
+
+A man compared the results for Googling ‘Three black teenagers’ and ‘Three white teenagers’ – and the results have ignited debate over whether Google is racist.
+
+The video – posted by Twitter user @iBeKabir – has been retweeted thousands of times, with the ‘white’ search showing cheerful stock images, and the ‘black’ search showing mugshots.
+
+YOOOOOO LOOK AT THIS pic.twitter.com/uY1JysFm8w — July 3rd. (@iBeKabir) June 7, 2016
+
+But viewers are divided as to why the difference was so great – with some suggesting that there are simply more stock images featuring white people.
+
+Google results are delivered by an algorithm, and can be affected by many factors, such as what words images are tagged with .
+
+I'm weak at y'all saying Google is racist ??? — July 3rd. (@iBeKabir) June 8, 2016. When one searches a stock photo website like Shutterstock for “three black teenagers,” photos like the one above of three cute black teenagers by a photographer dubbed “Logo Boom” show up. Perhaps Google Images should take notes from the stock image website’s results for “three black teenagers.” That’s because the results that people get when searching Google Images for “three black teenagers” versus “three white teenagers” are causing consternation in some circles, reports Heavy.
+
+As of this writing, searching Google Images for “three black teenagers” turns up disturbing results. The first two results are questionable sources containing questionable statistics about black teens and crime. The results in Google Images for “three white teenagers” shows plenty of smiling white teens in stock photos, interspersed with news photos and a mugshot or two.
+
+But to those who have been publishing online for years and tend to know the way Google ranks certain images know that the “three black teenagers” drama is all about search-engine optimization, or SEO. Google tends to favor large, clear images, and ones that include keywords, captions and file names attributable to the topic at hand, which is “three black teenagers.”
+
+So here’s hoping with the new focus on the results in Google Images when searching for “three black teenagers” that more images of black teens like the above stock photo show up. Instead of photos of “three black teenagers” displaying black teens involved in crimes or black teenagers who were the victims of crimes, perhaps better SEO’d articles will replace the ones that exist now in Google Images.
+
+The YouTube star known as Antoine Speaks highlighted the issue in the following YouTube video, wherein Antoine encourages people to share and publish more positive articles about blacks in order to organically change the results to more becoming images when one searches for “three black teenagers.” Instead of dubious blog posts with fear-mongering and weird stats about three black teens committing some unverifiable crime against a white person, more positive and verifiable articles about three black teenagers performing good deeds could take their places.
+
+For example, as reported by Business Insider, three black teenagers created an app to battle police brutality. Or, as reported by the Kansas City Star, three black teens were part of an advisory board to help foster an understanding between police and black teenagers in the wake of the situation in Ferguson, Missouri.
+
+Then there is the thought-provoking article on Take Part about colorism, as revealed by three black teenagers who discussed their experiences with being light-skinned or dark-skinned. Those types of results are the ones being bandied about on social media as the ones that would be more productive during a Google Images search for “three black teenagers.”
+
+https://youtu.be/m5JPwh44VRE
+
+It was the following Twitter video that shows a live Google search for “three black teenagers” versus a Google search for “three white teenagers” that set the ball rolling and went viral. That video has been liked and retweeted nearly 60,000 times on Twitter since being tweeted on June 6. By displaying images that look more akin to mugshots for the “three black teenagers” search — as opposed to the “three white teenagers” search showing images of soccer players and such — the “three black teenagers” search disparity is evident.
+
+Warning: The below Twitter video displaying search results for “three black teenagers” versus “three white teenagers” contains language that might be offensive to some viewers.
+
+YOOOOOO LOOK AT THIS https://t.co/uY1JysFm8w — uno (@iBeKabir) June 7, 2016
+
+A search for “black teenagers” in Google Images (leaving off the “three”) doesn’t seem to bring as many bad results. Instead, more stock images of smiling black teenagers appear, along with images of black teens in literacy programs, as reported by PBS.
+
+[Image via Shutterstock]. NEXT VIDEO
+
+Cory Feldman Lost His Damn Mind on the Today Show. A Google image search is going viral on Twitter as it’s said to highlight the pervasiveness of racial bias and media profiling.
+
+Featured Image VIA
+
+A dude named Kabir Alli posted this clip on Twitter of himself carrying out a simple search of ‘three black teenagers’ on Google, which loads up a bunch of prisoner mugshots and undesirables.
+
+When he searches for “three white teenagers” however, all you get is stock photos of smiling, well-behaved looking young people:
+
+YOOOOOO LOOK AT THIS https://t.co/uY1JysFm8w — kabstër (@iBeKabir) June 7, 2016
+
+Much of the reaction seems to be people calling Google racist, although Kabir himself has a little more sense:
+
+I'm weak at y'all saying Google is racist 😂😂😂 — kabstër (@iBeKabir) June 8, 2016
+
+He added:
+
+The results were formed through the algorithm they set up. They aren’t racist but I feel like they should have more control over something like that.
+
+At the end of the day, there are a lot of stories out there covering crimes involving “three black teenagers.” Is that the messed up reality of media coverage and crime statistics? Yes. But is that down to Google purposely trying to manipulate their search results to oppress black people? No. In fact, the more articles show up about this story, the more results it creates for Google where both “three white teenagers” and “three black teenagers” is in the SEO and all photos associated with the story now come up:
+
+That’s just how Google works – nothing intentional about it on their part.
+
+Obviously, in true social media fashion, this guy is making the most of his Tweet going viral:
+
+add me on snap though pic.twitter.com/WMiZ6Kyb2J — kabstër (@iBeKabir) June 7, 2016
+
+This isn’t the first time Google has been accused of racism though – remember when their Photos app was tagging black people as gorillas? Fuck me, that was embarrassing.. . On Monday, Twitter user @iBeKabir learned that searching the phrase "three black teenagers" on Google images yields almost exclusively mugshots of black teens.
+
+Curious, @iBeKabir says, "Let's just change the color" and swaps out "black" for "white." What appears is a sea of stock photos of blue-blooded white teenagers looking like they're having some good, clean fun.
+
+Read more: Searching for This Racist Phrase on Google Maps Takes You to the White House
+
+@iBeKabir isn't the first to notice the racist double standard: In March, U.K. blogger Antoine Speaks investigated whether there's a reason for the disparity and what the root cause of it may be. In a YouTube video, Speaks explains, "Google isn't racist — it literally shows you the most-wanted search results."
+
+The stock photos of white people likely appear because there is a demand for them; individuals or companies are looking to purchase them, said Speaks, pushing them to the top of the page. On the flip side, the mug shots of black teens are typically associated with news stories about their arrests.
+
+But, as Speaks points out, not all of the mugshots belong to convicted criminals. Many of them have been acquitted, yet the press continues to use their mugshots in articles about them.
+
+The bias surrounding when outlets choose to share a mugshot has been playing out in real time as the press covers the case of Stanford sex offender Brock Turner, a white 20-year-old. Though he was convicted in March on three counts of sexual assault for assaulting an unconscious woman behind a dumpster, until Monday the Santa Clara county sheriff's office had yet to release Turner's mugshot. And, at first, the office only released Turner's sentencing photo, where he appears clean-cut and wearing a suit.
+
+Back to the original question. Is Google racist? Yes — but only because we are.
+
+Correction: June 7, 2016. Google image search 'three black teenagers' and then 'three white teenagers'.
+
+A Twitter video of a man typing in this supposedly unremarkable search has gone massively viral since it was uploaded yesterday afternoon.
+
+That's because his clip shows the results for the former almost exclusively show mugshots, or at least pictures posed to look like them, and the latter reveals mostly stock photos of happy white teens.
+
+But since @iBeKabir posted his tweet it has become so popular, with favourites and retweets reaching over 100,000 shares combined, the image results themselves are being skewed.
+
+Is Google Images racist? A viral video posted to twitter shows the differences in typing in 'three black teenagers' compared to 'three white teenagers'
+
+In the footage the man, from Virginia U.S.A, scrolls through the results for 'three black teenagers', which in his words is mainly 'inmates'.
+
+He then says: 'Now let's just change the colour,' before he and his friends laugh in amazement at the surprising outcome for such a simple adjustment in the search.
+
+'What the f***!' exclaims the American man.
+
+Commenters have also expressed their shock, one writing: 'What the fox! that is just shameful! most white people I know don't even look like that but there's no excuse for that, sorry man.'
+
+User @iBeKabir told MailOnline he had seen the search done before and 'wanted to see if it was actually real for myself.
+
+'When I saw the results I was shocked, I feel like a search engine like Google should have more control over something like that. I understand it's really just an algorithm but it's still a problem,' he said.
+
+Earlier in March British YouTuber Antoine Speaks had previously drawn attention to the results of the exact same search.
+
+The results for 'three black teenagers' mostly shows pictures posed so they look like mugshots, whereas in the case of the latter predominately happy white teens are pictured
+
+Current results for 'three black teenagers': The tweet has gone so viral the order of the results have changed
+
+Current results for 'three white teenagers': The results for this search have changed even more notably
+
+@iBeKabir What the fox! that is just shameful! most white people I know don't even look like that but there's no excuse for that, sorry man. — what.the.fox! (@MartensShell) June 8, 2016
+
+Go to GOOGLE.
+
+Type in "three black teenagers "
+
+
+
+Now...
+
+
+
+Go to GOOGLE.
+
+Type in "three white teenagers"
+
+
+
+WHITE PRIVILEGE at its finest. — aKEMPnameSlickback (@KEMPSAIDWHAT) June 7, 2016
+
+In a blog post accompanying the video Antoine had a message for how people can alter the images the search brings up.
+
+He advised that instead of pushing Google to change the order of the results, users must take it upon themselves.
+
+'Start sharing, searching and making more positive stories about black teenagers. Ie if there were more stories of black teenagers doing well or positive news they would be higher up in the search results,' he wrote.
+
+STATEMENT FROM GOOGLE 'Our image search results are a reflection of content from across the web, including the frequency with which types of images appear and the way they're described online. This means that sometimes unpleasant portrayals of sensitive subject matter online can affect what image search results appear for a given query. These results don't reflect Google's own opinions or beliefs - as a company, we strongly value a diversity of perspectives, ideas and cultures.' Advertisement
+
+'This is the best and my preferred strategy of working towards changing the perception of Black teenagers/people,' he added.
+
+Google advised MailOnline that search engines simply reflect what's on the web, so 'this is fundamentally a societal problem', said a spokesperson for the company.
+
+'There are persistent and problematic biases, and they're pervasive in the media, on the web. Images are meta-tagged with their own descriptions especially in media articles.
+
+'As a company we strongly value a diversity of perspectives, ideas and cultures - these search results do not reflect Google's view on the matter.'
+
+On his reaction to how viral the tweet has gone, @iBeKabir said: 'I never thought the tweet would blow up like this at all. I'm an avid Twitter user and I've never gotten this much attention from a tweet before.'
+
+In the responses to his tweet, debate raged over who was to blame, and what the wider implications are from such a result.
+
+@lou_haus wrote: 'How can a search engine be racist? It pulls up results based on frequency.'
+
+While Andrew Panebianco responded: 'This is such a sad reflection of our society.'
+
+There was similar controversy over Google Image search results earlier this year, when a woman from Botswana found only black women had 'unprofessional hairstyles'
+
+There was similar controversy over Google Image search results earlier this year, when a woman from Botswana exposed the differing outcomes from typing in 'unprofessional hairstyles for work' compared to 'professional hairstyles for work'.
+
+Bonnie Kamona posted on Twitter: 'I saw a tweet saying 'Google unprofessional hairstyles for work'. I did. Then I checked the 'professional' ones',' which she discovered to her horror were all images of white women.. A Google spokeswoman said: "Our image search results are a reflection of content from across the web, including the frequency with which types of images appear and the way they are described online.. Tech
+
+Search 'three black teenagers' on Google and this is what you see
+
+Kabir Alli recorded the vastly different results he saw when he searched "three black teenagers" and "three white teenagers" on Google Images earlier this month.. And just to make sure it’s not some sort of algorithmic Google search that only this guy is seeing:
+
+Okay I’m sorry but those three dudes in the white teenagers pic slay me, that’s the most pressing item for me here. Stock photos, you’ve done it again. But anyway this tweet is going viral as if it’s an illustration of ingrained racism or even worse that Google is somehow manipulating media to oppress people. But in reality what you’re seeing is the magic of search engine optimization. In fact, as more and more articles pop up about it and create more results on Google, you can actually see the “three white teenagers” Google Image search start to get infiltrated by websites SEOing the fuck out of that phrase because it’s going viral literally as I’m writing this blog:
+
+Because a lot of news sites have had to cover crimes involving “three black teenagers,” you guessed it, a lot of photos have popped up of black teenagers and their mugshots. Is that sort of an ugly reality of media coverage and crime statistics? For sure. But for this to be going viral as some sort of “WOE IS ME THE WORLD IS AN INEQUITABLE PLACE EVEN DOWN TO OUR INNOCENT IMAGE SEARCHES” rallying cry is just inaccurate. This is more like Google getting drunk and breaking out an old Dave Chappelle bit at a party; technically it’s not politically correct these days but it’s not their fault the world’s ability to get offended grows by the month.
+
+Also I’m glad the dude blowing up for this Twitter video is making the most of his opportunity:
+
+Kinda bummed it’s not a mixtape but it’d be greedy to expect even more stereotyping in one blog.
+
+Follow @ChrisSpags
+
+
+
+. Gregory Bush is arraigned on two counts of murder and 10 counts of wanton endangerment Thursday, Oct. 25, 2018, in Louisville, Ky. Bush fatally shot two African-American customers at a Kroger grocery store Wednesday and was swiftly arrested as he tried to flee, authorities said Thursday. Photo: Scott Utterback/Courier Journal via AP Pool
+
+Two black senior citizens were murdered in Louisville, Kentucky, on Thursday. Maurice Stallard, 69, was at a Kroger supermarket when Gregory Bush, a 51-year-old white man, walked in and shot him multiple times. Bush then exited the store and shot Vickie Lee Jones, 67, in the parking lot before an armed bystander reportedly fired back, prompting him to flee. Police were unable to confirm accounts that Bush encountered a second armed man, who engaged him in a brief standoff where no shots were fired, according to the New York Times. “Don’t shoot me and I won’t shoot you,” the man’s son, Steve Zinninger, claimed Bush told his father. “Whites don’t kill whites.” Police apprehended Bush minutes later.
+
+Bush had no known connection to either of his victims. Any doubt of a racial motive seemed quelled when surveillance footage showed the shooter forcibly tried to enter a black church minutes before moving on to the supermarket. The Times reports that a member of the 185-year-old First Baptist Church of Jeffersontown grew alarmed when she saw Bush yanking “aggressively” at its locked front doors. Up to ten people were inside the chapel following a midweek service. “I’m just thankful that all of our doors and security was in place,” church administrator Billy Williams said.
+
+The murder of black seniors is a relatively rare phenomenon in the U.S. People over 65 accounted for just 2 percent of black homicide victims in 2014, according to a 2017 Violence Policy Center report, citing that year as the most recent for which data was available. Yet they have been central victims in recent racist killings. From Charleston to New York City and, now, possibly Louisville, some of the 21st century’s most notorious white supremacists have targeted black seniors for violent deaths. The unique cruelty of this pattern magnifies its obvious illogic, demonstrating yet again that white rhetoric framing black people as threats is shallow cover for terrorizing the vulnerable.
+
+It also casts harsh light on the canards used to deflect reckoning with racist violence among partisan pundits. Arguments that police brutality claims are overblown, and that “black-on-black crime” is the more pressing issue, can make interracial violence a tough sell as worthy of national attention — if mostly for conservatives seeking to avoid confronting racism altogether. Yet their reasoning rarely cuts both ways. Terrorist attacks by Muslim refugees have not happened in the U.S., yet their specter fueled President Donald Trump’s election. Violent crime committed by undocumented immigrants is rare, but as a rhetorical device, it is among the central Republican wedge issues of the upcoming midterm elections.
+
+The reality is that there has long been a tacit understanding in America that some forms of violence are more morally objectionable than others, regardless of their frequency. That this understanding is often weaponized to promote xenophobia and white supremacy belies that it also has appropriate applications. Black Americans have been targeted for centuries of enslavement and racial violence. Black people in their 60s are among the last generation who lived through and remember Jim Crow. Maurice Stallard was about five years old when Brown v. Board of Education was decided and a teenager when the Voting Rights Act passed in 1965. Vickie Lee Jones was five when the Montgomery Bus Boycotts ended. She was close to 13 when white terrorists in Birmingham, Alabama, murdered four little black girls in a church.
+
+If anything constitutes a uniquely repugnant act of violence, white racists murdering black Americans who endured the 20th century’s banner period of white racist violence in the U.S. and lived to tell of it qualifies. Yet we continue to see it unfold — and remarkably, often justified using the rhetoric of defense. “Y’all are raping our white women. Y’all are taking over the world,” shouted Dylann Roof as he massacred nine black people at a church in Charleston, South Carolina, in 2015. White supremacist James Jackson, who initially hoped to kill “younger [black] guys” who “put white girls on the wrong path,” settled for stabbing Timothy Caughman to death with a sword in New York City in 2017. “The white race is being eroded,” he later said.
+
+Caughman was 66 when he was killed. Ethel Lee Lance was 70, Daniel Simmons was 74, and Susie Jackson was 87 when Roof murdered them in purported defense of his race. At 69 and 67, respectively, Stallard and Jones are the latest to join their cohort. And their number could have easily been larger. Had Bush succeeded in breaking into the church — a place of black worship, black community, and at its best, black sanctuary — more potential victims awaited. White violence against black people has always been about power, first and foremost, and rationalized by invoking fabricated threats. But the wholesale massacre of unsuspecting black senior citizens better reflects its true rationale. Terrorism is most effective when it targets those least able to fight back.. A Google Image search which reveals starkly different results for 'three black teenagers' and 'three white teenagers' has sparked anger on social media.
+
+
+
+
+
+'Three black teenagers' was trending on Twitter this week after 18-year-old Kabir Alli of Virginia posted a video of himself carrying out the two searches.
+
+
+
+
+
+The results for 'three black teenagers' were mainly of police mugshots, while 'three white teenagers' turns up mostly stock images of wholesome-looking young people laughing and smiling.
+
+"I had actually heard about this search from one of my friends and just wanted to see everything for myself," Alli told USA Today .
+
+
+
+
+
+"When I saw the results I was nothing short of shocked."
+
+
+
+
+
+Since he uploaded it earlier this week, Alli's video has been retweeted more than 66,000 times and sparked a racism debate on Twitter.
+
+While some have accused Google of racism, the internet giant says the search results are a reflection of what's on the internet, including the frequency with which certain types of images appear, and how they are described.
+
+
+
+
+
+"This means that sometimes unpleasant portrayals of sensitive subject matter online can affect what image search results appear for a given query," Google said in a statement.
+
+
+
+
+
+"These results don't reflect Google's own opinions or beliefs - as a company, we strongly value a diversity of perspectives, ideas and cultures."
+
+Alli said he doesn't believe Google is racist, but does think the company should take more responsibility on the issue.
+
+
+
+
+
+"I understand it's all just an algorithm based on most visited pages but Google should be able to have more control over something like that," Alli said.
+
+
+
+
+
+Others seem to agree.. On Monday, Twitter user @iBeKabir learned that searching the phrase "three black teenagers" on Google images yields almost exclusively mugshots of black teens.
+
+Curious, @iBeKabir says, "Let's just change the color" and swaps out "black" for "white." What appears is a sea of stock photos of blue-blooded white teenagers looking like they're having some good, clean fun.
+
+Read more: Searching for This Racist Phrase on Google Maps Takes You to the White House
+
+YOOOOOO LOOK AT THISpic.twitter.com/uY1JysFm8w
+
+@iBeKabir isn't the first to notice the racist double standard: In March, U.K. blogger Antoine Speaks investigated whether there's a reason for the disparity and what the root cause of it may be. In a YouTube video, Speaks explains, "Google isn't racist — it literally shows you the most-wanted search results."
+
+
+
+
+
+Google
+
+The stock photos of white people likely appear because there is a demand for them; individuals or companies are looking to purchase them, said Speaks, pushing them to the top of the page. On the flip side, the mug shots of black teens are typically associated with news stories about their arrests.
+
+But, as Speaks points out, not all of the mugshots belong to convicted criminals. Many of them have been acquitted, yet the press continues to use their mugshots in articles about them.
+
+The bias surrounding when outlets choose to share a mugshot has been playing out in real time as the press covers the case of Stanford rapist Brock Turner, a white 20-year-old. Though he was convicted in March on three counts of sexual assault for raping an unconscious woman behind a dumpster, until Monday the Santa Clara county sheriff's office had yet to release Turner's mugshot. And, at first, the office only released Turner's sentencing photo, where he appears clean-cut and wearing a suit.
+
+Back to the original question. Is Google racist? Yes — but only because we are.. . The book, out this month, argues that search engine algorithms aren’t as neutral as Google would like you to think. Algorithms promote some results above others, and even a seemingly neutral piece of code can reflect society’s biases. What’s more, without any insight into how the algorithms work or what the broader context is, searches can unfairly shape the discussion of a topic like black girls.
+
+Noble spoke to MIT Technology Review about the problems inherent with the current system, how Google could do better, and how artificial intelligence might make things worse.
+
+COURTESY OF SAFIYA UMOJA NOBLE
+
+What do people get wrong about how search engines work?
+
+If we’re looking for the closest Starbucks, a specific quote, or something very narrow that is easily understood, it works fine. But when we start getting into more complicated concepts around identity, around knowledge, this is where search engines start to fail us. This wouldn’t be so much of a problem except that the public really relies upon search engines to give them what they think will be the truth, or something vetted, or something that’s credible. This is where, I think, we have the greatest misunderstanding in the public about what search engines are.
+
+To address bias, Google normally suppresses certain results. Is there a better approach?
+
+We could think about pulling back on such an ambitious project of organizing all the world’s knowledge, or we could reframe and say, “This is a technology that is imperfect. It is manipulatable. We’re going to show you how it’s being manipulated. We’re going to make those kinds of dimensions of our product more transparent so that you know the deeply subjective nature of the output.” Instead, the position for many companies—not just Google—is that [they are] providing something that you can trust, and that you can count on, and this is where it becomes quite difficult.
+
+How might machine learning perpetuate some of the racism and sexism you write about?
+
+I've been arguing that artificial intelligence, or automated decision-making systems, will become a human rights issue this century. I strongly believe that, because machine-learning algorithms and projects are using data that is already biased, incomplete, flawed, and [we are] teaching machines how to make decisions based on that information. We know [that’s] going to lead to a variety of disparate outcomes. Let me just add that AI will be harder and harder to intervene upon because it will become less clear what data has been used to inform the making of that AI, or the making of those systems. There are many different kinds of data sets, for example, that are not standardized, that are coalescing to make decisions.
+
+Since you first searched for “black girls” in 2010, have you seen things get better or worse?
+
+Since I started writing about and speaking publicly about black girls in particular being associated with pornography, things have changed. Now the pornography and hypersexualized content is not on the first page, so I think that was a quiet improvement that didn’t come about with a lot of fanfare. But other communities, like Latina and Asian girls, are still highly sexualized in search results.. If you searched for “three white teenagers” on Google Images earlier this month, the result spat up shiny, happy people in droves — an R.E.M. song in JPG format. The images, mostly stock photos, displayed young Caucasian men and women laughing, holding sports equipment or caught whimsically mid-selfie.

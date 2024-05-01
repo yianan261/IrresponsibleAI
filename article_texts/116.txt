@@ -1,0 +1,137 @@
+“Maintain safe distance,” the camera installed above his seat would say when a car cut him off. That data would be sent to Amazon, and would be used to evaluate his performance that week and determine whether he got a bonus.
+
+In early 2021, Amazon installed AI-powered cameras in the delivery vans at one of its depots in Los Angeles. Derek, a delivery driver at the facility, said the camera in his van started to incorrectly penalize him whenever cars cut him off, an everyday occurrence in Los Angeles traffic.
+
+On the Clock is Motherboard's reporting on the organized labor movement, gig work, automation, and the future of work.
+
+The Netradyne camera, which requires Amazon drivers to sign consent forms to release their biometric data, has four lenses that record drivers when they detect “events” such as following another vehicle too closely, stop sign and street light violations, and distracted driving.
+
+Motherboard spoke to six Amazon delivery drivers in California, Texas, Kansas, Alabama, and Oklahoma, and the owner of an Amazon delivery company in Washington who said that rather than encourage safe driving, Netradyne cameras regularly punish drivers for so-called "events" that are beyond their control or don't constitute unsafe driving. The cameras will punish them for looking at a side mirror or fiddling with the radio, stopping ahead of a stop sign at a blind intersection, or getting cut off by another car in dense traffic, they said.
+
+In February, Amazon announced that it would install cameras made by the AI-tech startup Netradyne in its Amazon-branded delivery vans as an “innovation” to “keep drivers safe.” As of this month, Amazon had fitted more than half of its delivery fleet nationwide with this technology, an Amazon spokesperson told Motherboard.
+
+“Every time I need to make a right hand turn, it inevitably happens. A car cuts me off to move into my lane, and the camera, in this really dystopian dark, robotic voice, shouts at me," Derek, who asked to remain anonymous because he feared retribution from Amazon, told Motherboard. "It's so disconcerting. It’s upsetting, when I didn't do anything.”
+
+“Before I would be able to win prizes and stuff, as soon as cameras came along, it went downhill,” Gomez said.
+
+Jamie Gomez, a former Amazon delivery driver in Sugar Land, Texas said the Netradyne camera in his van has also detected “events” that didn’t actually happen, but that impacted his performance score at Amazon, which determined whether he received prizes, such as rain jackets, from his delivery company.
+
+“When I get my score each week, I ask my company to tell me what I did wrong,” the driver told Motherboard. “My [delivery company] will email Amazon and cc' me, and say, ‘Hey we have [drivers] who'd like to see the photos flagged as events, but they don't respond. There's no room for discussion around the possibility that maybe the camera's data isn't clean.”
+
+The driver in Los Angeles told Motherboard that he has tried to contest events with Amazon with no luck.
+
+Each time the camera registers an event, footage is uploaded into a system, recorded, and affects a score drivers receive at the end of the week for safe driving.
+
+When the camera detects an “event,” it uploads the footage to a Netradyne interface accessible to Amazon and its delivery companies, and in some instances, a robotic voice speaks out to the driver: “distracted driving” or “maintain safe distance.”
+
+“Most false positives we get are stop sign violations,” he said. “Either we stop after the stop sign so we can see around a bush or a tree and it dings us for that, or it catches yield signs as stop signs. A few times, we've been in the country on a dirt road, where there's no stop sign, but the camera flags a stop sign.”
+
+One current Amazon delivery driver in Oklahoma, who asked to remain anonymous because he feared retaliation from Amazon and his delivery company, told Motherboard that the biggest problem with Netradyne cameras is the frequency with which they detect false stop sign violations.
+
+“The Netradyne cameras that Amazon installed in our vans have been nothing but a nightmare,” a former Amazon delivery driver in Mobile, Alabama told Motherboard. “They watch every move we make. I have been ‘dinged’ for following too close when someone cuts me off. If I look into my mirrors to make sure I am safe to change lanes, it dings me for distraction because my face is turned to look into my mirror. I personally did not feel any more safe with a camera watching my every move.”
+
+“It’s consistently beeping at drivers all day long. This creates a massive distraction to drivers on the road, and it creates a massive workload for delivery companies to review video.”
+
+Amazon drivers believe that AI-powered surveillance cameras have served as a cost-saving measure for the company. Amazon delivery drivers and delivery companies, known as “delivery service partners,” which contract with Amazon and employ drivers, have reported losing income from erroneous citations registered by Netradyne.
+
+Multiple drivers said this means they've started to stop at stop signs twice, once before a stop sign for the Netradyne camera, and another time for visibility before crossing an intersection. Amazon delivery drivers are frequently under high pressure to meet delivery quotas as quickly as possible in order to qualify for Amazon's bonuses.
+
+The Netradyne interface can be accessed by Amazon and the delivery company that employs a driver.
+
+Amazon delivery companies around the country are at different stages of rolling out this technology, and grouped into cohorts, but Miller said this data is comprehensive since the pilot installment of Netradyne.
+
+Since Amazon installed Netradyne cameras in its vans, Miller claims that accidents had decreased by 48 percent and stop sign and signal violations had decreased 77 percent. Driving without a seatbelt decreased 60 percent, following distance decreased 50 percent, and distracted driving had decreased 75 percent.
+
+Do you have a tip to share with us about Amazon? Please get in touch with the reporter via email lauren.gurley@vice.com or Signal 201-897-2109.
+
+"One of the safety improvements we’ve made this year is rolling out industry-leading telematics and camera-based safety technology across our delivery fleet," Alexandra Miller, a spokesperson for Amazon told Motherboard. "This technology provides drivers real-time alerts to help them stay safe when they are on the road."
+
+For Amazon delivery companies, which receive bonuses by earning "fantastic" scores on a weekly scorecard, Netradyne “events” can ruin a scorecard, meaning the delivery company doesn't receive income it needs to pay for vehicle repairs, consumables, damages, support staff and bonuses for drivers.
+
+Miller, the Amazon spokesperson, said “each Delivery Service Partner is trained on the safety technology and are required to communicate to their teams how the events impact the DSP scorecard.”
+
+“Amazon uses these cameras allegedly to make sure they have a safer driving workforce, but they're actually using them not to pay delivery companies,” an owner of an Amazon delivery company in Washington told Motherboard. The owner said he received no training on how to use Netradyne cameras. “They just take our money and expect that to motivate us to figure it out.”
+
+Every week, Amazon gives each delivery driver a tier rating, which ranges from “fantastic” to "good" to “fair” to “poor” based on a series of metrics, including Netradyne events. Each Amazon delivery company receives a scorecard that combines all its drivers' scores, according to a scorecard reviewed by Motherboard.
+
+According to an internal document obtained by Motherboard, which explains how Amazon weighs an array of metrics that make up the delivery company's scorecard, “safety and compliance” make up 40 percent of a delivery service partner's score. This includes a “safe driving metric” calculated by a smartphone app known as Mentor, a “seatbelt off rate,” a “speeding event rate,” “sign/signal violations rate,” “a distractions rate,” and a “following distance rate.”
+
+“Each time a [driver] doesn't leave enough following distance, Netradyne registers 1 event, and the [delivery company's] weekly score is the sum of all following distance events divided by the number of trips," the document continues. “[Delivery companies] who receive a fantastic score typically achieve 5 events per 100 trips or less.”
+
+Each of these metrics has a specific definition. According to the document, the following distance, for example, “measures how DSPs are performing in terms of leaving enough following distance from the vehicle in front. Netradyne will create a Following Distance event if a [driver] has 0.6 seconds or less following distance from the vehicle in front.”
+
+In June, Motherboard reported that Amazon delivery companies were encouraging drivers to shut off the Mentor app that monitors safety in order to hit Amazon's delivery quotas.
+
+Each red light violation counts as 10 stop sign violation events. In order to earn a “fantastic” score, delivery companies must earn 50 events per 100 trips or less.
+
+Amazon currently defines stop sign and street light violations as “any time a DA [delivery associate] drives through/past a stop sign without coming to a full stop, illegal U-turns… and street light violations, which are triggered anytime a [driver] drives through an intersection when the light is red.”
+
+Annoyed by, and in many cases, fearful of surveillance, some drivers have begun placing stickers over the cameras to avoid the camera from recording footage of them.
+
+“Most drivers at my company cover the cameras up with stickers, because the cameras get to be a nuisance,” an Amazon delivery driver who works at an Amazon delivery station in Shepherdsville, Kentucky told Motherboard. “They ping all day and people get horrible scores, but it’s a lie. They didn’t do anything bad. It’s impossible to stop at stop signs every time like they want you to.”
+
+According to an internal document obtained by Motherboard, Amazon collects three types of distraction, including when a driver looks down, when a driver looks at their phone, and when a driver talks on the phone.In order to earn "fantastic" scores and receive bonuses, Amazon delivery companies must register less than five "distraction events" per 100 delivery routes.
+
+"Before I would be able to win prizes and stuff, as soon as cameras came along, it went downhill.”
+
+Others wear sunglasses to circumvent the camera's “distracted driving” monitor, which they say is hyper-sensitive.
+
+“If your safety rating is not fantastic, you don’t get a bonus,” the Amazon delivery company owner in Washington told Motherboard. “They say 'we’re safety obsessed’ or whatever bullshit, but this camera costs delivery companies hundreds of dollars in revenue each week that they need to train drivers and survive. Without the bonus, you don't survive, you go out of business.”
+
+The delivery companies' overall safety score determines whether delivery companies earn bonuses from Amazon for the week, which can amount to thousands of dollars for a company that delivers tens of thousands of packages a week—and can be the difference between surviving and going bankrupt for a delivery company, which employs anywhere between 15 and 40 drivers. One Amazon delivery service partner owner said Amazon pay 15 cents extra per package if their fleet receives a "fantastic" score.
+
+Drivers say that with their steep delivery quotas and the fact that they are often getting in and out of the truck, buckling and unbuckling their seatbelt dozens of times in a single neighborhood can slow down the delivery process significantly.
+
+On Reddit, an Amazon delivery driver recently posted a screenshot of a series of messages from their delivery service company owner, saying drivers who registered a single event on “Netradyne” would not be eligible for bonuses, because the company had lost thousands of dollars from seatbelt violations.”Good morning team: I just watched about 12 videos of someone here on the team with NO SEATBELT on," the texts read. "This will damage my revenue and our scorecard for next week. Several thousands of dollars GONE. If you show up for any event on NETRADYNE, your incentive will be gone automatically.”
+
+“If we brought up problems with the cameras, managers would brush it under the table, they're only worried about getting the packages out,” he said. “So we cover them up. They don't tell us to, but it's kind of like ‘don't ask, don't tell.’”
+
+"They say 'we’re safety obsessed’ or whatever bullshit, but this camera costs delivery companies hundreds of dollars in revenue each week that they need to train drivers and survive.”
+
+According to an Amazon delivery service partner scorecard obtained by Motherboard, delivery companies are allotted four weeks of practice with Netradyne cameras before its metrics impact their scores, but none of the drivers Motherboard spoke to said they received formal training on how Netradyne “events” can impact their scorecards. According to an Amazon delivery service partner scorecard obtained by Motherboard, delivery companies are allotted four weeks of practice with Netradyne cameras before its metrics impact their scores, but none of the drivers Motherboard spoke to said they received formal training on how Netradyne “events” can impact their scorecards.
+
+In July, Motherboard reported that two Amazon delivery companies in Portland In July, Motherboard reported that two Amazon delivery companies in Portland terminated their contracts with Amazon, in a rare act of protest against Amazon for imposing a financially unsustainable business model on them. In a letter to Amazon, their lawyer cited the Netradyne cameras as one way Amazon exerts unreasonable control over their business operations.
+
+Motherboard spoke to four drivers and the owner of an Amazon delivery company who said it isn't possible under most circumstances for an Amazon delivery company to appeal erroneous violations with Amazon, although Amazon does have an automated portal for the appeal process where delivery companies can submit a feedback ticket to Amazon and dispute “events.” Motherboard spoke to four drivers and the owner of an Amazon delivery company who said it isn't possible under most circumstances for an Amazon delivery company to appeal erroneous violations with Amazon, although Amazon does have an automated portal for the appeal process where delivery companies can submit a feedback ticket to Amazon and dispute “events.”
+
+“If you get an event at our company, you get a phone call. It’s an ass chewing. We’re not able to go to the manager or [delivery service partner] owner to appeal,” the driver in Oklahoma said. “We would love to but they won’t bother with it, unless you have clear evidence already.” “If you get an event at our company, you get a phone call. It’s an ass chewing. We’re not able to go to the manager or [delivery service partner] owner to appeal,” the driver in Oklahoma said. “We would love to but they won’t bother with it, unless you have clear evidence already.”
+
+AI experts have noted that Amazon and other companies rely on algorithms, such as worker surveillance systems, that increase their profits and cut wages. “The ability of automated management platforms to manipulate (and arbitrarily cut) wages has been at the heart of worker grievances,” AI experts have noted that Amazon and other companies rely on algorithms, such as worker surveillance systems, that increase their profits and cut wages. “The ability of automated management platforms to manipulate (and arbitrarily cut) wages has been at the heart of worker grievances,” a 2019 report from New York University's AI Now Institute said. “AI threatens not only to disproportionately displace lower-wage earners, but also to reduce wages, job security, and other protections for those who need it most.”
+
+A spokesperson for Amazon told Motherboard that a team of Amazon employees manually reviews all events that are appealed to ensure that erroneous events do not impact drivers or Amazon delivery companies. A spokesperson for Amazon told Motherboard that a team of Amazon employees manually reviews all events that are appealed to ensure that erroneous events do not impact drivers or Amazon delivery companies.
+
+The delivery company owner in Washington said the number of events registered by Netradyne per week, the amount of labor involved in reviewing them, and the low likelihood that an “event” would be overturned, made the appeal process futile. The delivery company owner in Washington said the number of events registered by Netradyne per week, the amount of labor involved in reviewing them, and the low likelihood that an “event” would be overturned, made the appeal process futile.
+
+“It’s consistently beeping at drivers all day long,” the owner of the Amazon delivery company in Washington said. “This creates a massive distraction to drivers on the road, and it creates a massive workload for delivery companies to review video. It's way too much labor to get it done every week. If you get 600 or 700 events a week, drivers might never get coaching on it.” “It’s consistently beeping at drivers all day long,” the owner of the Amazon delivery company in Washington said. “This creates a massive distraction to drivers on the road, and it creates a massive workload for delivery companies to review video. It's way too much labor to get it done every week. If you get 600 or 700 events a week, drivers might never get coaching on it.”
+
+Amazon's delivery service partner program relies on 2,000 small delivery companies that employ 115,000 drivers in the United States to deliver billions of packages each year. Amazon skirts liability for these drivers through this contract model, but requires delivery companies to adhere to a set of rules around hiring, drivers' appearances and social media activity , pay, routes, and safety mechanisms, including Netradyne cameras.. Concerns about artificial intelligence and its impact on work are not new, but as more companies deploy these solutions we're seeing decided snags in the process. One point many of these conversations take for granted is that AI-powered tools work. What happens if they don't?
+
+The pandemic has fueled an explosion in semiconductor sales and a significant rise in the number of employees who are kept under surveillance by their employers. In some cases, people aren't just being watched -- they're being graded. This might not be a problem if the AI tools in question were robust enough to do the job, but all available evidence suggests they very much are not.
+
+A new story(Opens in a new window) at Motherboard details the results of Amazon's latest push to introduce AI technology in the workplace. Last February, Amazon began installing cameras from the fleet camera company Netradyne, with the supposed goal of keeping drivers safe. Netradyne's website pitches the company's technology in exactly these terms, emphasizing that it can keep drivers focused on the road. The system tracks whether drivers maintain proper following distance, obey stop signs and street lights, and keep their attention on the road.
+
+It's hard to argue with the idea that people who drive for a living should be required to do these things. But according to the drivers actually delivering Amazon's packages, the system is a nightmare. The problem isn't that people are being forced to follow the law. The problem is that the Netradyne system isn't very good at deciding when a driver is or isn't breaking the law and Amazon offers no method for drivers to contest events.
+
+"I have been ‘dinged’ for following too close when someone cuts me off," one driver told Motherboard. "If I look into my mirrors to make sure I am safe to change lanes, it dings me for distraction because my face is turned to look into my mirror. I personally did not feel any more safe with a camera watching my every move."
+
+Another driver indicated the Netradyne AI system has a major problem with false stops. Apparently, the system has a bad habit of flagging yield signs as stop signs (and penalizing drivers for failing to stop), while simultaneously penalizing drivers if they stop at a stop sign and then pull forward slowly to look around a blind curve. Anyone who has driven for any length of time is aware that neighborhoods and businesses do not always maintain proper lines of sight. It can be dangerous to accelerate away from a stop sign without checking around a brush-obscured corner.
+
+“Most false positives we get are stop sign violations,” he said. “Either we stop after the stop sign so we can see around a bush or a tree and it dings us for that, or it catches yield signs as stop signs. A few times, we've been in the country on a dirt road, where there's no stop sign, but the camera flags a stop sign.”
+
+A human driver who observes another human taking an intersection cautiously will reflexively scan the situation for context clues about why this is happening. Netradyne's AI is incapable of this kind of evaluation. It only "sees" whether the vehicle is operating according to its own inflexible logic.
+
+Amazon spokespeople insist that the Netradyne system has yielded positive results, with accidents down 48 percent, stop sign and signal violations down 77 percent, driving without a seatbelt reduced by 60 percent, following distance violations down 50 percent, and distracted driving decreased by 75 percent. These are impressive figures, to be sure. But they don't actually tell us much and Amazon isn't known for its honesty when dealing with the press.
+
+For starters, we don't know how this information was being gathered prior to the Netradyne system's installation, so we don't know how to compare the before-and-after figures. The 77 percent reduction in stop sign and signal violations may reflect the fact that Amazon's delivery drivers are being more diligent, or it could indicate that drivers are avoiding false positives at stop signs by behaving in a less-safe manner that's also less likely to cause a ding on their driving record.
+
+Part of the problem is that these metrics are being used to determine how much Amazon's delivery partners get paid. Too many Netradyne events can ruin a company's score, reducing how much it earns from Amazon that month. There's probably validity to the concept that this creates an incentive for a company to hire good drivers, but the ability of such metrics to achieve their goals is predicated on the idea that they're measuring correctly in the first place.
+
+Amazon is squeezing companies to make pro-safety changes while simultaneously pushing companies to adopt delivery schedules so punishing, some drivers carry plastic bottles in lieu of attempting to visit a restroom. Earlier this year, two Oregon companies effectively shut themselves down(Opens in a new window) rather than continue hauling packages for Amazon. Investigative reports have repeatedly found that Amazon's warehouse culture is a brutally difficult work environment, so it's not surprising to see the company pushing the same model outwards in its business model.
+
+Various delivery companies believe Amazon has instituted these practices so it can avoid paying them. Amazon insists it's only trying to protect safety. According to Motherboard, various companies are telling drivers how to circumvent these tracking systems because turning them on means handing Amazon an excuse not to pay. Why aren't drivers wearing seatbelts? Because Amazon insists on delivery schedules so demanding, drivers say they don't have time to wear them. Regardless of what one believes about Amazon's intentions, it's obvious that its methods are having unintended consequences that work against the goal of improving driver safety records.
+
+Perhaps the most maddening aspect of the entire situation is that there is no meaningful appeal process. While delivery companies can apparently submit feedback tickets for specific events, the Netradyne system logs hundreds of events per week and Amazon almost never overturns a previous decision. Companies mostly don't try to contest these decisions because contesting them almost never works.
+
+This kind of problem should ring more alarm bells than it probably will. For all the good AI can do in the right circumstances, tools like Netradyne are not ready for deployment if they generate false positives at this kind of rate. If Netradyne can't offer a product that properly detects driver behavior in all circumstances, it has no business claiming otherwise.
+
+It's possible that Amazon really has seen the kind of safety improvements it claims, but increased safety is not the only variable that matters, here. A safety system whose improper detection systems cause drivers to act in an unsafe manner is definitionally less safe than one which does not. It's all well and good to claim that the benefits represent a net improvement, but that does no good to the individuals who are unfairly penalized or even rendered unemployed because a random piece of software decided they were a problematic driver with zero human oversight or review.

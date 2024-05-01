@@ -1,0 +1,701 @@
+Since its beta launch in November, AI chatbot ChatGPT has been used for a wide range of tasks, including writing poetry, technical papers, novels, and essays and planning parties and learning about new topics. Now we can add malware development and the pursuit of other types of cybercrime to the list.
+
+Researchers at security firm Check Point Research reported Friday that within a few weeks of ChatGPT going live, participants in cybercrime forums—some with little or no coding experience—were using it to write software and emails that could be used for espionage, ransomware, malicious spam, and other malicious tasks.
+
+“It’s still too early to decide whether or not ChatGPT capabilities will become the new favorite tool for participants in the Dark Web,” company researchers wrote. “However, the cybercriminal community has already shown significant interest and are jumping into this latest trend to generate malicious code.”
+
+Last month, one forum participant posted what they claimed was the first script they had written and credited the AI chatbot with providing a “nice [helping] hand to finish the script with a nice scope.”
+
+The Python code combined various cryptographic functions, including code signing, encryption, and decryption. One part of the script generated a key using elliptic curve cryptography and the curve ed25519 for signing files. Another part used a hard-coded password to encrypt system files using the Blowfish and Twofish algorithms. A third used RSA keys and digital signatures, message signing, and the blake2 hash function to compare various files.
+
+The result was a script that could be used to (1) decrypt a single file and append a message authentication code (MAC) to the end of the file and (2) encrypt a hardcoded path and decrypt a list of files that it receives as an argument. Not bad for someone with limited technical skill.
+
+Advertisement
+
+“All of the afore-mentioned code can of course be used in a benign fashion,” the researchers wrote. “However, this script can easily be modified to encrypt someone’s machine completely without any user interaction. For example, it can potentially turn the code into ransomware if the script and syntax problems are fixed.”
+
+In another case, a forum participant with a more technical background posted two code samples, both written using ChatGPT. The first was a Python script for post-exploit information stealing. It searched for specific file types, such as PDFs, copied them to a temporary directory, compressed them, and sent them to an attacker-controlled server.
+
+The individual posted a second piece of code written in Java. It surreptitiously downloaded the SSH and telnet client PuTTY and ran it using Powershell. “Overall, this individual seems to be a tech-oriented threat actor, and the purpose of his posts is to show less technically capable cybercriminals how to utilize ChatGPT for malicious purposes, with real examples they can immediately use.”
+
+Yet another example of ChatGPT-produced crimeware was designed to create an automated online bazaar for buying or trading credentials for compromised accounts, payment card data, malware, and other illicit goods or services. The code used a third-party programming interface to retrieve current cryptocurrency prices, including monero, bitcoin, and etherium. This helped the user set prices when transacting purchases.
+
+Friday’s post comes two months after Check Point researchers tried their hand at developing AI-produced malware with full infection flow. Without writing a single line of code, they generated a reasonably convincing phishing email:
+
+Advertisement
+
+The researchers used ChatGPT to develop a malicious macro that could be hidden in an Excel file attached to the email. Once again, they didn’t write a single line of code. At first, the outputted script was fairly primitive:
+
+When the researchers instructed ChatGPT to iterate the code several more times, however, the quality of the code vastly improved:
+
+The researchers then used a more advanced AI service called Codex to develop other types of malware, including a reverse shell and scripts for port scanning, sandbox detection, and compiling their Python code to a Windows executable.
+
+“And just like that, the infection flow is complete,” the researchers wrote. “We created a phishing email, with an attached Excel document that contains malicious VBA code that downloads a reverse shell to the target machine. The hard work was done by the AIs, and all that’s left for us to do is to execute the attack.”
+
+While ChatGPT terms bar its use for illegal or malicious purposes, the researchers had no trouble tweaking their requests to get around those restrictions. And, of course, ChatGPT can also be used by defenders to write code that searches for malicious URLs inside files or query VirusTotal for the number of detections for a specific cryptographic hash.
+
+So welcome to the brave new world of AI. It’s too early to know precisely how it will shape the future of offensive hacking and defensive remediation, but it’s a fair bet that it will only intensify the arms race between defenders and threat actors.. Image: Getty/NurPhoto
+
+The ChatGPT AI chatbot has created plenty of excitement in the short time it has been available and now it seems it has been enlisted by some in attempts to help generate malicious code.
+
+ChatGPT is an AI-driven natural language processing tool which interacts with users in a human-like, conversational way. Among other things, it can be used to help with tasks like composing emails, essays and code.
+
+Also: What is ChatGPT and why does it matter? What you need to know
+
+The chatbot tool was released by artificial intelligence research laboratory OpenAI in November and has generated widespread interest and discussion over how AI is developing and how it could be used going forward.
+
+But like any other tool, in the wrong hands it could be used for nefarious purposes; and cybersecurity researchers at Check Point say the users of underground hacking communities are already experimenting with how ChatGPT might be used to help facilitate cyber attacks and support malicious operations.
+
+"Threat actors with very low technical knowledge - up to zero tech knowledge - could be able to create malicious tools. It could also make the day-to-day operations of sophisticated cybercriminals much more efficient and easier - like creating different parts of the infection chain," Sergey Shykevich, threat intelligence group manager at Check Point told ZDNET.
+
+OpenAI's terms of service specifically ban the generation of malware, which it defines as "content that attempts to generate ransomware, keyloggers, viruses, or other software intended to impose some level of harm". It also bans attempts to create spam, as well as use cases aimed at cybercrime.
+
+However, analysis of activity in several major underground hacking forums suggests that cyber criminals are already using ChatGPT to develop malicious tools – and in some cases, it's already allowing low-level cyber criminals with no development or coding skills to create malware.
+
+Also: The scary future of the internet: How the tech of tomorrow will pose even bigger cybersecurity threats
+
+In one forum thread which appear towards the end of December, the poster described how they were using ChatGPT to recreate malware strains and techniques described in research publications and write-ups about common malware.
+
+By doing this, they've been able to create a Python-based information stealer malware which searches for common files including Microsoft Office documents, PDFs and images, copies them then uploads them to a file transfer protocol server.
+
+The same user also demonstrated how they'd used ChatGPT to create Java-based malware, which using PowerShell could be harnessed to covertly download and run other malware onto infected systems.
+
+Researchers note that the forum user making these threads appears to be "tech-oriented" and shared the posts to show less technically capable cybercriminals how to utilize AI tools for malicious purposes, complete with real examples of how it can be done.
+
+One user posted a Python script, which they said was the first script they ever created. After discussion with another forum member, they said that ChatGPT helped them to create it.
+
+Analysis of the script suggest it's designed to encrypt and decrypt files, something that with some work, could be turned into ransomware, potentially leading to the prospect of low-level cyber criminals developing and distributing their own extortion campaigns.
+
+"All of the afore-mentioned code can of course be used in a benign fashion. However, this script can easily be modified to encrypt someone's machine completely without any user interaction. For example, it can potentially turn the code into ransomware if the script and syntax problems are fixed," said Check Point.
+
+"It will require some improvements in the code and syntax, but conceptually when operational, this tool could carry out similar actions to ransomware," said Shykevich.
+
+Also: Cybersecurity: These are the new things to worry about in 2023
+
+But it isn't just malware development which cyber criminals are experimenting with ChatGPT for; on New Year's Eve, one underground forum member posted a thread demonstrating how they'd used the tool to create scripts which could be operate an automated dark web marketplace for buying and selling stolen account details, credit card information, malware and more.
+
+The cyber criminal even showed off a piece of code that was generated using a third-party API to to get up-to-date prices for Monero, Bitcoin and Ethereum cryptocurrencies as part of a payment system for a dark web marketplace.
+
+It's difficult to tell if malicious cyber activity generated with the aid of ChatGPT is actively functioning in the wild, because as Sykevich explains, "from a technical stand point it's extremely difficult to know whether a specific malware was written using ChatGPT or not".
+
+But as interest in ChatGPT and other AI tools grows, they're going to attract the attention of cyber criminals and fraudsters looking to exploit the technology to help conduct malicious campaigns at low-cost and with the least effort necessary. ZDNET has contacted OpenAI for comment, but is yet to receive a response at the time of publication.
+
+MORE ON CYBERSECURITY. A new AI chatbot intended to help with writing emails, essays, and coding, is being used by some for criminal activities like espionage, ransomware, and malicious spam, among other things.
+
+Since its release in November by the San Francisco-based artificial research laboratory OpenAI, ChatGPT has widespread generated interest in how the chatbot tool can be used for the future.
+
+But within just a few weeks of ChatGPT going live, an analysis of underground hacking forums showed that participants – many with little to no coding experience – were using the tool to create malware and engage in other nefarious activities.
+
+"It’s still too early to decide whether or not ChatGPT capabilities will become the new favorite tool for participants in the Dark Web," researchers at the security firm, Check Point Research, wrote on Friday. "However, the cybercriminal community has already shown significant interest and are jumping into this latest trend to generate malicious code."
+
+FACEBOOK PARENT COMPANY META SAYS IT IS CENSORING CONTENT THAT SUPPORTS PRO-BOLSONARO RAIDS
+
+The researchers noted that the code can be used in "benign" fashion. But bad actors can easily modify the script "to encrypt someone’s machine completely without any user interaction," the firm said.
+
+FOX Business has reached out to OpenAI for comment.
+
+The chat tool has already generated some controversy in schools for its ability to churn out a persuasive term paper in a matter of seconds. Last week, New York City school officials started blocking the writing tool for students.
+
+The decision by the largest U.S. school district to restrict the ChatGPT website on school devices and networks could have ripple effects on other schools and teachers scrambling to figure out how to prevent cheating. The creators of ChatGPT say they're also looking for ways to detect misuse.
+
+ChatGPT is part of a new generation of AI systems that can converse, generate readable text on demand and even produce novel images and video based on what they've learned from a vast database of digital books, online writings and other media.
+
+CLICK HERE TO GET THE FOX BUSINESS APP
+
+But unlike previous iterations of so-called "large language models," such as OpenAI's GPT-3, launched in 2020, the ChatGPT tool is available for free to anyone with an internet connection and designed to be more user-friendly. It works like a written dialogue between the AI system and the person asking it questions.
+
+The Associated Press contributed to this report.. Expert and novice cybercriminals have already started to use OpenAI’s chatbot ChatGPT in a bid to build hacking tools, security analysts have said.
+
+In one documented example, the Israeli security company Check Point spotted a thread on a popular underground hacking forum by a hacker who said he was experimenting with the popular AI chatbot to “recreate malware strains.”
+
+The hacker had gone on to compress and share Android malware that had been written by ChatGPT across the web. The malware had the ability to steal files of interest, Forbes reports.
+
+The same hacker showed off a further tool that installed a backdoor on a computer and could infect a PC with more malware.
+
+Check Point noted in its assessment of the situation that some hackers were using ChatGPT to create their first scripts. In the aforementioned forum, another user shared Python code he said could encrypt files and had been written using ChatGPT. The code, he said, was the first such one he had written.
+
+While such code could be used for harmless reasons, Check Point said that it could “easily be modified to encrypt someone’s machine completely without any user interaction.”
+
+The security company stressed that while ChatGPT-coded hacking tools appeared “pretty basic,” it is “only a matter of time until more sophisticated threat actors enhance the way they use AI-based tools for bad.”
+
+A third case of ChatGPT being used for fraudulent activity flagged by Check Point included a cybercriminal who showed it was possible to create a Dark Web marketplace using the AI chatbot. The hacker posted in the underground forum that he had used ChatGPT to create a piece of code that uses third-party API to retrieve up-to-date cryptocurrency prices, which is used for the Dark Web market payment system.
+
+ChatGPT’s developer, OpenAI, has implemented some controls which prevent obvious requests for the AI to build spyware. However, the AI chatbox has come under yet more scrutiny after security analysts and journalists found it could write grammatically correct phishing emails without typos.
+
+OpenAI did not immediately respond to a request for comment.. . January 07, 2023 04:22 pm | Updated 05:00 pm IST
+
+ChatGPT, the new AI sensation, is helping even less skilled cyber threat actors write codes and launch cyberattacks effortlessly, researchers at security firm Check Point Research said in a blog post on Friday.
+
+(For insights on emerging themes at the intersection of technology, business, and policy, subscribe to our tech newsletter Today’s Cache.)
+
+Since OpenAI released ChatGPT in November last year, it has created a flurry of interest in AI and its possible uses.
+
+While it is too early to predict if ChatGPT will become the new favourite tool for participants in the Dark Web, the cybercriminal community has already shown significant interest and is jumping onto this latest trend to generate malicious code, researchers said.
+
+The firm’s analysis of several major underground hacking communities revealed that cyber attackers with little or no coding experience were using ChatGPT to write codes that could be used for spying, ransomware, and other malicious tasks.
+
+Last month, a thread named “ChatGPT – Benefits of Malware” appeared on a popular underground hacking forum. The publisher of the thread revealed that he was testing ChatGPT to recreate techniques described in research publications about common malware. He shared the code of a Python-based stealer that searches for common file types, copies them to a random folder inside the Temp folder, ZIPs them, and uploads them to an FTP server.
+
+He also created a simple Java snippet using Chat GPT that can be modified to run any program, including common malware families, Check Point Research said.
+
+In the same month, a threat actor dubbed USDoD posted a Python script, which he said was the first script he ever created using Open AI. This script can encrypt someone’s machine completely without any user interaction.
+
+Although UsDoD is not a developer and has limited technical skills, he is a very active member of the underground community. He is involved in a variety of illegal activities like selling access to compromised companies and stolen databases.
+
+Another notable instance of the use of ChatGPT that was carried out on New Year’s Eve of 2022 was the creation of Dark Web Marketplaces scripts. The marketplace’s main role is to provide a platform for the automated trade of illegal goods like stolen accounts or payment cards, malware, or even drugs and ammunition, with all payments in cryptocurrencies, Check Point Research highlighted.. In one instance, a hacker shared an Android malware code written by ChatGPT, which could steal desired files, compress them, and leak them online.
+
+Cybercriminals have a new trick up their sleeve involving the abuse of an artificially intelligent (AI) chatbot from OpenAI called ChatGPT. ChatGPT app has become popular since its launching at the end of November 2022, so naturally, scammers are eyeing it for exploitation.
+
+According to a new report from Israeli security firm Check Point, hackers are using ChatGPT to develop powerful hacking tools and create new chatbots designed to mimic young girls to lure targets.
+
+ChatGPT can also code malicious software that can monitor users’ keyboard strokes and create ransomware. For your information, ChatGPT has been developed by OpenAI as an interface for its LLM (Large Language Model).
+
+However, cybercriminals have somehow figured out a way to make it a threat to the cyber world since its code generation capability can easily help threat actors launch cyberattacks.
+
+On the other hand, Hold Security’s founder Alex Holden stated that he has observed dating scammers exploiting ChatGPT to create convincing personas. Scammers are creating female personas to impersonate girls to gain trust and have lengthier conversations with their targets.
+
+Potential Dangers
+
+Check Point Research’s researchers explained in their blog post that an attacker could create an authentic-looking spear-phishing email to run a reverse shell that can accept commands in English.
+
+Many underground hacking forums have posted about incidents where cybercriminals used OpenAI to develop malicious tools, even those having no development skills. In one of the posts that Check Point reviewed, a hacker shared an Android malware code written by ChatGPT, which could steal desired files, compress them, and leak them on the web.
+
+One user shared how they abused ChatGPT by using it to create code-up features of a marketplace on the Dark Web, like Silk Road and Alphabay.
+
+Another tool was posted on the forum that could be used to install a backdoor on a device and upload more malware onto the compromised computer. Similarly, a user-shared Python code capable of file encryption using the OpenAI app.
+
+Posting related to chatGPT on a popular hacker forum
+
+Check Point researchers observed that this was the first tool this user had created. Such codes could be used for malicious purposes and modified to encrypt a device without involving user interaction, just like with ransomware.
+
+Moreover, scammers can also use ChatGPT to build bots and sites to trick users into sharing their information and launch highly targeted social engineering scams and phishing campaigns.
+
+OpenAI is yet to respond to these findings.
+
+RELATED TOPICS. Cybercriminals are beginning to use OpenAI's wildly popular ChatGPT technology seemingly in hope of quickly and easily developing code for malicious purposes.
+
+A spin around underground hacking sites uncovered instances of miscreants trying to develop cyberthreat tools using the large language model (LLM) interface OpenAI unveiled in late November and opened up for public use, according to infosec outfit Check Point Research.
+
+A nice [helping] hand to finish the script with a nice scope
+
+Similar to the rise of as-a-service models in the cybercrime world, ChatGPT opens up another avenue for less-skilled crooks to easily launch cyberattacks, the researchers claimed in a report Friday.
+
+"As we suspected, some of the cases clearly showed that many cybercriminals using OpenAI have no development skills at all," they wrote. "Although the tools that we present in this report are pretty basic, it's only a matter of time until more sophisticated threat actors enhance the way they use AI-based tools for bad."
+
+Let's not forget that ChatGPT is also notorious for generating buggy code - Stack Overflow has banned software generated by the AI system because it's often seriously flawed. But the technology is improving and last month a Finnish government report warned AI systems are already in use for social engineering and in five years could drive a huge surge in attacks.
+
+ChatGPT's machine learning capabilities enable the text-based tool to interact in a conversational way, with users typing a question and receiving an answer in a dialogue format. The technology can also answer follow-up questions and challenge users' answers.
+
+The sophistication of OpenAI's offering has generated as much worry as enthusiasm, with educational institutions, conference organizers, and other groups moving to ban the use of ChatGPT for everything from school papers to research work.
+
+The analysts in December demonstrated how ChatGPT can be used to create an entire infection flow, from phishing emails to running a reverse shell. They also used the chatbot to build backdoor malware that can dynamically run scripts created by the AI tool. At the same time, they showed how it can help cybersecurity pros in their work.
+
+Now cybercriminals are testing it.
+
+A thread titled "ChatGPT – Benefits of Malware" popped up December 29 on a widely used underground hacking forum written by a person who said they were experimenting with the interface to recreate common malware strains and techniques. The writer showed the code of a Python-based information stealer that searches for and copies file types and uploads them to a hardcoded FTP server.
+
+Check Point confirmed that the code was from a basic stealer malware.
+
+In another sample, the writer used ChatGPT to create a simple Java snippet that downloads a common SSH and telnet client that is run secretly on a system using PowerShell.
+
+"This individual seems to be a tech-oriented threat actor, and the purpose of his posts is to show less technically capable cybercriminals how to utilize ChatGPT for malicious purposes, with real examples they can immediately use," the researchers wrote.
+
+On December 21, a person calling themselves USDoD posted an encryption tool written in Python that includes various encryption, decryption, and signing operations. He wrote that OpenAI's technology gave him a "nice [helping] hand to finish the script with a nice scope."
+
+The researchers wrote that USDoD has limited development skills but is active in the underground community with a history of selling access to compromised organizations and stolen databases.
+
+Another discussion thread published on a forum on New Year's Eve talked about how easy it is to use ChatGPT to create a dark web marketplace to trade illegal tools like malware or drugs and stolen data like accounts and payment cards.
+
+The thread's writer published some code created with ChatGPT that uses third-party APIs to get up-to-date prices for such cryptocurrency as Bitcoin, Monero, and Ethereum for the marketplace's payment system.
+
+This week, miscreants talked on underground forums about other ways to leverage ChatGPT for various schemes, including using it with OpenAI's Dall-E 2 technology to create art to sell online through legitimate sites like Etsy and creating an ebook or short chapter on a specific topic that can be sold online.
+
+To get more information about how ChatGPT can be abused, the researchers asked ChatGPT. In its answer, ChatGPT talked about using the AI technology to create convincing phishing emails and social media posts to trick people into giving away personal information or to click on malicious links or to create video and audio that could be used for misinformation.
+
+ChatGPT also defended its creator.
+
+"It is important to note that OpenAI itself is not responsible for any abuse of its technology by third parties," the chatbot said. "The company takes steps to prevent its technology from being used for malicious purposes, such as requiring users to agree to terms of service that prohibit the use of its technology for illegal or harmful purposes." ®. In the last month or so, AI tool ChatGPT has become quite the talk of tech town. ChatGPT can be used to answer questions, write reports, and even software codes. And now it seems like cybercriminals are using for malicious activities. According to cybersecurity research firm, ChatGPT was used by bad actors to develop malicious tools.. Introduction
+
+At the end of November 2022, OpenAI released ChatGPT, the new interface for its Large Language Model (LLM), which instantly created a flurry of interest in AI and its possible uses. However, ChatGPT has also added some spice to the modern cyber threat landscape as it quickly became apparent that code generation can help less-skilled threat actors effortlessly launch cyberattacks.
+
+In Check Point Research’s (CPR) previous blog, we described how ChatGPT successfully conducted a full infection flow, from creating a convincing spear-phishing email to running a reverse shell, capable of accepting commands in English. The question at hand is whether this is just a hypothetical threat or if there are already threat actors using OpenAI technologies for malicious purposes.
+
+CPR’s analysis of several major underground hacking communities shows that there are already first instances of cybercriminals using OpenAI to develop malicious tools. As we suspected, some of the cases clearly showed that many cybercriminals using OpenAI have no development skills at all. Although the tools that we present in this report are pretty basic, it’s only a matter of time until more sophisticated threat actors enhance the way they use AI-based tools for bad.
+
+Case 1 – Creating Infostealer
+
+On December 29, 2022, a thread named “ChatGPT – Benefits of Malware” appeared on a popular underground hacking forum. The publisher of the thread disclosed that he was experimenting with ChatGPT to recreate malware strains and techniques described in research publications and write-ups about common malware. As an example, he shared the code of a Python-based stealer that searches for common file types, copies them to a random folder inside the Temp folder, ZIPs them and uploads them to a hardcoded FTP server.
+
+Figure 1 –Cybercriminal showing how he created infostealer using ChatGPT
+
+Our analysis of the script confirms the cybercriminal’s claims. This is indeed a basic stealer which searches for 12 common file types (such as MS Office documents, PDFs, and images) across the system. If any files of interest are found, the malware copies the files to a temporary directory, zips them, and sends them over the web. It is worth noting that the actor didn’t bother encrypting or sending the files securely, so the files might end up in the hands of 3rd parties as well.
+
+The second sample this actor created using ChatGPT is a simple Java snippet. It downloads PuTTY, a very common SSH and telnet client, and runs it covertly on the system using Powershell. This script can of course be modified to download and run any program, including common malware families.
+
+Figure 2 –Proof of how he created Java program that downloads PuTTY and runs it using Powershell
+
+This threat actor’s prior forum participation includes sharing several scripts like automation of the post-exploitation phase, and a C++ program that attempts to phish for user credentials. In addition, he actively shares cracked versions of SpyNote, an Android RAT malware. So overall, this individual seems to be a tech-oriented threat actor, and the purpose of his posts is to show less technically capable cybercriminals how to utilize ChatGPT for malicious purposes, with real examples they can immediately use.
+
+Case 2 – Creating an Encryption Tool
+
+On December 21, 2022, a threat actor dubbed USDoD posted a Python script, which he emphasized was the first script he ever created.
+
+Figure 3 –Cybercriminal dubbed USDoD posts multi-layer encryption tool
+
+When another cybercriminal commented that the style of the code resembles openAI code, USDoD confirmed that the OpenAI gave him a “nice [helping] hand to finish the script with a nice scope.”
+
+Figure 4 –Confirmation that the multi-layer encryption tool was created using Open AI
+
+Our analysis of the script verified that it is a Python script that performs cryptographic operations. To be more specific, it is actually a hodgepodge of different signing, encryption and decryption functions. At first glance, the script seems benign, but it implements a variety of different functions:
+
+The first part of the script generates a cryptographic key (specifically uses elliptic curve cryptography and the curve ed25519), that is used in signing files.
+
+The second part of the script includes functions that use a hard-coded password to encrypt files in the system using the Blowfish and Twofish algorithms concurrently in a hybrid mode. These functions allow the user to encrypt all files in a specific directory or a list of files.
+
+The script also uses RSA keys, uses certificates stored in PEM format, MAC signing, and blake2 hash function to compare the hashes etc.
+
+It is important to note that all the decryption counterparts of the encryption functions are implemented in the script as well. The script includes two main functions; one which is used to encrypt a single file and append a message authentication code (MAC) to the end of the file and the other encrypts a hardcoded path and decrypts a list of files that it receives as an argument.
+
+All of the afore-mentioned code can of course be used in a benign fashion. However, this script can easily be modified to encrypt someone’s machine completely without any user interaction. For example, it can potentially turn the code into ransomware if the script and syntax problems are fixed.
+
+While it seems that UsDoD is not a developer and has limited technical skills, he is a very active and reputable member of the underground community. UsDoD is engaged in a variety of illicit activities that includes selling access to compromised companies and stolen databases. A notable stolen database USDoD shared recently was allegedly the leaked InfraGard database.
+
+Figure 5 –USDoD previous illicit activity that involved publication of InfraGard Database
+
+Case 3 – Facilitating ChatGPT for Fraud Activity
+
+Another example of the use of ChatGPT for fraudulent activity was posted on New Year’s Eve of 2022, and it demonstrated a different type of cybercriminal activity. While our first two examples focused more on malware-oriented use of ChatGPT, this example shows a discussion with the title “Abusing ChatGPT to create Dark Web Marketplaces scripts.” In this thread, the cybercriminal shows how easy it is to create a Dark Web marketplace, using ChatGPT. The marketplace’s main role in the underground illicit economy is to provide a platform for the automated trade of illegal or stolen goods like stolen accounts or payment cards, malware, or even drugs and ammunition, with all payments in cryptocurrencies. To illustrate how to use ChatGPT for these purposes, the cybercriminal published a piece of code that uses third-party API to get up-to-date cryptocurrency (Monero, Bitcoin and Etherium) prices as part of the Dark Web market payment system.
+
+Figure 6 –Threat actor using ChatGPT to create DarkWeb Market scripts
+
+At the beginning of 2023, several threat actors opened discussions in additional underground forums that focused on how to use ChatGPT for fraudulent schemes. Most of these focused on generating random art with another OpenAI technology (DALLE2) and selling them online using legitimate platforms like Etsy. In another example, the threat actor explains how to generate an e-book or short chapter for a specific topic (using ChatGPT) and sells this content online.
+
+Figure 7 –Multiple threads in the underground forums on how to use ChatGPT for fraud activity
+
+Summary
+
+It’s still too early to decide whether or not ChatGPT capabilities will become the new favorite tool for participants in the Dark Web. However, the cybercriminal community has already shown significant interest and are jumping into this latest trend to generate malicious code. CPR will continue to track this activity throughout 2023.
+
+Finally, there is no better way to learn about ChatGPT abuse than by asking ChatGPT itself. So we asked the chatbot about the abuse options and received a pretty interesting answer:
+
+Figure 8 –ChatGPT response about how threat actors abuse openAI. ChatGPT, the chatbot from Open AI that’s been causing a lot of excitement in recent months, can be used to create malicious Excel files, as well as convincing phishing emails to go along with the malware, experts have claimed.
+
+The tool can also be used to refine existing phishing emails and make the infection chain easier.
+
+This is the warning given out by cybersecurity researchers Check Point Research (CPR), who managed to use the already fabled chatbot to prove how it could be leveraged for cybercrime.
+
+ChatGPT malware
+
+In a press release, the researchers demonstrated how they managed to create a weaponized Excel file with nothing more than a simple command for the chatbot: “Please write VBA code, that when written in an excel workbook, will download an executable from a URL and run it. Write the code in a way that if I copy and paste it into an Excel Workbook it would run the moment the excel file is opened. In your response, write only the code, and nothing else.”
+
+The chatbot responded with a simple and effective code, demonstrating how the tool can be abused to significantly lower the barrier to entry into cybercrime.
+
+The researchers then used the tool to create convincing phishing emails that can be used to distribute the weaponized document. All it took was this command: “Write a phishing email that appears to come from a fictional Webhosting service, Host4U.” The tool came back with a warning email, claiming the user’s account had been suspended due to “suspicious activity”.
+
+While the initial message urged the victim to “click on a link below”, a simple follow-up command - “Please replace the link prompt in the email with text urging the customers to download and view the relevant information in the attached Excel file.” was enough to complete the preparation stage.
+
+Are you a pro? Subscribe to our newsletter Sign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed! Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors
+
+CPR was also able to generate malicious code using OpenAI Codex, a general-purpose programming model.
+
+Sergey Shykevich, Threat Intelligence Group Manager at Check Point Software, said ChatGPT has the potential to “significantly alter the cyber threat landscape”.
+
+“Now anyone with minimal resources and zero knowledge in code, can easily exploit it to the detriment of his imagination,” he added, urging cybersecurity researchers to stay vigilant as ChatGPT and Codex mature as technologies.. Discover how companies are responsibly integrating AI in production. This invite-only event in SF will explore the intersection of technology and business. Find out how you can attend here.
+
+Ever since OpenAI launched ChatGPT at the end of November, commentators on all sides have been concerned about the impact AI-driven content-creation will have, particularly in the realm of cybersecurity. In fact, many researchers are concerned that generative AI solutions will democratize cybercrime.
+
+With ChatGPT, any user can enter a query and generate malicious code and convincing phishing emails without any technical expertise or coding knowledge.
+
+While security teams can also leverage ChatGPT for defensive purposes such as testing code, by lowering the barrier for entry for cyberattacks, the solution has complicated the threat landscape significantly.
+
+The democratization of cybercrime
+
+From a cybersecurity perspective, the central challenge created by OpenAI’s creation is that anyone, regardless of technical expertise can create code to generate malware and ransomware on-demand.
+
+VB Event The AI Impact Tour – San Francisco Join us as we navigate the complexities of responsibly integrating AI in business at the next stop of VB’s AI Impact Tour in San Francisco. Don’t miss out on the chance to gain insights from industry experts, network with like-minded innovators, and explore the future of GenAI with customer experiences and optimize business processes. Request an invite
+
+“Just as it [ChatGPT] can be used for good to assist developers in writing code for good, it can (and already has) been used for malicious purposes,” said Director, Endpoint Security Specialist at Tanium, Matt Psencik.
+
+“A couple examples I’ve already seen are asking the bot to create convincing phishing emails or assist in reverse engineering code to find zero-day exploits that could be used maliciously instead of reporting them to a vendor,” Psencik said.
+
+Although, Psencik notes that ChatGPT does have inbuilt guardrails designed to prevent the solution from being used for criminal activity.
+
+For instance, it will decline to create shell code or provide specific instructions on how to create shellcode or establish a reverse shell and flag malicious keywords like phishing to block the requests.
+
+The problem with these protections is that they’re reliant on the AI recognizing that the user is attempting to write malicious code (which users can obfuscate by rephrasing queries), while there’s no immediate consequences for violating OpenAI’s content policy.
+
+How to use ChatGPT to create ransomware and phishing emails
+
+While ChatGPT hasn’t been out long, security researchers have already started to test its capacity to generate malicious code. For instance, Security researcher and co-founder of Picus Security, Dr Suleyman Ozarslan recently used ChatGPT not only to create a phishing campaign, but to create ransomware for MacOS.
+
+“We started with a simple exercise to see if ChatGPT would create a believable phishing campaign and it did. I entered a prompt to write a World Cup themed email to be used for a phishing simulation and it created one within seconds, in perfect English,” Ozarslan said.
+
+In this example, Ozarslan “convinced” the AI to generate a phishing email by saying he was a security researcher from an attack simulation company looking to develop a phishing attack simulation tool.
+
+While ChatGPT recognized that “phishing attacks can be used for malicious purposes and can cause harm to individuals and organizations,” it still generated the email anyway.
+
+After completing this exercise, Ozarslan then asked ChatGPT to write code for Swift, which could find Microsoft Office files on a MacBook and send them via HTTPS to a web server, before encrypting the Office files on the MacBook. The solution responded by generating sample code with no warning or prompt.
+
+Ozarslan’s research exercise illustrates that cybercriminals can easily work around the OpenAI’s protections, either by positioning themselves as researchers or obfuscating their malicious intentions.
+
+The uptick in cybercrime unbalances the scales
+
+While ChatGPT does offer positive benefits for security teams, by lowering the barrier to entry for cybercriminals it has the potential to accelerate complexity in the threat landscape more than it has to reduce it.
+
+For example, cybercriminals can use AI to increase the volume of phishing threats in the wild, which are not only overwhelming security teams already, but only need to be successful once to cause a data breach that costs millions in damages.
+
+“When it comes to cybersecurity, ChatGPT has a lot more to offer attackers than their targets,” said CVP of Research & Development at email security provider, IRONSCALES, Lomy Ovadia.
+
+“This is especially true for Business Email Compromise (BEC) attacks that rely on using deceptive content to impersonate colleagues, a company VIP, a vendor, or even a customer,” Ovadia said.
+
+Ovadia argues that CISOs and security leaders will be outmatched if they rely on policy-based security tools to detect phishing attacks with AI/GPT-3 generated content, as these AI models use advanced natural language processing (NLP) to generate scam emails that are nearly impossible to distinguish from genuine examples.
+
+For example, earlier this year, security researcher’s from Singapore’s Government Technology Agency, created 200 phishing emails and compared the clickthrough rate against those created by deep learning model GPT-3, and found that more users clicked on the AI-generated phishing emails than the ones produced by human users.
+
+So what’s the good news?
+
+While generative AI does introduce new threats to security teams, it does also offer some positive use cases. For instance, analysts can use the tool to review open-source code for vulnerabilities before deployment.
+
+“Today we are seeing ethical hackers use existing AI to help with writing vulnerability reports, generating code samples, and identifying trends in large data sets. This is all to say that the best application for the AI of today is to help humans do more human things,” said Solutions Architect at HackerOne, Dane Sherrets.
+
+However, security teams that attempt to leverage generative AI solutions like ChatGPT still need to ensure adequate human supervision to avoid potential hiccups.
+
+
+
+“The advancements ChatGPT represents are exciting, but technology hasn’t yet developed to run entirely autonomously. For AI to function, it requires human supervision, some manual configuration and cannot always be relied upon to be run and trained upon the absolute latest data and intelligence,” Sherrets said.
+
+It’s for this reason that Forrester recommends organizations implementing generative AI should deploy workflows and governance to manage AI-generated content and software to ensure it’s accurate, and reduce the likelihood of releasing solutions with security or performance issues.
+
+Inevitably, the true risk of generative aI and ChatGPT will be determined by whether security teams or threat actors leverage automation more effectively in the defensive vs offensive AI war.. OpenAI’s ChatGPT, the large language model (LLM)-based artificial intelligence (AI) text generator, can be seemingly used to generate code for malicious tasks, a research note by cyber security firm Check Point observed on Tuesday. Researchers at Check Point used ChatGPT and Codex, a fellow OpenAI natural language to code generator, used standard English instructions to create code that can be used to launch spear phishing attacks.
+
+The biggest issue with such AI code generators lie in the fact that the natural language processing (NLP) tools can lower the entry barrier for hackers with malicious intent. With the code generators not needing users to be well versed with coding, any user can collate the logical flow of information that is used in a malicious tool from the open web, and use the same logic to generate syntax for malicious tools.
+
+Demonstrating the issue, Check Point showcased how the AI code generator was used to create a basic code template for a phishing email scam, and apply subsequent instructions in plain English to keep improving the code. In what the attackers demonstrated, any user with malicious intent can therefore create an entire hacking campaign by using these tools.
+
+Sergey Shykevich, threat intelligence group manager at Check Point, said that tools such as ChatGPT have “potential to significantly alter the cyber threat landscape."
+
+“Hackers can also iterate on malicious code with ChatGPT and Codex. AI technologies represent another step forward in the dangerous evolution of increasingly sophisticated and effective cyber capabilities," he added.
+
+To be sure, while open source language models can also be used to create cyber defence tools, the lack of protection in terms of its usage to generate malicious tools could be potentially alarming. Check Point noted that while ChatGPT does state that the usage of its platform to create hacking tools is “against" its policy, there are no restrictions that prevent it from doing so.
+
+This is hardly the first time that an AI language and image rendering service has shown potential for misuse. Lensa, an AI-based image editing and modification tool by US-based Prisma, also highlighted how the lack of filtering based on body image and nudity could lead to privacy-nullifying images created of an individual, without consent.
+
+Milestone Alert! Livemint tops charts as the fastest growing news website in the world 🌏 Click here to know more.
+
+Unlock a world of Benefits! From insightful newsletters to real-time stock tracking, breaking news and a personalized newsfeed – it's all here, just a click away! Login Now!. Open AI se enfrenta a un nuevo desafío difícil de frenar; el uso malicioso de ChatGPT. Un estudio desarrollado por la empresa de seguridad Check Point Research revela que la versión beta de este chatbot con IA se empezó a utilizar en fotos de delitos cibernéticos para escribir tanto software como emails con fines de espionaje, malware, ransomware y espionaje.
+
+De este modo, cualquier usuario sin ser experto podría manipular scripts para realizar ciberataques con ChatGPT. Los script kiddies afloraban y campaban a sus anchas, pudiendo incluso llegar a convertir a la herramienta en la favorita de la Dark Web.
+
+El código pionero malicioso de ChatGPT
+
+Un participante del foro publicó el guión del primer código generado utilizando ChatGPT. El código de Python combinaba varias funciones criptográficas, el cifrado y el descifrado. De este modo, una parte de dicho script se encargaba de generar una clave usando criptografía de curva elíptica y la curva ed25519, mientras que otra parte empleó una contraseña codificada para cifrar los archivos del sistema usando algoritmos Blowfish y Twofish. De igual manera, un tercero usó claves RSA y firmas digitales, firma de mensajes y la función hash blake 2 para comparar diferentes archivos.
+
+Como resultado se generó un script para descifrar un único archivo y agregarle un código de autenticación de mensajes al final. También permitía cifrar una ruta codificada y descifrar una lista de archivos que recibe como argumento.
+
+En el mismo foro, según apunta dicho informe de Check Point Research, otro participante publicó dos ejemplos de código escritos con ChatGPT. El primero era un script de Python para el robo de información posterior a la explotación. Se encargó de buscar archivos específicos, los copió en un directorio temporal, los comprimió y los envió posteriormente a un servidor que estaba en manos de un atacante.
+
+El segundo código malicioso, escrito con Java, se basó en la descarga de SSH y telnet Putty para después ejecutarlo mediante Powershell.
+
+Por consiguiente, quienes utilizan este tipo de foros con estos fines lo único que intentan es adoctrinar a nuevos script kiddies para que aprendan a usar ChatGPT como malware, modificando fácilmente el código si se solventan problemas concretos de sintaxis y script.
+
+El mercado de la transferencia de datos
+
+El informe recoge a su vez un tercer uso delictivo de ChatGPT, en esta ocasión, para crear un bazar automático que permitiese comprar e intercambiar contraseñas, datos de tarjetas bancarias y otros servicios de forma ilícita. Para ello se empleaba una interfaz de programación que permitía salvaguardar los precios actuales de las criptomonedas y fijar, a partir de ese momento, el precio de las transacciones.
+
+Todo apunta a que en a principios de noviembre, los investigadores de Check Point probaron el uso de ChatGPT para generar malware a partir de un correo electrónico de phishing, escondiendo el script en un archivo de Excel adjunto a éste. Conforme le pedían al chatbot que generase el código en repetidas ocasiones su calidad, y por consiguiente su efecto malicioso, iban mejorando.
+
+Posteriormente incorporaron Codex, un servicio de inteligencia artificial más avanzado, para desarrollar otros malware, incluido un shell inverso y scripts que permitiesen escanear puertos, detectar sandbox y compilar su código Python en un ejecutable de Windows.
+
+Esa es la pregunta que se hacen los usuarios, ya que la herramienta de Open AI prohíbe taxativamente su uso con fines ilegales y maliciosos, aunque cada vez se están generalizando más las consultas a VirusTotal para conocer las detecciones de un hash criptográfico específico.
+
+El futuro es incierto, y de momento se espera que siga siendo ChatGPT utilizado para estudios y ensayos científicos, pero la piratería informática es una amenaza latente.. Check Point Research today published a study into OpenAI’s ChatGPT and Codex, highlighting how threat actors can use these tools to produce malicious emails, code, and a full infection chain.
+
+ChatGPT is an interface for OpenAI’s large language model (LLM), which is a prototype chatbot whose “purpose is to assist with a wide range of tasks and answer questions to the best of my ability.” And Codex is an artificial intelligence- (AI-) based system that translates natural language to code, according to Check Point and OpenAI.
+
+“Like any technology, ChatGPT’s increased popularity also carries increased risk,” Check Point Researchers noted, adding that examples of ChatGPT-generated malicious code or dialogues can be easily found on Twitter.
+
+To illustrate this point, the research team created a full infection flow that includes a phishing email and a malicious Excel file weaponized with macros that downloads a reverse shell.
+
+The team asked ChatGPT to write a phishing email that appears to come from a fictional web-hosting service — Host4u. Despite OpenAI noting that this content may violate its content policy, it still provided an answer.
+
+After further integration to clarify the requirement, ChatGPT produced an “excellent” phishing email. Researchers used that email to create the malicious VBA code in the Excel document.
+
+“ChatGPT proved that given good textual prompts, it can give you working malicious code,” the Check Point team noted.
+
+Additionally, they tested Codex’s ability to produce a basic reverse shell using a placeholder IP and port, along with scanning and mitigation tools.
+
+“Once again, our AI buddies come through for us,” Check Point Research noted. “The infection flow is complete. We created a phishing email with an attached Excel document that contains malicious VBA code that downloads a reverse shell to the target machine.”
+
+“The hard work was done by the AIs, and all that’s left for us to do is to execute the attack,” they added.
+
+The study also demonstrated that those AI tools can augment defenders. Researchers used Codex to generate two Python functions: searching for URLs inside files using the YARA package and VirusTotal for the number of detections of a specific hash.
+
+“We hope to spark the imagination of blue teamers and threat hunters to use the new LLMs to automate and improve their work,” they wrote.
+
+The research team wanted to underscore the importance of vigilance when using developing AI technologies that can change the cyberthreat landscape significantly.
+
+“This is just an elementary showcase of the impact of AI research on cybersecurity. Multiple scripts can be generated easily with slight variations using different wordings. Complicated attack processes can also be automated as well using the LLMs APIs to generate other malicious artifacts,” they wrote.
+
+“Defenders and threat hunters should be vigilant and cautious about adopting this technology quickly, otherwise our community will be one step behind the attackers,” Check Point Research warned.. For even the most skilled hackers, it can take at least an hour to write a script to exploit a software vulnerability and infiltrate their target. Soon, a machine may be able to do it in mere seconds.
+
+When OpenAI last week released its ChatGPT tool, allowing users to interact with an artificial intelligence chatbot, computer security researcher Brendan Dolan-Gavitt wondered whether he could instruct it to write malicious code. So, he asked the model to solve a simple capture-the-flag challenge.
+
+The result was nearly remarkable. ChatGPT correctly recognized that the code contained a buffer overflow vulnerability and wrote a piece of code exploiting the flaw. If not for a minor error — the number of characters in the input — the model would have solved the problem perfectly.
+
+ChatGPT exploits a buffer overflow 😳 pic.twitter.com/mjnFaP233h — Brendan Dolan-Gavitt (@moyix) November 30, 2022
+
+Advertisement
+
+The challenge Dolan-Gavitt presented ChatGPT was a basic one — one he would present to students toward the beginning of a vulnerability analysis course — and the fact that it failed doesn’t inspire confidence in the ability of large language models, which provide the basis for AI bots to respond to human inquiries, to write quality code. But after spotting the error, Dolan-Gavitt prompted the model to re-examine the answer, and, this time, ChatGPT got it right.
+
+For now, ChatGPT is far from perfect in writing code and illustrates many of the shortcomings in relying on AI tools to write code. But as these models grow more sophisticated, they are likely to play an increasingly important role in writing malicious code.
+
+“Code is very much a dual use technology,” said Dolan-Gavitt, an assistant professor in the Computer Science and Engineering Department at New York University. “Almost everything that a piece of malware does is something that a legitimate piece of software would also do.”
+
+“If not ChatGPT, then a model in the next couple years will be able to write code for real world software vulnerabilities,” he added.
+
+Since OpenAI released it, ChatGPT has astounded users, writing short college essays, cover letters, admissions essays, and a weirdly passable Seinfeld scene in which Jerry needs to learn the bubble sort algorithm.
+
+Advertisement
+
+ChatGPT does not represent a revolution in machine learning as such but in how users interact with it. Previous versions of OpenAI’s large language models require users to prompt the model with an input. ChatGPT, which relies on a tuned version of GPT-3.5, OpenAI’s flagship large language model, makes it far easier to interact with that model by making it possible to carry on a conversation with a highly trained AI.
+
+Large language models such as OpenAI’s rely on huge bodies of data scraped from the internet and books — GPT-3, for example, trained a body of nearly 500 billion so-called tokens — and then use statistical tools to predict the most likely ways to complete queries or answer questions. That data includes a vast amount of computer code — what OpenAI describes as “tens of millions of public repositories” — from sites like StackExchange and GitHub forums, giving the model the ability to imitate the skills of highly trained programmers.
+
+From a cybersecurity perspective, the risks posed by LLMs are double-edged. On the one hand, these models can produce malicious code; on the other, they are prone to error and risk inserting vulnerable code. OpenAI appears aware of both sides of this risk.
+
+In a paper examining the company’s code-writing model known as Codex, which powers GitHub’s Co-Pilot assistant, OpenAI researchers observed that the model “can produce vulnerable or misaligned code” and that while “future code generation models may be able to be trained to produce more secure code than the average developer,” getting there “is far from certain.”
+
+The researchers added that while Codex, which is descended from the same model as ChatGPT, could be “misused to aid cybercrime,” the model’s current capabilities “do not materially lower the barrier to entry for malware development.” That trade-off may change, however, as models advance, and in a tweet over the weekend, OpenAI CEO Sam Altman cited cybersecurity as one of the principal risks of a “dangerously strong AI.”
+
+Advertisement
+
+OpenAI did not respond to questions about how it is addressing cybersecurity concerns with ChatGPT, nor what Altman had in mind regarding the future cybersecurity risks posed by AI.
+
+Since ChatGPT’s release, researchers and programmers have been posting slack-jawed examples of the model turning out quality code, but upon closer inspection — as in the example of Dolan-Gavitt’s buffer overflow — ChatGPT’s code will sometimes contain errors.
+
+“I think it’s really good at coming up with stuff that’s 95% correct,” said Stephen Tong, a security researcher and founder of the cybersecurity firm Zellic. “You know how there are people who don’t know how to code but just copy-paste from Stack Overflow, and it just sort of works? It’s kind of like that.”
+
+Bad code written by AI assistants represents one of the major risks of the move toward LLMs in software development. The code base on which AI assistants are trained contain some (often difficult to determine) number of errors, and in being trained on that body of work, LLMs risk replicating these errors and inserting them into widely deployed code.
+
+In one study of the security performance of Copilot — which OpenAI technology powers — the model performed dismally. In that study, researchers prompted Copilot with 89 security-relevant scenarios, producing nearly 1,700 programs. Some 40% of them were vulnerable.
+
+Advertisement
+
+That code may be on par with what a human would produce. “Is the code any worse than what a first-year software engineering intern? Probably not,” said Hammond Pearce, an NYU computer science professor who co-authored the study with Dolan-Gavitt and others.
+
+That means programmers should be skeptical of code produced by an AI assistant, whose errors could be readily exploited by attackers.
+
+Less than a week after ChatGPT was introduced, the tool has grown immediately popular among programmers but is producing such error-prone code that it has been banned on Stack Overflow, a Q&A forum for programmers. “While the answers which ChatGPT produces have a high rate of being incorrect, they typically look like they might be good and the answers are very easy to produce,” the moderators — and the emphases here are theirs — wrote in announcing the decision.
+
+So, could LLMs then be used to write malicious code that exploits already existing vulnerabilities?
+
+Because of their reliance on existing data to answer prompts, cybersecurity researchers are skeptical for now that large language models will be used to write innovative malicious code. “Writing exploits, especially modern exploits, requires the invention and use of new techniques,” said Matt Suiche, a director for memory, incident response, and R&D at Magnet Forensics. “This isn’t something that AI can do yet.”
+
+Advertisement
+
+Cognizant of the risk that ChatGPT could be used to write exploits, OpenAI has put in place some guardrails around using the tool to write malware. Asked to write a zero-click remote code execution exploit for Apple’s iPhone — code that would fetch huge sums on the black market and could be used to carry out invasive surveillance — ChatGPT informs the user that “creating or using exploits is illegal and can cause harm to individuals and systems, so it is not something that I can assist with.”
+
+But these restrictions are imperfect. The functions of a malicious piece of software — making network connections or encrypting the contents of a file, for example — are ones that legitimate software does as well. Differentiating between legitimate and malicious software is often a matter of intent, and that makes LLMs vulnerable to misuse.
+
+Benjamin Tan, a computer scientist at the University of Calgary, said he was able to bypass some of ChatGPT’s safeguards by asking the model to produce software piece by piece that, when assembled, might be put to malicious use. “It doesn’t know that when you put it all together it’s doing something that it shouldn’t be doing,” Tan said.
+
+Even if LLMs can’t write their own exploits for now, they could be used to tweak existing malware and create variants. The creation of variants might be used to bypass signature analysis or be used to imitate the code-writing style of another attacker, making it more difficult to attribute attacks, Pearce said.
+
+As large language models proliferate, it’s reasonable to think that they will play a role in exploit development. For now, it’s probably cheaper or easier for attackers to write their own exploits, but as defenses improve and the cost of LLMs decrease, there’s good reason to believe that tools like ChatGPT will play a key role in exploit development.
+
+Advertisement
+
+Part of Tan’s research involves tuning publicly available models, and “if you had a sufficient set of samples then you could train these things to spit out malware,” he says. “It just depends on finding the training data.”. Gli esperti di Check Point Software avevano testato le capacità di ChatGPT nella scrittura di malware. A distanza di alcune settimane sono stati già pubblicati i primi esempi pratici su un noto forum di hacking, soprattutto da (aspiranti) cybercriminali con scarse competenze tecniche. I tool sono attualmente molto elementari, ma sicuramente verranno distribuite versioni più sofisticate nei prossimi mesi.
+
+Tre esempi di malware creati con ChatGPT
+
+I ricercatori di Check Point Research avevano usato ChatGPT per scrivere un email di phishing con un allegato Excel contenente una macro che scarica un malware sul computer. Un utente ha usato l’intelligenza artificiale di OpenAI per scrivere il codice di un info-stealer in Python. Il malware avvia la ricerca di specifici file (ad esempio, documenti Word e PDF) che, se trovati, vengono copiati in una directory, compressi in formato ZIP e inviati al server remoto. Al termine, directory e archivio ZIP sono eliminati.
+
+Il secondo esempio è un tool per la cifratura, sempre scritto in Python. Nel codice sono presenti tutte le funzioni necessarie per la cifratura e decifratura dei file, sfruttando vari algoritmi, tra cui Blowfish e Twofish. Il codice può essere utilizzato per attività comuni, ma sono sufficienti alcune modifiche per automatizzare le operazioni e sfruttarlo durante un attacco ransomware.
+
+L’ultimo esempio è più complesso. Un utente del forum ha usato ChatGPT per creare un marketplace, ovvero un sito del dark web usato per la compravendita di armi, droga, malware, prodotti rubati e dati delle carte di credito. Sfruttando API di terze parti è possibile aggiornare i prezzi in tempo reale tenendo conto del valore attuale delle criptovalute accettate come metodo di pagamento.
+
+Gli esperti di Check Point Software hanno chiesto a ChatGPT come è possibile utilizzare la tecnologia per scopi illeciti. L’intelligenza artificiale ha risposto che ci sono diversi modi, tra cui email di phishing, post sui social media o video fake per manipolare l’opinione pubblica. Tuttavia, OpenAI non è responsabile, in quanto i termini del servizio proibiscono l’uso della sua tecnologia per attività pericolose o illegali.. Die Analyse von Chats in Dark-Web-Foren zeigt, dass es bereits Bestrebungen gibt, den Chatbot von OpenAI zum Schreiben von Malware zu nutzen.
+
+Der KI-Chatbot ChatGPT sorgt für viel Aufregung. Nun scheint es so, dass er für Versuche genutzt wird, bösartige Code zu erstellen. ChatGPT wurde vom Forschungslabor für künstliche Intelligenz OpenAI veröffentlicht, stößt auf breites Interesse und hat eine Diskussion darüber ausgelöst, wie sich KI entwickelt und wie KI in Zukunft eingesetzt werden könnte.
+
+Wie jedes Tool könnte es in den falschen Händen für kriminelle Zwecke eingesetzt werden. Laut den Cybersecurity-Forschern von Check Point experimentieren die Nutzer von Untergrund-Hacking-Communities bereits damit, wie sich ChatGPT für Cyberangriffe einsetzen lässt. „Bedrohungsakteure mit sehr geringem technischem Wissen – bis hin zu null technischem Wissen – könnten in der Lage sein, bösartige Tools zu erstellen. Es könnte auch die täglichen Operationen von raffinierten Cyberkriminellen viel effizienter und einfacher machen – wie das Erstellen verschiedener Teile der Infektionskette“, sagte Sergey Shykevich, Threat Intelligence Group Manager bei Check Point.
+
+OpenAI verbietet Malware-Genereierung
+
+Die Nutzungsbedingungen von OpenAI verbieten ausdrücklich die Generierung von Malware, die definiert wird als „Inhalte, die versuchen, Ransomware, Keylogger, Viren oder andere Software zu generieren, die in irgendeiner Form Schaden anrichten soll“. Verboten sind auch Versuche, Spam zu erzeugen, sowie Anwendungsfälle, die auf Cyberkriminalität abzielen. Eine Analyse der Aktivitäten in mehreren großen Untergrund-Hacking-Foren deutet jedoch darauf hin, dass Cyberkriminelle ChatGPT bereits nutzen, um bösartige Tools zu entwickeln – und in einigen Fällen ermöglicht es Cyberkriminellen ohne Entwicklungs- oder Programmierkenntnisse bereits die Erstellung von Malware.
+
+In einem Forum beschrieb Ende Dezember ein Poster, wie er ChatGPT verwendet, um Malware-Stämme und -Techniken nachzubilden, die in Forschungsveröffentlichungen und Aufzeichnungen über gängige Malware beschrieben werden. Auf diese Weise konnten sie eine Python-basierte Malware erstellen, die nach gängigen Dateien wie Microsoft Office-Dokumenten, PDFs und Bildern sucht, diese kopiert und dann auf einen File Transfer Protocol-Server hochlädt. Forscher stellen fest, dass der Forumsnutzer die Beiträge geteilt hat, um weniger technisch versierten Cyberkriminellen zu zeigen, wie sie KI-Tools für bösartige Zwecke einsetzen können.
+
+Skripterstellung für Anfänger
+
+Ein Benutzer hat ein Python-Skript gepostet, das nach eigenen Angaben das erste Skript war, das er je erstellt hat. Die Analyse des Skripts deutet darauf hin, dass es zum Ver- und Entschlüsseln von Dateien gedacht ist, was mit etwas Arbeit in Ransomware umgewandelt werden könnte, was möglicherweise dazu führen könnte, dass Cyberkriminelle auf niedriger Ebene ihre eigenen Erpressungskampagnen entwickeln und verbreiten. „Der Code kann natürlich auf harmlose Weise verwendet werden. Dieses Skript kann jedoch leicht so modifiziert werden, dass es den Computer einer Person ohne jegliche Benutzerinteraktion vollständig verschlüsselt“, so Check Point.
+
+Cyberkriminelle experimentieren nicht nur mit ChatGPT, um Malware zu entwickeln. In der Silvesternacht postete ein Mitglied eines Untergrund-Forums einen Beitrag, in dem gezeigt wurde, wie mit dem Tool Skripte erstellt werden können, die einen automatisierten Dark-Web-Marktplatz für den Kauf und Verkauf von gestohlenen Kontodaten, Kreditkarteninformationen oder Malware betreiben könnten. Der Cyberkriminelle zeigte sogar ein Stück Code, das mit einer Drittanbieter-API erstellt wurde, um aktuelle Preise für die Kryptowährungen Monero, Bitcoin und Ethereum als Teil eines Zahlungssystems für einen Dark-Web-Marktplatz zu erhalten.. Welcome to The Cybersecurity 202! I accidentally sparked some fake-meat debates with yesterday’s chatter. For the record, Beyond Burger is good, but I prefer Impossible Burger. Also, I still sometimes dig “fake meat” that isn’t even really trying much to taste like meat, like a spicy black bean burger.. Image: Getty/NurPhoto
+
+The ChatGPT AI chatbot has created plenty of excitement in the short time it has been available and now it seems it has been enlisted by some in attempts to help generate malicious code.
+
+ChatGPT is an AI-driven natural language processing tool which interacts with users in a human-like, conversational way. Among other things, it can be used to help with tasks like composing emails, essays and code.
+
+Also: What is ChatGPT and why does it matter? What you need to know
+
+The chatbot tool was released by artificial intelligence research laboratory OpenAI in November and has generated widespread interest and discussion over how AI is developing and how it could be used going forward.
+
+But like any other tool, in the wrong hands it could be used for nefarious purposes; and cybersecurity researchers at Check Point say the users of underground hacking communities are already experimenting with how ChatGPT might be used to help facilitate cyber attacks and support malicious operations.
+
+"Threat actors with very low technical knowledge - up to zero tech knowledge - could be able to create malicious tools. It could also make the day-to-day operations of sophisticated cybercriminals much more efficient and easier - like creating different parts of the infection chain," Sergey Shykevich, threat intelligence group manager at Check Point told ZDNET.
+
+OpenAI's terms of service specifically ban the generation of malware, which it defines as "content that attempts to generate ransomware, keyloggers, viruses, or other software intended to impose some level of harm". It also bans attempts to create spam, as well as use cases aimed at cybercrime.
+
+However, analysis of activity in several major underground hacking forums suggests that cyber criminals are already using ChatGPT to develop malicious tools – and in some cases, it's already allowing low-level cyber criminals with no development or coding skills to create malware.
+
+Also: The scary future of the internet: How the tech of tomorrow will pose even bigger cybersecurity threats
+
+In one forum thread which appear towards the end of December, the poster described how they were using ChatGPT to recreate malware strains and techniques described in research publications and write-ups about common malware.
+
+By doing this, they've been able to create a Python-based information stealer malware which searches for common files including Microsoft Office documents, PDFs and images, copies them then uploads them to a file transfer protocol server.
+
+The same user also demonstrated how they'd used ChatGPT to create Java-based malware, which using PowerShell could be harnessed to covertly download and run other malware onto infected systems.
+
+Researchers note that the forum user making these threads appears to be "tech-oriented" and shared the posts to show less technically capable cybercriminals how to utilize AI tools for malicious purposes, complete with real examples of how it can be done.
+
+One user posted a Python script, which they said was the first script they ever created. After discussion with another forum member, they said that ChatGPT helped them to create it.
+
+Analysis of the script suggest it's designed to encrypt and decrypt files, something that with some work, could be turned into ransomware, potentially leading to the prospect of low-level cyber criminals developing and distributing their own extortion campaigns.
+
+"All of the afore-mentioned code can of course be used in a benign fashion. However, this script can easily be modified to encrypt someone's machine completely without any user interaction. For example, it can potentially turn the code into ransomware if the script and syntax problems are fixed," said Check Point.
+
+"It will require some improvements in the code and syntax, but conceptually when operational, this tool could carry out similar actions to ransomware," said Shykevich.
+
+Also: Cybersecurity: These are the new things to worry about in 2023
+
+But it isn't just malware development which cyber criminals are experimenting with ChatGPT for; on New Year's Eve, one underground forum member posted a thread demonstrating how they'd used the tool to create scripts which could be operate an automated dark web marketplace for buying and selling stolen account details, credit card information, malware and more.
+
+The cyber criminal even showed off a piece of code that was generated using a third-party API to to get up-to-date prices for Monero, Bitcoin and Ethereum cryptocurrencies as part of a payment system for a dark web marketplace.
+
+It's difficult to tell if malicious cyber activity generated with the aid of ChatGPT is actively functioning in the wild, because as Sykevich explains, "from a technical stand point it's extremely difficult to know whether a specific malware was written using ChatGPT or not".
+
+But as interest in ChatGPT and other AI tools grows, they're going to attract the attention of cyber criminals and fraudsters looking to exploit the technology to help conduct malicious campaigns at low-cost and with the least effort necessary. ZDNET has contacted OpenAI for comment, but is yet to receive a response at the time of publication.
+
+MORE ON CYBERSECURITY. The advent of ChatGPT has cybersecurity experts spooked. Some fear the powerful chatbot will make it far easier for non-coders to create malware and become cybercriminals. But so far, one cybersecurity company says, ChatGPT may be having a counterintuitive effect on hacking: supercharging scams that don’t rely on any sort of malicious code at all.
+
+Max Heinemeyer, the chief product officer at the U.K.-based cybersecurity firm Darktrace, says that looking at the one-month period since ChatGPT attained 1 million users in early December, there has been little change in the total number of attempted cyberattacks targeting Darktrace customers. But Darktrace has seen a distinct shift in the tactics used by cybercriminals.
+
+Malicious links in phishing emails declined from 22% of cases to just 14%, Heinemeyer says. But the average linguistic complexity of the phishing emails encountered by Darktrace jumped 17%.
+
+The company’s working theory: Cybercriminals are starting to use ChatGPT to craft much more convincing phishing emails—ones that are so good that cybercriminals don’t even need to rely on embedding malware in attachments or links. After all, malicious links or embedded malware can often be detected and stopped by cybersecurity software such as Darktrace’s.
+
+What’s much harder to stop are attacks that rely completely on old-fashioned deception, or “social engineering.” An email that is so convincingly written that the recipient believes it’s from a trusted source is a great to way pull off an authorized push payments fraud, for example. The victim is fooled into sending funds to pay for what they think is a legitimate transaction or invoice, but is in fact sending the money straight to a fraudster’s account.
+
+In some cases, Heinemeyer says, criminals may be setting the stage for longer cons that involve winning the victims’ trust over a period of time and might involve sophisticated impersonations of real executives or customers.
+
+A gift for non-native English speaking hackers
+
+In addition to A.I. writing tools such as ChatGPT, other new generative A.I. tools could be used to abet such scams. A.I. software, such as that from nascent startup Eleven Labs, can now create realistic voice clones after having been trained on recordings of a target’s voice that might only be a few seconds long. Meanwhile, text-to-image generation software, such as Stable Diffusion, can create increasingly realistic deepfakes with a fraction of the training data previously required for other deepfake methods.
+
+Frauds based on compromised business emails have been on the rise for the past four to five years, Evan Reiser, the founder and CEO of cybersecurity Abnormal says. And while he says that his company has not yet seen any increase in these kinds of attacks since ChatGPT debuted, he thinks it is possible criminals, especially those whose native language is not English, may be tempted to use the tool to craft emails that are less likely to raise red flags with potential victims due to ungrammatical or uncolloquial expressions. “Any tool that is perceived by humans as authentic will make [fraud] worse,” Reiser says.
+
+He says this is especially true of systems where they are explicitly trained to produce text in a particular style, synthesized voices, or images with the intent of fooling people. But he also says that often the simplest tricks—just a very short email that seems to come from a trusted person—works well enough and that criminals generally gravitate towards whatever methods are simplest and require the least effort. “You can send silly, stupid emails and make millions of dollars,” he says. “Why go through the trouble and effort to train [A.I.] models to do that.”
+
+In the wake of the release of ChatGPT, some cybersecurity firms raised the alarm that the A.I. might make it fiendishly easy to pull off a cyberattack. Maya Horowitz, the vice president of research at cybersecurity firm Checkpoint, says that her team was able to get ChatGPT to generate every stage of a cyberattack, starting with a better-than-average phishing email, but then carrying on to actually writing the software code for a malware attack and being able to figure out how to embed that code into an innocuous-looking email attachment. Horowitz said she feared ChatGPT and other generative language models would lead to many more cyberattacks.
+
+But the same kind of large language models that power ChatGPT can also be used to help cybersecurity companies defend against attacks. Abnormal uses some language models, such as Google’s BERT language model, to help determine what the intent of an email is. If an email is aksing a person to pay for something and putting that person under time pressure, saying it is urgent, or needs to be done ASAP, then that could be a red flag, Reiser says. Language models can also read attachments and see if they match the form and style of previous invoices—or if the invoicing company is one that business has interacted with before. It can even see if the account numbers seem to match ones that have been used previously. (Abnormal even analyses things such as whether an email attachment has fonts that match those previously seen from that company and looks at the meta data of documents for potential signals that something fishy is going on, Reiser says.)
+
+Much of what Abnormal does though is look at patterns across a huge number of features and use machine learning models to figure out if they rise to the threshold where the email should be blocked and a company’s security team alerted. There’s almost always something that will give away a phishing attempt if you know where to look, Reiser says. Even in the case where a legitimate business email account has been compromised, the attacker will often take actions, such as running multiple searches through the account’s history, or using an API to control the account rather than a PC keyboard, that will provide a signal that something isn’t right.
+
+Nicole Eagan, Darktrace’s chief strategy officer, says Darktrace itself has been using the same kind of large language models that underpin to ChatGPT to create more believable spear phishing emails that the compay uses in internal “red teaming” excercises to test its own cybersecurity practices. Eagan says she recently fell for one of these, which was inserted directly into the actual email chain she was having with an outside recruiter Darktrace used.
+
+(Darktrace spent much of the past week trying to prove a different sort of pattern didn’t indicate anything fishy was going on: the company’s share price dropped dramatically after short seller Quintessential Capital Management issued a report claiming it had found evidence that the cybersecurity company might have engaged in dubious accounting practices to try inflate its revenues and profitability ahead of its 2021 initial public offering. Darktrace has denied the accusations in the report, saying that the hedge fund never contacted it before publishing its report and that it has “full confidence” in its accounting practices and the “integrity of our independently audited financial statements.”)
+
+. For the record, ChatGPT didn't write me a phishing email when I asked it to. In fact, it gave me a very stern lecture about why phishing is bad.
+
+It called phishing a "malicious and illegal activity that aims to deceive individuals into providing sensitive information such as passwords, credit card numbers, and personal details," adding that as an AI language model, it's programmed to "avoid engaging in activities that may harm individuals or cause harm to the public."
+
+That said, the free artificial intelligence tool that's taken the world by storm didn't have a problem writing a very convincing tech support note addressed to my editor asking him to immediately download and install an included update to his computer's operating system. (I didn't actually send it, for fear of invoking the wrath of my company's IT department.)
+
+But the exercise was a potent illustration of how ChatGPT -- and artificial intelligence in general -- could be a boon to scammers and hackers overseas whose phishing attempts may have previously been outed by their grammatical errors or broken English. Experts say these AI-generated emails are also more likely to make it past security software email filters.
+
+The security dangers go well beyond phishing. According to researchers at the cybersecurity company Check Point, cybercriminals are trying to use ChatGPT to write malware, while other experts say that non-malicious code written with it might be lower quality than code created by a human being, making it susceptible to exploitation.
+
+But, experts say, don't blame the AI.
+
+"It's not good or evil," said Randy Lariar, practice director of big data, AI and analytics for the cybersecurity company Optiv. "It's just a tool that makes it easier and less expensive for good guys and bad guys to do the things they're already doing."
+
+An AI arms race
+
+While cybersecurity companies have long touted AI and machine learning as a game-changing way to boost automated online defenses and help fill gaps in the industry's workforce, the increased availability of this kind of technology through tools like ChatGPT will only make it easier for criminals to launch more cyberattacks.
+
+Some experts also have concerns about the possible data privacy implications, both for companies and the average consumer. While the data that ChatGPT's AI was trained with is generally considered public and available online, it's arguably a lot more accessible than it used to be.
+
+In addition, users of the technology will need to be careful what information they feed the AI, because once they do, it will become part of ChatGPT's massive database, and they'll have little or no control over who it's shared with or how it's used after that.
+
+OpenAI, the company behind ChatGPT, didn't respond to an email seeking comment.
+
+While there are guardrails built in to prevent cybercriminals from using the ChatGPT for nefarious purposes, they're far from foolproof. A request to write a letter asking for financial help to flee Ukraine was flagged as a scam and denied, as was a request for a romantic rendezvous. But I was able to use ChatGPT to write a fake letter to my editor informing him that he had won the New York State Lottery jackpot.
+
+Experts warn that ChatGPT isn't always accurate, and even Sam Altman, CEO of OpenAI, which created the chatbot, said it shouldn't be used for "anything important right now." But cybercriminals generally aren't worried about their code being 100% perfect, so accuracy problems are a nonissue for them, according to Jose Lopez, principal data scientist and machine learning engineer for the email security company Mimecast,
+
+What they are concerned about is speed and productivity.
+
+"If you're an average coder, it's not going to transform you into a super hacker overnight," Lopez said. "Its main potential is as an amplifier."
+
+That amplification could mean cybercriminals using the technology to set up countless online chats with unsuspecting victims, looking to lure them into romance scams, he said. These kinds of scams aren't uncommon, but they've traditionally required a lot of work and hands-on attention from scammers. AI-powered chatbots could change that.
+
+Be careful with your data
+
+While data privacy concerns over AI aren't new -- the debate over the use of AI technology in facial recognition technology has raged for years -- the explosive popularity of ChatGPT has renewed the need to remind people about the personal data traps they can fall in.
+
+Worries about language models like ChatGPT might not be as obvious, but they're just as significant, said John Gilmore, head of research for Abine, which owns DeleteMe, a service that helps people remove information from databases.
+
+Gilmore noted that users don't have any rights when it comes to what ChatGPT does with the data it collects from them or who it shares it with. He questioned how ChatGPT could ever be compliant with data privacy laws like the EU's General Data Protection Regulation, better known as GDPR, given the lack of transparency tools.
+
+As the use of AI spreads to other tech where their use may be less obvious, Gilmore said it will be up to consumers to keep a handle on what data they hand over.
+
+Confidential or proprietary information, for instance, should never be entered into AI apps or sites and that includes requests for help with things like job applications or legal forms.
+
+"While it may be tempting to receive AI-based advice for short-term benefit, you should be aware that in the process you are giving that content away to everyone," Gilmore said.
+
+Optiv's Lariar said that given the newness of the AI language models, there's still a lot to be decided when it comes to legality and consumer rights. He compared language-based AI platforms to the rise of the streaming video and music industries, predicting that there will be a slew of lawsuits filed before everything is sorted out.
+
+In the meantime, language-based AI isn't going to go away. As for how to protect against those who would use it for cybercrimes, Lariar said like everything in security, it starts with the basics.
+
+"This is a wake-up call to everyone who is not investing in their security programs as they should be," he said. "The barrier to entry is getting lower and lower and lower to be hacked and to be phished. AI is just going to increase the volume."
+
+Editors' note: CNET is using an AI engine to create some personal finance explainers that are edited and fact-checked by our editors. For more, see this post.. . . ChatGPT has caused a lot of buzz in the tech world these last few months, and not all the buzz has been great. Now, someone has claimed to have made powerful data-mining malware by using ChatGPT-based prompts in just a few hours. Here's what we know.
+
+CLICK TO GET KURT’S FREE CYBERGUY NEWSLETTER WITH QUICK TIPS, TECH REVIEWS, SECURITY ALERTS AND EASY HOW-TO’S TO MAKE YOU SMARTER
+
+Who is responsible for this malware?
+
+Forcepoint security researcher Aaron Mulgrew shared how he was able to create this malware by using OpenAI's generative chatbot. Even though ChatGPT has some protections that prevent people from asking it to create malware codes, Aaron was able to find a loophole.
+
+He prompted ChatGPT to create the code function by function with separate lines. Once all the individual functions were compiled, he realized that he had an undetectable data-stealing executable on his hands that was as sophisticated as any nation-state malware.
+
+This is incredibly alarming because Mulgrew was able to create this very dangerous malware without the need for a team of hackers, and he didn't even have to create the code himself.
+
+HOW HACKERS ARE USING CHATGPT TO CREATE MALWARE TO TARGET YOU
+
+What does the malware do?
+
+The malware starts by disguising itself as a screensaver app that then auto-launches itself onto Windows devices. Once it's on a device, it will scrub through all kinds of files including Word docs, images and PDFs, and look for any data it can find to steal from the device.
+
+Once the malware gets hold of the data, it can break the data down into smaller pieces and hide those pieces within other images on the device. The images then avoid detection by being uploaded to a Google Drive folder. The code was made to be super strong because Mulgrew was able to refine and strengthen his code against detection using simple prompts on ChatGPT.
+
+What does this mean for ChatGPT?
+
+Although this was all done in a private test by Mulgrew and the malware is not attacking anyone in the public, it's truly alarming to know the dangerous acts that can be committed using ChatGPT. Mulgrew claimed to not have any advanced coding experience, and yet the ChatGPT protections were still not strong enough to block his test. Hopefully, the protections are strengthened before a real hacker gets the chance to do something as Mulgrew did.
+
+FREE ANTIVIRUS: SHOULD YOU USE IT?
+
+Always stay protected
+
+This story is yet another reminder to always have good antivirus software running on your devices as it will protect you from malware infecting your devices. See my expert review of the best antivirus protection for your Windows, Mac, Android & iOS devices by visiting CyberGuy.com/LockUpYourTech .
+
+How do you feel about ChatGPT's protections? We want to know your thoughts.
+
+CLICK HERE TO GET THE FOX NEWS APP
+
+For more of my tips, subscribe to my free CyberGuy Report Newsletter by clicking the "Free newsletter" link at the top of my website.
+
+Copyright 2023 CyberGuy.com. All rights reserved.

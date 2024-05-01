@@ -1,0 +1,29 @@
+What I’ve learned from Kaggle’s fisheries competition Gidi Shperber · Follow 6 min read · May 1, 2017 -- 1 Listen Share
+
+TLDR:
+
+Me and my Kaggle partner, have recently participated in “The Nature Conservancy Fisheries Monitoring” (hereby: “fisheries”) Kaggle competition. This competition had some very interesting results, most notably, the benchmark result got ahead of most competitors. I believe there are a few very important lessons we can learn form as data scientists. Bellow you can read about the competition, and some of the things we have learned from it.
+
+The Competition
+
+So recently you’ve might have heard some buzz about Kaggle’s fisheries competition, and you’ve might have been wondering what all the fuss is about.
+
+In this competition your goal (as in many Kaggle competitions) was to classify an object, in this case - determine the species of a fish.
+
+why would you like to do this? Well, to make a long story short, ships are currently equipped with automatic cameras, to make sure they are catching only legit fish like tuna, and not protected animals like sharks. The picture are later manually deciphered
+
+However, the fish are not presented to you in a clear profile pic, but it is randomly tossed around some boat. Here are some example images:
+
+there are also images with more than one fish, or images with no fish at all.
+
+So this is not the standard “recognize the flower/leaf/face” competition, but a more challenging one.
+
+And this is why I love Kaggle: unlike many machine learning articles, which use the easiest available data-set (mnist, cifar-10, imagenet to name a few) Kaggle presents you with real life problems, which are always dirty, mislabeled, blurred etc.
+
+As in some other competitions, this was a two stage competition, in which a small part of the test data (1K images) is available, while the majority of the test set (another 12K images) is released 1 week before the competition deadline. This method may prevent some cheating, but has a lot of issues, and may discourage many competitors: only around 300 competitors of the total 2300 starters made a submission at the second stage.
+
+Our way through the competition
+
+From a quick look, it is easy to see that the required approach here is doing two steps: first detecting the fish, and then classifying it.
+
+However, during the competition, something strange came up in the competition forums: if you run a pre-trained VGG network on the training set (as very clearly described here and more thoroughly discussed in this great course), you can reach accuracy of around 99%. This is strange, because the VGG was trained on image-net data, which is not very similar to the images above. Submitting these results to Kaggle showed results which were not bad at all, but much lower than 99%.

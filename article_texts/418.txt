@@ -1,0 +1,27 @@
+India has around 600,000 Uber drivers, but many others work for the homegrown ride-sharing platform Ola and for startups such as Swiggy, Zomato, and Urban Company. All ask their platform workers to upload selfies for logins or verifications.
+
+Uber checks that a driver’s face matches what the company has on file through a program called “Real-Time ID Check.” It was rolled out in the US in 2016, in India in 2017, and then in other markets. “This prevents fraud and protects drivers’ accounts from being compromised. It also protects riders by building another layer of accountability into the app to ensure the right person is behind the wheel,” Joe Sullivan, Uber’s chief security officer, said in a statement in 2017.
+
+But the company’s driver verification procedures are far from seamless. Adnan Taqi, an Uber driver in Mumbai, ran into trouble with it when the app prompted him to take a selfie around dusk. He was locked out for 48 hours, a big dent in his work schedule—he says he drives 18 hours straight, sometimes as much as 24 hours, to be able to make a living. Days later, he took a selfie that locked him out of his account again, this time for a whole week. That time, Taqi suspects, it came down to hair: “I hadn’t shaved for a few days and my hair had also grown out a bit,” he says.
+
+Others say they have struggled with scratches on their cameras and low-budget smartphones. The problem isn’t unique to Uber. Drivers with Ola, which is backed by SoftBank, face similar issues.
+
+Uber did not initially respond to a series of questions from MIT Technology Review about its technology and drivers’ experiences. After publication, the company said that no deactivations can take place based on facial recognition alone. It said that Real-Time ID Check works by escalating flagged non-matches to at least two humans who then check the photos manually. This process takes less than 25 seconds. It says that its tool can handle changes in hair.
+
+Nevertheless, more than a dozen drivers interviewed for this story detailed instances of having to find better lighting to avoid being locked out of their Uber accounts. “Whenever Uber asks for a selfie in the evenings or at night, I’ve had to pull over and go under a streetlight to click a clear picture—otherwise there are chances of getting rejected,” said Santosh Kumar, an Uber driver from Hyderabad.
+
+Real-Time ID Check works by converting your face into a set of points, explains Jernej Kavka, an independent technology consultant with access to Microsoft’s Face API, which is what Uber uses to power Real-Time ID Check.
+
+“With excessive facial hair, the points change and it may not recognize where the chin is,” Kavka says. The same thing happens when there is low lighting or the phone’s camera doesn’t have a good contrast. “This makes it difficult for the computer to detect edges,” he explains.. Uber Facial Recognition: उबर ड्राइवर्स को इन दिनों कंपनी के ऐप में फेसियल रिकग्निशन में कुछ समस्या आ रही है. इस वजह से ड्राइवर्स के काम पर असर पड़ रहा है. MIT की एक रिपोर्ट में बताया गया है कि कई ड्राइवर्स को सेल्फी अपलोड करने में समस्या का सामना करना पड़ रहा है और इस वजह से उनका अकाउंट लॉक हो गया है. कुछ लोगों का मानना है कि उनके हुलिए में बदलाव, जैसे कि चेहरे के बाल, सिर मुड़वाना या बाल कटवाने के चलते ऐप में यह दिक्कत आ रही है. कुछ लोगों का मानना है कि कम लाइट के चलते उन्हें यह समस्या हुई है. इसको लेकर देश के 150 उबर ड्राइवरों पर एमआईटी टेक्नोलॉजी रिव्यू ने सर्वे किया था. इसी आधार पर नतीजे निकाले गए हैं.
+
+वेरिफिकेशन के लिए जरूरी है सेल्फी
+
+भारत में लगभग 600,000 उबर ड्राइवर हैं, लेकिन ये कई अन्य घरेलू राइड-शेयरिंग प्लेटफॉर्म ओला और स्विगी, ज़ोमैटो और अर्बन कंपनी जैसे स्टार्टअप के लिए काम करते हैं. सभी प्लेटफॉर्म लॉगिन और वेरिफिकेशन के लिए सेल्फी अपलोड करने के लिए कहते हैं.
+
+यह भी पढ़ें : इस एक्सप्रेसवे पर सफर करने से पहले सावधान! गलती करने पर लगेगा ₹2,000 का जुर्माना
+
+‘रियल टाइन आईडी चेक’
+
+Uber ‘रीयल-टाइम आईडी चेक’ (Real-Time ID Check) नाम के एक प्रोग्राम के ज़रिए यह चेक करता है कि ड्राइवर का चेहरा कंपनी के फ़ाइल में मौजूद चेहरे से मेल खाता है या नहीं. इसे 2016 में अमेरिका में, 2017 में भारत में और फिर अन्य बाजारों में रोल आउट किया गया था. यह धोखाधड़ी को रोकता है और ड्राइवरों के खातों को सुरक्षित रखता है.
+
+मुंबई में एक उबर ड्राइवर अदनान टाकी उस समय मुश्किल में पड़ गया जब एक शाम उन्होंने वेरिफिकेशन के लिए सेल्फी ली. उन्हें 48 घंटों के लिए बंद कर दिया गया था, वे कहते हैं कि वे 18 घंटे ड्राइव करते हैं. सेल्फी लेने के बाद उनका अकाउंट लॉक हो गया. वो भी पूरे एक हफ्ते के लिए. तकी का कहना है कि शायद बढ़ी हुई दाढ़ी की वजह से ऐसा हुआ है.. Neradi Srikanth has been an Uber driver since 2019 and has made 1,428 trips so far for the taxi aggregator platform. The 23-year-old has a 4.67 rating on the app, but has been locked out of it since February 27, 2021. While he says it’s because he shaved his head and the Uber’s app’s facial recognition AI couldn’t recognise him without hair, Uber has said that Srikanth has been locked out of the platform due to “community guideline violations”. The company did not specify what Srikanth’s offence was.

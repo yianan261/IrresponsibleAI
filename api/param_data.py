@@ -50,8 +50,10 @@ def get_messages(prompt, article_text, message_type="one"):
             ====start of article====
             {article_text}
             ====end of article ====
-            Find the city and state of the company in question in the article. You may use function calling.
+            What is the name of the company that caused the problem according to the article? 
+            Find the city and state of the company that caused the problem. You may use function calling.
             Return JSON response.
+            If there are multiple companies involved, skip this step and return empty JSON.
             """,
             },
         ]
@@ -69,6 +71,7 @@ def update_messages_with_location(article_text, prompt, location_candidates):
         "TheBloke/Llama-2-7b-Chat-GPTQ", model_config={"revision": "main"}
     )
     compressed_article = llm_lingua.compress_prompt(article_text)
+    print("COMPRESSED ARTICLE---====", compressed_article)
     message = [
         {"role": "system", "content": "You are a helpful assistant."},
         {"role": "user", "content": prompt},
@@ -97,6 +100,7 @@ def update_messages_with_location(article_text, prompt, location_candidates):
             ```location candidates = {location_candidates}```
             determine which candidate most-likely has the correct location of company in question in the article and note the city and state of the company of the chosen candidate.
             Compare the `company city` and `company state` field results with your result from request 1; determine which `company city` and `company state` are the correct answers and update if necessary. Provide your final full classification result in JSON.
+            If the location candidates list is empty, you may just return the classification results in JSON format.
             """,
         },
     ]
@@ -128,6 +132,7 @@ def update_messages_with_location(article_text, prompt, location_candidates):
             ```location candidates = {location_candidates}```
             determine which candidate most-likely has the correct location of company in question in the article and note the city and state of the company of the chosen candidate.
             Compare the `company city` and `company state` field results with your result from request 1; determine which `company city` and `company state` are the correct answers and update if necessary. Provide your final full classification result in JSON.
+            If the location candidates list is empty, there is no need to compare and you may just return the classification results in JSON format.
             """,
         },
     ]

@@ -1,0 +1,37 @@
+Facebook’s ability to figure out the “people we might know” is sometimes eerie. Many a Facebook user has been creeped out when a one-time Tinder date or an ex-boss from 10 years ago suddenly pops up as a friend recommendation. How does the big blue giant know?
+
+While some of these incredibly accurate friend suggestions are amusing, others are alarming, such as this story from Lisa*, a psychiatrist who is an infrequent Facebook user, mostly signing in to RSVP for events. Last summer, she noticed that the social network had started recommending her patients as friends—and she had no idea why.
+
+“I haven’t shared my email or phone contacts with Facebook,” she told me over the phone.
+
+The next week, things got weirder.
+
+Most of her patients are senior citizens or people with serious health or developmental issues, but she has one outlier: a 30-something snowboarder. Usually, Facebook would recommend he friend people his own age, who snowboard and jump out of planes. But Lisa told me that he had started seeing older and infirm people, such as a 70-year-old gentleman with a walker and someone with cerebral palsy.
+
+“He laughed and said, ‘I don’t know any of these people who showed up on my list— I’m guessing they see you,'” recounted Lisa. “He showed me the list of friend recommendations, and I recognized some of my patients.”
+
+She sat there awkwardly and silently. To let him know that his suspicion was correct would violate her duty to protect her patients’ privacy.
+
+Another one of her female patients had a friend recommendation pop up for a fellow patient she recognized from the office’s elevator. Suddenly, she knew the other patient’s full name along with all their Facebook profile information.
+
+“It’s a massive privacy fail,” said Lisa. “I have patients with HIV, people that have attempted suicide and women in coercive and violent relationships.”
+
+Lisa lives in a relatively small town and was alarmed that Facebook was inadvertently outing people with health and psychiatric issues to her network. She’s a tech-savvy person, familiar with VPNs, Tor and computer security practices recommended by the Electronic Frontier Foundation–but she had no idea what was causing it.
+
+She hadn’t friended any of her patients on Facebook, nor looked up their profiles. She didn’t have a guest wifi network at the office that they were all using. After seeing my report that Facebook was using location from people’s smartphones to make friend recommendations, she was convinced this happened because she had logged into Facebook at the office on her personal computer. She thought that Facebook had figured out that she and her patients were all in the same place repeatedly. However, Facebook says it only briefly used location for friend recommendations in a test and that it was just “at the city-level.”
+
+I tried to help Lisa figure out what could be causing this and reached out to Facebook about the case. Unfortunately, due to health privacy reasons, Lisa was not able to put me in touch with her patients directly.
+
+When Lisa looked at her Facebook profile, she was surprised to see that she had, at some point, given Facebook her cell phone number. It’s a number that her patients could also have in their phones. Many people don’t realize that if they give Facebook access to their phone contacts, it uses that information to make friend recommendations; so if your ex-boss or your one-time Tinder date or your psychiatrist is a contact in your phone, you might start seeing them pop up in the “People You May Know” list.
+
+That’s my guess as to how this happened. All these patients likely have Lisa’s number in their phones, so an algorithm analyzing this network of phone contacts might reasonably assume all these people are connected. A phone number alone can be quite a revealing bit of information, which is why it’s so significant that WhatsApp is about to share its one billion users’ phone numbers with Facebook, where they too could be used to make friend recommendations (unless you opt out).
+
+A Facebook spokesperson could not confirm this theory. He said the company didn’t have enough information to figure out why patients were recommended to one another as friends.
+
+“People You May Know is based on a variety of factors, including mutual friends, work and education information, networks you’re part of, contacts you’ve imported and many other factors,” said the spokesperson by email. “Without additional information from the people involved, we’re not able to explain why one person was recommended as a friend to another.”
+
+This is totally reasonable, but also frustrating in that it leaves this mystery unsolved.
+
+Lisa’s medical community has started recommending that patients concerned about privacy not log into Facebook or other social media accounts at medical offices, or even leave their phones in their cars during appointments. That’s likely good advice, but it doesn’t stop Facebook from mining their phone numbers.
+
+* To protect her patients’ privacy, Lisa asked we not use her real name.

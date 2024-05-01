@@ -156,13 +156,7 @@ This article was first published by The Conversation.. London | Amazon has scrap
 
 The program was created by a team at Amazon's Edinburgh office in 2014 as a way to sort through CVs and pick out the most promising candidates. However, it taught itself to prefer male candidates over female ones, members of the team told Reuters.
 
-They noticed that it was penalising CVs that included the word "women's", such as "women's chess club captain". It also reportedly downgraded graduates of two all-women's colleges.
-
-Amazon CEO Jeff Bezos. Women make up 40 per cent of Amazon's workforce. AP
-
-The problem stemmed from the fact that the system was trained on data submitted by people over a 10-year period, most of which came from men.
-
-The AI was tweaked in an attempt to fix the bias. However, last year, Amazon lost faith in its ability to be neutral and abandoned the project. Amazon recruiters are believed to have used the system to look at the recommendations when hiring, but did not rely on the rankings. Currently, women make up 40 per cent of Amazon's workforce.. Some parts of machine learning are incredibly esoteric and hard to grasp, surprising even seasoned computer science pros; other parts of it are just the same problems that programmers have contended with since the earliest days of computation. The problem Amazon had with its machine-learning-based system for screening job applicants was the latter.
+The Telegraph London. Some parts of machine learning are incredibly esoteric and hard to grasp, surprising even seasoned computer science pros; other parts of it are just the same problems that programmers have contended with since the earliest days of computation. The problem Amazon had with its machine-learning-based system for screening job applicants was the latter.
 
 
 
@@ -366,29 +360,7 @@ Yet some would still argue that AI is the solution to human-generated biases. A 
 
 In any case, many of those working in HR harbouring fears that an AI may replace their job will likely breathe a sigh of relief knowing that the technology still has a long way to go before it totally supplants human workers.
 
-Amazon building in Santa Clara, California. Image: wolterke/Depositphotos. Amazon has been forced to scrap its AI recruitment system after it was discovered to be biased against female applicants.
-
-The AI was developed in 2014 by Amazon as a way of filtering out most candidates to provide the firm with the top five people for a position. In 2015 it was found that it wasn’t rating applicants in a gender-neutral way, which is a big problem and goes against Amazon’s attempts to level the playing field by having an objective AI do the early decision making.
-
-As it turns out, the problem lay in how the system was trained. As with everything in AI, a lack of diversity in the industry led it to be trained almost entirely upon male CVs. This meant that, as it was learning to detect the patterns in recruiting over a 10-year period, it was also learning to devalue the CVs of women.
-
-READ NEXT: What can we do about tech’s diversity problem?
-
-According to Reuters, the system taught itself that male candidates were preferable to women. It downgraded CVs if found words such as “women’s” and penalised graduates of all-female colleges.
-
-While Amazon recoded the software to make the AI neutral to these terms, it realised that this did not guarantee that the technology would find other methods of being discriminatory against women, the report said.
-
-The team, set up in Amazon’s Edinburgh engineering hub, created 500 models concentrated on detailed job functions and locations. The system was also taught to recognise around 50,000 terms that showed up on past candidates’ CVs.
-
-The technology learned to assign little importance to skills common across IT applicants, favouring terms more commonly found on male engineers’ resumes, such as “executed” and “captured,” the report said.
-
-READ NEXT: Do diversity quotas help or hinder women in tech?
-
-The model used in the AI system had other problems that led to unqualified candidates being recommended for a variety of unsuitable jobs.
-
-This eventually led to Amazon pulling the plug on the team as executives “lost hope” over the project, anonymous sources told Amazon. The tool could not be solely relied upon to sort candidates.
-
-The firm now uses a “much-watered down version” of the recruiting engine to carry out “rudimentary chores”.. . . . Amazon recently scrapped an experimental artificial intelligence (AI) recruiting tool that was found to be biased against women. At this point, I hope you might have a few questions, such as: What is an AI recruiting tool and how does it work? Why was it biased against women? I’ll try to answer them for you in the following.
+Amazon building in Santa Clara, California. Image: wolterke/Depositphotos. . . . . Amazon recently scrapped an experimental artificial intelligence (AI) recruiting tool that was found to be biased against women. At this point, I hope you might have a few questions, such as: What is an AI recruiting tool and how does it work? Why was it biased against women? I’ll try to answer them for you in the following.
 
 The AI Recruiting Tool
 
@@ -420,25 +392,25 @@ Let’s not forget that Bill Gates and Mark Zuckerberg were both able to drop ou
 
 Artificial Intelligence is not at fault here. The twisted values of what it means to be successful in the tech industry are the culprit. We need to expose these values and hold companies like Amazon accountable for continuing to abide by them. They must take responsibility for their fundamentally unfair practice of reducing humans to a “bag of words” in a resume, instead of nurturing and advancing their human potential.
 
-Image Credit: pathdoc, “Cartoon robot sitting in line with applicants for a job interview.” Shutterstock. Web. 30 October, 2018.. Amazon's AI gurus scrapped a new machine-learning recruiting engine earlier this month. Why? It transpired that the AI behind it was sexist. What does this mean as we race to produce ever-better artificial intelligence, and how can we understand the risks of machines learning the worst of our own traits?
+Image Credit: pathdoc, “Cartoon robot sitting in line with applicants for a job interview.” Shutterstock. Web. 30 October, 2018.. Amazon’s AI gurus scrapped a new machine-learning recruiting engine earlier this month. Why? It transpired that the AI behind it was sexist. What does this mean as we race to produce ever-better artificial intelligence, and how can we understand the risks of machines learning the worst of our own traits?
 
-Trained on the past decade's worth of data about job applicants, the Amazon model began to penalize CVs that included the word “women.” The incident calls to mind another experiment in AI bias, Microsoft's “Tay” project, which the company pulled from the web after the bot learned racism from users it was chatting with on GroupMe and Kik. In Amazon's case, however, rogue users weren't to blame. The AI was learning from the historical data of tech's largest global company.
+Trained on the past decade’s worth of data about job applicants, the Amazon model began to penalize CVs that included the word “women.” The incident calls to mind another experiment in AI bias, Microsoft’s “Tay” project, which the company pulled from the web after the bot learned racism from users it was chatting with on GroupMe and Kik. In Amazon’s case, however, rogue users weren’t to blame. The AI was learning from the historical data of tech’s largest global company.
 
-An artificial intelligence that dislikes women or people of color sounds like a concept straight out of a Twilight Zone episode. But sadly, it's reality.
+An artificial intelligence that dislikes women or people of color sounds like a concept straight out of a Twilight Zone episode. But sadly, it’s reality.
 
-How did we get to this situation? And is it possible to build an AI that won't reflect the bone-deep prejudices that are – knowingly or unknowingly – built into our social systems? To answer that second question, it's crucial to address the first one.
+How did we get to this situation? And is it possible to build an AI that won’t reflect the bone-deep prejudices that are – knowingly or unknowingly – built into our social systems? To answer that second question, it’s crucial to address the first one.
 
 How a Sexist AI Happens
 
-Okay, the first point to make is that sexist or racist AI doesn't emerge from nowhere. Instead, it reflects the prejudices already deeply held within both society at large, and the tech industry specifically.
+Okay, the first point to make is that sexist or racist AI doesn’t emerge from nowhere. Instead, it reflects the prejudices already deeply held within both society at large, and the tech industry specifically.
 
-Don't believe us about sexism in tech? One study from earlier this year found that 57 out of 58 major U.S. cites paid women in tech less than men. Last year, two female tech cofounders demonstrated tech sexism at work by proving they could make better connections once they invented a fictional male cofounder.
+Don’t believe us about sexism in tech? One study from earlier this year found that 57 out of 58 major U.S. cites paid women in tech less than men. Last year, two female tech cofounders demonstrated tech sexism at work by proving they could make better connections once they invented a fictional male cofounder.
 
-And as long as tech companies continue overlooking sexism, they'll keep perpetuating a system that prioritizes male applicants and promotes male staff.
+And as long as tech companies continue overlooking sexism, they’ll keep perpetuating a system that prioritizes male applicants and promotes male staff.
 
 Sexist AIs Start With a Blinkered Industry…
 
-The tech world loves rapid growth above all else. But this year, it's finally begun to come to terms with the impact that its culture can make, and a sense of responsibility is finally taking root.
+The tech world loves rapid growth above all else. But this year, it’s finally begun to come to terms with the impact that its culture can make, and a sense of responsibility is finally taking root.
 
 Few sum it up better than former Reddit product head Dan McComas, whose recent New York Magazine interview (titled ‘I Fundamentally Believe That My Time at Reddit Made the World a Worse Place’) includes this insight:
 
@@ -446,7 +418,7 @@ Few sum it up better than former Reddit product head Dan McComas, whose recent N
 
 …And Machine Learning Perpetuates Them
 
-It's this attitude that's at the core of prejudiced AI, which perpetuates the system just as clearly, if a little more mechanically. As Lin Classon, director of public cloud strategy at Ensono, puts it, the process of machine learning is the issue.
+It’s this attitude that’s at the core of prejudiced AI, which perpetuates the system just as clearly, if a little more mechanically. As Lin Classon, director of public cloud strategy at Ensono, puts it, the process of machine learning is the issue.
 
 “Currently, the most common application of AI is based on feeding the machine lots of data and teaching it to recognize a pattern. Because of this, the results are as good as the data used to train the algorithms,” she tells me.
 
@@ -456,7 +428,7 @@ Ben Dolmar, director of software development at the Nerdery, backs her up.
 
 Machine learning begins by providing a model with a core data set. The model trains on this before producing its own outputs. Any historical issues in the core data are then reproduced. Translation? Sexist data turns into sexist outputs.
 
-“It's not unlike painting with watercolors, where the brush has to be clean or it taints the colors,” says Classon. And, in modern society, sexism turns up everywhere, Classon says, whether it’s in “recruiting, loan applications or stock photos.” Or even in the emptiness of women's restrooms at major tech conferences, as Classon has pointed out to Tech.Co before.
+“It’s not unlike painting with watercolors, where the brush has to be clean or it taints the colors,” says Classon. And, in modern society, sexism turns up everywhere, Classon says, whether it’s in “recruiting, loan applications or stock photos.” Or even in the emptiness of women’s restrooms at major tech conferences, as Classon has pointed out to Tech.Co before.
 
 How to Combat AI Prejudice
 
@@ -476,33 +448,33 @@ Routine Audits
 
 “An auditing approach can help mitigate the effect of inherent and unconscious biases. The machine learning and AI communities have an obligation to contribute to the larger data science,” Classon says, pointing me to one open source tool for bias testing that already exists.
 
-It's not just a tech problem: Innovative AI companies are responsible for auditing their work and developing standards that can improve the entire industry. One example is Microsoft's multidisciplinary FATE group. The accronym stands for “fairness, accountability, transparency and ethics,” and it's examining how an ethical AI could work.
+It’s not just a tech problem: Innovative AI companies are responsible for auditing their work and developing standards that can improve the entire industry. One example is Microsoft’s multidisciplinary FATE group. The accronym stands for “fairness, accountability, transparency and ethics,” and it’s examining how an ethical AI could work.
 
 A Feedback Loop
 
-Instituting audits and transparency is a step, but we'll need to keep taking more and more steps to reduce a problem that will likely never be fully solved.
+Instituting audits and transparency is a step, but we’ll need to keep taking more and more steps to reduce a problem that will likely never be fully solved.
 
 “The biggest way to ensure a fair model would be to require a large number of users providing feedback from diverse backgrounds and perspectives,” Pamela Wickersham, senior global partner solutions manager at Docusign + SpringCM, tells me. “It’s unfortunately never going to be perfect, since user input and decision making will always be required. All models need a constant feedback loop, so that if sexism or prejudiced data is found to be prevalent, the model can be re-trained.”
 
 Track Down the Subtleties
 
-So, find the issues and you'll solve the problem, right? Not so fast.
+So, find the issues and you’ll solve the problem, right? Not so fast.
 
-Let's go back to our most recent example of AI bias. Amazon was likely aware of the potential sexism problem and still couldn't correct it.
+Let’s go back to our most recent example of AI bias. Amazon was likely aware of the potential sexism problem and still couldn’t correct it.
 
 “It appears like Amazon actively tried to address the bias in the dataset by removing features that would identify women. So, in theory, the output would be gender-neutral and select the best candidates,” Ben says. “However, machine learning models can key in on subtle differences, and what ended up happening is that the model basically found other, subtler ways to identify women and the bias returned in the output.”
 
-Even “highly reliable algorithms,” Ben notes, can turn up the wrong answer. Picture a model that's 99 percent accurate reviewing one million records. It'll get 10,000 incorrect results, and it won't be clear which ones those are.
+Even “highly reliable algorithms,” Ben notes, can turn up the wrong answer. Picture a model that’s 99 percent accurate reviewing one million records. It’ll get 10,000 incorrect results, and it won’t be clear which ones those are.
 
-One method to address bias is to adjust a model's goals rather than the data. Data scientists and platform vendors, Ben says, are actively working to fight fire with fire. One demo from a major machine learning vendor at the Gartner ITXPO earlier this month debuted a model designed to monitor other machine-learning models, identifying their biases.
+One method to address bias is to adjust a model’s goals rather than the data. Data scientists and platform vendors, Ben says, are actively working to fight fire with fire. One demo from a major machine learning vendor at the Gartner ITXPO earlier this month debuted a model designed to monitor other machine-learning models, identifying their biases.
 
 “In a bit of irony,” Ben says, “the platform uses its own machine learning to generate the changes for the biased machine-learning models. Tools like this platform are what will ultimately help us address the bias that shows up in data when we accurately represent our current society and history. The problems here are hard, but they are tractable.”
 
 Where Next For AI?
 
-The bottom line? AI's reflection of our biases can be addressed, but only through a slow process that emphasises feedback, audits, fact-checks, and transparency.
+The bottom line? AI’s reflection of our biases can be addressed, but only through a slow process that emphasises feedback, audits, fact-checks, and transparency.
 
-It's not unlike how prejudices must be addressed across the rest of society, too.. Machine learning, one of the core techniques in the field of artificial intelligence, involves teaching automated systems to devise new ways of doing things, by feeding them reams of data about the subject at hand. One of the big fears here is that biases in that data will simply be reinforced in the AI systems—and Amazon seems to have just provided an excellent example of that phenomenon.
+It’s not unlike how prejudices must be addressed across the rest of society, too.. Machine learning, one of the core techniques in the field of artificial intelligence, involves teaching automated systems to devise new ways of doing things, by feeding them reams of data about the subject at hand. One of the big fears here is that biases in that data will simply be reinforced in the AI systems—and Amazon seems to have just provided an excellent example of that phenomenon.
 
 According to a new Reuters report, Amazon spent years working on a system for automating the recruitment process. The idea was for this AI-powered system to be able to look at a collection of resumes and name the top candidates. To achieve this, Amazon fed the system a decade’s worth of resumes from people applying for jobs at Amazon.
 
@@ -643,6 +615,8 @@ These patterns began to appear because the engineers trained their algorithm wit
 Amazon emphasized in an email to Mashable that it scrapped the program because it was ultimately not returning relevant candidates; it dealt with the sexism problem early on, but the AI as a whole just didn't work that well.
 
 However, the creation of hiring algorithms themselves — not just at Amazon, but across many companies — still speaks to another sort of gender bias: the devaluing of female-dominated Human Resources roles and skills.
+
+Mashable Light Speed Want more out-of-this world tech, space and science stories? Sign up for Mashable's weekly Light Speed newsletter. Loading... Sign Me Up By signing up you agree to our Terms of Use and Privacy Policy Thanks for signing up!
 
 According to the U.S. Department of Labor (via the workforce analytics provider company Visier), women occupy nearly three fourths of H.R. managerial roles. This is great news for overall female representation in the workplace. But the disparity exists thanks to another sort of gender bias.
 

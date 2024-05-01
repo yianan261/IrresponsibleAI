@@ -1,0 +1,317 @@
+The Ever AI website makes no mention of “best moments” snapshots. Instead, in news releases, it describes how the company possesses an “ever-expanding private global dataset of 13 billion photos and videos” from what the company said are tens of millions of users in 95 countries. Ever AI uses the photos to offer “best-in-class face recognition technology,” the company says, which can estimate emotion, ethnicity, gender and age. Aley confirmed in an interview that those photos come from the Ever app’s users.
+
+Ever AI promises prospective military clients that it can “enhance surveillance capabilities” and “identify and act on threats.” It offers law enforcement the ability to identify faces in body-cam recordings or live video feeds.
+
+So far, Ever AI has secured contracts only with private companies, including a deal announced last year with SoftBank Robotics, makers of the “Pepper” robot, a customer service robot designed to be used in hospitality and retail settings. Ever AI has not signed up any law enforcement, military, or national security agencies.
+
+NBC News spoke to seven Ever users, and most said they were unaware their photos were being used to develop face-recognition technology.
+
+Sarah Puchinsky-Roxey, 22, from Lemoore, California, used an expletive when told by phone of the company’s facial recognition business. “I was not aware of any facial recognition in the Ever app,” Roxey, a photographer, later emailed, noting that she had used the app for several years. “Which is kind of creepy since I have pictures of both my children on there as well as friends that have never consented to this type of thing.”
+
+She said that she found the company’s practices to be “invasive” and has now deleted the app.
+
+A NEW BUSINESS MODEL
+
+Aley, who joined Ever in 2016, said in a phone interview that the company decided to explore facial recognition about two-and-a-half years ago when he and other company leaders realized that a free photo app with some small paid premium features “wasn’t going to be a venture-scale business.”
+
+Aley said that having such a large “corpus” of over 13 billion images was incredibly valuable in developing a facial recognition system.
+
+“If you are able to feed a system many millions of faces, that system is going to end up being better and more accurate on the other side of that,” he said.
+
+An industry benchmarking test found last year that Ever AI’s facial recognition technology is 99.85 percent accurate at face matching.
+
+When asked if the company could do a better job of explaining to Ever users that the app’s technology powers Ever AI, Aley said no.
+
+“I think our privacy policy and terms of service are very clear and well articulated,” he added. “They don’t use any legalese.”
+
+After NBC News asked the company in April if users had consented to their photos being used to train facial recognition software that could be sold to the police and the military, the company posted an updated privacy policy on the app’s website.
+
+Previously, the privacy policy explained that facial recognition technology was used to help “organize your files and enable you to share them with the right people.” The app has an opt-in face-tagging feature much like Facebook that allows users to search for specific friends or family members who use the app.
+
+In the previous privacy policy, the only indication that the photos would be used for another purpose was a single line: “Your files may be used to help improve and train our products and these technologies.”
+
+On April 15, one week after NBC News first contacted Ever, the company added a sentence to explain what it meant by “our products.”
+
+“Some of these technologies may be used in our separate products and services for enterprise customers, including our enterprise face recognition offerings, but your files and personal information will not be,” the policy now states.
+
+In an email, Aley explained why the change was made.
+
+“While our old policy we feel covered us and our consumers well, several recent stories (this is not a new story), and not NBC's contact, caused us to think further clarification would be helpful,” he wrote. “We will continue to make appropriate changes as this arena evolves and as we receive feedback, just as we have always done.”
+
+Ever AI has recently been mentioned in Fortune and Inc.
+
+Jason Schultz, a law professor at New York University, said Ever AI should do more to inform Ever app’s users about how their photos are being used. Burying such language in a 2,500-word privacy policy that most users do not read is insufficient, he said.
+
+“They are commercially exploiting the likeness of people in the photos to train a product that is sold to the military and law enforcement,” he said. “The idea that users have given real consent of any kind is laughable.”
+
+‘A HUGE INVASION OF PRIVACY’
+
+Mariah Hall, 19, a Millsaps College sophomore in Jackson, Mississippi, has been using Ever for five years to store her photos and free up space on her phone.
+
+When she learned from NBC News that her photos were being used to train facial recognition technology, she was shocked.
+
+“The app developers were not clear about their intentions nor their use of my photos. It’s saddening because I believe it’s a huge invasion of privacy,” she wrote in an email.
+
+“If a company uses their consumers’ information to partner with anyone — the police, the FBI — it should be one of the first things that is told to consumers before they download the app.”
+
+Evie Mae, 18, from the United Kingdom, agreed. She said via Twitter direct message that the idea of her face being used to develop a commercial facial recognition product made her “uncomfortable” and that she would “definitely be more careful” about where she uploads her photos in the future.
+
+When NBC News told Aley that some of Ever’s customers did not understand that their photos were being used to develop facial recognition technology that eventually could wind up in the government’s hands, he said he had never heard any complaints.
+
+Ever's new facial recognition pop-up. Ever Album
+
+“We’re always open to feedback and if anybody does have a problem with it they can deal with it by one of two things: They can not be an Ever Album user anymore and they can also say that they want to be an Ever Album user but they would not like to have their photos used to train models. Those options are available to consumers today and always have been.”
+
+After further correspondence with NBC News, Aley wrote on April 30 that the company had added a new pop-up feature to the app that gives users an easy way of opting out of having their images used in the app’s facial recognition tool. The pop-up does not mention that the facial recognition technology is being used beyond the app and marketed to private companies and law enforcement.
+
+“That in-product feature has previously been available to users in certain geographic regions,” Aley wrote, “and we have now made it available to all Ever users globally, whether it is legally required or not.”
+
+CORRECTION (May 10, 2019, 5:26 p.m. ET): An earlier version of this article misstated the timing of a $16 million investment in Ever. That investment was made in 2016, before Ever’s shift to a facial recognition business, not in 2017. A reference to the investment suggesting that the shift to facial recognition benefited the company financially has been removed from the article.. Cloud photo storage app Ever is shutting down, citing increased competition with the default services offered by Apple and Google as the cause. The company, however, had other issues beyond the plight of a small startup trying to compete with tech giants. Last year, NBC News reported the company had been using its customers’ photos to develop facial recognition technology that it turned around and offered for sale by way of the Ever API to business clients, including law enforcement and the military.
+
+The company’s real business model wasn’t properly disclosed to consumers who visited the Ever website or app, the report said.
+
+Ever had argued at the time it wasn’t sharing people’s private photos or any identifying information with its facial recognition customers. Instead, it had used the billions of images its customers had uploaded to build an algorithm that can learn from matches and is now able to train itself on other data.
+
+The American Civil Liberties Union (ACLU) of Northern California said the business was an “egregious violation of people’s privacy,” as few knew their family photos were being used to build surveillance technology.
+
+While other companies, including Amazon and Microsoft, have built out facial recognition technology products of their own in recent years, they do so using public data sets. Ever had used its own users’ photos and without informed consent. (A line was added to Ever’s privacy policy only after NBC News had begun to investigate and reached out to the company, the report said.)
+
+After the news report came out, Ever rebranded its Ever AI as Paravision to distance itself from the controversy.
+
+As of last month, Paravision was continuing to tout its product. In a July press release, the company announced it had achieved top-two accuracy globally on the National Institute of Standards and Technology (NIST) Face Recognition Vendor Test (FRVT) July 27 report focused on face recognition with masks. The company also sells a suite of activity recognition tools in addition to its face-detection solutions. It appears this business lives on, despite the consumer app closure.
+
+Unfortunately, 2019 was not the first time Ever had made headlines for its poor business practices.
+
+Amid the increased pressure from Google and Apple’s photo technology advances, Ever back in 2016 began to spam its users’ contacts over SMS with invites to check out its app. SMS invite spam had been a popular, if generally disliked, growth hack technique for social apps at the time. In Ever’s case, it helped the app climb the iOS charts ahead of its Android release.
+
+It’s also notable that Ever is attempting to use the current focus on tech company monopolies as a way to redirect blame for the Ever app shutdown.
+
+Today, Apple, Google and other tech giants are under antitrust investigations in the U.S., as the government works to determine if these companies have used their platform status to damage or even eliminate their competition.
+
+Ever specifically calls out Apple and Google in its announcement, saying that:
+
+The service has been around for over seven years, but with increasing competition over the last several years from Apple and Google’s photo storage products (excellent products in their own right, and worth checking out as an alternative), the Ever service is no longer sustainable.
+
+The implication here is that Ever didn’t have a chance when faced with such steep competition, and now its business is over.
+
+The announcement fails to mention how Ever’s own behavior may have played a role in eroding its users’ trust over the years or how it has later found success as a B2B technology solution provider.
+
+However, the company’s shutdown FAQ makes reference to its facial recognition technology. Here, the company explains that once Everalbum shuts down the Ever service, users’ photos and videos will “never be used for any purpose, including improving computer vision capabilities such as face recognition.” It says also it will delete user data, except in cases where it’s required by law to keep it, and confirms users’ actual photos were never sold to third parties.
+
+That’s too little, too late for Ever’s customers, who would never had agreed to allowing their photos to be used to build facial recognition technology in the first place. Now that the technology is built, it seems Ever has no further need for the initial training data collected over the years.
+
+The Ever service shuts down at 11:59 p.m PDT on August 31, 2020. Customers will be able to export data and delete their account before then, the company says.
+
+Paravision, as the remaining part of Ever’s company is called, has raised $29 million in venture funding, according to data from Crunchbase. (This includes funds raised as Everalbum.) Investors in the company to date include Icon Ventures, Felicis Ventures, Khosla Ventures, Trinity Capital Investment, UpHonest Capital, Atomic and several others. Typically, Atomic functions as both co-founders and investors.. Students at UCLA forced the university to back down from plans to install facial recognition systems on campus buildings. But the technology is actively used by private companies, sometimes without people knowing.
+
+The powers that be at UCLA thought it was a good idea at the time — using state-of-the-art technology to scan students’ faces for gaining access to campus buildings. Students thought otherwise.
+
+“The implementation of facial recognition technology would present a major breach of students’ privacy and make students feel unsafe on a campus they are supposed to call home,” the Daily Bruin said in an editorial last year.
+
+UCLA dropped the facial recognition plan a few weeks later. “We have determined that the potential benefits are limited and are vastly outweighed by the concerns of our campus community,” officials declared.
+
+Advertisement
+
+I recalled that fracas after the Federal Trade Commission announced the other day that it had reached a settlement with a San Francisco company called Everalbum, which offered online storage of photos and videos.
+
+The company, via its Ever app, scanned millions of facial images without customers’ knowledge and used the data to develop facial recognition software for corporate clients, the FTC said.
+
+Everalbum also promised users it would delete their photos and videos from its cloud servers if they closed their account. However, the company “retained them indefinitely,” the agency said.
+
+“Using facial recognition, companies can turn photos of your loved ones into sensitive biometric data,” said Andrew Smith, director of the FTC’s Bureau of Consumer Protection.
+
+“Ensuring that companies keep their promises to customers about how they use and handle biometric data will continue to be a high priority for the FTC,” he said.
+
+Be that as it may, there’s a lot of money to be made with such cutting-edge technology. Experts tell me consumers need to be vigilant about privacy violations as some of the biggest names in the tech world — including Google, Amazon, Facebook and Apple — pursue advances in the field.
+
+Advertisement
+
+“Since there aren’t federal laws on facial recognition, it seems pretty likely that there are other companies using this invasive technology without users’ knowledge or consent,” said Caitlin Seeley George, campaign director for the digital rights group Fight for the Future.
+
+She called Everalbum’s alleged practices “yet another example of how corporations are abusing facial recognition, posing as much harm to people’s privacy as government and law enforcement use.”
+
+Facial recognition technology took center stage after the Jan. 6 riot at the Capitol. Law enforcement agencies nationwide have been using facial recognition systems to identify participants from photos and videos posted by the rioters.
+
+That’s creepy, to be sure, but it strikes me as a legitimate use of such technology. Every rioter in the building was breaking the law — and many were foolishly bragging about it on social media. These people deserve their comeuppance.
+
+In the absence of clear rules, however, some of the big dogs in the tech world have adopted go-slow approaches to facial recognition, at least as far as law enforcement is concerned.
+
+Microsoft said last year that it wouldn’t sell its facial recognition software to police departments until the federal government regulates such systems. Amazon announced a one-year moratorium on allowing police forces to use its facial recognition technology.
+
+Advertisement
+
+But law enforcement is just one part of the equation. There’s also the growing trend of businesses using facial recognition to identify consumers.
+
+“Consumers need to know that while facial recognition technology seems benign, it is slowly normalizing surveillance and eroding our privacy,” said Shobita Parthasarathy, a professor of public policy at the University of Michigan.
+
+Not least among the potential issues, researchers at MIT and the University of Toronto found that Amazon’s facial recognition tends to misidentify women with darker skin, illustrating a troubling racial and gender bias.
+
+Then there’s the matter of whether people are being identified and sorted by businesses without their permission.
+
+Facebook agreed to pay $550 million last year to settle a class-action lawsuit alleging the company violated an Illinois privacy law with its facial recognition activities.
+
+The Everalbum case illustrates how facial recognition is spreading like poison ivy in the business world, with at least some companies quietly exploiting the technology for questionable purposes.
+
+Advertisement
+
+“Between September 2017 and August 2019, Everalbum combined millions of facial images that it extracted from Ever users’ photos with facial images that Everalbum obtained from publicly available datasets,” the FTC said in its complaint.
+
+This vast store of images was then used by the company to develop sweeping facial recognition capabilities that could be sold to other companies, it said.
+
+Everalbum shut down its Ever app last August and rebranded the company as Paravision AI. The company’s website says it continues to sell “a wide range of face recognition applications.”
+
+Paravision “has no plans to run a consumer business moving forward,” a company spokesman told me, asking that his name be withheld even though he’s, you know, a spokesman.
+
+He said Paravision’s current facial recognition technology “does not use any Ever users’ data.”
+
+Emily Hand, a professor of computer science and engineering at the University of Nevada, Reno, said facial recognition data “is a highly sought-after resource” for many businesses. It’s one more way of knowing who you are and how you behave.
+
+Advertisement
+
+Hand said that “for every company that gets in trouble, there’s 10 or more that didn’t get caught.”
+
+Seeley George at Fight for the Future said, “Congress needs to act now to ban facial recognition, and should absolutely stay away from industry-friendly regulations that could speed up adoption of the technology and make it even more pervasive.”
+
+She’s not alone in that sentiment. Amnesty International similarly called this week for a global ban on facial recognition systems.
+
+I doubt that will happen. With the biggest names in Silicon Valley heavily invested in this technology, it’s not going away. What’s needed are clear rules for how such data can be collected and used, especially by the private sector.
+
+Any company employing facial recognition technology needs to prominently disclose its practices and give consumers the ability to easily opt out. Better still, companies should have to ask our permission before scanning and storing our faces.
+
+“Today’s facial recognition technology is fundamentally flawed and reinforces harmful biases,” Rohit Chopra, then an FTC commissioner, said after the Everalbum settlement was announced.
+
+“With the tsunami of data being collected on individuals, we need all hands on deck to keep these companies in check,” he said.
+
+Advertisement
+
+Chopra has since been appointed by President Biden to serve as director of the Consumer Financial Protection Bureau.
+
+We can all recognize that as a positive step.. A California-based developer of a photo app has settled Federal Trade Commission allegations that it deceived consumers about its use of facial recognition technology and its retention of the photos and videos of users who deactivated their accounts.
+
+As part of the proposed settlement, Everalbum, Inc. must obtain consumers’ express consent before using facial recognition technology on their photos and videos. The proposed order also requires the company to delete models and algorithms it developed by using the photos and videos uploaded by its users.
+
+“Using facial recognition, companies can turn photos of your loved ones into sensitive biometric data,” Andrew Smith, Director of the FTC’s Bureau of Consumer Protection, said. “Ensuring that companies keep their promises to customers about how they use and handle biometric data will continue to be a high priority for the FTC.”
+
+Everalbum offered an app called “Ever” that allowed users to upload photos and videos from their mobile devices, computers, or social media accounts to be stored and organized using the company’s cloud-based storage service. In its complaint, the FTC alleges that, in February 2017, Everalbum launched a new feature in the Ever app, called “Friends,” that used facial recognition technology to group users’ photos by the faces of the people who appear in them and allowed users to “tag” people by name. Everalbum allegedly enabled facial recognition by default for all mobile app users when it launched the Friends feature.
+
+Between July 2018 and April 2019, Everalbum allegedly represented that it would not apply facial recognition technology to users’ content unless users affirmatively chose to activate the feature. Although, beginning in May 2018, the company allowed some Ever app users—those located in Illinois, Texas, Washington and the European Union—to choose whether to turn on the face recognition feature, it was automatically active for all other users until April 2019 and could not be turned off.
+
+The FTC’s complaint alleges that Everalbum’s application of facial recognition to Ever app users’ photos was not limited to providing the Friends feature. Between September 2017 and August 2019, Everalbum combined millions of facial images that it extracted from Ever users’ photos with facial images that Everalbum obtained from publicly available datasets to create four datasets for use in the development of its facial recognition technology. The complaint alleges that Everalbum used the facial recognition technology resulting from one of those datasets to provide the Ever app’s Friends feature and also to develop the facial recognition services sold to its enterprise customers; however, the company did not share images from Ever users’ photos or their photos, videos, or personal information with those customers.
+
+According to the complaint, Everalbum also promised users that the company would delete the photos and videos of Ever users who deactivated their accounts. The FTC alleges, however, that until at least October 2019, Everalbum failed to delete the photos or videos of any users who had deactivated their accounts and instead retained them indefinitely.
+
+The proposed settlement requires Everalbum to delete:
+
+the photos and videos of Ever app users who deactivated their accounts;
+
+all face embeddings—data reflecting facial features that can be used for facial recognition purposes—the company derived from the photos of Ever users who did not give their express consent to their use; and
+
+any facial recognition models or algorithms developed with Ever users’ photos or videos.
+
+In addition, the proposed settlement prohibits Everalbum from misrepresenting how it collects, uses, discloses, maintains, or deletes personal information, including face embeddings created with the use of facial recognition technology, as well as the extent to which it protects the privacy and security of personal information it collects. Under the proposed settlement, if the company markets software to consumers for personal use, it must obtain a user’s express consent before using biometric information it collected from the user through that software to create face embeddings or develop facial recognition technology.
+
+The Commission voted 5-0 to issue the proposed administrative complaint and to accept the consent agreement with the company. Commissioner Rohit Chopra issued a separate statement.
+
+The FTC published a description of the consent agreement package in the Federal Register. The agreement will be subject to public comment until February 24, 2021 after which the Commission will decide whether to make the proposed consent order final. Instructions for filing comments will appear in the published notice. Once processed, comments will be posted on Regulations.gov.
+
+NOTE: The Commission issues an administrative complaint when it has “reason to believe” that the law has been or is being violated, and it appears to the Commission that a proceeding is in the public interest. When the Commission issues a consent order on a final basis, it carries the force of law with respect to future actions. Each violation of such an order may result in a civil penalty of up to $43,280.. A California-based facial recognition biz has been directed by the US Federal Trade Commission to delete the AI models and algorithms that it developed by harvesting people's photos and videos without permission, a remedy that suggests privacy violators may no longer be allowed to benefit from ill-gotten data.
+
+Everalbum, a consumer photo app maker that shut down on August 31, 2020, and has since relaunched as a facial recognition provider under the name Paravision, on Monday reached a settlement with the FTC over the 2017 introduction of a feature called "Friends" in its discontinued Ever app. The watchdog agency claims the app deployed facial recognition code to organize users' photos by default, without permission.
+
+According to the FTC, between July 2018 and April 2019, Everalbum told people that it would not employ facial recognition on users' content without consent. The company allegedly let users in certain regions – Illinois, Texas, Washington, and the EU – make that choice, but automatically activated the feature for those located elsewhere.
+
+The agency further claims that Everalbum's use of facial recognition went beyond supporting the Friends feature. The company is alleged to have combined users' faces with facial images from other information to create four datasets that informed its facial recognition technology, which became the basis of a face detection service for enterprise customers.
+
+The company also is said to have told consumers using its app that it would delete their data if they deactivated their accounts, but didn't do so until at least October 2019.
+
+There's nothing AI and automation can't solve – except bias and inequality in the workplace, says report READ MORE
+
+The FTC, in announcing the case and its settlement, said Everalbum/Paravision will be required to delete: photos and videos belonging to Ever app users who deactivated their accounts; all face embeddings – vector representations of facial features – from users who did not grant consent; and "any facial recognition models or algorithms developed with Ever users’ photos or videos."
+
+The FTC has not done this in past privacy cases with technology companies. According to FTC Commissioner Rohit Chopra, when Google and YouTube agreed to pay $170m over allegations the companies had collected data from children without parental consent, the FTC settlement "allowed Google and YouTube to profit from its conduct, even after paying a civil penalty."
+
+Likewise, when the FTC voted to approve a settlement with Facebook over claims it had violated its 2012 privacy settlement agreement, he said, Facebook did not have to give up any of its facial recognition technology or data.
+
+"Commissioners have previously voted to allow data protection law violators to retain algorithms and technologies that derive much of their value from ill-gotten data," said Chopra in a statement [PDF]. "This is an important course correction."
+
+In response to an inquiry from The Register, an FTC spokesperson said while the agency has previously issued orders that require businesses to delete data, "This is the FTC’s first case that focuses exclusively on facial recognition technology, and the particular data deletion requirements are tailored to the factual allegations in the case."
+
+They told consumers they'd do one thing with their photography and turned around and used it for a facial surveillance technology
+
+In a phone interview with The Register, Adam Schwartz, senior staff attorney for the Electronic Frontier Foundation, said the EFF is generally supportive of this FTC remedy.
+
+"We think that what the company did here was very bad," he said. "They told consumers they'd do one thing with their photography and turned around and used it for a facial surveillance technology," he said.
+
+"Part of the way the FTC should be solving these problems is by making the wrongdoing company disgorge all the benefit they obtained. If they build a facial recognition algorithm illegally, then the remedy is to delete the system."
+
+A spokesperson for Paravision AI told The Register in an email that the FTC Consent Order reflects changes already implemented by the company.
+
+"The Ever service was closed in August 2020 and the company has no plans to run a consumer business moving forward," the spokesperson said. "In September 2020, Paravision released its latest-generation face recognition model which does not use any Ever users’ data. The consent order mirrors the course we had already set and reinforces a mindful tone as we look ahead, and we will of course fully comply with it." ®. The Ever AI website makes no mention of “best moments” snapshots. Instead, in news releases, it describes how the company possesses an “ever-expanding private global dataset of 13 billion photos and videos” from what the company said are tens of millions of users in 95 countries. Ever AI uses the photos to offer “best-in-class face recognition technology,” the company says, which can estimate emotion, ethnicity, gender and age. Aley confirmed in an interview that those photos come from the Ever app’s users.
+
+Ever AI promises prospective military clients that it can “enhance surveillance capabilities” and “identify and act on threats.” It offers law enforcement the ability to identify faces in body-cam recordings or live video feeds.
+
+So far, Ever AI has secured contracts only with private companies, including a deal announced last year with SoftBank Robotics, makers of the “Pepper” robot, a customer service robot designed to be used in hospitality and retail settings. Ever AI has not signed up any law enforcement, military, or national security agencies.
+
+NBC News spoke to seven Ever users, and most said they were unaware their photos were being used to develop face-recognition technology.
+
+Sarah Puchinsky-Roxey, 22, from Lemoore, California, used an expletive when told by phone of the company’s facial recognition business. “I was not aware of any facial recognition in the Ever app,” Roxey, a photographer, later emailed, noting that she had used the app for several years. “Which is kind of creepy since I have pictures of both my children on there as well as friends that have never consented to this type of thing.”
+
+She said that she found the company’s practices to be “invasive” and has now deleted the app.
+
+A NEW BUSINESS MODEL
+
+Aley, who joined Ever in 2016, said in a phone interview that the company decided to explore facial recognition about two-and-a-half years ago when he and other company leaders realized that a free photo app with some small paid premium features “wasn’t going to be a venture-scale business.”
+
+Aley said that having such a large “corpus” of over 13 billion images was incredibly valuable in developing a facial recognition system.
+
+“If you are able to feed a system many millions of faces, that system is going to end up being better and more accurate on the other side of that,” he said.
+
+An industry benchmarking test found last year that Ever AI’s facial recognition technology is 99.85 percent accurate at face matching.
+
+When asked if the company could do a better job of explaining to Ever users that the app’s technology powers Ever AI, Aley said no.
+
+“I think our privacy policy and terms of service are very clear and well articulated,” he added. “They don’t use any legalese.”
+
+After NBC News asked the company in April if users had consented to their photos being used to train facial recognition software that could be sold to the police and the military, the company posted an updated privacy policy on the app’s website.
+
+Previously, the privacy policy explained that facial recognition technology was used to help “organize your files and enable you to share them with the right people.” The app has an opt-in face-tagging feature much like Facebook that allows users to search for specific friends or family members who use the app.
+
+In the previous privacy policy, the only indication that the photos would be used for another purpose was a single line: “Your files may be used to help improve and train our products and these technologies.”
+
+On April 15, one week after NBC News first contacted Ever, the company added a sentence to explain what it meant by “our products.”
+
+“Some of these technologies may be used in our separate products and services for enterprise customers, including our enterprise face recognition offerings, but your files and personal information will not be,” the policy now states.
+
+In an email, Aley explained why the change was made.
+
+“While our old policy we feel covered us and our consumers well, several recent stories (this is not a new story), and not NBC's contact, caused us to think further clarification would be helpful,” he wrote. “We will continue to make appropriate changes as this arena evolves and as we receive feedback, just as we have always done.”
+
+Ever AI has recently been mentioned in Fortune and Inc.
+
+Jason Schultz, a law professor at New York University, said Ever AI should do more to inform Ever app’s users about how their photos are being used. Burying such language in a 2,500-word privacy policy that most users do not read is insufficient, he said.
+
+“They are commercially exploiting the likeness of people in the photos to train a product that is sold to the military and law enforcement,” he said. “The idea that users have given real consent of any kind is laughable.”
+
+‘A HUGE INVASION OF PRIVACY’
+
+Mariah Hall, 19, a Millsaps College sophomore in Jackson, Mississippi, has been using Ever for five years to store her photos and free up space on her phone.
+
+When she learned from NBC News that her photos were being used to train facial recognition technology, she was shocked.
+
+“The app developers were not clear about their intentions nor their use of my photos. It’s saddening because I believe it’s a huge invasion of privacy,” she wrote in an email.
+
+“If a company uses their consumers’ information to partner with anyone — the police, the FBI — it should be one of the first things that is told to consumers before they download the app.”
+
+Evie Mae, 18, from the United Kingdom, agreed. She said via Twitter direct message that the idea of her face being used to develop a commercial facial recognition product made her “uncomfortable” and that she would “definitely be more careful” about where she uploads her photos in the future.
+
+When NBC News told Aley that some of Ever’s customers did not understand that their photos were being used to develop facial recognition technology that eventually could wind up in the government’s hands, he said he had never heard any complaints.
+
+Ever's new facial recognition pop-up. Ever Album
+
+“We’re always open to feedback and if anybody does have a problem with it they can deal with it by one of two things: They can not be an Ever Album user anymore and they can also say that they want to be an Ever Album user but they would not like to have their photos used to train models. Those options are available to consumers today and always have been.”
+
+After further correspondence with NBC News, Aley wrote on April 30 that the company had added a new pop-up feature to the app that gives users an easy way of opting out of having their images used in the app’s facial recognition tool. The pop-up does not mention that the facial recognition technology is being used beyond the app and marketed to private companies and law enforcement.
+
+“That in-product feature has previously been available to users in certain geographic regions,” Aley wrote, “and we have now made it available to all Ever users globally, whether it is legally required or not.”
+
+CORRECTION (May 10, 2019, 5:26 p.m. ET): An earlier version of this article misstated the timing of a $16 million investment in Ever. That investment was made in 2016, before Ever’s shift to a facial recognition business, not in 2017. A reference to the investment suggesting that the shift to facial recognition benefited the company financially has been removed from the article.. 

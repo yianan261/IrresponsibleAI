@@ -1,0 +1,53 @@
+An algorithm used by the popular European food delivery app Deliveroo to rank and offer shifts to riders is discriminatory, an Italian court ruled late last week, in what some experts are calling a historic decision for the gig economy. The case was brought by a group of Deliveroo riders backed by An algorithm used by the popular European food delivery app Deliveroo to rank and offer shifts to riders is discriminatory, an Italian court ruled late last week, in what some experts are calling a historic decision for the gig economy. The case was brought by a group of Deliveroo riders backed by CGIL, Italy’s largest trade union.
+
+Advertisement
+
+While machine-learning algorithms are While machine-learning algorithms are central to Deliveroo’s entire business model, the particular algorithm examined by the court allegedly was used to determine the “reliability” of a rider. According to the ordinance, if a rider failed to cancel a shift pre-booked through the app at least 24 hours before its start, their “reliability index” would be negatively affected. Since riders deemed more reliable by the algorithm were first to be offered shifts in busier timeblocks, this effectively meant that riders who can’t make their shifts—even if it’s because of a serious emergency or illness—would have fewer job opportunities in the future.
+
+According to the court, the algorithm’s failure to take into account the reasons behind a cancellation amounts to discrimation and unjustly penalizes riders with legally legitimate reasons for not working. Deliveroo was ordered to pay €50,000 (~$61,400) to the suing parties. According to the court, the algorithm’s failure to take into account the reasons behind a cancellation amounts to discrimation and unjustly penalizes riders with legally legitimate reasons for not working. Deliveroo was ordered to pay €50,000 (~$61,400) to the suing parties.
+
+Legal experts that Motherboard spoke to described the decision as a possible turning point. Importantly, they said, the court determined that even if an algorithm unintentionally discriminates against a protected group a company can still be held liable and be forced to pay damages. Legal experts that Motherboard spoke to described the decision as a possible turning point. Importantly, they said, the court determined that even if an algorithm unintentionally discriminates against a protected group a company can still be held liable and be forced to pay damages.
+
+“This is a landmark case,” “This is a landmark case,” Valerio De Stefano, a professor in labor law at KU Leuven who specializes in AI and labor regulation, told Motherboard over the phone. “What it shows, basically, is that on a legal level you can have indirect discrimination through algorithims and that algorithms are therefore subject to judicial review, that you can legally question how these types of algorithms work. I think that’s important, because people can often think of algorithms as objectively neutral, when in fact there’s always the possibility of discrimination involved.”
+
+Advertisement
+
+In a statement to Motherboard, a Deliveroo spokesperson claimed that the company no longer uses the same shift booking system outlined in the case. In a statement to Motherboard, a Deliveroo spokesperson claimed that the company no longer uses the same shift booking system outlined in the case.
+
+"This judgement refers to a historic optional booking model which is not used by Deliveroo in Italy or other markets,” the spokesperson wrote. “Riders have complete flexibility to choose when to work, where to work, for little or as long as they want. This means that there is no booking system and no obligation to accept work.” "This judgement refers to a historic optional booking model which is not used by Deliveroo in Italy or other markets,” the spokesperson wrote. “Riders have complete flexibility to choose when to work, where to work, for little or as long as they want. This means that there is no booking system and no obligation to accept work.”
+
+"We offer self-employment because this offers the flexibility riders want,” they continued. “Every survey shows riders overwhelmingly value flexibility above all else - more than 80% in the latest survey. Currently Deliveroo receives thousands of requests to work as a self-employed rider each week and we have doubled the number of riders in the UK - we now work with 50,000 riders in the UK, up from 25,000 last year." "We offer self-employment because this offers the flexibility riders want,” they continued. “Every survey shows riders overwhelmingly value flexibility above all else - more than 80% in the latest survey. Currently Deliveroo receives thousands of requests to work as a self-employed rider each week and we have doubled the number of riders in the UK - we now work with 50,000 riders in the UK, up from 25,000 last year."
+
+But the ramifications of the court’s decision could go far beyond a single booking system or algorithm, says Ivana Bartoletti, co-founder of the Women Leading in AI network and author of But the ramifications of the court’s decision could go far beyond a single booking system or algorithm, says Ivana Bartoletti, co-founder of the Women Leading in AI network and author of “An Artificial Revolution”.
+
+“Even if this particular shift booking system is no longer in place, I think this decision will indicate to companies such as Deliveroo, but of course others as well, that they need to be more conscious about addressing and understanding the potential problems and inequalities their algorithms create, or they could face legal consequences,” Bartoletti said. “Of course, that’s not enough on its own—we need regulatory and legislative solutions as well. But, the combination of all of these things could be a major step forward.” “Even if this particular shift booking system is no longer in place, I think this decision will indicate to companies such as Deliveroo, but of course others as well, that they need to be more conscious about addressing and understanding the potential problems and inequalities their algorithms create, or they could face legal consequences,” Bartoletti said. “Of course, that’s not enough on its own—we need regulatory and legislative solutions as well. But, the combination of all of these things could be a major step forward.”. A court in Italy has dealt a blow to unalloyed algorithmic management after a legal challenge brought by three unions. The Bologna court ruled that a reputational-ranking algorithm used by on-demand food delivery platform Deliveroo discriminated against gigging delivery workers by breaching local labor laws.
+
+The ruling, reported earlier in the Italian press, found Deliveroo’s ranking algorithm discriminated against delivery couriers because it did not distinguish between legally protected reasons for withholding labour — namely not working because a rider was sick; or exercising their protected right to strike — and more trivial reasons for not being as productive as they’d indicated they would be.
+
+In a statement, the Italian General Confederation of Labour (CGIL) called the Bologna court ruling “an epochal turning point in the conquest of trade union rights and freedoms in the digital world”.
+
+Deliveroo has been contacted for comment on the ruling. Update: A company spokesperson has now sent us this statement:
+
+“This judgement refers to a historic optional booking model which is not used by Deliveroo in Italy or other markets. Riders have complete flexibility to choose when to work, where to work, for little or as long as they want. This means that there is no booking system and no obligation to accept work. “We offer self-employment because this offers the flexibility riders want. Every survey shows riders overwhelmingly value flexibility above all else — more than 80% in the latest survey. Currently Deliveroo receives thousands of requests to work as a self-employed rider each week and we have doubled the number of riders in the UK — we now work with 50,000 riders in the UK, up from 25,000 last year.”
+
+The court ordered Deliveroo to pay €50,000 to the applicants (plus their legal costs) and publish the ruling on its website, according to Ansa.it — which has obtained a statement from Matteo Sarzana, general manager of Deliveroo Italy, who told it the company notes the judge’s decision but does not agree with it, as well as confirming that the shift-reservation system linked to the algorithmic ranking is no longer in use in the market.
+
+“The fairness of our old system is confirmed by the fact that not a single case of objective and real discrimination emerged in the course of the trial. The decision is based exclusively on a hypothetical and potential evaluation without concrete evidence,” Sarzana added in the statement [which we’ve translated from Italian].
+
+The on-demand delivery app has faced down a number of legal challenges on home turf — related to its classification of gig workers (as self employed couriers) and its opposition to collective bargaining rights for riders.
+
+Although a 2018 inquiry led by U.K. MP Frank Field likened its “flexible” labor model to 20th century dockyards — saying the dual labor market that Deliveroo generates works very well for some riders but very poorly for others.
+
+The Bologna court ruling is also notable in light of a number of legal challenges against other gig platforms’ use of algorithms to manage large “self-employed” workforces which have been filed in Europe in recent months.
+
+This includes a group of Uber drivers who filed a challenge to Uber’s automated decision-making in the Netherlands last summer — making reference to pan-EU data protection law.
+
+While ride-hailing company Ola is facing a similar challenge to its use of technological surveillance and data as a management tool to control a self-employed workforce.
+
+Rulings on those cases are still pending.
+
+At the same time, EU lawmakers have proposed new laws that would require large online platforms to provide regulators with information about how their algorithmic ranking systems function — with the aim of enabling wider societal oversight of AI-fuelled giants.
+
+The move to enable oversight and accountability of platforms’ algorithms comes in response to concerns about a lack of transparency and the potential for automated decisions to scale bias, discrimination and exploitation.
+
+This report was updated to clarify that the judgement orders Deliveroo to pay €50k to the applicants, rather than ‘per affected rider’ as we originally stated

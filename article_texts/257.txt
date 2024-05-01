@@ -1,0 +1,201 @@
+The two avenues mark another stark separation that follows the lines of racial segregation throughout Chicago: In nearly every community of color in the city, the Chicago Police Department (CPD) has installed ShotSpotter , a system that uses hidden microphone sensors to detect the sound of gunshots, generate real-time alerts, and trigger armed police responses to the location. In most of the white neighborhoods, there are no sensors at all, according to Motherboard’s analysis of ShotSpotter data obtained through a public records request.
+
+To the south and east, the residents are primarily Black and brown. To the north and west, the neighborhoods are almost all majority white.
+
+“The system is telling police that every time they go out in response to a ShotSpotter alert they should assume that anybody in the vicinity is armed and they’ve just fired a weapon,” Jonathan Manes, an attorney with the MacArthur Justice Center at the Northwestern Pritzker School of Law who has studied ShotSpotter in the city, told Motherboard. “The system is telling police officers that anybody in the area is a mortal threat. Following up on those alerts is creating a dangerous situation, and it’s happening 61 times a day in the city of Chicago.”
+
+In Chicago, the technology's reliability is coming under increasing scrutiny. Community members and civil rights activists say false ShotSpotter alerts bring a flood of unnecessary police into their neighborhoods, and even accurate alerts can create dangerous situations. In March, one such alert initiated a police response that eventually led to the killing of 13-year-old Adam Toledo, who was unarmed when Chicago police shot him.
+
+In all four cities, the data shows that the sensors are also placed almost exclusively in majority Black and brown neighborhoods, based on population data from the U.S. Census.
+
+Chicago is not alone. Cities and police departments are loath to disclose the locations of their ShotSpotter sensors, but through public records requests Motherboard also obtained years of data from Kansas City, Missouri; Cleveland, Ohio; and Atlanta, Georgia showing where ShotSpotter sensors generated alerts—a proxy for the general location of the sensors.
+
+What that meant in practice is that ShotSpotter sensors were installed in a 3.5-square mile swath—about 1 percent of the city’s footprint—that primarily includes neighborhoods where white residents make up as little as 3.5 percent of the population, according to Census data.
+
+In 2012, the Kansas City Area Transportation Authority received a federal grant to expand one of its express bus lines. Some of those funds were used to install ShotSpotter, in cooperation with police, in locations that “provided the highest amount of coverage to the areas most densely and heavily traveled by the public transit lines,” the Kansas City Police Department Sergeant Jake Becchina told Motherboard in an email.
+
+“We believe all residents that live in communities experiencing persistent gunfire deserve a rapid police response that gunshot detection enables, regardless of race or geographic location,” the company added. “While gun violence can unfortunately happen anywhere at any time, cities lack sufficient funds to cover an entire city with gunshot detection technology, so they most commonly deploy sensors in neighborhoods with the highest levels of gun violence to make the greatest impact."
+
+“In general, police department customers determine coverage areas with assistance from ShotSpotter by analyzing historical gunfire and homicide data to assess areas most in need of gunshot detection,” Sam Klepper, senior vice president for marketing and product strategy at ShotSpotter, wrote to Motherboard in response to questions.
+
+The Chicago Police Department, Mayor Lori Lightfoot’s office, and Alderman Chris Taliaferro, who chairs the city council’s public safety committee, did not respond to interview requests or questions.
+
+As in many cities that have installed ShotSpotter, the initial deployment in Kansas City covered a small geographic area and was funded by a grant. ShotSpotter costs between $65,000 and $95,000 per square mile annually, plus installation costs, making it a prodigious investment.
+
+“I think I speak for a lot of people when I say [ShotSpotter is] not welcome technology,” Henry Service, a Kansas City lawyer and community activist, told Motherboard. “We don’t want to be treated like a surveilled community, a community that’s under siege. The kind of policing we want is the kind of policing you get in the suburbs or affluent communities.”
+
+That could be because residents choose not to call 911, or because no gunfire actually occurred and ShotSpotter misidentified a sound, as some studies suggest the technology does quite frequently.
+
+He added that 70 percent of the time ShotSpotter generates an alert, nobody calls 911 to report gunshots, according to an analysis performed in 2016.
+
+“We would love to have the resources to blanket the entire city with gunshot detection,” Becchina wrote to Motherboard. “ShotSpotter alerts give our officers more detailed information about what’s happening than with 911 calls alone ... so they are better able to bring a dangerous situation safely under control more quickly and efficiently.”
+
+Unlike the ShotSpotter data Motherboard obtained from other cities, the Atlanta data also includes fields for when officers arrived at the scene of an alert and when they departed. The system generated 2,925 shots-fired alerts during its time in use. The median amount of time APD officers spent on scene for those alerts was nine minutes, suggesting that in a large proportion of the cases officers found little to work with at the scenes to which ShotSpotter dispatched them.
+
+When local media first reported the ShotSpotter program, APD would not disclose the exact location of the sensors but said they would initially be located only in several West Atlanta neighborhoods, which happen to be overwhelmingly non-white. Alerts in the map below in the city’s outer neighborhoods may be the result of errors in the data. APD did not respond to a request for comment.
+
+The Atlanta Police Department (APD) installed 100 sensors in the city in 2018, funded entirely by grants from the Atlanta Police Foundation and Georgia Power, a utility company. The city stopped using the sensors in 2020, when funding ran out.
+
+Kansas City officials have said at various times since 2012 that they want to expand ShotSpotter to cover more of the city, potentially even more affluent sections, but so far, that hasn’t happened.
+
+Cleveland, OH
+
+Cleveland is one of the newest cities to have installed ShotSpotter, beginning its program in November 2020. The system—funded entirely during its two-year pilot phase by a $375,000 grant from the Cleveland Police Foundation—has been deployed in a small section of Southeast Cleveland that city officials have described as a high-crime area. Cleveland is one of the newest cities to have installed ShotSpotter, beginning its program in November 2020. The system—funded entirely during its two-year pilot phase by a $375,000 grant from the Cleveland Police Foundation—has been deployed in a small section of Southeast Cleveland that city officials have described as a high-crime area.
+
+Those neighborhoods also happen to be among the least white in the city and those hit hardest by economic recession and the pandemic, according to local community organizers. Those neighborhoods also happen to be among the least white in the city and those hit hardest by economic recession and the pandemic, according to local community organizers.
+
+Data source: Cleveland Division of Police, The Northern Ohio Data & Information Service Data source: Cleveland Division of Police, The Northern Ohio Data & Information Service
+
+“These are communities that lack resources and have been targeted by city officials because they claim that they are highly concentrated areas of violence,” LaTonya Goldsby, president of Black Lives Matter Cleveland, told Motherboard. “You can see the disenfranchisement. There has been no reinvestment within that side of town. I would say it’s been a continued depletion of resources.” “These are communities that lack resources and have been targeted by city officials because they claim that they are highly concentrated areas of violence,” LaTonya Goldsby, president of Black Lives Matter Cleveland, told Motherboard. “You can see the disenfranchisement. There has been no reinvestment within that side of town. I would say it’s been a continued depletion of resources.”
+
+The Cleveland Division of Police selected the Shotspotter locations by analyzing three years of crime data within its police district four, which encompasses many of the Blackest, most impoverished parts of the city. The area the division chose for Shotspotter accounted for 37 percent of all shots fired calls, 37 percent of felonious assaults, and 45% of all homicides within district four, Sergeant Jennifer Ciaccia wrote to Motherboard in an email. The Cleveland Division of Police selected the Shotspotter locations by analyzing three years of crime data within its police district four, which encompasses many of the Blackest, most impoverished parts of the city. The area the division chose for Shotspotter accounted for 37 percent of all shots fired calls, 37 percent of felonious assaults, and 45% of all homicides within district four, Sergeant Jennifer Ciaccia wrote to Motherboard in an email.
+
+“The technology appears to be extremely accurate, allowing officers to respond to locations of gunfire based on technology instead of community calls which can be more subjective,” she wrote. “The technology appears to be extremely accurate, allowing officers to respond to locations of gunfire based on technology instead of community calls which can be more subjective,” she wrote.
+
+Cleveland’s mayor and several city councilors did not respond to requests for comment. Cleveland’s mayor and several city councilors did not respond to requests for comment.
+
+After the Cleveland City Council—which has not allowed public input at its meetings since the 1930s—approved the ShotSpotter plans, Cleveland activists including Mary Drummer, a campaign director for AI for the People, wrote to councilors to ask that the money allocated for ShotSpotter be put to other uses in the affected communities. After the Cleveland City Council—which has not allowed public input at its meetings since the 1930s—approved the ShotSpotter plans, Cleveland activists including Mary Drummer, a campaign director for AI for the People, wrote to councilors to ask that the money allocated for ShotSpotter be put to other uses in the affected communities.. MacArthur Justice Center study finds City’s use of ShotSpotter is inaccurate, expensive and dangerous
+
+CHICAGO – A new study of Chicago’s use of ShotSpotter, a surveillance system designed to detect gunfire, finds that the vast majority of alerts generated by the system turn up no evidence of gunfire or any gun-related crime. Instead, the ShotSpotter system sends police on thousands of unfounded and high-intensity deployments, which are focused almost exclusively in Black and Latinx communities. The complete findings of the study can be found at EndPoliceSurveillance.com.
+
+“Surveillance technology has a veneer of objectivity, but many of these systems do not work as advertised,” said Jonathan Manes, an attorney with the MacArthur Justice Center, who spearheaded the study. “High-tech tools can create a false justification for the broken status quo of policing and can end up exacerbating existing racial disparities. We needed to know whether this system actually does what it claims to do. It does not.”
+
+ShotSpotter blankets neighborhoods with microphones in order to attempt to detect and locate the source of gunfire. It sends alerts of supposed gunfire immediately to local police. ShotSpotter claims to be 97% accurate. However, ShotSpotter has not released any scientifically-valid study to substantiate that figure. There are also no studies testing whether ShotSpotter can reliably tell the difference between the sound of gunshots and other noises like firecrackers, backfiring cars, construction noises, helicopters, and other loud, impulsive sounds.
+
+The study conducted by MacArthur Justice Center at Northwestern Pritzker School of Law reviewed ShotSpotter deployments for roughly 21 months (from July 1, 2019 through April 14, 2021) using data obtained from the City of Chicago. Their analysis found that 89% turned up no gun-related crime and 86% led to no report of any crime at all. In less than two years, there were more than 40,000 dead-end ShotSpotter deployments.
+
+“Our findings are shocking,” said Manes. “The ShotSpotter system in Chicago prompts thousands of deployments by police hunting for gunfire in vain. This system puts police on high alert and sends them racing into communities; but almost nine times of our ten, the police don’t turn up evidence of gun crime or any crime at all. It creates a powderkeg situation for residents who just happen to be in the vicinity of a false alert.”
+
+The study is also the basis of an amicus brief filed today in support of a motion by the Cook County Public Defender that challenges the scientific validity of the ShotSpotter system’s gunfire reports, which prosecutors have attempted to use as evidence in a criminal prosecution.
+
+The amicus brief was submitted on behalf of a coalition of community-based organizations that are concerned about the impact of ShotSpotter on overpoliced and underresourced communities of color on the city’s South and West sides. Those organizations are Brighton Park Neighborhood Council, Lucy Parsons Labs, and Organized Communities Against Deportations (OCAD).
+
+“Knowing very well that police officers tend to escalate all types of situations and are known to use excessive force, the ShotSpotter technology creates an additional layer of violent response from police officers as they rush aggressively to poor, Black & brown neighborhoods expecting to be met with gunfire,” Miguel Lopez, Membership Coordinator for OCAD. “If the city was really serious about stopping gun violence, they would listen to the community and use those $33 million dollars to invest in those communities in order to create the social environment where young people would have the transformative tools to deal with conflict.”
+
+The City of Chicago has deployed ShotSpotter only in the police districts with the highest proportion of Black and Latinx residents. On an average day, there are more than 61 ShotSpotter-initiated police deployments that turn up no evidence of any crime, let alone gun crime. Neighborhoods that are surveilled by ShotSpotter are subject to thousands of additional, unfounded police deployments just because the ShotSpotter system is present.
+
+Every unfounded ShotSpotter deployment creates an extremely dangerous situation for residents in the area. ShotSpotter primes police to believe that they are heading to a dangerous location where a person has just fired a gun. Any resident who happens to be in the vicinity of a ShotSpotter alert will be a target of police suspicion or worse. These volatile deployments can go wrong in an instant.
+
+“Only residents in predominantly Black and Latinx neighborhoods have to contend with the burden of thousands of unnecessary and potentially dangerous police deployments,” said Manes. “Only their neighborhoods get saddled with inflated statistics about supposed gunfire. At the same time, there is no evidence that the ShotSpotter system makes communities safer or reduces crime.”
+
+CPD publicly promotes ShotSpotter as an essential tool for crime prevention, but there is no evidence that it reduces crime. Academic studies of ShotSpotter and similar gunshot detection systems have found that they do not reduce the number of violent crimes and do not even reduce the number of confirmed shooting incidents identified by police. Instead, the studies find that the main effect of ShotSpotter is just to increase the number of times police are deployed.
+
+The Chicago Police Department has a long history of excessive force, illegal and discriminatory stop-and-frisk, and other abusive policies and practices. ShotSpotter reinforces and may exacerbate this system of racialized policing.
+
+CPD requires managers to incorporate ShotSpotter data into its CompStat reports, which are used to hold commanders accountable to performance targets. ShotSpotter data also feed into the city’s “predictive policing” technology. The inflated gunfire statistics generated by ShotSpotter in predominantly Black and Latinx neighborhoods will thus skew how the police allocates its resources, unless the city is taking careful steps to eliminate the effects of unfounded ShotSpotter alerts. These statistics can create a false “techwash” justification for racialized patterns of policing.
+
+“Like many surveillance systems, CPD’s use of ShotSpotter trades on a veneer of objectivity but, in practice, it reinforces racial disparities in policing,” said Manes. “The City should be investing in communities and in solutions that work, not in police technologies that create faulty justifications for ever more policing.”
+
+In 2018, the City of Chicago entered a $33 million, three-year contract with ShotSpotter. Over the past two years, the City has paid ShotSpotter about $10 million per year and spends untold additional resources on police officers chasing down tens of thousands of unfounded ShotSpotter alerts every year. The City of Chicago is one of ShotSpotter’s two largest customers, accounting for 18% of its annual revenue in 2020. The City of Chicago’s contract with ShotSpotter expires August 19, 2021 unless the city exercises its option to extend.
+
+The complete findings of the study, including the legal brief filed in court, can be found at EndPoliceSurveillance.com.. Syracuse, N.Y. – A report came out last week that criticizes gunshot detection technology used by cities across the country - including Syracuse - as ineffective, wasting officers’ time and targeting overpoliced communities.
+
+The Surveillance Technology Oversight Project (STOP) released the report questioning the usefulness and cost of ShotSpotter, a gunshot detection technology used by police to try to identify and locate shots fired within certain areas.
+
+Syracuse police and the Onondaga County District Attorney’s Office officials, however, say Shotspotter has been a crucial tool in investigating shootings, in trials and in allocating officers since it was installed in 2017.
+
+“It is a tool in the toolbox,” said Syracuse police Lt. Matthew Malinowski. a spokesperson for the department. “There is no one solution to really combat gun violence.”
+
+The report’s major criticisms of Shotspotter are:
+
+It wastes officers’ time by prompting a response to shots fired calls that cannot be verified or are not gunfire.
+
+It doesn’t result in more arrests or convictions.
+
+It increases policing in historically overpoliced neighborhoods.
+
+Microphones can record conversations of people in these neighborhoods.
+
+In the report’s conclusion, STOP argues that there is not enough evidence that the technology effectively combats gun violence and it says cities should consider reinvesting the money to combat the root causes of gun violence.
+
+Despite criticisms, ShotSpotter is becoming more prolific in the United States. As of March 2022, the technology is used in at least 130 U.S. cities and towns, a 50% increase from 85 cities in 2018, according to the report by the New York City-based non-profit organization.
+
+Many cities, including Syracuse, invested money from the American Rescue Plan Act to install or expand the program. In 2021, Syracuse used $171,000 from the act to expand the technology into the city’s North Side.
+
+Each year, the city spends just under $400,000 on the technology, Malinowski said.
+
+ShotSpotter uses microphones installed in certain areas of the city and audio software to try to identify potential gunshots. When a sound that may be a gunshot is registered by multiple microphones, a technician at the company will listen to the recording and verify whether it is a gunshot in under 60 seconds, according to ShotSpotter’s website.
+
+Once the sound is verified as a gunshot, the acoustic waves are triangulated and provide police with a location, the company said. The alert is sent out to police, either through 911 dispatches or an app on the officers’ phones.
+
+Inaccurate, waste of time or helpful tool?
+
+The report states that ShotSpotter has inaccuracies in its characterization of loud noises as gunshots and its location data.
+
+The accuracy of the location varies, Onondaga County Chief Assistant District Attorney Shaun Chase said. Chase said that sometimes the system works like “find my iPhone” while other times it only provides a general area.
+
+Malinowski said this is a major improvement when compared to shots fired incidents reported by citizens. Often people will report hearing gunshots a few blocks away which leads to larger crime scenes and more time spent searching for evidence, he said.
+
+Chase confirmed that sometimes sounds such as cars backfiring of fireworks could be mistaken for gunshots, but he said the same issues can arise when police rely on citizen reporting.
+
+Malinowski said that sometimes gunshot reports are ruled unfounded when no casings are found, but that is not a confirmation that no shots were fired in the area.
+
+Malinowski said he does not have the data to accurately describe the number of false reports by the system. He said he believes that despite the kinks in the system, the data provided is still invaluable to police.
+
+When police rely solely on citizens, many shots-fired incidents and shootings go unreported, Malinowski said. According to the ShotSpoters website, around 80% of shots fired incidents are unreported.
+
+Helps arrests, convictions?
+
+Another major concern raised in the report is the lack of evidence collection and arrests that stem from the deployment of officers to shots fired notifications, according to the report. According to a study of major cities utilizing the technology cited by the report, only one arrest is made for every 200 notifications.
+
+In an analysis of 50,000 ShotSpotter notifications in Chicago, 244 arrests were made and 152 guns were recovered according to the report. In Brockton, MA, the technology increased police activity but did not improve gun-related case resolutions, the report says.
+
+Malinowski said that although not every investigation leads to an arrest, the technology has been very helpful in locating guns utilized in multiple crimes.
+
+Police often collect casings that match those connected to other investigations, this helps investigators build cases and track down new leads on weapons that are being repeatedly used for violence, Malinowski said.
+
+Once arrests are made, the recording of gunshots provided by ShotSpotter can prove to be crucial in criminal trials, Chase said.
+
+The DA’s office frequently uses the recordings as evidence, Chase said. He said it is much more compelling to play the audio of the gunfire for a jury rather than have an evidence technician describe the scene.
+
+In some cases, the recordings can speak to motives in a crime, Chase said. Proving intention in shooting or homicide trials requires many factors. Chase used self-defense cases as an example.
+
+When a defendant is asserting self-defense, listening to the cadence of gunfire can inform investigators and a jury, he said. When a recording shows a short and rapid exchange of gunfire, that can point to a case of someone acting to defend themselves, he said. In contrast, if there are numerous shots fired over a long period of time by one person, that can indicate the action was intentional, he said.
+
+It is not the “smoking gun” but it can be a crucial piece of the evidence presented, Chase said.
+
+Overpoliced communities targeted, report says
+
+STOP argues that the historic overpolicing of these communities has produced crime data that disproportionately represents violence in these communities.
+
+In Syracuse, Shotspotter covers about 2.1 square miles of the city’s North Side centered around Lodi Street, Butternut Street, North Salina and parts of James Street and Teal Avenue, according to Chase and city officials.
+
+The technology also covers about 3.5 square miles of the South Side, primarily centered around South Geddes Street, Malinowski said.
+
+Both Malinowski and Chase said that the report’s assumptions ignore other socio-economic factors that lead to higher crime, such as poverty.
+
+The data provided by ShotSpotter can inform police what areas experience higher volumes of gunshots to better allocate officers, Malinowski said.
+
+Are mics recording people?
+
+As a surveillance oversight project, one of the STOP report’s largest concerns is the capacity for the ShotSpotter microphones to record conversations. The report argues that this is an invasive technology because the microphones are recording at all times.
+
+According to the report, a ShotSpotter engineer testified to the NYC Committee on Public Safety that the microphones have the potential to record conversions at a normal volume from up to 50 feet away.
+
+In 2007, a California court accepted a voice recording captured by ShotSpotter microphones as evidence in a murder trial, according to the report. In 2019, the company agreed to deny or challenge police demands for audio recordings that do not include gunshots on the recommendation of external auditors, according to the report.
+
+In Syracuse, police and investigators only receive the audio that includes gunshots, Chase said. Occasionally, screams and shouts are picked up in this audio but they are often inaudible, he said.
+
+On Thursday, Chase reviewed the last 12 recordings that were attached to notifications of shots fired in the ShotSpotter app, he said. The longest of those 12 recordings was six seconds long, he said.
+
+Law enforcement officials are not being provided with extensive clips of the audio recordings that would allow them to listen to conversions even though the microphones are capable of that, Chase said.
+
+ShotSpotter’s responds
+
+Simone Jackenthal, a spokesperson for ShotSpotter, said that the STOP report presents misleading allegations.
+
+Over 80% of shots-fired incidents go unreported, so the company’s system provides police departments with faster response times and accurate incident locations, Jackenthal said.
+
+An independent review determined that the system has a 97% aggregate accuracy rate, Jackenthal said. ShotSpotter can notify police of nearly all outdoor gunfire, she said.
+
+In reference to privacy concerns, Jackenthal said that ShotSpotter has been independently audited multiple times. Oakland’s Privacy Advisory Commission has unanimously approved the use of ShotSpotter twice, she said.
+
+Staff writer Anne Hayes covers breaking news, crime and public safety. Have a tip, a story idea, a question or a comment? You can reach her at ahayes@syracuse.com.. It wastes officers’ time by prompting a response to shots fired calls that cannot be verified or are not gunfire.
+
+It doesn’t result in more arrests or convictions.
+
+It increases policing in historically overpoliced neighborhoods.
+
+Microphones can record conversations of people in these neighborhoods.
+
+(TNS) — A report came out last week that criticizes gunshot detection technology used by cities across the country - including Syracuse - as ineffective, wasting officers’ time and targeting overpoliced communities.The Surveillance Technology Oversight Project (STOP) released the report questioning the usefulness and cost of ShotSpotter, a gunshot detection technology used by police to try to identify and locate shots fired within certain areas.Syracuse police and the Onondaga County District Attorney’s Office officials, however, say Shotspotter has been a crucial tool in investigating shootings, in trials and in allocating officers since it was installed in 2017.“It is a tool in the toolbox,” said Syracuse police Lt. Matthew Malinowski. a spokesperson for the department. “There is no one solution to really combat gun violence.”The report’s major criticisms of Shotspotter are:In the report’s conclusion, STOP argues that there is not enough evidence that the technology effectively combats gun violence and it says cities should consider reinvesting the money to combat the root causes of gun violence.Despite criticisms, ShotSpotter is becoming more prolific in the United States. As of March 2022, the technology is used in at least 130 U.S. cities and towns, a 50% increase from 85 cities in 2018, according to the report by the New York City-based non-profit organization.Many cities, including Syracuse, invested money from the American Rescue Plan Act to install or expand the program. In 2021, Syracuse used $171,000 from the act to expand the technology into the city’s North Side Each year, the city spends just under $400,000 on the technology, Malinowski said.ShotSpotter uses microphones installed in certain areas of the city and audio software to try to identify potential gunshots. When a sound that may be a gunshot is registered by multiple microphones, a technician at the company will listen to the recording and verify whether it is a gunshot in under 60 seconds, according to ShotSpotter’s website.Once the sound is verified as a gunshot, the acoustic waves are triangulated and provide police with a location, the company said. The alert is sent out to police, either through 911 dispatches or an app on the officers’ phones.Inaccurate, waste of time or helpful tool?The report states that ShotSpotter has inaccuracies in its characterization of loud noises as gunshots and its location data.The accuracy of the location varies, Onondaga County Chief Assistant District Attorney Shaun Chase said. Chase said that sometimes the system works like “find my iPhone” while other times it only provides a general area.Malinowski said this is a major improvement when compared to shots fired incidents reported by citizens. Often people will report hearing gunshots a few blocks away which leads to larger crime scenes and more time spent searching for evidence, he said.Chase confirmed that sometimes sounds such as cars backfiring of fireworks could be mistaken for gunshots, but he said the same issues can arise when police rely on citizen reporting.Malinowski said that sometimes gunshot reports are ruled unfounded when no casings are found, but that is not a confirmation that no shots were fired in the area.Malinowski said he does not have the data to accurately describe the number of false reports by the system. He said he believes that despite the kinks in the system, the data provided is still invaluable to police.When police rely solely on citizens, many shots-fired incidents and shootings go unreported, Malinowski said. According to the ShotSpoters website, around 80% of shots fired incidents are unreported.Helps arrests, convictions?Another major concern raised in the report is the lack of evidence collection and arrests that stem from the deployment of officers to shots fired notifications, according to the report. According to a study of major cities utilizing the technology cited by the report, only one arrest is made for every 200 notifications.In an analysis of 50,000 ShotSpotter notifications in Chicago, 244 arrests were made and 152 guns were recovered according to the report. In Brockton, MA, the technology increased police activity but did not improve gun-related case resolutions, the report says.Malinowski said that although not every investigation leads to an arrest, the technology has been very helpful in locating guns utilized in multiple crimes.Police often collect casings that match those connected to other investigations, this helps investigators build cases and track down new leads on weapons that are being repeatedly used for violence, Malinowski said.Once arrests are made, the recording of gunshots provided by ShotSpotter can prove to be crucial in criminal trials, Chase said.The DA’s office frequently uses the recordings as evidence, Chase said. He said it is much more compelling to play the audio of the gunfire for a jury rather than have an evidence technician describe the scene.In some cases, the recordings can speak to motives in a crime, Chase said. Proving intention in shooting or homicide trials requires many factors. Chase used self-defense cases as an example.When a defendant is asserting self-defense, listening to the cadence of gunfire can inform investigators and a jury, he said. When a recording shows a short and rapid exchange of gunfire, that can point to a case of someone acting to defend themselves, he said. In contrast, if there are numerous shots fired over a long period of time by one person, that can indicate the action was intentional, he said.It is not the “smoking gun” but it can be a crucial piece of the evidence presented, Chase said.Overpoliced communities targeted, report saysSTOP argues that the historic overpolicing of these communities has produced crime data that disproportionately represents violence in these communities.In Syracuse, Shotspotter covers about 2.1 square miles of the city’s North Side centered around Lodi Street, Butternut Street, North Salina and parts of James Street and Teal Avenue, according to Chase and city officials.The technology also covers about 3.5 square miles of the South Side, primarily centered around South Geddes Street, Malinowski said.Both Malinowski and Chase said that the report’s assumptions ignore other socio-economic factors that lead to higher crime, such as poverty.The data provided by ShotSpotter can inform police what areas experience higher volumes of gunshots to better allocate officers, Malinowski said.Are mics recording people?As a surveillance oversight project, one of the STOP report’s largest concerns is the capacity for the ShotSpotter microphones to record conversations. The report argues that this is an invasive technology because the microphones are recording at all times.According to the report, a ShotSpotter engineer testified to the NYC Committee on Public Safety that the microphones have the potential to record conversions at a normal volume from up to 50 feet away.In 2007, a California court accepted a voice recording captured by ShotSpotter microphones as evidence in a murder trial, according to the report. In 2019, the company agreed to deny or challenge police demands for audio recordings that do not include gunshots on the recommendation of external auditors, according to the report.In Syracuse, police and investigators only receive the audio that includes gunshots, Chase said. Occasionally, screams and shouts are picked up in this audio but they are often inaudible, he said.On Thursday, Chase reviewed the last 12 recordings that were attached to notifications of shots fired in the ShotSpotter app, he said. The longest of those 12 recordings was six seconds long, he said.Law enforcement officials are not being provided with extensive clips of the audio recordings that would allow them to listen to conversions even though the microphones are capable of that, Chase said.ShotSpotter’s respondsSimone Jackenthal, a spokesperson for ShotSpotter, said that the STOP report presents misleading allegations.Over 80% of shots-fired incidents go unreported, so the company’s system provides police departments with faster response times and accurate incident locations, Jackenthal said.An independent review determined that the system has a 97% aggregate accuracy rate, Jackenthal said. ShotSpotter can notify police of nearly all outdoor gunfire, she said.In reference to privacy concerns, Jackenthal said that ShotSpotter has been independently audited multiple times. Oakland’s Privacy Advisory Commission has unanimously approved the use of ShotSpotter twice, she said.

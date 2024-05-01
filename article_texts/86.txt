@@ -1,0 +1,81 @@
+In August, following the grading algorithm debacle in the UK, I wrote a column wondering if perhaps this unfortunate event might prove a critical tipping point for public trust in the almighty algorithm.
+
+This new generation in the UK, about to step into adulthood – and an active role as the UK’s future voters, employees, thinkers, campaigners and policymakers – was unlikely to forget what it was like to find themselves judged by biased computer code with invisible, baked-in assumptions, I thought.
+
+Well. Here we are a few months later, and any sense of grade assessment superiority we might have had on this side of the Irish Sea has shrivelled into a husk.
+
+We too have algorithmed our way into a grading conflagration in which at least two coding errors meant more than 6,000 students received grades lower than they should have, and, in a bleakly unfunny inversion, nearly 8,000 more got grades that were higher than the algorithm, if working correctly, should have assigned.
+
+READ MORE
+
+The Government has punted this problem over to the already-stretched and cash-strapped third-level institutions, which are somehow supposed to make extra spaces available as needed for the ones with unwarranted lower grades.
+
+It isn’t as yet clear what happens regarding the additional cohort of students who may have lost places they rightfully earned, to some portion of the 7,943 students who may have gained that place with incorrectly assessed grades. Fairly analysing and resolving this mess is a challenge for the Department of Education, the institutions involved and the students affected.
+
+In August I quoted experienced programmer and technology consultant Dermot Casey, who had expressed concern about what assessment factors might go into any proposed Leaving Cert algorithm here.
+
+In last Saturday's Irish Times, he revisited this issue, and wrote an informative explanatory piece on algorithms, offering a detailed list of questions that need to be asked now about how the Irish algorithm was coded and stress-tested.
+
+Larger concerns
+
+As public money went into producing the algorithm, and so many people have been affected by it shortcomings, the Government must answer those questions.
+
+But this imbroglio is ultimately, pointing towards even larger concerns than one year of Leaving Cert and grading chaos.
+
+The algorithm issue is huge. Algorithms affect your daily life. In microseconds, they make determinations and decisions about nearly every aspect of our existence, the social, political, health-related, and ethical, from our (supposed) suitability for mortgages and jobs, to the medical care we receive, the ads and posts we see on social media and the results returned when we do a search on Google.
+
+In nearly every case, we have absolutely no idea what determinations go into these algorithms. We do not know who coded them. We do not know how they work; how they judge. By their very nature – hidden lines of complex code, obscured by laws protecting business assets – they function invisibly. They are shielded as corporate proprietary information and “intellectual” property – even though it is our intellects that they lay claim to, judging us by the data they gather (typically, without us knowing). This data then, ludicrously, becomes their property, not ours. Whole, revealing chunks of us, some of it extremely revealing and sensitive, owned not by us, but by them.
+
+Algorithms have an impact on every one of us. But we only see the end-result decisions made by that code, not the human-originating decisions, assumptions or biases that underlie those coding decisions, in algorithms produced primarily by one small segment of human society – younger, primarily white men, often from elite universities.
+
+Not neutral
+
+We know from many studies that algorithms are not neutral. We know that until recently, if you searched Google images for “Black women” or “Latino women”, the majority of returns were exploitative and pornographic in nature (the same happened with ethnic searches for “boys”). This bias has now been adjusted, demonstrating how easily an algorithm can be tweaked – in the few cases where obvious bias eventually can be seen.
+
+Unfortunately, many biases are so deeply imbedded that it takes experts to reveal them, if they get revealed at all, as in the case of, say, medical software that prioritised white patients over black patients with worse symptoms. Or in the case of an Amazon recruiting AI algorithm that down-ranked female candidates.
+
+We must fully understand the fallibility of algorithms and demand better from those who produce them.
+
+Coding or bias errors, in the Irish and UK grading algorithms this year, will have made these issues clearer, in a frustrating, painful, life-affecting way, to many.
+
+We can't leave it at that, though. Our next step must be to push for laws that will require corporate algorithm transparency – as is beginning to happen now in the EU – because this isn't just about one-off grading scandals.
+
+This is about all of us, in thrall to obfuscating algorithms that judge us secretly and silently, with potentially life-changing impact, every single day.. The algorithm which brought together lots of different factors to come up with students’ grades had two errors – but those mistakes have had massive knock-on effects
+
+This week it emerged that a problem was discovered with the Leaving Certificate calculated grades system which means thousands of students will have their results upgraded. But what happened?
+
+What is an algorithm?
+
+It’s code that makes decisions that affect what you do, see or experience based on a number of different factors, circumstances and inputs.
+
+How was it used in the Leaving Cert 2020 grading process?
+
+It was supposed to put in effect a blended formula of students’ past performance that the Department of Education was implementing to come up with ‘calculated’ grades.
+
+So what exactly went wrong?
+
+The Department says that a single line of code (out of 50,000) had two errors in it that negatively affected students’ predicted grades. First, the code substituted a student’s worst two subjects for their best two subjects. Then it wrongly added a subject into the equation - the results of the Junior Cycle’s Civic, Social and Political Education. This shouldn’t have been counted.
+
+How was the coding issue not caught before now?
+
+We know that the code wasn’t sufficiently tested, which is normally a crucial part of any software release. Department officials say that there simply wasn’t enough time to test everything thoroughly due to the urgency of the situation and the resourcing constraints. They emphasised that this wasn’t a software package already being used elsewhere. It was custom-built for the particulars of our situation.
+
+“You can optimise for two of time, cost and quality,” said Brian Caulfield, an experienced Irish technology founder and investor. “Never all three. In this case time was non-negotiable. Government and the Department were in a no-win situation and guaranteed to be slaughtered if they spent a fortune.”
+
+How do we know whether the coding error was a basic one or not?
+
+We don’t. The code - and the implementation of the algorithms - aren’t available to check. In other words, they’re not ‘open source’ or reviewable in the way that, for example, the Irish Covid-19 Tracker smartphone app code is. But we do know that the Department of Education and Skills found the second error while performing checks related to the first one. That second error, Education Minister Norma Foley says, was contained in the same section of the code.
+
+How do we know there are no further errors in the code?
+
+We don’t, yet. We’ve been relying on after-the-fact investigation by the contracted firm, Polymetrika. It was their internal audit that notified Department officials of the error - if they had stayed quiet about it, we might not have known.
+
+However, the Department has made two comments on this. First, it says that it has carried out a series of further checks and has identified “no further errors in the coding”. Second, it has contracted a US-based specialist firm, Educational Testing Service (ETS), to “review essential aspects of the coding”. The Department says this review is expected to take a number of days.
+
+Are there any fundamental problems with relying on code for this type of sensitive situation?
+
+There may be. Coding experts say that the decision to use a code-supported calculated grading process in the first place is controversial.
+
+“There is a big open problem with these types of prediction systems, whether it be grades, mortgage risk prediction, or anything else,” said Andrew Anderson, a senior research fellow in the School of Computer Science and Statistics at Trinity College Dublin.
+
+“This is usually called the problem of inscrutability. The algorithm cannot tell you why any prediction should be right. In a normal appeal, the person doing the grading has to justify the grade they assigned and the student gets to see that sufficient care was taken in calculating that grade. With predicted grades, this transparency is sacrificed, because the algorithm can't justify the result. It's just a set of calculations.”

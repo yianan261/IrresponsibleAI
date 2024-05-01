@@ -1,0 +1,97 @@
+Some tech companies make a splash when they launch, others seem to bellyflop.
+
+Genderify, a new service that promised to identify someone’s gender by analyzing their name, email address, or username with the help AI, looks firmly to be in the latter camp. The company launched on Product Hunt last week, but picked up a lot of attention on social media as users discovered biases and inaccuracies in its algorithms.
+
+Type the name “Meghan Smith” into Genderify, for example, and the service offers the assessment: “Male: 39.60%, Female: 60.40%.” Change that name to “Dr. Meghan Smith,” however, and the assessment changes to: “Male: 75.90%, Female: 24.10%.” Other names prefixed with “Dr” produce similar results while inputs seem to generally skew male. “Test@test.com” is said to be 96.90 percent male, for example, while “Mrs Joan smith” is 94.10 percent male.
+
+The outcry against the service has been so great that Genderify tells The Verge it’s shutting down altogether. “If the community don’t want it, maybe it was fair,” said a representative via email. Genderify.com has been taken offline and its free API is no longer accessible.
+
+Although these sorts of biases appear regularly in machine learning systems, the thoughtlessness of Genderify seems to have surprised many experts in the field. The response from Meredith Whittaker, co-founder of the AI Now Institute, which studies the impact of AI on society, was somewhat typical. “Are we being trolled?” she asked. “Is this a psyop meant to distract the tech+justice world? Is it cringey tech April fool’s day already?”
+
+Making assumptions about people’s gender at scale could be harmful
+
+The problem is not that Genderify made assumptions about someone’s gender based on their name. People do this all the time, and sometimes make mistakes in the process. That’s why it’s polite to find out how people self-identify and how they want to be addressed. The problem with Genderify is that it automated these assumptions; applying them at scale while sorting individuals into a male/female binary (and so ignoring individuals who identify as non-binary) while reinforcing gender stereotypes in the process (such as: if you’re a doctor you’re probably a man).
+
+The potential harm of this depends on how and where Genderify was applied. If the service was integrated into a medical chatbot, for example, its assumptions about users’ genders might have led to the chatbot issuing misleading medical advice.
+
+Thankfully, Genderify didn’t seem to be aiming to automate this sort of system, but was primarily designed to be a marketing tool. As Genderify’s creator, Arevik Gasparyan, said on Product Hunt: “Genderify can obtain data that will help you with analytics, enhancing your customer data, segmenting your marketing database, demographic statistics, etc.”
+
+In the same comment section, Gasparyan acknowledged the concerns of some users about bias and ignoring non-binary individuals, but didn’t offer any concrete answers.
+
+One user asked: “Let’s say I choose to identify as neither Male or Female, how do you approach this? How do you avoid gender discrimination? How are you tackling gender bias?” To which Gasparyan replied that the service makes its decisions based on “already existing binary name/gender databases,” and that the company was “actively looking into ways of improving the experience for transgender and non-binary visitors” by “separating the concepts of name/username/email from gender identity.” It’s a confusing answer given that the entire premise of Genderify is that this data is a reliable proxy for gender identity.
+
+The company told The Verge that the service was very similar to existing companies who use databases of names to guess an individual’s gender, though none of them use AI.
+
+“We understand that our model will never provide ideal results, and the algorithm needs significant improvements, but our goal was to build a self-learning AI that will not be biased as any existing solutions,” said a representative via email. “And to make it work, we very much relied on the feedback of transgender and non-binary visitors to help us improve our gender detection algorithms as best as possible for the LGBTQ+ community.”. Just hours after making waves and triggering a backlash on social media, Genderify — an AI-powered tool designed to identify a person’s gender by analyzing their name, username or email address — has been completely shut down.
+
+
+
+Launched last week on the new-product showcase website Product Hunt, the platform was pitched as a “unique solution that’s the only one of its kind available in the market,” enabling businesses to “obtain data that will help you with analytics, enhancing your customer data, segmenting your marketing database, demographic statistics,” according to Genderify creator Arevik Gasparyan.
+
+
+
+Spirited criticism of Genderify quickly took off on Twitter, with many decrying what they perceived as built-in biases. Entering the word “scientist” for example returned a 95.7 percent probability for the person being male and only a 4.3 percent chance for female. Ali Alkhatib, research fellow at the Center for Applied Data Ethics, tweeted that when he typed in “professor,” Genderify predicted a 98.4 percent probability for male, while the word “stupid” returned a 61.7 percent female prediction. In other cases, adding a “Dr” prefix to frequently-used female names resulted in male-skewed assessments.
+
+The Genderify website included a section explaining how it collected its data based on sources such as governmental and social network information. Before the shutdown the Genderify team tweeted “Since AI trained on the existing data, this is an excellent example to show how bias is the data available around us.”
+
+Issues surrounding gender and other biases in machine learning (ML) systems are not new and have raised concerns as more and more potentially biased systems are being turned into real-world applications. AI Now Institute Co-founder Meredith Whittaker seemed shocked that Genderify had made it to a public release, tweeting, “No fucking way. Are we being trolled? Is this a psyop meant to distract the tech+justice world? Is it cringey tech April fool’s day already? Or, is it that naming the problem over and over again doesn’t automatically fix it if power and profit depend on its remaining unfixed?”
+
+
+
+Last month, the Director of Machine Learning Research at NVIDIA and California Institute of Technology Professor Anima Anandkumar tweeted her concerns when San Francisco-based research institute OpenAI released an API that runs GPT-3 models which she said produced texts that were “shockingly biased.”
+
+
+
+OpenAI responded that “generative models can display both overt and diffuse harmful outputs, such as racist, sexist, or otherwise pernicious language,” and that “this is an industry-wide issue, making it easy for individual organizations to abdicate or defer responsibility.” The company stressed that “OpenAI will not,” and released API usage guidelines with heuristics for safely developing applications. The OpenAI team also pledged to review applications before they go live.
+
+
+
+There is an adage in the computer science community: “garbage in, garbage out.” Models fed by biased data will tend to produce biased predictions, and the concern is that many such flawed models may be turned into applications and brought to market without proper review.
+
+
+
+In the wake of the Genderify debacle, many in the ML community are reflecting on what went wrong and how to fix it. University of Southern California Research Programmer Emil Hvitfeldt launched a GitHub project, Genderify Pro, that argues “assigning genders is inherently inaccurate” and “if it is important to know someone’s gender, ask them.”
+
+Reporter: Yuan Yuan | Editor: Michael Sarazen
+
+Synced Report | A Survey of China’s Artificial Intelligence Solutions in Response to the COVID-19 Pandemic — 87 Case Studies from 700+ AI Vendors
+
+This report offers a look at how the Chinese government and business owners have leveraged artificial intelligence technologies in the battle against COVID-19. It is also available on Amazon Kindle.
+
+Click here to find more reports from us.
+
+We know you don’t want to miss any story. Subscribe to our popular Synced Global AI Weekly to get weekly AI updates.
+
+Share this: Twitter
+
+Facebook
+
+. The creators of a controversial tool that attempted to use AI to predict people's gender from their internet handle or email address have shut down their service after a huge backlash.
+
+The Genderify app launched this month, and invited people to try it out for free on its website. Netizens were horrified when they realized how sexist it was; it was riddled with the usual stereotyping, such as associating usernames or email addresses containing "nurse" more with women than men, whereas "doctor" or "professor" was considered more male than female. That meant female academics, who have earned the title of doctor or professor, were more likely to be considered male by Genderify.
+
+Many were also disappointed that Genderify boxed people into two genders, ignoring those who don’t identify as either male or female. Sasha Constanza-Chock, associate professor of Civic Media at the Massachusetts Institute of Technology, explained to The Register how this binary classification could be harmful if it was used for, say, selecting targeted advertising to show to people online.
+
+“Think how a trans man might feel if targeted by ads for stereotypically gendered female things, or vice versa," Constanza-Chock said. "Or the harm in opportunity cost of not showing employment ads to people based on misgendered assumptions.”
+
+What’s more, the tool was often wrong or downright bizarre. For example, it was confident that the presence of the word ‘woman’ in an online nick signaled there was a more than 96 per cent chance the netizen was male, and less than four per cent female.
+
+Uhh pic.twitter.com/s3m1sFF5so — Alex Betsos, Marquis De Réagent (@ADrugResearcher) July 28, 2020
+
+To demonstrate how garbage the tool was, someone even entered the name of Genderify’s chief operating officer, Arevik Gasparyan, who is female, for the software to analyze. Unfortunately, it predicted with over 91 per cent confidence that she was, in fact, a bloke.
+
+Genderify’s website has now been shut down (here's what it looked like, thanks to the Wayback Machine).
+
+Before the service was taken down, however, a spokesperson from the platform told The Register there are numerous similar gender-guessing APIs out there, hosted on cloud platforms. “Several companies have already been publicly providing similar technology for the last six years, have you ever heard that anybody got harmed from detecting their gender?” the spinner said.
+
+When The Register sent the website's support staff examples of dumb results, Genderify admitted its tool wasn’t always perfect. “We understand that our model will never provide ideal results, and the algorithm needs significant improvements, but our goal was to build a self-learning AI that will not be biased as any existing solutions,” a rep said.
+
+Oh dear... AI models used to flag hate speech online are, er, racist against black people READ MORE
+
+It said that in order for it to improve, it needed help from the LGBTQ community: “And to make it work, we very much relied on the feedback of transgender and non-binary visitors to help us improve our gender detection algorithms as best as possible for the LGBTQ+ community.”
+
+At first, Genderify tried to calm its critics by updating its FAQ on its website to address the question of how to avoid gender discrimination.
+
+"As our AI model’s decisions are based on already existing binary name and gender databases, our Product team is actively looking into ways of improving the experience for transgender and non-binary visitors. For example, the team is working on separating the concepts of name/username/email from gender identity," its site previously said.
+
+But as the internet's fury rained down on its Twitter feed, the platform eventually removed its tool altogether. “After this kind of 'warm' welcome, we were not sure if it is worth our time and efforts to make a change in existing biased reality,” a spinner told El Reg. ®

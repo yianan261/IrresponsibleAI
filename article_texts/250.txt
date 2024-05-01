@@ -1,0 +1,25 @@
+In a seemingly routine case at the Amsterdam court of appeal, a judge ruled that it was acceptable for a municipality to use a black-box algorithm, as long as the results were unsurprising.
+
+In 2016, the municipality of Castricum, a seaside town of 35,000 in Holland, set the home value of an unnamed claimant at 320,000€ (in the Netherlands, property tax is paid based on a house’s estimated resale value). Way too high, said the claimant, who promptly went to court.
+
+The claimant argued that his property was damaged by an earthquake, so that its resale value was much lower. Readers sitting on a seismic fault might laugh at the idea of earthquakes in Holland, but an earthquake did happen 10 kilometers away from Castricum on 30 January 1997 – magnitude 2. The municipality offered nine times to visit the house to assess the damage but the claimant declined, citing concerns over his freedom. The Amsterdam court of appeal logically upheld the municipality’s assessment in a ruling last February.
+
+The magic of WOZ
+
+The interesting part of the trial lies in the assessed value of 320,000€. Dutch municipalities have to estimate the value of properties every year, by law. The law in question is abbreviated to WOZ, leading the Dutch to speak of “WOZ value” for the estimate. The valuation chamber oversees the processes that take place at the municipality level.
+
+According to an official from the valuation chamber, almost all municipalities rely on tools from five companies to assess the WOZ value, which use clear statistical methods. While some municipalities experiment with Artificial Intelligence, he was not aware that any such model was used to compute the actual WOZ values.
+
+The valuation chamber instructs municipalities to ensure that their models are explainable, and does not allow the use of black-box models, the official added. But in front of the Amsterdam court of appeal, when the claimant demanded to be told how the valuation of 320,000€ came to be, the municipality was unable to answer. Not because it did not want to, but because it could not.
+
+Whitewashing the black box
+
+Under Dutch case law and GDPR, a public body must be able to provide the details and mechanisms that led to an automated decision. The court took note of the municipality’s breach of the law, and ordered them to pay the court costs.
+
+Nevertheless, the court proceeded to explain why the 320,000€ valuation was correct. Following the municipality’s argument, the judge looked at properties that were sold around 2016 in the vicinity and found the price per square meter to match with the algorithmically-generated value for the house of the claimant. The latter riposted that his house was in much worse shape and thus less expensive; the municipality answered that this information was already included in the computations (the main bone of contention was the extent of the earthquake damage).
+
+A dangerous precedent
+
+For Marlies van Eck, an assistant professor at Radboud University who specializes in the legal aspects of AI use, the Dutch supreme court set a principle that automated decisions should be explainable. Under this principle, the assessment of the municipality should have been annulled. “We now learned that if the principle is not met, it has no legal consequences”, she added. The decision, which will not go to the Dutch supreme court, could set a precedent whereby judges accept results from black-box algorithms as long as they seem reasonable, she told AlgorithmWatch.
+
+While the ruling is unlikely to have serious consequences now (the complainant even belatedly invited the municipality to visit his house), it could hint at a dramatic turn in Dutch administrative law, Ms van Eck said. Black-box algorithms that have legal consequences are, in theory, prohibited under current law, but the approach of the Amsterdam court of appeal would make them acceptable.

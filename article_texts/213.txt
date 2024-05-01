@@ -1,0 +1,155 @@
+Sign in with your OSF account to continue. Researchers with imec-DistriNet at KU Leuven in Belgium and New York University’s Cybersecurity for Democracy conducted a comprehensive audit of Facebook’s political ad detection and policy enforcement. The researchers examined 33.8 million Facebook ads that ran between July 2020 and February 2021—a timeframe that included elections in both the U.S. and Brazil. This is the first known study to quantify the performance of Facebook’s political ad policy enforcement system at a large and representative scale. The researchers’ review found that:
+
+Globally, Facebook made the wrong decision for 83 percent of those ads that had not been declared as political by their advertisers and that Facebook or the researchers deemed political. Facebook both overcounted and undercounted political ads in this group (Figure 1).
+
+that had not been declared as political by their advertisers and that Facebook or the researchers deemed political. Facebook both overcounted and undercounted political ads in this group (Figure 1). Facebook missed a higher proportion of political ads outside the U.S. The platform had the worst record in Malaysia, where it missed as much as 45 percent of ads from obviously political pages or advertisers. In Macedonia, Argentina, Turkey, Portugal, France, and Serbia, Facebook missed up to one out of four ads from such pages, which were sponsored by candidates or parties. In the U.S., 55 percent of detected political ads were actually overcounts, meaning they did not meet Facebook’s definition for political ads.
+
+The platform had the worst record in Malaysia, where it missed as much as 45 percent of ads from obviously political pages or advertisers. In Macedonia, Argentina, Turkey, Portugal, France, and Serbia, Facebook missed up to one out of four ads from such pages, which were sponsored by candidates or parties. In the U.S., 55 percent of detected political ads were actually overcounts, meaning they did not meet Facebook’s definition for political ads. Facebook allowed more than 70,000 political ads to run during its moratorium on political ads around the U.S. 2020 elections. These ads were sponsored by pages that ran political ads before the election and continued to run them after the moratorium. In other words, these advertisers stopped declaring these ads as political.
+
+Facebook’s transparency via its Ad Library API was not sufficient to do this analysis. To capture publicly available ads that were not included in the API, the researchers created an alternate pipeline to gather ads from the web portal. Mandated universal ad transparency would alleviate the need for use of alternate methods (Figure 2).
+
+Background
+
+Facebook imposes increased authenticity and transparency requirements for “ads about social issues, elections or politics” in around 120 countries, by requiring advertisers to confirm their identity and location and “declare” who funded the ads, which then appears as a “disclaimer” for the ad. In this analysis, the researchers use the shorthand “political” to refer to this class of ads.
+
+Because not all advertisers self-declare political ads, Facebook conducts additional reviews to ensure all political ads are captured. If they find undeclared political ads, they take these ads down – that is, they remove them from the site. In addition, the platform sometimes creates temporary requirements, such as the moratorium on political ads around the U.S. 2020 elections.
+
+Political ad detection in the United States
+
+While Facebook’s detection of political ads in the U.S. performed the best worldwide, at least 10,940 undisclosed electoral ads were never discovered by Facebook. This included ads from a U.S. senator and former presidential primary candidate who spent almost $10 million dollars on ads, running them during the ad ban after the U.S. elections.
+
+In addition, 1,018 advertisers that ran exclusively political ads before the U.S. election ran 71,426 undeclared ads afterwards, despite the platform’s political ad moratorium. This ban applied to new political ads during the week prior to Nov. 3, 2020 and to all political ads between Nov. 4 and March 4, 2021.
+
+The analysis showed that some 55 percent of political ads were overcounts—ads that the platform labeled as political, but did not meet Facebook’s definition. Among these overcounted ads, which were therefore taken down in error, were e-commerce ads and ads with public health messages, including some related to COVID-19.
+
+Worldwide ad detection
+
+Worldwide, Facebook misidentified 83 percent of the undeclared ads that Facebook or the researchers deemed political (Figure 1).
+
+62 percent of the ads, or 116,963 ads, were missed by Facebook— that is, they were political but not labeled as such.
+
+Facebook overcounted 40,191 additional ads, or 21 percent, as political when they did not meet its own criteria for political ads.
+
+62 percent of the ads, or 116,963 ads, were missed by Facebook— that is, they were political but not labeled as such. Facebook overcounted 40,191 additional ads, or 21 percent, as political when they did not meet its own criteria for political ads. Facebook had the worst success rate when detecting political ads from Malaysian advertisers, where it missed 45 percent of political ads. Macedonia and Argentina were not far behind, with 37 and 34 percent of political ads missed. Facebook had the best success rate when detecting political ads from advertisers based in the U.S. or New Zealand. (See Tables 1 and 2 for ranking by country.)
+
+Facebook pages that ran obviously political ads resulted in significant exposure worldwide—some 4 billion impressions, or views, before they were caught, if ever. Advertisers spent an estimated $12.2–20.7 million on ads that violated Facebook’s policy but were later detected, and an additional estimated $4.6–9.2 million on violating ads that went undetected.
+
+Impacts of poor ad detection
+
+The study identifies a number of risks that arise from Facebook’s failure to accurately detect and flag political ads:
+
+When Facebook fails to identify advertisers who do not properly declare their ads as political, those who are malicious can spread disinformation, prohibited content or engage in coordinated inauthentic behavior with impunity.
+
+Users who see ads without a political disclaimer may not be aware that their intent is to influence them. They may then be shown more of the same kind of content.
+
+Poor detection also disadvantages well-meaning advertisers, who may be confused about policies or whose ads may be taken down in error.
+
+Missed ads disappear from the Facebook Ad Library after they run, making them inaccessible to researchers.
+
+Data sources and methodology
+
+Researchers who study political ads on Facebook use data that the company provides via its Ad Library API, Ad Library Report, and Ad Library web portal. However, this data is insufficient for conducting an analysis like this (Figure 2). For example:
+
+The Ad Library API is missing ads that Facebook has failed to detect as political, and includes ads labeled as political that do not meet the criteria.
+
+The Ad Library Report features inaccurate aggregate spending data because it overcounts some ads and is missing others.
+
+Facebook removes inactive ads from the Ad Library web portal, meaning that if it fails to label an ad as political, and that ad campaign is over, it is no longer available.
+
+The research team thus created a novel large-scale data collection pipeline to archive data from the Ad Library web portal, which lists all active ads for a given advertiser, regardless of whether they are political. The resulting data set is likely the most comprehensive archive of Facebook political ads for the time period, which includes the U.S. and Brazilian elections, since it also contains the ads that Facebook missed.
+
+Recommendations for better enforcement of political ad policies
+
+To address the inconsistencies in its ad detection systems, the research team recommends that Facebook:
+
+Closely monitor pages run by candidates, parties, and other obviously political entities, and require all their ads to be declared as political.
+
+Impose appropriate consequences when advertisers violate policies, including taking down pages or preventing them from publishing ads.
+
+Invest in improving performance of ad detection systems globally, including engaging with local governments, regulators and organizations and ensuring systems adapt to local contexts.
+
+Clarify which ads they consider political and clear up the ambiguity associated with “issue ads.”
+
+Given both the risks and Facebook’s reticence to make changes that affect its bottom line, outside actors may need to intervene. Legislators could harmonize definitions of both political and issue ads across platforms to remove ambiguity. They could also set enforcement and transparency requirements that would be overseen by regulators and come with penalties if the requirements are not met. Finally, the team joins calls for mandated universal ad transparency, which would provide independent researchers the data necessary to conduct audits such as this one and allow the public to scrutinize and better understand the political ad ecosystem.
+
+Figure 1: Facebook political ad detection
+
+Figure 2: Gaps in Facebook’s ad transparency
+
+Table 1: Missed obviously political ads, by country, top 20% (candidate/party pages)
+
+Table 2: Missed obviously political ads, by country, bottom 5% (candidate/party pages)
+
+Graphics are available for public use with the following attribution:
+
+Figure 1: Facebook’s ad oversight, July 2020-February 2021, An Audit of Facebook’s Political Ad Policy Enforcement; KU Leuven, Cybersecurity for Democracy; 2021.
+
+Figure 2: Gaps in Facebook’s ad transparency, An Audit of Facebook’s Political Ad Policy Enforcement; KU Leuven, Cybersecurity for Democracy; 2021.
+
+The authors are: Victor Le Pochat (imec-DistriNet, KU Leuven), Laura Edelson (New York University), Tom Van Goethem (imec-DistriNet, KU Leuven), Wouter Joosen (imec-DistriNet, KU Leuven), Damon McCoy (New York University), Tobias Lauinger (New York University).
+
+This research is partially funded by the Research Fund KU Leuven, and by the Flemish Research Programme Cybersecurity. Cybersecurity for Democracy at NYU’s Center for Cybersecurity has been supported by Democracy Fund, Luminate, Media Democracy Fund, the National Science Foundation under grant 1814816, Reset, and Wellspring. This material is based upon work supported by the Google Cloud Research Credits program. Victor Le Pochat holds a PhD Fellowship of the Research Foundation Flanders - FWO (11A3421N).
+
+About Cybersecurity for Democracy
+
+Cybersecurity for Democracy is a research-based, nonpartisan, and independent effort to expose online threats to our social fabric – and recommend how to counter them. It is a part of the Center for Cybersecurity at the NYU Tandon School of Engineering.
+
+About imec-DistriNet, KU Leuven
+
+Research at imec-DistriNet enables software, systems, and services that are secure, resilient, performant, and robust while open and adaptable. Fundamental, strategic, and applied research activities in the areas of Secure Software, Distributed Software, and Software Engineering converge in this perspective. In addition, imec-DistriNet delivers valorization in an industrial context. The imec-DistriNet research group is part of the Department of Computer Science at KU Leuven.. . PARIS (AFP) - Facebook misidentified tens of thousands of advertisements flagged under its political ads policy, according to a study released Thursday (Dec 9), which warned that the failure could lead to political manipulation.
+
+Researchers at Belgium's KU Leuven university and New York University examined 33.8 million Facebook ads that ran on the social media site between July 2020 and February 2021.
+
+"This is the first known study to quantify the performance of Facebook's political ad policy enforcement system at a large and representative scale," the team said in a summary of their findings.
+
+Facebook imposes stricter conditions on paid advertisements that concern "social issues, elections or politics", including posts that promote particular candidates.
+
+Ads labelled as political appear on the site with a disclaimer that explains who paid for them. Ads that are found to be political, when they were not declared as such, are taken down.
+
+But the researchers found that in 189,000 cases when Facebook reviewed an ad to check whether or not it should be treated as political, it was wrong 83 per cent of the time.
+
+These included 117,000 cases when Facebook's detection system failed to flag up ads that should have been treated as political, and 40,000 ads that were mistakenly flagged as political when they were not.
+
+The researchers noted that Facebook's enforcement of the policy relies heavily on detecting keywords in ads under an automated system, although staff also play a role in moderating the content.
+
+The period studied included elections in two large Facebook markets, the United States and Brazil, and the researchers warned that mislabelling the ads created opportunities for manipulation.
+
+"When Facebook fails to identify advertisers who do not properly declare their ads as political, those who are malicious can spread disinformation," they warned.
+
+"Users who see ads without a political disclaimer may not be aware that their intent is to influence them," they added.
+
+The team noted that the US social media giant missed a higher proportion of undeclared political ads outside the US.
+
+"The platform had the worst record in Malaysia, where it missed as much as 45 per cent of ads from obviously political pages or advertisers," the research summary said.
+
+"In Macedonia, Argentina, Turkey, Portugal, France and Serbia, Facebook missed up to one out of four ads from such pages, which were sponsored by candidates or parties." The study follows criticism of Facebook over a recent whistleblower scandal, including accusations that the site's ability to tamp down hate speech and misinformation has been seriously lacking outside the West.
+
+Within the US, Facebook introduced a moratorium on political ads around the 2020 presidential election, following deep controversy over the platform's role leading up to the 2016 election of Mr Donald Trump.
+
+Facebook nonetheless allowed more than 70,000 political ads to run during the 2020 moratorium, the researchers found.
+
+AFP has reached out to Facebook to request a comment on the study.. In the years since the Cambridge Analytica scandal revealed how easily Facebook’s political ads could be weaponized by bad actors abroad, the social network has made some major overhauls that, in a perfect world, would keep a scandal like that from happening again. It rolled out an ever-growing library of the ads political parties were running on its platform, put up a new authorization process for anyone looking to run political ads in the U.S., and even let users opt out of seeing some of those ads if they chose.
+
+Making the Facebook Papers Public CC Share Subtitles Off
+
+English view video Making the Facebook Papers Public
+
+These tools largely rely on advertisers being honest about disclosing their political ties, though—and tho se folks aren’t known for being honest. Facebook knows this, which is why it also uses a (mostly automated) review process to sniff out political ads that might be trying to skirt these rules.
+
+Advertisement
+
+Because these systems are, again, mostly automated, things go about as well as you’d expect: S tories have come out describing political groups openly skirting attempted ad crackdowns, and of regular mom- and- pop shops whose ads got slapped with a political label.
+
+Now a joint study between researchers at New York University and KU Leuven in Belgium suggests that that this problem might be worse than we thought. The team investigated 189,000 political ads that ran on Facebook between July 2020 and February of this year, and found that Facebook had missed the mark a whopping 83%(!) of the time: 21% were regular ads for products that the platform had misidentified as being political, and the remaining 62% were outright political ads that Facebook just... missed.
+
+Advertisement
+
+If you’re familiar with Facebook’s less-than-stellar reputation when it comes to moderating content written in non-English languages, you won’t be surprised to hear that the lion’s share of these misses came from overseas.
+
+In Malaysia, for example, the researchers found nearly half of the political ads they collected—45% —weren’t labeled, despite being run by blatantly political advertisers or pages. Pages from Macedonia, Argentina, and Turkey, meanwhile, had about a quarter of their political ads fly under Facebook’s radar. The U.S., meanwhile, had something of the opposite problem: about 55% of the political ads that Facebook had flagged weren’t political at all; the examples compiled on the researchers’ site include ads for products like a Ford pickup and a baby cradle being branded as “political.”
+
+Advertisement
+
+Of course, there are some major misses in the U.S., too. The tracking both of these teams were doing coincided with Facebook’s temporary ban on political ads following last year’s presidential election. The researchers found more than 70,000 political ads running wild on the platform during this period, by pages that had openly run nothing but political ads before the ban began—the only thing that changed is that they weren’t labeled anymore. And Facebook just didn’t notice.
+
+We’ve reached out to Facebook about the study and will update here when we hear back.

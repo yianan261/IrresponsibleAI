@@ -1,0 +1,69 @@
+. In Jokkmokk, a tiny hamlet just north of the Arctic Circle in Sweden, where temperatures can dip to 50 below, Volvo Cars’ self-driving XC90 sport-utility vehicle met its match: frozen flakes that caked on radar sensors essential to reading the road. Suddenly, the SUV was blind.
+
+“It’s really difficult, especially when you have the snow smoke from the car in front,” said Marcus Rothoff, director of Volvo’s autonomous-driving program. “A bit of ice, you can manage. But when it starts building up, you just lose functionality.”
+
+After moving the sensors around to various spots on the front, Volvo engineers finally found a solution. Next year, when Swedish drivers take their hands off the wheel of leased XC90s in the world’s first public test of autonomous technology, the radar will be nestled behind the windshield, where wipers can clear the ice and snow.
+
+As automakers race to get robot cars on the road, they’re encountering an obstacle very familiar to humans: Old Man Winter. Simple snow can render the most advanced computing power useless and leave vehicles dead on the highway. That’s why major players including Volvo Cars, owned by Zhejiang Geely Holding Group Co.; Google, a unit of Alphabet Inc.; and Ford Motor Co. are stepping up their efforts to prevent snow blindness.
+
+‘A Lot of Hype’
+
+“There’s been a lot of hype in the media and in the public mind’s eye” about the technology for self-driving cars “being nearly solved,” said Ryan Eustice, an associate professor of engineering at the University of Michigan who is working with Ford on snow testing. “But a car that’s able to do nationwide, all-weather driving, under all conditions, that’s still the Holy Grail.”
+
+The struggle to cure snow blindness is among a number of engineering problems still to be resolved, including training cars not to drive too timidly, causing humans to crash into them, and ethical dilemmas such as whether to hit a school bus or go over a cliff when an accident is unavoidable.
+
+With about 70 percent of the U.S. population living in the snow belt, learning how to navigate in rough weather is crucial for driverless cars to gain mass appeal, realize their potential to reduce road deaths dramatically and overcome growing traffic congestion.
+
+“If your vision is obscured as a human in strong flurries, then vision sensors are going to encounter the exact same obstacles,” said Jeremy Carlson, an IHS Automotive senior analyst who specializes in autonomy.
+
+High-Speed Sensors
+
+Driverless cars “see” the world around them using data from cameras, radar and “lidar,” which bounces laser light off objects to assess shape and location. High-speed processors crunch the data to provide 360-degree detection of lanes, traffic, pedestrians, signs, stoplights and anything else in the vehicle’s path. That enables it to decide, in real time, where to go.
+
+Winter makes this harder. Snow can shroud cameras and cover the lane lines they must see to keep a driverless car on course. Lidar also is limited because the light pulses it emits reflect off flakes, potentially confusing a curtain of falling snow with something to avoid, causing the vehicle to hit the brakes.
+
+Radar, which senses objects by emitting electromagnetic waves, is better. It also has the longest track record: It’s been used since 1999 in adaptive cruise control to maintain a set distance from other vehicles.
+
+Key Element
+
+“If everything else fails, I can follow the preceding traffic,” said Kay Stepper, vice president and head of the automated-driving unit at German supplier Robert Bosch LLC. “The radar is the key element of that because of its ability to work robustly in inclement weather.”
+
+One sensor alone will never be enough, however. “You need different types of sensors looking at the same thing, detecting the same object, to very confidently allow the vehicle to do what you expect,” Carlson said.
+
+Google, based in Mountain View, California, is searching for solutions by logging snow miles with its self-driving Lexus SUVs near Lake Tahoe, on the Nevada-California border. Ford is testing driverless Fusion sedans in snowstorms at the University of Michigan’s Mcity, a 32-acre (13-hectare) faux neighborhood for robot cars on the Ann Arbor school’s North Campus. Both companies declined interview requests.
+
+Ford believes it has found a solution to snow-blanketed lane lines, it said in a press release. It scans roads in advance with lidar to create high-definition 3-D maps that are much more accurate than images from global-positioning satellites, which can be 10 meters (33 feet) off.
+
+Pinpoint Location
+
+Eustice, who has worked with the Dearborn, Michigan, company on the problem since 2012, said they’ve also found a way to filter the “noise” created by falling snowflakes. The filtered data combined with information from the 3-D maps enable the car to pinpoint its location to within “tens of centimeters,” he said.
+
+“That’s high enough accuracy that we know exactly what lane we’re in,” and “helps the robot to understand the environment,” Eustice said, adding that’s still only half the problem: “Then you have to decide what to do now that we know where we are.”
+
+Lane lines can become meaningless in a snowstorm, as humans blaze their own trails in the ruts created by vehicles in front of them.
+
+“For us to barrel down the road in our lane and ignore the ruts would be unnatural to the other drivers,” Eustice said. So Ford has to figure out how to read the ruts and navigate just like a person, which is “really hard.”
+
+Artificial Intelligence
+
+The solution may be artificial intelligence, or AI, said Danny Shapiro, senior director of automotive at Nvidia Corp., a Santa Clara, California-based supplier of high-speed processors.
+
+Using processing power equal to 150 MacBook Pros, Nvidia’s latest computer brain can perform as many as 24 trillion “deep learning operations” per second, the company said in a press release. Deep learning creates “superhuman levels of situational awareness” by training a robot car how to behave, based on millions of miles of driving experience loaded into its software and continually updated, Nvidia said. So, in a snowstorm, the car will know it should follow the ruts rather than stay within the lane lines.
+
+Learn by Experience
+
+“The AI vehicle can make adaptions in real time,” Shapiro said. “It’s very similar to how a human learns, by experience.”
+
+Also like a human, though, a whiteout can leave a driverless car disoriented.
+
+“I don’t think that we should expect that in a blinding snowstorm the autonomous vehicle will be fine,” Shapiro said.
+
+This may be the case next year when consumers test the Volvo XC90s in Gothenburg, Sweden, the company’s headquarters. Even though the SUVs will be equipped with Nvidia’s latest supercomputing processor and the interior-mounted radar sensors, Jack Frost still can take the wheel back from the robot. If drivers try to engage autonomous mode in a serious squall, they’ll get a dashboard message saying conditions won’t allow it.
+
+“We have to be a bit careful when we have real customers,” Rothoff said.
+
+Topics California Auto Personal Auto Artificial Intelligence Michigan. Fully automated cars don’t drink and drive, fall asleep at the wheel, text, talk on the phone or put on makeup while driving. With their sensors and processors, they navigate roads without any of these human failings that can result in accidents.
+
+But there is something self-driving cars do not yet deal with very well – the unexpected. The human brain is still better than any computer at making decisions in the face of sudden, unforeseen events on the road – a child running into the street, a swerving cyclist or a fallen tree limb.
+
+Here are five situations that, for now at least, often confound self-driving cars and the engineers working on them.. 

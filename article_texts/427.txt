@@ -1,0 +1,27 @@
+The main federal auto safety agency disclosed on Friday that it has begun a preliminary investigation into cars that a division of General Motors has been testing as driverless taxis in San Francisco.
+
+The agency, the National Highway Traffic Safety Administration, said in a filing posted on its website that it had received reports that autonomous taxis operated by G.M.’s Cruise division had become immobilized on roadways, creating obstacles for other vehicles. The agency also said G.M. reported three incidents in which Cruise vehicles slowed suddenly and were hit from behind.
+
+The agency said its Office of Defects Investigation would try to determine the scope and severity of the two types of incidents.
+
+Regulators are increasingly scrutinizing autonomous and semiautonomous cars, and the claims automakers have made about them. The auto safety agency’s most high profile investigation in this area involves Tesla’s self-driving technology. Regulators are looking into at least 14 crashes involving Tesla cars driving on Autopilot that resulted in 19 deaths.. . Update, 1:37 pm ET: Cruise reached out to Ars with the following statement: "Cruise’s safety record is publicly reported and includes having driven nearly 700,000 fully autonomous miles in an extremely complex urban environment with zero life-threatening injuries or fatalities. This is against the backdrop of over 40,000 deaths each year on American roads. There’s always a balance between healthy regulatory scrutiny and the innovation we desperately need to save lives, which is why we’ll continue to fully cooperate with NHTSA or any regulator in achieving that shared goal.”
+
+Original story: The National Highway Traffic Safety Administration is looking into Cruise's robotaxis after several crashes involving the autonomous vehicles being rear-ended. NHTSA's Office of Defects Investigation has opened an investigation into the General Motors-backed autonomous driving startup's automated driving system and a possible propensity to brake inappropriately hard if another vehicle approaches quickly from behind. NHTSA's ODI is also looking into incidents where Cruise's AVs have stopped and become immobile road hazards.
+
+Cruise is one of the leading AV developers, and along with Alphabet's Waymo, it has deployed actual driverless robotaxis, albeit on a small scale so far. It's developing a futuristic box-on-wheels called the Origin, which it hopes to have running on the road sans steering wheel in 2023. But for now, the company is testing on the streets of San Francisco with modified Chevrolet Bolt EVs.
+
+There have been a few scrapes and bumps along the way, and earlier this year, footage went viral of a Cruise AV appearing to drive away from a traffic stop after being pulled over for not having its headlights on at night.
+
+Advertisement
+
+In August of this year, Cruise had to recall 80 automated driving system-equipped vehicles due to the potential for the software to hard-brake when performing an unprotected left turn.
+
+Cruise says this only happened once out of more than 123,560 unprotected left turns, but "as the Cruise AV turned left and began traversing the intersection, the Cruise AV predicted that the oncoming vehicle, which was traveling approximately 40 mph in the 25 mph right-turn lane, would turn right and directly into the path of the Cruise AV. After the Cruise AV braked to avoid colliding with the front end of the oncoming vehicle, the oncoming vehicle suddenly moved out of the right-turn lane and proceeded straight through the intersection, colliding with the rear right quarter panel of the Cruise AV."
+
+As an aside, this is a real-world example of the trolley problem, in that the AV "had to decide between two different risk scenarios and chose the one with the least potential for a serious collision at the time, before the oncoming vehicle’s sudden change of direction," according to the NHTSA safety recall report.
+
+The new investigation affects 242 vehicles and follows three reports of hard braking maneuvers following another car approaching quickly from behind. NHTSA says that in each case, the other road user rear-ended the Cruise AV.
+
+Additionally, NHTSA says it has received multiple reports of Cruise AVs becoming stranded on the road, which is dangerous to any passengers who might have to evacuate a car blocking a road or junction and to other road users who now have to negotiate a new, car-sized obstacle in their path.
+
+NHTSA says its preliminary investigation will "determine the scope and severity of the potential problem and fully assess the potential safety-related issues posed by these two types of incidents. ODI's assessment will include the commonality and safety logic of the hard braking incidents."

@@ -1,0 +1,495 @@
+Police body cameras and tower camera video show some of what happened on May 30 as protesters squared off with Miami officers forming a line outside of their Downtown headquarters.
+
+The videos, exclusively obtained by NBC 6 Investigators, captured heated moments as objects were thrown at officers and they popped tear gas to retake control of patrol cars.
+
+Police say Oriana Albornoz, 25, threw two rocks at an officer hitting him once and injuring his leg. The department provided a video that shows her throwing something at officers standing across the street but it is difficult to discern what it is.
+
+NBC 6 Investigators found a facial recognition program was used to identify a woman accused of throwing rocks at Miami Police officers during a protest on May 30. NBC 6's Phil Prazan reports.
+
+The incident report also states the officer’s body camera captured the moment, but the department didn’t provide that video to NBC 6.
+
+A month later, Albornoz was arrested and charged with battery on a police officer. She has pleaded not guilty.
+
+The NBC 6 Investigators found police used the facial recognition program Clearview AI to find her.
+
+A recent NBC 6 investigation found police departments across South Florida, including Miami, are using the technology, which identifies people through publicly available photos including social media sites like Facebook, LinkedIn and Instagram.
+
+Albornoz’s attorney Mike Gottlieb did not know police used the technology to identify his client and questioned how it was used.
+
+“It looks like they’ve just done a regular photographic line up and had it not been for the vigilance of your news agency, I would not have known this,” Gottlieb said.
+
+Police make no mention of the technology in the arrest report - only writing Albornoz was “identified through investigative means.”
+
+“We don’t know where they got the image," Gottlieb said. "So how or where they got her image from begs other privacy rights. Did they dig through her social media? How did they get access to her social media? he asked.”
+
+According to the Miami Police’s policy, facial recognition technology shall not be used to conduct surveillance of people exercising “constitutionally protected activities” like protesting.
+
+“This means that if someone is peacefully protesting and not committing a crime, we cannot use it against them,” Miami Police Assistant Chief Armando Aguilar told NBC 6 in an earlier interview.
+
+But Aguilar says that changes if a crime is committed, adding throwing rocks at officers is a crime.
+
+“We have used the technology to identify violent protesters who assaulted police officers, who damaged police property, who set property on fire. We have made several arrests in those cases and more arrests are coming in the near future,” he said.
+
+The department’s policy requires keeping a log documenting all facial recognition searches and conducting monthly audits. It also states that “a positive facial recognition search result alone does not constitute probable cause of an arrest.”
+
+Gottlieb calls the police investigation “very disingenuous” and tells us he’s concerned there are no statewide rules and regulations for facial recognition.
+
+NBC 6 Investigators found Miami Police have a much more detailed policy than other departments using the technology in South Florida. The Broward County Sheriff’s Office, Miami-Dade Police and Coral Spring Police told NBC 6 they have not used the technology to make arrests during the protests following the death of George Floyd.
+
+In an email, the Clearview’s CEO Hon Ton-That told NBC 6: “Clearview AI is also committed to the responsible use of its powerful technology and is used only for after-the-crime investigations to help identify criminal suspects. It is not intended to be used as a surveillance tool relating to protests or under any other circumstances.”. Stephen Cavey: Security - and privacy for that matter - it's a business problem, and it starts at the top and flows down.
+
+Dave Bittner: Hello, everyone. And welcome to "Caveat," the CyberWire's law and policy podcast. This is Episode 43 for August 26, 2020. I'm Dave Bittner. And joining me is my co-host Ben Yelin from the University of Maryland Center for Health and Homeland Security. Hello, Ben.
+
+Ben Yelin: Hi, Dave.
+
+Dave Bittner: On this week's show, I describe how California is providing data - a lot of data - to private investigators. Ben explains how Miami police were using facial recognition software to identify protesters. And later in the show, my conversation with Stephen Cavey. He's from Ground Labs. He's the co-founder and chief evangelist. And we're going to be talking about the CCPA and what happens now that the six-month grace period ended on July 1.
+
+Dave Bittner: While this show covers legal topics and Ben is a lawyer, the views expressed do not constitute legal advice. For official legal advice on any of the topics we cover, please contact your attorney.
+
+Dave Bittner: All right, Ben, let's jump in with some stories here. What do you have for us this week?
+
+Ben Yelin: So my story comes from the local NBC station in Miami. And you know me, Dave; I read every local news website in the country and try and find...
+
+Dave Bittner: You are a news hound, yes (laughter).
+
+Ben Yelin: Yeah. Try and find the best stories for us. It's about an arrest of a young lady in Miami named Oriana Albornoz. She was involved in a protest on May 30 against police violence in Miami, and she is alleged to have thrown a rock at a police officer. What's interesting about this story from our perspective is law enforcement used Clearview AI as their key piece of evidence to obtain an arrest.
+
+Ben Yelin: So long story short - they caught somebody on, like, closed-circuit camera throwing a rock. They couldn't quite discern who it was. They were able to match the shirt that that person was wearing to a sharper image that they found of another surveillance video of the same woman wearing that same shirt. From that video, they used Clearview AI software, and through their scraping technology from various social media websites, including ones that we all use - Facebook, Twitter, LinkedIn - they were able to identify the criminal suspect, and she was just arrested and apprehended. And, you know, now we're talking about 2 1/2 months after the original incident took place.
+
+Ben Yelin: So here we have a tangible example of law enforcement using this pretty controversial technology to effectuate the arrest of somebody who was attending a protest. And so there are a lot of, I think, potentially concerning implications of this.
+
+Dave Bittner: Were there any warrants involved here? Do they have to make their case in front of a judge, or did they just go out and do it?
+
+Ben Yelin: They did not have to make their case in front of a judge because what Clearview AI does is it scrapes publicly available information. So there's no need to get a subpoena. You know, there's no need to ask Facebook and Twitter to hand over data. It's all publicly available. It's just Clearview AI that is scraping that data. Now, as opposed to a lot of other police departments across the country, the Miami Police Department actually has pretty strict policies as it relates to the use of Clearview AI and similar technology. So, for one, you're not allowed to use it to obtain arrest information solely based on a person's First Amendment activities. That's a bit of a gray area here that kind of bothers me a little bit.
+
+Dave Bittner: OK.
+
+Ben Yelin: So, obviously, she ended up committing a crime. She threw a rock at a police officer. That's assault.
+
+Dave Bittner: Right. That's what they're alleging.
+
+Ben Yelin: That's what they're alleging. Exactly.
+
+Dave Bittner: Right, right.
+
+Ben Yelin: I should always say - always use the word alleged there. But this did occur at what was, you know, a political protest.
+
+Dave Bittner: Right.
+
+Ben Yelin: And so if you get into a situation where you have surveillance cameras everywhere...
+
+Dave Bittner: Which is the situation.
+
+Ben Yelin: Which is the situation.
+
+Dave Bittner: I mean, that is the world we live in, right? (Laughter).
+
+Ben Yelin: Right. As we've talked about a million times, you're going to get images of people who are at these protests, and you're going to potentially catch them committing crimes. I guess my thinking is it doesn't really absolve them of any questionable behavior to say, we don't use this on peaceful activities, because of course you're not using it on peaceful activities; you're not trying to effectuate arrests. The concern is that you have this surveillance technology available at large-scale political protests. That's one level of concern here.
+
+Ben Yelin: Yeah, they also have a policy of keeping a log documenting facial recognition searches. They do monthly audits. So it's a pretty comprehensive set of policies. But despite those policies, the criminal complaint did not note that Clearview AI had been used to effectuate this arrest. It simply said that they used, quote, "investigative means," which of course they did.
+
+(LAUGHTER)
+
+Ben Yelin: I don't know what else they would use. And it was only until this enterprising local news station did a little of their own investigative work that they realized that the Miami Police Department was using this technology. So, you know, this is another way that people need to understand that their image is not protected out there. You do not have a sense of privacy, even if you are in an area where you think nobody is watching or you think that you can't be positively identified because, you know, maybe you see a security camera that looks like it's a mile away and you don't think, you know, they're going to be able to enhance the image and find you.
+
+Dave Bittner: Right.
+
+Ben Yelin: When you have these - this type of scraping technology, even if you've tried to stay relatively off the grid, there's enough public information about you online that their - law enforcement are going to be able to effectuate arrests. So I think this is a warning to users out there that use these social media sites and also people who are attending these protests.
+
+Dave Bittner: Yeah. I mean, it seems to me like the game-changer here is is the efficiency that this affords law enforcement, where I could imagine in the past, if they had a photo, an image, something that they captured off of one of these security cameras, you know, they could canvass the neighborhood. They could go door to door. They could stand on a street corner and say, you know, pardon me, good citizen; do you recognize this person whose image is here on this video that we captured?
+
+Ben Yelin: That's how it works in "Law & Order" episodes...
+
+Dave Bittner: Right (laughter).
+
+Ben Yelin: ...And in traditional police work, absolutely.
+
+Dave Bittner: Right. But that's time-consuming. And so you have this natural limit on their ability to do that. And, you know, we talk about - the thing about technology is that you sort of change the scale of things; things happen at scale. So it's interesting - I suppose, game-changer that police could load in footage into some of these facial recognition platforms and just narrow down who is in a crowd of protesters in a way that would have been impractical previously.
+
+Ben Yelin: Absolutely. I mean, I think this goes to a theme of a lot of the stories that we've talked about, you know, specifically as it relates to things like location data. It used to take comprehensive police work to track a person, you know? One guy's shift would end. Another guy's shift would start. You know, you'd have to be physically trailing somebody 24/7. Now that's not the case because we have GPS. We have cellphone location tracking - things of that nature. I think a similar dynamic is at play here, where police work that was resource-intensive - it required a lot of time; it required a lot of money - is now very easy.
+
+Ben Yelin: And I think, in the long run, that will cut away at privacy rights because it's going to be easier for law enforcement to make discoveries of people through this type of technology. And I think that's why it's incumbent upon state governments in particular to develop policies that govern the use of this technology. There isn't any guidance, for example, from the state of Florida on how to use Clearview AI - when it's permitted, what sort of minimization procedures there are for the data. So, you know, it's pretty much every local police department for themselves. And, you know, we all know that the federal government is going to move like molasses on this.
+
+Ben Yelin: So I think it is incumbent upon state governments to be proactive, get out in front of this issue and try and figure out - let's set a policy here where we balance the value of, yes, we want to arrest people who are throwing rocks at cops...
+
+Dave Bittner: (Laughter) Right.
+
+Ben Yelin: ...But we also don't want this to be such a ubiquitous tool that it ends up being a massive invasion of privacy.
+
+Dave Bittner: Yeah. All right. Yeah, that's an interesting example of that in this case, for sure. All right. Well, my story this week - this comes from Vice Motherboard folks, once again Joseph Cox.
+
+Ben Yelin: Yeah, welcome to the Joseph Cox podcast, Dave.
+
+Dave Bittner: (Laughter) We really do need to send Joseph a fruit basket or something.
+
+Ben Yelin: Yeah.
+
+Dave Bittner: Or maybe just get him on the show.
+
+Ben Yelin: Yeah.
+
+Dave Bittner: (Laughter) Well, the article he writes - it's called "California DMV is Selling Driver's Data to Private Investigators." And, basically, it outlines how the folks at Motherboard obtained a document from the California DMV which lists pretty much everybody that has access to some form of DMV data. And it's a lot of organizations (laughter).
+
+Ben Yelin: It sure is.
+
+Dave Bittner: Ninety thousand - 98,000 organizations or so that have access to information from the DMV. And they also point out that the DMV makes $50 million a year selling this data. There's a line in here that struck me - before we go any further - relevant to that. I got a chuckle out of this. It says the California DMV told Motherboard, quote, "The DMV does not sell information, but recovers the cost of providing information as allowed by law."
+
+(LAUGHTER)
+
+Ben Yelin: That was extraordinary. Yeah. I just...
+
+Dave Bittner: I don't - distinction without a difference. But...
+
+Ben Yelin: Yeah. That was so funny to me. It's like, that is - that's called a sale. That's called selling things.
+
+Dave Bittner: (Laughter) Right.
+
+Ben Yelin: If you are compensated for doing something, for providing a product...
+
+Dave Bittner: Right.
+
+Ben Yelin: ...That's called a sale. Yeah.
+
+Dave Bittner: (Laughter) Right, right. And, also, I mean, the California DMV points out that there are many, many legitimate uses for this data, and perhaps the vast majority of it is used for things that most people wouldn't have a problem with. For example, if you're - if you or I are hiring a truck driver in the state of California and we wanted to check their driving record, that would go on this list. That...
+
+Ben Yelin: Sure.
+
+Dave Bittner: And nobody would have a problem with that. Where it gets a little stickier are some of these things that you and I talk about here, which are some of the privacy things. And, specifically, they talk about private investigators. Interesting to me that this article talks about a privacy protection act. It's called the Driver's Privacy Protection Act, which was written in 1994, and it came to be after a stalker had hired a private investigator to get the address of an actress. And the stalker then murdered that actress, and that prompted the creation of this privacy protection act. But what's interesting is there are exemptions in it for businesses, including private investigators.
+
+Ben Yelin: Yeah, that was sort of curious to me. If that was the impetus for that piece of legislation in the 1990s, it seems like - why would you have private investigators be included in the list of exemptions if the incident that caused this law to be enacted was somebody hired by a private investigator? So that was one thing that certainly jumped out to me about this. The other thing that jumped out to me is that I used to have a California DMV driver's license, and now I'm kind of glad that I have a Maryland driver's license. Although I'm sure they also do all sorts of things with my personal information as well.
+
+Dave Bittner: (Laughter) Right, right. Coming up next - how Maryland sells your driver's license information.
+
+Ben Yelin: Yeah. Exactly, exactly.
+
+Dave Bittner: Right.
+
+Ben Yelin: We could do a 50-state survey on this.
+
+Dave Bittner: (Laughter) Right, right.
+
+Ben Yelin: You know, so some of the data they include is rather personal when we're talking about address, phone number, even email addresses. They said that residential addresses are only going to be released in limited exceptions, but those, to my eye, aren't really enumerated. And a person's address is extremely personal information. So, you know, I think it certainly jumped out at me that you can purchase that data from what is a government agency.
+
+Ben Yelin: I grew up in California. I know what it's like to try and develop a budget for that state, especially for an individual agency. So I'm...
+
+Dave Bittner: Yeah.
+
+Ben Yelin: You know, I start by being somewhat sympathetic that the DMV would want to recoup what probably is billions of dollars of losses every year...
+
+Dave Bittner: Sure.
+
+Ben Yelin: ...By selling this data, and I understand that. And I think it's good that they have a statute in place, at least theoretically, that protects this data from being abused. But when we talk about data being used by private investigators to track somebody - if a spouse suspects that their spouse is having an affair, you can hire a private investigator. That investigator can purchase data from the California DMV and use it to essentially stalk that spouse.
+
+Dave Bittner: Yeah.
+
+Ben Yelin: And that, obviously, is a major privacy concern.
+
+Dave Bittner: Yeah. Another thing the article points out is that there are some California legislators who are - who've reached out to the DMV to look for some answers on this and to dig in a little deeper. So I guess not surprising that, you know, this is a hot area right now - oh, data privacy. And so it doesn't surprise me that this would attract some attention.
+
+Ben Yelin: Yeah. You know, a member of Congress, Congresswoman Anna Eshoo, who represents Silicon Valley, so she's always at the forefront on a lot of these issues - she chimed in, wrote a letter to the California DMV saying that it's basically abhorrent that the DMV sells this information to bail bondsmen, private investigators, other bad actors, saying it's a, quote, "betrayal" of the public trust.
+
+Ben Yelin: You know, this is ultimately an issue that's going to be decided at the state level. I think the path of least resistance would be to go back into that DMV privacy protection law of 1994 and, you know, try and narrow the exceptions a little further so that it actually does protect against private investigators in particular...
+
+Dave Bittner: Yeah.
+
+Ben Yelin: ...Or other potentially nefarious actors. You could have an exception simply be, you know, if you need it for safety reasons, like the truck driver instance you were talking about. I think that would be the easiest way for California to amend this law. I mean, there's not much at the federal level that Congresswoman Eshoo can do without just putting public pressure on the DMV and trying to draw some eyeballs to what's happening.
+
+Dave Bittner: Yeah. It's interesting to me, and this is another reason this story caught my eyes, is just how much the use of our cars - the necessary use of our cars has become such a window into our lives because our cars have license plates on them and we're not allowed to cover those license plates. You know, you're only allowed a certain amount of anonymity while you're driving your car because - there's a - obviously, there's a good case that cars should have license plates.
+
+Ben Yelin: Yes.
+
+Dave Bittner: That's - I think most of us agree with that. That makes good sense in the regulation of people driving. But - and here we are. We find ourselves in this situation where, again, the gathering of that information and the sorting and organizing of that information has become so routine that it functions at a level that's very different than it did when the system was originally put in place.
+
+Ben Yelin: Yeah. I mean, maybe we should all start using public transportation. It seems like cars are...
+
+Dave Bittner: (Laughter).
+
+Ben Yelin: ...Driving surveillance machines. I mean, when you combine license plate readers and GPS technology and the DMV selling data to private investigators, you know, it makes me want to hop on, you know, the Muni Metro in San Francisco...
+
+Dave Bittner: Yeah.
+
+Ben Yelin: ...Instead of, you know, getting in my car and driving.
+
+Dave Bittner: (Laughter).
+
+Ben Yelin: So, yeah. I mean, it gets to a broader theme, which is that we often do not have a choice as to whether to engage in these activities. If you want to be a productive member of society, in most places across California and across the country, you will need a car, and you'll need to drive. And so there really isn't an escape route from exposing yourself to the type of data that's being sold here.
+
+Dave Bittner: Yeah.
+
+Ben Yelin: And that's something that always worries me. I always want to give the users or the people who have obtained driver's license some sort of ability to opt out. And, you know, once you get that driver's license, once you submit that information, to know that it's fair game for private investigators I think is certainly something that's piqued my interest.
+
+Dave Bittner: Yeah. I wonder if there's ever been any plan. I know we've seen - you and I, I think, have talked about the potential for digital license plates, you know?
+
+Ben Yelin: Right.
+
+Dave Bittner: But I wonder if anyone has imagined a system where the license plate itself was some kind of encrypted code, you know, that, you know, wasn't able to...
+
+Ben Yelin: Stop giving them ideas, Dave.
+
+Dave Bittner: (Laughter) Well, as I'm thinking through it in my own mind, I'm thinking of all the practicalities of it.
+
+Ben Yelin: Yeah.
+
+Dave Bittner: And if something is - yeah, yeah. Anyway, yeah, a boy can dream, right?
+
+Ben Yelin: Absolutely.
+
+Dave Bittner: (Laughter) All right. Well, that is my story this week.
+
+Dave Bittner: We would love to hear from you. If you have a question for us, you can call in. Our number is 410-618-3720. That's 410-618-3720. You can also send us an email. It's caveat@thecyberwire.com.
+
+Dave Bittner: Ben, I recently had the pleasure of speaking with Stephen Cavey. He is the co-founder and chief evangelist at an organization called Ground Labs. And our conversation focused on the CCPA, the California Consumer Privacy Act, and the end of the six-month grace period, which ended on July 1. Here's my conversation with Stephen Cavey.
+
+Stephen Cavey: From a pure security standpoint, I think we all knew about the CCPA, and it was coming, and it was released at the start of the year, and everyone was given a heads-up. And it's onlynjust now on the 1 of July that the enforcement of it has started.
+
+Stephen Cavey: And it's something that I think a lot of businesses really aren't ready for because we've been through this with GDPR in other scenarios, and what's very different here is that because of the way the California law process works, there was a lot less time for businesses to get ready and be prepared for this new law. There was only six months or thereabouts of notification from saying, right; this is now what the law looks like; start preparing - versus if we compare it to GDPR because it's a reasonable comparison to make, there was two years of notification, you know? It was May 2016 when GDPR first came out, and everyone was given a heads-up. And enforcement began in May 2018.
+
+Stephen Cavey: And that's very different to how the CCPA has come about, let alone before we start talking about the whole pandemic situation, how that layers on, too - very interesting time to introduce a new set of legislations around how businesses have to manage and deal with the personal information of people and there being some very severe penalties if you don't do the right thing.
+
+Dave Bittner: Can you outline some of the specific challenges that businesses face as they're trying to reach compliance here?
+
+Stephen Cavey: So the one that we most commonly encounter because of the industry that we work in is the fact that so many organizations - I would even say most organizations - don't have a complete handle on all the personal information that exists within their business. And we've been doing this for the last 13 years, working with businesses to help them understand where personal data is hiding across the business, across all of the possible places it could have come to rest inside the business and within the four walls and out into the cloud as well. And personal information can exist within a business for the most interesting reasons. And it's often completely off the radar of the security team or, you know, for organizations that have the right level of maturity, the privacy team, the guys who are responsible for needing to know where that information is. And there's so many different reasons, but often, it comes down to out-of-band processes that exist within an organization. And those processes, for whatever the reason, require access or require the need to collect personal information about customers or whatever their business is. And it can also be as a result of just systemic legacy processes. You know, we've always done it that way. And organizations may have been collecting a large data set about their customers for the longest time, and that information has been gathered and has been stored in all sorts of different platforms, software and, these days, SAS applications and other things that rest up in the cloud.
+
+Stephen Cavey: It's a simple problem to understand. The larger you become, the more data you end up storing. And the more complexity that finds its way into your business, the more people, more applications, more cloud providers, more processors, potentially more capture points as you're interacting with your customers in different ways through different platforms. And this is all creating more personal data storage as a result, and so it's making a CCPA compliance program far more difficult to oversee and understand. And so in our experience, this is often an area that businesses really struggle with.
+
+Stephen Cavey: Traditionally, the way a business would approach this is they would take a more manual-based approach. So they would probably create a spreadsheet. They would go through every team, every department, speak to all the different heads of each division and ask them a set of standardized questions around data handling. What data are you collecting? Why are you collecting it? What are all the fields that you're collecting, and do you need to be collecting them all? And where does that data end up? What applications are you using? What folders do your staff store these in? And through that, you develop a picture, and you get a general understanding of where the business thinks data is being stored.
+
+Stephen Cavey: Now, the reality is that what people think and what's really happening are often two very different stories. And this comes about when you either work with a very experienced set of people from a data privacy and security background or you bring in an independent consultant like an external security assessor, privacy assessor. And they review all the evidence that you've put together from all the different sources across the business, and they'll then effectively take a no-assumptions-based approach where they'll actually perform what we call a data discovery process across the whole business.
+
+Stephen Cavey: It's not data discovery in the legal sense. It's data discovery in a security sense, where the goal of the process is to uncover all personal and sensitive data that's hiding in every corner of the business and every possible storage repository that exists. And very often, the results that come about from that sensitive data discovery process are significantly different from what the business had reported on. And it will often reveal far more areas of storage where personal data is hiding, and it will often reveal out-of-band processes, unknown applications, perhaps even retired applications and a lot of legacy data from the past where data that used to be collected in the business for different reasons different processes, different applications - it's still there because we look at the past within a typical organization, and the normal mentality was, let's just store everything.
+
+Dave Bittner: Right.
+
+Stephen Cavey: You know, that's the easiest place to start. We'll store everything, and then we'll see if we need it later because you never know what we're going to do later. And unfortunately, no one's retrospectively now gone back and looked at those decisions and and done the cleanup work, particularly in this new world of regulation that we're living in.
+
+Dave Bittner: You know, it strikes me that as storage became cheap, almost to the point of being, you know, meaningless - you could basically have unlimited storage - that led to this kind of pack-rat mentality that I think you're describing here, where people would say, well, this data might have value someday, so we might as well hang onto it. I've heard some people describe sort of a shifting attitude to consider stored data as almost being radioactive, in that if you get too much of it together in one place, bad things might happen.
+
+Stephen Cavey: That's absolutely true. It's funny that this contrasting or even conflicting, I should say, views out there depending on what side of the fence you're sitting on - from one view, it's the plutonium that you need to be really careful of. From another view, it's the new oil. And it's far more - it's the most valuable asset that a business has these days. And just to layer on further complexity to what you just said there, Dave, IDC put out a great start a few years ago. And they forecasted that the volume of data was expected to grow by a factor of 10. And in real terms, that's, you know, north of 160 zettabytes. You know, that's more than 160 million petabytes. And most of that data will be generated by enterprise businesses. And it's just further evidence that, yes, storage is cheap. And therefore, we're using a lot more of it.
+
+Stephen Cavey: But unfortunately, when it comes to the compliance and regulatory side of the equation, we're creating far more problems for ourself as a result. And if we're not putting ourself in check in what we're doing with that data and where it's ending up and what controls we're putting around that data, we're heading for a very dangerous time ahead if businesses don't start to address that now. And I guess that's why you can understand why legislations like the CCPA are coming out - because your average consumer now - my view is that they're suffering from data breach fatigue. Data breaches have been reported in the news so often from so many different companies of all sizes that we're desensitized to it now. And unfortunately, it's going to continue to happen. You know, data breaches are a normal thing now. And there are so many different ways to break into a network and steal data.
+
+Stephen Cavey: And so rather than thinking that we can stop the bad guys from coming in the front door or the side door or the back door, why don't we focus on, why are they coming in? And what are they looking for? Well, they're typically looking for data. So if we can find a way to take away what it is that they're looking for that they can go onto the black market and monetize, then that puts us in a far better position to just reduce the risk but also reduce the potential damage that comes from the idea that if someone did find a way to break into your network, well, if there's not much left to steal, then the flow-on effect will be far less of an impact within your business.
+
+Dave Bittner: What are your recommendations for that organization - I'm thinking particularly of small and mid-sized businesses who are faced with this increasing amount of regulatory items that they have to be compliant with. You know, what's a practical rational way for them to get started, to have an idea what they have and what a good way is to get control over it?
+
+Stephen Cavey: If you just look at the CCPA, its applicability is for businesses with 25 million and higher in revenue. So, you know, you translate that into a business size, it's probably 100 to 150 employees and above, depending on the industry and the size and where they operate. And so those types of businesses will be at the stage where they'll have people in the business who will have security knowledge. The biggest problem we've seen in the past when you look at businesses of that size and smaller is that when something like the CCPA comes along, they'll typically look at it as an IT problem. You know, security is an IT problem. That's one of the classic statements. And it's not. You know, when you've looked at the different problems and the reason why data breaches happen, security is - and security and privacy for that matter - it's a business problem. And it starts at the top and flows down.
+
+Stephen Cavey: You know, there's so many conversations now happening about the board-level people needing to be a lot more aware of data security and data privacy to the point where the CISO now in many organizations now has a reporting line to the board to tell the board and advise the board on what the company's security posture is. And you're now seeing representation at board level where security experience is a necessity just to make sure that that viewpoint, that that voice is sitting at the table when it comes to thinking about risk and other challenges that the business will likely face in the future. But when we bring it back to your everyday-size business that needs to deal with - whether it's CPA, whether it's GDPR and, frankly, any personal data - as we look into the future, any personal data is likely going to have regulation around it. And you're going to have to be aware of that. And you can't ignore that. If you're collecting any form of customer data, you're going to have to make sure that the right processes are in place. And I think Microsoft is a wonderful example on where the world is heading, which is that you'll end up having to treat every piece of personal data that you collect the same. You shouldn't need to be differentiating between Californian customers versus other states' customers. And, therefore, if you treat all of your personal data with the highest level of security, that will put you in a far better position to begin with in how you approach this problem and how you minimize the risk of suffering a data breach and provide just better overall security posture within the business.
+
+Stephen Cavey: So, you know, I think it starts with accountability. You know, you need to appoint someone within the business to lead the initiative of becoming compliant with the CCPA and all of the other future regulations. And it would be nice if that was a dedicated role, but that's not always practical or possible. So you can start it off being a virtual role. You know, appoint that responsibility to someone, and give them the initiative to take it into the business and make the business a lot more aware of what the obligations are around personal data, you know?
+
+Stephen Cavey: And to your point, Dave, it should be seen as toxic. It should be seen as something that is very, very fragile. And it needs to be treated with the right level of respect. It's not something you can now just put into an Excel spreadsheet or a Word document and just email around freely to your colleagues or to external parties. There are consequences of doing that in today's regulatory environment if you haven't put the right protections around that type of data. So having someone to take the charge on the initiative, to bring the business into line and make all of the stakeholders across the business more aware of the obligations - but I think bringing it back to simple concepts, it really does begin with the data. You know, the biggest problem we're seeing is that the businesses are not aware of all the data they've collected.
+
+Stephen Cavey: So if you make that a goal to begin with, if we're going to become CCPA compliant or compliant with any other security standard out there, privacy regulation that comes forward in the future, we have to stop by understanding what is the data that exists within the business. Once we understand that complete position - I'm not just talking about the areas where we know there's going to be problems; we're talking about any area in the business that stores data. That will include your emails. That will include all of your cloud providers. That will include all of your desktops and laptops and any servers that are still on premise within your network and anything else that stores data. Every byte of data must be reviewed to ensure that sensitive data or personal data is not being stored or doesn't exist in places that you're unaware of.
+
+Stephen Cavey: Once you understand that, well, now you can start to build a program of work around how to ensure that that data stays secure and that you can comply with the CCPA and other regulations and that the business is handling that data in an appropriate manner.
+
+Dave Bittner: All right, Ben. Interesting conversation. What do you make of it?
+
+Ben Yelin: Yeah. So I think the interesting aspect to me is the comparison with GDPR, in which companies had a longer transition time from when the regulation was enacted to when they actually had to comply. Six months is, in any normal circumstance, a very short time. Then you add in a global pandemic, and it becomes even shorter. So, you know, it's difficult for companies to come into compliance that quickly.
+
+Ben Yelin: And one thing that was also interesting to me is it's not that companies are trying to cut corners; it's just that they're reliant on legacy process systems, and those are very difficult to change. You know, it would take a lot of manpower to replace those legacy systems, and that's just not something that many companies - you know, if you have 26 employees, under the California Consumer Privacy Protection Act, you know, you are covered under this law, and it would take a lot of manpower to abandon those legacy systems if those systems are inadvertently collecting user data. So I thought this was a very interesting perspective on the impact of CCPA on some of these companies.
+
+Dave Bittner: Yeah. I mean, one of the things that I think is going to be interesting is to see exactly what kind of enforcement we see here. How aggressively is California going to go after things? Are they going to ease up a little bit because of the pandemic or, you know, send out sternly worded letters (laughter) first? You know, do you get a warning first?
+
+Ben Yelin: Dear sir or madam.
+
+Dave Bittner: (Laughter) Right.
+
+Ben Yelin: I am very angry at what - yeah.
+
+Dave Bittner: Right. So I think it'll be interesting to see how that plays out. Much the same way that a lot of people were holding their breath and taking a wait-and-see with GDPR, I think it's natural that a lot of organizations will be doing the same thing with CCPA. And I'll bet a lot of them - sort of whistling past the graveyard, hoping that the folks down the street draw the attention of the regulators before they do.
+
+Ben Yelin: Absolutely. You know, I think California is kind of dealing with competing interests here. On the one hand, you don't want to unfairly burden these companies. Many of them are headquartered in your state. But on the other hand, I mean, you want to prove to California consumers that you're taking this law seriously as regulators. So they really do have to strike that balance.
+
+Dave Bittner: All right. Well, again, our thanks to Stephen Cavey from Ground Labs for joining us. That is our show, and we'd like to thank all of you for listening.
+
+Dave Bittner: The "Caveat" podcast is proudly produced in Maryland at the startup studios of DataTribe, where they're co-building the next generation of cybersecurity teams and technologies. Our coordinating producers are Kelsea Bond and Jennifer Eiben. Our executive editor is Peter Kilpe. I'm Dave Bittner.
+
+Ben Yelin: And I'm Ben Yelin.
+
+Dave Bittner: Thanks for listening.. A bill has been introduced in Pittsburgh, Pennsylvania that would ban the “unrestricted” use of facial recognition by the city’s police, as well the use of predictive policing algorithms, Pittsburgh City Paper reports.
+
+The bill was brought forward by City Councillor Corey O’Connor, a Democrat who is chair of the Council’s Public Safety Committee. It applies to the Pittsburgh Public Safety Department, which oversees the police. The definition of facial recognition in the bill also includes technology to “Log characteristics of an individual’s face, head, or body to infer emotion, associations, activities, or location.”
+
+The city’s public safety policy already prohibits the city from acquiring or using facial recognition software, though the police department is reported to have recently used the state’s Jnet facial recognition system recently. Language in the bill preserves the use of the state biometric system by city police, and O’Connor says he is not sure if the city has jurisdiction to block the use of Jnet. A predictive policing program in use by the city was suspended in June due to concerns that it entrenches racial bias.
+
+O’Connor is quoted by the Paper as saying the technologies hurt “people of color and people in low-income areas.” He says that the purpose of the legislation is to ensure that if police want to use either of the technologies in the future, they must make their case before city council. He also hopes to spark a broader conversation about policing methods.
+
+Council will hold an executive session with public safety officials to learn more about police protocol for protests and mass gatherings,
+
+Jackson enacts ban citing privacy and police misconduct
+
+Police in Jackson, Mississippi have been blocked from using biometric facial recognition after Jackson City Council approved a resolution brought forward due to privacy concerns, according to the Jackson Free Press.
+
+The ban is considered pre-emptive, as Jackson Police Department does not currently use facial recognition.
+
+Councillor De’Keither Stamps introduced the resolution, and says the issue “wasn’t just the cameras (on the streets). Our issue was the facial recognition portion, which is able to track people and record and document them continually,” according to the Free Press.
+
+Stamps concerns seem particular to live or real-time facial recognition.
+
+“We want the government solving crimes,” the Free Press quotes him as saying. “But do we want (a) government that far into tracking us, our whereabouts, where we go, how far we go, all day long and document(ing) it and keep(ing it) on recording for our foreseeable future?”
+
+The resolution claims the technology is “programmatically” less effective for identifying people of color, women and children.
+
+A more novel argument is that police need to be denied the technology because of they “routinely abuse confidential databases to spy on exes, business partners, neighbours, and journalists.” The resolution also claims police regularly use the technology in the absence of warrants or reasonable suspicion, in violation of the Fourth Amendment and human rights.
+
+That argument may have received a boost when investigators with NBC 6 in South Florida discovered that accused rioter Oriana Albornoz was identified with facial recognition from Clearview AI, according to the media outlet.
+
+Albornoz is accused of throwing rocks at police, and while Miami Police have a policy of not using facial recognition to identify people protesting or participating in “constitutionally protected activities,” committing a crime invalidates that protection.
+
+Perhaps more problematic, the arrest report states only that the suspect was identified through investigation, and does not mention facial recognition, which does not meet the legal threshold for probably cause.
+
+Will defunding police mean more public facial recognition?
+
+The deployment of technologies like facial recognition and mobile device tracking for public surveillance, as well as predictive policing algorithms could become more common as police departments are defunded, writes Foreign Policy.
+
+Whether the use of biometrics and other technologies for surveillance to prevent and investigate crime as a replacement for police would result in greater social justice, or how such a system would work, however, is highly uncertain.
+
+Article Topics
+
+biometric identification | biometrics | facial recognition | legislation | police | privacy | United States | video surveillance. One month before the New York Times published the story of Robert Williams, police officers killed George Floyd. We all remember the weeks that followed. The protests that broke out around the country garnered attention around the world. It was so engrossing, watching those scenes of civil strife, that an otherwise remarkable part of the story went almost entirely under the radar.
+
+In 15 cities, the Department of Homeland Security deployed planes, helicopters and drones to watch over the protestors. The aircraft hovered over protesters in New York, Philadelphia, Detroit, feeding Customs and Border Patrol command centers, which then streamed the intel to police forces and National Guard on the ground.
+
+In Minneapolis and D.C. a secret RC-26B reconnaissance plane worked with special ops on the ground, streaming video feeds to an FBI command center. In another instance in D.C., top Pentagon officials ordered helicopters to provide, quote, “persistent presence,” to disperse crowds. The helicopters flew so low to the ground that the sheer downward pressure from their rotor blades ripped the signs off of buildings. And, of course, it sent protestors running.
+
+This was something out of science fiction–a full-on military intelligence operation on U.S. land.
+
+In later reporting, military and government officials insisted that none of the aircraft deployed on protestors were equipped with facial recognition capabilities. In most cases, the aircraft were so high up that facial recognition would be moot–you can’t make out a face from a blip from 19,000 feet.
+
+But if even some planes flew close enough to capture individual faces, it’d be problematic. According to the New York Times at least 270 hours of protest footage was captured by the aircraft, and uploaded to “Big Pipe”–a DHS network which can be accessed by other law enforcement agencies around the country for future investigations. Video in Big Pipe can be stored for up to five years. One potential concern, then, is that if a plane recorded good enough video it wouldn’t need real-time facial recognition onboard: an agency like the FBI could access that footage weeks or months later, to identify individual protestors.
+
+It’s entirely possible that this hasn’t, and won’t happen. But around the country police have already utilized facial recognition to identify and, in some cases, arrest individual BLM protestors. The extent of it is unknown–police have no obligation to report when they run your face through a machine.
+
+“[Ted] What concerns me is there’s currently no limits at all. None at all. So [. . .] they can also use it to take a look at everybody who is in a peaceful protest of some sort and then take down their names and hassle them or arrest them or give them trouble in one way or another or simply file them in a database as a person of interest, none of which we want to have happened to us.”
+
+This is Ted Claypoole – a lawyer, and an author on legal issues surrounding privacy and AI. Here’s one example of what Ted means by “no limits”: it turns out you can be arrested and not even know that facial recognition played a part in it. One protestor last summer, Oriana Albornoz, was arrested for throwing rocks at a police line. That’s definitely a crime, but at no point in her processing did Miami police mention–in documentation, to her lawyer, or in any other capacity–that they used Clearview AI to identify her as the rock-thrower. It took an independent investigation by NBC News to uncover that information. And it’s important information, right? Maybe Oriana was guilty, but the next Oriana could be a Robert Williams.
+
+“[Ted] So the issue right now isn’t necessarily the technology. It is the lack of guardrails around that technology and its use by police.”
+
+LEGISLATION
+
+It was amid all the BLM protests that, on June 25th, a group of Democrat lawmakers proposed the “Facial Recognition and Biometric Technology Moratorium Act.” The goal of the legislation would be, quote:
+
+“To prohibit biometric surveillance by the Federal Government without explicit statutory authorization and to withhold certain Federal public safety grants from State and local governments that engage in biometric surveillance.”
+
+In other words, law enforcement can only use biometric data collection with explicit legal permission, and anyone who doesn’t follow the rule will lose federal funding as a penalty.
+
+The problem with this bill is that it won’t actually go anywhere. In fact, it probably wasn’t designed to –it’s only eight pages long, mostly comprising legal definitions of what terms like “facial recognition” and “voice recognition” mean. Seriously, there’s almost no law in this law. Most of it reads like this. Quote:
+
+“FEDERAL OFFICIAL.—The term ‘‘Federal official’’ means any officer, employee, agent, contractor, or subcontractor of the Federal Government.”
+
+So you get the idea–it’s a symbolic gesture more than anything. And in general, the legal effort to stop police use of facial recognition hasn’t gone much better than this.
+
+“[Ted] Since 9/11, US society in general and legislatures in particular have been loathed to put limits around policing. They want to make sure that if someone is there to commit terrorist acts, that the police have the tools that they need to catch them. However, during that time, I mean in other words in the last 19 years, lots of these technologies, not just facial recognition but for example other kinds of surveillance technologies like people carrying their own geo-location device in their smartphone, around with them 24/7. All of these technologies have grown up in the last 15 or 20 years and because legislatures and others have not been very interested in pinning down and putting guardrails around policing during that time, they really haven’t put any rules on it at all.”
+
+The first, small step towards meaningful regulation of facial recognition occurred on May 14th, 2019, in San Francisco, where the city’s Board of Supervisors voted 8-to-1 to outright ban facial recognition among law enforcement agencies. Ten months later, the state of Washington signed the most expansive law in this space, requiring law enforcement to obtain legal warrants, or even provide notice and ask permission of the individual in question, before using facial recognition. Among many other provisions, it also states that agencies must regularly test the algorithms they use for accuracy and biases, then report results back up to the state.
+
+Washington’s law could be a sign of the future but, in all likelihood, it won’t be. It is, of course, the only state of its kind with such strict rules. Even San Francisco’s case is, ultimately, very weak because it’s just city law. If you’re a protestor in San Francisco, San Francisco police can’t use facial recognition against you, but the National Guard doesn’t have to follow the same rules, or the FBI, or even California state police.
+
+“[Ted] I think possibly if the American Bar Association put out some statements, policy statements that they believe that this is the best way to use this technology from a Fourth Amendment standpoint, to use it within the bounds of the constitution. That might help. But really what we probably need to see is some place like the State of California take this up as an issue and then pass a law on it because really when you have a big state that takes leadership on this role, then everybody else seems to look at it carefully.”
+
+YOU CAN’T STOP PROGRESS
+
+Perhaps legislation will one day regulate facial recognition on a wider scale. But history demonstrates, over and over again, that you can’t stop progress. Technologies get better and become more widespread over time as a rule, so there’s little reason to think that facial recognition won’t become incredibly accurate and completely pervasive in our society years from now. The universe where governments stop using this technology out of concerns for individual privacy seems much more unlikely than the universe where it becomes so normal that we all just get used to it.
+
+For those of you who believe that facial recognition is good because it prevents crime, that’ll be a good thing. For those of you suspicious of law enforcement, or protective of your privacy, it’ll be a creepy dystopia.
+
+But it doesn’t have to be.
+
+The universe you’re picturing now–where cameras are everywhere and governments are constantly tracking you with your face–is conditioned in some respects by all the science fiction we’ve seen and read over the years. In most sci-fi, biometric data collection is something that happens to us, against us. A lot of those stories don’t consider how the very same technology can be used by us.
+
+INTRO TO ANDREW/BELARUS
+
+“[Andrew] My name is Andrew Maximov. I’m Founder and CEO at Promethean AI and video game developer with about a decade and a half of experience.”
+
+Andrew Maximov isn’t an activist by trade. He cut his teeth as an art director for the “Uncharted” series–some of the most popular video games in the world. But earlier this year, he turned his attention to an entirely different kind of project. To understand why, you first need to understand the political situation in his home country of Belarus.
+
+“[Andrew] Belarus has been widely referred to as the last dictatorship of Europe. [. . .] I mean it’s an extremely unfortunate situation really. It has been that way for the last 20, 26 years.”
+
+Ever since the dissolution of the Soviet Bloc, Belarus has been under the control of a single leader: Alexander Lukashenko.
+
+“[Andrew] [it is an] authoritarian regime that made people disappear all the way back in the ‘90s and nothing much has changed. [. . .] People are routinely pursued, jailed, persecuted or exiled for their political opinions, whether they act on them or just sort of espouse them publicly.”
+
+According to Reporters Without Borders, Belarus is the most dangerous country for journalists in Europe. Political opposition leaders are routinely forced to flee the country, or worse.
+
+“[Andrew] There has been five presidential elections and none of them have been widely recognized as free or fair.”
+
+On August 9th, 2020, Lukashenko was reelected president for the sixth time. Or, to put it more accurately: his side claimed victory. There’s little doubt that the actual vote counts didn’t matter. So, as they did the last time Lukashenko got elected, protests broke out. And, as they did the last time protests broke out, some dissidents were met with violence.
+
+“[Andrew] I think the prevailing feeling that you have growing up in a dictatorship is the one of hopelessness and helplessness and that never goes away. You carry that with you and just as much as that, you also carry the guilt for not being able to protect people to the left and to the right of you as you see them being beaten up or arrested by the thugs in uniform who pretend they represent the law in some capacity.”
+
+FACE COVERINGS
+
+There are lots of videos posted to social media where Belarusian police are either violently apprehending or actively beating up civilians. In most of these videos, the police are wearing face coverings. At first it’s perfectly understandable: during COVID, everybody should be wearing masks.
+
+But you get the sense that it has nothing to do with COVID. The police wore these masks before the pandemic and, frankly, there’s nothing medical about them. They’re usually ski masks, and they only sometimes cover the nose. In one video, a police officer’s mask covers his nose but ends above his mouth. Clearly, this isn’t about germs.
+
+“[Andrew] They cover it routinely because – well, I’m pretty sure most of them are well aware that they’re not doing something that society as a whole would appreciate. [. . .] if it gets into the post-COVID days, I’m sure no one is going to be taking off their masks anytime soon.”
+
+The police wear masks so they can do what they want to protestors, and not be held to account for it. It’s not an uncommon phenomenon. Throughout the George Floyd protests, for example, video captured officers taping over their badges, or wearing no identifying information on their uniforms whatsoever.
+
+“[Andrew] Because one of the more effective ways of applying pressure to them is just the social training comparably and there’s a – people, you know, protesting with posters that say, “De-anonymization saves lives,” because in some cases is does.”
+
+THE VIDEO
+
+Andrew lives in L.A. now, so he couldn’t participate in the protests. But he did come up with a novel way of contributing to the cause.
+
+https://www.youtube.com/watch?v=FAJIrnphTFg
+
+That’s Andrew, in a video posted to YouTube on September 24th, 2020. Translated, he says: “your children will be looking at your faces when you commit the most despicable acts of your life.”
+
+The video has over one million views–pretty good for a country of less than ten million people. It was an instant success because of just how radical the concept was. In the video, Andrew demonstrates diligently, case by case, a software he built that de-masks violent police.
+
+It’s pretty wild. For five minutes he takes clips of police violence, freezes them, and demonstrates how his algorithm can interpret only the facial features that are shown–eyes and a nose, sometimes just the eyes alone–and map it onto an actual person’s face.
+
+“[Andrew] For all those that will continue to terrorize, everybody in their life will know what you did. The driver you will lock eyes with when crossing the street with your family, groups of laborers or young guys that you will be passing by at night, the doctor who will be treating your kids, they will all know what you did. You are supposed to defend the people of Belarus.”
+
+HOW IT WORKS
+
+“[Nate] Tell me about the technology in this video and how it works. “[Andrew] It was actually quite surprising how – surprising and disturbing how easy it was to put together a facial recognition tool. You can conceivably do it in an afternoon. That is the scary part. Like, you know, a high schooler with a laptop could do that. [. . .] They’re a bunch of off-the-shelf computer vision models or facial recognition models that you can leverage and [. . .] They just have this deep neural layer that somehow represents some facial features which is like a multidimensional representation spread around, whatever, 50 neurons, right? That would define all kinds of things that [. . .] come out as to representing an individual face in a particular image for example. Then all we have to do, right, is just scrape a whole bunch of images, build a library of those faces and then compare them to other faces. So in this case in Belarus, there’s just a general effort for de-anonymization, right? There are just people posting pictures of policemen. There are Telegram channels because that has proven harder for the government to shut down [. . .] You can write – there are APIs for literally anything. You can build an Instagram bot that people can submit this to. You can, yeah, have a client that will just scrape it automatically. You can do it by hand. In my case, I actually just tapped a few other people to help literally save every relevant image that they find because the sort of communal solidarity is quite strong [. . .]. that helps build up that library of people without the masks. They actually just run that model, extract the features and then you just run the same thing over the people with the masks and all the other photos. You know, freeze frame from the videos that they have incoming and then you get a certain amount of matches with a certain amount of confidence and you know, you can sort of manually check on top of that.”
+
+Once he has a match of high confidence, Andrew superimposes the maskless picture over the masked one, and does a little bit of digital reconstructing along the way.
+
+“[Andrew] The actual facial reconstruction is a little trickier. It’s also a little harder to do off the shelves. [. . .] But it is also quite doable.”
+
+It’s not a perfect system–sometimes the superimposed faces look a bit cartoonish. But they also, for the most part, seem pretty accurate.
+
+“[Andrew] Any type of AI tools, none of them are ever 100 percent correct, just period, because they all work based off the data set that they’ve been trained on and they’ve been obviously known to have biases to be complete.”
+
+To supplement the algorithm, Andrew used his and his colleagues’ own eyes to try and verify their results.
+
+“[Andrew] There should always be a human to validate and verify.”
+
+MISIDENTIFICATION
+
+Andrew’s video is a proof of concept: that facial recognition can be used not just by police against civilians, but civilians against police. That opens up a whole, big can of worms.
+
+“[Nate] One of the things that occurred to me when I was watching your video is it goes back to the question of accuracy. We’ve – you know, obviously you wouldn’t have created and published what you did if you didn’t think the results were accurate. But is it the consequence of even getting one of these wrong just extremely high? Like you could end up accusing the wrong person of very bad things and have them go through what you intend the people you get, right, to go through. [Andrew] I don’t think any program can be effective enough that you don’t worry about it. That’s a huge concern and yeah, and we did get one person wrong. So that was not a joke for me absolutely and that’s a responsibility that you have to own up to. Once again there were no people that were not associated with the Armed Forces and the person that we got wrong was an ex-policeman that was fired from the Force because he was extorting bribes from businessmen. [. . .] They were very upset with us understandably and to me, I think it’s just a matter of the greater good, right? I mean I – you have to take on that responsibility which I wouldn’t wish for anyone in the world to have to do because if it has any chance of tempering the violence even in the slightest, then it might be worth it because the discomfort of an ex-policeman compared to literally thousands of people that are jailed and beaten up on the street, it just doesn’t weigh up. I know that in an ideal world, you want to make sure that nobody ever gets hurt as a consequence of what we do and I perfectly understand that. But yeah, it’s just the question of having to make a call and at that time, it was up to me to make one and well, yeah, I have to live with the consequences of that, yeah.”
+
+SHARING THE ALGORITHM
+
+Misidentifying one of the police officers, for an audience of one million people, is something that Andrew has to live with now. But it’s not his only burden.
+
+“[Andrew] I’ve been getting tons of requests from people to just like release this and this obviously sounds like a recipe for disaster to me.”
+
+A lot of Belarusians–and non-Belarusians–understandably wanted their hands on this software. Andrew decided not to distribute it.
+
+“[Andrew] it was a terrible decision to have to make because – even to this day, I get emails from people all over the world who are in a similar situation saying, you know, they’re getting brutalized, they’re getting beaten and they feel like their government is failing them and they don’t have any way to protect themselves really because the government has the monopoly in violence and there are no checks and balances in a lot of places. Unfortunately a lot of the time US included as well. That is just heartbreaking. But, you know, I literally – I put the project on hold the moment I was working on the part that could just arbitrarily scrape any website for matches because that had just seemed like a – the whole thing just for me…I would rather this did not have to exist at all. That’s the sad part of it. Like the ethical concerns are ridiculous. And while there’s no future where the police are not going to be as easily identified as everybody else who they identify, I definitely do not want to be the police in a sense, meaning abusing those tools and [. . .] especially with the opportunity for misuse because someone could have as easily used this tool. I don’t know, stalking their ex-girlfriend or their ex-wife or something much more sinister and that is terrible. So just having that as a public tool is terrifying to me.”
+
+CONCLUSION
+
+The question of this episode has been: should law enforcement use facial recognition? We discussed how effective it’s becoming at catching criminals, but also how biased it can be, and how prone it is to misuse.
+
+It turns out that was the wrong question. What we should really be asking is: how can we deal with facial recognition, and all the power it gives to whoever uses it? This is a technology that can cause extreme harm, whether by facilitating an Orwellian dystopia where Big Brother is always watching, or by identifying–or misidentifying–somebody who could be greatly harmed for being exposed for whatever they’re on camera doing, good or bad.
+
+The question is will we, as a society, be like Andrew? Will we recognize the power in this technology, and the power of its misuse, and address it in time to avoid terrible consequences?
+
+Probably not. Law enforcement won’t regulate itself, and this is still too fringe an issue for most Americans to care about, so politicians are generally better off not touching it.
+
+“[Ted] At the moment putting limits on police force makes it look like you oppose law and order. So whether that’s right or wrong, that has always been an attack from one side against the other is all of your – if you’re saying the police can’t do this, that means you’re on the side of the criminals. You know, and legislators are very, very sensitive with those attacks.”
+
+More likely than not, law enforcement agencies will continue to collect your biometric data, even if you don’t want them to. And at some point, somebody will build a software like Andrew’s and release it for public use.
+
+Because there’s no stopping technological progress. You can only ride the wave, and hope not to crash.

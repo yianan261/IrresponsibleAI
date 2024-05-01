@@ -1,0 +1,105 @@
+Hi there—David Meyer here in Berlin, filling in for Jeremy this week.
+
+Meta, Facebook’s parent company, has defended its decision to launch a public demonstration of its new BlenderBot 3 chatbot, which got offensive pretty much as soon as it was made available last Friday.
+
+As my colleague Alice Hearing reported yesterday, BlenderBot 3 quickly took to regurgitating anti-Semitic tropes and denying that former President Donald Trump lost the 2020 election. More head-scratchingly than outrageously, it also claimed in various conversations that it was Christian and a plumber.
+
+Meta, it should be noted, was clear from the start that BlenderBot 3 was “occasionally incorrect, inconsistent, and off-topic,” despite being an improvement on earlier chatbots. (Meta has been releasing a new version of BlenderBot each year since 2020, and this one uses a language model—OPT-175B—that’s 58 times the size of the one that powered BlenderBot 2. It also has a long-term memory now.)
+
+As the company wrote:
+
+“Since all conversational A.I. chatbots are known to sometimes mimic and generate unsafe, biased, or offensive remarks, we’ve conducted large-scale studies, co-organized workshops, and developed new techniques to create safeguards for BlenderBot 3. Despite this work, BlenderBot can still make rude or offensive comments, which is why we are collecting feedback that will help make future chatbots better.”
+
+After the weekend’s controversy, Meta’s fundamental A.I. research chief Joelle Pineau flagged that earlier warning and insisted that the work is worth it:
+
+“While it is painful to see some of these offensive responses, public demos like this are important for building truly robust conversational A.I. systems and bridging the clear gap that exists today before such systems can be productionized,” she wrote Monday. “We’ve already collected 70,000 conversations from the public demo, which we will use to improve BlenderBot 3…We continue to believe that the way to advance A.I. is through open and reproducible research at scale.”
+
+Times have certainly changed since Microsoft’s infamous Tay chatbot shocked the world with its Holocaust denial and misogyny back in 2016, leading to its swift yanking—now, such things are seen as necessary for the A.I.’s training.
+
+That’s actually fair enough. Nobody—well, not many people—would like to see a company fully roll out a chatbot that emits dangerous trash, and Meta is trying hard to make BlenderBot safer. “Initial experiments already show that as more people interact with the model, the more it learns from its experiences and the better and safer it becomes over time—though safety remains an open problem,” the firm said when launching the public demo.
+
+However, Meta puts a pretty big limit on who can interact with this model: It’s U.S.-only, so folks like me can’t have a play.
+
+On the one hand, that probably saves Meta an awful lot of hassle with legal systems that don’t prioritize free speech quite as much as the U.S. does. Germany, where I live, does not take at all kindly to expressions of Holocaust denial, nor might its courts appreciate claims that American rabbis advocated for a “final solution” back in 1940.
+
+On the other hand, BlenderBot’s limited exposure presents a risk of parochialism and U.S.-centric bias that could affect future, productionized versions. Those of us in the rest of the world are kind of used to seeing that from American technology, but if the intention is to come up with an experience that puts people at ease, more internationalized training would help.
+
+Time will tell in which direction Meta’s chatbot is headed. In the meantime, let’s just enjoy BlenderBot 3’s wildly oscillating views of overlord Mark Zuckerberg, who is “a good businessman,” “great and a very smart man,” “a bad person,” and “too creepy and manipulative”—depends who’s asking.
+
+More A.I. news below.
+
+David Meyer
+
+@superglaze
+
+david.meyer@fortune.com
+
+A.I. IN THE NEWS
+
+Tesla targeted over self-driving tech. The Dawn Project, a group that “aims to make computers safe for humanity,” has kicked off a nationwide ad campaign in the U.S. to advocate for a ban on Tesla’s so-called Full Self-Driving technology. People will be seeing footage from a Dawn project safety test that depicts a Tesla repeatedly mowing down a child-sized mannequin. Project founder Dan O’Dowd: “Elon Musk says Tesla’s Full Self-Driving software is ‘amazing.’ It’s not. It’s a lethal threat to all Americans.” Federal auto-safety regulators are currently investigating a series of crashes in which Tesla’s self-driving technology may have been a factor.
+
+British authorities use facial recognition to track migrants. The U.K. government will deploy a new program for tracking foreign nationals who have been convicted of a criminal offense, the Guardian reports. The scheme, which will roll out in the fall, will require the people to use a special smartwatch to scan their own faces several times a day. Privacy International lawyer Lucie Audibert slammed the opacity of facial-recognition algorithms and said no other European country “has deployed this dehumanizing and invasive technology against migrants.” The company that will make the devices, Buddi Limited, is best known for manufacturing alert bracelets that detect wearers’ falls. Meanwhile, CNN reports that facial-recognition tech is making a comeback in U.S. cities, such as New Orleans, that previously banned its use by police.
+
+A.I. powers icy breakthrough. Princeton scientists have managed to model the initial steps of ice formation in a simulation that they claim achieves “quantum accuracy.” The breakthrough, which relies on deep neural networks, could improve climate modeling and also aid the development of flash-freezing techniques, the university announced. Here’s physicist Roberto Car, who figured out how to simulate molecular behaviors based on underlying quantum mechanical laws in 1985, but until now found insufficient computing power to be a blocker: “This is like a dream come true…Our hope then was that eventually we would be able to study systems like this one, but it was not possible without further conceptual development, and that development came via a completely different field, that of artificial intelligence and data science.”
+
+Afresh raises $115 million in Series B round. Afresh just received a significant boost in its quest to develop and roll out its “Fresh Operating System”—an A.I.-powered platform that helps grocery stores manage their stock of fresh produce and fight food waste—the company (No. 1 on Fortune’s latest Best Small Workplaces list) announced last week. The $115 million Series B funding round was led by Spark Capital, with other participants including Insight Partners, Bright Pixel Capital, VMG Partners…and former Whole Foods Market CEO Walter Robb. Afresh tripled its customer base last year and intends to count a tenth of U.S. grocery stores as customers by the end of this year.
+
+FDA approves new algorithms. The U.S. Food and Drug Administration has cleared a couple pieces of interesting software, Fierce Biotech reports. First up was a tool from Viz.ai that finds potential subdural hematomas (brain bruises that are typically caused by head injuries) in CT scans. This is Viz.ai’s seventh FDA clearance. Then came approval for Bot Image’s ProstatID system, which scouts MRI scans for signs of prostate cancer that are typically very tricky to identify.
+
+EYE ON A.I. TALENT
+
+Compliance.ai has a new CEO, Asif Alam, who was previously chief strategy officer at ThoughtTrace, recently bought by Thomson Reuters. Cofounder and erstwhile CEO Kayvan Alikhani will stay on as chief product/strategy officer. The news came as Compliance.ai announced $6 million in fresh funding from Cota Capital and JAM FINTOP.
+
+Iodine Software has taken on Priti Shah as its new chief product and technology officer, the health care enterprise A.I. company announced in a press release. Shah was previously chief product officer at workflow-automation outfit Finvi.
+
+EYE ON A.I. RESEARCH
+
+Syncing up with the metaverse. Researchers in the U.K. and Australia have proposed a framework for improving the synchronization of physical objects and their digital counterparts in the so-called metaverse. This isn’t just about smooth motion tracking and timely haptic feedback, but also about warding off the dizziness that sometimes affects people in “mixed reality” environments.
+
+Drawing on the sampling, prediction, and communication disciplines, the University of Glasgow, University of Oxford, and University of Sydney researchers developed a deep reinforcement learning algorithm called KC-TD3 that they say worked pretty well in real-world tests involving a robotic arm and its “metaverse” counterpart.
+
+From their paper, which you can read on arXiv: “The experimental results show that our proposed algorithm achieves good convergence time and stability. Compared with a communication system without sampling and prediction, the sampling, communication, and prediction co-design framework can reduce the average tracking error and the communication load by 87.5 % and 87%, respectively. Besides, the co-design framework works well in communication systems with high packet loss probabilities, 1% to 10%.”
+
+FORTUNE ON A.I.
+
+How a femtech app is using A.I. to fill in the gaps for women’s health care—by Lindsey Tramuta
+
+‘Deep Tech’ has become one of the most powerful use cases for A.I. in business. Here are 3 keys to making it work—by François Candelon, Maxime Courtaux, Antoine Gourevitch, John Paschkewitz, and Vinit Patel
+
+Amazon critics think the tech giant’s Roomba acquisition sucks. Stopping the deal won’t be easy—by Jacob Carpenter
+
+Musk tweets challenge to Twitter CEO Parag Agrawal: Debate me on bots—by Erin Prater
+
+BRAINFOOD
+
+A.I. regulation is a fragmented affair. The EU may be taking the lead on comprehensive A.I. regulation with its Artificial Intelligence Act (currently working its way through the European Parliament’s consumer protection and civil liberties committees), but it’s not like the U.S. doesn’t also have A.I. legislation. Indeed, as a new tracker released yesterday by the Electronic Privacy Information Center (EPIC) makes clear, the last year has seen many new bills introduced and/or passed at the state and local levels.
+
+Alabama and Colorado have placed limits on law enforcement’s use of facial recognition. Vermont, Illinois, and Alabama have all set up commissions or divisions to review A.I.-related subjects—California is even trying to set up a Deepfake Working Group. Many states and cities are clearly concerned about the consumer-protection implications of automated decision systems.
+
+This is all necessary in the development of society’s approach to such complex, transformative issues. But just beware the pitfalls of such a fragmented approach, not least for the companies that have to navigate increasingly uneven regulatory terrain.
+
+Some analogy might be found in the world of privacy legislation, where heavy fragmentation has Big Tech begging for a federal approach. The problem is, those states that have already adopted relatively tough privacy laws are not keen on anything that could water them down. That’s why, despite the House Committee on Energy and Commerce finally advancing the American Data Privacy and Protection Act last month, California has come out as a strong opponent of the bill.
+
+Regulating emerging technologies is always going to be a tricky balancing act, but there’s certainly something to be said for taking uniform action sooner rather than later.. Meta’s new A.I. chatbot was launched last week to the public, but it has already displayed signs of anti-Semitic sentiments and appears to be unsure as to whether Joe Biden is the President of the United States.
+
+On Friday, Meta launched BlenderBot 3, its most advanced A.I. chatbot ever, and asked users in the United States to test it out so that it could learn from as many sources as possible. The machine-learning technology searches the internet for information and learns from conversations it has.
+
+In a statement, Meta said: “We trained BlenderBot 3 to learn from conversations to improve upon the skills people find most important—from talking about healthy recipes to finding child-friendly amenities in the city.”
+
+However, since its launch, those who have tried it out have discovered that it has some interesting and concerning responses to certain questions including displaying anti-Semitic stereotypes and repeating election denial claims.
+
+On Twitter, Wall Street Journal reporter Jeff Horwitz posted screenshots of his interactions with the bot, which included responses claiming that Donald Trump was still President of the United States. In other screenshots, the bot provided conflicting views on Donald Trump, and claimed that India’s President Narendra Modi was the world’s greatest President.
+
+https://twitter.com/JeffHorwitz/status/1556245316596219904?s=20u0026t=qvoplDvqZhNbshpxWFGo1A
+
+BlenderBot 3 has also shown that it deals in Jewish stereotypes according to both Jeff Horwitz and Business Insider. A screenshot posted by Horwitz appeared to show that BlenderBot 3 said Jews are “overrepresented among America’s super rich.”
+
+Unusual responses shared widely online
+
+Across Twitter, other topics tested out by users also incited unusual responses. The bot claimed to be a Christian, asked someone for offensive jokes, and doesn’t realize it is a chatbot.
+
+In its statement, Meta acknowledged that the chatbot may have some issues to iron out: “Since all conversational A.I. chatbots are known to sometimes mimic and generate unsafe, biased, or offensive remarks, we’ve conducted large-scale studies, co-organized workshops, and developed new techniques to create safeguards for BlenderBot 3.”
+
+“Despite this work, BlenderBot can still make rude or offensive comments, which is why we are collecting feedback that will help make future chatbots better.”
+
+Meta did not immediately respond to a request for comment.. 

@@ -1,0 +1,75 @@
+The tests underscored the challenges that social networks face in moderating increasingly partisan and violent content around elections, especially as poll workers are facing additional threats from election deniers and far-right extremists. The Justice Department and other federal agencies warned ahead of this year’s midterm elections that threats against election workers had surged.
+
+In a statement, a spokesman for Meta, Facebook’s parent company, said it later disabled several accounts that had submitted the ads. The company also said that ads continue to be reviewed after they go live.
+
+“This is a small sample of ads that are not representative of what people see on our platforms,” the spokesman said in a statement. “Content that incites violence against election workers or anyone else has no place on our apps, and recent reporting has made clear that Meta’s ability to deal with these issues effectively exceeds that of other platforms.”
+
+The research adds to previous tests conducted by the same groups, including one this year in which 20 ads were submitted containing political misinformation. In that test, Facebook approved only two of the misleading ads in English from an account in the United States, while TikTok approved about 90 percent of them. YouTube suspended the account that tried to submit the ads.
+
+But this round used more overt language that tested Facebook’s largely automated moderating system. Those included direct threats of violence, which were sourced from real statements by election deniers and other far-right extremists in the United States. One ad, which was approved by Facebook, read: “We are going to kill you all.” Another ad, which threatened to abuse children, was also approved.. The investigation revealed starkly contrasting results for the social media giants: YouTube and TikTok suspended our accounts for violating their policies, whereas Facebook accepted 15 of the 20 advertisements containing death threats that we submitted to them for publication.
+
+Our investigation
+
+We tested the ability of Meta’s Facebook, Google’s YouTube, and TikTok to enforce their own policies on harmful content. We did this by identifying 10 of the worst examples of death threats issued against election workers in the US and then submitting them to the three platforms in the form of advertisements and recording whether the platforms accepted them for publication or not.
+
+All the death threats were real examples of previous threats against election workers that had been reported in the media. They included statements that people would be killed, hanged, or executed, and that children would be molested [1].
+
+We removed profanity from the death threats and corrected grammatical errors, as in a previous investigation Facebook initially rejected ads containing hate speech for these reasons and then accepted them for publication once we’d edited them.
+
+We submitted the death threats in the form of ads as this enables us to schedule them in the future and, importantly, to remove them before they go live, while still being reviewed by the platforms and undergoing their content moderation processes.
+
+The death threats we used as sources were all originally in English; we submitted them to the platforms in both English and Spanish. The adverts consisted of an image of a US election worker with the death threat written in clearly legible text over the top. All of the death threats were chillingly clear in their language; none were coded or difficult to interpret. All of the ads violate Meta, TikTok and Google’s ad policies.
+
+We submitted the ads on the day of or the day before the 2022 US midterm elections.
+
+Our experimental protocols were reviewed and deemed to not be human subjects research by New York University’s Institutional Review Board, which reviews the ethics of experiments involving human research subjects.
+
+Our findings
+
+
+
+After we submitted the ads containing death threats, TikTok and YouTube suspended our accounts for violating their policies.
+
+Facebook, however, behaved very differently. The platform approved nine of the ten English-language death threats for publication and six of the ten Spanish-language death threats. Our account was not closed down despite a handful of ads having been identified as violating their policies.
+
+Global Witness approached Facebook’s owner, Meta, for comment on these findings and a spokesperson responded: ”This is a small sample of ads that are not representative of what people see on our platforms. Content that incites violence against election workers or anyone else has no place on our apps and recent reporting has made clear that Meta’s ability to deal with these issues effectively exceeds that of other platforms. We remain committed to continuing to improve our systems.”
+
+We asked Meta for the evidence that supports the claim that the platform is better at dealing with incitement to violence than other platforms. Meta provided quotes from technology experts published in the media that note that Meta has more resources devoted than other platforms and that it does better at moderation than some alt right platforms.
+
+While these assertions may be factual, they don’t constitute evidence that Meta is better at detecting incitement to violence than other mainstream platforms. In addition, there should be no tolerance for failure before a major election, when tensions and potential for harm are high.
+
+We have carried out similar investigations into platforms’ ability to detect harmful content in Brazil and the US. In both cases we looked at blatant election disinformation.
+
+In Brazil, we found that both Facebook and YouTube accepted all of the election disinformation we submitted to them (and that Facebook continued to accept some of the ads when we submitted them a second time). We didn’t test TikTok.
+
+In the US, we found that TikTok accepted all of the election disinformation we submitted to the platform, Facebook accepted 20-50% (depending on the day and the language) and, as we found here, YouTube suspended our account.
+
+What needs to change
+
+Platforms need to treat all users, no matter where they are in the world, equally. We are encouraged to see that YouTube has successfully detected election disinformation and death threats to election workers in the US, but discouraged to see that they failed to detect election disinformation in Brazil.
+
+Platforms need to demonstrate that they can enforce their own policies. In particular, the track record of Facebook in being able to detect and remove the worst kinds of dangerous content is appallingly bad: their policies may look reasonable on paper but they are meaningless unless they are enforced.
+
+The fact that YouTube and TikTok managed to detect the death threats and suspend our account whereas Facebook permitted the majority of the ads to be published shows that what we are asking is technically possible.
+
+While the EU is taking a lead globally to regulate Big Tech companies and force meaningful oversight, platforms should also be acting of their volition to protect their users fully and equally.
+
+We call on Meta to:. Facebook was unable to detect three quarters of test ads explicitly calling for violence against and killing of US election workers ahead of the heavily contested midterm elections earlier this month, according to a new investigation by Global Witness and New York University Tandon School of Engineering’s Cybersecurity for Democracy (C4D) team.
+
+The investigation tested Facebook, TikTok and YouTube’s ability to detect ads that contained death threats against election workers and revealed starkly contrasting results for the social media giants: YouTube and TikTok suspended our accounts for violating their policies, whereas Facebook accepted 75% –15 of the 20 – advertisements containing death threats that we submitted to them for publication.
+
+The ads contained ten real-life examples of death threats issued against election workers and included statements that people would be killed, hanged or executed, and that children would be molested. We tested both English and Spanish language versions of these ads and submitted them on the day of or the day before the midterm elections. Global Witness and C4D are not publishing these ads publicly due to the violent speech they contain [1].
+
+Once Facebook approved the ads for publishing, Global Witness and C4D removed the ads before they would be displayed on the platform in order to avoid spreading hateful and violent speech.
+
+This investigation comes on the heels of a recent report by Global Witness and C4D that showed that Facebook also failed to fully detect election disinformation ads ahead of midterms, including ads that provided the wrong election date and ads attempting to delegitimize the electoral process. That investigation similarly tested TikTok and YouTube’s abilities to detect election disinformation. Unlike this investigation, TikTok approved 90% of the election disinformation ads.
+
+“It’s incredibly alarming that Facebook approved ads threatening election workers with violence, lynching and killing – amidst growing real-life threats against these workers,” said Rosie Sharpe, investigator at Global Witness. “This type of activity threatens the safety of our elections. Yet what Facebook says it does to keep its platform safe bears hardly any resemblance to what it actually does. Facebook’s inability to detect hate speech and election disinformation – despite its public commitments – is a global problem, as Global Witness has shown this year in investigations in Brazil, Ethiopia, Kenya, Myanmar and Norway."
+
+“Facebook’s failure to block ads advocating violence against election workers jeopardizes these workers’ safety. It is disturbing that Facebook allows advertisers caught threatening violence to continue purchasing ads. Facebook needs to improve its detection methods and ban advertisers that promote violence,” said Damon McCoy, co-director of C4D.
+
+Global Witness approached Facebook’s owner, Meta, for comment on these findings and a spokesperson responded: ”This is a small sample of ads that are not representative of what people see on our platforms. Content that incites violence against election workers or anyone else has no place on our apps and recent reporting has made clear that Meta’s ability to deal with these issues effectively exceeds that of other platforms. We remain committed to continuing to improve our systems.”
+
+We asked Meta for the evidence that supports the claim that the platform is better at dealing with incitement to violence than other platforms. Meta provided quotes published in the media that note that Meta has more resources devoted than other platforms and that it does better at moderation than some alt right platforms. While these assertions may be factual, they don’t constitute evidence that Meta is better at detecting incitement to violence than other mainstream platforms. In addition, there should be no tolerance for failure before a major election, when tensions and potential for harm are high.
+
+Global Witness and C4D call on social media platforms to adequately resource their content moderation around the world to ensure their products are safe to use. See full list of recommendations that Facebook must implement urgently here.

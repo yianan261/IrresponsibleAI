@@ -1,0 +1,23 @@
+Who put all these traffic lights in the middle of the road?
+
+Stop and Go
+
+A Tesla Model 3 owner encountered an unusual glitch while using the Autopilot assisted driving system on the highway: The car seemed to detect an endless trail of traffic lights all the way down the road as it traveled upwards of 80 MPH.
+
+In video footage of the car's display that the driver uploaded to Reddit, it looks like traffic lights are being blasted out of the truck in front of them, making the drive look like a car-themed "bullet hell" style video game.
+
+And this is why you don't do public beta tests! Tesla Model 3 display - showing constant traffic lights whilst going 130km/h on the highway! via https://t.co/MXhddRfjgM pic.twitter.com/rAAYPuY9TP — Sascha (潘賞世) Pallenberg (@sascha_p) June 2, 2021
+
+After much speculation among other redditors, the author posted a followup video revealing that they had been driving behind a truck hauling deactivated traffic lights. It's a funny-looking glitch, to be sure, but the system's inability to figure out what's going on shows how astoundingly difficult it is to prepare autonomous driving systems for the incredible range of edge cases they might encounter in the real world.
+
+The author posted this video in the comments. It's a truck full of traffic lights. pic.twitter.com/h2LwyL65ck — FSD in 6 months (@FSD_in_6m) June 2, 2021
+
+Safety First
+
+On one hand, it's good that the assisted driving system was able to repeatedly recognize that it was, in fact, staring at traffic lights. And the car never seemed to try and screech to a halt as if it had encountered a red light, since a maneuver like that could have proven disastrous.
+
+However, much like a similar glitch where a Tesla mistook a stop sign printed on a billboard for the real thing, the fact that the system couldn't piece together the context of the situation is still an issue. The Tesla's failure to realize that the lights were cargo rather than signals installed in the middle of the highway is a clear sign that Tesla isn't ready for full autonomy, no matter how many times CEO Elon Musk says so.
+
+"I guess this scenario was probably not part of the system's training data," University of Birmingham and MIT mathematician Max Little said on Twitter. "A good illustration of how it will likely be impossible to reach full driving autonomy just by recording 'more data.'"
+
+More on Autopilot: Tesla Admits Elon Musk Exaggerated Autopilot Capabilities. 

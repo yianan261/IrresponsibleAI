@@ -1,0 +1,75 @@
+During a recent stop over at UCLA, I opportunistically recorded a video of a delivery robot that almost immediately got into trouble. What follows is an introduction to the design elements of delivery robots as shown by a series of unfortunate events.
+
+The Robotic Delivery Market
+
+In 2021, global funding for robotics and drone companies rose to $14.9 billion. Among these highflying companies is the food delivery startup, Starship Technologies, which has raised $202 million on its way to (according to Starship) becoming the world's largest fleet of delivery robots.
+
+A collection of Starship robots awaiting orders outside the student cafeteria. When a person orders food from the restaurant, a restaurant employee brings the prepared food to a robot and places it in the bin. The robot then drives to the food drop point and waits for the purchaser to unlock the bin with the app.
+
+Starship is by no means alone in the robotic delivery market. Many companies are chasing after the "last mile" delivery problem, and we are likely to see these systems in our everyday lives. Amazon, for instance, requested regulatory approval to begin air-based delivery in a small California town.
+
+By happenstance, I encountered a Starship delivery unit while walking at the University of California, Los Angeles. During my encounter with a delivery unit, I recorded several minutes of video and almost immediately witnessed an interesting series of events that illustrates many of the design properties required for this sort of deployment.
+
+Event Log: April 3rd, 2022
+
+Getting Stuck in Planter
+
+(0:00) A Starship robot operating in autonomous mode begins returning to the depot.
+
+(0:13) The robot moves to the far right of the path to allow pedestrians easy passage around the robot.
+
+(0:17) The robot's right wheels drop off the lip of the path, but the robot continues forward.
+
+(0:29) The robot detects an obstacle at the end of the current path and begins tracking to the left, but the wheels do not clear the lip.
+
+(0:36) The robot's right side falls into the planter and the robot attempts to autonomously turn left.
+
+Humans Try to Help
+
+(1:14) Skater 1 pulls the robot out of the planter.
+
+(1:24) The robot autonomously turns back towards the planter.
+
+(1:30) Skater 1: "I don't know what it wants, it's on its own now."
+
+(1:44) Skater 2: "You gotta help a brother out" (proceeds to push the robot clear of the planter)
+
+Remotely Controlled
+
+(2:03) Robot begins moving again, likely as a remotely controlled drone. Turn signals no longer function. The robot begins wandering.
+
+(2:30) A skater jumps down stairs.
+
+(2:40) The robot jumps down the stairs.
+
+Bonus Incident
+
+(Approximately 8:00 minutes after video start) After seeing the robot jump the stairs, I wanted to follow it back to the depot to see whether there was someone I could talk to. Along the way, I witnessed the same robot strike the scooter stem pictured above. I was taking pictures at the time and missed a video of the impact. In this case, the incident would appear to be caused by the sensory system of the robot being unable to detect objects suspended within its path. This is a shared blindspot of many Tesla vehicles, which have famously driven through semitrucks that are unexpectedly sideways over the lanes of traffic.
+
+I believe this sequence of events is exceptional and not the standard operating performance of the Starship unit. It is ironic rather than expected that the one and only time I have followed one of these units produced an AI incident when AI incidents are the present focus of my professional life. However, this incident and a related incident where a Starship was hit by a train teaches us how and why these systems are designed the way they are.
+
+Design Elements of the Starship Robot
+
+This analysis is derived both from first principles applied to my observations and the public statements of Starship Technologies and its employees.
+
+Navigation
+
+In the video, you will note that the unit tracks far to the right side of the path -- a choice by Starship designers to respect the right-side norm of the United States. It also takes the unit into the more dangerous periphery of paths, which is how it first gets into trouble by finding its wheels off the lip of the path. This exhibits a common tension in optimized systems -- do you value the the human norms and move to the right or the error-free operation of the system and steer to the center.
+
+When operating in autonomous mode, the units are much like this ride wherein children can "drive" a car around a track. Where the child is ensured to stay on path by a raised bar forcing it to operate like a monorail, the Starship unit follows a GPS path that localizes the unit to within three inches of its true location.
+
+Humans Trying to Help
+
+The Starship delivery units are at times more robot (i.e., they execute movements independent of direct human control) and more drone (i.e., they are controlled by a remote human operator). Company representatives have stated that the Starship delivery units operate fully autonomously on more than 99 percent of deliveries. In the remaining 1 percent of the time, a person connects remotely to the unit from one of three countries with operator teams. In the video above, you can tell which mode the unit is in based on whether the unit indicates its turns by flashing lights. When a human operator is controlling the Starship, it may not utilize the turn signals on the unit. It just makes the turns.
+
+A delivery robot could employ many different rules for when a person should begin remotely controlling (e.g., when a normally clear route is completely blocked), but I believe the event triggering remote control in this incident was a combination of getting trapped by the planter and being pushed by Skater 2. When the skaters attempt to help, it likely registered movement that was not produced by the unit's electric motors. This would trigger the unit's vandalism warning.
+
+In 2015, academics created a hitchhiking robot that was meant to travel through the world by the kindness of strangers. While it successfully hitchhiked through Canada and Germany, the bot was broken apart when it reached Philidelphia, USA. The acceptance, help, and norms of people in the environment must be understood and accomodated any time you place robots unsupervised in the real world. Starship Technologies indicates that vandalism of their units is exceedingly rare, in part due to the number of cameras on the unit. However, it likely also has to do with the environments the units are being deployed to. University campuses are not typical communities.
+
+As soon as the unit registered potential vandalism, a human operator connected to the cameras and controls. The movements became eratic and turns were no longer indicated. The task for the human operator is to return the unit to the GPS track so it can continue on its path without human supervision. Evidently, the low camera angle viewable by the human operator could not see the steps and the Starship became airborn. Soon after jumping the stairs, the unit found the GPS track back to the depot and continued on its way and hit a scooter on the route.
+
+Is this a Good Business?
+
+My experience observing the Starship Technologies product raises questions of whether the technology is a "good bet," business wise. Oregon State University (i.e., the location in which two Starships have been destroyed by trains) pays 9 student employees in addition to 6 non-student employees who work on the supervision and maintainance of the campus delivery fleet. Presuming all the student employees work part time, this is still a large number of people supporting the deployment. With so many people involved, I do not believe the deployments are profitable at the moment, but this could easily change with increasing delivery orders. This delivery model scales well.
+
+While it may take a few years to begin posting profits, it would appear that Starship is keen to expand as fast as possible to operate in as many of the high-density controlled environments as its capital support allows. I am more doubtful that Starship, and any other delivery company for that matter, is ready to take on the far more complicated open world environment. I hope Starship Technologies continues its careful deployments into the real world and avoids trains.

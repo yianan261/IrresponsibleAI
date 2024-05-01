@@ -1,0 +1,63 @@
+On June 3, 2022, in San Francisco, California, a Cruise self-driving vehicle that was driving itself autonomously was involved in an accident with a Toyota Prius. People in both cars sustained injuries as a result of the crash.
+
+According to Automotive News, the crash occurred only one day after regulators in California gave Cruise a critical permit related to its autonomous driving pursuits. The California Public Utilities Commission ruled that Cruise can collect fares from passengers taking rides in the car with no human safety driver behind the wheel. The permit was the first of its kind in The Golden State.
+
+As the story goes, the Cruise car turned left in front of the oncoming Prius. It happened at the intersection of Geary Boulevard and Spruce Street. Officials from Cruise claim the autonomous vehicle stopped before proceeding with the left turn, and the self-driving car was actually sitting still when the Prius hit it.
+
+Cruise went on to say that the driver of the Toyota was speeding. Moreover, the company's report claims the Prius was in a lane that required a right turn, though the human driver proceeded straight through the intersection. A spokesperson for the San Francisco Police Department couldn't confirm or deny Cruise's interpretation of the story since an incident report was either unavailable or not completed in the first place.
+
+Clearly, there is much more information needed in order to sort out exactly what happened in the crash. Carnegie Mellon University professor and autonomous-vehicle safety expert Phil Koopman noted that the specific behavior of both the human driver and the self-driving car will need to be taken into account. He shared:
+
+"Many people have a word for a driver who cuts in front of them and then stops in the road, and it's not a polite or charitable word. There are a lot of unknowns here. We don't know if the Prius driver intended to turn right, but then swerved to try and avoid the crash with the stationary vehicle, for example. There are just a lot of unknowns."
+
+Cruise shared that the car was in autonomous mode when the crash occurred. However, it didn't clarify if the person or people in the car were safety drivers, employees, passengers, or a combination. We do know that people in the car were not likely charged for the ride since the paid service hadn't yet started prior to the crash.
+
+Regardless of who's to blame for the incident, multiple people were injured, and someone is responsible. This just goes to show that even once it seems self-driving cars may be ready for our roadways in some capacity, incidents are almost certain to occur. It will likely be a long and painstaking process to analyze the interaction between human drivers and robot cars to minimize incidents and determine fault.
+
+Just weeks after the crash, a fleet of Cruise vehicles drove to the same intersection and blocked traffic for hours. Cruise apologized for the incident and called it a "technical issue.". . . . Washington, DC CNN Business —
+
+This week Cruise, which counts General Motors as its largest shareholder, became the first robotaxi operator to recall its vehicles, following a June crash involving “major” damage and minor passenger injuries.
+
+The crash occurred after the Cruise robotaxi making a left turn stopped in the intersection, thinking that an oncoming vehicle would turn in front of it. But the oncoming vehicle instead drove straight, striking the Cruise vehicle. Both the San Francisco police department and National Highway Traffic Safety Administration launched investigations.
+
+Cruise has said that the oncoming vehicle drove in the right-turn lane and was traveling at “approximately 40 mph” in a 25-mph lane before it exited the lane and proceeded forward. Cruise acknowledged in its recall filing that its robotaxi was not “sufficiently reactive.” Cruise spokeswoman Hannah Lindow declined to say what the Cruise vehicle could have done differently, and declined to release video of the crash.
+
+Nevertheless, Cruise said in a statement that it made the recall “in the interest of transparency to the public.”
+
+Cruise said in a document detailing the recall that it has already issued a software update that it says improves the robotaxis’ ability to predict what other vehicles will do, including in conditions similar to the crash.
+
+Tesla, arguably a Cruise competitor in the long-term, has been criticized in the past for making software updates to its vehicles while not always issuing a recall. NHTSA has been more proactive on recalls of late and Tesla issued four recalls in a 12-day span earlier this year.
+
+Software updates like what Cruise did, often called “over-the-air-updates,” are generally not financially burdensome to companies in the way traditional recalls have been, because there aren’t costs for physical parts and the labor to install them.
+
+“Automated driving developers are constantly revising their software, including to address potential safety issues,” Bryant Walker Smith, a professor at the University of South Carolina law school who researchers autonomous vehicles, told CNN Business. “It’s to the company’s credit that they treated this particular safety-relevant update as a recall under federal law.”
+
+Cruise continued to operate its robotaxi service in San Francisco following the crash. But at some point after the crash, which Cruise didn’t disclose, it disabled its vehicles’ ability to make unprotected left turns and reduced the area where its robotaxis operated. Cruise has gradually reintroduce unprotected left turns since making the software update on July 6. An unprotected left turn is a turn where there is not a left-turn signal that indicates when it’s a vehicles’ opportunity to go.
+
+Unprotected left turns are generally considered one of the more challenging things that a fully autonomous vehicle performs. Waymo’s robotaxis in Arizona, for example, sometimes avoid these turns to help minimize risks.
+
+Cruise became the second company to offer a fully autonomous ridehail service when it launched in San Francisco in February, but only during late-night hours. The collision that led to the recall occurred at 11 pm, according to Cruise’s report filed to the California Department of Motor Vehicles.
+
+Cruise’s robotaxis have delighted some passengers but also have had shortcoming, including technical glitches and flaws like blocking a firetruck responding to a multi-alarm fire this April, according to the San Francisco Fire Department. Photos have also surfaced of a group of Cruise vehicles blocking lanes on a San Francisco street.
+
+Developing and operating robotaxis is extremely difficult and expensive. Cruise has added shareholders in addition to GM, including Honda, Microsoft and Walmart. Cruise lost $500 million in the second quarter of this year, according to GM financial filings.
+
+GM CEO Mary Barra said last month that the market for robotaxis would probably be several billion dollars once robotaxis rides were available for $1 per mile, cheaper than human-driven Uber and Lyft’s, which are often several dollars per mile and sometimes more.
+
+“It’s very much going to be a big part of how we move from point A to point B because it’s safer,” Barra told Fox Business.
+
+NHTSA has no performance standards for fully autonomous vehicles like Cruise’s, but has said it will pursue recalls as needed.. . Autonomous driving company Cruise and US regulators said today that the General Motors subsidiary had recalled software deployed on 80 vehicles after two people were injured in a June crash involving a Cruise car operating autonomously in San Francisco. The incident occurred one day after the state of California granted Cruise a permit to start a commercial driverless ride-hail service in the state. The flawed software was updated by early July, Cruise said in a filing with the US National Highway Traffic Safety Agency.
+
+The crash occurred when a Cruise vehicle attempting to make an unprotected left turn across a two-lane street was struck by a car that was traveling in the opposite direction and speeding in a turn lane. Cruise said in its NHTSA filing that its software had predicted that the other car would turn right and determined that it was necessary to brake hard in the midst of its own vehicle’s left turn to avoid a front-end collision. But the other vehicle continued straight through the intersection, T-boning the now stationary Cruise car.
+
+At least one person in the speeding vehicle and one Cruise employee riding in the autonomous vehicle were treated for injuries, according to a report that Cruise submitted to the California Department of Motor Vehicles in June. Cruise responded to the incident by putting its robot cars on a tighter leash until their software was updated. The company reduced the area of San Francisco the vehicles operated in and barred them from making left turns altogether.
+
+Cruise said in its NHTSA filing that the software update improves its self-driving software’s predictions, especially in situations like the one that led to the crash. The company said it has determined that if the vehicle involved in the June 3 incident had been running the current software, no crash would have occurred.
+
+The recall is just the NHTSA’s second to involve fully self-driving software. In March, the self-driving developer Pony.ai recalled three self-driving vehicles after it found that a software error caused the system to shut down unexpectedly while its vehicles were in motion. The company said all affected vehicles were repaired. The increasing amount of software in vehicles means that more vehicle recalls—even among human-driven cars—can be accomplished through over-the-air updates.
+
+
+
+In a written statement on the Cruise recall, NHTSA head Steven Cliff said the agency continues to investigate crashes involving self-driving vehicles and will “ensure that vehicle manufacturers and developers prioritize the safety of pedestrians, bicyclists, and other vulnerable road users.” Cruise met with NHTSA officials multiple times to discuss the crash, according to the recall filing.
+
+Cruise spokesperson Hannah Lindow said in a written statement that the software issue has been resolved. “Cruise AVs are even better equipped to prevent this singular, exceptional event,” Lindow wrote. Right now, Cruise’s service operates in 70 percent of the city between 10 pm and 6 am, except during rain or fog. Interested riders must apply to use the service. The robots can make left turns again.

@@ -1,0 +1,99 @@
+Earlier this week, GitHub introduced GitHub Copilot, a new feature that it is referring to as “your AI pair programmer” but might also be appropriately called “IntelliSense on steroids.” Built using OpenAI Codex, a new system that the company says is “significantly more capable than GPT-3 in code generation,” the tool not only autocompletes lines of code but will offer entire blocks of code in response to both code that you type and natural language.
+
+Having been “trained on billions of lines of public code,” one of the first questions that has come up regarding Copilot has focused on issues of copyright, specifically pointing to the idea of the viral GPL license, which requires that all derivative works carry that same license.
+
+copyright does not only cover copying and pasting; it covers derivative works. github copilot was trained on open source code and the sum total of everything it knows was drawn from that code. there is no possible interpretation of “derivative” that does not include this — eevee (@eevee) June 30, 2021
+
+Now, while there is plenty of conversation floating around on Twitter and a few Hacker News threads, most of it, as you might expect, falls under the “I am not a lawyer” disclaimer. There is one Hacker News comment, from GitHub CEO Nat Friedman, however, that offers a bit of a response to questions along these same lines.
+
+“In general,” writes Friedman, “(1) training ML systems on public data is fair use (2) the output belongs to the operator, just like with a compiler.” He then offers a link to OpenAI’s position on training machine learning models, which argues that “training AI systems constitutes fair use” and furthermore that “policy considerations underlying fair use doctrine support the finding that training AI systems constitute fair use.”
+
+Well, of course, we thought you might say something like that, Nat.
+
+But Friedman is not alone — a couple of actual lawyers and experts in intellectual property law took up the issue and, at least in their preliminary analysis, tended to agree with Friedman. First, Neil Brown examines the idea from an English law perspective and, while he’s not so sure about the idea of “fair use” if the idea is taken outside of the U.S., he points simply to GitHub’s terms of service as evidence enough that the company can likely do what it’s doing. Brown points to passage D4, which grants GitHub “the right to store, archive, parse, and display Your Content, and make incidental copies, as necessary to provide the Service, including improving the Service over time.”
+
+“The license is broadly worded, and I’m confident that there is scope for argument, but if it turns out that Github does not require a license for its activities then, in respect of the code hosted on Github, I suspect it could make a reasonable case that the mandatory license grant in its terms covers this as against the uploader,” writes Brown. Overall, though, Brown says that he has “more questions than answers.”
+
+I’ve seen the source code for this. I remember something along the lines of pic.twitter.com/vVRSlUSU2e — Tomáš Rottenberg (@hacksparr0w) June 29, 2021
+
+In a more definitive take, Andres Guadamuz, a senior lecturer in intellectual property law at the University of Sussex and the Editor in Chief of the Journal of World Intellectual Property, takes up the question of whether or not GitHub Copilot is infringing copyright, concluding that “this is neither copyright infringement nor license breach, but I’m happy to be convinced of the contrary.”
+
+On the idea of copyright infringement, Guadamuz first points to a research paper by Alber Ziegler published by GitHub, which looks at situations where Copilot reproduces exact texts, and finds those instances to be exceedingly rare. In the original paper, Ziegler notes that “when a suggestion contains snippets copied from the training set, the UI should simply tell you where it’s quoted from,” as a solution against infringement claims.
+
+On the idea of the GPL license and “derivative” works, Guadamuz again disagrees, arguing that the issue at hand comes down to how the GPL defines modified works, and that “derivation, modification, or adaptation (depending on your jurisdiction) has a specific meaning within the law and the license.”
+
+“You only need to comply with the license if you modify the work, and this is done only if your code is based on the original to the extent that it would require a copyright permission, otherwise it would not require a license,” writes Guadamuz. “As I have explained, I find it extremely unlikely that similar code copied in this manner would meet the threshold of copyright infringement, there is not enough code copied, and even if there is, it appears to be mostly very basic code that is common to other projects.”
+
+While Copilot definitely appears to spit out verbatim code once in a while, it is the infrequency of that occurrence that seems to assure Guadamuz that the tool is in little jeopardy for being successfully litigated against. In one comment on his article, he writes that “this is all going to be solved eventually by Codex an Copilot offering a similarity tool where programmers can check whether there is any recitation in their code,” which might help with scenarios such as this:
+
+I don’t want to say anything but that’s not the right license Mr Copilot. pic.twitter.com/hs8JRVQ7xJ — Armin Ronacher (@mitsuhiko) July 2, 2021
+
+And while we’re here, if copyright infringement and open source licensing is less of a concern for you, and you’re more interested in just how cool and useful a tool like GitHub Copilot might be, make sure to head on over and read Darryl Taft’s analysis of Copilot, which he calls “A Powerful, Controversial Autocomplete for Developers“.
+
+This Week in Programming
+
+“Uncomfortable Questions” on Windows’ Android Apps: Last week, we wrote about how Microsoft was yet again causing the netherworld to plunge below freezing with its addition of Android apps to Windows. Something about Microsoft’s use of the Amazon AppStore for Android, and not Google’s Play Store, felt a bit… suspicious… and Android developer, author, and developer Mark Murphy points out why in his blog post on “Windows 11, Amazon, and Uncomfortable Questions“. In his post, Murphy writes that “Amazon pioneered the ‘replace the developer signature’ approach that Google uses with App Signing. And, Amazon does so specifically to be able to modify every Android app that they distribute,” pointing out that this might go beyond collecting analytics, which is troublesome enough, but to also perhaps modify apps to bypass end-to-end encryption, for example. Uncomfortable questions, indeed.
+
+These Github Copilot tweets just write themselves — willman (@willmanduffy) June 29, 2021
+
+TRENDING STORIES. GitHub Copilot is a powerful AI assistant. Learn practical strategies to get the most out of GitHub Copilot to generate the most relevant and useful code suggestions in your editor.. The software engineering world has been buzzing in recent days following the release of GitHub Copilot — a machine learning-based programming assistant. Copilot aims to help developers work faster and more efficiently by auto-suggesting lines of code and/or entire functions.
+
+However, the matter of how GitHub Copilot generates these suggestions has been the subject of some controversy. In short, Copilot’s machine learning model has been trained on public code. This raises two questions:
+
+Does GitHub need permission from the code copyright owner to train Copilot on that code? Copilot’s suggestions are based on a massive amount of public code, some of which are covered by strong copyleft licenses. Will using Copilot count as creating a derivative work of the original copyleft-licensed code?
+
+To answer these questions (and to put Copilot in the appropriate legal context), we turned to Kate Downing, an IP lawyer who specializes in helping software companies navigate areas like open source compliance.
+
+October 2022 Update: The license compliance controversy surrounding GitHub Copilot took a recent turn when news surfaced of a potential lawsuit. On Oct. 17, programmer and lawyer Matthew Butterick announced that he and a team of lawyers are looking into filing a lawsuit against Copilot. You can visit their website for more information.
+
+Is GitHub Copilot Committing Copyright Infringement?
+
+Before exploring the license compliance ramifications of GitHub Copilot, we’ll start with a topic that goes to the very heart of whether GitHub can train Copilot on publicly available code without the copyright holder’s permission.
+
+According to Downing, the answer depends to a certain extent on where that code is hosted. If it’s on GitHub, there very clearly would not be copyright infringement.
+
+“If you look at the GitHub Terms of Service, no matter what license you use, you give GitHub the right to host your code and to use your code to improve their products and features,” Downing says. “So with respect to code that’s already on GitHub, I think the answer to the question of copyright infringement is fairly straightforward.”
+
+Things aren’t quite as clear-cut in a scenario where Copilot is trained on code that is hosted outside of GitHub. In that situation, the copyright infringement question would hinge largely on the concept of fair use.
+
+“If Copilot is being trained on code outside of GitHub, we accept that at least some of what they’re looking at is copyrightable work,” Downing says. “So, the question then becomes if it’s fair use. Now, you ultimately can’t conclude definitively that something is fair use until you go to court and a judge agrees with your assessment. But I think there’s a strong case to be made that Copilot’s use of code is very transformative — a point which would favor the fair use argument.
+
+“There is precedent for this sort of situation. Take the case of Google Books, for example. Google scanned millions of books, provided people who were doing research with the ability to search the book, and provided the user a small snippet of the text that the user was searching for in the book itself. The court did in fact find that was fair use. The use was very transformative. It allowed people to search millions of books. It didn’t substitute for the book itself. It didn’t really take away anything from the copyright holders; in fact, it made it easier for readers to access the work and actually opened a broader market for book authors. And, it was a huge value add on top of the copyrighted corpus.
+
+“I think those arguments are really strong and applicable to the Copilot example, but like I said, nothing is really fair use until a court decides that’s the case. So, despite the fact that we do have precedent in that direction, it remains an open question.”
+
+To summarize:
+
+Downing does not think GitHub is committing copyright infringement by training Copilot on code hosted on GitHub.
+
+think GitHub is committing copyright infringement by training Copilot on code hosted on GitHub. For code not hosted on GitHub (and thus not governed by GitHub’s terms of service): Downing thinks there’s a strong case that Copilot uses said code in a transformative manner, which would support a fair use argument that there is no copyright infringement. Ultimately, however, we can’t be completely confident one way or the other until the matter is settled in a court of law.
+
+Thank you for submitting details. Your email address is added to our subscription list.
+
+What About GitHub Copilot and License Compliance?
+
+As we mentioned, GitHub trains Copilot on numerous pieces of public code, many of which are covered by strong copyleft licenses (i.e. GPL v2, GPL v3). Copyleft licenses require that derivative works (of the copyleft-licensed code) must carry the same license as the original code.
+
+In other words, if an organization builds and distributes a piece of software (let’s call it “Jim’s Product”) that includes code licensed under GPL v3, “Jim’s Product” will likely also need to be licensed under GPL v3 (there are a handful of exceptions). This, of course, has the potential to be problematic.
+
+The question, then, is whether GitHub Copilot users will inadvertently be creating derivative works of copyleft-licensed code. As Downing sees it, the answer to the derivative work question depends on the precise nature of Copilot’s suggestions.
+
+“This is really case-specific and remains to be seen,” Downing says. “A lot depends on the thoroughness and the length of Copilot’s suggestions. The more complex and lengthy the suggestion, the more likely it has some sort of copyrightable expression. If a suggestion is short enough, the fact that it repeats something in someone else’s code may not make it copyrightable expression.
+
+“This is the case because of the way programming languages work. In certain languages, there are specific class names and there are specific function names. There are a lot of pieces that get reused throughout code, almost like lego blocks. So if the suggestion is fairly small, it probably doesn’t have any copyrightable expression in it in the first place; the suggestion may be purely functional (i.e. this is the only way to do x in this language).
+
+“There’s also the question of whether what’s being produced is actually a copy of what’s in the corpus. That’s a little unclear right now. GitHub reports that Copilot is mostly producing brand-new material, only regurgitating copies of learned code 0.1% of the time. But, we have seen certain examples online of the suggestions and those suggestions include fairly large amounts of code and code that clearly is being copied because it even includes comments from the original source code.”
+
+To summarize:
+
+Copilot is far from a finished product, and the complexity, length, and thoroughness of its code suggestions seem to vary.
+
+For this reason — and the fact that code suggestions must be sufficiently original to meet the standard of copyrightable expression — it’s difficult to assess with confidence whether using Copilot would result in the creation of a derivative work.
+
+A Practical Take on Copilot and the Law
+
+As one would expect in light of the fact that GitHub Copilot is still just a few weeks old, there are still more questions than answers when it comes to matters of potential copyright infringement and license compliance. With that said, Downing suggests Copilot users consider taking certain simple and straightforward precautions to guard against potential license compliance issues.
+
+“I’d caution anyone using Copilot right now to help write code to pay close attention to the nature of Copilot’s suggestions,” Downing says. “To the extent you see a piece of suggested code that’s very clearly regurgitated from another source — perhaps it still has comments attached to it, for example — use your common sense and don’t use those kinds of suggestions.”
+
+Additional Resources. . 

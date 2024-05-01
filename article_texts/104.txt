@@ -1,0 +1,47 @@
+As most Californians become eligible to receive a COVID-19 vaccine, California is rightly centering equity in distributing doses to communities that have been hardest hit. But our analysis of the state’s most recent plans suggests that the Department of Public Health’s vaccine-distribution algorithm may fall short, leaving millions of the neediest Californians without additional supply.
+
+
+
+When algorithmic systems and other technology systems are deployed to reach policy goals, we must all be mindful that the way those systems are built and used can produce drastically different outcomes. Here, the consequences of California building an algorithm to allocate vaccines based on ZIP codes rather than census tracts means that more than 2 million Californians—living in neighborhoods with the worst health outcomes, many of them communities of color—may not be given needed additional vaccine supply.
+
+
+
+Both Governor Newsom and the California Department of Public Health have recognized that “the pandemic did not affect California communities equally.” COVID-19 has devastated Black, Latinx, and other communities of color at disproportionate rates, with Latinx people representing close to the majority of COVID-19 deaths. To advance the goal of equity in vaccine distribution, the state decided in January to use something called the “Healthy Places Index”—a metric that assigns scores to communities across California according to health outcomes—in order to identify areas of the state where additional supply of the vaccine is necessary. Under the state's plans, additional vaccine supply would go to the areas with Healthy Places Index scores in the bottom 25%.
+
+
+
+A few weeks later, the state announced that Blue Shield would build an algorithm allocating vaccines based on ZIP codes rather than census tracts—the generally smaller, census-based areas that the Healthy Places Index scores with health outcomes.
+
+
+
+
+
+The use of ZIP codes to allocate vaccines should give us pause. ZIP codes are designed primarily to accelerate the delivery of the mail, while census tracts are specifically designed for making place-based socioeconomic comparisons. Given this difference, California should have a compelling reason to use ZIP codes rather than census tracts to deliver vaccine supply to communities that need it.
+
+So what are the potential real-life consequences of California’s algorithm and its use of ZIP codes to allocate vaccine supply?
+
+Our analysis shows that using ZIP codes rather than census tracks in the algorithm could transform which communities get additional vaccine supply, potentially undermining equity and access for many vulnerable communities. The problem lies in the fact that ZIP codes often represent much larger geographical areas, containing both low-income and wealthy communities. As a result, a low-income, underserved neighborhood with a very low Healthy Places Index score can end up erased from the state’s priority list by virtue of the fact that they are in the same ZIP code with higher-income households.
+
+The map below shows this impact for communities across the state. Blue areas represent ZIP codes that, according to the state, may get additional supply of vaccines. Red areas are census tracts in the least healthy 25% of the Healthy Places Index that fall outside of these prioritized ZIP codes, which apparently won't receive additional supply under the state's equity framework.
+
+
+
+Blue areas depict ZIP codes that may get additional vaccine supply; red areas depict census tract areas with low health and economic outcomes that may not get additional vaccine supply.
+
+According to the 2010 census over 2 million people lived in the red census tracts in this map. They are neighborhoods across the state, from communities in the most Northern reaches of the state, like Susanville in Lassen County, to Chinatown in downtown San Francisco, to El Cajon northeast of San Diego. You can explore the results of the state’s distribution algorithm in your own community in the map above.
+
+For these excluded communities, familiar disparities reveal themselves. The census tracts that, if the state’s plans are carried out, will not receive additional vaccine supply are disproportionately communities of color. Statewide, Latinx people make up approximately 38% of the population, but Latinx people make up 53% of the population in the census tracts that may be omitted from the state’s equity focus. The same is true of Black populations, making up 6% statewide but 8% of the census tracts potentially left behind.
+
+The state has been admirably transparent regarding the decision to use ZIP codes rather than census tracts, stating that tracking vaccine delivery to ZIP codes is operationally simpler than using census tracts. But the consequences of that choice, when built into an algorithm that will determine which communities in California have additional supply of the vaccine, are literally life and death. Today’s results are meant to clarify the potential impact of the state’s decision for the people of California.
+
+Our analysis focuses on the geographic boundaries used by the state to distribute additional vaccine doses. But other aspects of the state’s equity algorithm are worth scrutinizing. Public-health and equity experts have counseled, for example, that Black people should be explicitly prioritized in vaccine delivery. And recent research suggests that direct prioritization of high-risk racial and ethnic groups in vaccine distribution performs better than age-based or geographic targeting. Other available metrics, like the CDC’s Social Vulnerability Index, the Index of Concentration at the Extremes, and the COVID-19 Vulnerability Indicators consider different factors to determine a place-based vulnerability score and advance equity as the vaccine is distributed.
+
+When algorithmic or other technological systems are part of public policy, the public has a right to know what information is being used and why, how they work, and what the consequences will be for every person touched by the system. Unfortunately, if the state’s description of the “equity” algorithm is correct, it falls short of that mark. Algorithmic systems can cloak human decisions in a guise of objectivity, but every decision made by a computer was, at bottom, made by the people who designed, built, and deployed those systems.
+
+Distributing supply of a scarce vaccine in a pandemic is no easy task. The ideal approach, in which everyone who needs and wants the vaccine has immediate access, is not always possible. But when algorithmic systems are used to distribute scarce resources in California and around the country, we must be brutally honest about the consequences of those algorithms on people’s lives. Technology can alleviate harm, but it can also exacerbate existing inequality. The research results we release today are meant to advance California towards both transparency and equity and ensure that technology is powering—not undermining—social justice.
+
+Today, we call on the California Department of Public Health to review the 469 census tracts where 2 million Californians live, and explain how the state will ensure that those people, many of whom are in dire need of life-saving medical care, will not be left behind.
+
+We acknowledge the technical support and advice of the University of San Francisco Center for Applied Data Ethics, including Data-Science Master’s Student Max Shinnerl and Former Director of the Center for Applied Data Ethics, Rachel Thomas, PhD.
+
+Jacob Snow is a Technology and Civil Liberties Attorney at the ACLU of Northern California, where he works on a variety of issues, including consumer privacy, surveillance, and the preservation of free speech online.

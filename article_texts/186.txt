@@ -1,0 +1,267 @@
+As part of a program to curb feminicides, Spain built VioGén, an algorithm that assesses the risk faced by victims of gender violence. It remains a work in progress.
+
+This story is part of AlgorithmWatch's upcoming report Automating Society 2020, to be published later this year. Subscribe to our newsletter to be alerted when the report is out.
+
+In the early morning of 24 February 2018, Itziar P., a psychologist living in the Spanish city of Castellón, went to a police station to report threats from her husband, Ricardo C..
+
+In audio recordings she made with her mobile, the husband could be heard saying: “We will all end up dead and me in jail”, or “I will take away from you what you love most”.
+
+According to Itziar P., Ricardo C. had also broken in pieces the buggy of their smaller child (Martina, 2 years old) and slapped the older one (Nerea, 6), when the two were under his custody.
+
+The police officer asked Itziar P. a set of questions and fed the answers to VioGén, a software that helps the Spanish police estimate the risk of recidivism in gender violence. The officer issued a report in which that risk was deemed as low.
+
+Critical failure
+
+In the following days, both Itziar P. and Ricardo C. were called to declare in court. She asked that he be forbidden to visit their children, but the judge denied the request, based on the low risk estimation made by the police, among other reasons.
+
+Seven months later, on 25 September 2018, Nerea and Martina where sleeping at Ricardo C.’s place. In the early morning, he killed them “with cruelty” and threw himself out of a window.
+
+Itziar P.’s story was shocking. Why was the case deemed as low risk? VioGén had missed its goal of supporting police personnel in assessing the risk of new assaults, and so assigning the right level of protection. Since the software was first deployed in 2007, there has been a series of “low risk” cases that have ended in homicide of women or children.
+
+Better than nothing
+
+The program is by far the most complex of its sort in the world. It has reasonable performance indexes. Nobody believes that things would be better without it – except the far-right, which makes spurious claims that it helps women report innocent men.
+
+But critics point out some flaws. Few police personnel are educated in gender-based violence. Some of the others blindly rely on the software’s outcome. Moreover, the program may have systematically underestimated risk. Some victims’ organizations believe that the possibility of a low risk score is nonsense. Reporting to the police is a high risk situation in itself, they say, because abusers perceive it as a challenge.
+
+As of January 2020, 600,000 cases had gone through VioGén. About 61,000 of them were considered active, meaning they were being followed-up by the police (the system is designed to check periodically on women until they are considered safe).
+
+Reporting an assault
+
+When a woman goes to report an assault from an intimate partner, she triggers a process that takes at least a couple of hours. First, the police agent goes through an online form with her. The agent ticks each of the items of the VPR form (from the Spanish initials of “Police Risk Assessment”) as “present” or “non present”. There are 39 items in the latest published version of the form (the VPR 4.0 ). Agents can also rely on police databases, witnesses and materials proofs.
+
+Questions explore the severity of previous assaults (for example, whether weapons were ever used); the features of the aggressor (jealous, bully, sexual abuser, unemployed, drug addict, etc.); the vulnerability of the victim (pregnant, foreign, economically dependent, etc.); and aggravating factors (like assaults by other men).
+
+Answers are thrown automatically into a mathematical formula that computes a score, measuring the risk that the aggressor repeats violent actions. This quantitative approach is different to the one used in DAS-H, the British equivalent of VioGén. The latter is basically a paper check-list that helps agents to get an idea of the situation.
+
+Keeping the score
+
+In theory, Spanish agents can increase the score by hand, if they appreciate a higher risk. But a 2014 study found that they stuck to the automatic outcome in 95% of the cases.
+
+The formula used in VioGén is a “simple algorithm,” according to Juan José López Ossorio, a psychologist who has been in charge of VioGén from its early stages, in a written statement to AlgorithmWatch. The algorithm gives more weight to items that empirical studies have shown to be more related with recidivism, Mr López Ossorio wrote. He declined to disclose the exact formula.
+
+Once a case’s score is established, the agent decides on a packet of protection measures associated to that level of risk . For the lowest scores, agents will discreetly check on the woman from time to time. For the highest, the police will give the victim an alarm button, track the aggressor’s movements, or guard her house. The agent also sends the form and risk score to the prosecutors and judges that will see the woman’s case.
+
+After the first report, the police meet again with the woman to fill in a second form, in order to assess whether the situation has worsened or improved. This happens periodically, more or less frequently depending on the risk level. Police stops following up only if judicial measures are not pursued and the risk level falls below medium.
+
+VioGén is one of the outcomes of a pioneering law on gender-based violence that Spain approved in 2004, ten years before the Council of Europe adopted a common framework on the subject, the Istanbul Convention. Nowadays, the software is used by the main Spanish police forces (Policía Nacional and Guardia Civil) and by hundreds of local police forces (except in Catalonia and the Basque Country that have independent police bodies).
+
+The best available system
+
+VioGén is the best device available to protect women’s lives, according to Ángeles Carmona, president of the Domestic and Gender-Based Violence Observatory of the Spanish General Council of the Judiciary (CGPJ).
+
+She recalls a case she saw in a court in Seville, of an aggressor that had a high-risk of recidivism, according to VioGén. A control wristband was applied to the man. One day, the police saw that the signal of the wristband was moving fast towards the victim’s home. They broke into it just in time to prevent him from suffocating her with a pillow.
+
+It’s impossible to know how many lives have been saved thanks to VioGén, according to Antonio Pueyo, a professor of psychology at the Univeristy of Barcelona who has advised VioGén from the beginning.
+
+However, a 2017 study by Mr López Ossorio and his team tried to measure how good the protocol was. They found that VioGén’s Area Under the Curve (AUC), a widely-used measure of performance for predictive models, stood between 0.658 and 0.8. An AUC of 0.5 is as good as a coin’s toss and an AUC of 1 means the model never fails. Cancer screening tests are considered good when their AUC is between 0.7 and 0.9. In other words, VioGén works.
+
+“Comparing with what is around and within the existing limitations, VioGén is among the best things available”, says Juanjo Medina, a professor of quantitative criminology at the University of Manchester that has compared instruments of assessing the risk of intimate partner violence.
+
+Spain is the only place where victims can be followed-up across different regions. Close to 30,000 police officers and other agents across the country had access to VioGén in 2018.
+
+However, the cases that have slipped through the cracks of VioGén have raised concern. The latest one happened in February 2020, when a 36-year-old woman and mother of two had her throat cut by her former partner, who then threw her body in a container in the town of Moraira. The two had been registered in the VioGén system after the police reported him for attacking her, but the case had become inactive after a judge cleared him.
+
+False negatives
+
+In 2014, the newspaper El Mundo published a leaked document from the General Council of the Judiciary that showed that 14 out of 15 women who were killed that year, having reported their aggressor before, had low or non-specific risk (the classification used for any person reporting a threat to the police).
+
+Some critics say that low risk should not even be an option. Reporting is a maximum risk moment for a woman, according to Carme Vidal Estruel, spokesperson of Tamaia, an association that helps victims in Barcelona. She says that the situation is akin to divorcing or becoming pregnant, both moments in which the aggressor realizes that he is loosing grip on the victim.
+
+Another widespread criticism is that few agents among those who should validate the computer's outcome receive enough training in gender issues. Some VioGén items are embarrassing, like those related to sexual violence, humiliation, or intimate messages on mobile phones.
+
+Agents should ask circular questions (instead of blunt, direct questions) and avoid transmitting the feeling that the object of investigation is the woman, according to Chelo Álvarez, president of Alanna, an association of former victims in Valencia. Ms Carmona of the General Council of the Judiciary recalls a woman that reported her husband for robbing her car’s keys. She was so scared that she could not say anything else. The day after, the man killed her.
+
+Few agents are aware of these nuances. In 2017, there was a total of 654 agents in all Spain belonging to the Women-Children Teams (EMUME) of the Guardia Civil. That is much less than one for every police station.
+
+Ignored requirements
+
+This is very different from what the 2004 law that created VioGén required. According to it, cases should be dealt with by an interdisciplinary team including psychologists, social workers, and forensic doctors.
+
+This team should go into psychological aspects that the VioGén form does not cover. Moreover, it should carry out a forensic assessment directly on the aggressor. The current system is tantamount to evaluating how dangerous is a person without ever talking with him, critics points out. Several teams were created after the law was passed in 2004, but the process was cut sharply by the austerity following the 2008 financial crisis.
+
+Mr Pueyo, the psychology professor, acknowledges some of the criticism, but believes that VioGén should be judged for its ability to predict new assaults, not homicides, because these events are very rare. The probability that a women be killed after reporting is about one in ten thousands, according to Mr López Ossorio.
+
+However, the Istanbul Convention requires precisely to reduce the risk of death. And not only of the women, but also of their children. Overlooking the risk for children is another criticism VioGén faces.
+
+The convention entered into force in Spain in 2014, but VioGén forms were not changed accordingly until Itziar P.’s case occurred in 2018, according to her lawyer.
+
+VioGén 5.0
+
+A new protocol was put in place in March 2019, the fifth big change VioGén has gone through since its first deployment in 2007. Now, the program identifies cases “of special relevance”, in which the danger is high, and cases “with minors at risk”.
+
+This is done through the “dual evaluation procedure” of the new VPR form (VPR 5.0 -H), Mr López-Ossorio explains. Two calculations are carried out in parallel: one related to recidivism and a new one related to lethal assault.
+
+Depending on the outcome of the latter (called “H-scale”), the risk score can be increased automatically. Moreover, the case can be signaled to the prosecutors and judges as being “of special relevance”.
+
+Mr López-Ossorio declined to disclose how the H-scale was built, but wrote that it was based on a study his group carried out throughout four years, to find which factors were specifically related to cases that end up in homicides.
+
+The new protocol seems to have triggered a major shift in the risk scores of VioGén. Passing from VPR 4.0 to VPR 5.0 -H, the number of extreme risk cases rose and those of high risk almost doubled, according to Mr López Ossorio.
+
+As the president of Valencia’s former victims association Ms Álvarez puts it: “Things are improving, but they should go faster, because we are being killed”.. . This study describes the rationale, development, and validation of the intimate partner violence (IPV) police risk assessment forms of the VioGén System of the Spanish Ministry of Interior (VPR 4.0 and VPER 4.0 ), which promote greater predictive effectiveness and an improvement in the IPV law enforcement prevention. A validation study of the mentioned protocols is presented, including inter-observer reliability, estimated by the equivalence or inter-judge reliability method, while the convergent validity of these protocols was calculated with the RVD-BCN protocol. The sample consisted of 6613 new cases of IPV included in the VioGén System over a period of 2 months and which were longitudinally followed up for 6 months. The discrimination indexes are not only the summarized odds ratio (OR), area under the ROC curve (AUC), sensitivity, and specificity, but also the calibration indexes positive predictive value (PPV) and negative predictive value (NPV). The results show the suitability of using procedures which, in a coordinated manner, incorporate two risk assessment instruments, one for a first screening assessment and a second one to re-assess IPV danger situations on a regular basis. The values obtained are within the margins reported by different meta-analyses regarding this type of instruments, which supports their use for professional practice.. How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond.
+
+By MELISSA HEIKKILÄ
+
+Send tips, feedback and anecdotes | @Melissahei | Subscribe for free
+
+Welcome to AI: Decoded, brought to you every Wednesday by Melissa Heikkilä, POLITICO’s AI Correspondent in London.
+
+This week:
+
+— An audit reveals a Spanish algorithm used to assess domestic violence risk is deeply flawed.
+
+— The debate around banning and risky AI heats up again in the European Parliament.
+
+— Europe’s law enforcement agencies debut principles meant to hold their AI use more accountable.
+
+SPOTLIGHT
+
+SPANISH ALGORITHM LEAVES DOMESTIC VIOLENCE VICTIMS OUT IN THE COLD: For the past 15 years, Spain has been using an algorithmic system called VioGén to help the police assess the risk women face when they file complaints of abuse. But the system has severe flaws that lead to women’s risk being ranked too low and without the appropriate response from the authorities, according to a new report by Eticas Consulting, an algorithmic auditing company, and the Ana Bella Foundation, an organization campaigning against gender violence.
+
+Meet VioGén: Launched in 2007, the system was created by the Spanish Ministry of Interior. The “Integral Monitoring System in Cases of Gender Violence” (the VioGén System) is a web application designed to help authorities coordinate actions to protect women and their children from gender violence. The idea was to standardize a set of questions that the authorities ask women when they make an official complaint in an effort to treat them fairly and offer better treatment.
+
+How it works: VioGén uses classical statistical models to perform a risk evaluation and offers women a risk score, which determines how much help they will receive.
+
+Here’s where it goes all wrong: “We could see in the media that every so often you’ll get a woman that was killed and their VioGén risk had been ranked low,” said Gemma Galdon-Clavell, Eticas Consulting’s CEO. Her audit found that in 2021, only 1 out of 7 women who reached out to the police for protection received help, and only a small minority of women received a risk score of “medium” or higher, which would qualify them for police protection. “If you don’t have children, you may get a lower risk score, which is also concerning,” Galdon-Clavell added.
+
+A high bar: The proportion of women who report their partners for abuse is likely only the tip of the iceberg of all domestic abuse and intimate partner violence cases. Women risk a lot by going to the authorities, and often do so in situations of extreme duress. “I was trembling, I couldn’t find the words to explain years of abuse, mockery, scorn and contempt from him, it wasn’t easy and the police officer who took my statement was not trained to deal with a person who had suffered gender violence,” one women who participated in Eticas’s audit said.
+
+The VioGén questionnaire was a baffling experience. “I was totally lost in these questionnaires between nerves and crying. There was no one with me to explain the questionnaires. The policeman gave me the paper and left me alone and every now and then he came to pressure me to finish quickly,” the woman said
+
+‘Nightmare’ scenario: “It’s like a bad dream. A nightmare. And to this day I don’t remember those questions, I just remember that I felt very bad and unprotected. I didn’t even know there was a score,” another woman who participated in the audit said.
+
+Humans not in the loop: Etica’s audit found that VioGén is not very transparent and has very little human oversight or accountability. In 95 percent of cases, police officers stuck with the risk score the system offered.
+
+Machine-learning red flag: The ministry has said it is considering introducing machine learning to VioGén. This is a big red flag to Galdon-Clavell. “It’s quite clear that human oversight is not working,” she said. Using machine-learning would lead to the discrimination patterns to be “made even worse without any kind of oversight,” she added.
+
+Spain’s interior ministry responds: The risk assessment system “is based on the study of 600,000 real cases and has been subject to a constant and permanent process of evaluation and improvement since 2007, with the collaboration of universities and study centers of recognized academic prestige,” a spokesperson for the Spanish interior ministry said. The Eticas report “lacks academic rigor by basing its study and its conclusions on an insignificant statistical universe of only 31 interviews compared to the more than five million risk assessments carried out since 2007,” they continued.
+
+How to fix the system: Involving women in the process and explaining how the system works would be a good start. Women who used the system told Decoded that they would have liked support from a specialist in gender violence, psychologists or doctors. “Give security to the victim. Give empathy. Don’t judge. Be kind and supportive,” a second woman said. Read more from me here.
+
+AI ACT
+
+DEBATE AROUND AI BANS HEATS UP: The European Parliament’s culture committee this week debated a draft report on the AI Act penned by Marcel Kolaja (Greens, Czech Republic). The report offers a first glimpse into the specific wording of how the AI Act could ban controversial AI uses such as facial recognition in public places. The culture committee has been tasked with participating in defining classification rules for high-risk AI systems. The committee will vote on the report in May.
+
+Extend the list of high-risk AI systems: Kolaja wants to extend the list of high-risk AI systems to e-proctoring systems, which are used for monitoring of students during tests and technologies used to determine an area or a program a student should study. He also suggests adding to the list the creation and dissemination of machine-generated news articles and recommendation and ranking algorithms for audiovisual content.
+
+No social scoring for companies: There’s one thing Kolaja, who belongs to the Czech Pirate Party, agrees with EU countries. He proposes banning social scoring from private companies, which is in line with what the Slovenian presidency of the EU proposed. “This concept of social scoring is really distant from European values,” Kolaja said. Kolaja said he was disappointed that his German colleague Axel Voss, from the conservative EPP party, did not propose the same in his report.
+
+No surprises here: Kolaja is a strong advocate for banning the use of remote biometric identification systems in publicly accessible places. This is in line with a resolution the Parliament passed last year.
+
+No post-spying: The AI Act’s focus on real-time remote identification is not enough, Kolaja argues. “Russia has used facial recognition technology to identify protesters after the demonstration,” Kolaja said. This could also pose a risk to journalists whose movements are tracked to find their sources, for example.
+
+No stalking in the Metaverse: The same principle should apply to virtual publicly accessible spaces, Kolaja’s report added.
+
+ACCOUNTABILITY
+
+HOLDING LAW ENFORCEMENT ACCOUNTABLE: AI can be a powerful tool to spot online terrorist content or child porn. But it comes with big risks to citizen’s fundamental rights and privacy, with critics fearing AI systems could enable more government-surveillance for example. Europol, the EU’s law enforcement agency, and four other EU justice and home affairs agencies, have developed new accountability rules in an effort to hold law enforcement more accountable.
+
+What’s the big deal: The first draft of the Accountability Principles for Artificial Intelligence is an effort by law enforcement agencies at self-regulation. Right now, there are few rules that govern their use of the technology, and while the EU’s AI Act has restrictions on some “risky” AI uses, such as facial recognition, it carves out exceptions for law enforcement. EU countries are also pushing for national security to be completely excluded from the bill’s scope.
+
+The will of the people: A survey of 5,500 citizens across 30 countries found that over 90 percent of participants expect police to be held accountable for the way they use AI and for the consequences of their AI use. Only a third thought existing mechanisms were appropriate.
+
+Sign on the dotted line: The project advocates for agencies to enter into an AI Accountability Agreement (AAA) and pledge to follow the accountability principles laid out in the agreement.
+
+12 steps to success: The principles are: The use of AI should be lawful; that all relevant aspects of AI deployments are covered through the accountability process; oversight includes all relevant stakeholders; transparent; checks are done by independent authorities; authorities should keep documented records or other proof of compliance; enforceability and redress mechanisms should be in place; authorities and oversight bodies should gain access to information; explainability; constructive dialogue; good conduct; and organizations using AI should be open to learning about new AI developments.
+
+BOOKMARKS
+
+The FTC may have found a new standard for penalizing tech companies that violate privacy and use deceptive data practices: algorithmic destruction. Protocol.
+
+Speaking of killing algorithms … Nadine Dorries, the U.K.’s new digital minister, has been criticized for “​lacking “a grasp of the details.” In a juicy detail in this profile by my colleague Annabelle Dickson, Dorries once asked Microsoft when they were going to ban algorithms. (Perhaps Dorries knows more than her aides think!)
+
+Amazon workers filed data access requests under the EU’s data protection law, the GDPR. Their goal is to find out how Amazon uses data on them.
+
+Ukraine has started using Clearview AI’s facial recognition during war. Italy fines Clearview AI €20 million, while Belgian police watchdog rules the use of Clearview AI unlawful.
+
+Researchers at the University of Oxford and Deepmind have developed a machine learning system called Ithaca that can help historians decipher ancient Greek texts.
+
+To share at the watercooler: Grimes on her and Elon Musk’s AI theories, Mars fantasies and secret second child. Vanity Fair.
+
+This edition of AI: Decoded would not have happened without Nicholas Vinocur and Clothilde Goujard.. La Policía empezará a aplicar este miércoles el nuevo protocolo para la valoración del nivel de riesgo de las víctimas de violencia de género, después de que la Secretaría de Estado de Seguridad haya notificado de manera oficial la instrucción. Como novedad, se alertará a la autoridad judicial mediante una diligencia expresa de aquellos casos que sean susceptibles de evolucionar en violencia más grave e incluso en asesinato.
+
+En esta comunicación interna, a la que ha tenido acceso Europa Press, se explican los motivos de la "mejora" de los formularios y herramientas para la elaboración de la valoración policial del riesgo (VPR) versión 5.0, enmarcada en el Sistema VioGén.
+
+La puesta en marcha del nuevo protocolo se produce después de la celebración de varias jornadas de formación para los agentes, según han subrayado fuentes del Ministerio del Interior a Europa Press.
+
+Detectar casos especialmente graves o con menores Esta es la quinta vez que se actualizan estos formularios que se realizan de manera obligatoria desde el año 2007. Se pretende "mejorar la predicción de reincidencia de nuevos episodios de violencia", así como "identificar y alertar" a la autoridad judicial y al Ministerio Fiscal de los casos que tienen un riesgo "de especial relevancia" que son "susceptibles de evolucionar en violencia más grave", como el asesinato de la mujer. El nuevo protocolo policial tiene también el objetivo de detectar los casos con menores a cargo de la víctima "en posible situación de vulnerabilidad", según se señala en la instrucción de la Secretaría de Estado de Seguridad. En el caso de que haya menores, se trasladará a la autoridad judicial a través de una diligencia y se aconsejará la práctica de valoraciones adicionales. "Ahora se van a identificar estos casos porque son menores en posible situación de riesgo y, por ello, en otra diligencia se dirá a la autoridad judicial que es conveniente valorar a estos menores", apuntaló Rodríguez. Otro de los objetivos es "clarificar y simplificar" algunas cuestiones, como el tratamiento de ciertos casos de violencia de género, la aplicación de medidas policiales de protección de carácter obligatorio según cada nivel de riesgo, así como la elaboración de un plan se seguridad personalizado (PSP).
+
+Calificación del riesgo Las mujeres que denuncian violencia de género por parte de sus parejas o exparejas en una comisaría de Policía o Guardia Civil no pueden abandonarla sin que esa valoración haya sido cumplimentada por un agente. El proceso de evaluación tarda alrededor de dos horas en culminarse y, en función de riesgo apreciado, se imponen unas medidas de protección policial u otras. Los agentes, haciendo uso de distintas fuentes de información -víctima, autos familiares, testigos, etcétera-, clasifican el riesgo en no apreciado, bajo, medio, alto y extremo y, tras ello, se incorpora al Sistema VioGén. Según los datos a fecha 28 de febrero, se mantiene a 10 mujeres en riesgo extremo, 179 en alto, 5.183 en riesgo medio, 26.691 en riesgo bajo y 25.071 en riesgo no apreciado, de más de 57.134 casos activos, aunque el sistema varía continuamente porque su actualización es constante. La VPR asociada a cada caso siempre se incluye en el atestado policial. "La intervención experta, formada, proactiva y rigurosa de dichos agentes es imprescindible en el proceso de valoración", destaca la instrucción. En ella, se emplaza a los agentes a "no realizar preguntas directas a las víctimas, salvo en supuestos muy concretos y siempre que falte algún dato muy específico que sólo pueda recabarse por esta vía". En concreto, llama a "evitar doble victimización en el momento de recabar información muy sensible y personal de la víctima o su agresor" y "evitar sugerencias que conduzcan a desviaciones o sesgos en las respuestas". Asimismo, la notificación enviada por Interior señala que los supuestos "de ausencia de denuncia" deben hacerse "constar expresamente a la autoridad judicial y fiscal". También hace mención especial a los "muchos" delitos de violencia de género que comenten a través de las nuevas tecnologías de la información y comunicación -violencia de género digital-.
+
+Casos "especialmente revelantes" Una novedad de los nuevos formularios para la valoración del riesgo es que se informará a la autoridad judicial de los casos denominados "especialmente relevantes" por el riesgo asociado a ellos mediante una diligencia expresa. Se recomendará la práctica de evaluaciones adicionales en el ámbito judicial. Según explicó a Europa Press la responsable del área de Violencia de Género y Estudios, María Rodríguez, por lo general, los casos que se cataloguen como "de especial relevancia" presentarán, como mínimo, un nivel de riesgo medio, y se concentrarán sobre todo en el alto o extremo. "Esa identificación de los casos especialmente sensibles va a conllevar necesariamente una elevación del nivel de riesgo", apuntó la comisaria. La nueva versión del sistema de valoración policial del riesgo tiene menos indicadores que la anterior, que data de 2016 --alrededor de 30 ítems-- y "mejora su formulación y el peso asignado a cada uno de ellos", según aclaró Rodríguez. "El nuevo procedimiento incluye unos nuevos formularios que han estudiado y aprendido de los anteriores, y con lo cual están más evolucionados", manifestó a Europa Press.. Catorce de las 15 asesinadas en 2014 que habían denunciado a su agresor por violencia machista tenían una valoración policial de riesgo «no apreciado» o «bajo», según el último informe del Observatorio de Violencia Doméstica y de Género del Consejo General del Poder Judicial.
+
+El documento estudia 15 casos porque está fechado el 1 de diciembre, por lo que no incluye los dos asesinatos de ayer en Valladolid (la víctima había denunciado) y en Valencia (no lo hizo). El decimoquinto caso analizado -la mujer de Madrid que, junto a su hija, murió a manos de su novio y cuyos cadáveres aparecieron en noviembre- está bajo secreto de sumario, circunstancia que hace que el informe no haya podido profundizar en él.
+
+El Informe sobre fallecimientos por violencia de género con procedimientos judiciales previos en 2014 señala que incluso en dos de los tres casos en los que la orden de protección estaba en vigor -Villarejo de Salvanés, Cubillos de Sil y Berja-, el riesgo fue valorado como «bajo» o «no apreciado». Y ese peligro, ya fuera evaluado alto, bajo o inexistente, siempre vivió en las 47 mujeres en total (más ocho casos en investigación) asesinadas en lo que va de año.
+
+La mayoría no denunció, pero las 15 analizadas en el informe, sí. Se atrevieron a salir de la intimidad de la violencia y se la contaron al Estado para que las protegiera: asistentes sociales, médicos, policías, jueces... Pero murieron. ¿Qué falló?
+
+A ello responde el dossier de 23 páginas elaborado por el Grupo de Expertos del Observatorio de Violencia de Género del CGPJ con información propia y de la Delegación de Gobierno de Violencia de Género del Ministerio de Sanidad, Servicios Sociales e Igualdad. Parte del texto fue hecho público la semana pasada, pero EL MUNDO ha tenido acceso al informe completo, que repasa, uno a uno, 14 casos y apunta algunos datos sobre el decimoquinto, la historia fatal de A. P. y su pequeña A. El 16 de enero, la madre y abuela de las víctimas presentó una denuncia en el Decanato de los Juzgados de Madrid por malos tratos a las tres. El CGPJ indica que, a falta de recibir la copia íntegra del caso, «parece que las diligencias previas fueron sobreseídas», porque no se localizó a la denunciante en la casa que señaló el Juzgado Número 16. Los cuerpos fueron hallados hace dos semanas, el auto está bajo secreto sumarial y no se conoce la valoración de riesgo.
+
+«Más de la mayoría de las víctimas tenía una valoración de riesgo entre medio y no apreciado. Dicha valoración no debería restringir las opciones de protección o debería evitar una percepción de impunidad o incredulidad», escribe el CGPJ.
+
+Todas las órdenes de protección que las víctimas pidieron, ocho, fueron concedidas. Pero los jueces no impusieron a ningún condenado los dispositivos telemáticos que alertan de sus acercamientos a las víctimas. «Estamos incentivando la formación en la materia, teniendo en cuenta que no se ha producido ningún homicidio/asesinato con pulsera».
+
+La dispensa de declarar contra un familiar, «en la redacción que se mantiene del art. 416 de la Ley de Enjuiciamiento Criminal desde el siglo XIX», está detrás de muchas de las renuncias, lo que pasó en la mitad de los casos. La voluntad o la coacción -«Me hice las heridas porque me caí», alegó M. J. en el juzgado de Lugo; «fue una pelea de los dos. El error fue mío», dijo M. F. en el de Arenys dos meses antes de ser asesinada- provocó archivos y la reanudación de la convivencia. O sea, un aumento de la «vulnerabilidad».
+
+«Las víctimas de maltrato no quieren que sus agresores vayan a la cárcel, quieren que no se les acerquen más. Por eso se dan arrepentimientos cuando los letrados trasladan a las víctimas las consecuencias penales de la denuncia». «Así -prosigue el informe- las víctimas llegan a no querer declarar o cambian sus declaraciones para proteger a sus agresores (...) La formación especializada es imprescindible (...) El Juzgado debe tener elementos para valorar la situación objetiva de riesgo».
+
+Y el CGPJ lanza una crítica a la dispensa: «La redacción del 416 genera buena parte de las absoluciones. Y crea distorsiones en violencia de género. (...) En ningún otro delito, la víctima no sólo no se limita a perdonar a su agresor, sino que se culpa de su propia agresión, y está inmersa en el llamado ciclo de la violencia: agresión-denuncia-arrepentimiento-agresión (...) Este recurso procesal es un nuevo instrumento de dominación al servicio del violento».
+
+Tres de los asesinos tenían antecedentes de agresión a otras parejas. El informe argumenta que hay que vigilar al agresor después de cumplida la pena, ya que «una mayoría de condenados siguen obsesionados con el sentimiento de propiedad de que la ex pareja les pertenece a ellos 'y a nadie más', hecho que provoca una persecución permanente».
+
+Y cuenta que en uno de los casos de esta quincena de sangre denunciada, el juicio rápido tardó ocho meses en fijarse. Pero llegó tarde: un día antes de celebrarse, él la mató.. Falta de transparencia, infravaloración de la violencia psicológica, preguntas “rígidas” que no permiten explicaciones o evaluaciones que tienen en cuenta los recursos policiales disponibles a la hora de asignar un nivel de riesgo a la víctima. Son algunos de los “problemas” que una auditoría externa ha encontrado en el algoritmo VioGén, un sistema automático empleado en las comisarias para calificar el riesgo personal que tiene cada denunciante de violencia de género.
+
+“Una de las principales preocupaciones sobre el algoritmo VioGén es que aproximadamente el 45% de los casos reciben la calificación de riesgo ”no apreciado“. En el contexto de la violencia de género, la categoría de ”sin riesgo“ ya es un tema muy controvertido, ya que solo el hecho de dar el paso de denunciar puede dar lugar a reacciones violentas por parte del agresor”, detalla la investigación, elaborada por la Fundación Éticas, especializada en auditoría algorítmica, y la Fundación Ana Bella, una red de mujeres supervivientes de la violencia machista. “Esta falta de apreciación del riesgo nos lleva a pensar que existen factores que aún no se están teniendo en cuenta”, avisan.
+
+La auditoría incluye un análisis de los datos públicos del Ministerio del Interior, que desarrolla VioGén desde 2007. A ellos se añade un estudio cualitativo con entrevistas a 31 denunciantes y 7 abogados especializados, así como un enfoque cuantitativo que profundiza en las calificaciones de riesgo VioGén con 126 mujeres que fueron asesinadas después de haber puesto una denuncia contra su agresor.
+
+Esta segunda parte de la investigación se ha realizado de manera externa dada la negativa de Interior a facilitar acceso a las bases de datos de VioGén para realizar una auditoría interna, algo que Éticas señala que se ofreció a hacer de manera gratuita “en varias ocasiones desde 2018”. Fuentes del Ministerio han confirmado a elDiario.es que estas peticiones se denegaron y afirman que el informe “carece de rigor académico al basar su estudio y sus conclusiones en un universo estadístico insignificante de tan solo 31 entrevistas frente a las más de cinco millones de valoraciones de riesgo realizadas desde 2007”.
+
+Calificación de riesgo para la violencia de género
+
+VioGén (acrónimo de Sistema de Seguimiento Integral en los casos de Violencia de Género) entra en acción cuando una víctima de violencia machista acude a la comisaría a poner una denuncia. Se basa en un cuestionario predeterminado que los agentes rellenan con las respuestas de la denunciante. En base a ellas el algoritmo evalúa el riesgo de que su agresor atente contra ella, calificándolo como “no apreciado”, “bajo”, “medio”, “alto” o “extremo”. A partir del riesgo “medio” la denunciante tiene derecho a protección policial. Los agentes pueden modificar el nivel de riesgo asignado, pero solo para aumentarlo. No obstante, la auditoría refleja que en el 95% de los casos no lo hacen.
+
+
+
+
+
+
+
+Es en esa primera evaluación donde la investigación detecta muchos de los problemas del sistema. “El 80% de las entrevistadas reportaron diferentes problemas con el cuestionario VioGén. Esto significa que la calidad de los datos introducidos en el sistema algorítmico podría verse comprometida en este momento, generando fuentes de sesgo y tergiversación dentro del sistema”, recoge. Entre los fallos señalados por las denunciantes está la falta de transparencia, puesto que muchas no fueron informadas de la valoración de riesgo que VioGén las asignó.
+
+El contexto que rodea a la realización del cuestionario también se muestra problemático. Una de las participantes lo recuerda como “un momento turbio con preguntas absurdas donde se cometen errores al llenar el cuestionario”, calificando la situación que vivió de “surrealista”. Las encuestadas afirman que les resultaba difícil recordar todo lo sucedido en el momento de la entrevista, organizar sus pensamientos y proporcionar respuestas detalladas a las preguntas de VioGén. Las fundaciones recuerdan que “muchas mujeres que sufren violencia de género llegan a la comisaría y presentan la denuncia justo después de un incidente violento”, por lo que “se encuentran en estado de shock”.
+
+A esto se une que el sistema solo admite respuestas binarias. Si la denunciante no es capaz de ofrecer una, son los agentes quienes deben interpretar qué deben introducir en el sistema. Los abogados especialistas en violencia de género entrevistados coinciden en que las preguntas son “rígidas” y no permiten explicaciones. Uno de ellos señaló que la forma en la que están formuladas hace que el nivel formativo de la denunciante también sea clave: “El nivel de estudios facilita entender lo que se pide y explicar cómo se siente y sufre, siempre que no sea un maltrato grave y esté bloqueada o aterrorizada”.
+
+
+
+
+
+
+
+De las 31 mujeres entrevistadas para la investigación, 15 evaluaron negativamente su experiencia con vioGén; 10 señalaron aspectos tanto negativos como positivos y 6 calificaron positivamente su experiencia general. Otro de los puntos en los que coinciden víctimas y abogados es en que “VioGén subestima la violencia psicológica y las formas más nuevas de violencia no física (como el acoso a través de las redes sociales), poniendo el énfasis en la violencia física”. “No hace falta una paliza, ni una agresión, para que exista el riesgo. Parece que los parámetros olvidaron el maltrato psicológico”, explica otro de los abogados.
+
+Interior niega que el cuestionario presente problemas y recuerda que se mejora de forma permanente. “El sistema de valoración policial del riesgo (VPR) en el ámbito VioGén es un importante instrumento de apoyo en la lucha contra la violencia de género que ha demostrado su utilidad desde su implantación hace 15 años, gracias a la validación científica de cada uno de sus indicadores”, exponen a este medio fuentes del Ministerio. “Es necesario precisar que se trata de un apoyo para el trabajo de evaluación policial que realiza un experto en la materia, basándose también en otro conjunto de factores y criterios”, añaden.
+
+Protección insuficiente en 55 casos
+
+El análisis cuantitativo de los 126 casos de mujeres asesinadas ha detectado que 55 de ellas “recibieron una orden de protección que resultó ser insuficiente” por parte de VioGén. En este punto la investigación detecta un sesgo en sus parámetros, puesto que “a las mujeres asesinadas que no tenían hijos se les había asignado automáticamente un nivel de riesgo menor que a aquellas que sí los tenían”.
+
+La auditoría de la parte automática del sistema ha revelado también que VioGén adapta el riesgo apreciado para cada víctima en función de los recursos policiales disponibles. “Esto significa que el sistema solo da la cantidad de valoraciones de riesgo ”extremo“ que puede permitirse, por lo que los recortes de fondos tienen un impacto directo y cuantificable en las posibilidades de que las mujeres reciban protección efectiva después de buscar protección policial”.
+
+El sistema solo da la cantidad de valoraciones de riesgo “extremo” que puede permitirse, por lo que los recortes de fondos tienen un impacto directo y cuantificable en las posibilidades de que las mujeres reciban protección efectiva
+
+Las fundaciones destacan que a pesar de que los casos activos en VioGén crecen año tras año, en 2021, “solo 1 de cada 7 mujeres que acudieron a la policía en busca de protección la obtuvieron”. Desde 2015, solo el 3% de las víctimas obtuvo una puntuación de riesgo “medio” o mayor y, por tanto, protección policial.
+
+Transparencia algorítmica
+
+VioGén fue desarrollado en 2007 por el Ministerio del Interior y ha ido perfeccionándose desde entonces. Fue un sistema pionero para integrar en una sola plataforma toda la información sobre las víctimas de violencia machista, así como unificar su protección en todo el territorio. Esto lo ha convertido en “el sistema de evaluación de riesgos con más casos registrados del mundo” con más de 3 millones, recoge la auditoría.
+
+Sin embargo, los detalles sobre cómo funciona o por qué asigna un nivel de protección y no otro son opacos. A menudo, esta situación pasa desapercibida por la aparente neutralidad matemática de la Inteligencia Artificial, pese a los avisos de los expertos: “Los algoritmos a veces dan una falsa impresión de objetividad que aplasta los derechos de las personas”, expuso en una entrevista con este medio Carlos Preciado, magistrado del TSJ de Catalunya. “La mayoría de los estudios de VioGén han sido realizados por los mismos investigadores que contribuyeron a su desarrollo y por personas que trabajan y/o tienen intereses creados en el Ministerio y las fuerzas policiales”, destaca en este caso Éticas.
+
+La mayoría de los estudios de VioGén han sido realizados por los mismos investigadores que contribuyeron a su desarrollo y por personas que trabajan y/o tienen intereses creados en el Ministerio
+
+El Gobierno se ha comprometido a promover la transparencia de este tipo de sistemas de Inteligencia Artificial usados en la administración. “Se mejorará la calidad de los datos aportados y su accesibilidad, fomentando la cultura de orientación al dato, utilizando algoritmos transparentes y explicables, estrechando la relación entre la Administración y la ciudadanía”, afirma en la Estrategia Nacional de Inteligencia Artificial aprobada en 2020. Los presupuestos generales de 2022 incluyen una partida de 5 millones de euros para la creación de una agencia especializada en supervisar los algoritmos y sus posibles sesgos.
+
+Sin embargo, el funcionamiento de la mayoría de los algoritmos que utiliza sigue siendo secreto. Además de VioGén, otro de los ejemplos es BOSCO, que regula el acceso a ayudas sociales para el pago de la luz a usuarios en situación de vulnerabilidad. En este caso, el Gobierno está pleiteando con la fundación protransparencia Civio tras negarse a dar acceso a su código fuente tras una resolución del Consejo de Transparencia que le instaba a revelar sus detalles.

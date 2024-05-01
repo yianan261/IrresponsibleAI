@@ -1,0 +1,41 @@
+I viewed the page in Hunchly and saw an ad that looked suspicious just based on the ad copy. The displayed domain is for btmontreal.ca, which is a legitimate news site. I started to smell smoke.
+
+Suspicious looking Facebook ad.
+
+Since Hunchly has a live copy of the entire page, all of the links are preserved. I mouse over the ad to see where the click will actually land me and I see the URL displayed in the bottom of Chrome does not correspond to btmontreal.ca. We have another hit. Now I see fire. Rather than click on the link, I right-click and copy it into a text editor.
+
+It is a big messy blob, and if you see all of those little %’s this is telling you that the URL is encoded. You can easily find an URL decoder online that you can paste it into and the first bit you will see is this:
+
+https://www.facebook.com/a.php?u=http://goo.gl/UssPDm&
+
+The first bit is the Facebook advertising handler, and the part in bold is the destination URL of where you land after you click. I have cut it off at the first “&” so that we just have the shortened Google URL. This leads us to the next part of our investigation.
+
+Analyzing Shortened Google URLs
+
+The Google URL shortener works like any other shortening service like bit.ly. You pop in a big URL and it spits out a little URL. The cool thing with the Google URL shortener is that they provide analytics for you so that you can see how a shortened URL was accessed and how many times.
+
+So how do you find these wondrous analytics?
+
+You simply add .info to the end of a shortened Google URL and you will be taken to a page that has the data:
+
+http://goo.gl/UssPDm.info
+
+Look at all that glorious data!
+
+So we can see that there were 26, 812 clicks through this shortened URL and if you hover over the doughnut chart you’ll see that there were a confirmed 11,246 of them from Facebook. That is a lot of clicks. The “Unknown” clicks could be a case of browsers not passing along the Referer HTTP header but I can’t confirm that. What we can see from the activity graph is that the campaign only ran for a relatively short period of time before stopping. In Facebook’s defence, this may have meant that they detected this fraud or someone reported the ads. It could also mean that the fraudster made enough money and decided to bail on the campaign and tear down all of their infrastructure. Tough to confirm either way.
+
+We also see that the destination URL (which is now dead) is:
+
+http://dftrack6.com/?i0g51dkl&s1=sc_hgould_ca_ll
+
+There were no cached copies of the site, and since I didn’t click on the links when I was first viewing it back in December I did not have a copy of the landing page stored in my Hunchly index. So we do not have enough proof to show that we have a fraudulent landing page, but if you dig into the dftrack6.com domain, you will quickly see that it looks suspicious.
+
+The main point here however has been proven: fraudsters can create ads that appear to point to legitimate sites, and then drive tens of thousands of clicks through to their landing pages. Facebook apparently is asleep at the wheel, and sadly, I feel that the general Facebook user and consumers as a whole are being victimized because of it.
+
+How Hard Can This Be?
+
+Now it was time for me to put this all to a test. I will use local advertising and target, well, only me. I used my postal code, age, and set it so that the ads would only run for people connected to both my AutomatingOSINT.com page and the Hunchly Facebook page.
+
+For a minute I would like you to think about the capability to do this targeting from a spear phishing perspective. Scary isn’t it?
+
+I set up my ad to run for the Hunchly page, and the destination URL to be for https://www.hunch.ly but I set the display URL to www.cnn.com. Like so:

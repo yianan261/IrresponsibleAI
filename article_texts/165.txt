@@ -1,0 +1,105 @@
+It’s a startling image that illustrates the deep-rooted biases of AI research. Input a low-resolution picture of Barack Obama, the first black president of the United States, into an algorithm designed to generate depixelated faces, and the output is a white man.
+
+It’s not just Obama, either. Get the same algorithm to generate high-resolution images of actress Lucy Liu or congresswoman Alexandria Ocasio-Cortez from low-resolution inputs, and the resulting faces look distinctly white. As one popular tweet quoting the Obama example put it: “This image speaks volumes about the dangers of bias in AI.”
+
+But what’s causing these outputs and what do they really tell us about AI bias?
+
+First, we need to know a little a bit about the technology being used here. The program generating these images is an algorithm called PULSE, which uses a technique known as upscaling to process visual data. Upscaling is like the “zoom and enhance” tropes you see in TV and film, but, unlike in Hollywood, real software can’t just generate new data from nothing. In order to turn a low-resolution image into a high-resolution one, the software has to fill in the blanks using machine learning.
+
+In the case of PULSE, the algorithm doing this work is StyleGAN, which was created by researchers from NVIDIA. Although you might not have heard of StyleGAN before, you’re probably familiar with its work. It’s the algorithm responsible for making those eerily realistic human faces that you can see on websites like ThisPersonDoesNotExist.com; faces so realistic they’re often used to generate fake social media profiles.
+
+A sample of faces created by StyleGAN, the algorithm that powers PULSE.
+
+What PULSE does is use StyleGAN to “imagine” the high-res version of pixelated inputs. It does this not by “enhancing” the original low-res image, but by generating a completely new high-res face that, when pixelated, looks the same as the one inputted by the user.
+
+This means each depixelated image can be upscaled in a variety of ways, the same way a single set of ingredients makes different dishes. It’s also why you can use PULSE to see what Doom guy, or the hero of Wolfenstein 3D, or even the crying emoji look like at high resolution. It’s not that the algorithm is “finding” new detail in the image as in the “zoom and enhance” trope; it’s instead inventing new faces that revert to the input data.
+
+This sort of work has been theoretically possible for a few years now, but, as is often the case in the AI world, it reached a larger audience when an easy-to-run version of the code was shared online this weekend. That’s when the racial disparities started to leap out.
+
+PULSE’s creators say the trend is clear: when using the algorithm to scale up pixelated images, the algorithm more often generates faces with Caucasian features.
+
+“This bias is likely inherited from the dataset”
+
+“It does appear that PULSE is producing white faces much more frequently than faces of people of color,” wrote the algorithm’s creators on Github. “This bias is likely inherited from the dataset StyleGAN was trained on [...] though there could be other factors that we are unaware of.”
+
+In other words, because of the data StyleGAN was trained on, when it’s trying to come up with a face that looks like the pixelated input image, it defaults to white features.
+
+This problem is extremely common in machine learning, and it’s one of the reasons facial recognition algorithms perform worse on non-white and female faces. Data used to train AI is often skewed toward a single demographic, white men, and when a program sees data not in that demographic it performs poorly. Not coincidentally, it’s white men who dominate AI research.
+
+But exactly what the Obama example reveals about bias and how the problems it represents might be fixed are complicated questions. Indeed, they’re so complicated that this single image has sparked heated disagreement among AI academics, engineers, and researchers.
+
+On a technical level, some experts aren’t sure this is even an example of dataset bias. The AI artist Mario Klingemann suggests that the PULSE selection algorithm itself, rather than the data, is to blame. Klingemann notes that he was able to use StyleGAN to generate more non-white outputs from the same pixelated Obama image, as shown below:
+
+These faces were generated using “the same concept and the same StyleGAN model” but different search methods to Pulse, says Klingemann, who says we can’t really judge an algorithm from just a few samples. “There are probably millions of possible faces that will all reduce to the same pixel pattern and all of them are equally ‘correct,’” he told The Verge.
+
+(Incidentally, this is also the reason why tools like this are unlikely to be of use for surveillance purposes. The faces created by these processes are imaginary and, as the above examples show, have little relation to the ground truth of the input. However, it’s not like huge technical flaws have stopped police from adopting technology in the past.)
+
+But regardless of the cause, the outputs of the algorithm seem biased — something that the researchers didn’t notice before the tool became widely accessible. This speaks to a different and more pervasive sort of bias: one that operates on a social level.
+
+“People of color are not outliers. We’re not ‘edge cases’ authors can just forget.”
+
+Deborah Raji, a researcher in AI accountability, tells The Verge that this sort of bias is all too typical in the AI world. “Given the basic existence of people of color, the negligence of not testing for this situation is astounding, and likely reflects the lack of diversity we continue to see with respect to who gets to build such systems,” says Raji. “People of color are not outliers. We’re not ‘edge cases’ authors can just forget.”
+
+The fact that some researchers seem keen to only address the data side of the bias problem is what sparked larger arguments about the Obama image. Facebook’s chief AI scientist Yann LeCun became a flashpoint for these conversations after tweeting a response to the image saying that “ML systems are biased when data is biased,” and adding that this sort of bias is a far more serious problem “in a deployed product than in an academic paper.” The implication being: let’s not worry too much about this particular example.
+
+Many researchers, Raji among them, took issue with LeCun’s framing, pointing out that bias in AI is affected by wider social injustices and prejudices, and that simply using “correct” data does not deal with the larger injustices.
+
+Even “unbiased” data can produce biased results
+
+Others noted that even from the point of view of a purely technical fix, “fair” datasets can often be anything but. For example, a dataset of faces that accurately reflected the demographics of the UK would be predominantly white because the UK is predominantly white. An algorithm trained on this data would perform better on white faces than non-white faces. In other words, “fair” datasets can still created biased systems. (In a later thread on Twitter, LeCun acknowledged there were multiple causes for AI bias.)
+
+Raji tells The Verge she was also surprised by LeCun’s suggestion that researchers should worry about bias less than engineers producing commercial systems, and that this reflected a lack of awareness at the very highest levels of the industry.
+
+“Yann LeCun leads an industry lab known for working on many applied research problems that they regularly seek to productize,” says Raji. “I literally cannot understand how someone in that position doesn’t acknowledge the role that research has in setting up norms for engineering deployments.”
+
+When contacted by The Verge about these comments, LeCun noted that he’d helped set up a number of groups, inside and outside of Facebook, that focus on AI fairness and safety, including the Partnership on AI. “I absolutely never, ever said or even hinted at the fact that research does not play a role is setting up norms,” he told The Verge.
+
+Many commercial AI systems, though, are built directly from research data and algorithms without any adjustment for racial or gender disparities. Failing to address the problem of bias at the research stage just perpetuates existing problems.
+
+In this sense, then, the value of the Obama image isn’t that it exposes a single flaw in a single algorithm; it’s that it communicates, at an intuitive level, the pervasive nature of AI bias. What it hides, however, is that the problem of bias goes far deeper than any dataset or algorithm. It’s a pervasive issue that requires much more than technical fixes.
+
+As one researcher, Vidushi Marda, responded on Twitter to the white faces produced by the algorithm: “In case it needed to be said explicitly - This isn’t a call for ‘diversity’ in datasets or ‘improved accuracy’ in performance - it’s a call for a fundamental reconsideration of the institutions and individuals that design, develop, deploy this tech in the first place.”. A new computer vision technique that helps convert blurry photos of people into fake, realistic images has come under fire for being racially biased towards white people.
+
+The tool known as PULSE was introduced by a group of researchers from Duke University, and was presented at the virtual Conference on Computer Vision and Pattern Recognition last week. Given a pixelated portrait as input, PULSE searches through computer generated images and picks the best one that it believes is the closest match to the original photo.
+
+All the imaginary images are outputs generated by StyleGAN, a generative adversarial network developed by Nvidia back in 2018. The whole system, essentially, turns a small fuzzy photo into a larger, higher resolution image, a method known as upscaling.
+
+PULSE cannot, however, be used to reveal the true identity of the person hidden in the blurry photo, since it only considers images that have been made up by a generative adversarial network. The people depicted in its results do not exist in real life.
+
+Instead, the tool looks for features like hair length and skin colour in the blurry image and selects a new face dreamed up by StyleGAN that might resemble the person in the original image. Unfortunately, the tool struggles when the obscured photos feature people of colour since it often chooses fake images of people that are white.
+
+Here's a good demonstration of the overall model: The original face on the left may be difficult to make out, but most people would be able to tell that it's former US president Barack Obama.
+
+Given that image, PULSE has selected an image on the right using StyleGAN. The computer-generated face obviously doesn't look anything like Obama at all. In the original image Obama has dark skin, black hair, and brown eyes, but the result is, instead, someone that has white skin, blue eyes, and brown hair.
+
+Robert Ness, a machine learning scientist who teaches workshops at his online platform Altdeep, also found other examples of racial biases when he was toying around with the software. When he fed his own photo and one of Alexandria Ocasio-Cortez, the US Representative for New York's 14th congressional district, the results were both skewed towards Caucasian-looking faces.
+
+An image of @BarackObama getting upsampled into a white guy is floating around because it illustrates racial bias in #MachineLearning. Just in case you think it isn't real, it is, I got the code working locally. Here is me, and here is @AOC. pic.twitter.com/kvL3pwwWe1 — Robert Osazuwa Ness (@osazuwa) June 20, 2020
+
+First, the model blurred both of his original images. Next, PULSE picked images generated by StyleGAN based on the pixelated inputs. "This model demonstrates the same bias issues we've seen in other more commonly used data-driven algorithms like search," he told The Register. "This instance of deep generative modeling just happens to make the issue glaringly obvious."
+
+Do not test a biased model on a biased dataset!
+
+The researchers have acknowledged the issue and believe it stems from existing biases within the StyleGAN model itself. They updated their research paper with a section addressing the issue of racial biases in their work.
+
+The problem is that StyleGAN - trained on 70,000 images scraped from Flickr - tends to generate images of white people. In fact, a recent research paper [PDF] examining the demographics of StyleGAN images discovered that it spat out images of white people 72.6 per cent of the time, compared to just 10.1 per cent for black people, and 3.4 per cent for Indian people. PULSE, therefore, is also more likely to choose images of white people since those are the images being generated by StyleGAN.
+
+The team contacted the original researchers from Nvidia to notify them about their issue, but didn't get a response. "NVIDIA takes diversity and inclusion seriously," a spokesperson from the company told The Register.
+
+"We're always striving to create better datasets and algorithms to overcome any existing bias in current models. We are also doing more research on the algorithmic bias in deep-learning models and methods to mitigate them."
+
+Sachit Menon and Alex Damian, both co-authors and recent graduates at the University of Duke, didn't realise this when they decided to carry out the research. They also didn't realise the racial biases in StyleGAN since they tested their tool on another dataset that collects images of celebrities known as CelebA.
+
+"It turns out that 90 per cent of the photos in CelebA are white people," Menon told El Reg. By testing a biased model on a dataset that also contains the same biases, the issue was overlooked.
+
+"We tried [the tool] on me, and I'm Indian," he added. "Sometimes it worked, but a lot of the times it would make me white. And then I found this other paper that showed StyleGAN only makes Indian people 3 per cent of the time. And when we saw this break down, that's when we realised it was biased."
+
+The team used Nvidia's off-the-shelf model and did not train StyleGAN themselves. "In an ideal world, there would be a more balanced dataset, and we could have used a pretrained model that reflected this," said Damian. "If we used a different evaluation dataset that contained more images of people of colour then we would have spotted the issue. That's a big takeaway and a big lesson for us."
+
+The pair said they carried out the project when they were undergraduates and simply selected StyleGAN for their tool because it provides state-of-art results and that CelebA was commonly used to benchmark super-resolution imaging tasks.
+
+"We don't want to point fingers at anyone; implicit biases are systemic issues," they said. "It's important to be aware of these problems that we weren't initially thinking about. We still have a long way to go as a field of being aware of these things."
+
+The research has kickstarted a heated discussion of whether the issue can simply be fixed by using a model that has been trained on more diverse dataset. Facebook's chief AI scientist Yann LeCun believes so, but others like Timnit Gebru, an expert in algorithmic bias, don't think it's as easy as that. ®
+
+I’m sick of this framing. Tired of it. Many people have tried to explain, many scholars. Listen to us. You can’t just reduce harms caused by ML to dataset bias. https://t.co/HU0xgzg5Rt — Timnit Gebru (@timnitGebru) June 21, 2020

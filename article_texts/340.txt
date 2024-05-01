@@ -1,0 +1,77 @@
+Having just donated your well-worn 1994 Toyota Camry to charity, you’re driving a brand new 2020 Honda sedan on a major street, enjoying air-conditioned comfort on a sunny day, with the satellite radio service narrowcasting tunes from the soundtrack of your life. Then, WHAM!
+
+In a half second, the car slows from 45 to 20 — and you never touched the brake pedal. You never saw it coming but your neck is still reminding you painfully of your whiplash injury.
+
+A close family member experienced this exact scenario just a month ago. She never touched the brake pedal.
+
+What happened? The dealership’s sales representative had not explained each and every feature of this postmodern car and certainly didn’t warn about the risks of its artificial intelligence (AI). It turned out that the car is equipped with all sorts of AI, including the Collision Mitigation Braking System (CMBS). The CMBS had slammed on the brakes without warning.
+
+Forward Collision Avoidance Braking System
+
+Honda’s CMBS is part of the car’s overall collision avoidance system. The CMBS uses a millimeter wave radar unit mounted near the car’s front bumper along with a camera mounted near the rearview mirror. The radar and camera scan ahead in the range of 300 feet, searching for risks of potential collision with people or other things. Information from these devices feeds into a computer. If an obstacle is detected, the CMBS will alert the driver and potentially apply light or strong brakes automatically.
+
+As one surprised driver icily described the downside: The CMBS “applies brake pressure when an unavoidable collision is determined or when an ‘unavoidable’ situation is created out of thin air by the robot mind of your car.”
+
+Class Action Lawsuits Report Common Problems
+
+Searching the Internet via the Duckduckgo search engine reveals that this brake-slamming problem is well-known — and has no known fix. A consolidated class-action lawsuit, Cadena v. American Honda Motor Co., pending in a California federal court, alleges that the manufacturer is liable for violating several states’ unfair business practices and consumer fraud laws as well as for breach of implied warranty and negligence. Drivers across the U.S. have joined the lawsuit, seeking an injunction against the manufacturer as well as damages for their personal injuries and property damage.
+
+One of the plaintiffs described the very problem my family member experienced:
+
+I was driving 45MPH on a straight, flat road, no other cars around. Brakes slammed on and then released. There was nothing in front of me or behind me. I believe something is wrong with the collision mitigation braking system. My back and neck are very sore. There were no warnings from the system.
+
+Other people suffered worse problems, such as:
+
+Collision detection system falsely goes off on a regular basis due to opposing traffic. Slams brakes to floor, overriding accelerator – has happened in the middle of an intersection twice and on a two way straightaway with no vehicle in my lane. I’ve had the car for 1 month and almost been in 3 accidents due to this faulty system which I am now deactivating. (NHTSA ID 11002642, Report Date: October 1, 2018)
+
+As alleged in a lawsuit venued in Illinois, other troublesome defects in the sensing technology include both displaying numerous warning messages from a false indication of a hazard and alerting drivers to immediately apply the brakes without reason to do so. These messages distract the driver from watching the road while trying to read the message on the display panel. The warning actually increases the driver’s risk by drawing attention away from the (presumably) imminent peril.
+
+AI Faults are In-Built Human Errors
+
+At least four issues become clear. First, the brake-slamming problem is an AI fault. Chiefly, it is the software system, not the hardware components, that decides when CMBS engages. That means the automatic braking decisions stem from programmers’ choices. Software programs gather data and make decisions only so far as the programmers could imagine the types of problems the software must solve.
+
+Programs themselves can be imperfect, either by design or because of errors in coding, casually called bugs. Just calling a system “intelligent” doesn’t mean it will serve its purpose perfectly or even very well.
+
+AI software is also potentially vulnerable to hacking and intentional corruption. Additionally, AI systems that rely on GPS depend upon an imperfect system susceptible to its own host of hardware, software, and terrestrial environmental problems. Anyone who has “lost the GPS signal” while hunting for an address can relate to the confusion the AI-driver guidance would experience.
+
+AI and the Government–Industrial Complex
+
+Second, government for years has been pressing the auto industry to deploy AI for crash prevention. For example, in a 2017 filing in the Federal Register, 82 FR 8391, the U.S. National Highway and Traffic Safety Administration (NHTSA) observed:
+
+94 percent of vehicle crashes can be traced to human choices (e.g., choices about safety belt use or consumption of alcohol) or error. If there were technological means to prevent those human choices or behaviors from affecting vehicle safety, we could potentially prevent or mitigate 19 of every 20 crashes on the road.
+
+NHTSA optimistically forecasts amazing success at crash reduction using AI:
+
+Automated vehicles, which depend on technologies like automatic emergency braking, hold the promise of being the means that will prevent human choice or error from causing crashes. That is why NHTSA and the Department of Transportation have focused on trying to accelerate the safe development and deployment of highly automated and connected vehicles. Vehicle automation and connectedness could cut roadway fatalities dramatically.
+
+The government’s pressure means the auto industry can justify its expanded AI systems: The government made us do it. The government–industry consensus becomes the explanation for systems that aren’t perfect and may actually endanger people, but are mandatory. Private citizens have nearly no input into the policy-making or the programming choices.
+
+One Automated Braking Solution Fits All?
+
+Third, the random braking problem stems from human designers’ hubris injected into the software. To decide when to apply brakes requires knowing about and responding to many unpredictable variables in a constantly changing environment. Intelligent human drivers learn how to assess speed and distance, road conditions including traction and incline, and the estimated or expected actions of other vehicles coming from any direction, to name a few factors — all in real time. Human drivers gain experience to foresee the actions of other drivers several vehicles ahead or directly behind them. Humans use driving laws, roadway signage, rules of thumb, and prior experience in specific situations, times and places.
+
+The AI system programmers believe that they can craft software to meet or beat the human mind at these tasks — every time and in every conceivable environment or driving condition. Except for the actual hardware failures in equipment, the random brake-slamming problem and other false positives result from programmers’ decisions about what is best for the driver.
+
+Lawsuits Search for Fault – Not Intelligence
+
+Fourth, the current American legal system sets up dueling incentives: (A) allowing consumers to sue the car manufacturers if there existed an accident mitigation technology and the manufacturers didn’t install it; versus (B) allowing consumers to sue the car manufacturers if the accident mitigation technology can and does fail occasionally.
+
+Just to confuse matters for the individual drivers and the manufacturers, some courts have held that injured drivers can’t sue automakers for AI braking failures because the NHTSA has not set mandatory standards for those automatic braking systems. Ironically, the technical name for this legal doctrine is “implied obstacle preemption.”
+
+The manufacturers face a no-win scenario of potential liability whether they deploy AI braking systems or not. Consumers injured by the brake-slamming problem have sued manufacturers for failing to warn of AI system problems and for committing some species of deception. The Cadena class action pending in California includes consumers’ claims of “unfair business practices” when Honda “sold vehicles to [people] despite knowing of a safety defect in the vehicles, failing to disclose its knowledge of the defect and its attendant risks at the point of sale or otherwise.” Related claims point to a breach of implied warranty of merchantability (basically, alleging that the car doesn’t work as it should from the reasonable buyer’s point of view).
+
+Tesla’s Worst Case Sound Bite
+
+Tesla founder and CEO Elon Musk tweeted on April 17, 2021, some great news about the company’s advanced AI systems: “Tesla with Autopilot engaged now approaching 10 times lower chance of accident than average vehicle.” A few days later, a 2019 Tesla in Texas, suspected to be in “driverless” mode, smashed into a tree and burst into flames, killing the two occupants.
+
+The fire burned for hours as first responders battled without easy success, as the car’s battery kept reigniting the flames. Reportedly firefighters had to contact Tesla corporate to learn how to extinguish the blaze.
+
+Thinking out loud: The occupants’ families could conceivably sue Tesla for a product defect, for deceptive advertising and literature, and for failing to warn of potential AI system failures.
+
+Lawsuits, however, comfort no one. Meanwhile, society’s attempt to shift responsibility to others, whether government, businesses, or AI technology and its designers, inspires a powerless victim mentality that isn’t healthy.
+
+Shall human beings be treated as biological systems served – or directed – by machines on autopilot? Or shall human beings strive for personal knowledge, competence, and freedom?
+
+Note: The line drawing of (1) a driverless car with sensors and (2) of a driverless car braking for a pedestrian are courtesy of the Noun Project. (3) The interior of a Tesla autonomous car is courtesy jurvetson (Steve Jurvetson) (CC BY 2.0), via Wikimedia Commons.
+
+You may also wish to read: Guess what? You already own a self-driving car. Tech hype hits the stratosphere.

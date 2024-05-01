@@ -1,0 +1,45 @@
+Researchers have discovered a “deepfake ecosystem” on the messaging app Telegram centered around bots that generate fake nudes on request. Users interacting with these bots say they’re mainly creating nudes of women they know using images taken from social media, which they then share and trade with one another in various Telegram channels.
+
+The investigation comes from security firm Sensity, which focuses on what it calls “visual threat intelligence,” particularly the spread of deepfakes. Sensity’s researchers found more than 100,000 images have been generated and shared in public Telegram channels up to July 2020 (meaning the total number of generated images, including those never shared and those made since July, is much higher). Most of the users in these channels, roughly 70 percent, come from Russia and neighboring countries, says Sensity. The Verge was able to confirm that many of the channels investigated by the company are still active.
+
+The bots’ targets apparently include underage children
+
+The bots are free to use, but they generate fake nudes with watermarks or only partial nudity. Users can then pay a fee equal to just a few cents to “uncover” the pictures completely. One “beginner rate” charges users 100 rubles (around $1.28) to generate 100 fake nudes without watermarks over a seven day period. Sensity says “a limited number” of the bot-generated images feature targets “who appeared to be underage.”
+
+Both The Verge and Sensity have contacted Telegram to ask why they permit this content on their app but have yet to receive replies. Sensity says it’s also contacted the relevant law enforcement authorities.
+
+In a poll in one of the main channels for sharing deepfake nudes (originally posted in both Russian and English), most users said they wanted to generate images of women they knew in “real life.” Image: Sensity
+
+The software being used to generate these images is known as DeepNude. It first appeared on the web last June, but its creator took down its website hours after it received mainstream press coverage, saying “the probability that people will misuse it is too high.” However, the software has continued to spread over backchannels, and Sensity says DeepNude “has since been reverse engineered and can be found in enhanced forms on open source repositories and torrenting websites.” It’s now being used to power Telegram bots, which handle payments automatically to generate revenue for their creators.
+
+DeepNude uses an AI technique known as generative adversarial networks, or GANs, to generate fake nudes, with the resulting images varying in quality. Most are obviously fake, with smeared or pixellated flesh, but some can easily be mistaken for real pictures.
+
+The Telegram bots make generating fake nudes as easy as sending a picture
+
+Since before the arrival of Photoshop, people have created nonconsensual fake nudes of women. There are many forums and websites currently dedicated to this activity using non-AI tools, with users sharing nudes of both celebrities and people they know. But deepfakes have led to the faster generation of more realistic images. Now, automating this process via Telegram bots makes generating fake nudes as easy as sending and receiving pictures.
+
+“The key difference is accessibility of this technology,” Sensity’s CEO and co-author of the report, Giorgio Patrini, told The Verge. “It’s important to notice that other versions of the AI core of this bot, the image processing and synthesis, are freely available on code repositories online. But you need to be a programmer and have some understanding of computer vision to get them to work, other than powerful hardware. Right now, all of this is irrelevant as it is taken care of by the bot embedded into a messaging app.”
+
+Sensity’s report says it’s “reasonable to assume” that most of the people using these bots “are primarily interested in consuming deepfake pornography” (which remains a popular category on porn sites). But these images and videos can also be used for extortion, blackmail, harassment, and more. There have been a number of documented cases of women being targeted using AI-generated nudes, and it’s possible some of those creating nudes using the bots on Telegram are doing so with these motives in mind.
+
+“demeaning fake videos and photos of each of us can ruin our reputation”. Within 24 hours, the Vice article had inspired such a backlash that the creators of the app quickly took it down. The DeepNude Twitter account announced that no other versions would be released, and no one else would get access to the technology.
+
+But a new investigation from Sensity AI (previously Deeptrace Labs), a cybersecurity company focused on detecting the abuse of manipulated media, has now found very similar technology being used by a publicly available bot on the messaging app Telegram. This time it has an even simpler user interface: anyone can send the bot a photo through the Telegram mobile or web app and receive a nude back within minutes. The service is also completely free, though users can pay a base of 100 rubles (approximately $1.50) for perks such as removing the watermark on the “stripped” photos or skipping the processing queue.
+
+As of July 2020, the bot had already been used to target and “strip” at least 100,000 women, the majority of whom likely had no idea. “Usually it’s young girls,” says Giorgio Patrini, the CEO and chief scientist of Sensity, who coauthored the report. “Unfortunately, sometimes it’s also quite obvious that some of these people are underage.”
+
+The gamification of harassment
+
+The deepfake bot, launched on July 11, 2019, is connected to seven Telegram channels with a combined total of over 100,000 members. (This number doesn’t account for duplicate membership across channels, but the main group has more than 45,000 unique members alone.)
+
+The central channel is dedicated to hosting the bot itself, while the others are used for functions like technical support and image sharing. The image-sharing channels include interfaces that people can use to post and judge their nude creations. The more a photo gets liked, the more its creator is rewarded with tokens to access the bot’s premium features. “The creator will receive an incentive as if he’s playing a game,” Patrini says.
+
+The community, which is easily discoverable via search and social media, has steadily grown in membership over the last year. A poll of 7,200 users showed that roughly 70% of them are from Russia or other Russian-speaking countries. The victims, however, seem to come from a broader range of countries, including Argentina, Italy, Russia, and the US. The majority of them are private individuals whom the bot’s users say they know in real life or whom they found on Instagram. The researchers were able to identify only a small handful of the women and tried to contact them to understand their experiences. None of the women responded, Patrini says.
+
+
+
+The researchers also reached out to Telegram and to relevant law enforcement agencies, including the FBI. Telegram did not respond to either their note or MIT Technology Review’s follow-up request for comment. Patrini says they also haven’t seen “any tangible effect on these communities” since contacting the authorities.
+
+Deepfake revenge porn
+
+Abusers have been using pornographic imagery to harass women for some time. In 2019, a study from the American Psychological Association found that one in 12 women end up being victims of revenge porn at some point in their life. A study from the Australian government, looking at Australia, the UK, and New Zealand, found that ratio to be as high as one in three. Deepfake revenge porn adds a whole new dimension to the harassment, because the victims don’t realize such images exist.

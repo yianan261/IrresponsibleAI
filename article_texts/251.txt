@@ -1,0 +1,129 @@
+. Amazon began making changes to its search results last year to prioritize profitability over relevance, according to The Wall Street Journal. Those changes were reportedly spurred on by demands from Amazon’s retail divisions and private label team, and they’re said to have the effect of often boosting Amazon’s own products in search listings.
+
+To avoid antitrust concerns at a time when Amazon’s role as both a product maker and a platform company are under scrutiny, Amazon doesn’t directly boost products based on how profitable they are, according to the report. Instead, the Journal says that Amazon boosts other factors that its search engine can consider, which collectively have the effect of elevating more profitable products.
+
+Amazon has dozens of in-house brands
+
+Amazon initially issued a narrow denial, saying, “We have not changed the criteria we use to rank search results to include profitability.” That doesn’t necessarily discount what the Journal reported, which is that Amazon changed the criteria around aspects linked to profitability without boosting profitability directly. Amazon followed up with a later statement more explicitly saying, “The Wall Street Journal has it wrong” and that the story is “not factually accurate.”
+
+A spokesperson for Amazon said the company looks at “a number of metrics” when testing new features, “including long term profitability, to see how these new features impact the customer experience and our business as any rational store would, but we do not make decisions based on that one metric.”
+
+While Amazon-made gadgets like the Kindle and Echo are its best-known products, the company has been rapidly expanding its private label offerings over the past several years. There are dozens of them, but so far, sales have seemingly been weak, and Amazon has largely failed to break in beyond basic goods like batteries.
+
+Tweaking its search algorithm to favor Amazon-made products could help expand sales of those products. As the Journal reports, the majority of clicks come from the first page of search results, with most coming in just the top few rows.. One day recently, we visited Amazon’s website in search of the best deal on Loctite super glue, the essential home repair tool for fixing everything from broken eyeglass frames to shattered ceramics.
+
+In an instant, Amazon’s software sifted through dozens of combinations of price and shipping, some of which were cheaper than what one might find at a local store. TheHardwareCity.com, an online retailer from Farmers Branch, Texas, with a 95 percent customer satisfaction rating, was selling Loctite for $6.75 with free shipping. Fat Boy Tools of Massillon, Ohio, a competitor with a similar customer rating was nearly as cheap: $7.27 with free shipping.
+
+The computer program brushed aside those offers, instead selecting the vial of glue sold by Amazon itself for slightly more, $7.80. This seemed like a plausible choice until another click of the mouse revealed shipping costs of $6.51. That brought the total cost, before taxes, to $14.31, or nearly double the price Amazon had listed on the initial page.
+
+What kind of sophisticated shopping algorithm steers customers to a product that costs so much more than seemingly comparable alternatives?
+
+One that substantially favors Amazon and sellers it charges for services, an examination by ProPublica found.
+
+Amazon often says it seeks to be “Earth’s most customer-centric company.” Jeffrey P. Bezos, its founder and CEO, has been known to put an empty chair in meetings to remind employees of the need to focus on the customer. But in fact, the company appears to be using its market power and proprietary algorithm to advantage itself at the expense of sellers and many customers.
+
+Unseen and almost wholly unregulated, algorithms play an increasingly important role in broad swaths of American life. They figure in decisions large and small, from whether a person qualifies for a mortgage to the sentence someone convicted of a crime might serve. The weightings and variables that underlie these equations are often closely guarded secrets known only to people at the companies that design and use them.
+
+Read the Methodology Here's how we analyzed Amazon’s algorithm. Read more. Here’s Our Data Download the data behind this story.
+
+But while the math is hidden from public view, the effects of algorithms can be vast. With more than 300 million active customer accounts and more than $100 billion in annual revenue, Amazon is a shopping giant whose algorithm can make or break other retailers. And so ProPublica set out to see how Amazon’s software was shaping the marketplace.
+
+We looked at 250 frequently purchased products over several weeks to see which ones were selected for the most prominent placement on Amazon’s virtual shelves — the so-called “buy box” that pops up first as a suggested purchase. About three-quarters of the time, Amazon placed its own products and those of companies that pay for its services in that position even when there were substantially cheaper offers available from others.
+
+That turns out to be an important edge. Most Amazon shoppers end up clicking “add to cart” for the offer highlighted in the buy box. “It’s the most valuable small button on the Internet today,” said Shmuli Goldberg, an Israeli technologist who has extensively studied Amazon’s algorithm.
+
+Amazon does give customers a chance to comparison shop, with a listing that ranks all vendors of the same item by “price + shipping.” It appears to be the epitome of Amazon’s customer-centric approach. But there, too, the company gives itself an oft-decisive advantage. Its rankings omit shipping costs only for its own products and those sold by companies that pay Amazon for its services.
+
+We found that the practice earned Amazon-linked products higher rankings in more than 80 percent of cases. Amazon’s offer of the Loctite glue, a respectable No. 5 on the comparison list, dropped to the 39th best deal when shipping was included. (The prices Amazon shows are ranked correctly for those who pay $99 per year for Amazon’s Prime shipping service and for those who are buying $49 or more in eligible items.)
+
+Erik Fairleigh, a spokesman for Amazon, said the algorithm that selects which product goes into the “buy box” accounts for a range of factors beyond price. “Customers trust Amazon to have great prices, but that’s not all— vast selection, world-class customer service and fast, free delivery are critically important,” he said in an e-mailed statement. “These components, and more, determine our product listings.” (Read Amazon’s original statement and the statement Amazon sent after this story was published.)
+
+Even when Amazon offers products from different vendors, only one seller's item is presented in the “buy box.” And it’s not always the best deal.
+
+Fairleigh declined to answer detailed questions, including questions about why Amazon’s product rankings excluded shipping costs only for itself and its paid partners.
+
+The decision to allow non-Amazon companies to sell products on the site was controversial within the company. But Bezos pushed ahead, saying he was willing to lose sales if it made his company more competitive in the long run. “If we side with the consumer on that kind of decision,” he said at the 2007 annual shareholder meeting, “over time it will force the right kind of behaviors on ourself.”
+
+At that meeting, a shareholder asked about Amazon’s practice of promoting products sold by other companies on its website. Bezos replied that the company had “very objective customer-centered algorithms‘’ that automatically award the “buy box” to the lowest price seller, provided “they actually have it in stock and can deliver it.”
+
+It is not clear why Amazon’s algorithm now pushes its own products ahead of better deals offered by others. Perhaps Amazon is taking the view that its widely admired shipping and delivery offers the best possible satisfaction for customers, even if it costs more.
+
+Another possibility is that the company is trying to encourage shoppers to join the Prime program, which offers free shipping on many items (including the Loctite super glue). When non-Prime customers initially view Amazon products, they are offered “FREE Shipping on eligible orders.” When they reach the final page on checkout, the shipping fees are revealed along with an advertisement to avoid such fees by joining Prime.
+
+The costs of simply buying the algorithm-selected choice can add up. The average price difference between what the program recommended and the truly cheapest price was $7.88 for the 250 products we tested. An Amazon customer who bought all the products on our list from the buy box would have paid nearly 20 percent more — or about $1,400 extra — than if they had bought the cheapest items being offered by other vendors.
+
+Amazon’s algorithm also takes a toll on outside companies hoping to sell products on the website. To increase their chances of winning the buy box, many sellers are paying Amazon to warehouse and ship their products through a program called “Fulfilled by Amazon.” The fees for the program, which vary by size and weight of the items being shipped, can amount to 10 to 20 percent of sales.
+
+How Amazon Advantages Itself Amazon gives itself an edge by not including the price of shipping on its own products. To get the same benefit, other sellers have to pay Amazon.
+
+Paying Amazon appears to be a sound strategy. Fulfilled by Amazon vendors and Amazon itself were just about the only sellers — 94 percent of the cases we analyzed — that ever won the buy box without having the cheapest product.
+
+Through its rankings and algorithm, Amazon is quietly reshaping online commerce almost as dramatically as it reshaped offline commerce when it burst onto the scene more than 20 years ago. Just as the company’s cheap prices and fast shipping caused a seismic shift in retailing that shuttered stores selling books, electronics and music, now Amazon’s pay-to-play culture is forcing online sellers to choose between paying hefty fees or leaving the platform altogether.
+
+Consider BareBones WorkWear, a Sacramento clothing retailer that has been selling on Amazon since 2004. This year, the company removed nearly all of its items from Amazon, and shuttered a warehouse and call center that were devoted to Amazon sales.
+
+“Competition between us and Amazon is just insurmountable,” BareBones chief operating officer Mason Moore said. The profit margins for most clothing items were too low, he said, to allow for the company to sell through the Fulfilled by Amazon, or FBA, program. But, he said, “FBA is really the only avenue that we see as any feasible way to do business with Amazon.” This week, BareBones has just five items listed on Amazon — all of them fulfilled by Amazon.
+
+Last Christmas, so many vendors joined Fulfilled by Amazon that the company ran out of space in some of its warehouses. This year, the company has doubled its number of warehouses.
+
+In July, Amazon reported record profits and the company’s chief financial officer Brian Olsavsky told investors that Fulfilled by Amazon growth was “really strong.”
+
+Tech companies’ practice of favoring their own listings has occasionally earned regulators’ scrutiny. The European Commission, for example, has accused Google of violating EU antitrust rules by favoring its own shopping service over those of other vendors.
+
+Amazon didn’t start as an open marketplace for online sellers. When it opened its virtual doors in 1995, Amazon sold only its own products. It began letting other vendors onto its product listings in 2000.
+
+“Our judgment was simple,” Bezos wrote of that decision, in a 2005 letter to shareholders. “If a third party could offer a better price or better availability on a particular item, then we wanted our customer to get easy access to that offer.”
+
+For merchants, listing their wares on Amazon was a great opportunity. Amazon attracted legions of customers, well worth the 6 to 25 percent commission merchants paid the online colossus on each sale.
+
+By 2007, more than 1 million third-party sellers had joined Amazon. Collectively, they generated about 30 percent of unit sales, the company said at the time.
+
+One of the sellers Amazon attracted was Kate Erkavun. She had recently received a master’s degree in industrial engineering, but also sold cosmetics on eBay out of her apartment while her husband worked at an engineering company.
+
+Kate and Gokhan Erkavun use Amazon's Fulfilled by Amazon program but it’s cutting into their company’s profits. (Bryan Anselm for ProPublica)
+
+“I was young, I had just graduated,” she said. “I worked in a pharmaceutical company and I quit after seven months. I realized it wasn’t for me.” She started selling makeup on eBay, and then migrated to Amazon, too.
+
+At first, Erkavun’s listings on Amazon were similar to her eBay listings — one page for each product that customers could page through at leisure. But over time, Amazon simplified the design so that customers would only be presented with one default vendor for each product.
+
+Amazon’s algorithm would choose which seller would win that default position — the buy box. While the exact formulas used to pick the winner were secret, Amazon’s website advises sellers that they can increase their chances by having low prices, having items in stock, offering free shipping and getting excellent customer service ratings.
+
+To optimize their chances, many sellers starting using algorithmic software to constantly change prices to adapt to competitors’ moves. Soon, Amazon became a highly dynamic marketplace, similar to a stock-trading floor, where prices for products changed as often as every 15 minutes.
+
+Erkavun and her husband, Gokhan, were determined to increase their chances of sales. Gokhan, who quit his job to help run the business, worked with a programmer to write software that repriced their products throughout the day. And the couple bought a building in Nutley, New Jersey, to store their approximately 10,000 shampoos, lipsticks, lotions and other cosmetics in a temperature-controlled warehouse. They offered free shipping, quick turnaround times and worked hard to keep their customer service ratings high.
+
+At first, their techniques seemed to be successful. In 2010, Amazon sales were half of their revenue and profits were at a record high. “We were very happy,” said Gokhan.
+
+But in 2011, he said, Beauty Bridge’s sales started slipping as Amazon entered the cosmetics business and began consistently winning the buy box. “If you don’t win the buy box, your chance of selling is low,” Kate said.
+
+Sellers who don’t win the buy box are placed on a page called “More Buying Choices,” on a list that Amazon describes as ranked by price plus shipping. However, since Amazon doesn’t include the cost of shipping for itself and its fulfillment partners, the rankings on that page can be misleading.
+
+One day recently, for instance, Amazon was listed as the top-ranked seller — both in the buy box and at the top of the buying choices page — for a self-tanning lotion called Vita Liberata. Beauty Bridge was offering the lowest price at $27.03, but Amazon had won the buy box with an offer of $29.98.
+
+When a customer put the lotion from Amazon in her cart, the added shipping cost brought the total to $35.46. Beauty Bridge was offering free shipping — so with or without shipping, its offer should have been listed higher than Amazon’s. But it was not.
+
+A worker packs boxes for shipment in Beauty Bridge’s warehouse. Kate and Gokhan Erkavun didn’t need the warehouse services provided by the Fulfilled by Amazon service, but their sales were slipping without it. (Bryan Anselm for ProPublica)
+
+When Gokhan Erkavun was told of his lotion’s poor ranking despite its cheaper price, he just sighed and said, “Amazon is not really fair in terms of competition, but we don’t have much choice. We have to be there.”
+
+On its Canadian website, Amazon discloses that its own items are ranked without shipping price. But in the United States, Amazon’s website states that “the default sort order of the offer listing is ascending Price + Shipping.”
+
+Of course, most Amazon customers never make it to the More Buying Choices page where Beauty Bridge’s listing was ranked poorly. Among the countless consultants and conferences devoted to winning the buy box, it’s well known that Amazon’s algorithm gives an advantage to itself, and to sellers who pay to join the Fulfilled by Amazon program.
+
+“Amazon definitely does weight things in favor of the FBA seller,” said Michael Butcher, senior account manager at SellerEngine Software, which sells algorithmic pricing software for Amazon sellers. “It does seem unfair and it is sometimes hard for merchants.”
+
+For a few years, Amazon even advertised the advantage it offered to its paid partners. According to Web pages stored by the Internet Archive, the Amazon website said: “Because most FBA listings are ranked without a shipping cost, you get an edge when competing!” The language remained on the page from February 2013 through December 2015.
+
+This year, the language has been changed to: “As you grow your competitive edge, you can increase your chance of winning the Buy Box.”
+
+But Beauty Bridge’s Kate and Gokhan Erkavun didn’t want to pay the fees to join the program. They had their own warehouse and didn’t need Amazon’s. And they estimated the program would cost them at least an additional 15 percent of sales.
+
+They held out until 2014. By then, sales had slid 30 percent from the peak in 2010. In 2014, “we got to a point where we couldn’t survive without doing FBA,” Gokhan said. Since joining the “Fulfilled by Amazon” program, Gokhan says the company’s sales have recovered, but profits have not because of the fees.
+
+Gokhan is now hoping that Wal-Mart’s recent purchase of online shopping website Jet.com will increase the pressure on Amazon to give small online retailers a better deal.
+
+“We need Wal-Mart to really get serious about competing with Amazon,” he said. “Otherwise in 10 years, we aren’t going to have many retailers left.”
+
+Lauren Kirchner and Jeff Larson contributed research to this story.
+
+Update, Sept. 20, 2016: This story has been updated to include a statement Amazon sent after publication.

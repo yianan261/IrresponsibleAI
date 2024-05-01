@@ -1,0 +1,81 @@
+Nicole Palmer is a lawyer who graduated from Columbia University. Her profile states that she “specializes in the application and protection of industrial design” and has “been building her career successfully for 30 years.”
+
+The only problem is that she doesn’t exist. And she helped me uncover an online scam operation involved in shady activities, including extorting backlinks from bloggers and website owners.
+
+I’ve spent a good part of the past week investigating Arthur Davidson, the so-called “law firm” Nicole works for. What I found was unsettling, a testament to how advances in technology have made it easy for scammers to set up legitimate-looking outfits to prey on their victims.
+
+Hopefully, my findings will help others become more aware and protect themselves against similar scams.
+
+DMCA copyright infringement
+
+On April 13, Nicole emailed me a “DMCA Copyright Infringement Notice,” presenting herself as a “Trademark Attorney of Arthur Davidson Legal Services” and claiming that an image I had used in TechTalks belonged to one of her clients.
+
+“Our client, is happy for their image to be used and shared across the internet. However, proper image credit is due for past or ongoing usage,” she wrote.
+
+I had seven days to add the image credit to the “offending page” with a link to the homepage of her client’s website, she added. “Otherwise, we are required to take legal action.”
+
+(I intentionally blacked out the client’s name and website above for reasons I will explain soon.)
+
+The email ended with references to Section 512(c) of DMCA and a professional signature. It looked legit. The one thing that seemed a bit off was a link to Imgur, an image-sharing website where anyone can upload images without even setting up a profile. (So it was perfectly possible that they had downloaded the image from my website, uploaded it on Imgur, and then claimed that their image was there before mine.)
+
+I usually keep track of the sources of the images I use on my website and try to make sure that I do not use anyone’s intellectual property without permission. But mistakes do happen, and I was more than happy to double-check my source and provide attribution to the client if I had wronged them.
+
+As I had guessed, the image came from Pexels, an online, license-free stock photo library. I emailed Nicole back with a link to the image and the Creative Commons license that states that no attribution is required. I asked for clarification on why she believed the image belonged to her client.
+
+And then I waited.
+
+A decent website with little depth
+
+Not having heard anything, I circled back the next day, asking whether she was dropping the case. At this point, I was starting to suspect that this was a bullying tactic to force me to insert a backlink to her client’s website.
+
+One of the methods to improve your site’s position in search engine result pages is to have high-authority websites link back to your web pages. I’ve had previous encounters with companies or individuals who had tried to sneak links into my website. But doing so with a legal facade was new to me.
+
+I decided to take a closer look at the website of Arthur Davidson Legal Services. Obviously, whoever had set up the website had done a good job. First, the domain name (arthurdavidson.com) was well-chosen, suggesting that the website and the firm have existed for a long time, perhaps since the early dot-com days.
+
+According to the website, Arthur Davidson has been working since 2009, involved in 420 cases, and achieved 380 wins (approx. 90 percent success rate).
+
+The website also lists a Boston phone number and an address at 177 Huntington Ave, a building that houses several other law firms.
+
+The website has a blog with several articles, including one that conveniently says copyright infringement can result in a $10,000 fine.
+
+The about page shows the profiles of 18 lawyers, graduates of Northeastern, Brown, Princeton, Harvard, and other renowned universities. But unlike other professional websites, none of the lawyers lists their LinkedIn profile on the website.
+
+A parked domain
+
+A closer investigation revealed many more red flags. First, I looked up the domain’s record on ICANN’s website (Internet Corporation for Assigned Names and Numbers). Apparently, Arthur Davidson had been working for 13 years but just decided to set up their domain in February 2022.
+
+And then I looked up the website’s record on the Wayback Machine (archive.org). Apparently, the domain had been parked between 2005 and 2022.
+
+(To be fair, there could be a logical explanation to this: The law firm might have used another domain name and recently purchased arthurdavidson.com from its previous owner.)
+
+And then I Googled the firm’s name and looked up the news section. Logically, a firm that houses so many high-profile lawyers and claims to have won “multi-million dollar” lawsuits on behalf of its clients should have at least been mentioned in the news a few times.
+
+No results.
+
+GAN faces
+
+Almost sure that this was a scam, I took a closer look at the “About Us” page. The photos of the lawyers seemed a bit out of place. I opened Nicole’s photo in full size on a separate tab.
+
+What I saw was an image created by a generative adversarial network, a deep learning model that can be trained to create faces, art, or anything else.
+
+GANs have come a long way since they were invented in 2014. Today, they produce higher resolution and more natural images than their earlier versions. There is a website called This Person Does Not Exist that generates GAN faces. Some of them are eerily convincing.
+
+But GANs still create unnatural artifacts that can be easily detected if you’re familiar with the technology. You can easily spot irregularities in places such as earrings, shadings on the side of the face, edge of hair and beard, wrinkles, borders of eyebrows, and the sides of eyeglasses.
+
+With clear evidence that this was indeed a scam operation, I decided to investigate Arthur Davidson and report my findings. I reached out to the client on behalf of whom Nicole had contacted me on April 16, asking them to clarify their relationship with Arthur Davidson. On April 18, a support agent replied that they had no relationship with the law firm.
+
+Shortly after, the Arthur Davidson website was shut down. (You can still see a version of it on the Wayback Machine.)
+
+Even though I suspect that the client was in fact in touch with the so-called law firm, since I have no concrete evidence, I decided to not mention them.
+
+Closing thoughts
+
+My suspicion is that Arthur Davidson was run by a grey hat SEO team. For now, they’re down. But I’m sure they will crop up under a different name soon. Looking back, what they did was not very difficult. All they needed was some web copy for law firms (easy to obtain off the web and reword), a few template DCMA emails (available for free), a few GAN-generated faces (there’s a website for that), some web design knowledge, and a bit of money to buy a phone number and a domain. And they were using a social engineering tactic to cause a sense of urgency (seven-day deadline, legal action, etc.) in their victims to act without thinking.
+
+I hope these findings will help other website owners avoid falling victim to similar scams. All the tools I used to investigate Arthur Davidson are free and easy to use and you can do it for yourself. Don’t panic. Do your research, and you’ll be fine.
+
+A note on anonymity: I have no issue with people wanting to hide their identity online. There are dozens of legitimate reasons to do so—but scamming other people is not one of them.
+
+As to companies that are considering using the services of such scammers, my advice is: don’t. The next person might not be as forgiving as I was. In my own experience, there is no shortcut to gaining authority on the internet. Create great content, develop your network, and find legitimate ways to distribute your content, and people will give you backlinks. Shady shortcuts might end up doing more damage than good to your website and business.
+
+This article was originally written by Ben Dickson and published by Ben Dickson on TechTalks, a publication that examines trends in technology, how they affect the way we live and do business, and the problems they solve. But we also discuss the evil side of technology, the darker implications of new tech, and what we need to look out for. You can read the original article here.

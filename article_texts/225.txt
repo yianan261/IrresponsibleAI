@@ -1,0 +1,39 @@
+Internal documents from IBM Watson Health (NYSE:IBM) indicate that the company’s Watson for Oncology product often returns “multiple examples of unsafe and incorrect treatment recommendations,” according to a new report from STAT News.
+
+The documents come from slides presented last year by IBM Watson Health’s deputy chief health officer, according to the report, and include feedback from customers that indicated the product is “often inaccurate” and that its recommendations bring to light “serious questions about the process for building content and the underlying technology.”
+
+The issues were blamed on training the Watson product received by IBM engineers and physicians at the Memorial Sloan Kettering Cancer Center, which included “synthetic,” or hypothetical patients and cases, instead of real patient data, STAT reports.
+
+IBM has not publicly acknowledged the issues, according to the report, and has communicated to its customers that all data included in Watson for Oncology is based on real patients and that the product has won praise around the world for its recommendations.
+
+Earlier this year, IBM cognitive solutions division senior VP John Kelly touted that Watson “has ingested all of the Memorial Sloan data, historic patients and results,” at an IBM event, and also commented that the company’s Watson product was “going fabulously,” STAT reports.
+
+“It’s critical that everyone involved know what the data was that it was trained on,” Kelly said, according to the report.
+
+But the internal documents indicate that problems, which were known by execs at the company, were serious and systemic, STAT reports. Problems included the product making recommendations in conflict with national treatment guidelines, though no adverse events related to the recommendations were reported.
+
+The documents also indicated that internal studies of the Watson for Oncology product were designed to generate favorable results, according to the report.
+
+Customer feedback from the internal documents include comments reflecting serious dissatisfaction from customers, according to the report.
+
+“This product is a piece of s***. We bought it for marketing and with hopes that you would achieve the vision. We can’t use it for most cases,” a doctor at Florida’s Jupiter Hospital was quoted as saying in the documents, according to STAT.
+
+IBM has defended its Watson for Oncology software, releasing a statement to STAT indicating that it has “learned and improved Watson Health based on continuous feedback from clients, new scientific evidence and new cancers and treatment alternatives,” and that it has released 11 software updates to improve functionality over the past year.
+
+But internal documents indicate that training and effectiveness of the Watson for Oncology system was flawed due to the small number of cases and the inclusion of artificial cases with only one or two doctors supplying recommendations for each type of cancer it was designed to work with, according to the report.
+
+The internal presentation included an example case in which a 65-year old man with lung cancer and evidence of severe bleeding was recommended chemotherapy and a drug called bevacizumab, which includes a “black box” warning advising that it shouldn’t be administered to patients experiencing severe bleeding, according to the report.
+
+“Oy vey. Any time you have an algorithm that makes a recommendation that’s dangerous, that’s extremely worrisome. I mean, the whole idea is that algorithms are supposed to improves safety and quality,” Scripps Translational Science Institute director Dr. Eric Topol told STAT after being informed of the example error.
+
+The report also raises questions about whether IBM Watson is being transparent about the source of its training, and whether its internal studies correctly reflect its abilities.
+
+“The thing which is a bit misleading is that everybody’s led to believe that this is the consensus of the entire brain trust of Sloan Kettering. But in fact it’s the consensus of … a small subset of the entire brain trust. They should be called out on this. I would bet this is a calculated risk they took. … They’re kind of messing with people, but it’s within the marketing spin that is increasingly allowed these days, let me put it that way. But not everybody can spot it, so it’s not honest,” Stanford associate professor of medicine and biomedical data Nigam Shah told STAT , according to the report.
+
+Last month, reports emerged that IBM Watson Health was reportedly cutting back on the portion of its business that sells to hospitals due to a softening market for value-based healthcare offerings.. Internal IBM documents show that its Watson supercomputer often spit out erroneous cancer treatment advice and that company medical specialists and customers identified “multiple examples of unsafe and incorrect treatment recommendations” as IBM was promoting the product to hospitals and physicians around the world.
+
+The documents — slide decks presented last summer by IBM Watson Health’s deputy chief health officer — largely blame the problems on the training of Watson by IBM engineers and doctors at the renowned Memorial Sloan Kettering Cancer Center. The software was drilled with a small number of “synthetic” cancer cases, or hypothetical patients, rather than real patient data. Recommendations were based on the expertise of a few specialists for each cancer type, the documents say, instead of “guidelines or evidence.”
+
+advertisement
+
+STAT has seen portions of the two presentations, from June and July of 2017. At the time, they were shared widely with the management of IBM’s Watson Health division. The documents contain scathing assessments of the Watson for Oncology product by customers and conclude that the “often inaccurate” recommendations raise “serious questions about the process for building content and the underlying technology.”

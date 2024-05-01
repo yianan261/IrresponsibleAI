@@ -1,0 +1,101 @@
+Everyone's having a grand old time feeding outrageous prompts into the viral DALL-E Mini image generator — but as with all artificial intelligence, it's hard to stamp out the ugly, prejudiced edge cases.
+
+Released by AI artist and programmer Boris Dayma, the DALL-E Mini image generator has a warning right under it that its results may "reinforce or exacerbate societal biases" because "the model was trained on unfiltered data from the Internet" and could well "generate images that contain stereotypes against minority groups."
+
+So we decided to put it to the test. Using a series of prompts ranging from antiquated racist terminology to single-word inputs, Futurism found that DALL-E Mini indeed often produces stereotypical or outright racist imagery.
+
+We'll spare you specific examples, but prompts using slur words and white supremacist terminology spat out some alarming results. It didn't hesitate to cook up images of burning crosses or Ku Klux Klan rallies. "Racist caricature of ___" was a reliable way to get the algorithm to reinforce hurtful stereotypes. Even when prompted with a Futurism reporter's Muslim name, the AI made assumptions about their identity.
+
+Many other results, however, were just plain strange.
+
+Take, for example, what the generator came up with for the term "racism" — a bunch of painting-like images of what appear to be Black faces, for some reason.
+
+The problematic results don't end at depicting minorities in a negative or stereotypical light, either. It can also simply reflect current inequalities reflected in its training data.
+
+As spotted by Dr. Tyler Berzin of Harvard Medical School noted, for instance, entering the term "a gastroenterologist" into the algorithm appears to show exclusively white male doctors.
+
+We got nearly identical results. And for "nurse"? All women.
+
+Other subtle biases also showed amid various prompts, such as the entirely light-skinned faces for the terms "smart girl" and "good person."
+
+It all underscores a strange and increasingly pressing tension at the heart of machine learning tech.
+
+Researchers have figured out how to train a neural network, using a huge stack of data, to produce incredible results — including, it's worth pointing out, OpenAI's DALL-E 2, which isn't yet public but which blows the capabilities of DALL-E Mini out of the water.
+
+But time and again, we're seeing these algorithms pick up hidden biases in that training data, resulting in output that's technologically impressive but which reproduces the darkest prejudices of the human population.
+
+In other words, we've made AI in our own image, and the results can be ugly. It's also an incredibly difficult problem to solve, not the least because even the brightest minds in machine learning research often struggle to understand exactly how the most advanced algorithms work.
+
+It's possible, certainly, that a project like DALL-E Mini could be tweaked to either block obviously hurtful prompts, or that it could give users to disincentivize any unpleasant or incorrect results.
+
+But in a broader sense, it's overwhelmingly likely that we're going to see many more impressive, fun or impactful uses of machine learning which, examined more closely, embody the worst of society.
+
+More on AI weirdness: Transcript of Conversation With "Sentient" AI Was Heavily Edited. AI art generator DALL·E mini is spewing awfully racist images from text prompts
+
+Image by Erick Butler from Unsplash
+
+Using a series of prompts, SCREENSHOT tested the viral AI generator for its stance on the much-debated racism and sexism that the technology has been linked to.
+
+In 2021, AI research laboratory OpenAI invented DALL·E, a neural network trained to generate images from text prompts. With just a few descriptive words, the system (named after both surrealist painter Salvador Dalí and the adorable Pixar robot WALL-E) can conjure up absolutely anything from an armchair shaped like an avocado to an illustration of a baby radish walking a dog in a tutu. At the time, however, the images were often grainy, inaccurate and time-consuming to generate—leading the laboratory to upgrade the software and design DALL·E 2. The new and improved model, supposedly.
+
+While DALL·E 2 is slowly being rolled out to the public via a waitlist, AI artist and programmer Boris Dayma has launched a stripped-down version of the neural network which can be used by absolutely anyone with an internet connection. Dubbed DALL·E mini, the AI model is now all the rage on Twitter as users are scrambling to generate nightmarish creations including MRI images of Darth Vader, Pikachu that looks like a pug and even the Demogorgon from Stranger Things as a cast member on the hit TV show Friends.
+
+While the viral tool has even spearheaded a meme format of its own, concerns arise when text prompts descend beyond innocent Pikachus and Fisher Price crack pipes onto actual human faces. Now, there are some insidiously dangerous risks in this case. As pointed out by Vox, people could leverage this type of AI to make everything from deepnudes to political deepfakes—although the results would be horrific, to say the least. Given how the technology is free to use on the internet, it also harbours the potential to put human illustrators out of work in the long run.
+
+But another pressing issue at hand is that it can also reinforce harmful stereotypes and ultimately accentuate some of our current societal problems. To date, almost all machine learning systems, including DALL·E mini’s distant ancestors, have exhibited bias against women and people of colour. So, does the AI-powered text-to-image generator in question suffer the same ethical gamble that experts have been warning about for years now?
+
+Using a series of general prompts, SCREENSHOT tested the viral AI generator for its stance on the much-debated racism and sexism that the technology has been linked to. The results were both strange and disappointing, yet unsurprising.. The only real limits to DALL-E Mini are the creativity of your own prompts and its uncanny brushwork. The accessible-to-all AI internet image generator can conjure up blurry, twisted, melting approximations of whatever scenario you can think up. Seinfeld nightmares? You got it. Court room sketches of animals, vehicles, and notable people in varying combinations? Easy peasy. Never before seen horror monsters from the mind of the mindless. Sure, whatever.
+
+
+
+Maybe AI-Written Scripts are a Bad Idea? CC Share Subtitles Off
+
+English view video Maybe AI-Written Scripts are a Bad Idea?
+
+But give DALL-E Mini literally nothing, and it quickly reveals the limits of its own “imaginings.” Given no direction or guidance, the AI model seems to get stuck. With absolutely no prompt, the program will without a doubt give you back an image of a woman in a sari (a garment commonly worn across South Asia.)
+
+Advertisement
+
+Even the tool’s developer, Boris Dayma, doesn’t know exactly why, according to reporting from Rest of World. “It’s quite interesting and I’m not sure why it happens,” he said to Rest of World about the phenomenon.
+
+Advertisement
+
+What is DALL-E M ini?
+
+DALL-E M ini was inspired by DALL-E 2, a powerful image generator from OpenAI. The pictures that DALL-E 2 creates are much more realistic than those that “mini” can make, but the trade-off is that it requires too much computing power to be tossed around by just any old internet user. There’s a limited capacity and a waitlist.
+
+Advertisement
+
+So Dayma, unaffiliated with OpenAI, opted to create his own, less exclusive version which launched in July 2021. In the past few weeks, it’s become wildly popular. The program has been managing about 5 million requests every day, Dayma told Rest of World. As of Monday, DALL-E Mini was renamed Craiyon and shifted to a new domain name, at the insistence of OpenAI.
+
+Like any other artificial intelligence model, DALL-E Mini/Craiyon creates outputs based on training inputs. In the case of Mini, the program was trained on a diet of 15 million image and caption pairs, and an additional 14 million images—plus, the chaos of the open internet.
+
+Advertisement
+
+From Rest of World:
+
+The DALL·E mini model was developed on three major datasets: Conceptual Captions dataset, which contains 3 million image and caption pairs; Conceptual 12M, which contains 12 million image and caption pairs, and The OpenAI’s corpus of about 15 million images. Dayma and DALL·E mini co-creator Pedro Cuenca noted that their model was also trained using unfiltered data on the internet, which opens it up for unknown and unexplainable biases in datasets that can trickle down to image generation models.
+
+Advertisement
+
+And this underlying data almost certainly has something to do with the sari phenomenon. The sari state of affairs, if you will.
+
+Advertisement
+
+Why is DALL-E M ini Getting Stuck on Saris?
+
+Dayma suggested that images of South Asian women in saris may have been heavily represented in those original photosets that feed DALL-E Mini. And that the quirk could also have something to do with caption length, as the AI might associate zero-character prompts with short image descriptions.
+
+Advertisement
+
+However, Michael Cook, an AI researcher at Queen Mary University in London, told Rest of World he wasn’t so sure about the overrepresentation theory. “Typically machine-learning systems have the inverse problem — they actually don’t include enough photos of non-white people,” he said.
+
+
+
+Instead, Cook thinks the origin could lie in a language bias of the data filtering process. “One thing that did occur to me while reading around is that a lot of these datasets strip out text that isn’t English,” he said. Image captions that include Hindi, for example, might be getting removed, leaving images with no supporting, explanatory text or labels floating free in the primordial AI soup, he explained.
+
+So far, neither Cook’s nor Dayma’s ideas have been proven, but both are good examples of the type of problems very common in AI. Programmed and trained by humans, artificial intelligence is only as fool-proof as its creators. If you feed an image generator a cookie, it’s going to spit out a bunch of cookies. And because we live in hell, AI carries the unfortunate burden of human prejudices and stereotypes along with it.
+
+Advertisement
+
+As fun as it might be to think that the “woman in sari” image is some sort of primal message from the depths of the unfettered internet, the reality is that it’s likely the byproduct of a data fluke or plain old bias. The woman in the sari is a mystery, but the existing problems of AI aren’t.. 💡 Story time! (with a sprinkling of learnings about children and technology) A few years back, I made a quick stopover in Reykjavik, Iceland on my first trip to Scandinavia (thanks to Inese Podgaiska Marianne Andersen DTU Teemu Roos University of Helsinki Finnish Center for Artificial Intelligence) but I couldn't figure out the bus system. I asked two young girls who were waiting at the bus stop for help. They first tried to help me download an app to buy a ticket and when that didn't work, they convinced the bus driver to let me ride for free, explaining that I was a tourist and he should give me a break. Thanks to them I was able to get to my destination :) Fast forward to year 2024 in United States - many influencers, intellectuals, and politicians across the country are making the case that children should not have access to smartphones or social media. So it was refreshing to get the rare opportunity for a conversation with the brilliant AI professor Teemu Roos on his short visit to New York yesterday for our Women in AI Ethics™ monthly AI experts webinar and hear about his new project 'Generation AI.' This unique project helps Finnish middle-school children see firsthand what data is being captured by social media apps from their app usage and how it is used to influence their online behavior. (They created a faux private app for kids to use). The children are then encouraged to share their feedback in letters to politicians. Their thoughtful insights show their critical thinking skills and their ability to understand and articulate the benefits, as well as the harms of these new(ish) technologies. For this approach to be successful, we need to first reject the false binary of "ban vs. not to ban (technology)". It requires us to trust children (and adults) and empower them with resources to keep themselves safe, starting with full transparency on the data that social media platforms gather on them. Taking away their agency under the guise of "protecting" them is a slippery slope and makes them even more vulnerable to technological harms. We will invite Teemu Roos again for a deeper dive into this new project but you can find more information on their website https://lnkd.in/eABkcFZv America is no Scandinavia but what do you all think? Would this work here or in other countries? #AI #ethics #literacy #education #generationai #futureofwork #instagram #socialmedia #artificialintelligence

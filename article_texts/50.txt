@@ -26,7 +26,7 @@ A paper published in May 2016 noted a number of security vulnerabilities associa
 
 On June 16, further attention was called to recursive call vulnerabilities by bloggers affiliated with the Initiative for CryptoCurrencies & Contracts (IC3).[21]
 
-On June 17, 2016, the DAO was subjected to an attack exploiting a combination of vulnerabilities, including the one concerning recursive calls, that resulted in the transfer of 3.6 million Ether - around a third of the 11.5 million Ether that had been committed to The DAO - valued at the time at around $50M.[2][22] The funds were moved into an account subject to a 28-day holding period under the terms of the Ethereum smart contract so were not actually gone.
+On June 17, 2016, the DAO was subjected to an attack exploiting a combination of vulnerabilities, including the one concerning recursive calls, that resulted in the transfer of 3.6 million Ether - around a third of the 11.5 million Ether that had been committed to The DAO - valued at the time at around $50 million.[2][22] The funds were moved into an account subject to a 28-day holding period under the terms of the Ethereum smart contract so were not actually gone.
 
 Members of The DAO and the Ethereum community debated what to do next, with some calling the attack unethical but valid, since it did not violate DAO rules as coded, while others called for the Ether to be re-appropriated and/or The DAO to be shut down.[22][23] The DAO community manager, Griff Green, organized a volunteer group of coders known as The White Hat Group to recoup the funds in the other 500 wallets before they could also be hacked.[24] Eventually on July 20, 2016, the Ethereum network was hard forked to move the funds in The DAO to a recovery address where they could be exchanged back to Ethereum by their original owners.[25] However, some continued to use the original unforked Ethereum blockchain, now called Ethereum Classic.
 
@@ -54,11 +54,11 @@ The group's logo featured a capital letter Đ.
 
 Risks [ edit ]
 
-In May 2016, the plan called for The DAO to invest Ether into ventures. It would back contractors and receive in return "clear payment terms" from contractors.[citation needed] The organizers promoted the DAO as providing investors with a return on their investment via those "clear payment terms" and they warned investors that there was a "significant risk" that the ventures funded by them may fail.
+In May 2016, the plan called for The DAO to invest Ether into ventures. It would back contractors and receive in return "clear payment terms" from contractors.[citation needed] The organizers promoted The DAO as providing investors with a return on their investment via those "clear payment terms" and they warned investors that there was a "significant risk" that the ventures funded by them may fail.
 
-The risks included unknown attack vectors and programming errors.[27][31] Additional risks included the lack of legal precedents: it was unknown how governments and their regulatory agencies would treat The DAO's ventures and contracts. For example, legal systems might not acknowledge a corporate veil protecting investors from individual legal and financial liability for actions taken by The DAO and its contractors. It was unclear if the DAO was selling securities, which are highly regulated, and if so, what type of securities.[17]
+The risks included unknown attack vectors and programming errors.[27][31] Additional risks included the lack of legal precedents: it was unknown how governments and their regulatory agencies would treat The DAO's ventures and contracts. For example, legal systems might not acknowledge a corporate veil protecting investors from individual legal and financial liability for actions taken by The DAO and its contractors. It was unclear if The DAO was selling securities, which are highly regulated, and if so, what type of securities.[17]
 
-DAO has a democratized organizational structure so that control can be spread among members, with no official leadership or regulation. Normally, there is no way to recover funds if a member mistakenly transfers cryptocurrency to the wrong wallet, including in case of fraud.[32]
+The DAO has a democratized organizational structure so that control can be spread among members, with no official leadership or regulation. Normally, there is no way to recover funds if a member mistakenly transfers cryptocurrency to the wrong wallet, including in case of fraud.[32]
 
 Additionally, to function in the real world, contractors would likely need to convert the invested Ether into national currencies. In May 2016, attorney Andrew Hinkes said that those sales of Ether would likely depress its market value.[citation needed]
 
@@ -910,17 +910,7 @@ Logo of the DAO
 
 Smart contracts brought distributed autonomous organizations, aka “DAO”s, to our life. A DAO is another computer code through which a set of smart contracts are connected together and function as a governance mechanism.
 
-In this story I will explore the most famous DAO project, the DAO, and its effects on the smart contract environment. While reading the explanations, it must be borne in mind that all these discussions took place in online platforms such as GitHub and Reddit. Therefore, it is not possible to make definitive statements or give exact figures on all arguments used in these discussions.
-
-1. The Creation of the DAO
-
-The most infamous DAO project was the DAO created by the Slock.it[1] and went live on 30 April 2016. It was a virtual venture capital fund that is governed by the investors of the DAO. The idea was the following: Funds raised from the investors, the token holders, are pooled. Token holders can become contractors by submitting proposals for funding of their project by using the DAO funds. There was a curator examination, which was just an identity verification conducted by one of curators who were selected among the respected members of the Ethereum community. Once the proposal passed the curator’s check, it would be voted on by the investors. If a proposal is approved by a quorum of 20% of all tokens,[2] the DAO automatically transfers Ether to the smart contract that represents the proposal. Any Ether generated from the proposals funded by the DAO would be returned to participating investors as rewards.
-
-During the initial offering[3] took place in May 2016, the only requirement for being an investor was to invest Ether into the system. In exchange, participants were given DAO Tokens, 100 DAO Tokens for 1 Ether, which give voting rights to be used during the selection of projects that would be funded. The DAO raised 12.7 million Ether, which was equal to more than 150 million USD back then and became the biggest crowdfunding project until its time. However, on 16 June 2016, the DAO got hacked.
-
-2. Infamous ‘Split’ Function and the Child DAO
-
-The governance mechanism embraced by the DAO was similar to the governance of…. Sometime in the wee hours Friday, a thief made off with $50 million of virtual currency.
+In this story I will explore the most famous DAO project, the DAO, and its effects on the smart contract environment. While reading the…. Sometime in the wee hours Friday, a thief made off with $50 million of virtual currency.
 
 The victims are investors in a strange fund called the DAO, or Decentralized Autonomous Organization, who poured more than $150 million of a bitcoin-style currency called Ether into the project.
 
