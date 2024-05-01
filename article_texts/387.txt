@@ -1,0 +1,29 @@
+Enterprise giant Oracle is facing a fresh privacy class action claim in the U.S.
+
+The suit, which was filed Friday as a 66-page complaint in the Northern District of California, alleges the tech giant’s “worldwide surveillance machine” has amassed detailed dossiers on some five billion people, accusing the company and its adtech and advertising subsidiaries of violating the privacy of the majority of the people on Earth.
+
+The suit has three class representatives: Dr Johnny Ryan, senior fellow of the Irish Council for Civil Liberties (ICCL); Michael Katz-Lacabe, director of research at The Center for Human Rights and Privacy; and Dr Jennifer Golbeck, a professor of computer science at the University of Maryland — who say they are “acting on behalf of worldwide Internet users who have been subject to Oracle’s privacy violations”.
+
+The litigants are represented by the San Francisco-headquartered law firm, Lieff Cabraser, which they note has run significant privacy cases against Big Tech.
+
+The key point here is there is no comprehensive federal privacy law in the U.S. — so the litigation is certainly facing a hostile environment to make a privacy case — hence the complaint references multiple federal, constitutional, tort and state laws, alleging violations of the Federal Electronic Communications Privacy Act, the Constitution of the State of California, the California Invasion of Privacy Act, as well as competition law, and the common law.
+
+It remains to be seen whether this “patchwork” approach to a tricky legal environment will prevail — for an expert snap analysis of the complaint and some key challenges this whole thread is highly recommended. But the substance of the complaint hinges on allegations that Oracle collects vast amounts of data from unwitting Internet users, i.e. without their consent, and uses this surveillance intelligence to profile individuals, further enriching profiles via its data marketplace and threatening people’s privacy on a vast scale — including, per the allegations, by the use of proxies for sensitive data to circumvent privacy controls.
+
+Class action in California against Oracle by @johnnyryan and others Ryan and others' recent case against the IAB over RTB was a pretty impressive piece of work This case deals with similar issues but in a much trickier legal environment A rather long🧵https://t.co/ZBnBaw7cNs — Robert Bateman (@RobertJBateman) August 22, 2022
+
+Commenting on the suit in a statement, Ryan said: “Oracle has violated the privacy of billions of people across the globe. This is a Fortune 500 company on a dangerous mission to track where every person in the world goes, and what they do. We are taking this action to stop Oracle’s surveillance machine.”
+
+A spokesman for Oracle declined to comment on the litigation.
+
+A couple of years ago the firm was facing class action suits, along with Salesforce, via a legal challenge to its tracking in Europe — which intended to focus on the legality of their consent to track web users, citing the region’s (contrastingly) comprehensive data protection/privacy laws.
+
+However the European legal challenges, which were filed in the Netherlands and the U.K., have faced tough going — with a Dutch court ruling the suit inadmissible last year, because (per reports) it judged that the not-for-profit pursing the class action had failed to demonstrate it represented the alleged injured parties and so did not have legal standing. (Although earlier this year the organization behind the suit, the Privacy Collective, said it would appeal.)
+
+The U.K. branch of the legal action, meanwhile, was stayed pending the outcome of an earlier class-action style privacy suit against Google — but last year the U.K. Supreme Court sided with the tech giant, blocking that representative action and dealing a blow to the prospects of other similar suits.
+
+In the Lloyd v Google case, the court found that damage/loss must be suffered in order to claim compensation — and therefore that the need to prove damage/loss on an individual basis cannot be skipped — derailing the litigation’s push for a uniform “loss of control” of personal data for each member of the claimed representative class to stand in its stead.
+
+The ruling was considered a hammer blow to opt-out class actions for privacy claims at the time — clearly throwing another spanner in the works of the Oracle-Salesforce class action’s ability to proceed in the U.K.
+
+The challenges of litigating privacy class actions in Europe likely explain the push by digital rights experts to test similar claims in the U.S.

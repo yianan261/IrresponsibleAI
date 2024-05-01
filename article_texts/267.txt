@@ -1,0 +1,251 @@
+Clearview AI, the facial recognition company that claims to have a database of more than 3 billion photos scraped from websites and social media, has been telling prospective law enforcement clients that a review of its software based on “methodology used by the American Civil Liberties Union” is stunningly accurate.
+
+“The Independent Review Panel determined that Clearview rated 100% accurate, producing instant and accurate matches for every photo image in the test,” read an October 2019 report that was included as part of the company’s pitch to the North Miami Police Department. “Accuracy was consistent across all racial & demographic groups.”
+
+But the ACLU said that claim is highly misleading and noted that Clearview's effort to mimic the methodology of its 2018 facial recognition study was a misguided attempt in “manufacturing endorsements."
+
+“The report is absurd on many levels and further demonstrates that Clearview simply does not understand the harms of its technology in law enforcement hands,” ACLU Northern California attorney Jacob Snow told BuzzFeed News, which obtained the document through a public records request.
+
+Clearview’s announcement that its technology has been vetted using ACLU guidelines is the latest questionable marketing claim made by the Manhattan-based startup, which has amassed a vast repository of biometric data by scraping photos from social media platforms, including Facebook, Instagram, Twitter, YouTube, and LinkedIn. Among those claims, Clearview AI has told prospective clients that its technology was instrumental in several arrests in New York, including one of an individual involved in a Brooklyn bar beating and another of a suspect who allegedly planted fake bombs in a New York City subway station. The NYPD denied using Clearview’s technology in both of these cases.
+
+Got a tip? Email one of the reporters of this story at caroline.haskins@buzzfeed.com or ryan.mac@buzzfeed.com, or contact us here.
+
+Clearview, which claims to be working with more than 600 law enforcement agencies, has also been sued and publicly denounced by critics including New Jersey Attorney General Gurbir Grewal, who ordered a moratorium on the state’s use of the technology after the company included his image without permission in a promotional video. As of last week, Facebook, YouTube, LinkedIn, and PayPal had all sent cease-and-desist letters to Clearview in an attempt to stop it from using images taken from their sites.
+
+
+
+Clearview CEO Hoan Ton-That, however, has remained defiant, arguing in a CBS interview last Wednesday that his company has a First Amendment right to scrape public photos from social media. The company also defended the test in statements to BuzzFeed News.
+
+“The ACLU is a highly-respected institution that conducted its own widely distributed test of facial recognition for accuracy across demographic groups,” Ton-That told BuzzFeed News. “We appreciated the ACLU’s efforts to highlight the potential for demographic bias in AI, which is why we applied their test and methodology to our own technology.”. Clearview AI's facial recognition isn't just raising privacy issues -- there are also concerns over its accuracy claims. The ACLU has rejected Clearview's assertion that its technology is "100% accurate" based on the civil liberty group's methodology for testing Amazon's Rekognition, telling BuzzFeed News that the findings are "absurd on many levels" and amounted to "manufacturing endorsements." According to the ACLU, there are key differences that make Clearview's sales pitch misleading.
+
+For one, Clearview was searching nearly 3 billion public photos that included the politicians whose faces were part of the test, not arrest photos like the ACLU used. It didn't account for what would happen if someone wasn't in the database. Would it generate false positives, and would there be any bias in those false hits? On top of this, Clearview had the luxury of the clear, sometimes formal photos that often appear online. Its tool is supposed to be used in the real world, where lighting and image quality are frequently suboptimal -- it's not certain how well the facial recognition fares with grainy security camera footage.
+
+The Surveillance Technology Oversight Project's Liz O'Sullivan also doubted Clearview's insistence that the accuracy applied to "all demographic groups," noting that 834 politicians wouldn't be representative of every ethnicity. Moreover, many of the people in the independent study panel didn't have direct proficiency with facial recognition, although one was the former head of Samsung's North American AI research.
+
+Not surprisingly, Clearview chief Hoan Ton-That maintained that the results were acceptable. He insisted that Clearview used the ACLU's same methods, and that there was a "higher level of difficulty" as it used faces of politicians from California and Texas. He also argued that the test had looked at "every demographic group." Ton-That didn't really address the ACLU's criticisms, though, and Clearview eventually responded to an ACLU complaint by removing the group's name from the site. The company's accuracy hasn't been re-checked, then, and that's concerning when police across the US are relying on the technology to pinpoint suspects.. The internet was designed to make information free and easy for anyone to access. But as the amount of personal information online has grown, so too have the risks. Last weekend, a nightmare scenario for many privacy advocates arrived. The New York Times revealed Clearview AI, a secretive surveillance company, was selling a facial recognition tool to law enforcement powered by “three billion images” culled from the open web. Cops have long had access to similar technology, but what makes Clearview different is where it obtained its data. The company scraped pictures from millions of public sites including Facebook, YouTube, and Venmo, according to the Times.
+
+To use the tool, cops simply upload an image of a suspect, and Clearview spits back photos of them and links to where they were posted. The company has made it easy to instantly connect a person to their online footprint—the very capability many people have long feared someone would possess. (Clearview’s claims should be taken with a grain of salt; a Buzzfeed News investigation found its marketing materials appear to contain exaggerations and lies. The company did not immediately return a request for comment.)
+
+Like almost any tool, scraping can be used for noble or nefarious purposes. Without it, we wouldn’t have the Internet Archive’s invaluable WayBack Machine, for instance. But it’s also how Stanford researchers a few years ago built a widely condemned “gaydar,” an algorithm they claimed could detect a person’s sexuality by looking at their face. “It’s a fundamental thing that we rely on every day, a lot of people without realizing, because it’s going on behind the scenes,” says Jamie Lee Williams, a staff attorney at the Electronic Frontier Foundation on the civil liberties team. The EFF and other digital rights groups have often argued the benefits of scraping outweigh the harms.
+
+LEARN MORE The WIRED Guide to Personal Data
+
+Automated scraping violates the policies of sites like Facebook and Twitter, the latter of which specifically prohibits scraping to build facial recognition databases. Twitter sent a letter to Clearview this week asking it to stop pilfering data from the site “for any reason,” and Facebook is also reportedly examining the matter, according to the Times. But it’s unclear whether they have any legal recourse in the current system.
+
+To fight back against scraping, companies have often used the Computer Fraud and Abuse Act, claiming the practice amounts to accessing a computer without proper authorization. Last year, however, the Ninth Circuit Court of Appeals ruled that automated scraping doesn’t violate the CFAA. In that case, LinkedIn sued and lost against a company called HiQ, which scraped public LinkedIn profiles in bulk and combined them with other information into a database for employers. The EFF and other groups heralded the ruling as a victory, because it limited the scope of the CFAA—which they argue has frequently been abused by companies—and helped protect researchers who break terms of service agreements in the name of freedom of information.
+
+The CFFA is one of few options available to companies who want to stop scrapers, which is part of the problem. “It’s a 1986, pre-internet statute,” says WIlliams. “If that’s the best we can do to protect our privacy with these very complicated, very modern problems, then I think we’re screwed.”
+
+Civil liberties groups and technology companies both have been calling for a federal law that would establish Americans’ right to privacy in the digital era. Clearview, and companies like it, make the matter that much more urgent. “We need a comprehensive privacy statute that covers biometric data,” says Williams.. Until recently, Hoan Ton-That’s greatest hits included an obscure iPhone game and an app that let people put Donald Trump’s distinctive yellow hair on their own photos.
+
+Then Mr. Ton-That — an Australian techie and onetime model — did something momentous: He invented a tool that could end your ability to walk down the street anonymously, and provided it to hundreds of law enforcement agencies, ranging from local cops in Florida to the F.B.I. and the Department of Homeland Security.
+
+His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person, along with links to where those photos appeared. The system — whose backbone is a database of more than three billion images that Clearview claims to have scraped from Facebook, YouTube, Venmo and millions of other websites — goes far beyond anything ever constructed by the United States government or Silicon Valley giants.
+
+Federal and state law enforcement officers said that while they had only limited knowledge of how Clearview works and who is behind it, they had used its app to help solve shoplifting, identity theft, credit card fraud, murder and child sexual exploitation cases.. Updated Data rights groups have filed complaints in the UK, France, Austria, Greece and Italy against Clearview AI, claiming its scraped and searchable database of biometric profiles breaches both the EU and UK General Data Protection Regulation (GDPR).
+
+The facial recognition company, which is based in the US, claims to have “the largest known database of 3+ billion facial images”. Clearview AI's facial recognition tool is trained on images harvested from YouTube, Facebook, Twitter and attempts to match faces fed into its machine learning software with results from its multi-billion picture database. The business then provides a link to the place it found the "match".
+
+Although Clearview AI lists mostly US law enforcement agencies as customers on its website and in publicly avowed comments, according to documents cited in the complaint to UK data regulator, the Information Commissioner's Office, [PDF], the UK National Crime Agency, the Ministry of Defence and several police forces across England all allegedly have registered users with Clearview AI.
+
+The complaint also alleges that "images and metadata collected through the scraping process are stored on Clearview’s servers... indefinitely, i.e. even after a previously collected photograph or hosting webpage has been removed or made private."
+
+Google, Twitter, Facebook and even Venmo all sent cease and desist letters to Clearview AI last year asking that it stop scraping people's photos from their websites. The firm's CEO defended its business model at the time by saying: "Google can pull in information from all different websites. So if it's public and it's out there and could be inside Google's search engine, it can be inside ours as well."
+
+The US firm was sued last year by the American Civil Liberties Union. The ACLU also sued the US Department of Homeland Security and its law enforcement agencies last month for failing to respond to Freedom of Information Act requests about their use of Clearview's tech.
+
+Data regs The General Data Protection Regulation applies to anyone that processes personal data on the European market. Even though Clearview.AI is based solely in the US, the GDPR applies to their activities affecting European residents, eg when scraping pictures of Europeans from the web. The UK (say it with me) despite Brexit, still has the GDPR implemented via the Data Protection Act (DPA) of 2018. It first incorporated the law when the UK was a member state, and went on to amend it on 1 January 2021 to be read together with the new "UK-GDPR" rather than the EU GDPR. The UK-GDPR is almost word for word the same text, and that is purposeful, because any significant divergence from the EU GDPR could affect data sharing adequacy rulings post-Brexit.
+
+One at a time
+
+Back in January this year, [PDF], Chaos Computer Club member Matthias Marx managed to get Clearview to delete the hash value representing his biometric profile - although not the actual images or metadata - after filing a complaint with the Hamburg data protection authorities.
+
+The decision by the Hamburg DPA was that Clearview AI had added his biometric profile to its searchable database without his knowledge or consent. It did not order the deletion of the photographs, however.
+
+"It is long known that Clearview AI has not only me, but many, probably thousands of Europeans in its illegal face database. An order by the European data protection authorities to remove the faces of all Europeans is long overdue," Marx told The Reg via email. "It is not a solution that every person has to file [their] own complaint."
+
+“Clearview seems to misunderstand the internet as a homogeneous and fully public forum where everything is up for grabs,” commented Lucie Audibert, legal officer at Privacy International, one of a group of four rights groups bringing the complaints. “This is plainly wrong. Such practices threaten the open character of the Internet and the numerous rights and freedoms it enables.”
+
+The other campaign groups include the Hermes Center for Transparency and Digital Human Rights, Homo Digitalis and noyb - the European Center for Digital Rights.
+
+Regulators, including the UK's ICO and France's CNIL, now have three months to respond.
+
+We have asked Clearview for comment. ®
+
+Updated at 1053 UTC to add
+
+Clearview AI told The Reg it "has never had any contracts with any EU customer and is not currently available to EU customers.
+
+"We have voluntarily processed the five Data Access Requests in question, which only contain publicly available information, just like thousands of others we have processed.
+
+"Clearview AI has helped thousands of law enforcement agencies across America," it added. "National governments have expressed a dire need for our technology because they know it can help investigate crimes like money laundering and human trafficking, which know no borders.". Clearview is facing lawsuits over its digital “scraping” practices in other states, too.
+
+Immigration activists have filed a lawsuit against Clearview AI, saying the company’s software is still being used by law enforcement even though several California cities have banned the use of facial recognition technologies.
+
+CNN reports that the lawsuit was filed Tuesday in California Superior Court in Alameda County.
+
+“Clearview has provided thousands of governments, government agencies and private entities access to its database, which they can use to identify people with dissident views, monitor their associations, and track their speech,” the lawsuit states.
+
+The complaint, notes CNN, was lodged by activist groups including Mijente and NorCal Resist, as well as four additional, individual plaintiffs.
+
+Collectively, they say that Clearview AI’s database of images violates the privacy rights of Californians, and that Clearview’s “mass surveillance technology disproportionately harms immigrants and communities of color.”
+
+Clearview, says The Chicago Sun-Times, builds its facial-recognition databases—in part—by “scraping” dozens of internet sites, including Facebook, Twitter, Google and Venmo. When Clearview “scrapes” information, it uses patented technology to scan and identify individual biometric profiles, which are then put into a special “faceprint” database.
+
+However, Clearview not only scrapes individual images, but the images of friends, family members, and strangers who happen to have been captured in the same photograph.
+
+Privacy concerns have led to a number of California cities banning the use of Clearview products by law enforcement; but Clearview has, allegedly, continued sales even in jurisdictions with prohibitions.
+
+Sejal Zota, legal director of Just Futures Law as well as the plaintiffs’ legal counsel, told CNN Business that the lawsuit seeks an injunction that would prevent Clearview’s facial recognition products from being used in California, as well as an order that would compel Clearview to delete its “faceprint” database of California residents.
+
+Clearview has, however, defended its business practices and model.
+
+Floyd Adams, an attorney for Clearview, told the Chicago Sun-Times that the company’s operations constitute a form of protected expression.
+
+“Clearview AI complies with all applicable law and its conduct is fully protected by the First Amendment,” Adams wrote in a statement.
+
+Clearview’s chief executive officer, Hoan Ton-That, also told the Sun-Times that “an independent study has indicated the Clearview AI has no racial bias.”
+
+“As a person of mixed race, having non-biased technology is important to me,” he added.
+
+Nevertheless, Clearview is facing similar lawsuits in other states and jurisdictions; the ACLU of Cook County, Illinois, for instance, has said that the company’s “scraping” practices violate the state’s restrictive Biometric Information Privacy Act, which was recently weaponized to win a half-billion dollar settlement against Facebook’s facial recognition service.
+
+Sources
+
+Clearview AI sued in California by immigrant rights groups, activists
+
+Clearview AI sued in California over ‘most dangerous’ facial recognition database
+
+Clearview AI uses your online photos to instantly ID you. That’s a problem, lawsuit says. CNN Business —
+
+Clearview AI, the controversial firm behind facial-recognition software used by law enforcement, is being sued in California by two immigrants’ rights groups to stop the company’s surveillance technology from proliferating in the state.
+
+The complaint, which was filed Tuesday in California Superior Court in Alameda County, alleges Clearview AI’s software is still used by state and federal law enforcement to identify individuals even though several California cities have banned government use of facial recognition technology.
+
+The lawsuit was filed by Mijente, NorCal Resist, and four individuals who identify as political activists. The suit alleges Clearview AI’s database of images violates the privacy rights of people in California broadly and that the company’s “mass surveillance technology disproportionately harms immigrants and communities of color.”
+
+Sejal Zota, a lawyer for the parties who brought the suit and the legal director at Just Futures Law, told CNN Business that the parties that brought the suit seek an injunction to prevent Clearview AI from being used in California, along with the deletion of face scans of Californians that the company has collected.
+
+Hoan Ton-That, the chief executive of Clearview AI, uses the Clearview smart phone application in New York on Jan. 10, 2020. Amr Alfiky/The New York Times/Redux
+
+Founded in 2017, Clearview AI compiles billions of photos into a database for its software, which can use these images to identify individual people. The company has claimed to have scraped over 3 billion photos from the internet, including photos from popular social media platforms like Facebook, Instagram, Twitter and YouTube. Major tech companies have sent the company cease-and-desist notices in the past, arguing its photo snagging practices violate their terms of service.
+
+“Clearview AI complies with all applicable law and its conduct is fully protected by the First Amendment,” Floyd Abrams, a lawyer for the company, said in a statement to CNN Business on Tuesday.
+
+Facial recognition technology has grown in prevalence — and controversy — in recent years, popping up everywhere from airport check-in lines to police departments and drugstores. And while it could add a sense of security and convenience for businesses that roll it out, the technology has been widely criticized by privacy advocates who are concerned that it may include racial biases and have the potential for misuse.
+
+The lawsuit is the latest attempt by grassroots groups to clamp down on facial-recognition software, which is not widely regulated in the United States. In the absence of clear federal rules regarding the usage of the technology, a number of cities — such as San Francisco, Boston, and Portland, Oregon — have banned the technology in some capacity. A few states, including Illinois, California, and Washington, have related legislation that limits its use.
+
+Zota said the parties that brought the lawsuit see Clearview’s technology “as a terrifying leap toward a mass surveillance state where people’s movements are tracked the moment they leave their homes.” The individual plaintiffs participated in political movements that are critical of the police and of US Immigration and Customs Enforcement, he said.
+
+“The ability to control their likenesses and biometric identifiers — and to continue to engage in political speech critical of the police and immigration policy, free from the threat of clandestine and invasive surveillance — is vital to Plaintiffs, their members, and their missions,” the lawsuit states.
+
+Clearview was sued last year in Illinois by the American Civil Liberties Union, which alleged in its complaint that the company’s technology violates that state’s 2008 Biometric Information Privacy Act. In a statement, the ACLU alleged Clearview participated in “unlawful, privacy-destroying surveillance activities.”
+
+At the time, a lawyer for Clearview AI responded by saying the ACLU lawsuit was “absurd.”
+
+That lawsuit is ongoing; Clearview filed a motion to dismiss the suit in December, which the ACLU replied to in a legal brief, an ACLU spokesperson told CNN Business.
+
+More recently, Clearview AI has also been declared illegal in Canada. The company was told to remove Canadian faces from its database.. The growth of the surveillance industry is concerning for privacy advocates, who worry about the use of facial recognition.
+
+Clearview AI has amassed a database of more than 3 billion photos of individuals by scraping sites such as Facebook, Twitter, Google and Venmo. It’s bigger than any other known facial-recognition database in the U.S., including the FBI’s. The New York company uses algorithms to map the pictures it stockpiles, determining, for example, the distance between an individual’s eyes to construct a “faceprint.”
+
+This technology appeals to law enforcement agencies across the country, which can use it in real time to help determine people’s identities.
+
+It also has caught the attention of civil liberties advocates and activists, who allege in a lawsuit filed Tuesday that the company’s automatic scraping of their images and its extraction of their unique biometric information violate privacy and chill protected political speech and activity.
+
+Advertisement
+
+The plaintiffs — four individual civil liberties activists and the groups Mijente and NorCal Resist — allege Clearview AI “engages in the widespread collection of California residents’ images and biometric information without notice or consent.”
+
+This is especially consequential, the plaintiffs argue, for proponents of immigration or police reform, whose political speech may be critical of law enforcement and who may be members of communities that have been historically over-policed and targeted by surveillance tactics.
+
+Clearview AI enhances law enforcement agencies’ efforts to monitor these activists, as well as immigrants, people of color and those perceived as “dissidents,” such as Black Lives Matter activists, and can potentially discourage their engagement in protected political speech as a result, the plaintiffs say.
+
+The lawsuit, filed in Alameda County Superior Court, is part of a growing effort to restrict the use of facial-recognition technology. Bay Area cities — including San Francisco, Oakland, Berkeley and Alameda — have led that charge and were among the first in the U.S. to limit the use of facial recognition by local law enforcement in 2019.
+
+Yet the push comes at a time when consumer expectations of privacy are low, as many have come to see the use and sale of personal information by companies such as Google and Facebook as an inevitability of the digital age.
+
+Unlike other uses of personal information, facial recognition poses a unique danger, said Steven Renderos, executive director of MediaJustice and one of the individual plaintiffs in the lawsuit. “While I can leave my cellphone at home [and] I can leave my computer at home if I wanted to,” he said, “one of the things that I can’t really leave at home is my face.”
+
+Advertisement
+
+Clearview AI was “circumventing the will of a lot of people” in the Bay Area cities that banned or limited facial-recognition use, he said.
+
+Enhancing law enforcement’s ability to instantaneously identify and track individuals is potentially chilling, the plaintiffs argue, and could inhibit the members of their groups or Californians broadly from exercising their constitutional right to protest.
+
+“Imagine thousands of police officers and ICE agents across the country with the ability to instantaneously know your name and job, to see what you’ve posted online, to see every public photo of you on the internet,” said Jacinta Gonzalez, a senior campaign organizer at Mijente. “This is a surveillance nightmare for all of us, but it’s the biggest nightmare for immigrants, people of color, and everyone who’s already a target for law enforcement.”
+
+The plaintiffs are seeking an injunction that would force the company to stop collecting biometric information in California. They are also seeking the permanent deletion of all images and biometric data or personal information in their databases, said Sejal R. Zota, a legal director at Just Futures Law and one of the attorneys representing the plaintiffs in the suit. The plaintiffs are also being represented by Braunhagey & Borden.
+
+“Our plaintiffs and their members care deeply about the ability to control their biometric identifiers and to be able to continue to engage in political speech that is critical of the police and immigration policy free from the threat of clandestine and invasive surveillance,” Zota said. “And California has a Constitution and laws that protect these rights.”
+
+In a statement Tuesday, Floyd Abrams, an attorney for Clearview AI, said the company “complies with all applicable law and its conduct is fully protected by the 1st Amendment.”
+
+Advertisement
+
+It’s not the first lawsuit of its kind — the American Civil Liberties Union is suing Clearview AI in Illinois for allegedly violating the state’s biometric privacy act. But it is one of the first lawsuits filed on behalf of activists and grass-roots organizations “for whom it is vital,” Zota said, “to be able to continue to engage in political speech that is critical of the police, critical of immigration policy.”
+
+Clearview AI faces scrutiny internationally as well. In January, the European Union said Clearview AI’s data processing violates the General Data Protection Regulation. Last month, Canada’s privacy commissioner, Daniel Therrien, called the company’s services “illegal” and said they amounted to mass surveillance that put all of society “continually in a police lineup.” He demanded the company delete the images of all Canadians from its database.
+
+Clearview AI has seen widespread adoption of its technology since its founding in 2017. Chief Executive Hoan Ton-That said in August that more than 2,400 law enforcement agencies were using Clearview‘s services. After the January riot at the U.S. Capitol, the company saw a 26% jump in law enforcement’s use of the tech, Ton-That said.
+
+The company continues to sell its tech to police agencies across California as well as to Immigration and Customs Enforcement, according to the lawsuit, despite several local bans on the use of facial recognition.
+
+The San Francisco ordinance that limits the use of facial recognition specifically cites the technology’s proclivity “to endanger civil rights and civil liberties” and “exacerbate racial injustice.”
+
+Studies have shown that facial-recognition technology falls short in identifying people of color. A 2019 federal study concluded Black and Asian people were about 100 times more likely to be misidentified by facial recognition than white people. There are now at least two known cases of Black people being misidentified by facial-recognition technology, leading to their wrongful arrest.
+
+Advertisement
+
+Ton-That previously told The Times that an independent study showed Clearview AI had no racial biases and that there were no known instances of the technology leading to a wrongful arrest.
+
+The ACLU, however, has previously called the study into question, specifically saying it is “highly misleading” and that its claim that the system is unbiased “demonstrates that Clearview simply does not understand the harms of its technology in law enforcement hands.”
+
+Renderos said that making facial recognition more accurate doesn’t make it less harmful to communities of color or other marginalized groups.
+
+“This isn’t a tool that exists in a vacuum,” he said. “You’re placing this tool into institutions that have a demonstrated ability to racially profile communities of color, Black people in particular.... The most neutral, the most accurate, the most effective tool — what it will just be more effective at doing is helping law enforcement continue to over-police and over-arrest and over-incarcerate Black people, Indigenous people and people of color.”. A group of civil liberties advocates and immigrant rights organizations on Tuesday sued Clearview AI in a Northern California court, alleging that the controversial facial recognition company illegally "scraped," or obtained, photos for its database and that its "mass surveillance technology disproportionately harms immigrants and communites of color."
+
+"Thousands of local police officers and federal agents, including ICE agents, can pull up Clearview on their phones, take your photo, and know everything about you."
+
+--Jacinta Gonzalez, Mijente
+
+Mijente, NorCal Resist, and five activists filed the suit (pdf) in Alameda County Superior Court in an attempt to stop the New York-based company from collecting data in California and to compel it to delete personal images and data already scraped from social media sites and stored in its database of over three billion photos.
+
+The lawsuit claims the company's artificial intelligence software is being used by federal and state law enforcement agencies to identify people, in contravention of state and local statutes. In 2019, California became the third state after Oregon and New Hampshire to prohibit law enforcement use of facial recognition and other biometric tracking technology in officer body cameras.
+
+In recent years, several California municipalities including San Francisco, Oakland, and Berkeley have also passed laws banning or limiting police and other city agencies from using facial recognition technology. San Francisco's ban is being tested in a lawsuit filed by the Electronic Frontier Foundation, the ACLU of Northern California, and local activists, who allege they were illegally surveilled at last year's Black Lives Matter protests.
+
+"Privacy is enshrined in the California constitution, ensuring all Californians can lead their lives without the fear of surveillance and monitoring," Sejal Zota, a lead attorney in the new suit, said in a statement. "Clearview AI upends this dynamic, making it impossible to walk down the street without fear your likeness can be captured, stored indefinitely by the company, and used against you any time in the future. There can be no meaningful privacy in a society with Clearview AI."
+
+In an interview with CNN Business, Zota called Clearview AI's technology "a terrifying leap toward a mass surveillance state where people's movements are tracked the moment they leave their homes."
+
+The plaintiffs argue that minorities are especially at risk of rights violations, with the lawsuit noting that "facial recognition algorithms have repeatedly been shown to perform poorly when examining the faces of people of color."
+
+"Consequently, facial recognition technology has a far greater risk of misidentifying people of color," it states.
+
+"Facial recognition technology has a far greater risk of misidentifying people of color."
+
+--lawsuit
+
+Jacinta Gonzalez, a senior organizer at Mijente, said in a statement that "thousands of local police officers and federal agents, including ICE [Immigration and Customs Enforcement] agents, can pull up Clearview on their phones, take your photo, and know everything about you--whether you're at a protest, on the subway, or on the side of the road. This is going to be used to surveil us, arrest us, and in some cases deport us."
+
+Clearview AI has been denounced around the world, with the European Union last year asserting that the company likely violates its privacy laws and Canada's privacy commissioner last month condemning the firm's use of "scraped" biometric data.
+
+In addition to privacy concerns, the company has also come under fire for ties to far-right individuals in the U.S.. France's privacy watchdog slapped a €20 million fine on US firm Clearview AI on Thursday, October 20, for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform.
+
+The firm collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database – reportedly around 20 billion pictures – to clients including law enforcement agencies.
+
+Privacy activists have raised objections to the business model around the world, already winning a case in the United States that has forced the firm to stop selling its main database to private clients.
+
+The French complaint to privacy watchdog CNIL is one of a slew filed by activists across Europe that has already resulted in fines in Italy and Britain. CNIL ruled last year that Clearview was processing personal data unlawfully and ordered it to stop, but said on Thursday that the firm had not responded.
+
+In addition to the 20-million-euro ($19.6 million) fine, CNIL once again ordered the firm to stop collecting data from people residing in France and delete the data it had already collected. The watchdog said there were "very serious risks to the fundamental rights of the data subjects".
+
+Clearview AI has two months to comply with the order or begin incurring fines of €100,000 per day.
+
+Clearview boss Hoan Ton-That said in statements emailed to Agence France-Presse that his company had no clients or premises in France and was not subject to EU privacy law, adding that his firm collected "public data from the open internet" and complied with all standards of privacy. "There is no way to determine if a person has French citizenship purely from a public photo from the internet, and therefore it is impossible to delete data from French residents," he added.
+
+Clearview was formed five years ago and has since attracted almost $40 million in funding from investors including prominent Silicon Valley conservative Peter Thiel, according to the Crunchbase website.
+
+More on this topic Subscribers only Internet users are 'poisoning' their personal data in the fight against online surveillance

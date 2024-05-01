@@ -1,0 +1,39 @@
+Research and development has a major unsolved problem throughout state of the art AI systems: making systems perform well beyond the environment for which they were engineered. While this problem goes by many names (e.g., distributional shift, model generalization, open set robustness, etc.), its implications are already apparent in the real world,
+
+Incident 171: A driver is fined after a woman's t-shirt is mistaken for a license plate. The license plate reader is not engineered to differentiate shirts and license plates so it does not solve the open set problem. Incident 36: A woman is shamed in china for jaywalking because her image is on the side of a bus. The person detection system is not engineered to differentiate images of people from actual people.
+
+This incapacity to "generalize" is among the reasons why sharing incidents across cultures, geographies, and languages is so critically important: a system originally produced in one country and deployed in another will produce unforeseen incidents that the whole world needs to learn from. Therefore, the AI Incident Database has begun indexing AI incidents across languages.
+
+How Does this Work?
+
+The AI Incident Database indexes written "incident reports," which until now have entirely been in English. Now, when an incident is reported, the report is tagged with a source language and machine translated to all languages that are currently in support.
+
+Why are we accepting 133 languages, but only providing a user interface for two languages? Expediency and caution. First, translating the user interface (e.g., buttons, descriptions, etc.) to different languages takes time. Second, the AI Incident Database has many collaborators that know English and Spanish and can fix bad translations. While machine translation does support 130+ languages, we don't believe the worst translated languages among these are sufficiently robust to be relied upon. In fact, in our testing of performance between Spanish and English, we found the resulting text to be interpretable, but awkward and inconsistent. The translations are a good fit for the purpose of incident sharing and discovery, but are not good writing. As we gain confidence in the quality of machine translation of low-resource languages and/or expand our community of collaborators, we will add languages to the database user interface. We expect to add French support within the next month.
+
+In short: the most expedient and cautious path forward is to add a single language before scaling the feature. You can help accelerate our plans to index in everything from Albanian to Zulu.
+
+Call to Action
+
+We founded the Responsible AI Collaborative (the organization governing the AI Incident Database) to collaboratively develop the systems necessary to share incidents across cultures, languages, and geographies. We need your help to ensure our translations serve the Incident Database's theory of change. Please contact us if you are eager to help translate and localize non-English languages!
+
+Addendum: Model Risks and Best Practices
+
+Warning: here we give an example of a mistranslation to illustrate how machine translation will inevitably produce AI incidents. The incident in question is offensive and insulting.
+
+Machine translation is an ideal illustrative case for why the collection and dissemination of AI incidents is so important. Few would argue the world would be better off without machine translation, but the technology regularly produces offensive and sometimes dangerous incidents.
+
+A ship in harbor is safe, but that is not what ships are built for.
+
+To extend an aphorism on the safety of ships, there is a variety of supporting technologies (weather satellites, radar, etc.) and processes (batten down the hatches!) determining how and whether it is appropriate to set sail. Companies, including the Responsible AI Collaborative, must build systems and processes for model monitoring, improvement, and incident reporting.
+
+Stepping back to the context of machine translation, the unsolved generalization challenge is one of context and subtext. Humans have a "model" for their audience that allows them to communicate more than the literal translation of the text. Solving for this subtext is often where machine translation goes wrong. For example, an Incident Database contributor recently shared this image from Google's camera-based translation feature on Google Lens,
+
+Click to view offensive image
+
+This is a translation that should never be produced in the context of a book from the first minister of culture in Korea. However, in discussion with readers of the Korean language, you can see how a no-context translation that is likely trained on internet communications could arrive at this translation.
+
+The title of the book literally translates as "that, that," which also means "on the tip of my tongue." Combine this with the Korean usage of "that" as slang for male genitalia, and you arrive at this unfortunate mistranslation. Without the context of the translated text being a title of a book from a serious person, the most likely (and most offensive) translation is what would be found in internet message boards.
+
+Can we avoid adding the AI Incident Database as an incident in the AI Incident Database?
+
+No. But we can reduce the likelihood and negative impacts. Towards this, the best practices we identified are: (1) always identify in the user interface when content has been machine translated, (2) provide a link to the untranslated source text, (3) provide the ability for people to report, correct, and improve bad translations, (4) validate the effectiveness of translations between languages prior to making those translations generally available, and (5) develop a community of people that can interpret and respond to issues in translations should they occur.

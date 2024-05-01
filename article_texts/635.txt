@@ -1,0 +1,55 @@
+YouTube videos using a mix of artificial intelligence-generated and manipulated media to create fake content have flooded the platform with salacious disinformation about dozens of Black celebrities, including rapper and record executive Sean “Diddy” Combs, TV host Steve Harvey, actor Denzel Washington and Bishop T.D. Jakes.
+
+Many of the video titles and voiceovers have pushed fake narratives that stem from recent rape and sex trafficking lawsuits against Combs, including a high-profile case settled between him and entertainer Casandra “Cassie” Ventura. Other videos have implicated figures like Jakes in the allegations against Combs without evidence and used manipulated media to depict the celebrities engaging in lewd acts and exaggerated displays of emotion in video thumbnails.
+
+NBC News reviewed a dozen YouTube channels posting what appears to be AI-generated fake news content about Black celebrities. Many of the videos it reviewed are clickbait, meaning the YouTube video titles and thumbnails indicate narratives or allegations that aren’t in the videos themselves. Some of the videos have millions of views, and the median number of combined views for each channel was 21 million.
+
+In a statement to NBC News, a spokesperson for YouTube said the platform reviewed and took a number of actions on several of the channels it flagged, “including terminating three channels for violating our Terms of Service, removing additional channels from our monetization program and removing a number of videos and thumbnails.”
+
+“YouTube’s Community Guidelines set the rules of the road for what is and is not allowed on our platform, including content that contains targeted harassment or unwanted sexualization,” the statement said.
+
+The content flourished before and after YouTube’s actions. Angelica Nwandu, the founder and CEO of The Shade Room — one of the largest Black culture news sources online, with over 28 million Instagram followers — said the issue of AI-generated and other fake news content about Black celebrities has become a problem for her team since last year.
+
+“We’ve seen these pages that pop up on YouTube or TikTok, and they will have an AI-generated picture of Rihanna crying over A$AP [Rocky] going to jail, and it’s completely fake,” Nwandu said. “Our audience will DM and say ‘Why aren’t you posting this news?’ ‘Why aren’t you covering this story?’ Because they believe these pages.”
+
+The videos about Black celebrities often tie back to real, shocking and scandalous events in the news. By remixing real news with false information and allegations, the videos are able to quickly gain traction by appearing to provide new information about topics that are already attracting attention.
+
+The flood of manipulated and AI-generated fake content on YouTube coincides with its parent company Google’s forays into generative AI technology, as well as rising fears about disinformation efforts targeting 2024 elections around the globe. YouTube announced in November that it plans to enforce a new policy requiring labels for synthetic and manipulated media in videos. That system isn’t yet in place.
+
+It can be difficult to distinguish between AI-generated media and media that is manipulated without the use of AI (sometimes referred to as “cheapfakes”). One out of the dozen channels NBC News reviewed responded to a request for comment. In an email, a person representing the channel, which focuses on celebrity news, said it uses “AI text-to-speech technology” for some videos but denied using AI tools for the scripts being read out loud or the thumbnails. AI-generated voice technology is thought to have been used in a fake President Joe Biden robocall that told New Hampshire Democrats not to vote in January’s primary.
+
+A lawyer representing Jakes, the megachurch preacher in Texas who was the target of some of the videos, told NBC News that Jakes is just the latest prominent person to be targeted by fake and false information on YouTube. Jakes acknowledged the viral fake content in a sermon last month, saying, “All of you who expect me to address a lie, you can log off.”
+
+A YouTube search for “TD Jakes” surfaces false content that appears to use generative AI tools for voiceovers in the first five search results. A deepfake detection expert, Siwei Lyu, a professor of computer science and engineering at the University at Buffalo, ran the audio from two of the videos in search results for Jakes through an open-source AI Speech Classifier model developed by AI researchers at the University of Seoul in South Korea. The model found that audio from one video was more than 87% likely to have been AI-generated and that audio in the second video was more than 90% likely to have been AI-generated. YouTube suspended the channel responsible for the content in the search results from its monetization program, meaning it can no longer profit from its videos.
+
+But YouTube channels relying on what appears to be at least partly AI-generated content have only continued to churn out shocking, false narratives about Jakes, Combs and others. Some videos have ads, which indicates that they are earning revenue for their creators. Because some of the fake news videos are able to generate high views and engagement, they are also ranked higher algorithmically in search results and recommended content — YouTube’s and Google’s algorithms are also AI-driven.
+
+A YouTube video posted Jan. 14, titled “BREAKING NEWS: Diddy Is Found GUILTY & ARRESTED In Tupac’s Case!” has over 100,000 views. The thumbnail shows Combs, his face contorted in anguish, next to an image of a police officer escorting him by the arm. A Google search for “Diddy arrested” returned the video as the top result.
+
+But Combs wasn’t arrested on Jan. 14. He was arrested in 2015 — not in the murder of Tupac Shakur, but on suspicion of assault with a deadly weapon in an incident at UCLA, which is where some of the Jan. 14 YouTube video is from (prosecutors declined to pursue charges in connection with the 2015 arrest, and Combs’ lawyer commented at the time about being “thankful” the charges weren’t pursued).
+
+Lyu also ran the Jan. 14 video through the same AI detection model. The model determined it was over 98% likely to have been AI-generated. Lyu said the AI detection model identifies elements discernible in synthetic audio that aren’t present in audio from real voices.
+
+Reality Defender, an AI-detection platform that markets its detection models, also ran the Jan. 14 video’s thumbnail and 28 seconds of its audio through AI-detection programs and found the voiceover and parts of the thumbnail were 99% likely to be produced with generative AI tools. (Comcast, the parent company of NBCUniversal, is an investor in Reality Defender.)
+
+Reality Defender CEO Ben Colman said the company’s AI-detection programs assess pixels within images to find anomalies that indicate AI tools were used. Using such tools can result in an image’s looking too smooth, Colman said, when there should be sharp outlines around different objects in a real picture. Similar manipulated images were achievable before AI with photo editing tools but are now automated with the use of AI.
+
+“What we’re seeing with generative tools, it’s an exponential increase in the ability and ease of manipulation,” Colman said.
+
+The YouTube channel that published the video has been active for just a year. It has posted over 750 videos with over 20 million combined views. YouTube didn’t take action against the channel after NBC News flagged it.
+
+“They use the jargon of the culture, the slang of the culture, because Black people trust Black media,” Nwandu said. “There has been a long-standing distrust with mainstream media in the way that our stories are told.”
+
+False, manipulated and AI-generated content has circulated on YouTube for years, but recent technological developments and interest in alternative news sources have created a growing incentive to produce such content that threatens information ecosystems.
+
+Two of the 12 channels posting what appear to be AI-generated fake news videos about Black celebrities reviewed by NBC News started as technology review channels, posting videos that don’t appear to feature any AI-generated content. After they posted several videos that each received under 1,000 views, the two channels pivoted to covering salacious, fake stories about Black celebrities. One of the channels now has over 20 million combined views, and the other has over 5 million. YouTube terminated one of them.
+
+Two other channels of the 12 reviewed by NBC News had email addresses connected to Crealon Entertainment, a digital publishing company based in Sweden that has operated numerous other YouTube accounts with the work of freelancers. According to Crealon’s LinkedIn page, it is hiring a “Rap Writer” freelancer based in the U.S. and a “Video Editor for Rap related YouTube Channel” freelancer based in India. Crealon is also hiring thumbnail designer freelancers and freelancers for true crime-related YouTube channels. The company didn’t respond to a request for comment. YouTube terminated both of the channels NBC News flagged that were linked to Crealon, adding that they were circumventing a previous channel termination.
+
+NBC News also identified five YouTube channels about Black news and culture that have real people appearing in the videos but were reacting to and aggregating information from the fake news videos.
+
+Researcher Jonathan Albright discovered tens of thousands of AI-generated news videos on YouTube in 2017. At the time, such videos were typically short and unsophisticated, and they got relatively little traction — even the most-viewed videos Albright looked at had under 10,000 views, and some had zero. Videos would include an artificial-sounding voice reading copy from news articles over a slideshow of pictures grabbed from around the web.
+
+Since then, some of the videos have evolved and received millions of views. Before the lawsuit against Combs, some of the channels identified by NBC News made dozens of videos about the 2022 Johnny Depp-Amber Heard defamation trial that used manipulated media and false information to paint Heard in a negative light. One such video, with a thumbnail that showed Heard’s “Aquaman” co-star Jason Momoa next to her in the courtroom (he never appeared during the trial), had over 8 million views alone. The channel that posted it has since pivoted to covering Black celebrities.
+
+“The thing that gets me is there isn’t much being done,” Nwandu said. “A lot of these pages are able to thrive for a long period of time and generate massive views without any kind of takedown.”

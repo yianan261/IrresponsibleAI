@@ -1,0 +1,289 @@
+Facebook has apologised after an error in its machine-translation service saw Israeli police arrest a Palestinian man for posting “good morning” on his social media profile.
+
+The man, a construction worker in the West Bank settlement of Beitar Illit, near Jerusalem, posted a picture of himself leaning against a bulldozer with the caption “يصبحهم”, or “yusbihuhum”, which translates as “good morning”.
+
+But Facebook’s artificial intelligence-powered translation service, which it built after parting ways with Microsoft’s Bing translation in 2016, instead translated the word into “hurt them” in English or “attack them” in Hebrew.
+
+Police officers arrested the man later that day, according to Israeli newspaper Haaretz, after they were notified of the post. They questioned him for several hours, suspicious he was planning to use the pictured bulldozer in a vehicle attack, before realising their mistake. At no point before his arrest did any Arabic-speaking officer read the actual post.
+
+Facebook said it is looking into the issue, and in a statement to Gizmodo, added: “Unfortunately, our translation systems made an error last week that misinterpreted what this individual posted.
+
+“Even though our translations are getting better each day, mistakes like these might happen from time to time and we’ve taken steps to address this particular issue. We apologise to him and his family for the mistake and the disruption this caused.”
+
+Arabic is considered particularly difficult for many machine translation services due to the large number of different dialects in use around the world, on top of Modern Standard Arabic, the international form of the language.
+
+The Israeli Defence Force has been open about monitoring the social media accounts of Palestinians, looking for “lone-wolf” attackers who might otherwise slip through the net. It reportedly does so automatically, using algorithms to look for terms such as “sword of Allah”.
+
+Machine translation mistakes are a regular occurrence for anyone using AI to translate languages, particularly ones with little relationship. Earlier this month, Chinese social network WeChat apologised after its own machine translation system translated a neutral phrase meaning “black foreigner” as the n-word.
+
+“When I ran the translator, the n-word came up and I was gobsmacked,” said Ann James, who had been texting back and forth with a friend when the faulty translation appeared.. Facebook’s auto-translate feature allows users to connect beyond language barriers but one incorrect translation of a simple “good morning” proved to be a bit of a disaster for one Palestinian man. When the construction worker posted a picture of his work site, the Facebook translate feature reportedly turned the Arabic “good morning” into a Hebrew “attack them” and an English “hurt them,” resulting in the man’s arrest.
+
+According to Israel newspaper Haaretz, the man was arrested when Israeli police spotted the auto-translate message last week, which was accompanied by a photo of the man leaning against a bulldozer enjoying what appears to be a morning coffee and cigarette at a West Bank construction site near Jerusalem. The confusion came from the system misidentifying a similar Arabic word which means “to hurt.”
+
+Recommended Videos
+
+The incorrect translation flagged the post, notifying local authorities who also use algorithms to flag potential threats. The police responded because of both the translation and the image. According to police, bulldozers have been used in terrorist attacks before as hit-and-run vehicles.
+
+After questioning and after an Arabic-speaking office read the original post, the police realized the error and the man was released after a few hours.
+
+In a statement, Facebook apologized for the error. The company says that, while the auto-translate algorithms improve every day, misinterpretations happen occasionally. Facebook said it is working to prevent the error from happening again.
+
+Artificial intelligence is behind Facebook’s translation feature — when the company switched entirely to its own system last year, the software handled around 2 billion translations a day in 40 languages. Additional options allow users to report bad translations and rate translated text.
+
+The most popular social media network uses a number of different algorithms to monitor posts, but a string of recent events has the platform promising more human oversight to the process in a number of different areas. A set of ad-targeting metrics for hate groups and fake news promoted in the trending section are just a few examples of incidents that prompted changes in the platform’s monitoring systems. Earlier in 2017, the company said it would add 3,000 moderators to review posts flagged by users for violating the Community Standards.
+
+Editors' Recommendations. Facebook has apologized after a Palestinian man was arrested by Israeli police for a post saying “good morning” that its automatic-translation service erroneously translated as “attack them” in Hebrew and “hurt them” in English, reports Israeli newspaper Haaretz. The man is a construction worker near Jerusalem, reports The Guardian. He posted a photo of himself last week leaning against a bulldozer with the caption “يصبحهم”, or “yusbihuhum,” which translates as “good morning.”
+
+Police arrested the man after they were notified of the post and were suspicious he was planning a vehicle attack using the bulldozer. He was released hours later after police realized the mistake. Haaretz reports that before his arrest, no Arabic-speaking officer had read the man’s Facebook post.
+
+Facebook is currently investigating the issue and Necip Fazil Ayan, an engineering manager in Facebook’s language technologies group, said in a statement to Gizmodo that though mistakes might happen, the company’s translations are getting better each day. “Unfortunately, our translation systems made an error last week that misinterpreted what this individual posted. We apologize to him and his family for the mistake and the disruption this caused.”. A Palestinian construction worker was arrested by Israeli police after Facebook incorrectly translated the text of one of his posts. Haaretz reports that the man uploaded a picture from his job at a construction site with the text “good morning” in Arabic. When officers used Facebook’s automatic translation service to read the post, the text was mistranslated as “attack them” in Hebrew and “hurt them” in English.
+
+
+
+Image: AP
+
+According to Haaretz, Arabic speakers said the “English transliteration used by Facebook is not an actual word in Arabic but could look like the verb ‘to hurt’ – even though any Arabic speaker could clearly see the transliteration did not match the translation”. No Arabic-speaking officers reportedly saw the post prior to the man’s arrest. He was released after several hours of questioning.
+
+Facebook originally used Microsoft’s translation AI, but began using a proprietary translation software in 2016. When contacted by Gizmodo, Necip Fazil Ayan, an engineering manager in Facebook’s language technologies group, provided the following statement:
+
+Unfortunately, our translation systems made an error last week that misinterpreted what this individual posted. Even though our translations are getting better each day, mistakes like these might happen from time to time and we’ve taken steps to address this particular issue. We apologise to him and his family for the mistake and the disruption this caused.
+
+In the picture uploaded with the text, a man is propped against a bulldozer at a West Bank construction site. This only added to the perceived suspicion, as bulldozers have been used in hit-and-run terrorist attacks. The Israel Defence Forces monitors Palestinians’ social media as a way to detect radicalisation or potential terror attacks. The West Bank is largely Israeli controlled, though pockets have joint Israeli-Palestinian control and conflict over contested land is ongoing.
+
+Facebook offers an entire suite of features that it says can help authorities prevent terrorism, from computer vision to keyword monitoring. Still, critics have long warned these tactics can be misused by state powers as a means of targeted surveillance. In this case, a simple misunderstanding could have cost a man his livelihood.
+
+[Haaretz]. Over the last year, we have been working on a project in secret. It is the most ambitious project we've ever attempted.. . . Israeli police mistakenly arrested a Palestinian who posted 'good morning' in Arabic online which Facebook wrongly translated as 'attack them'.
+
+The man uploaded a picture of himself leaning against a bulldozer at the Israeli settlement of Beitar Ilit, where he works, in the occupied West Bank.
+
+In the caption, he wrote an Arabic term meaning 'good morning', but a software malfunction translated it to mean 'attack them' in Hebrew and 'hurt them' in English.
+
+The man uploaded a picture of himself leaning against a bulldozer at the Israeli settlement of Beitar Ilit, where he works, in the occupied West Bank
+
+In the caption, he wrote an Arabic term meaning 'good morning', but a software malfunction translated it to mean 'attack them' in Hebrew and 'hurt them' in English
+
+Police only confirmed that a Palestinian had been mistakenly arrested then released following suspicions of incitement, but a report in Haaretz newspaper provided further details.
+
+Officers believed the man was going to carry out an attack, so swooped in to arrest him.
+
+It was unclear how such a translation error could have been made as there are no apparent similarities between the Arabic expression used for 'good morning' and the phrases in Hebrew or English.
+
+Police were notified and the man was arrested last week, the report said.
+
+He was released after a few hours when police realised the mistake.
+
+Police spokeswoman Luba Samri said: 'A few days ago, a Palestinian was detained for questioning on suspicion of incitement through his Facebook page.'
+
+She said he was 'immediately released' after the suspicions turned out to be false and the Facebook post has since been deleted.. . October 25, 2017
+
+The case in question concerns a Palestinian gentleman working in Israel. The man works in the construction industry near Jerusalem. He recently posted a photograph of himself at work, leaning against a bulldozer. He added the caption “يصبحهم”, or “yusbihuhum,” which means “good morning.”
+
+It was only last week that we discussed the flaws of machine translation. In that case, the focus of the article was on the WeChat messaging app’s racial slurs . Now, a new story has once more highlighted the dangers posed by the machines that we rely on to translate for us.
+
+Unfortunately, this seemingly innocent act triggered a great deal of trouble for this individual. Facebook’s artificial intelligence (AI) powered automatic translation system, which handles some 4.5 billion translations per day, made a mistake. Instead of translating the man’s innocent greeting correctly, the system translated it as “attack them” in Hebrew and “hurt them” in English. Local police put the translated comment together with the bulldozer in the picture and promptly arrested the poor construction worker.
+
+Human translation lacking
+
+Sadly, no Arabic translation was undertaken before the arrest. Nor were any Arabic-speaking officers consulted prior to the gentleman being hauled in for questioning. The suspicion that the gentleman was planning some form of bulldozer attack caused police to react first and ask questions later. Of course, once they did begin asking questions, the truth quickly became apparent.
+
+The incident serves to highlight once more the importance of human translation rather than reliance on machines. In this case, the issue was resolved within a few hours when the erroneous translation was discovered. However, one can’t help but wonder how many other instances of fault Facebook translation are taking place each and every day, as users rely on artificial intelligence to communicate in other languages.
+
+Facebook’s apology
+
+Facebook has, quite rightly, apologised for making such a mistake. Necip Fazil Ayan, an engineering manager in Facebook’s language technologies group, commented,
+
+“Unfortunately, our translation systems made an error last week that misinterpreted what this individual posted.
+
+“Even though our translations are getting better each day, mistakes like these might happen from time to time and we’ve taken steps to address this particular issue. We apologise to him and his family for the mistake and the disruption this caused.”
+
+Machine translation
+
+The translation error occurred in part due to the difficulties that machines face when it comes to translating Arabic. Facebook’s system is far from alone in finding Arabic a hard language to translate. As well as the internationally used Modern Standard Arabic, the language has a large number of different dialects. This provides machines with a level of complexity that they don’t often face when working with other languages.
+
+Even so, the error shows how far machine translation still has to go before we can rely on it. If a simple phrase such as “good morning” can serve to flummox Facebook’s translation system so utterly, despite the enormous funds available to Facebook to invest in that system, one shudders to think of how poorly more complex chunks of text are being translated.
+
+Over the past few years, we’ve heard about numerous breakthroughs in the field of machine translation, from Google’s neural networks translating without transcribing courtesy of deep learning techniques, to Facebook’s much publicised shift to a system of entirely neural machine translation. So why is it that machine translation is still so flawed compared to human translation?
+
+Google recently announced that its Deep Mind project had made a leap forward in AI research. The AlphaGo Zero project saw Deep Mind achieve superhuman abilities at the game Go after being given a board and a set of instructions with which to teach itself. Whereas the previous project – AlphaGo – required thousands of hours of learning from human players before it was able to beat a human champion, AlphaGo Zero taught itself to do so in just a few days, defeating the original AlphaGo by 100 games to 0. The machine even taught itself Go techniques and strategies that humans have never thought of, despite the game being over a thousand years old.
+
+Perhaps this new approach to machine learning will finally be the masterstroke that leads to machines being able to translate as proficiently as humans – but, then again, we’ve heard such proclamations many times before and humans still have the edge over machines when it comes to professional translation!
+
+Final thoughts
+
+Will the latest advances in AI lead to machine translation being perfected? Or will we continue to see machine translation mistakes leading to confusion and, in extreme cases, arrests? Share your thoughts by leaving a comment below.. Israeli police accidentally arrested a Palestinian man after he posted “Good morning” in Arabic on Facebook, together with a photo of himself at work.
+
+The man was working at a building site on a West Bank settlement near Jerusalem and posed with a photo of a bulldozer in the post. Facebook’s automatic language translation software translated the post as “attack them” in Hebrew and “hurt them” in English.
+
+According to Israeli paper Haaretz, no Arabic-speaking police officer read the post before the man was arrested. After questioning, the police realized their mistake, and released the man a few hours later. At that point, the police agreed that the correct translation was “good morning.”
+
+Facebook also quickly apologized for the mistake, Gizmodo reported. “Unfortunately, our translation systems made an error last week that misinterpreted what this individual posted,” said Necip Fazil Ayan, an engineering manager in Facebook’s language technologies group. “We apologize to him and his family for the mistake and the disruption this caused.”
+
+Facebook began using its AI translation system in 2015, with translations available since 2011. In this case, Arabic speakers explained to Haaretz that the English transliteration that Facebook used wasn’t a real word in Arabic, but that it could look like the verb “to hurt,” though “any Arabic speaker could clearly see the transliteration did not match the translation.”
+
+Facebook starts using its own translation system
+
+Since last year, Facebook has been translating two billion text snippets per day. The application can translate 40 languages in 1,800 directions (such as French to English, or Japanese to Spanish). According to TechCrunch, some 800 million users — nearly half of the total number of people using Facebook — see at least some translations every month.
+
+The advantage for Facebook in using its own translation system is that it can have more control over people’s news feeds, by understanding the meaning behind text and images. For example, if Facebook understands that a post is looking for recommendations of sites to visit in Rome, no matter if a post is in Indonesian, Arabic or Mandarin, it can suggest friends to ask for that recommendation.
+
+Now, when Facebook is confident that its translation is correct, it automatically shows that translation, with an option to “view original,”
+
+However, AI translation depends on learning from the most common uses of words, and most bi- or multi-lingual speakers find that Google and Facebook translations are very lacking.
+
+“To have a machine being as smart as a human and holding up a conversation — where you actually have a meaningful counterpart — that’s still pretty science fiction at the moment,” said Philip Koehn, a Johns Hopkins University lecturer who has studied machine translation.
+
+So, were police right to intervene and arrest that Facebook user? Let us know in the comments below!
+
+— Tamara Pearson. . . . A construction worker was arrested after he posted ‘Good morning’ on Facebook, because the automatic translation got it wrong.
+
+The Palestinian man had posted a photo at work with a cigarette and a coffee, adding a greeting to his followers in Arabic.
+
+But the online translator misread what he said, translating it as ‘Hurt them’.
+
+Israeli police arrested him on suspicion of inciting violence, believing he was urging people to use a bulldozer to attack people, the Times of Israel reports.
+
+Nobody who spoke Arabic had read the post before he was interrogated.
+
+Israeli security forces arrested him (File picture: Getty)
+
+The automatic translator got mixed up because there is only one letter different in the phrases ‘good morning to you all’ and ‘hurt them’ in Arabic.
+
+Bulldozers have been used in terror attacks in the past, so police thought he was promoting violence.
+
+In fact it was a totally innocent and good natured photo from Beitar Illit settlement on October 15.
+
+The man has since deleted his Facebook post and did not want to be identified, the Times reported.
+
+MORE : Nursery worker died after accidentally overdosing on medication for mystery pain
+
+MORE : Couple find huge stash of marijuana hidden inside their Amazon order. Story and picture courtesy of BIG NEWS NETWORK.com
+
+Following a goof up by Facebook, a Palestinian man was arrested by the Israeli police for posting ‘Good Morning’ on the social media site.
+
+According to reports, the man, a construction worker said “Good Morning” in Arabic in Facebook post, but the post was mistranslated to read “attack them” in Hebrew.
+
+Following the mistranslation, the police said that they held the man under suspicion of incitement briefly, but that the man was released as soon as the mistake was realised.
+
+The Palestinian construction worker was identified as Halawim Halawi and he is said to have posted a photo showing himself standing next to a bulldozer at the Israeli settlement of Beitar Ilit, where he works, in the occupied West Bank.
+
+Previously, local reports noted, such vehicles have been used in terror attacks and officers thought he may be threatening to carry out such an atrocity.
+
+Reports also pointed out that there is only one difference in lettering between the colloquial Arabic phrase for “good morning to you all” and “hurt them.”
+
+Further, officers wholly dependent on Facebook’s automatic translation and did not consult an Arabic-speaking officer before making the arrest.
+
+Law enforcement problems due to automated translation have affected tech companies and their popularity in the past.
+
+Last year, Google’s online translation tool rendered the Russian Federation as ‘Mordor.’
+
+Morder is the name of a fictional dark and evil region in JRR Tolkien’s Lord of the Rings books.
+
+Further, “Russians” was translated to “occupiers” – causing more shame for the company.
+
+At the time, Google argued that Translate worked by looking for patterns in hundreds of millions of documents – but translation remained difficult as the meaning of words was tied to the context in which they were used.. justice, blind, Newark federal court, trial, law enforcement
+
+Greg Sandoval/Business Insider
+
+A man from Mexico was pulled over on the highway in Kansas and was suspected of carrying drugs.
+
+With the help of Google Translate, the Kansas Highway trooper asked the man in Spanish if he can search his car. The suspect says he didn't understand the request when he responded yes.
+
+The question the court was trying to answer is whether Google Translate is a reliable enough interpreter to justify sending a man to prison — and the answer was no.
+
+As anyone who has traveled overseas can tell you, Google Translate is an important tool that can bridge many language barriers.
+
+But while the software’s reliability at offering accurate translations has greatly improved over time, the technology remains far from perfect. US District Judge Carlos Murguia found on June 4 that the software's ability to interpret accurately isn't dependable enough to be the deciding factor in sending someone to prison. Quartz first reported on this story.
+
+According to court documents, Ryan Wolting, a Kansas Highway Patrol trooper stopped Omar Cruz-Zamora last October for driving with a suspended registration. Prosecutors say Wolting began to use Google Translate to communicate after realizing that Cruz-Zamora spoke little English. The trooper asked Cruz-Zamora if he could search his car and Cruz-Zamora responded yes. The documents say the officer then found 14 pounds of meth and cocaine.
+
+Later, Cruz-Zamora’s attorneys filed a motion to suppress the evidence, arguing that the defendant didn’t understand Wolting’s request to search his car or that he had the right to decline the search.
+
+Wolting testified that he keyed into Google Translate the question “Can I search your car?” or “Can I search the car?” The problem was that the translation offered was “¿Puedo buscar el auto?” In Spanish this can be interpreted as “Can I find the car?”
+
+According to a recording made by the police car's camera, there were multiple times when Wolting’s questions produced “nonsensical translations.” Two professional interpreters testified that Google Translate can be used for literal translations but should never be used to “translate full conversations.”
+
+The judge wrote in his decision that "the court does not believe it is reasonable to rely on the service to obtain consent" and granted the defendant’s request to suppress the evidence.
+
+Translation software is an essential tool for travelers, hotel workers, waiters and waitresses who work in cities that see a lot of tourists. But they should realize that the technology is sometimes dramatically incorrect. In October, Israeli police arrested a Palestinian man for posting a photo of himself to his Facebook page standing next to a tractor and writing the words “good morning.”
+
+Story continues
+
+The social network’s translation tools goofed and translated the words in English as “hurt them”and in Hebrew as “attack them.” Authorities believed the man may have planned to use the tractor in a attack. The man was eventually released and Facebook apologized but there's no mistaking that AI-generated translations still have a long ways to go.
+
+NOW WATCH: We tried gaming on the Samsung CHG90 ultrawide gaming monitor
+
+See Also:
+
+SEE ALSO: We put Google's new language-translation headphones to the test with 10 different languages — here’s how they did. . Facebook says it automatically translates about 4.5 billion posts each day. With new research and advancements, the technology keeps improving, but it’s not perfect—and its flaws can have serious consequences.
+
+Last week, a Palestinian man working at a construction site in an Israeli settlement in the West Bank, posted on Facebook a photo of himself in front of a bulldozer, with the words “Good Morning” in Arabic. The platform’s automatic translation mistook the words for “attack them” in Hebrew, and “hurt them” in English.
+
+Advertisement
+
+Here’s an explanation from the Israeli daily newspaper Haaretz, which first reported the incident, about the nature of the mistake:
+
+Arabic speakers explained that English transliteration used by Facebook is not an actual word in Arabic but could look like the verb “to hurt” – even though any Arabic speaker could clearly see the transliteration did not match the translation.
+
+Google Translate also mistranslates the phrase, turning it into “become them,” likely because the literal translation of “morning” in Arabic is “day becoming.”
+
+The Jerusalem Post reports that Israeli police got multiple complaints from civilians about the post, and that they acted upon it because of previous terrorist attacks using a bulldozer. Reportedly, no officer who spoke Arabic saw the post before the arrest was made. The police released the man from custody after several hours, realizing the mistake.
+
+Advertisement
+
+Facebook introduced its translation tool in 2011. Then, it used Microsoft’s Bing to translate. In late 2015 the platform completed a shift to its own AI translation technology. In 2016, users started being able to have their statuses automatically translated, visible to everyone in the language they post in. In August 2017, the platform fully transitioned from phrase-based translation to the more accurate neural network system. The company is developing a more sophisticated neural technology, which it says is nine times faster than its competitors.
+
+Recently, another case of mistranslation by Facebook resulted in “Mexicanitos,” meant to be a term of endearment, being posted as the slur “wetbacks.” The mother from El Paso who posted the photo of her kids, calling them “Mexicanitos,” complained publicly.. By Aiden Pink October 26, 2017
+
+A Palestinian man was mistakenly arrested in Israel after Facebook’s translation software turned his “good morning” photo caption into a threat.
+
+The man, who works in a West Bank settlement, posted a photo of himself next to a bulldozer with the message “good morning” in Arabic. But Facebook’s proprietary translation algorithm translated it into Hebrew as “attack them.”
+
+Local police officers were notified of the post and arrested the man. They were especially concerned that he was posing next to a bulldozer, which has been used by Palestinians in hit-and-run terror attacks.
+
+Forwarding the News Thoughtful, balanced reporting from the Forward and around the web, bringing you updated news and analysis of the crisis each day. Terms (Required) I agree to the Forward's Terms of Service and Privacy Policy Email (Required)
+
+Israeli security frequently monitors Palestinians’ social media accounts to detect possible terror threats.
+
+No Arabic-speaking officer read the post before the man’s arrest, Haaretz reported. The man was soon freed after the police admitted a mistake was made.
+
+“Unfortunately, our translation systems made an error last week that misinterpreted what this individual posted,” a Facebook spokesperson told Gizmodo. “Even though our translations are getting better each day, mistakes like these might happen from time to time and we’ve taken steps to address this particular issue. We apologize to him and his family for the mistake and the disruption this caused.”
+
+Contact Aiden Pink at [email protected] or on Twitter, @aidenpink. . . No translation service is perfect, but you wouldn’t expect it to get you arrested.
+
+Facebook admitted that an error in its artificial intelligence-based auto-translation feature led to the arrest of a Palestinian man who posted “good morning” on his social profile.
+
+The man, a construction worker in the West Bank near Jerusalem, posted a picture of himself leaning against a bulldozer with the caption “??????”, or “yusbihuhum,” which means “good morning” in Arabic.
+
+In predictive policing news: Israel arrested a Palestinian for posting a pic on Facebook next to a bulldozer saying “good morning” just because Facebook incorrectly translated the Arabic phrase to mean “hurt them”. Full article on Haaretz – https://t.co/kk1A51BcUy pic.twitter.com/BUOVONWIrc — Asaf Lubin (@AsafLubin) October 23, 2017
+
+Facebook’s translator replaced his pleasant greeting with “hurt them” in English or what translates to “attack them” in Hebrew.
+
+No Arabic-speaking authorities got a look at his post in time and police arrested the man later that day on suspicion that he was planning an attack using the bulldozer, a vehicle that had previously been used in hit-and-run terrorist attacks. He was released after several hours of questioning.
+
+Arabic speakers tell Haaretz that the transliteration produced by Facebook isn’t a real Arabic word, but looks a lot like “to hurt.” A native Arabic speaker would reportedly have spotted the error.
+
+Facebook apologized and said it would investigate the problem in a statement to Gizmodo.
+
+“Unfortunately, our translation systems made an error last week that misinterpreted what this individual posted. Even though our translations are getting better each day, mistakes like these might happen from time to time and we’ve taken steps to address this particular issue. We apologize to him and his family for the mistake and the disruption this caused.”
+
+H/T the Guardian. Get the free Morning Headlines email for news from our reporters across the world Sign up to our free Morning Headlines email Please enter a valid email address Please enter a valid email address SIGN UP I would like to be emailed about offers, events and updates from The Independent. Read our privacy notice Thanks for signing up to the
+
+Morning Headlines email {{ #verifyErrors }} {{ message }} {{ /verifyErrors }} {{ ^verifyErrors }} Something went wrong. Please try again later {{ /verifyErrors }}
+
+A Palestinian man who posted “good morning” in Arabic on Facebook was arrested after Israeli police mistakenly translated his message as “attack them”.
+
+The man, who has not been named, posted a picture of himself working on a construction site in the West Bank settlement of Beitar Ilit near Jerusalem.
+
+Alongside the photo, which shows the worker leaning against a bulldozer, he wrote: “Good morning.”
+
+Yet the automatic translation service offered by Facebook, which uses its own proprietary algorithms, translated the words to mean “attack them” in Hebrew and “hurt them” in English.
+
+The police were notified and arrested the man on suspicion of incitement, but he was released after a few hours once the mistake was realised.
+
+No Arabic-speaking officer was consulted before the arrest was made.
+
+World news in pictures Show all 50 1 / 50 World news in pictures World news in pictures 30 September 2020 Pope Francis prays with priests at the end of a limited public audience at the San Damaso courtyard in The Vatican AFP via Getty World news in pictures 29 September 2020 A girl's silhouette is seen from behind a fabric in a tent along a beach by Beit Lahia in the northern Gaza Strip AFP via Getty World news in pictures 28 September 2020 A Chinese woman takes a photo of herself in front of a flower display dedicated to frontline health care workers during the COVID-19 pandemic in Beijing, China. China will celebrate national day marking the founding of the People's Republic of China on October 1st Getty World news in pictures 27 September 2020 The Glass Mountain Inn burns as the Glass Fire moves through the area in St. Helena, California. The fast moving Glass fire has burned over 1,000 acres and has destroyed homes Getty World news in pictures 26 September 2020 A villager along with a child offers prayers next to a carcass of a wild elephant that officials say was electrocuted in Rani Reserve Forest on the outskirts of Guwahati, India AFP via Getty World news in pictures 25 September 2020 The casket of late Supreme Court Justice Ruth Bader Ginsburg is seen in Statuary Hall in the US Capitol to lie in state in Washington, DC AFP via Getty World news in pictures 24 September 2020 An anti-government protester holds up an image of a pro-democracy commemorative plaque at a rally outside Thailand's parliament in Bangkok, as activists gathered to demand a new constitution AFP via Getty World news in pictures 23 September 2020 A whale stranded on a beach in Macquarie Harbour on the rugged west coast of Tasmania, as hundreds of pilot whales have died in a mass stranding in southern Australia despite efforts to save them, with rescuers racing to free a few dozen survivors The Mercury/AFP via Getty World news in pictures 22 September 2020 State civil employee candidates wearing face masks and shields take a test in Surabaya AFP via Getty World news in pictures 21 September 2020 A man sweeps at the Taj Mahal monument on the day of its reopening after being closed for more than six months due to the coronavirus pandemic AP World news in pictures 20 September 2020 A deer looks for food in a burnt area, caused by the Bobcat fire, in Pearblossom, California EPA World news in pictures 19 September 2020 Anti-government protesters hold their mobile phones aloft as they take part in a pro-democracy rally in Bangkok. Tens of thousands of pro-democracy protesters massed close to Thailand's royal palace, in a huge rally calling for PM Prayut Chan-O-Cha to step down and demanding reforms to the monarchy AFP via Getty World news in pictures 18 September 2020 Supporters of Iraqi Shi'ite cleric Moqtada al-Sadr maintain social distancing as they attend Friday prayers after the coronavirus disease restrictions were eased, in Kufa mosque, near Najaf, Iraq Reuters World news in pictures 17 September 2020 A protester climbs on The Triumph of the Republic at 'the Place de la Nation' as thousands of protesters take part in a demonstration during a national day strike called by labor unions asking for better salary and against jobs cut in Paris, France EPA World news in pictures 16 September 2020 A fire raging near the Lazzaretto of Ancona in Italy. The huge blaze broke out overnight at the port of Ancona. Firefighters have brought the fire under control but they expected to keep working through the day EPA World news in pictures 15 September 2020 Russian opposition leader Alexei Navalny posing for a selfie with his family at Berlin's Charite hospital. In an Instagram post he said he could now breathe independently following his suspected poisoning last month Alexei Navalny/Instagram/AFP World news in pictures 14 September 2020 Japan's Prime Minister Shinzo Abe, Chief Cabinet Secretary Yoshihide Suga, former Defense Minister Shigeru Ishiba and former Foreign Minister Fumio Kishida celebrate after Suga was elected as new head of the ruling party at the Liberal Democratic Party's leadership election in Tokyo Reuters World news in pictures 13 September 2020 A man stands behind a burning barricade during the fifth straight day of protests against police brutality in Bogota AFP via Getty World news in pictures 12 September 2020 Police officers block and detain protesters during an opposition rally to protest the official presidential election results in Minsk, Belarus. Daily protests calling for the authoritarian president's resignation are now in their second month AP World news in pictures 11 September 2020 Members of 'Omnium Cultural' celebrate the 20th 'Festa per la llibertat' ('Fiesta for the freedom') to mark the Day of Catalonia in Barcelona. Omnion Cultural fights for the independence of Catalonia EPA World news in pictures 10 September 2020 The Moria refugee camp, two days after Greece's biggest migrant camp, was destroyed by fire. Thousands of asylum seekers on the island of Lesbos are now homeless AFP via Getty World news in pictures 9 September 2020 Pope Francis takes off his face mask as he arrives by car to hold a limited public audience at the San Damaso courtyard in The Vatican AFP via Getty World news in pictures 8 September 2020 A home is engulfed in flames during the "Creek Fire" in the Tollhouse area of California AFP via Getty World news in pictures 7 September 2020 A couple take photos along a sea wall of the waves brought by Typhoon Haishen in the eastern port city of Sokcho AFP via Getty World news in pictures 6 September 2020 Novak Djokovic and a tournament official tends to a linesperson who was struck with a ball by Djokovic during his match against Pablo Carreno Busta at the US Open USA Today Sports/Reuters World news in pictures 5 September 2020 Protesters confront police at the Shrine of Remembrance in Melbourne, Australia, during an anti-lockdown rally AFP via Getty World news in pictures 4 September 2020 A woman looks on from a rooftop as rescue workers dig through the rubble of a damaged building in Beirut. A search began for possible survivors after a scanner detected a pulse one month after the mega-blast at the adjacent port AFP via Getty World news in pictures 3 September 2020 A full moon next to the Virgen del Panecillo statue in Quito, Ecuador EPA World news in pictures 2 September 2020 A Palestinian woman reacts as Israeli forces demolish her animal shed near Hebron in the Israeli-occupied West Bank Reuters World news in pictures 1 September 2020 Students protest against presidential elections results in Minsk TUT.BY/AFP via Getty World news in pictures 31 August 2020 The pack rides during the 3rd stage of the Tour de France between Nice and Sisteron AFP via Getty World news in pictures 30 August 2020 Law enforcement officers block a street during a rally of opposition supporters protesting against presidential election results in Minsk, Belarus Reuters World news in pictures 29 August 2020 A woman holding a placard reading "Stop Censorship - Yes to the Freedom of Expression" shouts in a megaphone during a protest against the mandatory wearing of face masks in Paris. Masks, which were already compulsory on public transport, in enclosed public spaces, and outdoors in Paris in certain high-congestion areas around tourist sites, were made mandatory outdoors citywide on August 28 to fight the rising coronavirus infections AFP via Getty World news in pictures 28 August 2020 Japanese Prime Minister Shinzo Abe bows to the national flag at the start of a press conference at the prime minister official residence in Tokyo. Abe announced he will resign over health problems, in a bombshell development that kicks off a leadership contest in the world's third-largest economy AFP via Getty World news in pictures 27 August 2020 Residents take cover behind a tree trunk from rubber bullets fired by South African Police Service (SAPS) in Eldorado Park, near Johannesburg, during a protest by community members after a 16-year old boy was reported dead AFP via Getty World news in pictures 26 August 2020 People scatter rose petals on a statue of Mother Teresa marking her 110th birth anniversary in Ahmedabad AFP via Getty World news in pictures 25 August 2020 An aerial view shows beach-goers standing on salt formations in the Dead Sea near Ein Bokeq, Israel Reuters World news in pictures 24 August 2020 Health workers use a fingertip pulse oximeter and check the body temperature of a fisherwoman inside the Dharavi slum during a door-to-door Covid-19 coronavirus screening in Mumbai AFP via Getty World news in pictures 23 August 2020 People carry an idol of the Hindu god Ganesh, the deity of prosperity, to immerse it off the coast of the Arabian sea during the Ganesh Chaturthi festival in Mumbai, India Reuters World news in pictures 22 August 2020 Firefighters watch as flames from the LNU Lightning Complex fires approach a home in Napa County, California AP World news in pictures 21 August 2020 Members of the Israeli security forces arrest a Palestinian demonstrator during a rally to protest against Israel's plan to annex parts of the occupied West Bank AFP via Getty World news in pictures 20 August 2020 A man pushes his bicycle through a deserted road after prohibitory orders were imposed by district officials for a week to contain the spread of the Covid-19 in Kathmandu AFP via Getty World news in pictures 19 August 2020 A car burns while parked at a residence in Vacaville, California. Dozens of fires are burning out of control throughout Northern California as fire resources are spread thin AFP via Getty World news in pictures 18 August 2020 Students use their mobile phones as flashlights at an anti-government rally at Mahidol University in Nakhon Pathom. Thailand has seen near-daily protests in recent weeks by students demanding the resignation of Prime Minister Prayut Chan-O-Cha AFP via Getty World news in pictures 17 August 2020 Members of the Kayapo tribe block the BR163 highway during a protest outside Novo Progresso in Para state, Brazil. Indigenous protesters blocked a major transamazonian highway to protest against the lack of governmental support during the COVID-19 novel coronavirus pandemic and illegal deforestation in and around their territories AFP via Getty World news in pictures 16 August 2020 Lightning forks over the San Francisco-Oakland Bay Bridge as a storm passes over Oakland AP World news in pictures 15 August 2020 Belarus opposition supporters gather near the Pushkinskaya metro station where Alexander Taraikovsky, a 34-year-old protester died on August 10, during their protest rally in central Minsk AFP via Getty World news in pictures 14 August 2020 AlphaTauri's driver Daniil Kvyat takes part in the second practice session at the Circuit de Catalunya in Montmelo near Barcelona ahead of the Spanish F1 Grand Prix AFP via Getty World news in pictures 13 August 2020 Soldiers of the Brazilian Armed Forces during a disinfection of the Christ The Redeemer statue at the Corcovado mountain prior to the opening of the touristic attraction in Rio AFP via Getty World news in pictures 12 August 2020 Young elephant bulls tussle playfully on World Elephant Day at the Amboseli National Park in Kenya AFP via Getty
+
+The Judea and Samaria District police confirmed the details and said a mistake in translation was made, which led to the mistaken arrest, Israeli newspaper Haaretz reported.
+
+Officials were reportedly suspicious as the Facebook post contained a photo of a bulldozer, a vehicle used as a weapon in attacks in previous years, the publication said.. . 

@@ -1,0 +1,23 @@
+Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world. . Social media operatives apparently affiliated to India’s ruling Bharatiya Janata Party (BJP) use a specialized app to hijack Twitter trends, harass critics, and spread propaganda through defunct WhatsApp accounts, according to a new investigation by The Wire, an Indian publication.
+
+The app, called Tek Fog, allows users to bypass controls like email and text-message verification that companies like Twitter and Facebook build into their products. It can also act as a master control for a number of Twitter accounts, fake or otherwise, pushing hashtags, content and retweets through a single interface.
+
+Advertisement
+
+On WhatsApp, Tek Fog takes over people’s inactive accounts to then message their contacts. “App operators also use this feature to phish the personal information of targeted users to add to a…political database,” The Wire wrote. “The addition of private citizens into this database makes them available as potential targets in future harassment and trolling campaigns.”
+
+How the BJP’s supporters spread propaganda online
+
+The Wire’s main source, a disgruntled social media worker, was employed by a private tech company, Persistent Systems, and assigned to work with another client company, Mohalla Tech. Mohalla Tech owns ShareChat, a social media platform that operates in Indian languages and is funded in part by Twitter.
+
+The source also said that they were supervised directly by Devang Dave, the former social media head of the Bharatiya Janata Yuva Morcha (BJYM), the BJP’s youth wing. Although The Wire could not confirm this link or prove that the BJP directed the use of the app, its reporters conducted a forensic technical analysis and found that users from a BJYM domain accessed Tek Fog. Dave denied that his organization or its members used Tek Fog.
+
+The investigation is among the clearest pieces of evidence yet of the BJP’s orchestration of online propaganda and hate speech. The party’s “IT cell”—shorthand for hired social media flunkies—includes a vast number of real people manually pushing out content and hate speech.
+
+Advertisement
+
+But as Tek Fog shows, the BJP also benefits from more sophisticated techniques. And the fact that Persistent Systems has won at least one government contract raises the question of whether the Indian taxpayer is indirectly footing the bill for the BJP’s web campaigns.
+
+Tek Fog’s manipulation of Twitter includes, at the most basic level, the amplification of pro-BJP hashtags through artificially generated mentions and retweets. It also includes an “auto-reply” function that can target users by religion, age, gender, or profession.
+
+Between January and April 2021, when The Wire tracked 4.6 million replies received by 280 prominent women journalists, it found that 18% of these replies came from accounts managed by the Tek Fog app. Two separate language analysis tools, from IBM and Amazon, found that a majority of posts posted via Tek Fog to ShareChat could be classified as “hate speech.”

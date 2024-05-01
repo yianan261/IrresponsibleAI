@@ -1,0 +1,17 @@
+The result was that Kilby’s algorithm generated a large number of both false positive and false negative results, even when she set her parameters so strictly that someone had to score at or above the 99th percentile to be considered high risk. In that case, she found, only 11 percent of high scorers had actually been diagnosed with opioid use disorder—while 89 percent were incorrectly flagged.
+
+Loosening her criteria didn’t improve matters. Using the 95th percentile as a cutoff identified more true positives, but also increased false ones: This time less than 5 percent of positives were true positives. (In its own literature, Appriss mentions these two cutoffs as being clinically useful.)
+
+Kilby’s research also identified an even more fundamental problem. Algorithms like hers tend to flag people who’ve accumulated a long list of risk factors in the course of a lifetime—even if they’ve taken opioids for years with no reported problems. Conversely, if the algorithm has little data on someone, it’s likely to label them low risk. But that person may actually be at higher risk than the long-term chronic pain patients who now get dinged most often.
+
+“There is just no correlation whatsoever between the likelihood of being said to be high risk by the algorithm and the reduction in the probability of developing opioid use disorder,” Kilby explains. In other words, the algorithm essentially cannot do what it claims to do, which is determine whether writing or denying someone’s next prescription will alter their trajectory in terms of addiction. And this flaw, she says, affects all of the algorithms now known to be in use.
+
+In her paper “Dosing Discrimination,” about algorithms like NarxCare, Jennifer Oliva describes a number of cases similar to Kathryn’s and Schectman’s, in which people have been denied opioids due to sexual trauma histories and other potentially misleading factors. The paper culminates in an argument that FDA approval—which is currently not required for NarxCare—should be mandatory, especially given Appriss’ dominance of the market.
+
+The larger question, of course, is whether algorithms should be used to determine addiction risk at all. When I spoke with Elaine Nsoesie, a data science faculty fellow at Boston University with a PhD in computational epidemiology, she argued that improving public health requires understanding the causes of a problem—not using proxy measures that may or may not be associated with risk.
+
+“I would not be thinking about algorithms,” she says. “I would go out into the population to try to understand, why do we have these problems in the first place? Why do we have opioid overdose? Why do we have addictions? What are the factors that are contributing to these problems and how can we address them?”
+
+In contrast, throughout the overdose crisis, policymakers have focused relentlessly on reducing medical opioid use. And by that metric, they’ve been overwhelmingly successful: Prescribing has been more than halved. And yet 2020 saw the largest number of US overdose deaths—93,000—on record, a stunning 29 percent increase from the year before.
+
+Moreover, even among people with known addiction, there is little evidence that avoiding appropriate medical opioid use will, by itself, protect them. “I think undertreated pain in someone with a history of addiction is every bit, if not more, of a risk factor for relapse,” says Wakeman. She calls for better monitoring and support, not obligatory opioid denial.

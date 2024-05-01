@@ -1,0 +1,17 @@
+Wynants and Driggs still believe AI has the potential to help. But they are concerned that it could be harmful if built in the wrong way because they could miss diagnoses or underestimate risk for vulnerable patients. “There is a lot of hype about machine-learning models and what they can do today,” says Driggs.
+
+Unrealistic expectations encourage the use of these tools before they are ready. Wynants and Driggs both say that a few of the algorithms they looked at have already been used in hospitals, and some are being marketed by private developers. “I fear that they may have harmed patients,” says Wynants.
+
+So what went wrong? And how do we bridge that gap? If there’s an upside, it is that the pandemic has made it clear to many researchers that the way AI tools are built needs to change. “The pandemic has put problems in the spotlight that we’ve been dragging along for some time,” says Wynants.
+
+What went wrong
+
+Many of the problems that were uncovered are linked to the poor quality of the data that researchers used to develop their tools. Information about covid patients, including medical scans, was collected and shared in the middle of a global pandemic, often by the doctors struggling to treat those patients. Researchers wanted to help quickly, and these were the only public data sets available. But this meant that many tools were built using mislabeled data or data from unknown sources.
+
+Driggs highlights the problem of what he calls Frankenstein data sets, which are spliced together from multiple sources and can contain duplicates. This means that some tools end up being tested on the same data they were trained on, making them appear more accurate than they are.
+
+It also muddies the origin of certain data sets. This can mean that researchers miss important features that skew the training of their models. Many unwittingly used a data set that contained chest scans of children who did not have covid as their examples of what non-covid cases looked like. But as a result, the AIs learned to identify kids, not covid.
+
+Driggs’s group trained its own model using a data set that contained a mix of scans taken when patients were lying down and standing up. Because patients scanned while lying down were more likely to be seriously ill, the AI learned wrongly to predict serious covid risk from a person’s position.
+
+In yet other cases, some AIs were found to be picking up on the text font that certain hospitals used to label the scans. As a result, fonts from hospitals with more serious caseloads became predictors of covid risk.

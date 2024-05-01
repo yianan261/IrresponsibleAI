@@ -1,0 +1,41 @@
+1. How relevant is this ad to you?
+
+Video player was slow to load content Video content never loaded Ad froze or did not finish loading Video content did not start after ad Audio on ad was too loud Other issues. This robot crossed a line it shouldn’t have because humans told it to
+
+Video of a sidewalk delivery robot crossing yellow caution tape and rolling through a crime scene in Los Angeles went viral this week, amassing more than 650,000 views on Twitter and sparking debate about whether the technology is ready for prime time.
+
+It turns out the robot’s error, at least in this case, was caused by humans.
+
+The video of the event was taken and posted on Twitter by William Gude, the owner of Film the Police LA, an LA-based police watchdog account. Gude was in the area of a suspected school shooting at Hollywood High School at around 10 a.m. when he captured on video the bot as it hovered on the street corner, looking confused, until someone lifted the tape, allowing the bot to continue on its way through the crime scene.
+
+A food delivery robot forces it’s way across a police crime scene. pic.twitter.com/T5DaET5Q5b — Film The Police LA (@FilmThePoliceLA) September 13, 2022
+
+Uber spinout Serve Robotics told TechCrunch that the robot’s self-driving system didn’t decide to cross into the crime scene. It was the choice of a human operator who was remotely operating the bot.
+
+The company’s delivery robots have so-called Level 4 autonomy, which means they can drive themselves under certain conditions without needing a human to take over. Serve has been piloting its robots with Uber Eats in the area since May.
+
+Serve Robotics has a policy that requires a human operator to remotely monitor and assist its bot at every intersection. The human operator will also remotely take control if the bot encounters an obstacle such as a construction zone or a fallen tree and cannot figure out how navigate around it within 30 seconds.
+
+In this case, the bot, which had just finished a delivery, approached the intersection and a human operator took over, per the company’s internal operating policy. Initially, the human operator paused at the yellow caution tape. But when bystanders raised the tape and apparently “waved it through,” the human operator decided to proceed, Serve Robotics CEO Ali Kashani told TechCrunch.
+
+“The robot wouldn’t have ever crossed (on its own),” Kashani said. “Just there’s a lot of systems to ensure it would never cross until a human gives that go ahead.”
+
+The judgment error here is that someone decided to actually keep crossing, he added.
+
+Regardless of the reason, Kashani said that it should not have happened. Serve has pulled data from the incident and is working on a new set of protocols for the human and the AI to prevent this in the future, he added.
+
+A few obvious steps will be to ensure employees follow the standard operating procedure (or SOP), which includes proper training and developing new rules for what to do if an individual tries to wave the robot through a barricade.
+
+But Kashani said there are also ways to use software to help avoid this from happening again.
+
+Software can be used to help people make better decisions or to avoid an area altogether, he said. For instance, the company can work with local law enforcement to send up-to-date information to a robot about police incidents so it can route around those areas. Another option is to give the software the ability to identify law enforcement and then alert the human decision makers and remind them of the local laws.
+
+These lessons will be critical as the robots progress and expand their operational domains.
+
+“The funny thing is that the robot did the right thing; it stopped,” Kashani said. “So this really goes back to giving people enough context to make good decisions until we are confident enough that we don’t need people to make those decisions.”
+
+The Serve Robotics bots haven’t reached that point yet. However, Kashani told TechCrunch that the robots are becoming more independent and are typically operating on their own, with two exceptions: intersections and blockades of some kind.
+
+The scenario that unfolded this week runs contrary to how many people view AI, Kashani said.
+
+“I think the narrative in general is basically people are really great at edge cases and then AI makes mistakes, or is not ready perhaps for the real world,” Kashani said. “Funnily enough, we are learning kind of the opposite, which is, we find that people make a lot of mistakes, and we need to rely more on AI.”

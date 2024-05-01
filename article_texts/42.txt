@@ -1,1 +1,111 @@
-. 
+Copyright 1996 by the American Medical Association. All Rights Reserved. Applicable FARS/DFARS Restrictions Apply to Government Use. American Medical Association, 515 N. State St, Chicago, IL 60610.
+
+Volume 275(13), 3 April 1996, pp 1054-1056
+
+The National Residency Matching Program as a Labor Market
+
+[Pulse: Communication]
+
+Roth, Alvin E. PhD
+
+Mellon Professor of Economics, Department of Economics, University of Pittsburgh.
+
+Graphics Table 1
+
+Although medical students are unaccustomed to thinking of the National Resident Matching Program (NRMP) as a labor market, as an economist I am struck by its similarities to other entry-level professional labor markets. What makes the NRMP unusual, although far from unique, is that matching residents to hospitals is organized by a computer algorithm. What makes it familiar are the timing problems this market has experienced, which led to the NRMP's current organization.
+
+An examination of the residency market and other labor markets with timing problems that have employed matching algorithms shows that students and hospitals have a great deal of common interest in preserving an orderly market. [1] It also shows there is room for disagreement between them about what kind of matching algorithm should be employed. The study of the match that I have been asked by the NRMP to direct is intended to shed some light on this latter issue.
+
+Development of the Residency Market ^
+
+Internships, the predecessors of today's residency positions, were introduced in the United States around 1900. Hospitals competed for interns by setting their hire dates earlier than their competitors. Consequently, the date by which most internships were finalized began to creep forward from the end of the senior year of medical school. Dates of appointment unraveled from one year to the next, first slowly then faster, so that by 1944 medical students were arranging their postgraduate employment as interns 2 years in advance of graduation. This meant students had to apply for positions long before they were far enough along in their education to know either their tastes or talents. Hospitals had to hire future staff with little information about how they would develop in their remaining 2 years of medical school. As a result, there were reasons for dissatisfaction on all sides.
+
+In 1945 US medical schools embargoed letters of reference and moved the date of appointment to 1 year before employment was to begin. In subsequent years the dates at which letters were released and appointments made were moved back to the senior year. But the problems in this market did not end when the appointment date was controlled. Students were called on to make increasingly prompt decisions whether to accept offers. In 1945 offers were supposed to remain open for 10 days. Each subsequent year that interval shortened, until by 1949 a grace period of 12 hours was considered too long.
+
+Hospitals found that if an offer was rejected near the deadline, it was often too late for them to reach their next most preferred candidate before that student had accepted other offers. Even when there was a long deadline, much of the action was compressed into the last moments because a student who had been offered a position at, say, his or her third-choice hospital would be inclined to wait as long as possible before accepting, in the hope of eventually being offered a preferable position.
+
+The period before the deadline was frenzied, with students seeking to improve their positions by contacting the hospitals they preferred, and with hospitals sometimes pressuring students into early decisions in order to avoid having to contact students on their waiting lists after the deadline had expired. This congestion in the market, with its collateral missed opportunities and hasty agreements that occasionally were not honored, led in 1952 to the use of a matching algorithm, the National Intern Matching Program, the predecessor of the NRMP.
+
+Other Professional Markets ^
+
+Many markets and submarkets have experienced the unraveling of transaction dates that characterized the medical market before 1945. [2] The (Table 1) concentrates primarily on professional labor markets, but timing problems are not restricted to them; note that the list includes the market for postseason college football bowls. Even fraternities and sororities have experienced the unraveling of selection dates, leading to the term "rush." [3]
+
+Table 1. Examples of Markets With Timing Problems*
+
+In these markets considerable effort has been spent to halt and reverse the unraveling of transaction dates; the (Table 1) lists the organizations entrusted with this task for many of the markets. Some of these organizations, like the NRMP, were created solely to stabilize transaction dates. Many have considerable compulsory power, but often a solution to the timing problem has proved elusive. The difficulties encountered by these other markets may illuminate some pitfalls we need to keep in mind when thinking about changes in the NRMP.
+
+To describe the common phenomena found in a diverse set of markets, the (Table 1) loosely categorizes each market as being in one of four stages. Stage 1 markets are in the process of unraveling. Stage 2 markets have instituted regulations specifying the time before which offers cannot be made and sometimes how long offers must remain open. But Stage 2 markets are still decentralized, with employers contacting potential employees directly. Stage 3 markets have procedures that not only determine the timing of transactions, but also organize the transactions (eg, the order in which offers are made and at what point transactions are finalized).
+
+The NRMP is an example of the most common form of Stage 3 market, in which potential employers and employees first contact each other (via applications, interviews, etc) in a decentralized way, and then submit to a central clearinghouse rank orderings of applicants and positions, respectively. The clearinghouse uses these preference lists to produce a match according to some prespecified algorithm, and employers and employees are informed of the match. Stage 4 markets also use such centralized mechanisms but have begun to unravel prior to the centralized market, for reasons and in ways similar to Stage 1 unraveling.
+
+The Need for Stability ^
+
+The (Table 1) shows that we can find the same kinds of problems in the medical labor markets in some regions of the National Health Service in the United Kingdom. What makes these markets particularly informative is that, in the late 1960s and early 1970s, many of them instituted Stage 3 matching algorithms, some of which succeeded and some of which failed. All of those that failed (after which Stage 1 unraveling resumed) produced matches that were "unstable" in that there could be a student and a hospital program that would both prefer to be matched to each other rather than accept the matching produced by the algorithm. [4,5] Such students and hospitals undertook to make arrangements outside the match, so the algorithms failed to organize the market. In contrast, the NRMP as it was then, and the successful algorithms in the two largest British markets, produced "stable" matches (disregarding, for the moment, difficulties involving married couples), in which no such mutually unhappy students and hospitals existed. [1,4] In general, there is considerable evidence that to organize a market like the NRMP successfully, the matching algorithm must produce a stable matching. Since the failures and continued unraveling in these markets are costly to all concerned, stable matches are in everyone's best interest.
+
+But there can be more than one stable matching, and students and hospitals have room to disagree about which stable matching is the best for them. To get a quick idea of why this is so, consider a simple algorithm whose basic idea has been independently discovered in a number of markets (including the NRMP), but which was first mathematically understood in an abstract setting. [6]
+
+In one version of this algorithm, the one on which the current NRMP algorithm is largely based, hospitals make offers to their highest ranked students, who hold the best of the offers they have so far received and reject the rest. Hospitals that are rejected at any stage make additional offers to their next highest ranked students, until no more offers or rejections remain to be made. At this point each student is matched to the hospital (if any) whose offer he or she is holding. Ignoring for a moment some of the complexities of the actual residency market (such as the fact that married couples and students who match to second-year positions require two positions), the matching produced in this way is stable.
+
+However, a different stable matching in the simple market can be obtained by having the students make offers to the hospitals. To get an idea of why the hospital-offering algorithm is better for the hospitals and worse for the students than the student-offering algorithm, consider the special case in which the hospital-offering algorithm ends after the first round. Each hospital makes offers to different students on whose rank order lists they appear, and no student issues any rejections. In this special case, each hospital would get its first choice, while each student would get the hospital that ranked him or her first, although the hospital might not be the student's first choice.
+
+In the reverse situation, with students making offers, if no hospitals issued any rejections, then each student would get his or her first choice, and each hospital would get those students who ranked it first. Although a student may not do badly in the resulting match that results from the hospital-offering algorithm, the student might do better with the student-offering algorithm. Any matching in which he or she does worse cannot be stable. Typically, the algorithms will not end after one round of proposals, but in the market with no couples or other complexities there remains a systematic advantage to the side that makes the offers.
+
+The kind of mathematics used to analyze algorithms in this way is called game theory, and it addresses the issue of stability as well as strategy. For example, we can ask if it is possible to design a stable matching algorithm with the property that no students or hospitals can ever do better than to submit their full, true preferences on their Rank Order List. This turns out to be impossible (T. Sonmez, PhD, unpublished data, 1996), [7,8] although in a simple market without the complexities of the NRMP, the student-offering algorithm would have this property for the students. (A fairly comprehensive account of the mathematics is given in Two-Sided Matching: A Study in Game-Theoretic Modeling and Analysis. [9])
+
+In a match such as the modern NRMP, which has some significant complexities, the story is not so simple. There may not exist any stable matching that is systematically best for all hospitals, or for all students, and no procedure for producing stable matches is guaranteed to remove all strategic considerations from either side of the market. However, there is good reason to believe that the properties found in simpler markets should carry over to the NRMP, at least to a large extent most of the time. The study of the NRMP that is presently under way will allow us to make this last statement more precise.
+
+The Current Debate ^
+
+Much of the recent debate [10-14] about what kind of matching algorithm the NRMP should employ has been phrased in terms of the theoretical results for the relatively simpler model of the NRMP market in the early 1980s. [1] We will need computational experiments, based on the data from recent matches, to tell us how large are the relative advantages given to hospitals or to students by algorithms in which one side or the other makes offers. The process will also tell us how often a student or hospital can do better by not stating true preferences, how much better the student can do, and at how much risk. These are the questions that will be the initial focus of the study now beginning. (The study proposal [15] and background material is available on the World Wide Web at http://www.pitt.edu/h/ nrmp.html, and comments are welcome.)
+
+A more difficult set of questions will arise in any attempt to assess the extent to which the danger of renewed unraveling of the market may exist, either under the current NRMP algorithm or under a student-offering version, as the medical residency market shifts in response to changes in health care financing. Ongoing monitoring of the health of the market would be a sensible precaution, whether or not any change in the algorithm is made.
+
+Finally, it is important to note that in markets, confidence is a tangible but fragile entity. Just as loss of confidence in paper money causes hyperinflation and loss of confidence in financial institutions causes bank runs, loss of confidence in a matching market like the NRMP can contribute to the unraveling of the market into a disorder that serves no one well. But confidence in a market is confidence in the behavior of others--in their willingness to accept paper money, to leave their deposits in safekeeping, and to participate in the match in an orderly way.
+
+Once the technical results of the present study are available to inform the policy debate on how the NRMP should be organized, it will be the responsibility of all parties to conduct the debate in a way that does not unreasonably impair students' or hospitals' confidence in the market. Whatever the outcome of the policy debate, it is in everyone's best interest to preserve the NRMP, a system that has so long and so successfully created order out of the disorder and inefficiency that often afflict professional labor markets.
+
+Studying the Match ^
+
+Recently, the algorithm used by the National Residency Matching Program (NRMP) to assign medical school graduates to residency positions has been the subject of heated discussion. In June 1995, Academic Medicine published a series of articles discussing a hospital-favoring bias in the algorithm set by the NRMP. (See references 10 through 13 in adjoining piece.) These articles, in addition to campaigns by medical student groups and others, successfully brought the debate to widespread attention. In response, the NRMP decided in the fall of 1995 to conduct a study of the current match algorithm and hired an independent consultant, Alvin E. Roth, PhD, professor of economics at the University of Pittsburgh. The proposed study will consist of three phases.
+
+Phase I, already in progress, is an analysis of the current NRMP algorithm, in which hospitals make offers to residency applicants. This will be compared with the use of a student-proposing algorithm, in which students make offers to hospitals. A series of computational analyses will be conducted to compare differences, if any, between the outcomes of the two algorithms. The analysis of the student-proposing algorithm will involve applying it to matches of past years, using the actual rank order lists of these previously completed transactions.
+
+Phase II will consist of a behavioral analysis of the market. This will involve assessing, through the use of surveys and interviews, the behavior and perceptions of both residency applicants and residency program directors as they formulate their rank order lists. Further, the study proposes to model how a change in strategic behavior would influence match results if the match algorithm were changed. Phase III proposes to assess the effects of changes in market conditions such as work-force supply and demand on the match.
+
+The NRMP board of directors has approved Phase I of the study and will evaluate the results before deciding to progress to Phases II and/or III. The results of Phase I are expected to be analyzed in the fall of 1996.--Robert A. Berger, AMA-MSS Representative to the NRMP, University of Arizona College of Medicine
+
+1. Roth AE. The evolution of the labor market for medical interns and residents: a case study in game theory. J Polit Econ. 1984;92:991-1016. [Context Link]
+
+2. Roth AE, Xing X. Jumping the gun: imperfections and institutions related to the timing of market transactions. Am Econ Rev. 1994;84:992-1044. [Context Link]
+
+3. Mongell SJ, Roth AE. Sorority rush as a two-sided matching mechanism. Am Econ Rev. 1991;81:441-464. [Context Link]
+
+4. Roth AE. A natural experiment in the organization of entry-level labor markets: regional markets for new physicians in the U.K. Am Econ Rev. 1991;81:415-440. [Context Link]
+
+5. Roth AE. New physicians: a natural experiment in market organization. Science. 1990;250:1524-1528. [Context Link]
+
+6. Gale D, Shapley S. College admissions and the stability of marriage. Am Math Monthly. 1962;69:9-15. [Context Link]
+
+7. Roth AE. The economics of matching: stability and incentives. Math Operations Res. 1982;7:617-628. [Context Link]
+
+8. Roth AE. The college admissions problem is not equivalent to the marriage problem. J Econ Theor. 1985;36:277-288. [Context Link]
+
+9. Roth AE, Sotomayor M. Two-Sided Matching: A Study in Game-Theoretic Modeling and Analysis. New York, NY: Cambridge University Press; 1990. [Context Link]
+
+10. Williams KJ. A reexamination of the NRMP matching algorithm. Acad Med. 1995;70:470-476. [Context Link]
+
+11. Peranson E, Randlett RR. Comments on Williams' 'A reexamination of the NRMP matching algorithm.' Acad Med. 1995;70:490-494. [Context Link]
+
+12. Peranson E, Randlett RR. The NRMP matching algorithm revisited: theory versus practice. Acad Med. 1995;70:477-484. [Context Link]
+
+13. Williams KJ. Comments on Peranson and Randlett's 'The NRMP matching algorithm revisited: theory versus practice.' Acad Med. 1995;70:485-489. [Context Link]
+
+14. American Medical Students Association and Public Citizen Health Research Group. Report on hospital bias in the NRMP. 1995; http://pubweb.acns. nwu.edu/alan/nrmp2.htnlk (accessed 1/6/96). [Context Link]
+
+15. Roth AE. Proposed research program: evaluation of changes to be considered in the NRMP algorithm. Consultant's report, 1995; http://www.pitt.edu/ alroth/nrmp.html. [Context Link]
+
+Algorithms; Employment; Hospitals; Internship and Residency; Job Application; Students, Medical. Have a question about this project? Sign up for a free GitHub account to open an issue and contact its maintainers and the community.
+
+By clicking “Sign up for GitHub”, you agree to our terms of service and privacy statement. We’ll occasionally send you account related emails.
+
+Already on GitHub? Sign in to your account

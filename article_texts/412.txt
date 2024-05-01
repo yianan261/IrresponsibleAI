@@ -1,0 +1,105 @@
+The National Bureau of Investigation (NBI) has discovered within its activities a possible information security incident involving personal data and has made a report on the incident to the National Police Board. The alleged incident took place during the processing of personal data in a service for which information security or compliance with data protection legislation may not have been ensured in advance in a sufficient manner.
+
+The incident was discovered by the NBI on Thursday 8 April. On the basis of initial information from the NBI, the National Police Board decided to report the matter to the Office of the Data Protection Ombudsman and submitted the report on Friday 9 April.
+
+The information security incident is related to the testing of facial recognition technology carried out in early 2020 by the NBI's unit responsible for combating the sexual exploitation of children. The duties of this unit include pre-screening child sexual abuse material received from international stakeholders.
+
+The police have a legal right to process biometric facial images under the conditions set out by law if the processing is necessary to perform a statutory police duty.
+
+– The unit tested a US service called Clearview AI for the identification of possible victims of sexual abuse to control the increased workload of the unit by means of artificial intelligence and automation. The identification of the victims depicted in the images and videos examined by the unit is crucial to safeguarding the victims' rights, and to interrupting any crime in progress or detecting an offence already committed, says Head of Cybercrime Centre, Senior Detective Superintendent Mikko Rauhamaa of the NBI.
+
+During the trial period, the unit made around 120 searches in the software, which makes use of pictures of persons on social media. The pictures entered into this software had been edited by the unit to only depict the face of those who needed to be identified. There was one 'hit' during the trial period, and it led to cooperation with social authorities. No criminal investigation has been started or other actual police action taken as a result of the hit.
+
+After using the software for the duration of the trial period, it was concluded that Clearview AI was not suitable in Finland for that particular cooperation between authorities.
+
+– One of the statutory duties of the NBI is to further develop methods of combating crime. The unit concerned was exploring tools for reducing the workload and enhancing the effectiveness of police processes to enable immediate intervention in any exploitation in progress. In this particular case, the software was not suitable for the police, Mikko Rauhamaa says.
+
+The NBI continues to investigate the matter.. Law enforcement agencies and government organizations from 24 countries outside the United States used a controversial facial recognition technology called Clearview AI, according to internal company data reviewed by BuzzFeed News.
+
+That data, which runs up until February 2020, shows that police departments, prosecutors’ offices, universities, and interior ministries from around the world ran nearly 14,000 searches with Clearview AI’s software. At many law enforcement agencies from Canada to Finland, officers used the software without their higher-ups’ knowledge or permission. After receiving questions from BuzzFeed News, some organizations admitted that the technology had been used without leadership oversight.
+
+In March, a BuzzFeed News investigation based on Clearview AI’s own internal data showed how the New York–based startup distributed its facial recognition tool, by marketing free trials for its mobile app or desktop software, to thousands of officers and employees at more than 1,800 US taxpayer-funded entities. Clearview claims its software is more accurate than other facial recognition technologies because it is trained on a database of more than 3 billion images scraped from websites and social media platforms, including Facebook, Instagram, LinkedIn, and Twitter.
+
+Law enforcement officers using Clearview can take a photo of a suspect or person of interest, run it through the software, and receive possible matches for that individual within seconds. Clearview has claimed that its app is 100% accurate in documents provided to law enforcement officials, but BuzzFeed News has seen the software misidentify people, highlighting a larger concern with facial recognition technologies.
+
+Based on new reporting and data reviewed by BuzzFeed News, Clearview AI took its controversial US marketing playbook around the world, offering free trials to employees at law enforcement agencies in countries including Australia, Brazil, and the United Kingdom.
+
+To accompany this story, BuzzFeed News has created a searchable table of 88 international government-affiliated and taxpayer-funded agencies and organizations listed in Clearview’s data as having employees who used or tested the company’s facial recognition service before February 2020, according to Clearview’s data.
+
+Some of those entities were in countries where the use of Clearview has since been deemed “unlawful.” Following an investigation, Canada’s data privacy commissioner ruled in February 2021 that Clearview had “violated federal and provincial privacy laws”; it recommended the company stop offering its services to Canadian clients, stop collecting images of Canadians, and delete all previously collected images and biometrics of people in the country.
+
+In the European Union, authorities are assessing whether the use of Clearview violated the General Data Protection Regulation (GDPR), a set of broad online privacy laws that requires companies processing personal data to obtain people’s informed consent. The Dutch Data Protection Authority told BuzzFeed News that it’s “unlikely” that police agencies’ use of Clearview was lawful, while France’s National Commission for Informatics and Freedoms said that it has received “several complaints” about Clearview that are “currently being investigated.” One regulator in Hamburg has already deemed the company’s practices illegal under the GDPR and asked it to delete information on a German citizen.
+
+Despite Clearview being used in at least two dozen other countries, CEO Hoan Ton-That insists the company’s key market is the US.
+
+“While there has been tremendous demand for our service from around the world, Clearview AI is primarily focused on providing our service to law enforcement and government agencies in the United States,” he said in a statement to BuzzFeed News. “Other countries have expressed a dire need for our technology because they know it can help investigate crimes, such as, money laundering, financial fraud, romance scams, human trafficking, and crimes against children, which know no borders.”
+
+In the same statement, Ton-That alleged there are “inaccuracies contained in BuzzFeed’s assertions.” He declined to explain what those might be and did not answer a detailed list of questions based on reporting for this story.. Information from US news agency Buzzfeed revealed that Finland's National Bureau of Investigation used the facial recognition app about 120 times.
+
+The National Bureau of Investigation says it stopped using the Clearview AI software after an initial trial period.
+
+Officers at Finland's National Bureau of Investigation (NBI) have used the controversial facial recognition app Clearview AI, even though its use was not widely known within the organisation, according to documents seen by Yle.
+
+The matter was first brought to the attention of the NBI by the US-based digital news company Buzzfeed.
+
+Clearview AI allows a user to upload a photo of a person and see their public photos, for example from social media platforms, as well as providing links to the websites where the photos were found. Police forces in a number of different countries have started to use the app in recent years, and the usage has also sparked debate about privacy issues and the potential for misuse of the software.
+
+In the United States both the New York Times and Buzzfeed, among other outlets, have written about the topic.
+
+Buzzfeed approached the NBI in March this year to enquire if Finnish authorities had used the controversial app. The NBI replied a day later to, incorrectly, inform the media outlet that Clearview AI had not been used in Finland.
+
+About a week later, Buzzfeed told the NBI that, according to their information, the Finnish police had used the software about 120 times. The Police Board and the NBI immediately launched an investigation and found that Buzzfeed's information turned out to be correct.
+
+"Not suitable for police use"
+
+The NBI informed the Data Protection Ombudsman of Clearview AI and said it would stop using the app. According to the Finnish police, the app "was not suitable for police use."
+
+In a statement to the Data Protection office, police revealed that the application was first presented to Finnish authorities at an event hosted by the EU's law enforcement agency Europol in 2019, and it was recommended for use in the investigation of cases of sexual exploitation.
+
+"The presentation also gave participants the impression that the system does not store searches and would therefore be suitable for this use," the statement added.
+
+For example, images of the victims of sexual exploitation could be entered into the app and attempts could be made to identify and protect them.
+
+The NBI's Child Sexual Exploitation Unit began using the app in 2020, and approximately 120 searches were made during the free trial period.
+
+During the trial, one so-called 'hit' arose, which led to cooperation between the NBI and social authorities, although no pre-trial investigation was launched.
+
+Authorities are not currently aware of consequences for individuals whose information has been processed using the Clearview AI app, such as data leaks or other abuse, but the matter is still being clarified by the NBI.
+
+Finnish police also use their own face recognition system, called KASTU. This system can be used to identify people suspected of a crime from the police's register and, according to the NBI, KASTU is still in use and meets the necessary data protection and data security requirements.. Background information
+
+Date of final decision: 20 September 2021
+
+Cross-border case or national case: National case
+
+Controller: National Police Board
+
+Legal Reference: Art. 14 in the Act on the Processing of Personal Data in Criminal Matters and in Connection with Maintaining National Security
+
+Decision: Reprimand
+
+Key words: Personal data breach
+
+Summary of the Decision
+
+Origin of the case
+
+The Deputy Data Protection Ombudsman has issued a statutory reprimand to the National Police Board for illegal processing of special categories of personal data during a facial recognition technology trial.
+
+The National Police Board notified the Office of the Data Protection Ombudsman in April 2021 of a personal data breach involving the trial use of facial recognition software by the National Bureau of Investigation in early 2020. The National Bureau of Investigation unit specialising in the prevention of child sexual abuse had experimented with facial recognition technology in identifying potential victims.
+
+The decision to try the software had been made independently by the police unit, and the processing of personal data had been performed without the approval of the controller, i.e. the National Police Board. The National Police Board had been informed of the use of the Clearview AI service by Buzzfeed News.
+
+Key Findings
+
+The controller’s responsibility was not fulfilled in these operations, and the measures taken by the controller had not prevented the unlawful processing of personal data. It would have been the duty of the National Police Board to ensure that police personnel are familiar with regulations and the required procedures.
+
+Neither had the police taken into consideration the requirements for processing special categories of personal data. Furthermore, the processing had been begun without obtaining information on how the service being used processed personal data. For example, the police had not determined in advance how long the data would be stored or whether it could be disclosed to third parties.
+
+Decision
+
+In addition to the reprimand, the Deputy Data Protection Ombudsman ordered the National Police Board to notify the data subjects of the personal data breach insofar as their identity could be determined. The National Police Board must also request that Clearview AI erase the data transmitted by the police from its storage platforms.
+
+For further information: Police reprimanded for illegal processing of personal data with facial recognition software (tietosuoja.fi)
+
+The news published here does not constitute official EDPB communication, nor an EDPB endorsement. This news item was originally published by the national supervisory authority and was published here at the request of the SA for information purposes. Any questions regarding this news item should be directed to the supervisory authority concerned

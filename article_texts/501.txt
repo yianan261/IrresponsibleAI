@@ -1,0 +1,171 @@
+Denied by AI: How Medicare Advantage plans use algorithms to cut off care for seniors in need
+
+An algorithm, not a doctor, predicted a rapid recovery for Frances Walter, an 85-year-old Wisconsin woman with a shattered left shoulder and an allergy to pain medicine. In 16.6 days, it estimated, she would be ready to leave her nursing home.
+
+On the 17th day, her Medicare Advantage insurer, Security Health Plan, followed the algorithm and cut off payment for her care, concluding she was ready to return to the apartment where she lived alone. Meanwhile, medical notes in June 2019 showed Walter’s pain was maxing out the scales and that she could not dress herself, go to the bathroom, or even push a walker without help.
+
+advertisement
+
+It would take more than a year for a federal judge to conclude the insurer’s decision was “at best, speculative” and that Walter was owed thousands of dollars for more than three weeks of treatment. While she fought the denial, she had to spend down her life savings and enroll in Medicaid just to progress to the point of putting on her shoes, her arm still in a sling.
+
+Health insurance companies have rejected medical claims for as long as they’ve been around. But a STAT investigation found artificial intelligence is now driving their denials to new heights in Medicare Advantage, the taxpayer-funded alternative to traditional Medicare that covers more than 31 million people.
+
+Behind the scenes, insurers are using unregulated predictive algorithms, under the guise of scientific rigor, to pinpoint the precise moment when they can plausibly cut off payment for an older patient’s treatment. The denials that follow are setting off heated disputes between doctors and insurers, often delaying treatment of seriously ill patients who are neither aware of the algorithms, nor able to question their calculations.
+
+Older people who spent their lives paying into Medicare, and are now facing amputation, fast-spreading cancers, and other devastating diagnoses, are left to either pay for their care themselves or get by without it. If they disagree, they can file an appeal, and spend months trying to recover their costs, even if they don’t recover from their illnesses.
+
+advertisement
+
+“We take patients who are going to die of their diseases within a three-month period of time, and we force them into a denial and appeals process that lasts up to 2.5 years,” Chris Comfort, chief operating officer of Calvary Hospital, a palliative and hospice facility in the Bronx, N.Y., said of Medicare Advantage. “So what happens is the appeal outlasts the beneficiary.”
+
+The algorithms sit at the beginning of the process, promising to deliver personalized care and better outcomes. But patient advocates said in many cases they do the exact opposite — spitting out recommendations that fail to adjust for a patient’s individual circumstances and conflict with basic rules on what Medicare plans must cover.
+
+“While the firms say [the algorithm] is suggestive, it ends up being a hard-and-fast rule that the plan or the care management firms really try to follow,” said David Lipschutz, associate director of the Center for Medicare Advocacy, a nonprofit group that has reviewed such denials for more than two years in its work with Medicare patients. “There’s no deviation from it, no accounting for changes in condition, no accounting for situations in which a person could use more care.”
+
+Medicare Advantage has become highly profitable for insurers as more patients over 65 and people with disabilities flock to plans that offer lower premiums and prescription drug coverage, but give insurers more latitude to deny and restrict services.
+
+Over the last decade, a new industry has formed around these plans to predict how many hours of therapy patients will need, which types of doctors they might see, and exactly when they will be able to leave a hospital or nursing home. The predictions have become so integral to Medicare Advantage that insurers themselves have started acquiring the makers of the most widely used tools. Elevance, Cigna, and CVS Health, which owns insurance giant Aetna, have all purchased these capabilities in recent years. One of the biggest and most controversial companies behind these models, NaviHealth, is now owned by UnitedHealth Group.
+
+A federal judge found that Frances Walter, who was allergic to opioids and other common pain relievers, reported severe pain for several weeks after an algorithm predicted she was ready to return home.
+
+It was NaviHealth’s algorithm that suggested Walter could be discharged after a short stay. Its predictions about her recovery were referenced repeatedly in NaviHealth’s assessments of whether she met coverage requirements. Two days before her payment denial was issued, a medical director from NaviHealth again cited the algorithm’s estimated length of stay prediction — 16.6 days — in asserting that Walter no longer met Medicare’s coverage criteria because she had sufficiently recovered, according to records obtained by STAT.
+
+Her insurer, Security Health Plan, which had contracted with NaviHealth to manage nursing home care, declined to respond to STAT’s questions about its handling of Walter’s case, saying that doing so would violate the health privacy law known as HIPAA.
+
+Walter died shortly before Christmas last year.
+
+NaviHealth did not respond directly to STAT’s questions about the use of its algorithm. But a spokesperson for the company said in a statement that its coverage decisions are based on Medicare criteria and the patient’s insurance plan. “The NaviHealth predict tool is not used to make coverage determinations,” the statement said. “The tool is used as a guide to help us inform providers, families and other caregivers about what sort of assistance and care the patient may need both in the facility and after returning home.”
+
+A NaviHealth medical reviewer’s notes cited the algorithm’s estimated length of stay (ELOS) prediction in finding that Walter had sufficiently recovered and no longer met Medicare coverage requirements.
+
+As the influence of these predictive tools has spread, a recent examination by federal inspectors of denials made in 2019 found that private insurers repeatedly strayed beyond Medicare’s detailed set of rules. Instead, they were using internally developed criteria to delay or deny care.
+
+But the precise role the algorithms play in these decisions has remained opaque.
+
+STAT’s investigation revealed these tools are becoming increasingly influential in decisions about patient care and coverage. The investigation is based on a review of hundreds of pages of federal records, court filings, and confidential corporate documents, as well as interviews with physicians, insurance executives, policy experts, lawyers, patient advocates, and family members of Medicare Advantage beneficiaries.
+
+It found that, for all of AI’s power to crunch data, insurers with huge financial interests are leveraging it to help make life-altering decisions with little independent oversight. AI models used by physicians to detect diseases such as cancer, or suggest the most effective treatment, are evaluated by the Food and Drug Administration. But tools used by insurers in deciding whether those treatments should be paid for are not subjected to the same scrutiny, even though they also influence the care of the nation’s sickest patients.
+
+In interviews, doctors, medical directors, and hospital administrators described increasingly frequent Medicare Advantage payment denials for care routinely covered in traditional Medicare. UnitedHealthcare and other insurers said they offer to discuss a patient’s care with providers before a denial is made. But many providers said their attempts to get explanations are met with blank stares and refusals to share more information. The black box of the AI has become a blanket excuse for denials.
+
+“They say, ‘That’s proprietary,’” said Amanda Ford, who facilitates access to rehabilitation services for patients following inpatient stays at Lowell General Hospital in Massachusetts. “It’s always that canned response: ‘The patient can be managed in a lower level of care.’”
+
+Brian Moore, a physician and advocate for patients denied access to care at North Carolina-based Atrium Health, recalled visiting a stroke patient who was blocked from moving to a rehabilitation hospital for 10 days. “He was sitting there trying to feed himself. He was like, ‘I just never thought when I signed up for Medicare Advantage that I wouldn’t be able to get the care I need,’” he said. “He was drooling and crying.”
+
+The cost of caring for older patients recovering from serious illnesses and injuries, known as post-acute care, has long created friction between insurers and providers. For decades, facilities like nursing homes racked up hefty profit margins by keeping patients as long as possible — sometimes billing Medicare for care that wasn’t necessary or even delivered. Many experts argue those patients are often better served at home.
+
+The enactment of the Affordable Care Act in 2010 created an opportunity for reform. Instead of paying for care after the fact, policy experts proposed flipping the payment paradigm on its head: Providers would be paid a lump sum upfront, incentivizing them to use fewer resources to deliver better outcomes.
+
+At the time, most Republicans in Congress were wringing their hands over the new law and its subsidies to help low- and middle-income Americans pay for health insurance. Tom Scully, the former head of the Centers for Medicare and Medicaid Services under George W. Bush, shared those concerns. But he also saw something else: a potential billion-dollar business.
+
+NaviHealth’s algorithmic report produced on Walter predicted she would be discharged on June 20. Her insurer cut off payment on that day, even though medical notes reported she was still maxing out the pain scale and couldn’t get dressed or push her walker without help.
+
+Scully drew up plans for NaviHealth just as the new law was taking effect. Its payment reforms aligned perfectly with the Medicare Advantage program he had played a pivotal role in creating during the Bush administration.
+
+Scully knew how those insurance plans worked. He also knew they were taking a financial beating in post-acute care.
+
+“Look, I love the nursing home guys, but there were a lot of patients coming out of hospitals spending 20 days in a nursing home in MA,” because that’s what Medicare’s rules allowed, Scully said on a podcast in 2020. “It was just like Pavlov’s bell.”
+
+As a well-connected partner at the private equity firm Welsh, Carson, Anderson & Stowe, Scully heard of a small shop called SeniorMetrix that was working on this type of post-acute data and analytics. The firm quickly won him over. “They had an algorithm,” Scully said on the podcast. “I saw it and said, ‘This is it.’”
+
+He wrote a $6 million check to buy the company, which he rebranded to NaviHealth. Scully then raised $25 million from wealthy friends and companies, including the health system Ascension and the rehabilitation hospital chain Select Medical, and coaxed another $25 million from Welsh Carson.
+
+NaviHealth started making its sales pitch to Medicare Advantage plans: Let us manage every piece of your members’ care for the first 60 to 90 days after they are discharged from the hospital, and we’ll all share in any savings.
+
+The sweetener was the technology. One of the company’s core products is an algorithm called nH Predict. It uses details such as a person’s diagnosis, age, living situation, and physical function to find similar individuals in a database of 6 million patients it compiled over years of working with providers. It then generates an assessment of the patient’s mobility and cognitive capacity, along with a down-to-the-minute prediction of their medical needs, estimated length of stay, and target discharge date.
+
+In a six-page report, the algorithm boils down patients, and their unknowable journey through health care, into a tidy series of numbers and graphs.
+
+The product was a revelation to insurers, giving them a way to mathematically track patients’ progress and hold providers accountable for meeting therapy goals. By summer 2015, NaviHealth was managing post-acute care for more than 2 million people whose insurance plans had contracted with the company. It was also working with 75 hospitals and clinics seeking to more carefully manage contracts in which they shared financial responsibility for holding down costs. At the time, spending on post-acute care accounted for $200 billion annually.
+
+That same year, Scully sold NaviHealth to the conglomerate Cardinal Health for $410 million — roughly eight times the investment. In 2018, another private equity firm, Clayton, Dubilier & Rice, upped the ante and paid $1.3 billion to take over NaviHealth. Then in 2020, UnitedHealth — the largest Medicare Advantage insurer in the country — decided to make the hot commodity its own, buying NaviHealth in a deal valued at $2.5 billion.
+
+In an interview with STAT, Scully said the concept behind NaviHealth is “totally correct,” because it roots out wasteful spending. And he did not believe the algorithms restricted necessary care. But when presented with reporting that showed NaviHealth was at the center of voluminous denials and overturned appeals, Scully said he wasn’t in a position to comment on what may have changed since he sold his stake.
+
+“The NaviHealth decision tool as I knew it — again, this is eight years ago — has a place and is valuable. If [it] overdoes it and is inappropriately denying care and sending people to the wrong site of service, then they’re foolish, and they’re only hurting themselves reputationally,” Scully said. “I have no idea what United’s doing.”
+
+Providers told STAT that as NaviHealth was changing hands and enriching its investors, they started noticing an increase in denials under its contracts — that the pendulum had now swung too far in the other direction in an effort to prevent overbilling and make sure patients weren’t getting unnecessary services.
+
+Patients with stroke complications whose symptoms were so severe they needed care from multiple specialists were getting blocked from stays in rehabilitation hospitals. Amputees were denied access to care meant to help them recover from surgeries and learn to live without their limbs. And efforts to reverse what seemed to be bad decisions were going nowhere. Atrium Health’s Moore, who leads a team that specializes in reviewing medical necessity criteria, started taking a deeper look at the denials.
+
+“It was eye-opening,” he said. “The variation in medical determinations, the misapplication of Medicare coverage criteria — it just didn’t feel like there [were] very good quality controls.”
+
+He and many other providers began pushing back. Between 2020 and 2022, the number of appeals filed to contest Medicare Advantage denials shot up 58%, with nearly 150,000 requests to review a denial filed in 2022, according to a federal database.
+
+The database fails to capture countless patients who are unable to push back when insurers deny access to services, and only reflects a portion of the appeals even filed. It mostly tracks disputes over prior authorization, a process in which providers must seek insurers’ advance approval of the services they recommend for patients.
+
+In comments to federal regulators and interviews with STAT, many providers described rigid criteria applied by NaviHealth, which exercises prior authorization on behalf of the nation’s largest Medicare Advantage insurers, including its sister company UnitedHealthcare as well as Humana and several Blue Cross Blue Shield plans.
+
+“NaviHealth will not approve [skilled nursing] if you ambulate at least 50 feet. Nevermind that you may live alon(e) or have poor balance,” wrote Christina Zitting, a case management director for a community hospital in San Angelo, Texas. She added: “MA plans are a disgrace to the Medicare program, and I encourage anyone signing up…to avoid these plans because they do NOT have the patients best interest in mind. They are here to make a profit. Period.”
+
+Federal records show most denials for skilled nursing care are eventually overturned, either by the plan itself or an independent body that adjudicates Medicare appeals.
+
+But even patients who win authorization for nursing home care must reckon with algorithms that insurers and care managers like NaviHealth use to help decide how long they are entitled to stay. Under traditional Medicare, patients who have a three-day hospital stay are typically entitled to up to 100 days in a nursing home.
+
+With the use of the algorithms, however, Medicare Advantage insurers are cutting off payment in a fraction of that time.
+
+“It happens in almost all these cases,” said Christine Huberty, a lawyer in Wisconsin who provides free legal assistance to Medicare beneficiaries. She said Medicare Advantage patients she represents rarely stay in a nursing home more than 14 days before they start receiving payment denials.
+
+“But [the algorithm’s report] is never communicated with clients,” said Huberty, who often only finds the report after filing a legal complaint. “That’s all run secretly.” NaviHealth said the findings of the algorithm, if not the report itself, are routinely shared with doctors and patients to help guide care.
+
+A director at one post-acute facility said denials from UnitedHealthcare and NaviHealth are now the norm for many of their patients, even if they are clearly sicker than what the algorithm projects.
+
+“They are looking at our patients in terms of their statistics. They’re not looking at the patients that we see.” Medical director of a post-acute care facility
+
+“They are looking at our patients in terms of their statistics. They’re not looking at the patients that we see,” said the director, who asked not to be named to avoid jeopardizing relationships with Medicare Advantage plans.
+
+And when insurers deluge providers with denials, “they’re hoping that their endurance is greater than ours,” the director said.
+
+NaviHealth has not published any scientific studies assessing the real-world performance of its nH Predict algorithm. And to the extent it tests its performance internally, those results are not shared publicly.
+
+Additionally, regulators do not monitor these algorithms for fairness or accuracy, but the industry-wide blowback has forced the government to consider acting. Federal Medicare officials proposed new rules in December that say Medicare Advantage insurers can’t deny coverage “based on internal, proprietary, or external clinical criteria not found in traditional Medicare coverage policies.” Insurers also would have to create a “utilization management committee” that reviews their practices every year.
+
+But even these proposals would still allow insurance companies to “create internal coverage criteria,” as long as they are “based on current evidence in widely used treatment guidelines or clinical literature that is made publicly available.”
+
+Major lobbying groups for health insurance companies — America’s Health Insurance Plans, the Better Medicare Alliance, and the Alliance of Community Health Plans — did not make anyone available for interviews. Instead, the groups referred to comments they sent to Medicare supporting some, but not all, of these government proposals. AHIP, for example, urged Medicare “to not adopt policies that would place limits on plan flexibility to manage post-acute care.” Final regulations are due this spring.
+
+A federal judge ordered that Dolores Millam’s care be covered in full after finding that she was still a “safety risk” when UnitedHealthcare cut off payment for her care. The insurer had terminated payment just days after an algorithm concluded she would be ready to leave her nursing home.
+
+If concerns about the algorithms have begun to surface in legal filings and public letters to Medicare, they remain almost entirely out of sight for patients like Dolores Millam, who fell and broke her leg on a summer day in 2020.
+
+After surgery, she began her stay in a Wisconsin nursing home on Aug. 3. Like many older patients, Millam arrived with a complicated medical history, including coronary artery disease, diabetes, high blood pressure, and chronic pain, according to court records. Her doctor had ordered that she stay off her leg for at least six weeks.
+
+Nevertheless, an algorithm used by her insurer, UnitedHealthcare, predicted she would only need to stay for 15 days, until about Aug. 18, according to records obtained by STAT.
+
+Just a couple days after that date, Millam received notice that payment for her care had been terminated. It was 4 p.m. on a Friday.
+
+“I must have made — I’m not kidding — 100 phone calls just to figure out where she could go [and] why this was happening,” said Millam’s daughter, Holly Hennessy, who also received the notice.
+
+Dolores Millam, 89, of Wisconsin was denied coverage of a nursing home stay after a leg fracture. Courtesy Holly Hennessy
+
+She said she couldn’t fathom UnitedHealthcare’s conclusion that her mother — unable to move or even go to the bathroom on her own — no longer met Medicare coverage requirements.
+
+“You try to call and reason with somebody and get explanations, and you’re talking to somebody in the Philippines,” Hennessy said. “It’s simply a process thing to them. It has nothing to do with care.” UnitedHealthcare declined to discuss its handling of Millam’s care, asserting that doing so would violate federal privacy rules.
+
+When she received the denial, Millam could not put weight on her left leg and was being moved with a Hoyer lift, a large, freestanding harness used to transport patients who can’t use their legs. She also required 24-hour care to help with dressing, eating, and other basic tasks, according to court records.
+
+In a note filed after payment was denied, a speech therapist wrote, “Pt. is not yet safe to live independently. She will need assistance with medication administration and supervision with ADLS [activities of daily living] due to memory deficits making her unsafe.”
+
+Hennessy said she had no choice but to keep her mother in the nursing home, Evansville Manor, and hope the payment denial would get overturned. By then, the bills were quickly piling up.
+
+Medicare rules call for a five-stage appeal process. The first appeal goes directly to the insurer. If denied, the patient can ask an outside entity known as a “quality improvement organization” to reconsider.
+
+Hennessy and her mother were denied at both levels, forcing them to consider an appeal to a federal judge, a process that takes months and requires filling out reams of paperwork. Somewhere in her blitz of phone calls, Hennessy heard about the Greater Wisconsin Agency on Aging Resources, which agreed to take up her case.
+
+In late October, Millam returned home from the nursing home after a nearly three-month recovery. The bill was almost $40,000. A few days later, her appeal came before a judge.
+
+Hennessy, who was driving to Florida at the time, recalls pulling over for the hearing, which was held via Zoom.
+
+The judge only asked a handful of questions of the family and representatives from the nursing home. If there was any participation from UnitedHealthcare, its opinions were not mentioned in the official record. Court documents only reference a finding from the quality improvement organization, Livanta, which had asserted that Hennessy’s mother had no “medical issues to support the need for daily skilled nursing care” when the payment denial was issued in early August.
+
+The final ruling, issued on Nov. 25, found instead that it was the insurer that hadn’t given any good reason to deny care for a patient who was still “a safety risk.” The judge said her treatment should be paid for in full.
+
+In the months afterward, Hennessy herself crossed the age threshold into Medicare eligibility. She said a friend who sold Medicare Advantage plans had always expected to get her business when she turned 65.
+
+“I just told him, ‘I can’t do it. I’ve lived this nightmare,’” Hennessy recalled. The conversation ended their friendship, until the neighbor called back a couple years later following a struggle with his own Medicare Advantage insurer over a knee replacement.
+
+“He called me to apologize for having gotten so bent out of shape,” Hennessy said. “I’ve still got friends who say, ‘Oh, I’ve got UnitedHealthcare Advantage, and it’s wonderful.’”
+
+“Well, it is,” she said. “Until you need the big stuff.’”
+
+This story is part of a series examining the use of artificial intelligence in health care and practices for exchanging and analyzing patient data. It is supported with funding from the Gordon and Betty Moore Foundation.

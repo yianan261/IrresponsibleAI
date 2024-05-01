@@ -4,8 +4,6 @@ from .results import *
 from .search_request import *
 import json
 from .param_data import *
-import datetime
-
 
 class OpenaiAPI:
     def __init__(self, model="gpt-4-1106-preview"):
@@ -23,6 +21,10 @@ class OpenaiAPI:
         return messages, tools, prompt
 
     def handle_tool_calls(self, tool_calls):
+        """
+        calls the external function in availble functions suggested by LLM
+        returns list of location candidates
+        """
         location_candidates = []
         available_functions = self.available_functions
         search = None
@@ -85,7 +87,9 @@ class OpenaiAPI:
         return response, prompt
 
     def check_result(self, article_text, result):
-
+        """
+        optional method to do a second-pass on result checking
+        """
         prompt = prompt_factory.get_prompt_for_check(article_text, result)
         messages = [
             {"role": "user", "content": prompt},

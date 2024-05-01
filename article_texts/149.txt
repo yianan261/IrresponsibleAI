@@ -1,0 +1,133 @@
+CNN —
+
+In February, Zillow appeared so confident in its ability to use artificial intelligence to estimate the value of homes that it announced a new option: for certain homes, its so-called “Zestimate” would also represent an initial cash offer from the company to purchase the property.
+
+The move, touted by a company exec at the time as “an exciting advancement,” was intended to streamline the process for homeowners considering selling to Zillow as part of its home-flipping business. Zillow promoted this option as a way to make it convenient to sell a home while minimizing interactions with others during the pandemic. Just eight months later, however, the company is shutting down that business, Zillow Offers, entirely.
+
+The decision, announced last week, marks a stunning defeat for Zillow. The real estate listing company took a $304 million inventory write-down in the third quarter, which it blamed on having recently purchased homes for prices that are higher than it thinks it can sell them. The company saw its stock plunge and it now plans to cut 2,000 jobs, or 25% of its staff.
+
+The fallout from this business venture doesn’t just point to the challenges in buying and selling homes for profit, however. It also highlights how hard it is to use AI to help make expensive, real-world decisions, particularly in an ever-changing market that can be hard to predict months or even weeks out, and with prices that can be based as much on feel as on clear data points. Zillow CEO and cofounder Rich Barton explained the shuttering of Zillow Offers by citing “unpredictability in forecasting home prices” that “far exceeds” what the company had expected.
+
+The “iBuyer” model used by Zillow and other other real estate companies entails purchasing homes directly from sellers and then re-listing them after doing minor work. For Zillow, one of the first steps in its decision to purchase any home is the “Zestimate” — a machine-learning-assisted estimate of a home’s market value that is calculated by taking into account oodles of data about the property gathered from sources including tax and property records, homeowner-submitted details such as the addition of a bathroom or bedroom, and pictures of the house. Rival platforms such as Redfin have their own estimates that take similar data into account.
+
+“The Zestimate, facts you provided, and comparable homes nearby are used to calculate an estimated sale price,” Zillow explained on its Zillow Offers webpage to homeowners who may be interested in selling their property to the company. (The page now notes the company is “winding down” the service, and isn’t making new offers on homes.) After that estimate, the page explained, Zillow conducts an in-person evaluation of a property, determines the amount it deems necessary for repairs before it could resell the house, and then makes a final offer. Zillow has bought tens of thousands of homes since the launch of Zillow Offers, but has sold many fewer than it snapped up: according to its quarterly results, it purchased 27,000 homes from April 2018 through September 2021, and sold nearly 17,000.
+
+Zillow declined a request for an interview with Krishna Rao, the company’s vice president of analytics. In a statement, Zillow spokesperson Viet Shelton told CNN Business the company used the Zestimate for Zillow Offers “the same way we encourage the public to use it: as a starting point.”
+
+“The challenge we faced in Zillow Offers was the ability to accurately forecast the future price of inventory three to six months out, in a market where there were larger and more rapid changes in home values than ever before,” Shelton said.
+
+Indeed, since Zillow entered the home-flipping business in 2018, real estate markets have changed in wildly unpredictable ways. The pandemic led to a temporary housing market freeze, followed by a supply and demand imbalance that caused an unprecedented rise in home prices. This may only have complicated the company’s decision to include the Zestimate — which Zillow points out is not an appraisal, but a “computer-generated estimate of the value of the home today, given the available data” — as part of the Zillow Offers process in more than 20 cities.
+
+Artificial intelligence can look at far more information, far more quickly, than a single human could when considering a fair price for a home, weighing factors like comparable home sales in an area, how many people are looking in a specific neighborhood and so on. Still, “you can have a real estate agent look at a house and in one second pick out one critical factor of the valuation that just doesn’t exist as ones and zeroes in any database,” said Mike DelPrete, a real estate technology strategist and scholar-in-residence at the University of Colorado Boulder.
+
+Zillow took a $304 million inventory write-down in the third quarter, which it blamed on having recently purchased homes for prices that are higher than it thinks it can sell them. Tiffany Hagler-Geard/Bloomberg/Getty Images
+
+A key part of Zillow
+
+The Zestimate has been a key part of Zillow’s brand since the company first launched its website in 2006. The term is featured prominently on millions of Zillow’s home listings; it’s trademarked by the company; and it’s mentioned 61 times in its IPO paperwork from 2011.
+
+“Three times a week, we create more than 500,000 unique valuation models, built atop 3.2 terabytes of data, to generate current Zestimates on more than 70 million US homes,” the company wrote in a securities filing in 2011. More than 10 years later, the company publishes Zestimates for more than 100 million US homes.
+
+If you’re looking up homes on Zillow’s website or app, the Zestimate is featured prominently in each listing, whether the home is for sale or not. If the house is currently for sale, a red dot is shown next to the words “House for sale,” and the Zestimate, if it’s available for that home, will appear on the same line.
+
+Though the company points out that the Zestimate is not a home appraisal, the feature’s accuracy has been called into question over the years. For example, it became the subject of a lawsuit brought by homeowners in 2017. (That suit was dismissed.)
+
+Zillow has spent years improving the Zestimate, going so far as to run a multi-year data science competition to improve the accuracy of the algorithm behind it. The company awarded a three-person team the $1 million prize in early 2019.
+
+The Zestimate currently has a median error rate of 1.9% for homes that are on the market, Shelton said, meaning Zillow’s estimates for half the homes on the market come within 1.9% of the actual selling price. That percentage of error is much higher – 6.9%, according to Shelton – for off-market homes. Being off by as little as 1.9% on a property with a Zestimate of $500,000 is still nearly $10,000; that figure multiplies over many, many homes in different cities across the United States.
+
+An art, not just a science
+
+It’s one thing to build a model on a website that’s often reasonably accurate. It’s another to then try to use that model in the real world to make very costly bets — and do so at scale, according to Nima Shahbazi, a member of the team that won the Zestimate algorithm competition and CEO of Mindle.AI, which helps companies use AI to make predictions. For instance, if any homes Zillow purchased had hidden problems — such as a missed crack in the foundation — the Zestimate would not be able to predict those issues, he said.
+
+“There are many different parts between a very decent model and deploying the model into production that can go wrong,” he said.
+
+Zillow was using the Zestimate to help it make purchasing decisions for homes it hoped to make a profit off of over time. But Nikhil Malik, an assistant professor of marketing at the University of Southern California, said algorithms tend to be good at making fine-grained, short-term predictions, such as for predicting stock prices a second in advance. But there simply isn’t enough data for an algorithm to learn about longer busts and booms, according to Malik, who researches algorithmic pricing and has studied the Zestimate in particular.
+
+There are also many unquantifiable aspects of putting a price tag on a home, DelPrete noted, such as the value of living in the same neighborhood you grew up in or down the street from your parents. These can vary from person to person, which makes it even harder to outsource a home valuation process to a computer.
+
+“It’s a good tool for what it is,” DelPrete said of the Zestimate, but it’s a mistake to think it can be used to accurately predict house prices now or in the future. He sees it as “almost a toy,” meant more for piquing your curiosity when looking up your home or your neighbor’s home online.
+
+“If you want to do iBuying and you’re going to make thousands of offers every day you have to be really good at valuing homes, not only today but three to six months in the future,” he said. “And that’s an art and a science.”
+
+— CNN’s Anna Bahney contributed to this report.. CNN —
+
+Zillow is getting out of the iBuying business and will shut down its Zillow Offers division, resulting in a 25% reduction in its staff.
+
+In its quarterly earnings report on Tuesday, the company said it will see a total write-down of more than $540 million as a result of its exit from the business, which buys homes and resells them.
+
+As a result of shutting down Zillow Offers, the company said it will be cutting some 2,000 jobs.
+
+Last month, the company said it was halting new purchases of homes because supply chain disruptions and the labor shortage were causing it to get backlogged on the homes it was renovating and preparing for sale. However, the company said on Tuesday that the $304 million inventory write down it recorded in the third quarter from its Homes segment, which includes Zillow Offers, was because it bought homes during the last quarter for prices higher than it believes it can sell them.
+
+“We’ve determined the unpredictability in forecasting home prices far exceeds what we anticipated and continuing to scale Zillow Offers would result in too much earnings and balance-sheet volatility,” said Rich Barton, Zillow’s co-founder and CEO.
+
+Since Zillow Offers launched in 2018, real estate markets have experienced major upheaval, including a pandemic, a temporary freezing of the housing market, followed by a supply and demand imbalance that led to an unprecedented rise in home prices.
+
+While the big price swings up were welcome, the swings down would expose Zillow to too much risk, Barton and Allen Parker, the chief financial officer, wrote in the company’s shareholder letter. “Our aim was to become a market maker, not a market risk taker.”
+
+Zillow Offers gave homeowners a fair market cash offer on their home. The idea was to grow that service and offer it to a wider audience. But because of the price forecasting volatility, the company had to reconsider what the business would look like when it had grown larger, a size it needed to become in order to be consistently profitable, Barton and Parker wrote.
+
+“We have determined this large scale would require too much equity capital, create too much volatility in our earnings and balance sheet, and ultimately result in far lower return on equity than we imagined,” they wrote.
+
+The competition in the market amid other iBuyers meant that most proposals Zillow Offers made to homeowners were not taken. Only 10% of offers made were taken. Plus, the services were available only in a handful of cities.
+
+“While we built and learned a tremendous amount operating Zillow Offers, it served only a small portion of our customers,” Barton said. “Our core business and brand are strong, and we remain committed to creating an integrated and digital real estate transaction that solves the pain points of buyers and sellers while serving a wider audience.”
+
+Zillow ended the quarter with 9,790 homes in inventory and 8,172 homes under contract that it will still purchase, which it will sell over the next six months or so. During that time, the workforce reductions will take place.
+
+“The most difficult part of this decision is that it will impact many of our colleagues,” Barton said.
+
+Zillow is not the largest iBuyer in the country, but it is a distant second to Opendoor. Zillow Offers launched in 2018 in Phoenix and Las Vegas and most recently operated in 25 cities across the country.
+
+The company had been on a buying binge.
+
+Zillow bought 3,805 homes in the second quarter and sold 2,086. This past quarter, Zillow Offers bought 9,680 homes. That pushed the business of closing on homes and preparing them for sale to a breaking point, however. As a result, Zillow only sold 3,032 homes in the third quarter, which was below expectations and the average gross profit per home sold was a loss of $80,771.. Zillow's Zestimate of home values has become a go-to reference for US homeowners. But when Zillow tried to use its algorithm to buy and sell homes, it badly misread the market.
+
+The company’s iBuyer (or “instant buyer”) arm, where tech-first firms use algorithms to quickly value, buy, and sell homes, launched in 2018 in Phoenix. It joined a bustling market in the Arizona city: Opendoor, Redfin, and Offerpad have been buying and flipping homes there since around 2014.
+
+The principle behind iBuying is simple: Leveraging the power of big data, tech firms estimate the price at which they think they can sell a property, which then informs their offers to buy. They tend to offer lower prices than traditional buyers, but attract sellers by promising faster, all-cash deals.
+
+Once an iBuyer owns a home, it works quickly to renovate the property and relist it—in theory for a profit. An analysis of millions of home sales across the US between 2013 and 2018 by academics at Stanford, Northwestern, and Columbia Business School found that iBuyers made around 5 percent profit by flipping homes.
+
+Zillow believed it had the secret to the iBuying world: the Zestimate. Launched in 2006, the highly touted algorithm had been trained on millions of home valuations across the US before it was put to work estimating the possible price of property Zillow itself bought. In theory, it was a natural confluence of two things: Zillow’s expertise in pricing homes, and a new method of buying properties that relied on accurate estimates.
+
+For three years it worked, according to John Wake, who has been a realtor and real estate analyst around Phoenix since 2003. In that time, he’s seen the market collapse several times, including during the 2008–09 financial crisis, set off by the problems with subprime loans. But he’s never seen anything like the past 18 months.
+
+“I don’t know anybody in the spring of 2020 who predicted the market would do what it did,” he says. “No one foresaw it would take off and become so strong.” In March 2020, pretty much all activity in Phoenix’s housing market stopped as the world shut down and economic uncertainty reigned. By October 2021, sales had dramatically accelerated, including among iBuyers.
+
+Tech firms chose the Phoenix area because of its preponderance of cookie-cutter homes. Unlike Boston or New York, the identikit streets make pricing properties easier. iBuyers’ market share in Phoenix grew from around 1 percent in 2015—when tech companies first entered the market—to 6 percent in 2018, says Tomasz Piskorski of Columbia Business School, who is also a member of the National Bureau of Economic Research. Piskorski believes iBuyers—Zillow included—have grown their share since, but are still involved in less than 10 percent of all transactions in the city.
+
+People in real estate feared the arrival of the iBuyers, says Wake. In early October 2021, Zillow recorded its most active week buying homes in Phoenix, part of its goal to buy 5,000 a month by 2024. Then suddenly it stopped buying. Wake had one question: “What the hell happened?”. Zillow, the popular online real estate marketplace and daydream fuel throughout the pandemic, is having a tough time.
+
+The company turned heads earlier this month when it announced it would be shutting down Zillow Offers, the algorithm-fueled home-flipping arm of its company. It also said it would try to offload more than 7,000 homes and exit the iBuying -- or "instant buying" -- business completely. That's $2.8 billion worth of homes.
+
+The announcement came as a major surprise, especially given the scale of Zillow's massive investments in its iBuying efforts in recent years. Its exit was precipitated by a series of missteps, including an overbuying fiasco that resulted in a glut of overpriced inventory.
+
+Now, according to an Insider analysis, more than half of the homes Zillow owns are listed for prices below what the company paid for them. In Phoenix, 93% percent of the homes Zillow purchased are listed for less than the original purchase price, and in Dallas, 81% are less.
+
+What is iBuying anyway?
+
+To do iBuying, tech companies rely on algorithms to determine if it would be profitable to purchase a home to then resell. Using specific data -- the home's age, condition and ZIP code -- algorithms can predict which homes will rise in value, allowing the tech company to get into an emerging market early. Think of it like large-scale, automated home-flipping.
+
+If you're a homeowner, there may be a benefit to using an iBuyer to sell your home. For one, the process is streamlined over the traditional method: You don't have the stress of dealing with a real estate agent, showings or the uncertainty of the market. You'll get an immediate all-cash offer based simply on the algorithm's assessment of your home's data, though the tradeoff is a smaller profit margin.
+
+What went wrong at Zillow?
+
+As an iBuyer, Zillow relied on these computer calculations to buy houses in decent condition on the cheap, spend minimal capital fixing them up and quickly resell them for a profit. Sound too good to be true? For Zillow, it was. The company ended up making thousands of above-market offers to homeowners.
+
+Zillow attributed the mishap to its technology, blaming its iBuying algorithms -- called "Zestimates" -- for inaccurately predicting the values of homes. Given surging prices and high real estate volatility in the last 18 months, it was a tricky undertaking in the first place.
+
+As homes appreciated at a rapid pace during the COVID-19 pandemic, Zillow's iBuying algorithms consistently and significantly underestimated market changes. That's what eventually led the company to shut down its instant-buying business for good. The real estate giant is set to lose an estimated $380 million on Zillow Offers, according to the LA Times.
+
+"The challenge we faced in Zillow Offers was the ability to accurately forecast the future price of inventory three to six months out, in a market where there were larger and more rapid changes in home values than ever before," said Viet Shelton, a spokesperson for the company.
+
+The company also said it will write off $569 million worth of homes and lay off 25% of its staff. Though the future is unclear for some of Zillow's languishing inventory across the country, there's reason to believe that institutional investors could win out in snatching it up. The company has agreed to sell 2,000 units to New York City-based investment firm Pretium Partners.
+
+Zillow has said it intends to honor all existing deals for homes under contract.
+
+What do Zillow's problems mean for iBuying?
+
+Other competitors seem to have figured out the iBuying formula's secret sauce and are going strong. Two of Zillow's rivals, Opendoor and Offerpad, both posted new revenue highs for the third quarter, though neither company is profitable yet. Private equity firms like Blackrock have made headlines for their investments in instant buying.
+
+Though Zillow is no longer in the game, iBuying seems to be here to stay.

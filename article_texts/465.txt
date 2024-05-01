@@ -1,0 +1,29 @@
+Late last week, a California-based AI artist who goes by the name Lapine discovered private medical record photos taken by her doctor in 2013 referenced in the LAION-5B image set, which is a scrape of publicly available images on the web. AI researchers download a subset of that data to train AI image synthesis models such as Stable Diffusion and Google Imagen.
+
+Lapine discovered her medical photos on a site called Have I Been Trained, which lets artists see if their work is in the LAION-5B data set. Instead of doing a text search on the site, Lapine uploaded a recent photo of herself using the site's reverse image search feature. She was surprised to discover a set of two before-and-after medical photos of her face, which had only been authorized for private use by her doctor, as reflected in an authorization form Lapine tweeted and also provided to Ars.
+
+🚩My face is in the #LAION dataset. In 2013 a doctor photographed my face as part of clinical documentation. He died in 2018 and somehow that image ended up somewhere online and then ended up in the dataset- the image that I signed a consent form for my doctor- not for a dataset. pic.twitter.com/TrvjdZtyjD — Lapine (@LapineDeLaTerre) September 16, 2022
+
+Lapine has a genetic condition called Dyskeratosis Congenita. "It affects everything from my skin to my bones and teeth," Lapine told Ars Technica in an interview. "In 2013, I underwent a small set of procedures to restore facial contours after having been through so many rounds of mouth and jaw surgeries. These pictures are from my last set of procedures with this surgeon."
+
+The surgeon who possessed the medical photos died of cancer in 2018, according to Lapine, and she suspects that they somehow left his practice's custody after that. "It’s the digital equivalent of receiving stolen property," says Lapine. "Someone stole the image from my deceased doctor’s files and it ended up somewhere online, and then it was scraped into this dataset."
+
+Lapine prefers to conceal her identity for medical privacy reasons. With records and photos provided by Lapine, Ars confirmed that there are medical images of her referenced in the LAION data set. During our search for Lapine's photos, we also discovered thousands of similar patient medical record photos in the data set, each of which may have a similar questionable ethical or legal status, many of which have likely been integrated into popular image synthesis models that companies like Midjourney and Stability AI offer as a commercial service.
+
+This does not mean that anyone can suddenly create an AI version of Lapine's face (as the technology stands at the moment)—and her name is not linked to the photos—but it bothers her that private medical images have been baked into a product without any form of consent or recourse to remove them. "It’s bad enough to have a photo leaked, but now it’s part of a product," says Lapine. "And this goes for anyone’s photos, medical record or not. And the future abuse potential is really high."
+
+Advertisement
+
+Who watches the watchers?
+
+LAION describes itself as a nonprofit organization with members worldwide, "aiming to make large-scale machine learning models, datasets and related code available to the general public." Its data can be used in various projects, from facial recognition to computer vision to image synthesis.
+
+For example, after an AI training process, some of the images in the LAION data set become the basis of Stable Diffusion's amazing ability to generate images from text descriptions. Since LAION is a set of URLs pointing to images on the web, LAION does not host the images themselves. Instead, LAION says that researchers must download the images from various locations when they want to use them in a project.
+
+Under these conditions, responsibility for a particular image's inclusion in the LAION set then becomes a fancy game of pass the buck. A friend of Lapine's posed an open question on the #safety-and-privacy channel of LAION's Discord server last Friday asking how to remove her images from the set. LAION engineer Romain Beaumont replied, "The best way to remove an image from the Internet is to ask for the hosting website to stop hosting it," wrote Beaumont. "We are not hosting any of these images."
+
+In the US, scraping publicly available data from the Internet appears to be legal, as the results from a 2019 court case affirm. Is it mostly the deceased doctor's fault, then? Or the site that hosts Lapine's illicit images on the web?
+
+Ars contacted LAION for comment on these questions but did not receive a response by press time. LAION's website does provide a form where European citizens can request information removed from their database to comply with the EU's GDPR laws, but only if a photo of a person is associated with a name in the image's metadata. Thanks to services such as PimEyes, however, it has become trivial to associate someone's face with names through other means.
+
+Ultimately, Lapine understands how the chain of custody over her private images failed but still would like to see her images removed from the LAION data set. "I would like to have a way for anyone to ask to have their image removed from the data set without sacrificing personal information. Just because they scraped it from the web doesn’t mean it was supposed to be public information, or even on the web at all."

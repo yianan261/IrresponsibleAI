@@ -304,41 +304,7 @@ Watch more business news from Fortune:
 
 . The flash crash has proven one of the most mysterious market events in recent history. Many observers still believe the event hasn't been fully investigated. Their view is fueled in part by new allegations that a London trader's manipulative trading helped set up the market for a crash that day.
 
-Scroll down to see how the day unfolded.. On May 6, 2010, at approximately 2:32 pm EST, all three U.S. stock indices–The Dow Jones Industrial Index, S&P 500, and the Nasdaq Composite–underwent a massive plunge and a partial rebound over a 36-minute period.
-
-In just a matter of minutes, the Dow Jones logged its second largest intraday drop, crashing 998.5 points (9%) before rapidly bouncing back. Short of any fundamental trigger, the crash seemed to have been caused by nothing of economic substance; an anomaly appearing out of nowhere; a trillion-dollar “Black Swan” event, to which there seemed to have been no trace of an explanation.
-
-If you were tuned into CNBC’s live broadcast, you might have seen this verbal exchange which at that exact moment was focused on P&G’s (Procter & Gamble) 37% stock plummet (transcript via Wikipedia):
-
-(“Let’s take a look at P&G. Alright, this is going to say everything. P&G is now down 25%.”)
-
-Jim Cramer: Oh, well, that’s true, if that stock is there you just go and buy it. That—it can’t be there. [pointing finger] That is not a real price. Oh well, just go buy Procter. Just go buy Procter & Gamble, they reported a decent quarter, just go buy it.
-
-(“Is there a hedge fund that is liquidating?”)
-
-Jim Cramer: Eh… Who cares?! I’ll pay… a 49 + 1/4 bid for 50,000 Procter, if I were at my hedge fund. I mean, this is ridi… this is a good opportunity. When I walked down here it was at 61—when I walked down here it was at 61, I’m not that interested in it. It’s at 47, well that’s a different security entirely, so what you have to do, though, you have to use limit orders, because Procter just jumped seven points because I said I liked it at 49.
-
-So, what happened on that day?
-
-A lot of theories were presented as industry professionals, regulators, and academics strove to make sense of it all.
-
-One popular theory was the “fat-finger error,” that a trader inadvertently sold a large position of stocks such as that of Procter & Gamble. This type of error can be likened to someone who accidentally types in too many digits when placing a trade, turning an order of, say, a hundred thousand into a few millions or even more.
-
-Another theory was that multiple automated trading systems converged, placing sell orders at the same time, causing the markets to fall, in turn prompting even more asset liquidations. This is a negative feedback loop in which sell orders prompt a continuous cycle of even more selling which ultimately results in a massive avalanche of liquidations.
-
-These were just two of several other theories put forward over the next few years. All of them equally valid; none of them certain.
-
-Finding the Culprit Five Years Later
-
-It wasn’t until 2015 that the mystery behind the first-ever flash crash was finally solved. It had been discovered that a London-based trader by the name of Navinder Singh Sarao was using an algorithmic program to generate massive sell orders on the E-mini S&P futures to manipulate prices downward by getting other people to sell (as they would see his large orders). As Sarao never intended on selling any contracts, he would wait for prices to move down, cancel his sell orders, buy E-mini S&P futures at the lower market prices and then sell them back once prices moved up again upon sellers realizing that the order flow was no longer skewed toward the downside. In short, Sarao was “spoofing.”
-
-Sarao was arrested in April 2015 with charges issued by the U.S. Department of Justice. The Commodity Futures Trading Commission filed a separate civil suit against him. Later that year, he was eventually extradited to the U.S. facing 22 charges of fraud and market manipulation.
-
-Sarao’s alleged profit during the flash crash: $40 million. And to think, he managed to pull this off all from the comforts of his own home.
-
-It was also discovered that he had been inconspicuously spoofing the markets for five years. The thing is, if you cause the market to temporarily lose $1 trillion in value, it’s hard to go unnoticed and thus, ends Sarao’s brilliant, brief, and painfully unrewarding spoofing career.
-
-There is a substantial risk of loss in trading futures, options and forex. Past performance is not necessarily indicative of future results.. 9 Pages Posted: 2 Nov 2018 Last revised: 28 Dec 2018
+Scroll down to see how the day unfolded.. . 9 Pages Posted: 2 Nov 2018 Last revised: 28 Dec 2018
 
 Date Written: December 26, 2018
 

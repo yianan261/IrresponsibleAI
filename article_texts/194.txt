@@ -1,0 +1,61 @@
+A Lesson Worth $11 Million
+
+When you see a failure, do not fail to learn the lesson! Anand Tamboli® · Follow Published in tomorrow++ · 5 min read · Sep 12, 2020 -- Listen Share
+
+In early 2018, an Australian telecommunications company bit the bullet and rolled out an AI program for its incident management process. The telco expected to save more than 25% of the operational costs from this implementation. Unfortunately, the plan backfired.
+
+The bot was designed to intercept all of the network incidents, 100% of them. Once intercepted, it would follow a series of checks based on the problem as reported by the users. It was programmed to take one of the three pre-defined actions based on the tests it would perform.
+
+Firstly, it would remotely resolve the incident by fixing the issue programmatically. If that did not work, it would assume that a technician’s visit is required to customer premises. Accordingly, it would issue a work order to send someone directly. If none of that were apparent, it would present the case to the human operator for further investigation and decision.
+
+At the outset, this approach was seemingly sound and appeared quite logical. Within a few weeks, after the rollout company realized, the bot was sending an awful lot of technicians in the field. Of course, sending out technicians for the field visit was a costly affair, and it was always the last choice for fixing an issue. The bot, however, maximized on that choice.
+
+Later, the team found out that there were a few incident scenarios only a human operator could understand (and invariably join the dots). Apparently, for the bot, they were not clear enough. In all such cases, a human operator would have taken a different decision than the bot.
+
+Now, here was the kicker. Despite finding out the flaw in logic, the automation team was unable to turn off the bot (much like what Microsoft did with Tay in 2016). They had implemented the bot in all or nothing fashion, and it was sitting right in the middle of the user and operator interface. Which meant there were only two possibilities. Either all the incidents would go through the bot and get incorrectly handled more often. Or none of them would go through the bot and thereby getting handled manually.
+
+But the telco was not ready to handle such a workload — they had already released the staff for saving costs (oops!).
+
+Eventually, the telco set up another project to fix the bot while it was in operation and wasted several million dollars in the process.
+
+They spent the money on two things, for continuing the service with an artificially stupid bot, and for running a massive fix-up project that lasted for more than a year.
+
+Eventually, the endowment effect kicked in, and the company had no plans to go back and fix the problem from its roots. Instead, it kept pushing through and wasting an enormous amount of money, allegedly circa $11 million in operational costs.
+
+The crucial question remains — who eventually paid for this?
+
+Every link that joins two heterogeneous systems is a weak link!
+
+I saw this fiasco up close and personal. In my view, this implementation went wrong on several levels, right from system design to its implementation and fixing of the problems.
+
+But the first and foremost question is: why there was no plan B, a kill switch of some sort to stop this bot. The bot development and rollout were not thoroughly tested for all the potential scenarios and thus lacked testing rigor that could have identified problems early on. While the time required to fix the situation was too long, detecting the failure of bot took considerably longer.
+
+This story (or case study, as some would call it) highlights many weak spots in AI and its development. It guides us to focus on specific risks. It may be merely a drop in the ocean, but an accurate representation of a few common aspects.
+
+What went wrong?
+
+A few things in the above story failed, and it is not the technology!
+
+Creators of AI and the business that deployed it have not been careful enough. They did not follow the fundamental tenet of handling something as powerful as AI, responsibly.
+
+We often say, “With great power comes great responsibility.” And yet, in this case, responsible design or deployment did not occur in full spirit.
+
+Responsible behavior is necessary for the deployment and use of AI as well as all other stages from conception to design, testing to implementation, and ongoing management and governance.
+
+There is also a level of weakness in the solution conception stage, which directly seeped into their development.
+
+Emphasis on solution quality was not enough. There might have been a few testing routines. Just enough to meet the requirements of IT development frameworks, but not enough to meet the AI development framework — which does not exist!
+
+Creators lacked thoughtfulness in the design of the solution.
+
+Three things you should learn from this
+
+If you are planning to implement an AI solution, or in the midst of it, then you must learn from this fiasco. It will not only save your money and resources but also give you peace of mind in the long run.
+
+1. Rigorous testing is of utmost importance: Firstly, you must understand that narrow AI is all about the relation between input and outputs. You provide input X and get output Y, or there is input X to do output Y. Either way, the nature of input affects the output. Indiscriminate input can lead to adverse outcomes. And this is just one good reason why rigorous testing is so important. We must note that in the case of AI systems, general IT system testing mechanisms are usually not enough.
+
+2. Always keep humans in the loop: When discretion and exceptions are required, use automated systems only as a tool to assist humans — or do not use them at all. There are still several applications and use cases that we cannot define as clearly as a game of chess. The majority of the AI systems are still kids, and they need a responsible adult to be in charge. Most importantly, ensuring enough human resources are available to handle the likely workload is always a good idea.
+
+3. Good governance and risk management are critical: As AI systems become more powerful, managing risk is going to be even more critical. Having robust governance in place is not only an umbrella requirement for the industry but also is a good idea for every business to have in-house.
+
+You do not always need to lose millions or face challenges to learn. When you see a failure, do not fail to learn the lesson!

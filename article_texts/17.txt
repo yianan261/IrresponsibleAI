@@ -2,13 +2,7 @@ There's actually a lot going on behind the scenes to make Smart Reply work. Inbo
 
 And much like how Inbox gets better when you report spam, the responses you choose (or don't choose!) help improve future suggestions. For example, when Smart Reply was tested at Google, a common suggestion in the workplace was "I love you." Thanks to Googler feedback, Smart Reply is now SFW :)
 
-Smart Reply will be rolling out later this week on both Google Play and the App Store in English. If you've got a lot of emails on your plate, now's a great time to try Inbox and get through them faster than ever.. By clicking “Sign Up”, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.
-
-Access your favorite topics in a personalized feed while you're on the go. download the app
-
-Sign up to get the inside scoop on today’s biggest stories in markets, tech, and business — delivered daily. Read preview
-
-A few days ago, I received a short, effective email in my inbox: "Sounds good!"
+Smart Reply will be rolling out later this week on both Google Play and the App Store in English. If you've got a lot of emails on your plate, now's a great time to try Inbox and get through them faster than ever.. A few days ago, I received a short, effective email in my inbox: "Sounds good!"
 
 I had to pause. Although that was the response I wanted — I was arranging a meeting — I wondered: Did he really send that, or did he simply hit Google's automated response suggestions at the bottom?
 
@@ -17,8 +11,6 @@ In recent weeks, Gmail's "Smart Reply" feature has been released to an ever-risi
 This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now.
 
 The actual language of the suggestions is created with machine learning, a family of technologies that is sometimes called artificial intelligence in the non-technical world.
-
-Advertisement
 
 Google
 
@@ -32,8 +24,6 @@ From the story:
 
 Google said an early prototype of the feature had “a propensity to respond with ‘I love you’ to seemingly anything,” forcing it to tweak the algorithm. “You don’t want to respond that to your boss,” Mr. Varma said.
 
-Advertisement
-
 Imagine trying to organize a conference call with a client and accidentally sending "I love you."
 
 Another funny suggestion the software kept repeating is a nod to Google's neighbors in Silicon Valley, Apple. Apparently, the software thought "Sent from my iPhone" was a good way to respond to emails.
@@ -41,8 +31,6 @@ Another funny suggestion the software kept repeating is a nod to Google's neighb
 That's the default signature on the default email app on iPhones, so it shows up all the time in Google's data. And Google's machine learning software, as smart as it was, isn't actually a human, so it didn't realize that was a clever bit of branding, and not any kind of useful information.
 
 Same with "I love you" — while Smart Reply is impressive, it doesn't understand social context yet.
-
-Advertisement
 
 But the software does learn: Google says that as you use it more, the style and tone will become more personalized to you.
 

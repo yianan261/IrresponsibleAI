@@ -1,0 +1,133 @@
+On Tuesday, Meta AI unveiled a demo of Galactica, a large language model designed to "store, combine and reason about scientific knowledge." While intended to accelerate writing scientific literature, adversarial users running tests found it could also generate realistic nonsense. After several days of ethical criticism, Meta took the demo offline, reports MIT Technology Review.
+
+Large language models (LLMs), such as OpenAI's GPT-3, learn to write text by studying millions of examples and understanding the statistical relationships between words. As a result, they can author convincing-sounding documents, but those works can also be riddled with falsehoods and potentially harmful stereotypes. Some critics call LLMs "stochastic parrots" for their ability to convincingly spit out text without understanding its meaning.
+
+Enter Galactica, an LLM aimed at writing scientific literature. Its authors trained Galactica on "a large and curated corpus of humanity’s scientific knowledge," including over 48 million papers, textbooks and lecture notes, scientific websites, and encyclopedias. According to Galactica's paper, Meta AI researchers believed this purported high-quality data would lead to high-quality output.
+
+Starting on Tuesday, visitors to the Galactica website could type in prompts to generate documents such as literature reviews, wiki articles, lecture notes, and answers to questions, according to examples provided by the website. The site presented the model as "a new interface to access and manipulate what we know about the universe."
+
+Advertisement
+
+While some people found the demo promising and useful, others soon discovered that anyone could type in racist or potentially offensive prompts, generating authoritative-sounding content on those topics just as easily. For example, someone used it to author a wiki entry about a fictional research paper titled "The benefits of eating crushed glass."
+
+Even when Galactica's output wasn't offensive to social norms, the model could assault well-understood scientific facts, spitting out inaccuracies such as incorrect dates or animal names, requiring deep knowledge of the subject to catch.
+
+I asked #Galactica about some things I know about and I'm troubled. In all cases, it was wrong or biased but sounded right and authoritative. I think it's dangerous. Here are a few of my experiments and my analysis of my concerns. (1/9) — Michael Black (@Michael_J_Black) November 17, 2022
+
+As a result, Meta pulled the Galactica demo Thursday. Afterward, Meta's chief AI scientist, Yann LeCun, tweeted, "Galactica demo is off line for now. It's no longer possible to have some fun by casually misusing it. Happy?"
+
+The episode recalls a common ethical dilemma with AI: When it comes to potentially harmful generative models, is it up to the general public to use them responsibly or for the publishers of the models to prevent misuse?
+
+Where the industry practice falls between those two extremes will likely vary between cultures and as deep learning models mature. Ultimately, government regulation may end up playing a large role in shaping the answer.. Bookmark Save as PDF My Authors
+
+
+
+
+
+Let's start with the positive / What went well 🧵 Some thoughts about the recent release of Galactica by @MetaAI (everything here is my personal opinion) 👀Let's start with the positive / What went well
+
+
+
+
+
+Contrary to the trend of very interesting research being closed or just accessible through paid APIs, by open-sourcing the models and building on top of existing OS tools, evaluation can be reliably done in a transparent and open way [1] The model was released and Open Source*Contrary to the trend of very interesting research being closed or just accessible through paid APIs, by open-sourcing the models and building on top of existing OS tools, evaluation can be reliably done in a transparent and open way
+
+
+
+
+
+Demos allow for a much wider audience to understand how models work. By having a demo with the release, a much more diverse audience can explore the model, identify points of failure, new biases, and more. [2] There was a demo with the release**Demos allow for a much wider audience to understand how models work. By having a demo with the release, a much more diverse audience can explore the model, identify points of failure, new biases, and more.
+
+
+
+
+
+Big Kudos where it's deserved. The model is technically impressive, with strong performance in different benchmarks, 50% citation accuracy, generation of latex and SMILES formulas, and more. [3] Technically impressive!Big Kudos where it's deserved. The model is technically impressive, with strong performance in different benchmarks, 50% citation accuracy, generation of latex and SMILES formulas, and more.
+
+
+
+
+
+[1] Hype in announcements, mixing end-product with research. The announcement and page talk about "solving" information overload in science and that this can be used to write scientific code.
+
+
+
+This communication style is very misleading and will cause misuse / What went wrong[1] Hype in announcements, mixing end-product with research. The announcement and page talk about "solving" information overload in science and that this can be used to write scientific code.This communication style is very misleading and will cause misuse
+
+
+
+
+
+Although I imagine this was well-intentioned, the (non-transparent) safety filter removed content about queer theory and AIDS https://twitter.com/willie_agnew/status/1592829238889283585
+
+
+
+OpenAI has been doing the same with Dalle 2 and received backlash as well [2] Safety Filter in demo erasing communitiesAlthough I imagine this was well-intentioned, the (non-transparent) safety filter removed content about queer theory and AIDSOpenAI has been doing the same with Dalle 2 and received backlash as well
+
+
+
+- Censors content about minorities, further marginalizing people
+
+- Contradicts the idea of storing and reasoning about scientific knowledge
+
+
+
+See more at https://twitter.com/mmitchell_ai/status/1593351384573038592?s=20&t=8W0DbEqaln7hDKPY_xGhYQ The safety filter- Censors content about minorities, further marginalizing people- Contradicts the idea of storing and reasoning about scientific knowledgeSee more at
+
+
+
+
+
+The limitations stated in the site and paper are quite limited and somewhat unclear. The paper says, "we would not advise using it for tasks that require this type of knowledge as this is not the intended use-case." [3] Use cases were unclear, undocumented, or misleadingThe limitations stated in the site and paper are quite limited and somewhat unclear. The paper says, "we would not advise using it for tasks that require this type of knowledge as this is not the intended use-case."
+
+
+
+
+
+But I find again that the documentation around limitations, biases, and use cases is too limited, given how powerful the model is There is also a somewhat hidden model card in github.com/paperswithcode… But I find again that the documentation around limitations, biases, and use cases is too limited, given how powerful the model is
+
+[4] Demo
+
+
+
+Although having a demo was nice, it could have done a better job in
+
+- Adding clearer disclaimers
+
+- Changing the UI to make it less like real-papers
+
+- Having a mechanism to identify such generated content
+
+- Adding a way to flag toxic and erroneous content
+
+
+
+
+
+At
+
+
+
+https://twitter.com/mmitchell_ai/status/1583516905276837888 [5] Related to the previous point, there was a lack of opportunity for the community to discuss and report issues, just by Twitter.At @huggingface we learned that creating a space for public, open and transparent discussions on models is essential
+
+As such, users have mechanisms to report outputs generated by the demo, explore the code used to create it, and discuss with the community about the work openly and transparently.
+
+So TL;DR, what could be done better
+
+
+
+- More explicit use cases and limitations
+
+- Better documentation of the model
+
+- Consider OpenRAIL licenses, which dive into use cases much more than classical software licenses
+
+- Add disclaimers if there are any future demos
+
+• • •. “I am both astounded and unsurprised by this new effort,” says Chirag Shah at the University of Washington, who studies search technologies. “When it comes to demoing these things, they look so fantastic, magical, and intelligent. But people still don’t seem to grasp that in principle such things can’t work the way we hype them up to.”
+
+Asked for a statement on why it had removed the demo, Meta pointed MIT Technology Review to a tweet that says: “Thank you everyone for trying the Galactica model demo. We appreciate the feedback we have received so far from the community, and have paused the demo for now. Our models are available for researchers who want to learn more about the work and reproduce results in the paper.”
+
+A fundamental problem with Galactica is that it is not able to distinguish truth from falsehood, a basic requirement for a language model designed to generate scientific text. People found that it made up fake papers (sometimes attributing them to real authors), and generated wiki articles about the history of bears in space as readily as ones about protein complexes and the speed of light. It’s easy to spot fiction when it involves space bears, but harder with a subject users may not know much about.
+
+Many scientists pushed back hard. Michael Black, director at the Max Planck Institute for Intelligent Systems in Germany, who works on deep learning, tweeted: “In all cases, it was wrong or biased but sounded right and authoritative. I think it’s dangerous.”

@@ -1,0 +1,101 @@
+. Stephen Normandin spent almost four years racing around Phoenix delivering packages as a contract driver for Amazon.com Inc. Then one day, he received an automated email. The algorithms tracking him had decided he wasn’t doing his job properly.
+
+The 63-year-old Army veteran was stunned. He’d been fired by a machine.. Trabalhadores autônomos que prestam serviço para o Amazon Flex, nos Estados Unidos, denunciaram possíveis demissões viabilizadas por softwares de inteligência artificial da gigante de que supostamente tomam decisões pelos Recursos Humanos.
+
+Segundo matéria da Bloomberg, ex-funcionários e inúmeros relatórios disponibilizados na internet questionam a eficácia e o funcionamento ético do processo tecnológico e algorítmico que define as demissões e quedas na avaliação de entregadores.
+
+publicidade
+
+A ex-funcionária Neddra Lira relatou, em entrevista à publicação, que sua taxa de avaliação despencou após ter de retornar pacotes para um galpão logístico da Amazon em virtude de um pneu furado.
+
+Neddra tentou questionar a empresa quanto à queda da sua avaliação, mas após alguma semanas de insistência, a funcionária teve ser contrato encerrado por “violação dos termos de serviço”. Ela ainda irá apelar contra a decisão, mas a empresa não a ressarciu.
+
+publicidade
+
+Motoristas do Amazon Flex fazem fila para retirar pacotes em um depósito da Amazon em Irvine, Califórnia (EUA). Fonte: Shutterstock
+
+Há casos também como o do funcionário Stephen Normandin, que não consegui efetuar encomendas por encontrar os portões fechados nos locais de entrega. Os destinatários também não responderam às mensagens no telefone.
+
+Ele alega que, em virtude desses acontecimentos, sua taxa de avaliação caiu “além do nível aceitável”, o que o levou a ser desligado da companhia.
+
+publicidade
+
+Sofwares inteligentes com mínima interferência humana
+
+Todas as denúncias feitas pelos entregadores apontam que as decisões são tomadas a partir de bots de inteligência artificial que analisam a performance de funcionários de acordo com indicadores e taxas de avaliação.
+
+Esses relatórios de desempenho são analisados e interpretados com o mínimo de interferência humana. Neles, são levados em consideração o upload de documentos comprobatórios do início e fim dos turnos de trabalho, listagem de entregas, problemas de percurso e monitoramento de taxas de avaliação do serviço.
+
+publicidade
+
+Apesar das inúmeras denúncias e de funcionários enxergarem o sistema como problemático, a Amazon ainda não sinalizou mudanças nem preocupações quanto à situação.
+
+De acordo com um ex-engenheiro que ajudou a desenvolver o Amazon Flex, os executivos da empresa tinham noção de que o sistema poderia trazer problemas para a companhia, disse ele à Bloomberg sob anonimato.
+
+O programa da Amazon foi desenvolvido em 2015 pela gigante do e-commerce com objetivo de fazer entregas rápidas para clientes Amazon Prime.
+
+Via: Arstechnica. A lengthy Bloomberg report says that Amazon Flex drivers are supervised, and often fired by algorithms and e-mails rather than human beings. If you’re not familiar with it, Amazon Flex is basically Postmates but for delivering Amazon packages—basically, you can sign up to deliver packages with your own vehicle.
+
+
+
+Behind The Scenes of "007: Road To A Million" CC Share Subtitles Off
+
+English view video Behind The Scenes of "007: Road To A Million"
+
+Flex started in 2015 as a way for Amazon to get its packages out the same day to local customers (and of course, use gig workers instead of hiring—ED) , growing to now include same-day grocery delivery. Algorithms monitor Flex drivers and how they do their jobs, grading them on a rating system that drivers obsess over—a nd for good reason . From Bloomberg:
+
+
+
+But the moment they sign on, Flex drivers discover algorithms are monitoring their every move. Did they get to the delivery station when they said they would? Did they complete their route in the prescribed window? Did they leave a package in full view of porch pirates instead of hidden behind a planter as requested? Amazon algorithms scan the gusher of incoming data for performance patterns and decide which drivers get more routes and which are deactivated. Human feedback is rare. Drivers occasionally receive automated emails, but mostly they’re left to obsess about their ratings, which include four categories: Fantastic, Great, Fair or At Risk.
+
+Advertisement
+
+Drivers say there is often no way to challenge or actually speak to anyone if a bad rating or dismissal is given. Emails are automated. If dismissed as a driver, one can appeal through arbitration. But it costs $200, a price that discourages many from going through with it.
+
+Advertisement
+
+Drivers say that the algorithms don’t take into account the real-world problems they face, like say, failing to deliver a package to a building they’re locked out of. Internally, the company thinks the system is a success. An Amazon spokesperson told Bloomberg:
+
+
+
+“We have invested heavily in technology and resources to provide drivers visibility into their standing and eligibility to continue delivering, and investigate all driver appeals.”
+
+Advertisement
+
+The report is worth reading, take a look .
+
+. Locked gates, inclement weather, and bad selfies—all reasons drivers report that they were fired by the bots that apparently run human resources for Amazon’s Flex delivery program.
+
+Millions of independent contractors are at the whim of a system that Amazon knows is problematic, according to a new report by Bloomberg. While serious early glitches have been worked out, significant issues remain, according to the article. Amazon is reportedly unconcerned about the hiccups and bad press that result so long as sufficient numbers of drivers are available to replace those whose accounts are mistakenly terminated.
+
+“Executives knew this was gonna shit the bed,” a former engineer who designed the system told Bloomberg. “That’s actually how they put it in meetings. The only question was how much poo we wanted there to be.”
+
+The e-commerce giant started Flex in 2015 to handle surges of packages and two-hour deliveries for its Prime Now service. Today, it also coordinates deliveries for Whole Foods grocery orders. (If you’re curious to hear details about how the system functions when it's working, Ars’ own Sam Machkovech went gonzo a few years ago and worked a shift as a driver.) During the pandemic, the Flex program became an increasingly important part of the retailer’s logistics program, so much so that it offered Flex drivers a bonus to work at least 20 hours in December 2020.
+
+Flex hirings, performance reports, and firings are all handled by software, with minimal intervention by humans. Drivers sign up and upload required documents via a smartphone app, through which they also sign up for shifts, coordinate deliveries, and report problems. It’s also how drivers monitor their ratings, which fall into four broad buckets—Fantastic, Great, Fair, or At Risk. Flex drivers are assessed on a range of variables, including on-time performance, details like whether the package is sufficiently hidden from the street, and a driver’s ability to fulfill customer requests.
+
+Advertisement
+
+Amazon refutes the idea that drivers have been unfairly treated. “We have invested heavily in technology and resources to provide drivers visibility into their standing and eligibility to continue delivering, and investigate all driver appeals,” Amazon spokesperson Kate Kudrna told Bloomberg.
+
+Opaque system
+
+Former Flex drivers interviewed by Bloomberg and driver reports posted on forums across the Internet reveal an opaque system that often leaves them guessing as to why their ratings dropped or why their accounts were terminated—effectively firing them from the job.
+
+Neddra Lira, a former driver interviewed by Bloomberg, said her ratings tanked after she had to return packages to the warehouse when she found a nail in her tire. She managed to raise her rating to “great” over the next several weeks only to have her account terminated for violating terms of service. She appealed the termination, but Amazon didn’t budge.
+
+Another driver Bloomberg spoke with, Stephen Normandin, had trouble delivering packages to Phoenix-area apartment complexes before dawn. The gates were still locked, the offices were closed, and package recipients weren’t answering their phones. In another apartment complex, an Amazon locker wouldn’t open for him. His rating also suffered in the wake of those problems, and he spent six weeks reviving it—only to be terminated days later because his rating had “dropped below an acceptable level.”
+
+The reasons Amazon gives for firing Flex workers don’t always appear to match the true reason for the termination. One driver posting on reddit said they were terminated because, according to the Flex app, the selfies they took to verify their identity at the start of the shift didn’t match the driver’s license photo they uploaded when they set up the account. The driver wasn’t buying it, though, since in the shift they worked before being fired, packages the app assigned to them were not available at the Prime Now depot and thus were unable to be delivered.
+
+“The termination email I received this morning was sent at 1:17am, but at 1:06am, just eleven minutes before, I had also received one of those generic emails reminding me that I need to pick up all of my orders,” the person wrote. “I’m assuming this isn’t coincidence, and even though the termination email specifically states ‘images’ as the reason for termination, I’m attributing it to these ‘missed packages.’”
+
+Advertisement
+
+Facial recognition issues
+
+Amazon started requiring selfies in 2019 so that multiple people wouldn’t share a single account. The practice may help prevent people from using other accounts to steal packages. But there are other drivers who use the practice for more legitimate purposes, including to deliver more packages faster, which can bump up their ratings, or to fulfill deliveries without racking up parking tickets.
+
+Flex drivers’ forums are littered with posts from people complaining that their accounts were terminated because their selfies did not “meet the requirements for the Amazon Flex program.” The photos appear to be verified by image recognition algorithms. People who have lost weight or shaved their beards or gotten a haircut have run into problems, as have drivers attempting to start a shift at night, when low lighting can result in a poor-quality selfie.
+
+Drivers who believe they’ve been unfairly terminated have ten days to petition to have their accounts reinstated, but in that time, they cannot work any shifts. If a driver loses the appeal, they can ask for arbitration, though it costs them $200. For many drivers, who make between $18–$30 per hour delivering for Flex, it’s simply not worth it. For Amazon, though, botched terminations don’t seem to be tempering interest in the Flex program. In May alone, the Flex app was downloaded 200,000 times, according to SensorTower.

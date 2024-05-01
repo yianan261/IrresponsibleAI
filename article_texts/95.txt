@@ -1,0 +1,209 @@
+. An artificial intelligence hiring system has become a powerful gatekeeper for some of America’s most prominent employers, reshaping how companies assess their workforce — and how prospective employees prove their worth. Designed by the recruiting-technology firm HireVue, the system uses candidates’ computer or cellphone cameras to analyze their facial movements, word choice and speaking voice before ranking them against other applicants based on an automatically generated “employability” score.
+
+HireVue’s “AI-driven assessments” have become so pervasive in some industries, including hospitality and finance, that universities make special efforts to train students on how to look and speak for best results. More than 100 employers now use the system, including Hilton and Unilever, and more than a million job seekers have been analyzed.
+
+Advertisement
+
+But some AI researchers argue the system is digital snake oil — an unfounded blend of superficial measurements and arbitrary number-crunching that is not rooted in scientific fact. Analyzing a human being like this, they argue, could end up penalizing nonnative speakers, visibly nervous interviewees or anyone else who doesn’t fit the model for look and speech.
+
+The system, they argue, will assume a critical role in helping decide a person’s career. But they doubt it even knows what it’s looking for: Just what does the perfect employee look and sound like, anyway?
+
+“It’s a profoundly disturbing development that we have proprietary technology that claims to differentiate between a productive worker and a worker who isn’t fit, based on their facial movements, their tone of voice, their mannerisms,” said Meredith Whittaker, a co-founder of the AI Now Institute, a research center in New York.
+
+Advertisement
+
+“It’s pseudoscience. It’s a license to discriminate,” she added. “And the people whose lives and opportunities are literally being shaped by these systems don’t have any chance to weigh in.”
+
+Loren Larsen, HireVue’s chief technology officer, said that such criticism is uninformed and that “most AI researchers have a limited understanding” of the psychology behind how workers think and behave.
+
+Larsen compared algorithms’ ability to boost hiring outcomes with medicine’s improvement of health outcomes and said the science backed him up. The system, he argued, is still more objective than the flawed metrics used by human recruiters, whose thinking he called the “ultimate black box.”
+
+“People are rejected all the time based on how they look, their shoes, how they tucked in their shirts and how ‘hot’ they are,” he told The Washington Post. “Algorithms eliminate most of that in a way that hasn’t been possible before.”
+
+Advertisement
+
+The AI, he said, doesn’t explain its decisions or give candidates their assessment scores, which he called “not relevant.” But it is “not logical,” he said, to assume some people might be unfairly eliminated by the automated judge.
+
+“When 1,000 people apply for one job,” he said, “999 people are going to get rejected, whether a company uses AI or not.”
+
+On Wednesday, a prominent rights group, the Electronic Privacy Information Center, filed an official complaint urging the Federal Trade Commission to investigate HireVue for “unfair and deceptive” practices. The system’s “biased, unprovable and not replicable" results, EPIC officials wrote, constitute a major threat to American workers’ privacy and livelihoods.
+
+The inscrutable algorithms have forced job seekers to confront a new kind of interview anxiety. Nicolette Vartuli, a University of Connecticut senior studying math and economics with a 3.5 GPA, said she researched HireVue and did her best to dazzle the job-interview machine. She answered confidently and in the time allotted. She used positive keywords. She smiled, often and wide.
+
+Advertisement
+
+But when she didn’t get the investment banking job, she couldn’t see how the computer had rated her or ask how she could improve, and she agonized over what she had missed. Had she not looked friendly enough? Did she talk too loudly? What did the AI hiring system believe she had gotten wrong?
+
+“I feel like that’s maybe one of the reasons I didn’t get it: I spoke a little too naturally,” Vartuli said. “Maybe I didn’t use enough big, fancy words. I used ‘conglomerate’ one time.”
+
+HireVue said its system dissects the tiniest details of candidates’ responses — their facial expressions, their eye contact and perceived “enthusiasm” — and compiles reports companies can use in deciding whom to hire or disregard.
+
+Job candidates aren’t told their score or what little things they got wrong, and they can’t ask the machine what they could do better. Human hiring managers can use other factors, beyond the HireVue score, to decide which candidates pass the first-round test.
+
+Advertisement
+
+The system, HireVue said, employs superhuman precision and impartiality to zero in on an ideal employee, picking up on telltale clues a recruiter might miss.
+
+Major employers with lots of high-volume, entry-level openings are increasingly turning to such automated systems to help find candidates, assess résumés and streamline hiring. The Silicon Valley start-up AllyO, for instance, advertises a “recruiting automation bot” that can text-message a candidate, “Are you willing to relocate?” And a HireVue competitor, the “digital recruiter” VCV, offers a similar system for use in phone interviews, during which a candidate’s voice and answers are analyzed by an “automated screening” machine.
+
+But HireVue’s prospects have cemented it as the leading player in the brave new world of semi-automated corporate recruiting. It says it can save employers a fortune on in-person interviews and quickly cull applicants deemed subpar. HireVue says it also allows companies to see candidates from an expanded hiring pool: Anyone with a phone and Internet connection can apply.
+
+Advertisement
+
+Nathan Mondragon, HireVue’s chief industrial-organizational psychologist, told The Post the standard 30-minute HireVue assessment includes half a dozen questions but can yield up to 500,000 data points, all of which become ingredients in the person’s calculated score.
+
+The employer decides the written questions, which HireVue’s system then shows the candidate while recording and analyzing their responses. The AI assesses how a person’s face moves to determine, for instance, how excited someone seems about a certain work task or how they would behave around angry customers. Those “Facial Action Units,” Mondragon said, can make up 29 percent of a person’s score; the words they say and the “audio features” of their voice, like their tone, make up the rest.
+
+“Humans are inconsistent by nature. They inject their subjectivity into the evaluations,” Mondragon said. “But AI can database what the human processes in an interview, without bias. … And humans are now believing in machine decisions over human feedback.”
+
+Advertisement
+
+To train the system on what to look for and tailor the test to a specific job, the employer’s current workers filling the same job — “the entire spectrum, from high to low achievers” — sit through the AI assessment, Larsen said.
+
+Their responses, Larsen said, are then matched with a “benchmark of success” from those workers’ past job performance, like how well they had met their sales quotas and how quickly they had resolved customer calls. The best candidates, in other words, end up looking and sounding like the employees who had done well before the prospective hires had even applied.
+
+After a new candidate takes the HireVue test, the system generates a report card on their “competencies and behaviors,” including their “willingness to learn,” “conscientiousness & responsibility” and “personal stability,” the latter of which is defined by how well they can cope with “irritable customers or co-workers.”
+
+Advertisement
+
+Those computer-estimated personality traits are then used to group candidates into high, medium and low tiers based on their “likelihood of success.” Employers can still pursue candidates ranked in the bottom tier, but several interviewed by The Post said they mostly focused on the ones the computer system liked best.
+
+HireVue offers only the most limited peek into its interview algorithms, both to protect its trade secrets and because the company doesn’t always know how the system decides on who gets labeled a “future top performer.”
+
+The company has given only vague explanations when defining which words or behaviors offer the best results. For a call center job, the company says, “supportive” words might be encouraged, while “aggressive” ones might sink one’s score.
+
+HireVue said its board of expert advisers regularly reviews its algorithmic approach, but the company declined to make the system available for an independent audit. The company, Larsen said, is “exploring the use of an independent auditor right now, to see how that could work.”
+
+HireVue launched its AI assessment service in 2014 as an add-on to its video-interview software, which more than 700 companies have used for nearly 12 million interviews worldwide. The Utah-based company won’t disclose its revenue, the cost for employers or a full list of clients.
+
+The company said last month that the private-equity giant Carlyle Group would become its new majority investor, providing an undisclosed sum from an $18.5 billion fund. Patrick McCarter, a managing director at the investment firm — which uses HireVue’s video interviews internally and said it “will look to deploy AI-driven candidate assessments over time” — said the money would help the company expand to more employers and more specialized job openings, both in the United States and around the world.
+
+At the hotel giant Hilton International, thousands of applicants for reservation-booking, revenue management and call center positions have gone through HireVue’s AI system, and executives credit the automated interviews with shrinking their average hiring time from six weeks to five days.
+
+Sarah Smart, the company’s vice president of global recruitment, said the system has radically redrawn Hilton’s hiring rituals, allowing the company to churn through applicants at lightning speed. Hiring managers inundated with applicants can now just look at who the system ranked highly and filter out the rest: “It’s rare for a recruiter to need to go out of that range,” she said.
+
+At the consumer goods conglomerate Unilever, HireVue is credited with helping save 100,000 hours of interviewing time and roughly $1 million in recruiting costs a year. Leena Nair, the company’s chief human resource officer, said the system had also helped steer managers away from hiring only “mini-mes” who look and act just like them, boosting the company’s “diversity hires,” as she called them, by about 16 percent.
+
+“The more digital we become, the more human we become,” she added.
+
+Dane E. Holmes, the global head of human-capital management at HireVue client Goldman Sachs, wrote in the Harvard Business Review this spring that the banking giant’s roughly 50,000 video-interview recordings were “a treasure trove of data that will help us conduct insightful analyses."
+
+The investment bank said it uses HireVue’s video-interview system but not its computer-generated assessments. But Holmes said data from those videos could help the company figure out how candidates’ skills and backgrounds might correspond to how well they would work or how long they would stay at the firm. The company, he added, is also “experimenting with résumé-reading algorithms” that would help decide new hires’ departments and tasks.
+
+“Can I imagine a future in which companies rely exclusively on machines and algorithms to rate résumés and interviews? Maybe, for some,” he wrote. (The “human element” of recruiting, he pledged, would survive at Goldman Sachs.)
+
+HireVue’s expansion has also helped it win business from smaller groups such as Re:work, a Chicago nonprofit organization that trains unemployed local job seekers for careers in the tech industry. Shelton Banks, the group’s chief, said HireVue had proved to be an irreplaceable guide in assessing which candidates would be worth the effort.
+
+The nonprofit organization once allowed almost anyone into its intensive eight-week training program, but many burned out early. Now, every candidate goes through the AI assessment first, which ranks them on problem-solving and negotiation skills and helps the group determine who might have the most motivation, curiosity and grit.
+
+“Knowing where that person is at a starting place, when it comes to this person’s life,” Banks said, “can help us make more accurate assessments of the people we’re saying yes or no to.”
+
+But Lisa Feldman Barrett, a neuroscientist who studies emotion, said she is “strongly skeptical” that the system can really comprehend what it’s looking at. She recently led a team of four senior scientists, including an expert in “computer vision” systems, in assessing more than 1,000 published research papers studying whether the human face shows universal expressions of emotion and how well algorithms can understand them.
+
+The systems, they found, have become quite perceptive at detecting facial movements — spotting the difference, say, between a smile and a frown. But they’re still worryingly imprecise in understanding what those movements actually mean and woefully unprepared for the vast cultural and social distinctions in how people show emotion or personality.
+
+Look at scowling, Barrett said: A computer might see a person’s frown and furrowed brow and assume they’re easily angered — a red flag for someone seeking a sales associate job. But people scowl all the time, she said, “when they’re not angry: when they’re concentrating really hard, when they’re confused, when they have gas.”
+
+Luke Stark, a researcher at Microsoft’s research lab in Montreal studying emotion and AI — who spoke as an individual, not as a Microsoft employee — was similarly skeptical of HireVue’s ability to predict a worker’s personality from their intonations and turns of phrase.
+
+Systems like HireVue, he said, have become quite skilled at spitting out data points that seem convincing, even when they’re not backed by science. And he finds this “charisma of numbers” really troubling because of the overconfidence employers might lend them while seeking to decide the path of applicants’ careers.
+
+The best AI systems today, he said, are notoriously prone to misunderstanding meaning and intent. But he worried that even their perceived success at divining a person’s true worth could help perpetuate a “homogenous” corporate monoculture of automatons, each new hire modeled after the last.
+
+The company, HireVue’s Larsen said, audits its performance data to look for potentially discriminatory hiring practices, known as adverse impacts, using “world-class bias testing” techniques. The company’s algorithms, he added, have been trained “using the most deep and diverse data set of facial action units available, which includes people from many countries and cultures.”
+
+HireVue’s growth, however, is running into some regulatory snags. In August, Illinois Gov. J.B. Pritzker (D) signed a first-in-the-nation law that will force employers to tell job applicants how their AI-hiring system works and get their consent before running them through the test. The measure, which HireVue said it supports, will take effect Jan. 1.
+
+State Rep. Jaime Andrade Jr. (D), who co-sponsored the bill, said he pushed the transparency law after learning how many job applicants were rejected at the AI stage of a job interview. He worried that spoken accents or cultural differences could end up improperly warping the results, and that people who declined to sit for the assessment could be unfairly punished by not being considered for the job.
+
+“What is the model employee? Is it a white guy? A white woman? Someone who smiles a lot?” he said. “What are the data points being used? There has to be some explanation, and there has to be consent.”
+
+HireVue cautions candidates that there is no way to trick, cheat or hack the system, because it assesses tens of thousands of factors to assess a “unique set of personal competencies.” “Do what feels most natural to you,” the company says in an online guide.
+
+But roughly a dozen interviewees who have taken the AI test — including some who got the job — told The Post it felt alienating and dehumanizing to have to wow a computer before being deemed worthy of a company’s time.
+
+They questioned what would be done with the video afterward and said they felt uneasy about having to perform to unexplained AI demands. Several said they refused to do the interview outright because, in the words of one candidate, the idea “made my skin crawl.”
+
+Candidates said they have scrambled for ideas on how to maximize their worthiness before the algorithm’s eye, turning to the hundreds of videos and online handbooks suggesting, for instance, that they sit in front of a clean white wall, lest the background clutter dock their grade. “Glue some googly eyes to your webcam. It’ll make it easier to maintain eye contact,” one user on the message board Reddit suggested.
+
+Stark, the AI researcher, said these “folk theories of algorithms” were a natural response from people facing impenetrable AI systems with the power to decide their fate. The survival techniques could feel reassuring, he said, even if they were wrong: Pick the right words, use the right tone, put on a sufficiently happy face. “It’s a way of trying to give people confronting an opaque system they don’t understand some feeling of agency,” he said.
+
+But some HireVue interviewees questioned whether it was fair or even smart to judge a person’s workplace performance or personal abilities based on half an hour spent looking into a webcam. They also worried that people’s nerves about the odd nature of the exam might end up disqualifying them outright.
+
+Emma Rasiel, an economics professor at Duke University who regularly advises students seeking jobs on Wall Street, said she has seen a growing number of students excessively unsettled about their upcoming HireVue test. The university’s economics department now offers a guide to HireVue interviews on its student resources website, including typical questions (“What does integrity mean to you?”) and behavioral tips (“Act natural, talk slowly!”).
+
+“It’s such a new and untried way of communicating who they are that it adds to their anxiety,” Rasiel said. “We’ve got an anxious generation, and now we’re asking them to talk to a computer screen, answering questions to a camera … with no real guidelines on how to make themselves look better or worse.”
+
+The mysterious demands can also push people’s angst into overdrive. When Sheikh Ahmed, a 25-year-old in Queens, applied for teller jobs at banks around New York, he said he received eight HireVue assessment offers, all scheduled for the same day.
+
+He studied guides on how to talk and act but found the hardest part was figuring out the camera angle: Too high, he worried, and he would look domineering; too low, and he would look shrunken and weak.
+
+Before his marathon of AI interviews, he put on a crisp dress shirt, a tie and pajama pants and went to his dad’s soundproof music studio, away from the family’s chirping society finch. He also turned off his air conditioning system, hoping the background noise wouldn’t mess up his score.
+
+He changed his answers slightly in each interview, in the hopes that the algorithm would find something it liked. But he found it exhausting and disheartening to boil down his life experience and worthiness into a computer-friendly sound bite.
+
+By the end, his mouth was dry, he was covered in sweat and he was paranoid he hadn’t made enough eye contact while worrying about the bird. A few weeks after the interviews, he said, he’s still waiting to hear whether he got a job.. Job hunters may now need to impress not just prospective bosses but artificial intelligence algorithms too—as employers screen candidates by having them answer interview questions on a video that is then assessed by a machine.
+
+HireVue, a leading provider of software for vetting job candidates based on an algorithmic assessment, said Tuesday it is killing off a controversial feature of its software: analyzing a person’s facial expressions in a video to discern certain characteristics.
+
+Job seekers screened by HireVue sit in front of a webcam and answer questions. Their behavior, intonation, and speech is fed to an algorithm that assigns certain traits and qualities.
+
+HireVue says that an “algorithmic audit” of its software conducted last year shows it does not harbor bias. But the nonprofit Electronic Privacy Information Center had filed a complaint against the company with the Federal Trade Commission in 2019.
+
+HireVue CEO Kevin Parker acknowledges that public outcry over the use of software to analyze facial expressions in video was part of the calculation. “It was adding some value for customers, but it wasn’t worth the concern,” he says.
+
+The algorithmic audit was performed by an outside firm, O’Neil Risk Consulting and Algorithmic Auditing. The company did not respond to requests for comment.
+
+Alex Engler, a fellow at the Brookings Institution who has studied AI hiring, says the idea of using AI to determine someone’s ability, whether it is based on video, audio, or text, is far-fetched. He says it is also problematic that the public cannot vet such claims.
+
+“There are parts that machine learning can probably help with, but fully automated interviews, where you’re making inferences about job performance—that’s terrible,” he says. “Modern artificial intelligence can’t make those inferences.”
+
+“Fully automated interviews, where you’re making inferences about job performance—that’s terrible.” Alex Engler, fellow, Brookings Institution
+
+HireVue says that about 700 companies, including GE, Unilever, Delta, and Hilton, use its technology. The software requires job applicants to respond to a series of questions in a recorded video. The company’s software then analyzes various characteristics including the language they use, their speech, and, until now, their facial expressions. It then provides an assessment of the applicant’s suitability for a job, as well as a measure of traits including “dependability,” “emotional intelligence,” and “cognitive ability.”
+
+Parker says the company helped screen more than 6 million videos last year, although sometimes this involved simply transcribing answers for an interviewer rather than performing an automated assessment of candidates. He adds that some clients let candidates opt out of automated screening. And he says HireVue has developed ways to avoid penalizing candidates with spotty internet connections, automatically referring those candidates to a human.
+
+AI experts warn that algorithms trained on data from previous job applicants may perpetuate existing biases in hiring. Lindsey Zuloaga, HireVue’s chief data scientist, says the company screens for bias on gender, race, and age by collecting that information in training data and looking for signs of bias.
+
+But she acknowledges that it may be more difficult to know if the system is biased on factors such as income or education level, or if it could be affected by something like a stutter.
+
+“I am surprised they are dropping this, as it was a keystone feature of the product they were marketing,” says John Davisson, senior counsel at EPIC. “That is the source of a lot of concerns around biometric data collection, as well as these bold claims about being able to measure psychological traits, emotional intelligence, social attitudes, and things like that.”
+
+The WIRED Guide to Artificial Intelligence Supersmart algorithms won't take all the jobs, But they are learning faster than ever, doing everything from medical diagnostics to serving up ads.
+
+The use of facial analysis to determine emotion or personality traits is controversial; some experts warn that the underlying science is flawed.
+
+Lisa Feldman Barrett, a professor at Northeastern University who studies analysis of emotion, says a person’s face does not on its own reveal emotion or character. “Just by looking at someone smiling, you can’t really tell anything about them except maybe that they have nice teeth,” she says. “It is a bad idea to make psychological inferences, and therefore determine people's outcomes, based on facial data alone.”. A prominent rights group is urging the Federal Trade Commission to take on the recruiting-technology company HireVue, arguing that the firm has turned to unfair and deceptive trade practices in its use of face-scanning technology to assess job candidates’ “employability.” The Electronic Privacy Information Center, known as EPIC, on Wednesday filed an official complaint calling on the FTC to investigate HireVue’s business practices, saying the company’s use of unproven artificial intelligence systems that scan people’s faces and voices constituted a wide-scale threat to American workers.
+
+HireVue’s “AI-driven assessments,” which more than 100 employers have used on a million-plus job candidates, use video interviews to analyze hundreds of thousands of data points related to a person’s speaking voice, word selection and facial movements. The system then creates a computer-generated estimate of the candidates’ skills and behaviors, including their “willingness to learn” and “personal stability.”
+
+Advertisement
+
+Candidates aren’t told their scores, but employers can use those reports to decide whom to hire or disregard. The Utah-based company was the subject of a Washington Post report last month, in which AI researchers criticized its technology as “profoundly disturbing” and “opaque.”
+
+HireVue’s “intrusive collection and secret analysis of biometric data” causes substantial privacy and financial harms, EPIC officials wrote. And “because these algorithms are secret,” they added, “ ... it is impossible for job candidates to know how their personal data is being used or to consent to such uses.”
+
+The FTC declined to comment. HireVue did not respond to requests for comment.
+
+The complaint could for the first time throw a federal spotlight on a growing industry of tech firms that advertise automated systems they say can assess candidates’ résumés, divine people’s personalities and pinpoint problematic recruits. Critics say the systems are dehumanizing, invasive and built on flawed science that could perpetuate discriminatory hiring practices.
+
+Advertisement
+
+The technology is also facing increasing pressure from lawmakers. In January, Illinois will enact a law forcing employers to tell job applicants and regulators how their AI video-interview systems work. Co-sponsors of the bill, approved in August by Gov. J.B. Pritzker (D), said they worried the systems could unfairly penalize candidates and hide biases in how they assess a “model employee.”
+
+HireVue’s systems have become pervasive for employers because they can lower recruiting costs and speed up turnaround time for new hires. Some colleges now instruct students on how to impress the hidden algorithms: In the FTC filing, EPIC lawyers quote a guide from the University of Maryland business school, which tells interviewees, “Robots compare you against existing success stories; they don’t look for out-of-the-box candidates.”
+
+EPIC, based in Washington, has become one of the tech industry’s most renowned and effective watchdogs, helping shape U.S. policy around online privacy, civil liberties and domestic surveillance for nearly 25 years. The group has challenged tech giants and government agencies, including Facebook, Google and the National Security Agency, through consumer complaints, agency filings and federal lawsuits.
+
+Advertisement
+
+EPIC urged the FTC to halt HireVue’s automatic scoring of job candidates and make public the algorithms and criteria used in analyzing people’s behavior. The technology is largely unregulated, but the FTC regularly enforces “unfair and deceptive acts or practices” statutes against companies found to be making claims to consumers without a “reasonable basis” in a way likely to “cause substantial injury.”
+
+In its complaint, EPIC officials said HireVue’s AI-driven assessments produce results that are “biased, unprovable and not replicable.” The system, they argued, could unfairly score someone based on prejudices related to their gender, race, sexual orientation or neurological differences. HireVue says it uses “world-class bias testing” techniques to detect and prevent hiring discrimination.
+
+HireVue advertises that its technology does not use “facial recognition technology” because its systems do not attempt to identify people. But EPIC argued that HireVue’s assertion is misleading, and that the FTC has ruled the term applies to any “technologies that analyze facial geometry to predict demographic characteristics, expression or emotions.”
+
+Advertisement
+
+EPIC also argued that HireVue had failed to meet international standards for AI systems set by the Organization for Economic Cooperation and Development and endorsed by the United States earlier this year. HireVue violated those principles, EPIC said, because its algorithmic assessments can’t be evaluated or “meaningfully challenged” by the job candidates they’ve assessed.

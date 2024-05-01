@@ -1,0 +1,55 @@
+Driver Finds Himself Surrounded By Cops With Guns Out After Automatic License Plate Reader Misreads His Plate
+
+from the automatic-bullet-catcher-creator dept
+
+Automatic license plate readers can scan plates at a rate of one per second. Nationwide, several hundred million plate/location records have been captured and stored by a variety of contractors. Mathematics alone says mistakes will be made. Except when mistakes are made with ALPRs, they tend to put citizens on the bad side of men with guns.
+
+According to the Prairie Village Post, earlier this month lawyer Mark Molner was driving through a Kansas City suburb on his way home from his wife’s sonogram. All of a sudden, his BMW was blocked in front by a police car as another officer on a motorcycle pulled up behind him. (His pregnant wife witnessed the incident from a nearby parked car.) According to what Molner told the Post, one of the officers then approached his car with his gun out. “He did not point it at me, but it was definitely out of the holster,” Molner told the Post. “I am guessing that he saw the shock and horror on my face, and realized that I was unlikely to make (more of) a scene.”
+
+The mistake prompting this guns-drawn approach of Molner’s video could have been made by anybody. The ALPR read a “7” as a “2” and returned a hit for a stolen vehicle. The hit also returned info for a stolen Oldsmobile, which clearly wasn’t what Molner was driving. But that could mean the plates were on the wrong vehicle, which is also an indication of Something Not Quite Right.
+
+The PD’s statement on the incident is fairly sensible and measured.
+
+“The officer has discretion on whether or not to unholster his weapon depending on the severity of the crime. In this case he did not point it at the driver, rather kept it down to his side because he thought the vehicle could possibly be stolen. If he was 100 percent sure it was stolen, then he would have conducted a felony car stop which means both officers would have been pointing guns at him while they gave him commands to exit the vehicle.”
+
+That makes sense, but there’s still a chance this situation could have been averted. Molner’s plate triggered the hit several miles before he was pulled over as pursuing police were unable to verify the plate due to traffic density. But it appears the officers made a last-minute decision to perform the unverified stop shortly before Molner would have driven out of the PD’s jurisdiction. The stop occurred on the city/state boundary between Kansas and Missouri.
+
+This lack of verification is what bothers Molner.
+
+“I’m armchair quarterbacking the police, which is not a good position to be in,” Molner told the Post. “But before you unholster your gun, you might want to confirm that you’ve got the people you’re looking for.”
+
+So, when the plate reader kicked back a bad hit, the cops did attempt to verify the plate, but it looks very much like they overrode procedural safeguards in order to prevent possibly losing a collar.
+
+As these plate readers become more common, the number of erroneous readings will increase. If the verification safeguards are followed, problems will be minimal. But if anyone’s in a hurry… or the vehicle description is too vague… or it’s night… or someone’s had a bad/slow day… or if the end of the month is approaching and the definitely-not-a-quota hasn’t been met… bad things will happen to good people.
+
+Placing too much faith in an automated system can have terrible consequences. Molner came out of this without extra holes, electricity or bruises. Others may not be so lucky.
+
+Filed Under: database, errors, license plate reader, police, stolen car
+
+. With license plate reader (LPR) use rapidly expanding throughout the United States, it's no surprise that sometimes officers pull over motorists—at gunpoint—for mistakes made by the automated camera system.
+
+The latest incident happened near the border of Kansas and Missouri. According to the Prairie Village Post , earlier this month lawyer Mark Molner was driving through a Kansas City suburb on his way home from his wife’s sonogram. All of a sudden, his BMW was blocked in front by a police car as another officer on a motorcycle pulled up behind him. (His pregnant wife witnessed the incident from a nearby parked car.)
+
+According to what Molner told the Post, one of the officers then approached his car with his gun out.
+
+“He did not point it at me, but it was definitely out of the holster,” Molner told the Post. “I am guessing that he saw the shock and horror on my face, and realized that I was unlikely to make (more of) a scene.”
+
+The Prairie Village Police Department officers at the scene eventually informed Molner that their license plate reader misread a “7” on his plate for a “2.” The LPR used the incorrect number to alert the officers to a stolen Oldsmobile and not a BMW.
+
+Molner did not respond to Ars’ repeated requests for comment. The Prairie Village Police Department declined to comment on the incident.
+
+According to the Post, police department spokesman Capt. Wes Lovett said the officer got the hit blocks before Molner was actually pulled over. A nearby street, State Line Road marks the city and state boundary between Kansas and Missouri. If Molner was a criminal and crossed state lines, that would have been out of Prairie Village’s jurisdiction.
+
+“Due to rush hour traffic, he was unable to compare the two tags prior to activating a traffic stop,” Lovett said. “What he did know is that the tag from the [license plate reader] came back to an Oldsmobile, however, that doesn’t mean the tag isn’t stolen. The BMW could be stolen or it could have simply been a switched tag.
+
+Advertisement
+
+“The officer has discretion on whether or not to unholster his weapon depending on the severity of the crime. In this case he did not point it at the driver, rather kept it down to his side because he thought the vehicle could possibly be stolen. If he was 100 percent sure it was stolen, then he would have conducted a felony car stop which means both officers would have been pointing guns at him while they gave him commands to exit the vehicle.”
+
+Molner, a local lawyer, said he isn’t planning on pursuing further action against the PVPD, even though he questions the agency’s behavior.
+
+“I’m armchair quarterbacking the police, which is not a good position to be in,” Molner told the Post. “But before you unholster your gun, you might want to confirm that you’ve got the people you’re looking for.”
+
+Lovett told the paper that this was the first false reading and unwarranted traffic stop since the city's LPR first entered into service over a year ago. Nationwide, there have been relatively few incidents reported. In 2011, a federal appeals court upheld the case of a San Francisco police officer who stopped a woman after her license plate was mistakenly read by an LPR. She was ordered to pull her vehicle over, subsequently ordered from the car at gunpoint to her knees, and handcuffed. After the police determined that her car was the wrong one, she filed a lawsuit against the city and the San Francisco Police Department. The suit was dismissed on the grounds that there was a reasonable suspicion to stop her and that the officer used reasonable force.
+
+Typically, LPRs can read 60 license plates per second and match observed plates against a "hot list" of wanted vehicles, stolen cars, or criminal suspects. Today, tens of thousands of LPRs are being used by law enforcement agencies all over the country. Practically every week, local media report on some LPR expansion. And often, the data captured by the LPR —which plate, when and where it was seen—is kept for weeks, months, or sometimes indefinitely. It can create a major pool of data, leaving the very real possibility for an occasional misread.

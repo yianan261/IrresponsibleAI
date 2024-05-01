@@ -1,0 +1,81 @@
+Unlike Beyoncé, we do not all wake up flawless—at least not according to the iPhone X.
+
+Several iPhone X–owning Twitter users have taken to the latter (probably using the former) to complain that Face ID—the phone’s facial recognition technology—fails to recognize their face first thing in the morning. Like a drunken one-night stand, the iPhone X doesn’t quite know who they are in the morning light.
+
+Face ID, Apple’s follow-up to Touch ID, allows users to unlock their phone with their face—or more specifically, with a mathematical representation of their facial structure. Gone is the home button and the old-fashioned fingerprint: Apple’s new favorite biometric is the facial scan, the idea being that users can unlock their phones with merely a glance. It’s futuristic; it’s fun; it’s kinda OTT.
+
+But while our fingerprints never vary, it seems our faces do, dramatically. Face ID is supposed to adapt to slight changes in its owner’s appearance, and it’s supposedly cool with you putting on makeup or growing a beard—though if you shave it off suddenly, you’ll be asked to confirm your identity with a pass code. (Friends and family may require the same.) Twitter users have keenly documented the facial accouterments their perceptive iPhone X can recognize them through: sunglasses, makeup, shaving foam, an Oculus headset. (Jury’s still out on face masks.) Yet for some, their clean, unobstructed morning face is hard for the technology to identify.
+
+Advertisement
+
+Connie Wang, a senior features writer at Refinery29, recently tweeted about her recurring Face non-ID:
+
+Every morning, my iPhone refuses to recognize that my puffy face is actually my face, and I have to unlock my phone with the passcode, and frankly it is a humiliating neg to wake up to! — Connie Wang (@conniewang) June 18, 2018
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+For Wang, nothing seems to make a difference: Face ID is just not an option during the first 30 minutes or so of her day. “It’s every damn morning,” she tells me in an email. “It doesn’t matter if I wake up in the dark or in bright sunlight, if I have glasses on or don’t, or if I’ve spent the night drinking, or slept a restful eight hours,” she says. Wang says her face—and Face ID—usually returns to normal functioning within half an hour, faster if she moves around, at which point her iPhone starts to recognize her.
+
+Facial swelling in the morning is not unusual, and it’s usually nonserious. According to HealthGuidance, morning inflammation is often caused by allergies or by fluids pooling in the face while horizontal, while others blame it on water retention caused by dehydration. It doesn’t drastically change a person’s appearance. Yet for all its machine learning intelligence, Face ID can’t recognize the slightly swollen version of Wang’s face. The journalist, who is of Chinese ancestry, says that this may have something to do with race. “Chinese people always associate waking up with having a puffy face,” she writes. “My family always used to joke about each other’s faces in the morning.” She suspects that it’s her eyes that Face ID is having the most problems with: It also struggles “after an intense cry or during allergy season.”
+
+Advertisement
+
+Advertisement
+
+For Face ID to work, the visage before it needs to match up fairly closely with the one enrolled in the phone during setup. The scan it undertakes is rather complex. (Apple brags that it is “some of the most advanced hardware and software that we’ve ever created.”) During setup, the user is required to move the phone in a semicircular motion around their face to record as many angles as possible, similar to rolling your fingerprint around on Touch ID. When it comes to unlocking the device, things get even more high-tech: When a face-owning human holds up the locked phone, the front-facing TrueDepth camera projects 30,000 invisible dots onto it, creating a depth map, which is converted into a mathematical representation, which is compared with the detailed facial data on file.
+
+Advertisement
+
+Advertisement
+
+It’s the secrecy surrounding the face-matching algorithm that has made Face ID an object of hacker fascination since its announcement in September. Security experts were quick to try to trick it, with many concerned that the tech could be easily fooled. Marc Rogers, the chief security officer for ScaleFT, says that they’ve established a few parameters without Apple’s help or confirmation, via reverse engineering. For example, it’s clear that Face ID “assigns a higher value to certain parts of the face.” Some parts, like the mouth, can be covered up and Face ID will still work, while others, like the nose, cannot.
+
+Advertisement
+
+Advertisement
+
+Face ID is supposed to work under a range of circumstances. Apple has bragged that it functions in low lighting and “even in total darkness,” because it uses infrared to map your face. Face ID is supposed to work even with hats, beards, and glasses, because it uses machine learning to recognize changes in your appearance. But the machine clearly hasn’t learned about morning face yet. Wang’s slightly amplified face is difficult for the iPhone X to identify, despite its ability to recognize a face shape through shaving foam.
+
+Advertisement
+
+In the morning, the iPhone X adds insult to injury by telling you just how far from normal you look.
+
+Rogers says he would expect to be hearing more about morning-face fails if it were a widespread problem. The problem may not be across the board, but Wang is certainly not alone. Boris Veldhuijzen van Zanten, CEO and co-founder of the Next Web, recently tweeted about a range of circumstances under which Face ID doesn’t work, including when you “just woke up and your face is still a mess.” He runs into the face morning barrier about once per week. For him, though, it’s not about puffiness; he says in an email that his face is “more wrinkly and stressed” when he wakes up, and that it “takes a while for it all to unfurl and relax” (though he insists that he doesn’t look “THAT different”). But it’s still about the eyes: “Apparently I still have my eyes half-closed and sometimes it then doesn’t recognize me and I’ll laugh and wonder how contorted my face must look.”
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+So the eyes seem to be the key here. Another user tweeted that she is unrecognizable to her iPhone when she wakes up with eyes swollen from allergies. Interestingly enough, however, eyes are one of the few features Rogers has ruled out as unnecessary to the 3D scan: Face ID will unlock for someone with photos or photocopies of eyes taped over their real eyes. The main thing is not that they are real eyes, but that they are open eyes. “That could be it,” he says when I point out the common eye thread. “The photocopies that work are of wide-open eyes staring. … A test could be to ask these people when it fails, ‘How about trying to use your fingers to widen your eyes and then try?’ “
+
+Advertisement
+
+Not only is not being able to unlock your iPhone at a glance frustrating (especially when you’ve paid more than $1,000 for that right), but first thing in the morning, it also feels like a slight. Nobody other than Beyoncé wakes up looking perfect. But the iPhone X adds insult to injury by telling you just how far from normal you look. One user that the tech couldn’t recognize first thing figured that he “must look like a bag of shit in the morning,” while another wondered, “Should I be offended?“ Others have come to terms with it: “It’s ok…I understand… I’m not myself anyway.” Dennis Plucinik—who tweeted that Face ID works “zero percent of the time“ on his morning face—told me over email that his iPhone insults him every morning. As Connie tweeted, it’s a “humiliating neg.”
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+It’s also another kind of neg—a false neg. Rogers explains that there are two kinds of issues Apple is trying to avoid in Face ID: false positives (where an unauthorized user gets into the phone) and false negatives (where a legitimate person can’t get into the phone). But while false positives are much more concerning for privacy advocates, Apple is especially concerned with the latter. “Apple almost hates the false-negative rate as much as they hate the false-positive rate,” he says. “For Apple, usability is king. Everything they do is designed to be easy to use and friendly.”
+
+Advertisement
+
+I reached out to Apple for comment about the Morning Face ID struggle, and a very friendly representative suggested I look at the general Face ID tips on Apple Support: “Tips 4 and 5 may be most relevant; make sure nothing is covering your face (like a pillow), and make sure you’re facing the TrueDepth camera with an arm’s length or closer (10–20 inches) from your face.” But that’s not the issue these users have identified. Their iPhone can see them—it just doesn’t like what it sees. Apple is reportedly introducing multiuser Face ID support in iOS 12, so perhaps users can use their “Alternative Appearance” feature to introduce their iPhone to their alternative morning face.
+
+Advertisement
+
+Advertisement
+
+Of course, unrecognizable morning users can still get into their cruel phones by entering their pass code, as I often have to with Touch ID just after I get out of the shower, or as we all once had to back in the good old days, before Apple started turning its phones into biometric security experiments. But why should these users have to waste valuable morning seconds on a PIN just because Face ID won’t oblige them?
+
+Perhaps it’s an inadvertent wake-up call for those of us whose first interaction of the day (and second, and third) is with our smartphone: Maybe try making yourself presentable before you reach for that first hit of dopamine.

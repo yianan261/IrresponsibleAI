@@ -124,15 +124,11 @@ Share this on Twitter (Opens in a new window)
 
 Share this on Facebook (Opens in a new window)
 
-Google had a major PR disaster on its hands thanks to "deep learning." ( Jacky Alcine/Twitter ). . Google has come under fire recently for an objectively racist “glitch” found in its new Photos application for iOS and Android that is identifying black people as "gorillas."
+Google had a major PR disaster on its hands thanks to "deep learning." ( Jacky Alcine/Twitter ). . Google has come under fire recently for an objectively racist “glitch” found in its new Photos application for iOS and Android that is identifying black people as “gorillas.”
 
 In theory, Photos is supposed to act like an intelligent digital assistant. Its underlying algorithms can categorize your entire camera roll based on a number of different factors like date, location, and subject matter. Apparently, however, at least one black user has reported that the app categorized him and a black friend as “gorillas,” as opposed to people.
 
-Advertisement
-
 On Sunday, Google Photos user Jacky Alcine tweeted out a screenshot of the application that displayed a number of pictures organized into different albums. While the app’s algorithm was able to correctly identify pictures of a “graduation,” “skyscrapers,” and “airplanes,” it labeled photos of Alcine and a female friend as gorillas.
-
-Advertisement
 
 https://twitter.com/jackyalcine/status/615329515909156865/
 
@@ -140,27 +136,19 @@ https://twitter.com/jackyalcine/status/615331869266157568/
 
 Yontan Zunger, a senior software engineer for Google, quickly tweeted back at Alcine, assuring him that the mistake was a bug that would be fixed immediately. Alcine, to his credit, explained that he understood how algorithms can misidentify things in ways that humans don’t, but he questioned why this type of issue in particular was still such a problem for a software giant like Google.
 
-Advertisement
-
 “We’re appalled and genuinely sorry that this happened,” an official Google statement on the matter read. “There is still clearly a lot of work to do with automatic image labeling, and we’re looking at how we can prevent these types of mistakes from happening in the future.”
-
-Advertisement
 
 As nice as it is of Google to assure us that something like this is a freak instance of coding-gone-wrong, it’s hardly the first time that we’ve seen software show an implicit bias against people of color.
 
-Advertisement
+One of the most well-known instances of technology snubbing its owners came in the form of digital cameras assuming that their eyes were closed while smiling. The cameras’ sensors mistook the shape of Asian eyes and interpreted them as blinking, prompting the camera to mark the photos taken as flawed.
 
-One of the most well-known instances of technology snubbing its owners came in the form of digital cameras assuming that their eyes were closed while smiling. The cameras' sensors mistook the shape of Asian eyes and interpreted them as blinking, prompting the camera to mark the photos taken as flawed.
-
-Sadly, there's more.
+Sadly, there’s more.
 
 The software built to support a number of different sensors used in digital cameras and webcams has been observed to flat-out not be able to perceive people with darker skin tones.
 
-Back in 2010, a series of HP computers was widely affected by these so-called "racist" webcams. Five years later, similar software-based gaffes still plague services like Flickr. Last month Flickr rolled out a similar algorithm into its popular photo-sharing network that promised to help users more effectively tag their photos. The function identified both a black man and a white woman as apes on two separate occasions. Suffice it to say that this problem isn't exactly going away.
+Back in 2010, a series of HP computers was widely affected by these so-called “racist” webcams. Five years later, similar software-based gaffes still plague services like Flickr. Last month Flickr rolled out a similar algorithm into its popular photo-sharing network that promised to help users more effectively tag their photos. The function identified both a black man and a white woman as apes on two separate occasions. Suffice it to say that this problem isn’t exactly going away.
 
-Advertisement
-
-The mistakes are made because algorithms, smart as they are, are terrible at making actual sense of pictures they analyze. Instead of "seeing" a face, algorithms identify shapes, colors, and patterns to make educated guesses as to what the picture might actually be. This works wonderfully for inanimate objects or iconic things like landmarks, but it's proven to be a sticking point for people of color time and time again.
+The mistakes are made because algorithms, smart as they are, are terrible at making actual sense of pictures they analyze. Instead of “seeing” a face, algorithms identify shapes, colors, and patterns to make educated guesses as to what the picture might actually be. This works wonderfully for inanimate objects or iconic things like landmarks, but it’s proven to be a sticking point for people of color time and time again.
 
 Perhaps if the titans of Silicon Valley hired more engineers of color, things like this wouldn’t happen so often. Or, you know, ever.. Story highlights Google Photos tagged an African-American man's pictures of him and a friend as "Gorillas" He highlighted the problem on Twitter, drawing the attention of a Google engineer
 
@@ -204,7 +192,9 @@ But he acknowledged that “the history of racism is what makes this error parti
 
 Whether you come to HuffPost for updates on the 2024 presidential race, hard-hitting investigations into critical issues facing our country today, or trending stories that make you laugh, we appreciate you. The truth is, news costs money to produce, and we are proud that we have never put our stories behind an expensive paywall.
 
-Would you join us to help keep our stories free for all? Your contribution of as little as $2 will go a long way.. Photo: Debi Dalio/Getty Images
+Would you join us to help keep our stories free for all? Your contribution of as little as $2 will go a long way.
+
+Can't afford to donate? Support HuffPost by creating a free account and log in while you read.. Photo: Debi Dalio/Getty Images
 
 It’s been over two years since engineer Jacky Alciné called out Google Photos for auto-tagging black people in his photos as “gorillas.” After being called out, Google promptly and profusely apologized, promising it’d fix the problems in the algorithm. “Lots of work being done, and lots still to be done,” tweeted Yonatan Zunger, chief architect of social at Google, according to CNET. “We’re very much on it.” It’s 2018, and it appears “on it” just meant a shoddy work-around that involved blocking all things the algorithm identified as “gorilla” from being tagged, just in case the algorithm opted to tag a black person again.
 

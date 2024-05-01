@@ -7,6 +7,8 @@ import datetime
 from format_checker import FormatChecker
 import os
 from incident_data import IncidentData
+import threading
+import concurrent.futures
 
 
 class FileNotFoundError(Exception):
@@ -47,18 +49,10 @@ class NewsContent:
         logging.info("Successfully loaded JSON data, starting to scrape articles...")
 
         aggregated_content = self.aggregated_content
-
-        # TODO: remove counter (testing with the first 5 incidents)
-        count = 0
         for id, urls in urls_dict.items():
-            if count == 15:
-                break
-            count += 1
-            aggregated_texts = []
-            for url in urls:
-                article_text = self.scrape_article(url)
-                aggregated_texts.append(article_text)
-                concated = ". ".join(aggregated_texts)
+            with concurrent.futures.ThreadPoolExecutor(max_workers=16) as executor:
+                article_texts = executor.map(self.scrape_article, urls)
+            concated = ". ".join(article_texts)
             aggregated_content[id] = concated
             # write to file
             if write == True:

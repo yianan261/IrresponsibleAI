@@ -1,0 +1,67 @@
+One day last summer, Microsoft’s director of artificial intelligence research, Eric Horvitz, activated the Autopilot function of his Tesla sedan. The car steered itself down a curving road near Microsoft’s campus in Redmond, Washington, freeing his mind to better focus on a call with a nonprofit he had cofounded around the ethics and governance of AI. Then, he says, Tesla’s algorithms let him down.
+
+“The car didn’t center itself exactly right,” Horvitz recalls. Both tires on the driver’s side of the vehicle nicked a raised yellow curb marking the center line, and shredded. Horvitz had to grab the wheel to pull his crippled car back into the lane. He was unharmed, but the vehicle left the scene on the back of a truck, with its rear suspension damaged. Its driver left affirmed in his belief that companies deploying AI must consider new ethical and safety challenges. Tesla says Autopilot is intended for use by a fully attentive driver.
+
+At Microsoft, Horvitz helped establish an internal ethics board in 2016 to help the company navigate potentially tricky spots with its own AI technology. The group is cosponsored by Microsoft’s president and most senior lawyer, Brad Smith. It has prompted the company to refuse business from corporate customers, and to attach conditions to some deals limiting the use of its technology.
+
+Horvitz declined to provide details of those incidents, saying only that they typically involved companies asking Microsoft to build custom AI projects. The group has also trained Microsoft sales teams on applications of AI the company is wary of. And it helped Microsoft improve a cloud service for analyzing faces that a research paper revealed was much less accurate for black women than white men. “It's been heartening to see the engagement by the company and how seriously the questions are being taken,” Horvitz says. He likens what’s happening at Microsoft to an earlier awakening about computer security—saying it too will change how every engineer works on technology.
+
+Many people are now talking about the ethical challenges raised by AI, as the technology extends into more corners of life. French President Emmanuel Macron recently told WIRED that his national plan to boost AI development would consider setting “ethical and philosophical boundaries.” New research institutes, industry groups, and philanthropic programs have sprung up.
+
+Microsoft is among the smaller number of companies building formal ethics processes. Even some companies racing to reap profits from AI have become worried about moving too quickly. “For the past few years I’ve been obsessed with making sure that everyone can use it a thousand times faster,” says Joaquin Candela, Facebook’s director of applied machine learning. But as more teams inside Facebook use the tools, “I started to become very conscious about our potential blind spots.”
+
+At Facebook’s annual developer conference this month, data scientist Isabel Kloumann described a kind of automatic adviser for the company’s engineers called Fairness Flow. It measures how machine-learning software analyzing data performs on different categories—say men and women, or people in different countries—to help expose potential biases. Research has shown that machine-learning models can pick up or even amplify biases against certain groups, such as women or Mexicans, when trained on images or text collected online.. The Ethics of Artificial Intelligence transcript from the #transhumancode bestseller
+
+In the summer of 2017, Eric Horvitz turned on the Autopilot function of his Tesla sedan. Not having to worry about steering the car along a curving road in Redmond, Washington, allowed Horvitz to better focus on the call he was taking with a nonprofit he had cofounded. The topic of the call? The ethics and governance of AI.
+
+That’s when Tesla’s AI let him down.
+
+Both driver’s side tires bumped up against a raised yellow curb in the middle of the road, shredding the tires instantly and forcing Horvitz to quickly reclaim control of the vehicle. Because the car hadn’t centered itself properly, Horvitz found himself standing on the sidewalk, watching a truck tow his Tesla away.
+
+But what was mostly on his mind was the fact that companies utilizing AI needed to consider new ethical and safety challenges. And Horvitz isn’t alone. New think tanks, industry groups, research institutes, and philanthropic organizations have emerged, all concerned with setting ethical boundaries around AI.
+
+https://www.techrepublic.com/article/why-trust-is-the-essential-currency-of-cybersecurity/
+
+The automotive sector is rife with ethical conundrums. Consider these (and realize they are only the tip of the iceberg):
+
+When programming how a car should respond to an impending crash, whose interests should most be considered — the driver of the car, the driver of the approaching car, or the insurance companies of either? Should the AI of an automobile be programmed to minimize loss of life, even if that means sacrificing its own driver to save multiple lives in another vehicle? How does the preservation of private or public property come into play when programming a car to avoid an accident?
+
+As you can see, the ethical situations AI poses go on and on. And this doesn’t even begin to consider AI being used in online ad algorithms, the tagging of online photos, and the relatively new field of private drones.
+
+Horvitz realized rather quickly after calling Tesla to report the accident that the company was much more concerned about liability issues than they were with solving any deep, ethical quandaries around their use of AI.
+
+“I get that,” says Horvitz, whose love for his Tesla didn’t diminish. “If I had a nasty rash or problems breathing after taking medication, there’d be a report to the FDA…I felt that that kind of thing should or could have been in place.”
+
+These are the sorts of questions we will all have to answer — what will the ethical parameters be in corporate use of Artificial Intelligence, and who will set the standards as we move into this new world?
+
+Of course, these are only examples of AI questions in instances where it is being used legally — the big threats ahead on cyber security will be the use of artificial intelligence algorithm for illegal purposes. In the same way that AI can be used for good purposes, it can also be used
+
+https://www.wired.com/story/tech-firms-move-to-put-ethical-guard-rails-around-ai/
+
+for cybercrime to analyze the behavior of certain people, anticipate their next move, and attack them when they are least suspecting the attack.
+
+Current and future generations view cybersecurity in completely new ways, understanding they were born into a complex world, and tending to have better developed instincts than previous generations.
+
+They show less risk of being compromised by traditional methods. Yet, even Millennials have shown themselves and their personal data to be overly exposed, as has been demonstrated by the latest events of social media companies abusing their data.
+
+Twenty years ago, the question we wrestled with was whether complete interconnectedness in an everything-is-online world would be worth the resulting loss of privacy.
+
+Since then, we answered that question with a resounding yes, connecting anything and everything to the Internet, including ourselves through our phones and other smart devices, introducing a brand-new, overarching question:
+
+In a world where everything is connected, how can we help the individual maintain privacy, security, and autonomy?
+
+As recent social media practices have shown, individuals and organizations will sell data, even private data, when large profits hang in the balance. We have to return to a stronger concern for privacy, using the identification of people as a way to protect them against potential abuse or personal data loss. We must set up an ethical hedge that will keep AI from illegally exploiting those who engage with it.
+
+This endeavor sets up the major questions we have to answer:
+
+1) How will an ethical security hedge be created to keep AI from exploiting us?
+
+2) Who should be responsible for this endeavor?
+
+3) Is this a government mandate?
+
+4) Or is the effort left to the private sector?
+
+The answers are likely somewhere in between. Or better said, they’re found in a collaboration between public, private, and government sectors. Are we willing to begin that collaboration now, and continue it until we have a satisfactory solution?
+
+These are the questions that must be answered if today’s cybersecurity is going to provide us any legitimate sense of safety and comfort, allowing us to thrive in our an online and hyperconnected world, and protect those basic human values and rights that we cannot live without #transhumancode extract

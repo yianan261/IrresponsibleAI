@@ -1,0 +1,63 @@
+. About five or six years ago, one of Karl Ricanek’s students showed him a video on YouTube. It was a time lapse of a person undergoing hormone replacement therapy, or HRT, in order to transition genders. “At the time, we were working on facial recognition,” Ricanek, a professor of computer science at the University of North Carolina at Wilmington, tells The Verge. He says he and his students were always trying to find ways to break the systems they worked on, and that this video seemed like a particularly tricky challenge. “We were like, ‘Wow there’s no way the current technology could recognize this person [after they transitioned].’”
+
+Ricanek turned to YouTube to find images of transgender people
+
+To tackle the problem, Ricanek did what all good scientists do: he started collecting data. Like all AI systems, facial recognition software requires stacks of information to train on, and although there are a number of sizable and freely available face databases available (ranging in size from thousands to millions of images), there was nothing documenting faces before and after HRT. So, Ricanek turned to the internet — a decision that would later prove to be controversial.
+
+On YouTube, he found a treasure trove. Individuals undergoing HRT often document their progress and post the results online, sometimes keeping regular diaries, and sometimes making time-lapse videos of the entire process. “I shared my videos because I wanted other trans people to see my transition,” says Danielle, who posted her transition video on YouTube years ago. “These types of transition montages were helpful to me, so I wanted to pay it forward,” she tells The Verge.
+
+The videos also happen to be gold for AI researchers, as each contains dozens of varied, true-to-life photos. As Ricanek wrote on a webpage for the dataset he would compile from the videos: “[It] includes an average of 278 images per subject that are taken under real-world conditions, and hence, include variations in pose, illumination, expression, and occlusion.”
+
+But the problem is: do the people in these videos know or care that the personal journey they shared to help others is being used to improve facial recognition software?
+
+“How is this even legal?”
+
+Adam Harvey, an artist and researcher whose work examines privacy and technology, tells The Verge over email that this sort of data-scraping is “beyond common.” It was Harvey who found the HRT Transgender Dataset during research for an upcoming project examining exactly this sort of AI-training practice. He shared it on Twitter, where reactions were not good. “How is this even legal?” asked one user. “Not okay,” said another.
+
+Ricanek wasn’t aware that his work was being discussed in this way when we reached out to him. He did, however, want to clarify a number of things about the research. First, that the dataset itself was just a set of links to YouTube videos, rather than the videos themselves; second, that he never shared it with anyone for commercial purposes (“Our job is just to illuminate what problem areas exist.”); and third, that he stopped giving access to it altogether three years ago.
+
+“The reason for that is that it felt a little uncomfortable in the current climate to provide those things out there,” he told The Verge. “I have no inclination to distribute even the links any longer, for political reasons. People can use this for harm, and that was not my intent.” He says his team did try to contact individuals whose videos he listed and ask their permission “as a courtesy,” but admitted that if someone didn’t respond, they might have been included anyway.
+
+Individuals were included in the dataset without their consent
+
+Danielle, who is featured in the dataset and whose transition pictures appear in scientific papers because of it, says she was never contacted about her inclusion. “I by no means ‘hide’ my identity,” she told The Verge using an online messaging service. “But this feels like a violation of privacy.” She said she was gratified to know that there are limits on the use of the dataset (especially that it wasn’t sold to companies), but said this sort of biometric collection had “all sorts of implications for the trans community.”
+
+“Someone who works in ‘identity sciences’ should understand the implications of identifying people, particularly those whose identity may make them a target (i.e., trans people in the military who may not be out),” she said. “Within the trans community, there's a non-trivial segment of people terrified by YouTube videos or other content that helps people figure out how to ‘spot the trans person.’”
+
+For Harvey, this story is not surprising. “The lack of public discourse around data collection ethics has allowed researchers to continue amassing vast troves of biometric data from social media sources, namely Flickr and YouTube,” he says. These images can be given a Creative Commons (CC) license by default, allowing them to be downloaded freely and used to train facial-recognition systems even when the research is funded by for-profit companies.
+
+And compared to other datasets, Ricanek’s is a minnow. The MegaFace dataset compiled by the University of Washington, for example, contains 4.7 million images of roughly 627,000 individuals — all taken from Flickr users. The project’s sponsors include Samsung, Intel, and Google, and the data itself is used by researchers from all over the world, whose work almost certainly feeds into paid products.
+
+Example faces from the MegaFace dataset.
+
+Harvey says that putting aside issues of legality and consent, there are “deeper ethical questions about the actual content in these datasets.” He points out that the two most common categories of images in MegaFace are “family” and “wedding.” Which makes sense, as who do we like to takes pictures of more than our loved ones? A look inside the database, says Harvey, “reveals countless personal photos of people's homes, weddings, picnics, beach trips, selfies, and even photos of children. Most, if not all, people in these photos are unaware that biometric companies around the world are honing facial recognition algorithms on their friends, family, and children.”
+
+Law enforcement and national security agencies are also interested in this data. Ricanek’s research is partly funded by the FBI and the Army (although he says the transgender dataset was never shared with any government agencies nor was it funded by them). Ricanek justified the research as a solution to a fantastical border threat. But a system using this kind of research could exacerbate the harassment and humiliation that transgender people already face at travel checkpoints.
+
+“As academics, we see great challenges ... but behind those challenges are real people.”
+
+“What kind of harm can a terrorist do if they understand that taking this hormone can increase their chances of crossing over into a border that’s protected by face recognition? That was the problem that I was really investigating,” he says. “I’m deeply apologetic for any type of pain this may have caused any people in these videos. That’s certainly not where I’m coming from. As academics, we see great challenges and we want to work on them, but behind those challenges are real people, who may be impacted in ways we have not comprehended.”
+
+Harvey says there’s currently “little debate” about the ethics of this sort of data collection. It’s a complex topic, and although individuals might be outraged that their image is being used without permission, there’s little they can do about it.
+
+There is pushback in some instances (like when a researcher scraped 40,000 selfies from Tinder without permission and posted the dataset online), but in the debate about what is the right and the wrong way to go about acquiring data, the loudest voices are those of big companies. This leads to situations like in the UK, where Google’s AI subsidiary DeepMind made an illegal deal to access medical records belonging to 1.6 million individuals.. New research finds that a controversial facial recognition dataset of trans people remained available online for years after the initial controversy of its existence, reports AlgorithmWatch. The academic responsible is a U.S. government advisor.
+
+Public scrutiny goes back to 2017 when The Verge investigated the work of Karl Ricanek, professor at the University of North Carolina Wilmington, notes AlgorithmWatch. But his research goes back even further, to 2013.
+
+Ricanek built a biometric dataset of 10,000 images of 38 trans people, scraped from their YouTube videos documenting their hormone therapies. The dataset would improve facial recognition system accuracy in being able to establish that an individual is the same person but after hormone therapy.
+
+In 2017, Ricanek said he had tried to acquire consent from the video posters, but had not been able to reach them all and that he only shared links to the videos, not the images themselves.
+
+However, fresh research by Os Keyes and Jeanie Austin, published in Big Data & Society, finds that not only was the HRT Transgender Dataset still available as a Dropbox URL until April 2021, but that it was not simply video URLs, but contained the videos, many of which had since been deleted from YouTube by the posters and all of which were subject to copyright.
+
+Keyes and Austin contacted the institutional review board at the University of North Carolina at Wilmington about the project, only to discover that Ricanek never sought ethical approval. The dataset was shared with academics who subsequently shared it with their own doctoral students and researchers, again without oversight.
+
+Earlier this week, Ricanek spoke about democratizing face biometric technology for the transgender community, at FedID, the Federal Identity Forum and Expo, as part of the U.S. National Academies of Sciences, Engineering and Medicine knowledge-gathering project on facial recognition and the data behind it.
+
+Ricanek said that democratizing face-based tech for the transgender community will be a challenge for algorithms as well as policymakers.
+
+His data acquisition appears to be informing his advice. He said that even hormone therapy can alter a face significantly as changes in skin density and vascular structure can be enough to fool AI.
+
+Article Topics
+
+biometrics | biometrics research | dataset | ethics | facial recognition

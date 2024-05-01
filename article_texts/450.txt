@@ -1,0 +1,221 @@
+Content warning: this story contains descriptions of sexual abuse
+
+ChatGPT was hailed as one of 2022’s most impressive technological innovations upon its release last November. The powerful artificial intelligence (AI) chatbot can generate text on almost any topic or theme, from a Shakespearean sonnet reimagined in the style of Megan Thee Stallion, to complex mathematical theorems described in language a 5 year old can understand. Within a week, it had more than a million users.
+
+ChatGPT’s creator, OpenAI, is now reportedly in talks with investors to raise funds at a $29 billion valuation, including a potential $10 billion investment by Microsoft. That would make OpenAI, which was founded in San Francisco in 2015 with the aim of building superintelligent machines, one of the world’s most valuable AI companies.
+
+But the success story is not one of Silicon Valley genius alone. In its quest to make ChatGPT less toxic, OpenAI used outsourced Kenyan laborers earning less than $2 per hour, a TIME investigation has found.
+
+More from TIME
+
+The work was vital for OpenAI. ChatGPT’s predecessor, GPT-3, had already shown an impressive ability to string sentences together. But it was a difficult sell, as the app was also prone to blurting out violent, sexist and racist remarks. This is because the AI had been trained on hundreds of billions of words scraped from the internet—a vast repository of human language. That huge training dataset was the reason for GPT-3’s impressive linguistic capabilities, but was also perhaps its biggest curse. Since parts of the internet are replete with toxicity and bias, there was no easy way of purging those sections of the training data. Even a team of hundreds of humans would have taken decades to trawl through the enormous dataset manually. It was only by building an additional AI-powered safety mechanism that OpenAI would be able to rein in that harm, producing a chatbot suitable for everyday use.
+
+Read More: AI Chatbots Are Getting Better. But an Interview With ChatGPT Reveals Their Limits
+
+To build that safety system, OpenAI took a leaf out of the playbook of social media companies like Facebook, who had already shown it was possible to build AIs that could detect toxic language like hate speech to help remove it from their platforms. The premise was simple: feed an AI with labeled examples of violence, hate speech, and sexual abuse, and that tool could learn to detect those forms of toxicity in the wild. That detector would be built into ChatGPT to check whether it was echoing the toxicity of its training data, and filter it out before it ever reached the user. It could also help scrub toxic text from the training datasets of future AI models.
+
+To get those labels, OpenAI sent tens of thousands of snippets of text to an outsourcing firm in Kenya, beginning in November 2021. Much of that text appeared to have been pulled from the darkest recesses of the internet. Some of it described situations in graphic detail like child sexual abuse, bestiality, murder, suicide, torture, self harm, and incest.
+
+OpenAI’s outsourcing partner in Kenya was Sama, a San Francisco-based firm that employs workers in Kenya, Uganda and India to label data for Silicon Valley clients like Google, Meta and Microsoft. Sama markets itself as an “ethical AI” company and claims to have helped lift more than 50,000 people out of poverty.
+
+Sama's office in Nairobi, Kenya, on Feb. 10, 2022. Khadija Farah for TIME
+
+The data labelers employed by Sama on behalf of OpenAI were paid a take-home wage of between around $1.32 and $2 per hour depending on seniority and performance. For this story, TIME reviewed hundreds of pages of internal Sama and OpenAI documents, including workers’ payslips, and interviewed four Sama employees who worked on the project. All the employees spoke on condition of anonymity out of concern for their livelihoods.
+
+The story of the workers who made ChatGPT possible offers a glimpse into the conditions in this little-known part of the AI industry, which nevertheless plays an essential role in the effort to make AI systems safe for public consumption. “Despite the foundational role played by these data enrichment professionals, a growing body of research reveals the precarious working conditions these workers face,” says the Partnership on AI, a coalition of AI organizations to which OpenAI belongs. “This may be the result of efforts to hide AI’s dependence on this large labor force when celebrating the efficiency gains of technology. Out of sight is also out of mind.” (OpenAI does not disclose the names of the outsourcers it partners with, and it is not clear whether OpenAI worked with other data labeling firms in addition to Sama on this project.)
+
+More from TIME
+
+In a statement, an OpenAI spokesperson confirmed that Sama employees in Kenya contributed to a tool it was building to detect toxic content, which was eventually built into ChatGPT. The statement also said that this work contributed to efforts to remove toxic data from the training datasets of tools like ChatGPT. “Our mission is to ensure artificial general intelligence benefits all of humanity, and we work hard to build safe and useful AI systems that limit bias and harmful content,” the spokesperson said. “Classifying and filtering harmful [text and images] is a necessary step in minimizing the amount of violent and sexual content included in training data and creating tools that can detect harmful content.”
+
+Even as the wider tech economy slows down amid anticipation of a downturn, investors are racing to pour billions of dollars into “generative AI,” the sector of the tech industry of which OpenAI is the undisputed leader. Computer-generated text, images, video, and audio will transform the way countless industries do business, the most bullish investors believe, boosting efficiency everywhere from the creative arts, to law, to computer programming. But the working conditions of data labelers reveal a darker part of that picture: that for all its glamor, AI often relies on hidden human labor in the Global South that can often be damaging and exploitative. These invisible workers remain on the margins even as their work contributes to billion-dollar industries.
+
+Read More: AI Helped Write This Play. It May Contain Racism
+
+One Sama worker tasked with reading and labeling text for OpenAI told TIME he suffered from recurring visions after reading a graphic description of a man having sex with a dog in the presence of a young child. “That was torture,” he said. “You will read a number of statements like that all through the week. By the time it gets to Friday, you are disturbed from thinking through that picture.” The work’s traumatic nature eventually led Sama to cancel all its work for OpenAI in February 2022, eight months earlier than planned.
+
+The Sama contracts
+
+Documents reviewed by TIME show that OpenAI signed three contracts worth about $200,000 in total with Sama in late 2021 to label textual descriptions of sexual abuse, hate speech, and violence. Around three dozen workers were split into three teams, one focusing on each subject. Three employees told TIME they were expected to read and label between 150 and 250 passages of text per nine-hour shift. Those snippets could range from around 100 words to well over 1,000. All of the four employees interviewed by TIME described being mentally scarred by the work. Although they were entitled to attend sessions with “wellness” counselors, all four said these sessions were unhelpful and rare due to high demands to be more productive at work. Two said they were only given the option to attend group sessions, and one said their requests to see counselors on a one-to-one basis instead were repeatedly denied by Sama management.
+
+In a statement, a Sama spokesperson said it was “incorrect” that employees only had access to group sessions. Employees were entitled to both individual and group sessions with “professionally-trained and licensed mental health therapists,” the spokesperson said. These therapists were accessible at any time, the spokesperson added.
+
+The contracts stated that OpenAI would pay an hourly rate of $12.50 to Sama for the work, which was between six and nine times the amount Sama employees on the project were taking home per hour. Agents, the most junior data labelers who made up the majority of the three teams, were paid a basic salary of 21,000 Kenyan shillings ($170) per month, according to three Sama employees. They also received monthly bonuses worth around $70 due to the explicit nature of their work, and would receive commission for meeting key performance indicators like accuracy and speed. An agent working nine-hour shifts could expect to take home a total of at least $1.32 per hour after tax, rising to as high as $1.44 per hour if they exceeded all their targets. Quality analysts—more senior labelers whose job was to check the work of agents—could take home up to $2 per hour if they met all their targets. (There is no universal minimum wage in Kenya, but at the time these workers were employed the minimum wage for a receptionist in Nairobi was $1.52 per hour.)
+
+In a statement, a Sama spokesperson said workers were asked to label 70 text passages per nine hour shift, not up to 250, and that workers could earn between $1.46 and $3.74 per hour after taxes. The spokesperson declined to say what job roles would earn salaries toward the top of that range. “The $12.50 rate for the project covers all costs, like infrastructure expenses, and salary and benefits for the associates and their fully-dedicated quality assurance analysts and team leaders,” the spokesperson added.
+
+Read More: Fun AI Apps Are Everywhere Right Now. But a Safety ‘Reckoning’ Is Coming
+
+An OpenAI spokesperson said in a statement that the company did not issue any productivity targets, and that Sama was responsible for managing the payment and mental health provisions for employees. The spokesperson added: “we take the mental health of our employees and those of our contractors very seriously. Our previous understanding was that [at Sama] wellness programs and 1:1 counseling were offered, workers could opt out of any work without penalization, exposure to explicit content would have a limit, and sensitive information would be handled by workers who were specifically trained to do so.”
+
+In the day-to-day work of data labeling in Kenya, sometimes edge cases would pop up that showed the difficulty of teaching a machine to understand nuance. One day in early March last year, a Sama employee was at work reading an explicit story about Batman’s sidekick, Robin, being raped in a villain’s lair. (An online search for the text reveals that it originated from an online erotica site, where it is accompanied by explicit sexual imagery.) The beginning of the story makes clear that the sex is nonconsensual. But later—after a graphically detailed description of penetration—Robin begins to reciprocate. The Sama employee tasked with labeling the text appeared confused by Robin’s ambiguous consent, and asked OpenAI researchers for clarification about how to label the text, according to documents seen by TIME. Should the passage be labeled as sexual violence, she asked, or not? OpenAI’s reply, if it ever came, is not logged in the document; the company declined to comment. The Sama employee did not respond to a request for an interview.
+
+How OpenAI’s relationship with Sama collapsed
+
+In February 2022, Sama and OpenAI’s relationship briefly deepened, only to falter. That month, Sama began pilot work for a separate project for OpenAI: collecting sexual and violent images—some of them illegal under U.S. law—to deliver to OpenAI. The work of labeling images appears to be unrelated to ChatGPT. In a statement, an OpenAI spokesperson did not specify the purpose of the images the company sought from Sama, but said labeling harmful images was “a necessary step” in making its AI tools safer. (OpenAI also builds image-generation technology.) In February, according to one billing document reviewed by TIME, Sama delivered OpenAI a sample batch of 1,400 images. Some of those images were categorized as “C4”—OpenAI’s internal label denoting child sexual abuse—according to the document. Also included in the batch were “C3” images (including bestiality, rape, and sexual slavery,) and “V3” images depicting graphic detail of death, violence or serious physical injury, according to the billing document. OpenAI paid Sama a total of $787.50 for collecting the images, the document shows.
+
+Within weeks, Sama had canceled all its work for OpenAI—eight months earlier than agreed in the contracts. The outsourcing company said in a statement that its agreement to collect images for OpenAI did not include any reference to illegal content, and it was only after the work had begun that OpenAI sent “additional instructions” referring to “some illegal categories.” “The East Africa team raised concerns to our executives right away. Sama immediately ended the image classification pilot and gave notice that we would cancel all remaining [projects] with OpenAI,” a Sama spokesperson said. “The individuals working with the client did not vet the request through the proper channels. After a review of the situation, individuals were terminated and new sales vetting policies and guardrails were put in place.”
+
+In a statement, OpenAI confirmed that it had received 1,400 images from Sama that “​​included, but were not limited to, C4, C3, C2, V3, V2, and V1 images.” In a followup statement, the company said: “We engaged Sama as part of our ongoing work to create safer AI systems and prevent harmful outputs. We never intended for any content in the C4 category to be collected. This content is not needed as an input to our pretraining filters and we instruct our employees to actively avoid it. As soon as Sama told us they had attempted to collect content in this category, we clarified that there had been a miscommunication and that we didn’t want that content. And after realizing that there had been a miscommunication, we did not open or view the content in question — so we cannot confirm if it contained images in the C4 category.”
+
+Sama’s decision to end its work with OpenAI meant Sama employees no longer had to deal with disturbing text and imagery, but it also had a big impact on their livelihoods. Sama workers say that in late February 2022 they were called into a meeting with members of the company’s human resources team, where they were told the news. “We were told that they [Sama] didn’t want to expose their employees to such [dangerous] content again,” one Sama employee on the text-labeling projects said. “We replied that for us, it was a way to provide for our families.” Most of the roughly three dozen workers were moved onto other lower-paying workstreams without the $70 explicit content bonus per month; others lost their jobs. Sama delivered its last batch of labeled data to OpenAI in March, eight months before the contract was due to end.
+
+Because the contracts were canceled early, both OpenAI and Sama said the $200,000 they had previously agreed was not paid in full. OpenAI said the contracts were worth “about $150,000 over the course of the partnership.”
+
+Sama employees say they were given another reason for the cancellation of the contracts by their managers. On Feb. 14, TIME published a story titled Inside Facebook’s African Sweatshop. The investigation detailed how Sama employed content moderators for Facebook, whose jobs involved viewing images and videos of executions, rape and child abuse for as little as $1.50 per hour. Four Sama employees said they were told the investigation prompted the company’s decision to end its work for OpenAI. (Facebook says it requires its outsourcing partners to “provide industry-leading pay, benefits and support.”)
+
+Read More: Inside Facebook’s African Sweatshop
+
+Internal communications from after the Facebook story was published, reviewed by TIME, show Sama executives in San Francisco scrambling to deal with the PR fallout, including obliging one company, a subsidiary of Lufthansa, that wanted evidence of its business relationship with Sama scrubbed from the outsourcing firm’s website. In a statement to TIME, Lufthansa confirmed that this occurred, and added that its subsidiary zeroG subsequently terminated its business with Sama. On Feb. 17, three days after TIME’s investigation was published, Sama CEO Wendy Gonzalez sent a message to a group of senior executives via Slack: “We are going to be winding down the OpenAI work.”
+
+On Jan. 10 of this year, Sama went a step further, announcing it was canceling all the rest of its work with sensitive content. The firm said it would not renew its $3.9 million content moderation contract with Facebook, resulting in the loss of some 200 jobs in Nairobi. “After numerous discussions with our global team, Sama made the strategic decision to exit all [natural language processing] and content moderation work to focus on computer vision data annotation solutions,” the company said in a statement. “We have spent the past year working with clients to transition those engagements, and the exit will be complete as of March 2023.”
+
+But the need for humans to label data for AI systems remains, at least for now. “They’re impressive, but ChatGPT and other generative models are not magic – they rely on massive supply chains of human labor and scraped data, much of which is unattributed and used without consent,” Andrew Strait, an AI ethicist, recently wrote on Twitter. “These are serious, foundational problems that I do not see OpenAI addressing.”
+
+With reporting by Julia Zorthian/New York. Content moderation is grueling, deeply traumatizing job. Workers usually don't last more than a year, and due to the horrible things they have to see, they're often left with lasting PTSD once they leave.
+
+That said, for the internet to functionally exist, it's also necessary work. Unmoderated corners of the internet are pure and utter hell zones, filled with the kinds of violence and depravity that moderators work to save the rest of us from. And yet, despite both the difficulty and importance of the work that they do, tech companies with a mind-numbing amounts of money continue to pay moderation workers, especially those who live in the Global South, shockingly little.
+
+Add to that lineup of Silicon Valley giants the latest industry darling: OpenAI.
+
+Time reports that in order to build moderation tools into its AI systems, the artificial intelligence company has been paying workers in Kenya less than $2 an hour to moderate absolutely horrifying content — material reportedly so profoundly disturbing that OpenAI's outside moderation contractor, Sama, is scheduled to end its contract with OpenAI eight months early than scheduled.
+
+"That was torture," one underpaid Sama moderator, who was particularly traumatized by a story about a man having sex with a dog in front of a child, told the magazine. "You will read a number of statements like that all through the week. By the time it gets to Friday, you are disturbed from thinking through that picture."
+
+Per the magazine, OpenAI signed the initial agreement with Sama — a fairly notorious contractor that notably just ended a long-term contract with Facebook — back in November 2021. Sama itself received $12.50 an hour from OpenAI, but it sounds like most of that money never made it to its workers.
+
+After taxes and the company taking its own cut, the actual moderators were reportedly taking home roughly $1.30 to $1.50 an hour, maybe reaching $2 if they hit all of their performance indicators, which according to Time included things like accuracy and speed. And while Nairobi doesn't have a minimum wage requirement, we can probably all agree that paying individuals less than $2 an hour to read stories about "child sexual abuse, bestiality, murder, suicide, torture, self harm, and incest" written in "graphic detail" is wrong — especially when the company paying for the work is reportedly cutting a deal with Microsoft that will bring its value to $29 billion.
+
+Time reports that Sama also offered its employees "wellness counseling" to support them in the difficult moderation labor, but employees say those so-called counseling services were both rare due to productivity demands and insufficient, with workers allegedly pushed to attend group sessions instead of the one-on-one therapy they were promised. (Sama, per Time, refutes this claim and maintains that counselors were always available.)
+
+The relationship between OpenAI and Sama, meanwhile, apparently grew strained.
+
+The details are a little hazy, but around February 2022, OpenAI reportedly hired Sama to help with a different project, this time related to its image-generating tech. Sama employees gathered a variety of horrifically graphic images, which were to be passed along to OpenAI for the sake of training a different machine — presumably DALL-E 2 — against graphic visual content. Much of the content that Sama workers collected belonged to a particularly egregious content category dubbed C4, which contains imagery that's illegal under US law.
+
+After it was discovered that Sama workers had collected material in that category, the companies seemingly grew less than friendly.
+
+"The East Africa team raised concerns to our executives right away. Sama immediately ended the image classification pilot and gave notice that we would cancel all remaining [projects] with OpenAI," a Sama spokesperson told Time. "The individuals working with the client did not vet the request through the proper channels. After a review of the situation, individuals were terminated and new sales vetting policies and guardrails were put in place."
+
+For its part, OpenAI told Time that it never explicitly asked Sama to collect C4 content.
+
+"This content is not needed as an input to our pretraining filters and we instruct our employees to actively avoid it. As soon as Sama told us they had attempted to collect content in this category, we clarified that there had been a miscommunication and that we didn't want that content," the AI maker told Time. "And after realizing that there had been a miscommunication, we did not open or view the content in question — so we cannot confirm if it contained images in the C4 category."
+
+And as for the rest of Time's allegations, OpenAI further maintains that it's just trying to make the world a better place with its product. Content moderation is just an essential, albeit unfortunate, part of that mission.
+
+"Our mission is to ensure artificial general intelligence benefits all of humanity, and we work hard to build safe and useful AI systems that limit bias and harmful content," an OpenAI spokesperson told the magazine. "Classifying and filtering harmful [text and images] is a necessary step in minimizing the amount of violent and sexual content included in training data and creating tools that can detect harmful content."
+
+Fair enough. Still, the necessity of moderation isn't an excuse to employ contractors that, time and again, have proven to treat their workers atrociously — if anything, it's a reason to take extra good care of the employees who take on one of the modern world's worst duties. And paying such wretched wages when its own coffers are so deep seems like very poor taste.
+
+OpenAI has deep enough pockets already, and they're about to get much deeper. There has to be a better way.
+
+More on Sama: Facebook Criticized for Running Giant "Sweatshop" in Africa. OpenAI, an artificial intelligence company, is accused of paying less than $2 to Kenyan workers to make its ChatGPT chatbot less toxic.
+
+This report is based upon an investigation by Time Magazine. It claims that ChatGPT’s workers in Kenya were tasked with creating a filter system to make ChatGPT easier, user-friendly, and safer for daily use.
+
+This job required me to consume disturbing information about horrendous subjects such as child s*xual abuse, brutality, murder, suicide, torture, self-harm, and incest.
+
+According to the report, part of it reads, “The premise of this project was simple: Feed an AI with examples of violence, hate speech, and sexual abuse, and that tool could learn how to detect toxic substances in the wild.” ChatGPT would include a detector to detect toxicity in its training data and filter it out. It could also remove toxic text from the training datasets of future AI models.
+
+OpenAI sent thousands of text snippets to a Kenyan outsourcing company to get these labels. This was done beginning in November 2021. Much of that text seemed to have been pulled directly from the web’s darkest corners. Some of the text described graphically situations such as child s*xual abuse, brutality, murder, suicide, torture, or self-harm.
+
+Sama is a training-data firm that specializes in annotating data for AI algorithms. OpenAI has given this contract to Sama.
+
+According to Time Magazine, workers earned anywhere from $1.32 to $2 an hour, depending on their seniority and performance. This disparity in pay and job makes the job seem exploitative, even though their work is a major contributor to billion-dollar industries.
+
+Time’s report was based on graphic details provided by Sama employees, who shared some of the most horrific things they had seen while working for OpenAI.
+
+A portion of the report states, “The work’s traumatizing nature ultimately led Sama to cancel all its OpenAI work in February 2022, eight months earlier than originally planned.”
+
+Related Stories:. As San-Francisco-based AI development firm OpenAI’s dream of achieving general artificial intelligence (AI) picks up speed, reports of how it used underpaid Kenyans to remove racism, sexism, and violence from ChatGPT-3's language model are appalling.
+
+OpenAI didn’t learn from Meta, which was sued in Nairobi last May by South African whistleblower Daniel Motaung for union busting and contracting Sama, a company that subjected them to inhumane working conditions while removing harmful content from Facebook’s algorithms.
+
+Advertisement
+
+Now, after OpenAI’s GPT-3 project of perfecting the results the platform generates was completed last November, Sama retrenched 200 employees at the Nairobi office.
+
+In a blog post on Jan. 10, Sama said that it understood “that this is a difficult day, [but] we believe it is the right long-term decision for our business.” It asked sacked workers to apply for “other open positions in the Sama east African offices.”
+
+Sama’s content moderators earned as little as $1.32 per hour
+
+This was after the company, also based in San Francisco paid the workers between $1.32 and $2 per hour from November 2021 to February 2022, which is just a small fraction of California’s minimum wage of $16.99 per hour or less than a third of the federal state’s minimum wage of $7.25 per hour.
+
+On Jan. 20, Sama wrote to Quartz, saying it pays almost double what other content moderation firms in east Africa pay and offers “a full benefits and pension package”, which it claims “is uncommon.”
+
+Advertisement
+
+“Sama pays between Sh26,600 and Sh40,000 ($210 to $323) per month , which is more than double the minimum wage in Kenya and also well above the living wage. A comparative US wage would be between $30 and $45 per hour.” It also said it offered them personal welfare services with rooms specially designed for counseling, meditation, prayer, nursing, gaming, and local artwork “and full meal services that are curated to support physical and mental wellbeing.”
+
+To build an ethical messaging query system through its 175 billion parameters, according to a Time investigation, OpenAI had to rely on Meta, which had proven that it was possible to build AI that could filter out toxic connotations and biased information.
+
+But the work was traumatizing to employees who had to sit for several hours every day watching videos of harmful content and analyzing textual descriptions of hate speech, sexual violence, bestiality, and violence. That forced Sama to cancel all three contracts it signed with OpenAI in February 2022.
+
+Now, as OpenAI projects to rake in $1 billion in revenue by 2024, sell shares that would raise its valuation to $29 billion, attract a $10 billion investment from Microsoft, and ultimately launch GPT-4, it will have to reconsider how it outsources content moderation services.
+
+Advertisement
+
+This story has been updated to include Sama’s comments.. In the late 18th Century, an automaton chess master known as the ‘Mechanical Turk’ toured Europe and the US. Designed in 1770 by the inventor Wolfgang von Kempelen, the machine appeared to be able to defeat any human player.
+
+It later turned out the Turk was in fact a mechanical illusion. A puppet dressed in oriental garb, it concealed under its fez and robes a human chess master. The American poet Edgar Allen Poe was so convinced of the Turk’s fraudulence that he wrote an essay to draw attention to the hoax.
+
+A predetermined mechanism beating a human mind at chess was impossible, Poe claimed, for "no one move in chess necessarily follows upon any one other. From no particular disposition of the men at one period of a game can we predicate their disposition at a different period."
+
+Today, artificial intelligence allows computers to make just such predictions, so it might be fair to assume that such naive illusions are behind us. After all, computers now exist that can beat any human at chess.
+
+But a similar illusion characterises the artificial intelligence industry. On Amazon Mechanical Turk, an online platform owned and operated by Amazon since 2005, human activity is supposed to take the appearance of mechanical activity. The premise of Amazon Mechanical Turk is simple. The site hosts contractors, often large tech companies, which outsource short data tasks to a crowd of workers.
+
+The workers fulfil the tasks that machine learning algorithms are not yet able to complete. Because the work is supposed to appear as if artificial intelligence is doing it, the former Amazon CEO, Jeff Bezos, referred to the platform as "artificial artificial intelligence". The contractors tend to interact only with the platform, which hosts the tasks and sources the workers. Having little to no direct contact with the workers, contractors experience the process as if it were entirely fulfilled by computers.
+
+Read more about artificial intelligence:
+
+Machine learning, the most common branch of AI training, relies on large data sets to train models which are then used to make predictions. Integrated into this process are algorithms that analyse data to extract patterns and make further predictions, which then use those predictions to generate further algorithms.
+
+The richer the data these technologies are exposed to, the more comprehensive their training and the more sophisticated their capacities become, enhancing their performance in tasks as varied as image categorisation, text classification and speech recognition. In many areas, such developments have bestowed machines with capacities that frequently match or surpass those of humans. AI diagnosticians are already at least as proficient as doctors at identifying certain types of cancer.
+
+But to find patterns and make predictions, the algorithm needs the input data to be labelled or categorised. An algorithm for an autonomous car, for instance, must be exposed to detailed, annotated images of urban areas before it can safely navigate a vehicle around a city centre. Artificial intelligence is not yet capable of annotating these images itself, so instead humans have to label them. For a task that supports the training of autonomous vehicles, this might involve labelling an image of a junction with the tags ‘pedestrian’, ‘traffic lights’ and ‘car’.
+
+This kind of work, often known as ‘microwork’ – due to the brevity of the tasks – is becoming increasingly popular. Growing numbers of sites such as Clickworker, Appen and Playment now host large crowds of workers who undertake these short data tasks, often for very little payment. One study found that the average wage of a worker on Mechanical Turk is less than $2 an hour, with only 4 per cent of workers earning over $7.25 per hour, the US minimum wage. Tasks are very short, running from around 30 seconds to 30 minutes and often pay as little as a few cents.
+
+The tasks can be very repetitive and are often opaque to the point of being impossible to relate to a larger project. A 2020 study by academics found that contractors often offer very little detailed information on their tasks and on the purposes they serve. This means that workers have little idea of what they are precisely working on. This is of particular concern when workers might be supporting a technology such as facial recognition software, which has serious ethical implications.
+
+The work is also highly insecure. Workers are usually categorised as ‘independent contractors’, so they do not enjoy the rights and benefits afforded full-time employees working for the companies that contract them. This means that workers will usually work for multiple contractors over the course of a single day, which in turn means that workers must continually search for new tasks. A significant portion of the day must be given over to finding work, rather than actually doing work that pays.
+
+The majority of this work is currently done in countries in the Global South such as India, Kenya and Venezuela. But some studies suggest that this kind of digital work is also on the rise in countries such as the UK.. The workers are under Sama, a San Francisco-based firm that hires people in Kenya, Uganda, and India. The report details that OpenAI had the goal of feeding an AI “with labeled examples of violence, hate speech, and sexual abuse, and that tool could learn to detect those forms of toxicity in the wild.”
+
+Then, to get those labels, the company sent tens of thousands of snippets of text pulled from the dark web to Sama in November 2021.
+
+The firm alleges that there were three contracts worth $200,000 and the Kenyan workers were to be paid $12.50 per hour.. The seemingly simple, shiny, clean world associated with tech is inevitably almost always simultaneously propped up by something darker hidden just below the surface. From mentally injured content moderators sifting through torrents of vile Facebook posts to overworked child laborers mining the cobalt necessary for luxury electric vehicles, frictionless efficiency comes at a human cost. A new report shows that’s equally true for generative AI standout OpenAI.
+
+Generating Video Via Text? | Future Tech CC Share Subtitles Off
+
+English view video Generating Video Via Text? | Future Tech
+
+A new investigation from Time claims OpenAI, the upstart darling behind the powerful new generative AI chatbot ChatGPT, relied on outsourced Kenyan laborers, many paid under $2 per hour, to sift through some of the internet’s darkest corners in order to create an additional AI filter system that would be embedded in ChatGPT to scan it for signs of humanity’s worst horrors. That detector would then essentially filter ChatGPT, which has so far gained over 1 million users, palatable for mass audiences. Additionally, the detector would reportedly help remove toxic entries from the large datasets used to train ChatGPT.
+
+Advertisement
+
+While end-users received a polished, sanitary product, the Kenyan workers essential acted as a type of AI custodian, scanning through snippets of text reportedly depicting vivid accounts of child sexual abuse, murder, torture, suicide, and, inces t, all in graphic detail.
+
+Open AI reportedly worked with a U.S. company called Sama, which which is better known for employing workers in ​​Kenya, Uganda and India to perform data labeling tasks on behalf of Silicon valley giants like Google and Meta. Sama was actually Meta’s largest content moderator in Africa prior to this month when the company announced they had ceased working together due to the “current economic climate.” Sama and Meta are currently the subject of a lawsuit by a former content moderator who alleges the companies violated the Kenyan constitution.
+
+Advertisement
+
+In OpenAI’s case, the Kenyan workers reportedly earned between $1.32 and $2 per hour for a company whose recent reports suggest could recover a cash injection from Microsoft of around $10 billion. If that happens, Semafor notes, OpenAI will be valued at $29 billion.
+
+OpenAI did not immediately respond to Gizmodo’s request for comment.
+
+Like some content moderators for other Si licon Valley giants, the Sama workers said their work often stayed with them after they logged off. One of those workers told Time he suffered from recurring visions after reading the description of a man having sex with a dog. “That was torture,” the worker said.
+
+Advertisement
+
+Overall, the teams of workers were reportedly tasked with reading and labeling around 150-250 passages of text in a nine hour shift. Though the workers were granted the ability to see wellness counselors, they nonetheless told Time they felt mentally scarred by the work. Sama disputed those figures, telling Time the workers were only expected to label 70 passages per shift.
+
+Sama did not immediately respond to Gizmodo’s request for comment.
+
+“Our mission is to ensure artificial general intelligence benefits all of humanity, and we work hard to build safe and useful AI systems that limit bias and harmful content,” OpenAI said in a statement sent to Time. “Classifying and filtering harmful [text and images] is a necessary step in minimizing the amount of violent and sexual content included in training data and creating tools that can detect harmful content.”
+
+Advertisement
+
+Sama, who had reportedly signed three contracts with OpenAI worth about $200,000, have recently decided to exit the harmful data labelling space entirely, at least for now. Earlier this month, the company reportedly announced it would cancel the remainder of its work with sensitive content, both for OpenAI and others to instead focus on “computer vision data annotation solutions.”
+
+The report reveals, in explicit detail , the toilsome human hardship underpinning supposedly “artificial” technology. Though new, seemingly frictionless technologies created by the world’s top tech companies often advertise their ability to solve big problems with lean overheads, OpenAI’s reliance on Kenyan workers, like social media companies large army of international content moderators, sheds light on the large human labor forces often inseparable from an end product.. 

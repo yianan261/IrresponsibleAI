@@ -1,0 +1,75 @@
+Andrew Pole had just started working as a statistician for Target in 2002, when two colleagues from the marketing department stopped by his desk to ask an odd question: “If we wanted to figure out if a customer is pregnant, even if she didn’t want us to know, can you do that? ”
+
+Pole has a master’s degree in statistics and another in economics, and has been obsessed with the intersection of data and human behavior most of his life. His parents were teachers in North Dakota, and while other kids were going to 4-H, Pole was doing algebra and writing computer programs. “The stereotype of a math nerd is true,” he told me when I spoke with him last year. “I kind of like going out and evangelizing analytics.”
+
+As the marketers explained to Pole — and as Pole later explained to me, back when we were still speaking and before Target told him to stop — new parents are a retailer’s holy grail. Most shoppers don’t buy everything they need at one store. Instead, they buy groceries at the grocery store and toys at the toy store, and they visit Target only when they need certain items they associate with Target — cleaning supplies, say, or new socks or a six-month supply of toilet paper. But Target sells everything from milk to stuffed animals to lawn furniture to electronics, so one of the company’s primary goals is convincing customers that the only store they need is Target. But it’s a tough message to get across, even with the most ingenious ad campaigns, because once consumers’ shopping habits are ingrained, it’s incredibly difficult to change them.
+
+There are, however, some brief periods in a person’s life when old routines fall apart and buying habits are suddenly in flux. One of those moments — the moment, really — is right around the birth of a child, when parents are exhausted and overwhelmed and their shopping patterns and brand loyalties are up for grabs. But as Target’s marketers explained to Pole, timing is everything. Because birth records are usually public, the moment a couple have a new baby, they are almost instantaneously barraged with offers and incentives and advertisements from all sorts of companies. Which means that the key is to reach them earlier, before any other retailers know a baby is on the way. Specifically, the marketers said they wanted to send specially designed ads to women in their second trimester, which is when most expectant mothers begin buying all sorts of new things, like prenatal vitamins and maternity clothing. “Can you give us a list?” the marketers asked.. . Target didn’t figure out a teenager was pregnant before her father did, and that one article that said they did was silly and bad. Colin Fraser · Follow 8 min read · Jan 4, 2020 -- 10 Listen Share
+
+In 2012, a story was published in the New York Times under the headline How Companies Learn Your Secrets. The article discusses, among other things, how and why a marketing team at Target tried to build a model to predict which shoppers were pregnant. Partway through the article, there is an anecdote
+
+About a year after Pole created his pregnancy-prediction model, a man walked into a Target outside Minneapolis and demanded to see the manager. He was clutching coupons that had been sent to his daughter, and he was angry, according to an employee who participated in the conversation. “My daughter got this in the mail!” he said. “She’s still in high school, and you’re sending her coupons for baby clothes and cribs? Are you trying to encourage her to get pregnant?” The manager didn’t have any idea what the man was talking about. He looked at the mailer. Sure enough, it was addressed to the man’s daughter and contained advertisements for maternity clothing, nursery furniture and pictures of smiling infants. The manager apologized and then called a few days later to apologize again. On the phone, though, the father was somewhat abashed. “I had a talk with my daughter,” he said. “It turns out there’s been some activities in my house I haven’t been completely aware of. She’s due in August. I owe you an apology.”
+
+Shortly after the publication of the initial article, a tech writer at Forbes highlighted this anecdote in an article under the headline How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did. Apparently she knew how not to bury the lede.
+
+People are still talking about this
+
+From there, the story exploded into the general consciousness in a big way. A quick Twitter search for “Target pregnant daughter” shows that people still talk about this story a whole lot over 7 years after the initial publication of the article. Generally it’s used to show how Big Data can be used to learn everything about us, how the Facebooks and Googles and Targets of the world know more about us than our own family members.
+
+But the truth is that this anecdote and much of the discourse surrounding it is, if you’ll pardon my language, silly and bad.
+
+Let me count the ways.
+
+1. It’s probably just not true
+
+I won’t belabor this since we can’t actually know, but the anecdote about the father calling the store and talking to the manager is probably just not true. It’s sourced, not to the protagonist statistician Pole, but to “an employee who participated in the conversation”, which raises questions. How did the author of this piece come to learn of this anecdote? How many Targets did he have to visit to find an employee who had had a conversation like this? How does he determine that the incident occurred “about a year after Pole created his pregnancy-prediction model”, and crucially, how does he determine that the coupon book was sent to the girl because of the model? The Forbes writer who rehashes the anecdote even describes it as “so good that it sounds made up.” Indeed.
+
+But this is an easy criticism and beside the point, so for the remainder of this article, let’s suppose that the anecdote is true.
+
+2. Theres no meaningful sense in which this anecdote shows that Target’s algorithm predicted the girl was pregnant
+
+This story is intended to show that Target’s Big Data operation, and moreover the Big Data operations of all of the various retail and tech giants that we interact with, make predictions about intimate details of our lives with astonishing precision.
+
+But what does it actually show? A girl received a coupon book featuring maternity items. Target probably sent out many similar coupon books to many people. If Target just sent out maternity coupon books completely at random, this exact scenario could have still happened; some of the randomly assigned coupons books would certainly reach pregnant women by chance, and some of those pregnant women might have had fathers who didn’t know that they were pregnant, and one of those fathers might have gone to a store to complain.
+
+This story doesn’t even show that Target tried to figure out whether the girl was pregnant. It just shows that she received a flyer that contained some maternity items and her weird dad freaked out and wanted to talk to the manager. There’s no way to know whether the flyer arrived as a result of some complex targeting algorithm that correctly deduced that the girl was pregnant because she bought a bunch of lotion, or whether they just happened to be having a sale on diapers that week and sent a flyer about it to all their customers.
+
+3. Even if Target’s algorithm did predict that this girl was pregnant, the anecdote shows nothing about how good the algorithm is at predicting pregnancy
+
+The Forbes article claims that this story “conveys how eerily accurate the targeting is”, but in fact it shows precisely nothing about how accurate Target’s targeting is — it just shows you that the targeting worked at least one time.
+
+“Accuracy” is a term of art in machine learning. The accuracy of an algorithm is the fraction of times that the algorithm is correct out of the total number of predictions that it makes. Clearly, a single anecdote can tell us nothing about the accuracy of an algorithm. So why does the Forbes writer believe that this story demonstrates an eerie accuracy?
+
+There’s a fallacy that I’ve noticed in a great deal of popular writing about AI. I’ll call it the Superhuman fallacy. The Superhuman fallacy says that if an algorithm predicts a case correctly where a human, especially an expert, was wrong, then the algorithm must make more accurate predictions than the human on average. Of course, this does not follow at all. Generally, humans and algorithms will make different kinds of mistakes. Humans might be a bit worse than self-driving cars at staying in the center of the lane, but they’re a lot better at spotting a stopped firetruck in the middle of the road. The set of errors that they make is different, and we make any claims about the relative performance of humans and machines by looking at a single example.
+
+How many pregnant Target customers didn’t get the coupons? There’s really no way to know, because the fathers of the pregnant girls who didn’t get coupons never had the chance to complain to the manager of their local Target. That question is exactly what we would need the answer to if we wanted to know how whether the algorithm was “eerily accurate”.
+
+Why am I writing about some random Forbes blog post from 2012?
+
+I’m probably wrong, but as far as I can remember, the story about Target figuring out that the girl was pregnant was the first big story in an entire decade’s worth of stories where an algorithm was the subject of the story. Writers didn’t used to write about algorithms. They wrote about people and places and physical things and systems, but not so much about algorithms. But this story in 2012 launched the idea into public consciousness that companies can create algorithms that can diagnose, solve, predict the future, and generally model the human situation better than humans can.
+
+Get hyped, folks!
+
+This has led to an extreme wave of confidence in the efficacy of algorithms (whatever those are) or AI in general to figure things out. Algorithms, the narrative goes, are now better than humans at figuring out whether you’re pregnant, or you’re about to quit your job, or whether you’ll commit a crime if you’re let out of prison.
+
+But a lot of algorithms actually just kind of suck. A little known secret is that it’s very hard for even experts to build, productionize, and maintain an algorithm that makes accurate predictions about anything, let alone human behavior—and despite what you’ve heard, most companies are generally not doing a good job of it. And it’s even harder to build these algorithms such that they won’t incorporate and magnify systems of discrimination and oppression.
+
+Our popular discourse does not have the vocabulary to distinguish between useful machine learning algorithms and snake oil [pdf warning], so we end up writing about AI in terms of anecdotes and fall victim to the superhuman fallacy. This is how we end up with things like cops arresting people on the basis of facial recognition techniques that are successful less than 10% of the time.
+
+Thankfully, such a vocabulary does exist. The practitioners who build these AI systems care a lot about characterizing their efficacy, and have developed myriad ways to describe it. And a lot of it is not so hard for a layperson to understand—there are a few simple questions that the author of the story could have asked to demonstrate the effectiveness (or lack thereof) of the pregnancy algorithm.
+
+Out of all the predictions that the algorithm made, how often was it right? This is the accuracy of the algorithm.
+
+of the algorithm. When the algorithm predicted that a woman was pregnant, how often was it wrong? This is the false positive rate of the algorithm
+
+of the algorithm When the algorithm predicted that a woman was not pregnant, how often was it wrong? This is the false negative rate of the algorithm.
+
+of the algorithm. When the algorithm predicted that a woman was pregnant, how often was it right? This is the precision of the algorithm.
+
+of the algorithm. Out of all of the pregnant women in Target’s database, how many of them did the algorithm find? This is the recall of the algorithm.
+
+Not all of these questions need to be answered in every piece (in fact, some of them are derivable from the answers to the others), but some of them should be if you want to have any hope of characterizing whether the algorithm is any good. But generally these types of statistics aren’t mentioned at all in this new genre of writing about algorithms (if any are, it’s usually the accuracy, which is arguably the least informative one).
+
+I guess there’s hope. There are certain other things that we talk about in terms of widely understood and agreed-upon metrics. Sports is a big one. We know that a single anecdote typically does not convey anything useful about an athlete’s contribution to a sport, and for most sports there are some metrics that we understand are good descriptors of an athlete’s performance. An article about LeBron’s 2019–2020 season wouldn’t be complete without mentioning that he’s averaging 25–8–11 in his 17th season. Those metrics don’t tell the entire story of his season—and neither do the ones that I propose above about an algorithm—but they tell a lot more of the story than a single anecdote.
+
+But even if my utopian dream where every news article about an algorithm includes a detailed summary of the its validation strategy and statistics never comes true, we could still do with a healthy dose of skepticism about what these algorithms can do. Believe it or not, what machine learning is able to reliably do in 2020 is still very very limited. We’ve gotten pretty good at things like reading text or classifying images, but we are still very bad at things like understanding and predicting human behavior—in fact, we may never get good at that. So when a person or a company with something to sell claims that they can predict who is pregnant or who will quit their job or who will go to jail, our first reaction should not be to resign to our robot overlords, but rather to ask them to prove that it works with something better than a single anecdote.

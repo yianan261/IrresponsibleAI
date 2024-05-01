@@ -1,0 +1,137 @@
+A new social app called Giggle is pitching itself as a girls-only networking platform. To sign up, users have to take a selfie. And while that might not sound too invasive, the app then uses “bio-metric gender verification software” to determine whether that person is a woman. If that wasn’t already bad enough, the technology doesn’t work if you’re trans.
+
+“[G]iggle is for all girls,” the company points out on its website, before adding, “Due to the gender-verification software that giggle uses, trans-girls will experience trouble with being verified.” It’s the stuff of a dystopian novel.
+
+Giggle, founded by Australian screenwriter Sall Grover, supposedly looks at the bone structure of a person’s face to determine their gender. That’s problematic on a number of fronts, not least of which is that bone structure is clearly a poor indicator of gender identity. Nevertheless, Giggle says the science is sound. “It’s Bio-Science, not pseudo-science like phrenology,” the website declares.
+
+Except it sounds a lot like pseudo-science. On Twitter, people called out the app’s inherent transphobia. “We shall await our judgement like sheep,” one user wrote. “All it takes is one selfie—if giggle lets us in, we are welcomed into the society of women, to pass forevermore. If not, we shall be abandoned in a heap of offals and excrement.”
+
+Grover responded to the criticism, tweeting that she’d consulted trans women while building the app and determined it was best to openly admit the software’s limits. “We worked with trans girls who decided it was best to be upfront with a flaw so there wasn’t any hurtful misgendering,” she explained. Later, she said she was “grateful for the feedback” and agreed that some of the wording on the website was “hideous.”
+
+The app’s privacy policy is also a cause for concern, however. As one Twitter user pointed out, Giggle can collect a ton of personal information, including peoples’ images, location, preferences, and browsing data. Giggle is able to then share that information with third-party websites and services, including facial recognition providers, chat room providers, and marketers. It also collects sensitive information including peoples’ “sexual practices or sex life,” their criminal records, and their private health information.
+
+It’s unclear why Giggle would need access to such granular data, given that its goal is primarily to connect women with potential roommates or travel buddies. But in an era of ever-expanding surveillance, with companies like Clearview AI identifying people’s faces without their knowledge or consent, an app built on dubious biometric screening and extensive data collection should be cause for concern. While Giggle’s website says the app is “designed to give girls choice, control and connection,” its technology seems to do just the opposite.. By clicking “Sign Up”, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.
+
+Access your favorite topics in a personalized feed while you're on the go. download the app
+
+Sign up to get the inside scoop on today’s biggest stories in markets, tech, and business — delivered daily. Read preview
+
+An app marketed towards "females" has faced a barrage of online criticism for excluding transgender women with its use of artificial intelligence.
+
+Giggle, which first launched in early 2020, according to The Verge, uses facial recognition to determine if new users are male or female.
+
+"The way the app works is when you install it, you have to take a picture of yourself and it uses AI to analyze your face," said Jenny, a 23-year-old trans woman from California. "And if it decides you're a woman, it will let you in. If it decides you're a man, it will reject you. But if it rejects you, you can just submit another picture."
+
+This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now.
+
+Giggle's founder and CEO, Sall Grover, has brashly pushed back against online criticism, including claims that the app uses technology that has failed to properly identify women of color, while publicly embracing an ideology that's considered harmful to trans people.
+
+Advertisement
+
+"This particular combination of gender categorization and facial recognition and race is something that we absolutely know is a problem," Casey Fiesler, a professor at the University of Colorado Boulder who studies technology ethics, told Insider.
+
+The issue, however, has gone beyond the platform's questionable AI practices. Grover, who has embraced being called a "TERF" — trans-exclusionary radical feminist — told Insider that she decided to exclude trans women from the platform once trans activists began using it.
+
+According to Giggle's website, the app sends a new user's selfie to the facial-recognition AI company Kairos, which analyzes the photo.
+
+"Through computer vision and deep learning, they recognise females in videos, photos, and the real world," according to Giggle. If the Kairos AI is 95% certain the person is female, the person is allowed to create an account, Giggle says. Kairos did not return Insider's request for comment.
+
+Advertisement
+
+Grover said in a December tweet in the wake of the controversy that the app would be temporarily removed from the Google app store after the company was targeted with negative reviews by people she described in a tweet as "male" and "trolls."
+
+The app was restored to Google Play in January and has remained available on the App Store. Neither Apple nor Google returned Insider's requests for comment about whether the app violated any policies.
+
+Trans people sounded the alarm about Giggle on social media in December
+
+Victoria Morris, a 27-year-old trans woman from Orlando, Florida, said she first heard of Giggle while browsing trans Reddit forums.
+
+Morris, who said she had downloaded the app but was never able to get it to work, tweeted in early December about the slew of negative reviews Giggle received on the App Store. The tweet, which was shared more than 4,000 times, showcased negative reviews claiming the app looked for "euro-centric facial features," excluded Black women, and even verified cisgender men.
+
+Advertisement
+
+Jenny, who requested her last name be withheld over safety concerns, told Insider "it was pretty easy to get past the filter" when she and her friends first tried to install Giggle about two years ago.
+
+"Sometimes it took a few tries, but it would eventually work," she said.
+
+She re-downloaded the platform late last year when she saw people were discussing it on social media.
+
+But once she got on Giggle, Jenny said she saw posts in the general discussion section from people who were talking about trans people in "disparaging ways."
+
+Advertisement
+
+After Jenny tweeted about joining Giggle on December 9, another Twitter user tagged Grover in the tweet, claiming Jenny was "transgressing women's boundaries" by using the app. In response, Grover replied "Sorted" with a heart emoji.
+
+Shortly after, Jenny said her Giggle app stopped working. She said she didn't receive any formal notice her account had been terminated beyond the tweet from the Giggle CEO.
+
+Artificial intelligence, like the one used by Giggle, has a history of issues around race
+
+Giggle has also faced criticism for failing to recognize faces that don't appear to be white.
+
+Related stories
+
+Fieseler, the University of Colorado at Boulder professor, said research has shown the type of facial analysis used by Giggle has led to instances of racism because the technology often works better on lighter skin tones.
+
+Advertisement
+
+"It works best for white men and worse for Black women and progressively worse the darker woman's skin is in terms of correctly classifying gender. That's just something that we know," she said.
+
+In 2019, Joy Buolamwini, a researcher at the M.I.T. Media Lab, in a study found that Kairos' technology misgendered darker-skinned females 22.5% of the time, according to a report from The New York Times. Melissa Doval, the then-CEO of Kairos, told the Times it had made changes to its algorithm following the research to improve its accuracy.
+
+Morris said Giggle "seemed like it was harming both trans women and also a lot of women of color or that don't have the Eurocentric features that the app is really designed for."
+
+"We just know that these systems are imperfect," Fieseler said. "So if you're using them for gatekeeping, there's going to be errors and there's likely going to be systematic errors around race in particular."
+
+Advertisement
+
+Grover denied that the platform's AI prevented women of color from using it. If Giggle improperly rejects someone, a prospective user should contact the company to have the problem rectified, Grover told Insider in an email.
+
+"Women of every race are not just welcome on Giggle, women of every race are on Giggle," Grover said.
+
+Trans women were initially allowed on Giggle but were later banned by Grover
+
+Grover, who lives in Australia, said she and her mother had the idea to create Giggle after they shared "many glasses of rose."
+
+"We wanted a place where women could go to help each other," she said in an email. "A female space, in the palm of their hand. Where women could find support, connection and a refuge amongst other women no matter where they were or what they were doing."
+
+Advertisement
+
+Grover declined to say how many employees work at Giggle but she said "a team of women" work on the app's onboarding process.
+
+In current marketing materials on its social media channels and on its website, Giggle claims to be a space for "females" rather than a space for "women." This is intentional, Grover said, adding that "the word 'woman' has been so heavily appropriated" that "clarification feels necessary."
+
+Grover said she decided to exclude trans women from Giggle after some trans women posted threats against TERFs on the app.
+
+"There was an orchestrated - albeit failed - attempt to get Giggle removed from the App Store and Google Play. There was some media attention, all of which called me a TERF and Giggle, Transphobic," she said.
+
+Advertisement
+
+Thereafter, she said she researched trans and "radical feminist" communities and decided that trans women should be excluded from her app.
+
+TERF ideology is harmful to trans people, advocates say
+
+As Vox reported, the term TERF, which labels individuals who exclude trans women from their feminism, originated in the 1970s, but gained traction online beginning in the early 2000s.
+
+Many women who expose such ideology have rejected it, claiming the term a slur, instead adopting the moniker "gender-critical" feminists, unlike Grover.
+
+"These are words that are thrown at women, on a daily basis, who stand up for our own hard-won sex-based rights," Grover said. "What am I supposed to do? Cower and give up my own rights? No. Never going to happen. You get over it, move on and keep going."
+
+Advertisement
+
+Advocates for the trans community say such TERF ideology creates real-world harm for trans people. In addition to advocating for the exclusion of trans women from women's spaces, TERFs have also historically advocated against access to gender-affirming care for trans people, as Insider's Canela López reported.
+
+Nearly all of Grover's posts to Twitter mention trans people or biological sex. In a December 31 tweet she wrote: "I'd rather be shrill and knowledgeable than be so arrogantly ignorant about something so simple like the immutable binary of biological sex."
+
+In a January 6 tweet, she came to the defense of "Harry Potter'' author J.K. Rowling, who has likewise been labeled a TERF for her views about trans people.
+
+Morris, who tweeted about Giggle in December, said she never had any interactions with Grover, but said Grover shared a tweet that called her a "beggar" after she posted a link to a fundraiser for gender-affirming surgery.
+
+Advertisement
+
+In at least one other social media post, however, Grover appeared to inform trans users via Twitter they'd been booted from Giggle, as she had with Jenny.
+
+"Your account has been removed. Thank you for making it very easy for us to do so," Grover said in a December 9 tweet after two trans women said they had been allowed on Giggle.
+
+Jenny said Grover on December 10 shared a collage of tweets from Jenny and her friends. Jenny said she viewed this as her "making fun" of them for calling out the Giggle app for attempting, and failing, to exclude trans women.
+
+In the December 10 tweet, Grover wrote, "it's just not healthy to be this angry over female spaces."

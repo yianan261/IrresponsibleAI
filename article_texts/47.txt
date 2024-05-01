@@ -1,6 +1,32 @@
-. Tech & Science
+. Of course a computer program itself isn’t biased, any ‘bias’ comes from the algorithms that drive the way the software functions. It is with the way that data is extracted in relation to key search terms that LinkedIn has come under criticism.
 
-Prime Minister Rishi Sunak said on Monday the UK would do what was necessary to protect itself from a cyberattack by China.. Prior to the update, searches for 100 of the most common male names in the US did not result in prompts suggesting female versions of those names, the Seattle Times said.. . The question of whether a computer can be biased or not may seem frivolous, but it could make all the difference when it comes to being found online.
+The charged against LinkedIn (soon to be a Microsoft owned company) is that when names are entered into its search field, which can be used by both men and women (such as Hilary), then it is most often male professionals that appear at the top of the search results rather than women.
+
+The charge also contends that even when a female name is entered, often a male name appears. This is based on an experiment conducted by the Seattle Times. In a test, journalists entered the name “Stephanie Williams” on the professional networking service. It was found this triggered a prompt for “Stephen Williams” instead. This same effect was repeated with other female names.
+
+In all the newspaper ran up to twelve female names and found that, each time, male names appeared at the top of the search. Conversely, running through 100 male names each time no female name alternatives were offered.
+
+The LinkedIn company has denied that its search algorithm is biased and that the search outcomes are not gender related. However, LinkedIn has stated that it has also updated its algorithm to avoid proposing alternative names. The fix functions to more explicitly recognize people’s names.
+
+The BBC quotes from a LinkedIn spokesperson who says: “Suggestions of similar spelt names that are frequently searched for on LinkedIn will follow the search query.”
+
+The spokesperson further explained that the LinkedIn search algorithm is shaped by the relative frequencies of words appearing in past queries and member profiles.
+
+Microsoft purchased LinkedIn for $26.2 billion this summer. The deal will be completed by the end of 2016.
+
+. Prior to the update, searches for 100 of the most common male names in the US did not result in prompts suggesting female versions of those names, the Seattle Times said.. A week after the Seattle Times reported that LinkedIn’s search engine may reflect a gender bias, the networking platform announced a tweak to its search algorithm.
+
+The Times reported on Aug. 31 that users who searched for at least a dozen common female names were asked if they meant to search for a male name instead — but that no such prompt appeared if users searched for any of 100 of the most common male names. For instance, the Times reported, users who searched for one of the 2,500 “Stephanie Williams” LinkedIn profiles were asked if they meant to look for “Stephen Williams” instead. LinkedIn told the Times in August that the algorithm was dependent upon a users’ past searches and that gender wasn’t a factor.
+
+Follow Motto on Facebook.
+
+On Thursday, LinkedIn announced a change to its algorithm that addresses the issue, the Times reported. Now, the search engine won’t prompt any user who searches for a full name if they meant to look up a different name.
+
+But a LinkedIn spokesperson reiterated to BBC on Thursday that the algorithm wasn’t ever colored by gender bias.
+
+“Suggestions of similar spelt names that are frequently searched for on LinkedIn will follow the search query,” the spokesperson told BBC. “The search algorithm is guided by relative frequencies of words appearing in past queries and member profiles, it is not anything to do [with] gender.”
+
+[The Seattle Times]. The question of whether a computer can be biased or not may seem frivolous, but it could make all the difference when it comes to being found online.
 
 Now, an investigation by a US newspaper has suggested that this bias may be present on the biggest professional networking site in the world.
 

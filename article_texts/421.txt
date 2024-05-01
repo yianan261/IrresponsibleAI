@@ -1,0 +1,451 @@
+For many online, Lensa AI is a cheap, accessible profile picture generator. But in digital art circles, the popularity of artificial intelligence-generated art has raised major privacy and ethics concerns.
+
+Lensa, which launched as a photo editing app in 2018, went viral last month after releasing its “magic avatars” feature. It uses a minimum of 10 user-uploaded images and the neural network Stable Diffusion to generate portraits in a variety of digital art styles. Social media has been flooded with Lensa AI portraits, from photorealistic paintings to more abstract illustrations. The app claimed the No. 1 spot in the iOS App Store’s “Photo & Video” category earlier this month.
+
+But the app’s growth — and the rise of AI-generated art in recent months — has reignited discussion over the ethics of creating images with models that have been trained using other people’s original work.
+
+Lensa is tinged with controversy — multiple artists have accused Stable Diffusion of using their art without permission. Many in the digital art space have also expressed qualms over AI models producing images en masse for so cheap, especially if those images imitate styles that actual artists have spent years refining.
+
+For a $7.99 service fee, users receive 50 unique avatars — which artists said is a fraction of what a single portrait commission normally costs.
+
+Companies like Lensa say they’re “bringing art to the masses,” said artist Karla Ortiz. “But really what they’re bringing is forgery, art theft [and] copying to the masses.”
+
+In an email to NBC News on Wednesday, Prisma Labs CEO Andrey Usoltsev clarified that bringing art to the masses "was never part of the company's mission" and stated that the "democratization of access" to technology like Stable Diffusion is "quite an incredible milestone."
+
+"What was once available only to techy well-versed users is now out there for absolutely everyone to enjoy. No specific skills are required," Usoltsev said.
+
+"As AI technology becomes increasingly more sophisticated and accessible, it is likely that we will see AI-powered tools and features being widely integrated into consumer-facing apps at a rapid scale. We'd like to be a part of this ongoing conversation and steer the use of such technology in a safe and ethical way."
+
+Prisma issued a lengthy Twitter thread on Tuesday morning, in which it addressed concerns of AI art replacing art by actual artists.
+
+The thread did not address accusations that many artists didn’t consent to the use of their work for AI training.
+
+“As cinema didn’t kill theater and accounting software hasn’t eradicated the profession, AI won’t replace artists but can become a great assisting tool,” the company tweeted. “We also believe that the growing accessibility of AI-powered tools would only make man-made art in its creative excellence more valued and appreciated, since any industrialization brings more value to handcrafted works.”
+
+The company said that AI-generated images “can’t be described as exact replicas of any particular artwork.”
+
+Usoltsev said that he could not provide further comment regarding the "third party research and methodologies" used by Stability AI, which developed Stable Diffusion.
+
+For some artists, AI models are a creative tool. Several have pointed out that the models are helpful for generating reference images that are otherwise difficult to find online. Other writers have posted about using the models to visualize scenes in their screenplays and novels. While the value of art is subjective, the crux of the AI art controversy is the right to privacy.
+
+Ortiz, who is known for designing concept art for movies like “Doctor Strange,” also paints fine art portraits. When she realized that her art was included in a dataset used to train the AI model that Lensa uses to generate avatars, she said it felt like a “violation of identity.”
+
+Prisma Labs deletes user photos from the cloud services it uses to process the images after it uses them to train its AI, the company told TechCrunch. The company’s user agreement states that Lensa can use the photos, videos and other user content for “operating or improving Lensa” without compensation.
+
+In its Twitter thread, Lensa said that it uses a “separate model for each user, not a one-size-fits-all monstrous neural network trained to reproduce any face.” The company also stated that each user’s photos and “associated model” are permanently erased from its servers as soon as the user’s avatars are generated.
+
+The fact that Lensa uses user content to further train its AI model, as stated in the app’s user agreement, should alarm the public, artists who spoke with NBC News said.
+
+“We’re learning that even if you’re using it for your own inspiration, you’re still training it with other people’s data,” said Jon Lam, a storyboard artist at Riot Games. “Anytime people use it more, this thing just keeps learning. Anytime anyone uses it, it just gets worse and worse for everybody.”
+
+Image synthesis models like Google Imagen, DALL-E and Stable Diffusion are trained using datasets of millions of images. The models learn associations between the arrangement of pixels in an image and the image’s metadata, which typically includes text descriptions of the image subject and artistic style.
+
+The model can then generate new images based on the associations it has learned. When fed the prompt “biologically accurate anatomical description of a birthday cake,” for example, the model Midjourney generated unsettling images that looked like actual medical textbook material. Reddit users described the images as “brilliantly weird” and “like something straight out of a dream.”
+
+The San Francisco Ballet even used images generated by Midjourney to promote this season’s production of the Nutcracker. In a press release earlier this year, the San Francisco Ballet’s chief marketing officer Kim Lundgren said that pairing the traditional live performance with AI-generated art was the “perfect way to add an unexpected twist to a holiday classic.” The campaign was widely criticized by artist advocacy groups.
+
+A spokesperson for the ballet said the campaign was a "chance to experiment with today's technological tools," and that nearly 30 people were involved in creating it.
+
+"In the spirit of Bay Area ingenuity, we tried something new," the spokesperson said. "SF Ballet remains deeply connected to and proudly a part of the diverse artistic communities of the Bay Area."
+
+Ortiz said that images like the ones used in the San Francisco Ballet's campaign "look so good due to the nonconsensual data they gathered from artists and the public."
+
+He was referring to the Large-scale Artificial Intelligence Open Network (LAION), a nonprofit organization that releases free datasets for AI research and development. LAION-5B, one of the datasets used to train Stable Diffusion and Google Imagen, includes publicly available images scraped from sites like DeviantArt, Getty Images and Pinterest.
+
+Many artists have spoken out against models that have been trained with LAION because their art was used in the set without their knowledge or permission. When an artist used the site Have I Been Trained, which allows users to check if their images were included in LAION-5B, she found her own face and medical records. Ars Technica reported that “thousands of similar patient medical record photos” were also included in the dataset.
+
+“And now we are facing the same problem the music industry faced with websites like Napster, which was maybe made with good intentions or without thinking about the moral implications.” artist mateusz urbanowicz
+
+Artist Mateusz Urbanowicz, whose work was also included in LAION-5B, said that fans have sent him AI-generated images that bear striking similarities to his watercolor illustrations.
+
+It’s clear that LAION is “not just a research project that someone put on the internet for everyone to enjoy,” he said, now that companies like Prisma Labs are using it for commercial products.
+
+“And now we are facing the same problem the music industry faced with websites like Napster, which was maybe made with good intentions or without thinking about the moral implications.”
+
+The art and music industry abide by stringent copyright laws in the United States, but the use of copyrighted material in AI is legally murky. Using copyrighted material to train AI models might fall under fair use laws, The Verge reported. It’s more complicated when it comes to the content that AI models generate, and it’s difficult to enforce, which leaves artists with little recourse.
+
+“They just take everything because it’s a legal gray zone and just exploiting it,” Lam said. “Because tech always moves faster than law, and law is always trying to catch up with it.”
+
+Usoltsev asserted that Lensa is “fully GDPR and CCAP complaint.” To the best of his knowledge, he said, “the commercial use of the model doesn’t represent any legal violations.”
+
+There’s also little legal precedent for pursuing legal action against commercial products that use AI trained on publicly available material. Lam and others in the digital art space say they hope that a pending class action lawsuit against GitHub Copilot, a Microsoft product that uses an AI system trained by public code on GitHub, will pave the way for artists to protect their work. Until then, Lam said he’s wary of sharing his work online at all.
+
+Lam isn’t the only artist worried about posting his art. After his recent posts calling out AI art went viral on Instagram and Twitter, Lam said that he received “an overwhelming amount” of messages from students and early career artists asking for advice.
+
+The internet “democratized” art, Ortiz said, by allowing artists to promote their work and connect with other artists. For artists like Lam, who has been hired for most of his jobs because of his social media presence, posting online is vital for landing career opportunities. Putting a portfolio of work samples on a password-protected site doesn’t compare to the exposure gained from sharing it publicly.
+
+“If no one knows your art, they’re not going to go to your website,” Lam added. “And it’s going to be increasingly difficult for students to get their foot in the door.”
+
+Adding a watermark may not be enough to protect artists — in a recent Twitter thread, graphic designer Lauryn Ipsum listed examples of the “mangled remains” of artists’ signatures in Lensa AI portraits.
+
+Some argue that AI art generators are no different from an aspiring artist who emulates another’s style, which has become a point of contention within art circles.
+
+Days after illustrator Kim Jung Gi died in October, a former game developer created an AI model that generates images in the artist’s unique ink and brush style. The creator said the model was an homage to Kim’s work, but it received immediate backlash from other artists. Ortiz, who was friends with Kim, said that the artist’s “whole thing was teaching people how to draw,” and to feed his life’s work into an AI model was “really disrespectful.”
+
+Urbanowicz said he’s less bothered by an actual artist who’s inspired by his illustrations. An AI model, however, can churn out an image that he would “never make” and hurt his brand — like if a model was prompted to generate “a store painted with watercolors that sells drugs or weapons” in his illustration style, and the image was posted with his name attached.
+
+“If someone makes art based on my style, and makes a new piece, it’s their piece. It’s something they made. They learned from me as I learned from other artists,” he continued. “If you type in my name and store [in a prompt] to make a new piece of art, it’s forcing the AI to make art that I don’t want to make.”
+
+Many artists and advocates also question if AI art will devalue work created by human artists.
+
+Lam worries that companies will cancel artist contracts in favor of faster, cheaper AI-generated images.
+
+Urbanowicz pointed out that AI models can be trained to replicate an artist’s previous work, but will never be able to create the art that an artist hasn’t made yet. Without decades of examples to learn from, he said, the AI images that looked just like his illustrations would never exist. Even if the future of visual art is uncertain as apps like Lensa AI become more common, he’s hopeful that aspiring artists will continue to pursue careers in creative fields.
+
+“Only that person can make their unique art,” Urbanowicz said. “AI cannot make the art that they will make in 20 years.”. At 19, when I began drafting my webcomic, I had just been flung into adulthood. I felt a little awkward, a little displaced. The glittering veneer of social media, which back then was mostly Facebook, told me that everyone around me had their lives together while I felt like a withering ball of mediocrity. But surely, I believed, I could not be the only one who felt that life was mostly an uphill battle of difficult moments and missed social cues.
+
+I started my webcomic back in 2011, before “relatable” humor was as ubiquitous online as it is today. At the time, the comics were overtly simple, often drawn shakily in Microsoft Paint or poorly scanned sketchbook pages. The jokes were less punchline-oriented and more of a question: Do you feel this way too? I wrote about the small daily struggles of missed clock alarms, ill-fitting clothes and cringe-worthy moments.
+
+I had hoped, at most, for a small, niche following, but to my elation, I had viral success. My first comic to reach a sizable audience was about simply not wanting to get up in the morning, and it was met with a chorus of “this is so me.” I felt as if I had my finger on the pulse of the collective underdog. To have found this way of communicating with others and to make it my work was, and remains, among the greatest gifts and privileges of my life.
+
+But the attention was not all positive. In late 2016, I caught the eye of someone on the 4chan board /pol/. There was no particular incident that prompted the harassment, but in hindsight, I was a typical target for such groups. I am a woman, the messaging in the comics is feminist leaning, and importantly, the simplicity of my work makes it easy to edit and mimic. People on the forum began reproducing my work and editing it to reflect violently racist messages advocating genocide and Holocaust denial, complete with swastikas and the introduction of people getting pushed into ovens. The images proliferated online, with sites like Twitter and Reddit rarely taking them down.. If your Instagram is awash in algorithmically generated portraits of your friends, you aren’t alone. After adding a new avatar generation tool based on Stable Diffusion, the photo editing app Lensa AI went viral over the last few days, with users sharing their uncanny AI-crafted avatars (and the horrible misfires) in stories and posts.
+
+Lensa’s fun, eminently shareable avatars mark the first time that many people have interacted with a generative AI tool. In Lensa’s case, it’s also the first time they’ve paid for computer-generated art.
+
+Stable Diffusion itself is free and a lot of people are playing around with it for research purposes or just for fun. But Lensa and other services like it — Avatar AI and Profilepicture.AI, to name a few — are making money by selling the computing cycles required to run the prompts and spit out a set of images. That certainly changes the equation a little.
+
+Lensa is built on Stable Diffusion’s free, open source image generator but acts as a middleman. Send Lensa 10-20 selfies and $7.99 ($3.99 if you sign up for a free trial) and the app does the heavy lifting for you behind the scenes, handing back a set of stylized portraits in an array of styles like sci-fi, fantasy and anime. Anyone with sufficient processing power can install Stable Diffusion on a machine, download some models and get similar results, but Lensa’s avatars are impressive and Instagram-ready enough that droves of people are more than happy to pay for the convenience.
+
+Since we introduced our AI-generated avatars here, the hype has gone over the roof. Among the first and most voted names of whom we should do next, you named Casey Neistat.
+
+So we've braced ourselves, prepared more bandwidth on servers, and are happy to show @Casey as seen by AI pic.twitter.com/FjhLG7WTdU — Prisma Labs (@PrismaAI) November 29, 2022
+
+While the tech world has celebrated the advancements of AI image and text generators this year — and artists have watched the proceedings warily — your average Instagram user probably hasn’t struck up a philosophical conversation with ChatGPT or fed DALL-E absurdist prompts. That also means that most people haven’t grappled with the ethical implications of free, readily available AI tools like Stable Diffusion and how they’re poised to change entire industries — if we let them.
+
+From my experience over the weekend on Instagram, for every 10 Lensa avatars there’s one Cassandra in the comments scolding everyone for paying for an app that steals from artists. Those concerns aren’t really overblown. Stable Diffusion, the AI image generator that powers Lensa, was originally trained on 2.3 billion captioned images — a massive cross-section of the visual internet. Swept up in all of that is all kinds of stuff, including watermarked images, copyrighted works and a huge swath of pictures from Pinterest, apparently. Those images also include many thousands of photos pulled from Smugmug and Flickr, illustrations from DeviantArt and ArtStation and stock images from sites like Getty and Shutterstock.
+
+These AI photos generated by @PrismaAI are kinda crazy 😳🔥 pic.twitter.com/A0CtkX4he2 — Ken Walker (@TheKenFolk) November 29, 2022
+
+Individual artists didn’t opt in to appearing in the training dataset, nor can they opt out. According to LAION, the nonprofit that created the huge datasets to begin with, the troves of data are “simply indexes to the internet,” lists of URLs to images across the web paired with the alt text that describes them. If you’re an EU citizen and the database contains a photo of you with your name attached, you can file a takedown request per the GDPR, Europe’s groundbreaking privacy law, but that’s about it. The horse has already left the barn.
+
+We’re in the earliest stages of grappling with what this means for artists, whether it’s independent illustrators and photographers or massive copyright-conscious corporations that get swept up in the AI modeling process. Some models using Stable Diffusion push the issue even further. Prior to a recent update, Stable Diffusion Version 2, anyone could craft a named template designed to mimic a specific artist’s distinct visual style and mint new images ad infinitum at a pace that no human could compete with.
+
+We are excited to announce the release of Stable Diffusion Version 2! Stable Diffusion V1 changed the nature of open source AI & spawned hundreds of other innovations all over the world. We hope V2 also provides many new possibilities! Link → https://t.co/QOSSmSRKpG pic.twitter.com/z0yu3FDWB5 — Stability AI (@StabilityAI) November 24, 2022
+
+Andy Baio, who co-founded a festival for independent artists, has a thoughtful interview up on his blog delving into these concerns. He spoke with an illustrator who discovered an AI model specifically designed to replicate her work. “My initial reaction was that it felt invasive that my name was on this tool,” she said. “… If I had been asked if they could do this, I wouldn’t have said yes.”
+
+By September, Dungeons & Dragons artist Greg Rutkowski was so popular as a Stable Diffusion prompt used to generate images in his detailed fantasy style that he worried his actual art would be lost in the sea of algorithmic copies. “What about in a year? I probably won’t be able to find my work out there because [the internet] will be flooded with AI art,” Rutkowski told MIT’s Technology Review.
+
+Those worries, echoed by many illustrators and other digital creatives, are reverberating on social media as many people encounter these thorny issues — and the existential threat they seem to pose — for the first time.
+
+“I know a lot of people have been posting their Lensa/other AI portraits lately. I would like to encourage you not to do so or, better yet, not to use the service,” voice actor Jenny Yokobori wrote in a popular tweet thread about Lensa. In another, Riot Games artist Jon Lam shared his own discomfort with AI-generated art. “When AI artists steal/co-opt art from us I don’t just see art, I see people, mentors and friends. I don’t expect you to understand.”
+
+Personally, I was sick and stuck at home over the weekend, where I spent more time than usual idly scrolling on social media. My Instagram stories were a blur of flattering digital illustrations that cost cents a piece. Lensa has clearly tapped into something special there, appealing to both the vain impulse to effortlessly collect 50 stylish self-portraits and the allure of polling your friends about which are your exact likeness (most, from my experience) and which are hilarious mutations that only a computer doing its best human impersonation could spin up.
+
+Some friends, mostly artists and illustrators, pushed back, encouraging everyone to find an artist to pay instead. Some creative people in my circles paid too and it’s hard to fault them. For better or worse, it’s genuinely amazing what the current cohort of AI image generators can do, particularly if you just tuned in.
+
+Soon, we’ll all be paying attention. In the name of story research and vanity, I downloaded Lensa and gave the app a try. I’d only paid once for an artist to make me a profile picture in the past and that was just one image, all the way back in 2016. Now for less than 10 bucks I had a set of 50 epic avatars generated from my most me photos, but these were extra me. Me in various futuristic jumpsuits stepping out of the pages of a graphic novel, me in purple robes looking like an intergalactic saint, me, me, me.
+
+I see the appeal. A handful of friends remarked on how the pictures made them feel, hinting at the gender euphoria of being seen the way they see themselves. I wouldn’t fault anyone for exploring this stuff; it’s all very interesting and at least that complicated. I like my avatars, but part of me wishes I didn’t. I don’t plan to use them.
+
+I thought about my own art, the photography I sell when I remember to stock my online store — mostly mountain landscapes and photos of the night sky. I thought back to a handful of the prints I’ve sold and the effort I had to put in to get the shots. One of my favorite photos involved special permission from the National Park Service and a five-hour backpack trek up to a remote fire lookout in Washington. Many entailed lonely hours of tending my tripod alone in the freezing cold, tracking the Milky Way as it rotated above a dark horizon like the hand of a clock.
+
+The AI models already have enough training fodder to faithfully recreate photos of one tucked-away mountain spot nearby that only local nightsky photographers seem to know about. Three years ago, when I shot photos there, I had to snag a competitive campsite and drive for miles up a potholed forest service road only to wait in the dark for hours. I cooked an expired packet of ramen noodles with a small camp stove to stay warm, tucked the feathers back into my jacket and jumped at everything that made a noise in the dark.
+
+I don’t make a living off of my art. But it still feels like a loss to think that those experiences and the human process they represent — learning how to predict a cluster of ancient stars in the blackness, slipping on wet stones and chipping my hotshoe, keeping extra batteries warm in a down pocket — could be worth less in the future.. We’ve filed law­suits chal­leng­ing AI image gen­er­a­tors for using artists’ work with­out con­sent, credit, or com­pen­sa­tion.
+
+Because AI needs to be fair & eth­i­cal for every­one.
+
+This is Joseph Saveri and Matthew Butterick. In Novem­ber 2022, we teamed up to file a law­suit chal­leng­ing GitHub Copi­lot, an AI cod­ing assi­tant built on unprece­dented open-source soft­ware piracy. In July 2023, we filed law­suits on behalf of book authors chal­leng­ing Chat­GPT and LLaMA.
+
+In Jan­u­ary 2023, on behalf of three won­der­ful artist plain­tiffs—Sarah Ander­sen, Kelly McK­er­nan, and Karla Ortiz, we filed an ini­tial com­plaint against Sta­bil­ity AI, DeviantArt, and Mid­jour­ney for their use of Sta­ble Dif­fu­sion, a 21st-cen­tury col­lage tool that remixes the copy­righted works of mil­lions of artists whose work was used as train­ing data. Lock­ridge Grindal Nauen P.L.L.P. joined us as co-coun­sel.
+
+In Novem­ber 2023, we filed an amended com­plaint, adding seven new plain­tiffs and one new defen­dant, Run­way AI.
+
+In April 2024, we filed an ini­tial com­plaint against Google for its train­ing of Ima­gen.
+
+Case updates are posted reg­u­larly. You can also get updates by email.
+
+Our plain­tiffs are won­der­ful, accom­plished artists who have stepped for­ward to rep­re­sent a class of thou­sands—pos­si­bly mil­lions—of fel­low artists affected by gen­er­a­tive AI.
+
+Sarah Ander­sen is a car­toon­ist and illus­tra­tor. She grad­u­ated from the Mary­land Insti­tute Col­lege of Art in 2014. She cur­rently lives in Port­land, Ore­gon. Her semi-auto­bi­o­graph­i­cal comic strip, Sarah’s Scrib­bles, finds the humor in liv­ing as an intro­vert. Her graphic novel FANGS was nom­i­nated for an Eis­ner Award. Sarah also wrote The Alt-Right Manip­u­lated My Comic. Then A.I. Claimed It for the New York Times.
+
+Kelly McK­er­nan is an inde­pen­dent artist based in Nashville. They grad­u­ated from Ken­ne­saw State Uni­ver­sity in 2009 and have been a full-time artist since 2012. Kelly cre­ates orig­i­nal water­color and acryla gouache paint­ings for gal­leries, pri­vate com­mis­sions, and their online store. In addi­tion to main­tain­ing a large social-media fol­low­ing, Kelly shares tuto­ri­als and teaches work­shops, trav­els across the US for events and comic-cons, and also cre­ates illus­tra­tions for books, comics, games, and more.
+
+Karla Ortiz is a Puerto Rican, inter­na­tion­ally rec­og­nized, award-win­ning artist. With her excep­tional design sense, real­is­tic ren­ders, and char­ac­ter-dri­ven nar­ra­tives, Karla has con­tributed to many big-bud­get projects in the film, tele­vi­sion and video-game indus­tries. Karla is also a reg­u­lar illus­tra­tor for major pub­lish­ing and role-play­ing game com­pa­nies. Karla’s fig­u­ra­tive and mys­te­ri­ous art has been show­cased in notable gal­leries such as Spoke Art and Hashimoto Con­tem­po­rary in San Fran­cisco; Nucleus Gallery, Think­space, and Maxwell Alexan­der Gallery in Los Ange­les; and Galerie Arludik in Paris. She cur­rently lives in San Fran­cisco with her cat Bady.
+
+Hawke South­worth is an illus­tra­tion and 3D artist who has been active in the online art com­mu­nity since 2006. He attended Laguna Col­lege of Art and Design in 2014. Since then, his focus has ranged from char­ac­ter and crea­ture designs, to world­build­ing, ARPG com­mu­nity build­ing, and game devel­op­ment. He cur­rently works as a free­lance designer and runs an up-and-com­ing Art Role­play­ing Game web­site, fea­tur­ing his own crea­ture designs and an eclec­tic fan­tasy world that users can inter­act with.
+
+Grze­gorz Rutkowski is a Pol­ish fine artist, dig­i­tal painter, illus­tra­tor, and con­cept artist. He started his pro­fes­sional career in 2009. He has worked for com­pa­nies like Wiz­ards of the Coast, Ubisoft, Bliz­zard, Dis­ney, CD Pro­jekt RED, Games Work­shop and many more. He lives in Poland with his wife and two daugh­ters.
+
+Gre­gory Manchess has cre­ated art­work for National Geo­graphic Mag­a­zine, Time, Atlantic Monthly, and The Smith­son­ian. His large por­trait of Abra­ham Lin­coln and seven other paint­ings are high­lighted in the Abra­ham Lin­coln Pres­i­den­tial Library and Museum. Manchess wrote and illus­trated his first ‘widescreen novel’ Above the Tim­ber­line, released in 2017 to stel­lar reviews. The Soci­ety of Illus­tra­tors pre­sented him with their high­est honor, the Hamil­ton King Award, in 1999. Today, Gre­gory lec­tures at uni­ver­si­ties and col­leges nation­wide and gives work­shops in paint­ing at the Nor­man Rock­well Museum in Stock­bridge MA, and The Ate­lier in Min­neapo­lis. He teaches at the Illus­tra­tion Mas­ter Class in Savan­nah GA and online with SmArt School.
+
+Artist and author Ger­ald Brom has been con­tribut­ing his macabre and often bizarre visions to all facets of the cre­ative indus­tries for forty years, includ­ing major motion pic­tures, top-tier video games, comics, and books. He has also writ­ten and illus­trated six hor­ror nov­els, includ­ing such pop­u­lar titles as The Child Thief, Kram­pus the Yule Lord, Lost Gods, and Slew­foot.
+
+Jingna Zhang is a Bei­jing-born, US-based Sin­ga­porean pho­tog­ra­pher whose award-win­ning works have appeared in Vogue, Time, and Harper’s Bazaar. Inspired by the Pre-Raphaelites and anime, her roman­tic images inter­weave Asian influ­ences with painterly art styles, and fea­ture col­lab­o­ra­tors such as Coco Rocha, Sug­izo, and Michelle Yeoh. Prior to pho­tog­ra­phy, Jingna was an agent and con­sul­tant for con­cept artists and illus­tra­tors with clients span­ning LucasArts, Ama­zon Pub­lish­ing, and Sony Music Japan. Jingna is cur­rently the founder of Cara, a plat­form for dis­cov­er­ing human artists.
+
+Julia Kaye is an LA-based sto­ry­board artist & revi­sion­ist with over six years of indus­try expe­ri­ence, and the award-win­ning author of two crit­i­cally acclaimed graphic nov­els: Super Late Bloomer and My Life in Tran­si­tion. Her com­mit­ment to activism has led to col­lab­o­ra­tions with non-profit orga­ni­za­tions such as The Trevor Pro­ject and Trans Life­line. Her work has appeared on Webtoon, GoComics, Buz­zfeed, and the Dis­ney ani­mated show Big City Greens.
+
+Adam Ellis is a comic artist and illus­tra­tor who lives in New York City. When he’s not draw­ing he’s watch­ing doc­u­men­taries about cults and dream­ing about one day own­ing a back­yard big enough to keep chick­ens.
+
+Hope Lar­son is a New York Times best­selling, multi–Eis­ner Award–win­ning car­toon­ist and comics cre­ator. She has authored con­tem­po­rary mid­dle-grade graphic nov­els includ­ing the Eagle Rock series fea­tur­ing All Sum­mer Long, All Together Now, and All My Friends, fan­tasy sto­ries such as Salt Magic (illus­trated by Rebecca Mock), adapted Madeleine L’Engle’s clas­sic, A Wrin­kle in Time into a graphic novel, writ­ten Bat­girl for DC Comics, and co-cre­ated the Goldie Vance series for BOOM! Stu­dios. Her most recent work, Be That Way, is a YA novel that blends prose, illus­tra­tion, and comics. She lives in Asheville, North Car­olina with her fam­ily.
+
+Jess Fink is an illus­tra­tor and graphic nov­el­ist from New York. Author of the award-win­ning graphic novel series Chester 5000 (pub­lished by Top Shelf). Author of We Can Fix It, A Time Travel Mem­oir (pub­lished by Top Shelf). Illus­tra­tor of the award-win­ning table top role play­ing game Star Crossed (writ­ten by Alex Roberts, pub­lished by Bully Pul­pit). Their work has been fea­tured in var­i­ous comic antholo­gies and pub­li­ca­tions. As an illus­tra­tor they mainly focus on romance and humor.
+
+Sta­bil­ity AI, founded by Emad Mostaque, is based in Lon­don.
+
+Sta­bil­ity AI funded LAION, a Ger­man orga­ni­za­tion that is cre­at­ing ever-larger image datasets—with­out con­sent, credit, or com­pen­sa­tion to the orig­i­nal artists—for use by AI com­pa­nies.
+
+Sta­bil­ity AI is the devel­oper of Sta­ble Dif­fu­sion. Sta­bil­ity AI trained Sta­ble Dif­fu­sion using the LAION dataset.
+
+Sta­bil­ity AI also released Dream­Stu­dio, a paid app that pack­ages Sta­ble Dif­fu­sion in a web inter­face.
+
+DeviantArt was founded in 2000 and has long been one of the largest artist com­mu­ni­ties on the web.
+
+As shown by Simon Willi­son and Andy Baio, thou­sands—and prob­a­bly closer to mil­lions—of images in LAION were copied from DeviantArt and used to train Sta­ble Dif­fu­sion.
+
+Rather than stand up for its com­mu­nity of artists by pro­tect­ing them against AI train­ing, DeviantArt instead chose to release DreamUp, a paid app built around Sta­ble Dif­fu­sion. In turn, a flood of AI-gen­er­ated art has inun­dated DeviantArt, crowd­ing out human artists.
+
+Mid­jour­ney was founded in 2021 by David Holz in San Fran­cisco. Mid­jour­ney offers a text-to-image gen­er­a­tor through Dis­cord and a web app.
+
+Though hold­ing itself out as a “research lab”, Mid­jour­ney has cul­ti­vated a large audi­ence of pay­ing cus­tomers who use Mid­jour­ney’s image gen­er­a­tor pro­fes­sion­ally. Holz has said he wants Mid­jour­ney to be “focused toward mak­ing every­thing beau­ti­ful and artis­tic look­ing.”
+
+To that end, Holz has admit­ted that Mid­jour­ney is trained on “a big scrape of the inter­net”. Though when asked about the ethics of mas­sive copy­ing of train­ing images, he said “There are no laws specif­i­cally about that.”
+
+Run­way was founded in New York in 2018 by Anas­ta­sis Ger­mani­dis, Ale­jan­dro Mata­mala-Ortiz and Cristóbal Valen­zuela. Run­way also employs Patrick Esser, for­merly a mem­ber of the Com­pVis research group at Lud­wig Max­i­m­il­ian Uni­ver­sity in Munich, where he was a prin­ci­pal devel­oper of the tech­nol­ogy under­ly­ing Sta­ble Dif­fu­sion.
+
+Google cre­ated and released Ima­gen, an image-dif­fu­sion model that Google admits was trained on LAION-400M.
+
+If you’re a mem­ber of the press or the pub­lic with other ques­tions about this case or related top­ics, con­tact stablediffusion_inquiries@saverilawfirm.com. (Though please don’t send con­fi­den­tial or priv­i­leged infor­ma­tion.)
+
+If you’d like to receive occa­sional email updates on the progress of the case, click here to sign up.. A group of artists has filed a first-of-its-kind copyright infringement lawsuit against the developers of popular AI art tools, but did they paint themselves into a corner?
+
+Depending upon who you ask, AI-generated art is either poised to thrust a photorealistic dagger into the throats of millions of commercial artists or is merely a kitschy fad with no lasting aesthetic value. While the truth almost certainly lies somewhere in between, there’s no denying the legitimate concerns expressed by many artists about the manner in which current AI tools were trained and their potential to disrupt creative livelihoods.
+
+Andersen v. Stability AI Ltd.
+
+On January 13, three of those artists, Sarah Andersen, Kelly McKernan and Karla Ortiz—along with a proposed class of potentially millions more—brought the first copyright infringement lawsuit of its kind (complaint here) against the developers of several popular AI art generation tools. The defendants include Stability AI (developer of Stable Diffusion and DreamStudio), Midjourney (which packaged the open-source Stable Diffusion into its own Discord and web-based applications) and DeviantArt (which recently launched the DreamUp app, also based on Stable Diffusion’s platform). Open AI, which created the popular Dall-E 2 program, wasn’t named in the lawsuit, likely because the content of its training data hasn’t been made public.
+
+Over the past week, the plaintiffs’ lawsuit has been the subject of thousands of articles which have largely parroted the complaint’s key talking point: that AI image generators are nothing more than “a 21st-century collage tool that remixes the copyright works of millions of artists whose work was used as training data.”
+
+After the initial headlines have run their course, plaintiffs’ legal team will be left with the decidedly more difficult task of actually proving their case. Unfortunately, I think members of the artistic community (and putative class members) will be disheartened to learn that many of the facts and legal theories underlying plaintiffs’ allegations don’t square with the soundbites, and may even hurt artists more than they help.
+
+When Artists Attack (Midjourney)
+
+Diffusion Models Don’t Create Collages
+
+As a factual matter, the complaint misrepresents how AI diffusion models like Stable Diffusion actually work. These tools aren’t like some sort of DJ Earworm megamix sampling bits and pieces from an image database and mashing them together. As I noted in an earlier post, the programs use data from training images and their associated text to identify the essential qualities of objects and to discover relationships between their fundamental elements. Once trained, the tools can create, not “seemingly new images,” as plaintiffs assert, but entirely new works from the ground up.
+
+To use a simple example, let’s say the AI program analyzes data from millions of text-image pairs containing the word “tables.” The tool will learn that a table is a piece of furniture with one or more legs and a flat top. It will learn that tables most commonly have four legs, but not always; that tables found in a dining room are used for seated persons to eat meals, while tables found next to a bed are used to hold objects like alarm clocks; that tables don’t need to be made from any particular material or have a particular color, etc.
+
+“A photorealistic dining table made out of old license plates” (Midjourney)
+
+The tool can then apply its knowledge of tables to the knowledge it has acquired about aesthetic choices, styles and perspectives, all en route to creating a new image that’s never existed before. There’s no “cutting and pasting” involved. (If you’re interested in doing a deeper dive into how all of this works, I recommend following Andres Guadamuz’s blog on the topic.)
+
+With a proper understanding of the technology, we can see that the complaint’s repeated description of Stable Diffusion as a “21st-Century collage tool,” while perhaps catchy, simply isn’t accurate.
+
+Stable Diffusion Doesn’t Store Copies of Training Images
+
+The complaint also mischaracterizes Stable Diffusion by asserting that images used to train the model are “stored at and incorporated” into the tool as “compressed copies.” The current Stable Diffusion model uses about 5 gigabytes of data. None of it includes copies of images. It would be physically impossible to copy the 5 billion images used to train the dataset into a 5GB file in a way that would allow the tool to spit out representations of those images, no matter how small you tried to compress them.
+
+The complaint gives the example of a text prompt for the phrase “a dog wearing a baseball cap while eating ice cream,” and claims that the system “struggles” with generating an image based on this prompt because although there are many photos of dogs, baseball caps and ice cream among the training images, there are “unlikely to be images that combine all three.” A latent diffusion system can’t illustrate this combination of objects, plaintiffs assert, “because it can never exceed the limitations of its Training Images.”
+
+This might be true if Stable Diffusion actually had to locate a particular image in the way a search engine does, but because that’s not how the tool works, it took me about fifteen seconds to type this prompt into Midjourney and get a serviceable result:
+
+The result of my Midjourney prompt “A dog wearing a baseball cap while eating ice cream.” I’m not sure what’s up with the chalupa next to the ice cream.
+
+Reproduction Rights vs. Derivative Rights
+
+With a better understanding of how the technology in fact works, we can turn to the complaint’s legal theories.
+
+Inputs
+
+When it comes to potentially infringing actions committed by the developers of AI tools, the most likely candidate is the initial scraping (i.e., reproduction) of images in order to train the model. Whether this conduct constitutes actionable infringement or is instead a protected fair use will hinge in large part on the court’s assessment of whether the images were copied and used for a transformative purpose (akin to Google’s Book Search tool or the Turnitin plagiarism detection software), weighed against the commercial nature of these tools and their ability to negatively impact the licensing market for the underlying works.
+
+As I noted in my prior article on AI art, AI tools aren’t copying images so much to access their creative expression as to identify patterns in the images and captions. In addition, the original images scanned into those databases, unlike Google’s display of book snippets, are never shown to end users. This arguably makes the use of copyrighted works by Stable Diffusion even more transformative than Google Book Search.
+
+Surprisingly, plaintiffs’ complaint doesn’t focus much on whether making intermediate stage copies during the training process violates their exclusive reproduction rights under the Copyright Act. Given that the training images aren’t stored in the software itself, the initial scraping is really the only reproduction that’s taken place.
+
+Outputs
+
+Nor does the complaint allege that any output images are infringing reproductions of any of the plaintiffs’ works. Indeed, plaintiffs concede that none of the images provided in response to a particular text prompt “is likely to be a close match for any specific image in the training data.”
+
+Instead, the lawsuit is premised upon a much more sweeping and bold assertion—namely that every image that’s output by these AI tools is necessarily an unlawful and infringing “derivative work” based on the billions of copyrighted images used to train the models.
+
+This allegation is factually flawed and legally suspect; it’s also overreaching in a way that could actually undermine the work of many artists who are members of the proposed class. But before we get there, we need to ask a fundamental question: What’s a derivative work?
+
+Let’s Talk About Derivative Works
+
+Subject to fair use and other defenses, a copyright owner has the exclusive right to prepare derivative works based upon the copyrighted work.
+
+You might assume that the concept of a “derivative work” under copyright law would be simple to define. You’d be wrong. Sure, there’s a definition included in the 1976 Copyright Act itself, but barrels of ink have been spilled by copyright lawyers, scholars and judges trying to make sense of what it actually means.
+
+The Copyright Act Definition is Broad, But . . .
+
+Let’s start with the Copyright Act’s definition:
+
+A “derivative work” is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. 17 U.S.C. § 101
+
+Notice that a derivative work is defined as one that’s “based upon” one or more preexisting works. This is likely the concept that plaintiffs’ complaint is latching onto when it asserts that the output produced by AI art tools is “necessarily” derivative of the dataset of preexisting copyrighted works.
+
+Derivative Works Must Incorporate a Portion of the Underlying Work
+
+While the definition of “derivative work” is admittedly broad, it doesn’t mean that any new work that’s loosely “derived” from another work qualifies as a derivative work—let alone an infringing work. As I noted in a few Twitter and Mastodon threads last week (follow me here and here), whether or not a particular image generated by an AI art tool is a “derivative work” is ultimately irrelevant to the question of infringement.
+
+The legislative history of the 1976 Copyright Act explains that to violate an artist’s derivative works right, a new work must incorporate a portion of the underlying work. It gives the example of a musical composition inspired by a novel, which would not normally constitute infringement. In the Ninth Circuit—the jurisdiction in which the class action lawsuit against Stability AI and the other defendants has been filed—the court in Litchfield v. Spielberg held that a work is not an infringing derivative work unless it’s “substantially similar” to a preexisting work. Only then has the former “incorporated” the latter.
+
+Interestingly, while plaintiffs allege that each image output by Stable Diffusion is “necessarily a derivative work” of all the training images, they concede that “none of the Stable Diffusion output images provided in response to a particular Text Prompt is likely to be a close match for any specific image in the training data.” This acknowledgement seems to throw a giant wrench into plaintiffs’ derivative work claim which, as I noted earlier, is really the crux of their lawsuit.
+
+Stable Diffusion can certainly be coaxed into generating a work that’s derivative of elements found in another work—some of which may be separately copyrightable. In particular, images of popular characters like Mickey Mouse, Homer Simpson and SpongeBob SquarePants that are all over the internet can be easily generated in unique settings. In essence, the tool can learn the essential elements of SpongeBob in the same way it learns the essential attributes of a table.
+
+SpongeBob SquareDetective (Midjourney)
+
+This also explains why fragments of artists’ signatures or pieces of Getty Images’ watermark may show up in output images. There are ways to temper the effect of “overtraining” models on ubiquitous images, but it’s important to remember that even if a generated output image is original, it may still be infringing if it substantially incorporates protectable elements from another work.
+
+It should be clear by now that determining whether particular output images are infringing requires an image-by-image comparison, and a class action lawsuit really isn’t the best vehicle for that sort of thing.
+
+The Danger in Overreaching
+
+There’s another, more fundamental problem with plaintiffs’ argument. If every output image generated by AI tools is necessarily an infringing derivative work merely because it reflects what the tool has learned from examining existing artworks, what might that say about works generated by the plaintiffs themselves? Works of innumerable potential class members could reflect, in the same attenuated manner, preexisting artworks that the artists studied as they learned their skill.
+
+If adopted by the court, plaintiffs’ broad assertion would have dire implications for the very artists the lawsuit is trying to protect. Any time artists produce creative works, they draw upon what they’ve seen and experienced throughout their lives. In this sense, all human creative work is derivative. Many artists specifically work to build upon or remix styles, techniques and even expressions first created by other artists.
+
+A Matter of Style
+
+For this reason, the complaint’s related suggestion that a tool capable of creating art in the “style” of another artist is unlawful is also dangerous. Style is certainly an element that can and should be considered within an overall substantial similarity analysis, but prohibiting works that are merely “inspired by”—or even copy—preexisting art techniques would artificially stifle human creative development.
+
+The courts that have considered this issue have held that style is an ingredient of expression, but that standing alone, it isn’t protectable. So even if one artist were the first to think up the style of anime, for example, “he could only have a protectible copyright interest in his specific expression of that idea; he could not lay claim to all anime that ever was or will be produced.”
+
+In another example, a court found that the defendants’ movie poster unlawfully copied the plaintiffs’ New Yorker cartoon. That’s because the two works not only used the same “sketchy, whimsical” style, but did so using the same subject matter, the same theme and even identical concrete details in a substantially similar way. That’s improper. On the other hand, one artist is perfectly free to use the same subject and style as another artist “so long as the second artist does not substantially copy [the first artist’s] specific expression of his idea.”
+
+The Right of Publicity Claim
+
+Note that plaintiffs have also asserted a separate right of publicity claim under California law based on Stable Diffusion’s ability to generate outputs in a particular artist’s “style” when the artist’s name is invoked in a prompt. The reason the tools can recognize certain artists’ names and styles is the same reason they recognize objects of furniture—this is factual information that’s often included in the captions or alt text associated with training images.
+
+It’s an interesting theory, but I don’t think it ultimately works unless there’s some evidence that the defendants used the plaintiffs’ names in a manner that’s directly connected to the promotion of the tools or in some other overtly commercial way. If it’s really just a backdoor attempt to control the artistic works used in the training sets, the claim is likely preempted by the Copyright Act.
+
+Vicarious Liability
+
+It’s also important to remember that any potentially infringing derivative images output by Stable Diffusion are created in response to prompts input by the individuals using the programs, not by the defendants themselves. While the plaintiffs have asserted a claim for vicarious infringement based on users’ conduct, it doesn’t strike me as particularly strong.
+
+To be vicariously liable for another person’s copyright infringement, a defendant must have the right and ability to supervise the direct infringer. Stability AI and the other defendants can’t control the prompts that are input by users.
+
+Public-facing tools like Midjourney should be eligible to invoke the DMCA’s “safe harbor” provisions with respect to user-generated content in public Discord servers. (Midjourney has set up a notice and takedown system for this purpose.) But software installations of Stable Diffusion on users’ local machines are a lot like the peer-to-peer software at issue in MGM v. Grokster (which rejected a vicarious liability claim). In that case, the Supreme Court held that “none of the communication between defendants and users provides a point of access for filtering or searching for infringing files, since infringing material and index information do not pass through defendants’ computers.”
+
+Also, as I explained a while back in an article about YouTube stream-ripping software, just because a particular tool may be used for an infringing purpose doesn’t automatically mean that the manufacturer faces secondary liability for distributing the tool. The manufacturer would need to take additional action that contributed to or induced infringement by users. Notably, in 1984’s “Betamax” opinion, Sony Corp. of America v. Universal City Studios, the U.S. Supreme Court expressly held that so long as a technology is capable of “substantial noninfringing uses,” the manufacturer couldn’t be held liable “simply because the equipment is used by some individuals to make unauthorized reproductions of [plaintiffs’] works.”
+
+If vicarious liability is to be imposed on Sony in this case, it must rest on the fact that it has sold equipment with constructive knowledge of the fact that its customers may use that equipment to make unauthorized copies of copyrighted material. There is no precedent in the law of copyright for the imposition of vicarious liability on such a theory. Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 419 (1984).
+
+The Limits of Law
+
+The true concern driving plaintiffs’ lawsuit is summarized in the complaint’s introduction, which asserts that “Plaintiffs and the Class seek to end this blatant and enormous infringement of their rights before their professions are eliminated by a computer program powered entirely by their hard work.”
+
+This concern is understandable, but it’s not one that plaintiffs’ lawsuit is equipped to solve. The plaintiffs’ lawyers have stated that “Even assum­ing nom­i­nal dam­ages of $1 per image, the value of this mis­ap­pro­pri­a­tion would be roughly $5 bil­lion.” Sure, that’s a big number in the aggregate, but it would collectively net the three named plaintiffs less than $250 based on the 242 works they claim were used as training images. (Note that McKernan and Ortiz don’t appear to own any registered copyrights, which is required for them to be proper plaintiffs in the first place.) More importantly, no damages award would put the AI-generated genie back in the bottle.
+
+I also have to believe that an “ethically sourced” AI tool, trained only with images obtained via an opt-in or licensing model, could be programmed to produce output that would rival that of the models at issue in the lawsuit. Such a tool might avoid the legal or ethical baggage of Stable Diffusion, but would do nothing to stop the proliferation of AI-generated art.
+
+While the law isn’t likely to provide much comfort to the plaintiffs, history may. Consider that way back in 1859, French art critic Charles Baudelaire grumbled that if a then-new technological development were “allowed to supplement art in some of its functions, it will soon have supplanted or corrupted it altogether, thanks to the stupidity of the multitude which is its natural ally.”
+
+Baudelaire was talking about photography, but he may as well have been venting about AI-generated art. The truth is that many new creative innovations—from the advent of Photoshop, to the widespread adoption of digital photography, to the introduction of 3D computer-generated animation—have been met with resistance. Ultimately, each of these technologies was embraced as a tool, not of displacement or corruption, but supplementation, allowing artists to unlock entirely new forms and styles of creative expression.
+
+I’ll be keeping a close eye on legal developments in Andersen v. Stability AI Ltd. and will post updates here on Copyright Lately. In the meantime, I’d love to know what you think about the new lawsuit. Drop me a comment below or @copyrightlately on social media.. A group of artists — Sarah Andersen, Kelly McK­er­nan, and Karla Ortiz — have filed a class-action lawsuit against Midjourney and Stability AI, companies behind AI art tools Midjourney and Stable Diffusion, and DeviantArt, which recently launched its own artificial intelligence art generator, DreamUp.
+
+The suit alleges that these companies “violated the rights of millions of artists” by using billions of internet images to use train its AI art tool without the “consent of artists and without compensating any of those artists.” These companies “benefit commercially and profit richly from the use of copyrighted images,” the suit alleges. “The harm to artists is not hypothetical,” the suit says, noting that works created by generative AI art are “already sold on the internet, siphoning commissions from the artists themselves.”
+
+The three plaintiffs are artists whose work has been used to train these generative AI tools. Andersen is the creator of popular webcomic Sarah’s Scribbles. McK­er­nan is a full-time artist whose works have been featured in galleries and who makes illustrations for comics, books, and games. Ortiz is a concept artist and illustrator whose clients include Marvel Film Studios and Wizards of the Coast.
+
+1/ As I learned more about how the deeply exploitative AI media models practices I realized there was no legal precedent to set this right. Let’s change that.
+
+
+
+Read more about our class action lawsuit, including how to contact the firm here: https://t.co/yvX4YZMfrG — Karla Ortiz (@kortizart) January 15, 2023
+
+Attorney Matthew Butterick filed the suit, working with Joseph Saveri Law Firm, a California-based firm specializing in antitrust and class-action law. The Stable Diffusion litigation blog describes Stable Diffusion, and generative AI like it, as “a parasite that, if allowed to proliferate, will cause irreparable harm to artists, now and in the future.”
+
+The group is seeking a jury trial and unspecified damages.
+
+AI-generated art has grown in prominence since last summer, as tools like Stable Diffusion and Midjourney became available for broad use. And as AI-generated art has become more prominent, artists have pushed back. AI art tools are trained with billions of images from the internet, and artists often don’t have a way of opting in or out. Stable Diffusion, for example, was trained using LAION-5B, a database of 5.85 billion text-image pairs with sources including Flickr, DeviantArt, Wikimedia, and overwhelmingly, Pinterest. Using an AI art tool like Stable Diffusion is as easy as typing in a thread of words. You can even create an image in the style of an artist whose work was scraped.
+
+Artists have since begun sharing tools and resources for determining whether their work was scraped as part a dataset used to train Midjourney and Stable Diffusion.
+
+Here are two documents containing the names of 100s of artists whose work has been trained on for Midjourney & Stable Diffusion. If you see your name, you have grounds to join the class action lawsuit. Contact stablediffusion_inquiries@saverilawfirm.com - please share w/ artists! — Kelly McKernan (@Kelly_McKernan) January 16, 2023
+
+Whether or not AI art tools violate copyright law can be difficult to determine. Images within these massive databases, that these AI tools “learn” from, may be protected by fair use doctrine. As The Verge reported, it’s a complicated matter of evaluating both the “inputs” (the images scraped from these databases) and the “outputs” (the images that the AI art generators create), for copyright law violations.
+
+In response to the suit, a Stability AI spokesperson told Polygon, “Please note that we take these matters seriously. Anyone that believes that this isn’t fair use does not understand the technology and misunderstands the law.”
+
+Polygon has reached out to Midjourney, DeviantArt, and Matthew Butterick and will update this story when they respond.. NEW YORK (AP) — Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889.
+
+Now artificial intelligence systems are doing the same, training themselves on a vast collection of digitized artworks to produce new images you can conjure in seconds from a smartphone app.
+
+The images generated by tools such as DALL-E, Midjourney and Stable Diffusion can be weird and otherworldly but also increasingly realistic and customizable — ask for a “peacock owl in the style of Van Gogh” and they can churn out something that might look similar to what you imagined.
+
+But while Van Gogh and other long-dead master painters aren’t complaining, some living artists and photographers are starting to fight back against the AI software companies creating images derived from their works.
+
+Two new lawsuits — one this week from the Seattle-based photography giant Getty Images — take aim at popular image-generating services for allegedly copying and processing millions of copyright-protected images without a license.
+
+Getty said it has begun legal proceedings in the High Court of Justice in London against Stability AI — the maker of Stable Diffusion — for infringing intellectual property rights to benefit the London-based startup’s commercial interests.
+
+Another lawsuit in a U.S. federal court in San Francisco describes AI image-generators as “21st-century collage tools that violate the rights of millions of artists.” The lawsuit, filed on Jan. 13 by three working artists on behalf of others like them, also names Stability AI as a defendant, along with San Francisco-based image-generator startup Midjourney, and the online gallery DeviantArt.
+
+The lawsuit alleges that AI-generated images “compete in the marketplace with the original images. Until now, when a purchaser seeks a new image ‘in the style’ of a given artist, they must pay to commission or license an original image from that artist.”
+
+Companies that provide image-generating services typically charge users a fee. After a free trial of Midjourney through the chatting app Discord, for instance, users must buy a subscription that starts at $10 per month or up to $600 a year for corporate memberships. The startup OpenAI also charges for use of its DALL-E image generator, and StabilityAI offers a paid service called DreamStudio.
+
+Stability AI said in a statement that “Anyone that believes that this isn’t fair use does not understand the technology and misunderstands the law.”
+
+In a December interview with The Associated Press, before the lawsuits were filed, Midjourney CEO David Holz described his image-making service as “kind of like a search engine” pulling in a wide swath of images from across the internet. He compared copyright concerns about the technology with how such laws have adapted to human creativity.
+
+“Can a person look at somebody else’s picture and learn from it and make a similar picture?” Holz said. “Obviously, it’s allowed for people and if it wasn’t, then it would destroy the whole professional art industry, probably the nonprofessional industry too. To the extent that AIs are learning like people, it’s sort of the same thing and if the images come out differently then it seems like it’s fine.”
+
+The copyright disputes mark the beginning of a backlash against a new generation of impressive tools — some of them introduced just last year — that can generate new visual media, readable text and computer code on command.
+
+They also raise broader concerns about the propensity of AI tools to amplify misinformation or cause other harm. For AI image generators, that includes the creation of nonconsensual sexual imagery.
+
+Some systems produce photorealistic images that can be impossible to trace, making it difficult to tell the difference between what’s real and what’s AI. And while some have safeguards in place to block offensive or harmful content, experts fear it’s only a matter of time until people utilize these tools to spread disinformation and further erode public trust.
+
+“Once we lose this capability of telling what’s real and what’s fake, everything will suddenly become fake because you lose confidence of anything and everything,” said Wael Abd-Almageed, a professor of electrical and computer engineering at the University of Southern California.
+
+As a test, the AP submitted a text prompt on Stable Diffusion featuring the keywords “Ukraine war” and “Getty Images.” The tool created photo-like images of soldiers in combat with warped faces and hands, pointing and carrying guns. Some of the images also featured the Getty watermark, but with garbled text.
+
+AI can also get things wrong, like feet and fingers or details on ears that can sometimes give away that they’re not real, but there’s no set pattern to look out for. Those visual clues can also be edited. On Midjourney, users often post on the Discord chat asking for advice on how to fix distorted faces and hands.
+
+With some generated images traveling on social networks and potentially going viral, they can be challenging to debunk since they can’t be traced back to a specific tool or data source, according to Chirag Shah, a professor at the Information School at the University of Washington, who uses these tools for research.
+
+“You could make some guesses if you have enough experience working with these tools,” Shah said. “But beyond that, there is no easy or scientific way to really do this.”
+
+For all the backlash, there are many people who embrace the new AI tools and the creativity they unleash. Some use them as a hobby to create intricate landscapes, portraits and art; others to brainstorm marketing materials, video game scenery or other ideas related to their professions.
+
+There’s plenty of room for fear, but “what can else can we do with them?” asked the artist Refik Anadol this week at the World Economic Forum in Davos, Switzerland, where he displayed an exhibit of climate-themed work created by training AI models on a trove of publicly available images of coral.
+
+At the Museum of Modern Art in New York, Anadol designed “Unsupervised,” which draws from artworks in the museum’s prestigious collection — including “The Starry Night” — and feeds them into a digital installation generating animations of mesmerizing colors and shapes in the museum lobby.
+
+The installation is “constantly changing, evolving and dreaming 138,000 old artworks at MoMA’s archive,” Anadol said. “From Van Gogh to Picasso to Kandinsky, incredible, inspiring artists who defined and pioneered different techniques exist in this artwork, in this AI dream world.”
+
+Anadol, who builds his own AI models, said in an interview that he prefers to look at the bright side of the technology. But he hopes future commercial applications can be fine-tuned so artists can more easily opt out.
+
+“I totally hear and agree that certain artists or creators are very uncomfortable about their work being used,” he said.
+
+For painter Erin Hanson, whose impressionist landscapes are so popular and easy to find online that she has seen their influence in AI-produced visuals, the concern is not about her own prolific output, which makes $3 million a year.
+
+She does, however, worry about the art community as a whole.
+
+“The original artist needs to be acknowledged in some way or compensated,” Hanson said. “That’s what copyright laws are all about. And if artists aren’t acknowledged, then it’s going to make it hard for artists to make a living in the future.”
+
+——
+
+O’Brien reported from Providence, Rhode Island.. Have you noticed that many of your friends are suddenly fairy princesses or space travelers? Is your Instagram feed overrun with Renaissance-style paintings of people who were definitely born in the ’90s? If so, you are entitled to an explanation of what exactly is going on here (and it’s not time travel).
+
+In the past week, users have flocked to Lensa AI, an app that uses your selfies and artificial intelligence to create portraits in a variety of styles. Created by the company Prisma Labs, the app is generating images — and controversy.
+
+What is Lensa AI?
+
+Even if you haven’t heard of Lensa AI, you’ve possibly seen its work this week. As of Wednesday, it was the most popular iPhone app in the United States in Apple’s app store. Lensa takes your selfies, studies them and churns out original, computer-generated portraits of you — or anyone whose photos you feed it.
+
+Do I have to pay for it?
+
+You do. Right now, you can get 50 avatars — 10 images in five styles — for $3.99 during a one-week trial period. (For $35.99 you can subscribe to Lensa AI for the year, which gets you a 51 percent discount on future avatars.) “Magic Avatars consume tremendous computation power to create amazing avatars for you,” according to Lensa’s checkout page. “It’s expensive, but we made it as affordable as possible.” Fair warning: Prices have been fluctuating as the app has gotten more and more popular and may have changed since this article was published.. A spokesperson for Stability.AI told MIT Technology Review: ”We are listening to artists and the community and working with collaborators to improve the dataset. This involves allowing people to opt out of the model and also to opt in when they are not already included.”
+
+But Karla Ortiz, an artist and a board member of the Concept Art Association, an advocacy organization for artists working in entertainment, says she doesn’t think Stability.AI is going far enough.
+
+The fact that artists have to opt out means “that every single artist in the world is automatically opted in and our choice is taken away,” she says.
+
+“The only thing that Stability.AI can do is algorithmic disgorgement, where they completely destroy their database and they completely destroy all models that have all of our data in it,” she says.
+
+The Concept Art Association is raising $270,000 to hire a full-time lobbyist in Washington, DC, in hopes of bringing about changes to US copyright, data privacy, and labor laws to ensure that artists’ intellectual property and jobs are protected. The group wants to update laws on intellectual property and data privacy to address new AI technologies, require AI companies to adhere to a strict code of ethics, and work with labor unions and industry groups that deal with creative work.. . . Robots would come for humans’ jobs. That was guaranteed. The assumption generally was that they would take over manual labor, lifting heavy pallets in a warehouse and sorting recycling.
+
+Now significant advances in generative artificial intelligence mean robots are coming for artists, too.
+
+A.I.-generated images, created with simple text prompts, are winning art contests, adorning book covers, and promoting “The Nutcracker,” leaving human artists worried about their futures.
+
+The threat can feel highly personal. An image generator called Stable Diffusion was trained to recognize patterns, styles and relationships by analyzing billions of images collected from the public internet, alongside text describing their contents.

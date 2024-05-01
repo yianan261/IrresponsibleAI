@@ -1,0 +1,43 @@
+(Credit: Graphika)
+
+
+
+A pro-China propaganda campaign that’s been bashing the US on social media created fake followers with the help of AI-generated images.
+
+Since June, the campaign has been posting English-language videos critical of the Trump administration on Facebook, Twitter, and YouTube, according to research company Graphika, which has been tracking the group’s activities.
+
+Graphika dubs the campaign “Spamouflage Dragon.” And like other propaganda activities, the pro-China group uses fake accounts to share and post comments on its content to help it gain wider circulation. However, Graphika noticed something odd with the profile photos belonging to these fake accounts: In some cases, the headshots appear to be the work of an AI program designed to create artificial human faces.
+
+(Credit: Graphika)
+
+At first glance, the profile photos look legitimate. But Graphika spotted strange commonalities in the images, such as the blurred backgrounds, and how the eyeball positions in the profile photos all matched up. This indicates the photos were likely the product of a “generative adversarial network” or GAN, a machine learning technology adept at creating seemingly real, but ultimately fake human faces.
+
+(Credit: Graphika)
+
+The GANs can generate a synthetic face by studying existing images of real people, and learning how to recreate the facial features into a new image. However, the results aren’t always perfect. The AI program often has trouble rendering earrings and other objects around the fake person’s face. The backgrounds are also left vague.
+
+Nevertheless, the technology has sparked fears about bad actors exploiting AI-created media to help them pump out disinformation over social media. For instance, a reverse image search can often reveal whether a user's profile photo is legit or has been repurposed from somewhere else. But the same can't be done for a freshly generated photo made by an AI.
+
+In the case of Spamouflage Dragon, the pro-China group used the AI-generated photos to create fake followers on Twitter and YouTube. However, the campaign itself was pretty shoddy, according to Graphika. “The videos were clumsily made, marked by language errors and awkward automated voice-overs,” the research company said in its report.
+
+The computer-assisted text-to-voice recordings were so bad some videos pronounced the US as “us.” Other language errors include using headlines and subtitles that mentioned “Public blamed Trump sinaction,” and “very good at be mischievous.”
+
+(Credit: Graphika)
+
+As a result, the videos failed to receive any engagement from real social media users. The campaign ran from June to early August, posting videos critical of President Trump’s ban on TikTok and his approach to COVID-19. However, the social media companies have since taken down the group’s videos and the affiliated user accounts.
+
+Whether the Chinese government was behind the campaign remains unclear. However, US intelligence officials warned last week that foreign governments—including China, Russia and Iran—will try to sway US public opinion to influence the upcoming presidential election.
+
+Graphika says it isn’t the first time the company has encountered a propaganda campaign incorporating AI-generated photos into their schemes. But the company warns: “Given the ease with which threat actors can now use publicly available services to generate fake profile pictures, this tactic is likely to become increasingly prevalent.”
+
+China's App Store pulls the pandemic simulation game 'Plague Inc' China's App Store pulls the pandemic simulation game 'Plague Inc'. Pro-Chinese Inauthentic Network Debuts English-Language Videos
+
+Social media accounts from the pro-Chinese political spam network Spamouflage Dragon started posting English-language videos that attacked American policy and the administration of U.S. President Donald Trump in June, as the rhetorical confrontation between the United States and China escalated.
+
+The videos were clumsily made, marked by language errors and awkward automated voice-overs. Some of the accounts on YouTube and Twitter used AI-generated profile pictures, a technique that appears to be increasingly common in disinformation campaigns. The network did not appear to receive any engagement from authentic users across social media platforms, nor did it appear to seriously attempt to conceal its Chinese origin as it pivoted toward messaging related to U.S. politics.
+
+Spamouflage Dragon’s politically focused disinformation campaigns appear to have started in the summer of 2019. It began in Chinese by attacking the Hong Kong protesters and exiled Chinese billionaire Guo Wengui, a frequent critic of the Chinese Communist Party (CCP). In early 2020, it started commenting on the coronavirus pandemic, praising the CCP’s response at a time when it was being accused of covering up the outbreak.
+
+The latest wave of Spamouflage activity differs in two key ways from its predecessors. First, it includes a wealth of videos in English and targets the United States, especially its foreign policy, its handling of the coronavirus outbreak, its racial inequalities, and its moves against TikTok. This is the first time the network has published substantial volumes of English-language content alongside its ongoing Chinese coverage--a clear expansion of its scope. The network was particularly active, and reactive to current events, in the period of investigation: videos commenting on recent U.S. official statements were created and uploaded in less than 36 hours.
+
+Second, it is the first time that we have seen Spamouflage Dragon use clusters of accounts with AI-generated profile pictures. Other operations are known to have done so, but this is the first time the practice has been adopted by this particular network. Given the ease with which threat actors can now use publicly available services to generate fake profile pictures, this tactic is likely to become increasingly prevalent.

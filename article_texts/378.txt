@@ -1,0 +1,31 @@
+TuSimple is in trouble.
+
+Last April, a semi-trailer truck operated by the San Diego-based company that was traveling down I-10 in Tucson, Arizona, suddenly lurched left, slamming into a concrete divider, according to dashcam footage leaked to YouTuber Asian Mai. TuSimple blamed “human error,” but a report in The Wall Street Journal says that’s a major oversimplification.
+
+An internal report viewed by the Journal says that the crash occurred because “a person in the cab hadn’t properly rebooted the autonomous driving system before engaging it, causing it to execute an outdated command.” The left-turn command was 2.5 minutes old and should have been erased but wasn’t, according to the internal report.
+
+The left-turn command was 2.5 minutes old and should have been erased but wasn’t
+
+But autonomous vehicle researchers say that blaming the crash on human error is misleading, arguing that common safeguards would have prevented the autonomous driving system from executing the outdated command and likely would have prevented the crash. AV systems should not respond to commands that are even a couple hundredths of a second old, the researchers told the Journal. And sharp turns at 65mph should also never have been allowed.
+
+TuSimple, a leading supplier of autonomous truck technology, insists that no one was injured in the crash and no property was damaged. “This is the first on the road incident for which we’ve been responsible,” the company said in a statement posted on its website. “While our safety record is many times better than traditional manually-driven trucks, we take our responsibility to find and resolve all safety issues very seriously.”
+
+TuSimple provided more details about the crash in its report to the National Highway Traffic Safety Administration, which began to collect data on crashes involving autonomous vehicles last year.
+
+According to TuSimple’s filing:
+
+As the truck was being operated on the highway, within its mapped [operational design domain], the driver and test engineer attempted to engage the [automated driving system]. However, the ADS was not functional at that moment due to the computer unit not having been initialized, and should not have been attempted to be activated. In short, this was a failed attempt to engage the system as a result of human error.
+
+The incident is already being scrutinized by federal regulators. The Federal Motor Carrier Safety Administration, which regulates the trucking industry, launched a “safety compliance investigation” in response to the April crash, according to a letter obtained by Asian Mai and viewed by the Journal. NHTSA is also reportedly joining the investigation.
+
+A spokesperson for the FMCSA did not immediately respond to a request for comment, and a spokesperson for NHTSA declined to comment. A TuSimple spokesperson also didn’t respond.
+
+The incident is already being scrutinized by federal regulators
+
+According to NHTSA, there were 130 crashes involving vehicles equipped with automated driving systems from July 2021 to May 2022. Only three of those crashes involved an autonomous truck; the vast majority involved passenger vehicles.
+
+Founded in 2015, TuSimple currently uses Navistar trucks outfitted with the startup’s own self-driving tech, which sees the world largely through 20 cameras and two lidar laser sensors. The company is backed by UPS, Nvidia, and Chinese technology company Sina, and it has headquarters in San Diego and Beijing. TuSimple was the first autonomous trucking startup to go public, listing shares on the Nasdaq in April 2021 with a valuation of $8.5 billion.
+
+TuSimple has said it is aiming for a fully driverless system, but currently, its trucks include two human operators to monitor the driving and take over when needed. The April incident took place with two employees in the cab of the truck, but the company has conducted fully driverless tests on public roads.
+
+Autonomous trucking is starting to emerge from the shadow of the much larger robotaxi industry. Alphabet’s Waymo has been testing its self-driving tractor trailers in Texas, Arizona, and California and is also working with UPS. Other companies — from established players like Daimler to newcomers like Ike, Embark, and Plus — are also working toward a fully driverless truck.. 

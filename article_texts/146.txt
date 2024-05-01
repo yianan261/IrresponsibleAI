@@ -1,0 +1,117 @@
+We’ve all been in situations where we had to make tough ethical decisions. Why not dodge that pesky responsibility by outsourcing the choice to a machine learning algorithm?
+
+That’s the idea behind Ask Delphi, a machine-learning model from the Allen Institute for AI. You type in a situation (like "donating to charity") or a question ("is it okay to cheat on my spouse?"), click "Ponder," and in a few seconds Delphi will give you, well, ethical guidance.
+
+The project launched last week, and has subsequently gone viral online for seemingly all the wrong reasons. Much of the advice and judgements it's given have been… fraught, to say the least.
+
+For example, when a user asked Delphi what it thought about "a white man walking towards you at night," it responded "It’s okay."
+
+But when they asked what the AI thought about "a black man walking towards you at night" its answer was clearly racist.
+
+
+
+The issues were especially glaring in the beginning of its launch.
+
+For instance, Ask Delphi initially included a tool that allowed users to compare whether situations were more or less morally acceptable than another — resulting in some really awful, bigoted judgments.
+
+Besides, after playing around with Delphi for a while, you’ll eventually find that it’s easy to game the AI to get pretty much whatever ethical judgement you want by fiddling around with the phrasing until it gives you the answer you want.
+
+So yeah. It’s actually completely fine to crank "Twerkulator" at 3am even if your roommate has an early shift tomorrow — as long as it makes you happy.
+
+It also spits out some judgments that are complete head scratchers. Here’s one that we did where Delphi seems to condone war crimes.
+
+Geneva Conventions? Never heard of her.
+
+Machine learning systems are notorious for demonstrating unintended bias. And as is often the case, part of the reason Delphi's answers can get questionable can likely be linked back to how it was created.
+
+The folks behind the project drew on some eyebrow-raising sources to help train the AI, including the "Am I the Asshole?" subreddit, the "Confessions" subreddit, and the "Dear Abby" advice column, according to the paper the team behind Delphi published about the experiment.
+
+It should be noted, though, that just the situations were culled from those sources — not the actual replies and answers themselves. For example, a scenario such as "chewing gum on the bus" might have been taken from a Dear Abby column. But the team behind Delphi used Amazon's crowdsourcing service MechanicalTurk to find respondents to actually train the AI.
+
+While it might just seem like another oddball online project, some experts believe that it might actually be causing more harm than good.
+
+After all, the ostensible goal of Delphi and bots like it is to create an AI sophisticated enough to make ethical judgements, and potentially turn them into moral authorities. Making a computer an arbiter of moral judgement is uncomfortable enough on its own, but even its current less-refined state can have some harmful effects.
+
+"The authors did a lot of cataloging of possible biases in the paper, which is commendable, but once it was released, people on Twitter were very quick to find judgments that the algorithm made that seem quite morally abhorrent," Dr. Brett Karlan, a postdoctoral fellow researching cognitive science and AI at the University of Pittsburgh (and friend of this reporter), told Futurism. "When you’re not just dealing with understanding words, but you're putting it in moral language, it's much more risky, since people might take what you say as coming from some sort of authority."
+
+Karlan believes that the paper’s focus on natural language processing is ultimately interesting and worthwhile. Its ethical component, he said, "makes it societally fraught in a way that means we have to be way more careful with it in my opinion."
+
+Though the Delphi website does include a disclaimer saying that it’s currently in its beta phase and shouldn’t be used "for advice, or to aid in social understanding of humans," the reality is that many users won’t understand the context behind the project, especially if they just stumbled onto it.
+
+
+
+"Even if you put all of these disclaimers on it, people are going to see ‘Delphi says X’ and, not being literate in AI, think that statement has moral authority to it," Karlan said.
+
+And, at the end of the day, it doesn't. It's just an experiment — and the creators behind Delphi want you to know that.
+
+"It is important to understand that Delphi is not built to give people advice," Liwei Jiang, PhD student at the Paul G. Allen School of Computer Science & Engineering and co-author of the study, told Futurism. "It is a research prototype meant to investigate the broader scientific questions of how AI systems can be made to understand social norms and ethics."
+
+Jiang added the goal with the current beta version of Delphi is actually to showcase the reasoning differences between humans and bots. The team wants to "highlight the wide gap between the moral reasoning capabilities of machines and humans," Jiang added, "and to explore the promises and limitations of machine ethics and norms at the current stage."
+
+Perhaps one of the most uncomfortable aspects about Delphi and bots like it is the fact that it’s ultimately a reflection of our own ethics and morals, with Jiang adding that "it is somewhat prone to the biases of our time." One of the latest disclaimers added to the website even says that the AI simply guesses what an average American might think of a given situation.
+
+
+
+After all, the model didn’t learn its judgments on its own out of nowhere. It came from people online, who sometimes do believe abhorrent things. But when this dark mirror is held up to our faces, we jump away because we don't like what's reflected back.
+
+For now, Delphi exists as an intriguing, problematic, and scary exploration. If we ever get to the point where computers are able to make unequivocal ethical judgements for us, though, we hope that it comes up with something better than this.
+
+Follow Tony Tran on Twitter.
+
+More on AI: Scientists Use AI, 3D Printing to Uncover Hidden Picasso Painting. Got a moral quandary you don’t know how to solve? Fancy making it worse? Why not turn to the wisdom of artificial intelligence, aka Ask Delphi: an intriguing research project from the Allen Institute for AI that offers answers to ethical dilemmas while demonstrating in wonderfully clear terms why we shouldn’t trust software with questions of morality.
+
+Ask Delphi was launched on October 14th, along with a research paper describing how it was made. From a user’s point of view, though, the system is beguilingly simple to use. Just head to the website, outline pretty much any situation you can think of, and Delphi will come up with a moral judgement. “It’s bad,” or “it’s acceptable,” or “it’s good,” and so on.
+
+Each answer from the AI oracle includes a button to “share this on Twitter”
+
+Since Ask Delphi launched, its nuggets of wisdom have gone viral in news stories and on social media. This is certainly as its creators intended: each answer is provided with a quick link to “share this on Twitter,” an innovation unavailable to the ancient Greeks.
+
+It’s not hard to see why the program has become popular. We already have a tendency to frame AI systems in mystical terms — as unknowable entities that tap into higher forms of knowledge — and the presentation of Ask Delphi as a literal oracle encourages such an interpretation. From a more mechanical perspective, the system also offers all the addictive certainty of a Magic 8-Ball. You can pose any question you like and be sure to receive an answer, wrapped in the authority of the algorithm rather than the soothsayer.
+
+Ask Delphi isn’t impeachable, though: it’s attracting attention mostly because of its many moral missteps and odd judgements. It has clear biases, telling you that America is “good” and that Somalia is “dangerous”; and it’s amenable to special pleading, noting that eating babies is “okay” as long as you are “really, really hungry.” Worryingly, it approves straightforwardly racist and homophobic statements, saying it’s “good” to “secure the existence of our people and a future for white children” (a white supremacist slogan known as the 14 words) and that “being straight is more morally acceptable than being gay.” (That last example comes from a feature that allowed users to compare two statements. This seems to have been disabled after it generated a number of particularly offensive answers. We’ve reached out to the system’s creators to confirm this and will update if we hear back.)
+
+It’s easy to manipulate the AI’s judgements by reframing your question
+
+Most of Ask Delphi’s judgements, though, aren’t so much ethically wrong as they are obviously influenced by their framing. Even very small changes to how you pose a particular quandary can flip the system’s judgement from condemnation to approval.
+
+Sometimes it’s obvious how to tip the scales. For example, the AI will tell you that “drunk driving” is wrong but that “having a few beers while driving because it hurts no-one” is a-okay. If you add the phrase “if it makes everyone happy” to the end of your statement, then the AI will smile beneficently on any immoral activity of your choice, up to and including genocide. Similarly, if you add “without apologizing” to the end of many benign descriptions, like “standing still” or “making pancakes,” it will assume you should have apologized and tells you that you’re being rude. Ask Delphi is a creature of context.
+
+Other verbal triggers are less obvious, though. The AI will tell you that “having an abortion” is “okay,” for example, but “aborting a baby” is “murder.” (If I had to offer an explanation here, I’d guess that this is a byproduct of the fact that the first phrase uses neutral language while the second is more inflammatory and so associated with anti-abortion sentiment.)
+
+What all this ultimately means is that a) you can coax Ask Delphi into making any moral judgement you like through careful wording, because b) the program has no actual human understanding of what is actually being asked of it, and so c) is less about making moral judgements than it is about reflecting the users’ biases back to themselves coated in a veneer of machine objectivity. This is not unusual in the world of AI.
+
+Ask Delphi’s problems stem from how it was created. It is essentially a large language model — a type of AI system that learns by analyzing vast chunks of text to find statistical regularities. Other programs of this nature, such as OpenAI’s GPT-3, have been shown to lack common-sense understanding and reflect societal biases found in their training data. GPT-3, for example, is consistently Islamophobic, associating Muslims with violence, and pushes gender stereotypes, linking women to ideas of family and men with politics.
+
+These programs all rely on the internet to provide the data they need, and so, of course, absorb the many and varied human beliefs they find there, including the nasty ones. Ask Delphi is no different in this regard, and its training data incorporates some unusual sources, including a series of one-sentence prompts scraped from two subreddits: r/AmITheAsshole and r/Confessions. (Though to be clear: it does not use the judgements of the Redditors, only the prompts. The judgements were collected using crowdworkers who were instructed to answer according to what they think are the moral norms of the US.)
+
+Ask Delphi is sensitive to the nuances of language, but that’s not always a good thing
+
+These systems aren’t without their good qualities, of course, and like its language model brethren, Ask Delphi is sensitive to nuances of language that would have only baffled its predecessors. In the examples in the slides below, you can see how it responds to subtle changes in given situations. Most people, I think, would agree that it responds to these details in interesting and often valid ways. Ignoring an “urgent” phone call is “rude,” for example, but ignoring one “when you can’t speak at the moment” is “okay.” The problem is that these same sensitivities mean the system can be easily gamed, as above.
+
+Previous Next
+
+
+
+
+
+1 / 4 Previous Next
+
+
+
+
+
+1 / 4
+
+If Ask Delphi is not a reliable source of moral wisdom, then, what is its actual purpose?
+
+A disclaimer on the demo’s website says the program is “intended to study the promises and limitations of machine ethics” and the research paper itself uses similar framing, noting that the team identified a number of “underlying challenges” in teaching machines to “behave ethically,” many of which seem like common sense. What’s hard about getting computers to think about human morality? Well, imparting an “understanding of moral precepts and social norms” and getting a machine to “perceive real-world situations visually or by reading natural language descriptions.” Which, yes, are pretty huge problems.
+
+Despite this, the paper itself ricochets back and forth between confidence and caveats in achieving its goal. It says that Ask Delphi “demonstrates strong promise of language-based commonsense moral reasoning, with up to 92.1 percent accuracy vetted by humans” (a metric created by asking Mechanical Turkers to judge Ask Delphi’s own judgements). But elsewhere states: “We acknowledge that encapsulating ethical judgments based on some universal set of moral precepts is neither reasonable nor tenable.” It’s a statement that makes perfect sense, but surely undermines how such models might be used in the future.
+
+Ultimately, Ask Delphi is an experiment, but it’s one that reveals the ambitions of many in the AI community: to elevate machine learning systems into positions of moral authority. Is that a good idea? We reached out to the system’s creators to ask them, but at the time of publication had yet to hear back. Ask Delphi itself, though, is unequivocal on that point:
+
+Update, Monday October 25th, 5:50AM ET: In a statement given to The Verge, the Allen Institute said: “The key objective of our Delphi prototype is to study the potential and the limitations of language-based commonsense moral models. We do not propose to elevate AI into a position of moral authority, but rather to investigate the relevant research questions involved in the emergent field of machine ethics. The obvious limitations demonstrated by Delphi present an interesting opportunity to gain new insights and perspectives—they also highlight AI’s unique ability to turn the mirror on humanity and make us ask ourselves how we want to shape the powerful new technologies permeating our society at this important turning point.”. Researchers at an artificial intelligence lab in Seattle called the Allen Institute for AI unveiled new technology last month that was designed to make moral judgments. They called it Delphi, after the religious oracle consulted by the ancient Greeks. Anyone could visit the Delphi website and ask for an ethical decree.
+
+Joseph Austerweil, a psychologist at the University of Wisconsin-Madison, tested the technology using a few simple scenarios. When he asked if he should kill one person to save another, Delphi said he shouldn’t. When he asked if it was right to kill one person to save 100 others, it said he should. Then he asked if he should kill one person to save 101 others. This time, Delphi said he should not.
+
+Morality, it seems, is as knotty for a machine as it is for humans.

@@ -1,0 +1,171 @@
+Care for some of the sickest Americans is decided in part by algorithm. New research shows that software guiding care for tens of millions of people systematically privileges white patients over black patients. Analysis of records from a major US hospital revealed that the algorithm used effectively let whites cut in line for special programs for patients with complex, chronic conditions such as diabetes or kidney problems.
+
+The hospital, which the researchers didn’t identify but described as a “large academic hospital,” was one of many US health providers that employ algorithms to identify primary care patients with the most complex health needs. Such software is often tapped to recommend people for programs that offer extra support—including dedicated appointments and nursing teams—to people with a tangle of chronic conditions.
+
+Researchers who dug through nearly 50,000 records discovered that the algorithm effectively low-balled the health needs of the hospital’s black patients. Using its output to help select patients for extra care favored white patients over black patients with the same health burden.
+
+When the researchers compared black patients and white patients to whom the algorithm assigned similar risk scores, they found the black patients were significantly sicker, for example with higher blood pressure and less well-controlled diabetes. This had the effect of excluding people from the extra care program on the basis of race. The hospital automatically enrolled patients above certain risk scores into the program, or referred them for consideration by doctors.
+
+The researchers calculated that the algorithm’s bias effectively reduced the proportion of black patients receiving extra help by more than half, from almost 50 percent to less than 20 percent. Those missing out on extra care potentially faced a greater chance of emergency room visits and hospital stays.
+
+“There were stark differences in outcomes,” says Ziad Obermeyer, a physician and researcher at UC Berkeley who worked on the project with colleagues from the University of Chicago and Brigham and Women’s and Massachusetts General hospitals in Boston.
+
+The paper, published Thursday in Science, does not identify the company behind the algorithm that produced those skewed judgments. Obermeyer says the company has confirmed the problem and is working to address it. In a talk on the project this summer, he said the algorithm is used in the care of 70 million patients and developed by a subsidiary of an insurance company. That suggests the algorithm may be from Optum, owned by insurer UnitedHealth, which says its product that attempts to predict patient risks, including costs, is used to “manage more than 70 million lives.” Asked by WIRED if its software was that in the study, Optum said in a statement that doctors should not use algorithmic scores alone to make decisions about patients. “As we advise our customers, these tools should never be viewed as a substitute for a doctor’s expertise and knowledge of their patients’ individual needs,” it said.
+
+Keep Reading The latest on artificial intelligence , from machine learning to computer vision and more
+
+The algorithm studied did not take account of race when estimating a person’s risk of health problems. Its skewed performance shows how even putatively race-neutral formulas can still have discriminatory effects when they lean on data that reflects inequalities in society.
+
+The software was designed to predict patients’ future health costs, as a proxy for their health needs. It could predict costs with reasonable accuracy for both black patients and white patients. But that had the effect of priming the system to replicate unevenness in access to healthcare in America—a case study in the hazards of combining optimizing algorithms with data that reflects raw social reality.. Millions of dollars are being spent to develop artificial intelligence software that reads x-rays and other medical scans in hopes it can spot things doctors look for but sometimes miss, such as lung cancers. A new study reports that these algorithms can also see something doctors don’t look for on such scans: a patient’s race.
+
+The study authors and other medical AI experts say the results make it more crucial than ever to check that health algorithms perform fairly on people with different racial identities. Complicating that task: The authors themselves aren’t sure what cues the algorithms they created use to predict a person’s race.
+
+Evidence that algorithms can read race from a person’s medical scans emerged from tests on five types of imagery used in radiology research, including chest and hand x-rays and mammograms. The images included patients who identified as Black, white, and Asian. For each type of scan, the researchers trained algorithms using images labeled with a patient’s self-reported race. Then they challenged the algorithms to predict the race of patients in different, unlabeled images.
+
+Radiologists don’t generally consider a person’s racial identity—which is not a biological category—to be visible on scans that look beneath the skin. Yet the algorithms somehow proved capable of accurately detecting it for all three racial groups, and across different views of the body.
+
+For most types of scan, the algorithms could correctly identify which of two images was from a Black person more than 90 percent of the time. Even the worst performing algorithm succeeded 80 percent of the time; the best was 99 percent correct. The results and associated code were posted online late last month by a group of more than 20 researchers with expertise in medicine and machine learning, but the study has not yet been peer reviewed.
+
+The results have spurred new concerns that AI software can amplify inequality in health care, where studies show Black patients and other marginalized racial groups often receive inferior care compared to wealthy or white people.
+
+Machine-learning algorithms are tuned to read medical images by feeding them many labeled examples of conditions such as tumors. By digesting many examples, the algorithms can learn patterns of pixels statistically associated with those labels, such as the texture or shape of a lung nodule. Some algorithms made that way rival doctors at detecting cancers or skin problems; there is evidence they can detect signs of disease invisible to human experts.
+
+Judy Gichoya, a radiologist and assistant professor at Emory University who worked on the new study, says the revelation that image algorithms can “see” race in internal scans likely primes them to also learn inappropriate associations.
+
+“We have to educate people about this problem and research what we can do to mitigate it.” Judy Gichoya, radiologist and assistant professor, Emory University
+
+Medical data used to train algorithms often bears traces of racial inequalities in disease and medical treatment, due to historical and socioeconomic factors. That could lead an algorithm searching for statistical patterns in scans to use its guess at a patient’s race as a kind of shortcut, suggesting diagnoses that correlate with racially biased patterns from its training data, not just the visible medical anomalies that radiologists look for. Such a system might give some patients an incorrect diagnosis or a false all-clear. An algorithm might suggest different diagnoses for a Black person and white person with similar signs of disease.
+
+“We have to educate people about this problem and research what we can do to mitigate it,” Gichoya says. Her collaborators on the project came from institutions including Purdue, MIT, Beth Israel Deaconess Medical Center, National Tsing Hua University in Taiwan, University of Toronto, and Stanford.. A widely used algorithm that predicts which patients will benefit from extra medical care dramatically underestimates the health needs of the sickest black patients, amplifying long-standing racial disparities in medicine, researchers have found. The problem was caught in an algorithm sold by a leading health services company, called Optum, to guide care decision-making for millions of people. But the same issue almost certainly exists in other tools used by other private companies, nonprofit health systems and government agencies to manage the health care of about 200 million people in the United States each year, the scientists reported in the journal Science.
+
+Correcting the bias would more than double the number of black patients flagged as at risk of complicated medical needs within the health system the researchers studied, and they are already working with Optum on a fix. When the company replicated the analysis on a national data set of 3.7 million patients, they found that black patients who were ranked by the algorithm as equally as in need of extra care as white patients were much sicker: They collectively suffered from 48,772 additional chronic diseases.
+
+Advertisement
+
+“It’s truly inconceivable to me that anyone else’s algorithm doesn’t suffer from this,” said Sendhil Mullainathan, a professor of computation and behavioral science at the University of Chicago Booth School of Business, who oversaw the work. “I’m hopeful that this causes the entire industry to say, ‘Oh, my, we’ve got to fix this.’ ”
+
+The algorithm wasn’t intentionally racist — in fact, it specifically excluded race. Instead, to identify patients who would benefit from more medical support, the algorithm used a seemingly race-blind metric: how much patients would cost the health-care system in the future. But cost isn’t a race-neutral measure of health-care need. Black patients incurred about $1,800 less in medical costs per year than white patients with the same number of chronic conditions; thus the algorithm scored white patients as equally at risk of future health problems as black patients who had many more diseases.
+
+Machines increasingly make decisions that affect human life, and big organizations — particularly in health care — are trying to leverage massive data sets to improve how they operate. They utilize data that may not appear to be racist or biased but may have been heavily influenced by longstanding social, cultural and institutional biases — such as health-care costs. As computer systems determine which job candidates should be interviewed, who should receive a loan or how to triage sick people, the proprietary algorithms that power them run the risk of automating racism or other human biases.
+
+The U.S. has the highest rate of pregnancy-related mortality among developed nations. Figures suggest that half of those deaths may have been prevented. (Video: Luis Velarde/The Washington Post, Photo: John Parks/The Washington Post)
+
+In medicine, there is a long history of black patients facing barriers to accessing care and receiving less effective health care. Studies have found black patients are less likely to receive pain treatment, potentially lifesaving lung cancer surgery or cholesterol-lowering drugs, compared with white patients. Such disparities probably have complicated roots, including explicit racism, access problems, lack of insurance, mistrust of the medical system, cultural misunderstandings or unconscious biases that doctors may not even know they have.
+
+Advertisement
+
+Mullainathan and his collaborators discovered that the algorithm they studied, which was designed to help health systems target patients who would have the greatest future health-care needs, was predicting how likely people were to use a lot of health care and rack up high costs in the future. Since black patients generally use health care at lower rates, the algorithm was less likely to flag them as likely to use lots of health care in the future.
+
+The algorithm would then deepen that disparity by flagging healthier white patients as in need of more intensive care management.
+
+“Predictive algorithms that power these tools should be continually reviewed and refined, and supplemented by information such as socio-economic data, to help clinicians make the best-informed care decisions for each patient,” Optum spokesman Tyler Mason said. “As we advise our customers, these tools should never be viewed as a substitute for a doctor’s expertise and knowledge of their patients’ individual needs.”
+
+Advertisement
+
+Ruha Benjamin, an associate professor of African American studies at Princeton University, drew a parallel to the way Henrietta Lacks, a young African American mother with cervical cancer, was treated by the medical system. Lacks is well known now because her cancer cells, taken without her consent, are used throughout modern biomedical research. She was treated in a separate wing of Johns Hopkins Hospital in an era when hospitals were segregated. Imagine if today, Benjamin wrote in an accompanying article, Lacks were “digitally triaged” with an algorithm that didn’t explicitly take into account her race but underestimated her sickness because it was using data that reflected historical bias to project her future needs. Such racism, though not driven by a hateful ideology, could have the same result as earlier segregation and substandard care.
+
+“I am struck by how many people still think that racism always has to be intentional and fueled by malice. They don’t want to admit the racist effects of technology unless they can pinpoint the bigoted boogeyman behind the screen,” Benjamin said.
+
+The software used to predict patients’ need for more intensive medical support was an outgrowth of the Affordable Care Act, which created financial incentives for health systems to keep people well instead of waiting to treat them when they got sick. The idea was that it would be possible to simultaneously contain costs and keep people healthier by identifying those patients at greatest risk for becoming very sick and providing more resources to them. But because wealthy, white people tend to utilize more health care, such tools could also lead health systems to focus on them, missing an opportunity to help some of the sickest people.
+
+Advertisement
+
+Christine Vogeli, director of evaluation and research at the Center for Population Health at Partners HealthCare, a nonprofit health system in Massachusetts, said when her team first tested the algorithm, they mapped the highest scores in their patient population and found them concentrated in some of the most affluent suburbs of Boston. That led them to use the tool in a limited way, supplementing it with other information, rather than using it off the shelf.
+
+“You’re going to have to make sure people are savvy about it … or you’re going to have an issue where you’re only serving the richest and most wealthy folks,” Vogeli said.
+
+Such biases may seem obvious in hindsight, but algorithms are notoriously opaque because they are proprietary products that can cost hundreds of thousands of dollars. The researchers who conducted the new study had an unusual amount of access to the data that went into the algorithm and what it predicted.
+
+Advertisement
+
+They also found a relatively straightforward way to fix the problem. Instead of just predicting which patients would incur the highest costs and use the most health care in the future, they tweaked the algorithm to make predictions about their future health conditions.
+
+Suchi Saria, a machine learning and health-care expert at Johns Hopkins University, said the study was fascinating because it showed how, once a bias is detected, it can be corrected. Much of the scientific study of racial disparities in medicine provides evidence of inequity, but correcting those problems might require sweeping social and cultural changes, as well as individual behavior changes by thousands of providers. In contrast, once a flawed algorithm is identified, the bias can be removed.
+
+“The cool thing is we could easily measure the bias that has historically existed, switch out the algorithm and correct the bias,” Saria said. The trickier part may be developing an oversight mechanism that will detect the biases in the first place.
+
+Advertisement
+
+Saria said that one possibility is that data experts could potentially test companies’ algorithms for bias, the same way security firms test whether a companies’ cyber defenses are sufficient.
+
+Read More:. Artificial intelligence and medical algorithms are deeply intertwined with our modern health care system. These technologies mimic the thought processes of doctors to make medical decisions and are designed to help providers determine who needs care. But one big problem with artificial intelligence is that it very often replicate the biases and blind spots of the humans who create them.
+
+Researchers and physicians have warned that algorithms used to determine who gets kidney transplants, heart surgeries and breast cancer diagnoses display racial bias. Those problems can lead to detrimental care that, in some cases, can jeopardize the health of millions of patients.
+
+advertisement
+
+So how exactly does bias seep into these algorithms? And what can be done to prevent it?
+
+Hertford County Magistrate Deborah Morrison at the sheriff’s department in Winton, N.C. Her mother, a 74-year-old former pastor, had begun to suffer from extreme fatigue and shortness of breath. Morrison said her mother’s primary care doctor diagnosed her with depression, prescribed her medication, and sent her home without referring her to a cardiologist. One week later in Greenville, a city 90 miles away, her mother was diagnosed with congestive heart failure. She collapsed and died about one month later. Landon Bost for STAT
+
+In this episode, we hear from Casey Ross, STAT’s national health tech correspondent, about his reporting on racial bias in AI. Chris Hemphill, the VP for applied AI & growth at Actium Health, tells us about the rise of responsible AI in health care. Ziad Obermeryer, an emergency medicine physician and researcher at the UC Berkeley School of Public Health, walks us through how his team found bias in an algorithm widely used in our health care system and an instance where AI was used to correct a health care injustice.
+
+A transcript of this episode is available here.
+
+advertisement
+
+You can subscribe to “Color Code” on Apple Podcasts, Spotify, Google Podcasts, SoundCloud, and elsewhere. New episodes will be released every other Monday.
+
+To read more on some of the topics discussed in the episode:
+
+Chris Hemphill’s STAT First Opinion on responsible AI and counteracting bias
+
+To hear more from Chris Hemphill, you can listen to their podcast, “Hello Healthcare”
+
+A conversation with Ziad Obermeyer on dissecting bias in AI
+
+And check out some of STAT’s coverage on the topic:
+
+This podcast was made possible with support from the Commonwealth Fund.. Artificial intelligence (AI) and algorithmic decision-making systems — algorithms that analyze massive amounts of data and make predictions about the future — are increasingly affecting Americans’ daily lives. People are compelled to include buzzwords in their resumes to get past AI-driven hiring software. Algorithms are deciding who will get housing or financial loan opportunities. And biased testing software is forcing students of color and students with disabilities to grapple with increased anxiety that they may be locked out of their exams or flagged for cheating. But there’s another frontier of AI and algorithms that should worry us greatly: the use of these systems in medical care and treatment. The use of AI and algorithmic decision-making systems in medicine are increasing even though current regulation may be insufficient to detect harmful racial biases in these tools. Details about the tools’ development are largely unknown to clinicians and the public — a lack of transparency that threatens to automate and worsen racism in the health care system. Last week, the FDA issued guidance significantly broadening the scope of the tools it plans to regulate. This broadening guidance emphasizes that more must be done to combat bias and promote equity amid the growing number and increasing use of AI and algorithmic tools.
+
+Bias in Medical and Public Health Tools
+
+In 2019, a bombshell study found that a clinical algorithm many hospitals were using to decide which patients need care was showing racial bias — Black patients had to be deemed much sicker than white patients to be recommended for the same care. This happened because the algorithm had been trained on past data on health care spending, which reflects a history in which Black patients had less to spend on their health care compared to white patients, due to longstanding wealth and income disparities. While this algorithm’s bias was eventually detected and corrected, the incident raises the question of how many more clinical and medical tools may be similarly discriminatory. Another algorithm, created to determine how many hours of aid Arkansas residents with disabilities would receive each week, was criticized after making extreme cuts to in-home care. Some residents attributed extreme disruptions to their lives and even hospitalization to the sudden cuts. A resulting lawsuit found that several errors in the algorithm — errors in how it characterized the medical needs of people with certain disabilities — were directly to blame for inappropriate cuts made. Despite this outcry, the group that developed the flawed algorithm still creates tools used in health care settings in nearly half of U.S. states as well as internationally. One recent study found that an AI tool trained on medical images, like x-rays and CT scans, had unexpectedly learned to discern patients’ self-reported race. It learned to do this even when it was trained only with the goal of helping clinicians diagnose patient images. This technology’s ability to tell patients’ race — even when their doctor cannot — could be abused in the future, or unintentionally direct worse care to communities of color without detection or intervention.
+
+Tools Used in Health Care Can Escape Regulation
+
+Some algorithms used in the clinical space are severely under-regulated in the U.S. The U.S Department of Health and Human Services (HHS) and its subagency the Food and Drug Administration (FDA) are tasked with regulating medical devices — with devices ranging from a tongue depressor to a pacemaker and now, medical AI systems. While some of these medical devices (including AI) and tools that aid physicians in treatment and diagnosis are regulated, other algorithmic decision-making tools used in clinical, administrative, and public health settings — such as those that predict risk of mortality, likelihood of readmission, and in-home care needs — are not required to be reviewed or regulated by the FDA or any regulatory body. This lack of oversight can lead to biased algorithms being used widely by hospitals and state public health systems, contributing to increased discrimination against Black and Brown patients, people with disabilities, and other marginalized communities. In some cases, this failure to regulate can lead to wasted money and lives lost. One such AI tool, developed to detect sepsis early, is used by more than 170 hospitals and health systems. But a recent study revealed the tool failed to predict this life-threatening illness in 67 percent of patients who developed it, and generated false sepsis alerts on thousands of patients who did not. Acknowledging this failure was the result of under-regulation, the FDA’s new guidelines point to these tools as examples of products it will now regulate as medical devices. The FDA’s approach to regulating drugs, which involves publicly shared data that is scrutinized by review panels for adverse effects and events contrasts to its approach to regulating medical AI and algorithmic tools. Regulating medical AI presents a novel issue and will require considerations that differ from those applicable to the hardware devices the FDA is used to regulating. These devices include pulse oximeters, thermal thermometers, and scalp electrodes—each of which have been found to reflect racial or ethnic bias in how well they function in subgroups. News of these biases only underscores how vital it is to properly regulate these tools and ensure they don’t perpetuate bias against vulnerable racial and ethnic groups.
+
+A Lack of Transparency/Biased Data
+
+While the FDA suggests that device manufacturers test their devices for racial and ethnic biases before marketing to the general public, this step is not required. Perhaps more important than assessments after a device is developed is transparency during its development. A STAT+ News study found many AI tools approved or cleared by the FDA do not include information about the diversity of the data on which the AI was trained, and that the number of these tools being cleared is increasing rapidly. Another study found AI tools “consistently and selectively under-diagnosed under-served patient populations,” finding the under-diagnosis rate was higher for marginalized communities who disproportionately don’t have access to medical care. This is unacceptable when these tools may make decisions that have life or death consequences.
+
+The Path Forward. Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.. New York state officials launched an investigation into whether Optum’s algorithm used by hospitals to identify patients with chronic diseases has a racial bias.
+
+New York's Financial Services and Health departments sent a letter to UnitedHealth Group’s CEO David Wichmann Friday regarding an algorithm developed by Optum, The Wall Street Journal reported. The investigation is in response to a study published in the journal Science that found an algorithm used to assign risk scores gave the same risk level to blacks as white patients that were healthier.
+
+“These discriminatory results, whether intentional or not, are unacceptable and are unlawful in New York,” according to the letter.
+
+RELATED: UnitedHealthcare ramping up investments in virtual visits, home monitoring for 6M Medicare Advantage members
+
+The study said that the algorithm reduces the number of black patients that need extra care by half.
+
+“Bias occurs because the algorithm uses health costs as a proxy for health needs,” the study said. “Less money is spent on black patients who have the same level of need, and the algorithm thus falsely concludes that black patients are healthier than equally sick white patients.”
+
+The algorithm needs to be changed so it doesn’t use cost as proxy for healthcare need and would eliminate the racial bias in predicting who needs extra care, the authors added.
+
+“By relying on historic spending to triage and diagnose current patients, your algorithm appears to inherently prioritize white patients who have had greater access to healthcare than black patients,” the letter said.
+
+New York’s regulators called for Optum to stop using the algorithm or provide evidence to contradict the study’s claims.
+
+UnitedHealth Group said in a statement on the study's release that it appreciates the “researchers’ work and validation that the cost model was highly predictive of cost.”
+
+RELATED: UnitedHealth Group execs talk rebate rule, DaVita acquisition in Q2 call
+
+But the algorithm is “just one of many data elements intended to be used to select patients for clinical engagement programs, including most importantly, the doctor’s expertise and knowledge of his or her patient’s individual needs.”
+
+Industry analyst Cynthia Burghard, who has conducted research on information technology and reviewed the Science study, said, "The big question is, is it the tool or how the tool was used?"
+
+Burghard, research director for value-based healthcare IT transformation strategies at IDC Health Insights, said the study looked at one academic medical center’s use of the algorithm. Industry best practices for using this type of algorithm to dictate who gets care management often involves using multiple pieces of information, not just health costs.
+
+"There is a lot of nuance to people’s health that is not reflected in cost," she said, noting that the Optum algorithm is not artificial intelligence but a rules-based system.
+
+Using algorithms to look at a cohort of patients is a common practice in healthcare, with companies like IBM offering these technology tools, Burghard noted. If hospitals and health systems stopped using these tools it would be "throwing the baby out with the bathwater," she said.
+
+She added the study highlights the importance of involving clinicians in technology purchasing decisions when the technology will be used to support clinical decisions.
+
+Optum, the provider services subsidiary, has been a major revenue driver for UnitedHealth.
+
+The group posted $5 billion in profits in the third quarter of 2019 driven largely by strong performance by Optum, which posted double-digit growth for both revenue and earnings in the quarter.
+
+Heather Landi contributed additional reporting to this story.

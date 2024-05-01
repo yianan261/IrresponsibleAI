@@ -1,0 +1,23 @@
+The developers of a new app that uses AI to estimate the speed of a passing car say they have been forced into anonymity by the vicious response from drivers.
+
+The app, Speedcam Anywhere, is the product of a team of AI scientists with backgrounds in Silicon Valley companies and top UK universities. Its creators hope it will encourage police to take speeding more seriously and enable residents, pedestrians and cyclists to document traffic crimes in their area.
+
+But since it launched in March, the vitriol levied at the team is such that they are afraid of sharing their real identities. “We’re getting quite abusive emails,” said Sam, the app’s founder, who spoke on condition of anonymity. “It’s a Marmite product – some people think it’s a good idea, some people think that it turns us into a surveillance state.
+
+“I can see both sides of that, but I think that if you’re going to have speed limits, then it’s the law that you obey them, and you should enforce the law. It’s not a personal vendetta against anyone, it’s just – how do we make our roads safe? There are 20,000 serious injuries on the roads every year – how can we reduce them? And the way we reduce them is we make a deterrent to speeding.”
+
+One online review for the app said: “In East Germany, citizens were encouraged to report their neighbours to the Stasi for even the smallest societal infraction. ‘Congratulations’ on creating a modern day version of that. If you couldn’t tell, I’m being sarcastic. This app disgusts me.”
+
+The app has faced difficulties. Google refused to allow the team to publish it on the Play Store, saying it was not possible to estimate the speed of a passing vehicle using AI alone – a claim proved wrong when the company provided a demonstration of the technology. An iOS version has also been developed but Apple has yet to approve it for distribution and has not given a reason for the delay. “We’re not sure why they would block a useful piece of technology, something that could save people’s lives,” Sam said.
+
+For several years, police forces have accepted user-uploaded footage of traffic crimes. That has enabled some citizens, such as cyclist Mike van Erp, to submit evidence leading to hundreds of prosecutions for unsafe driving. “What we did is extended the sort of capabilities that dashcam systems have, so that you can automate the forensic video analysis that dashcams already do. So instead of a human looking at a video working out the offence, we’ve created software that automates the process.”
+
+The app cannot lead to drivers receiving speeding tickets. Since Speedcam Anywhere’s algorithm has not been vetted by the Home Office, it is not legally a speed camera, and cannot provide sufficient evidence for a police force to issue a prosecution for speeding, although the broader “dangerous driving” offence may apply if the driving is sufficiently negligent.
+
+Sam hopes widespread use of the app will instead alert police to speeding hotspots and encourage them to take more action to prevent dangerous driving. “I think this is a step in the bigger journey of how we make our roads safer and more accessible for everybody.
+
+“Having roads that are just too dangerous for kids to cycle to school on, having roads that are too dangerous for parents let their kids cross – I think that’s wrong, and society needs to get over it. Make the roads safer, make them less unpleasant, and then we can start to look at how else we can move around.”
+
+Apple has been contacted for comment.
+
+How Speedcam Anywhere works

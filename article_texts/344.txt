@@ -1,0 +1,21 @@
+MyInterview provides hiring managers with a transcript of their interviews. When we inspected our candidate’s transcript, we found that the system interpreted her German words as English words. But the transcript didn’t make any sense. The first few lines, which correspond to the answer provided above, read:
+
+"So humidity is desk a beat-up. Sociology, does it iron? Mined material nematode adapt. Secure location, mesons the first half gamma their Fortunes in for IMD and fact long on for pass along to Eurasia and Z this particular location mesons."
+
+Mismatched
+
+Instead of scoring our candidate on the content of her answers, the algorithm pulled personality traits from her voice, says Clayton Donnelly, an industrial and organizational psychologist working with MyInterview.
+
+But intonation isn’t a reliable indicator of personality traits, says Fred Oswald, a professor of industrial organizational psychology at Rice University. “We really can’t use intonation as data for hiring,” he says. “That just doesn’t seem fair or reliable or valid.”
+
+Using open-ended questions to determine personality traits also poses significant challenges, even when—or perhaps especially when—that process is automated. That’s why many personality tests, such as the Big Five, give people options from which to choose.
+
+“The bottom-line point is that personality is hard to ferret out in this open-ended sense,” Oswald says. “There are opportunities for AI or algorithms and the way the questions are asked to be more structured and standardized. But I don’t think we’re necessarily there in terms of the data, in terms of the designs that give us the data.”
+
+The cofounder and chief technology officer of Curious Thing, Han Xu, responded to our findings in an email, saying: “This is the very first time that our system is being tested in German, therefore an extremely valuable data point for us to research into and see if it unveils anything in our system.”
+
+The bias paradox
+
+Performance on AI-powered interviews is often not the only metric prospective employers use to evaluate a candidate. And these systems may actually reduce bias and find better candidates than human interviewers do. But many of these tools aren’t independently tested, and the companies that built them are reluctant to share details of how they work, making it difficult for either candidates or employers to know whether the algorithms are accurate or what influence they should have on hiring decisions.
+
+Mark Gray, who works at a Danish property management platform called Proper, started using AI video interviews during his previous human resources role at the electronics company Airtame. He says he originally incorporated the software, produced by a German company called Retorio, into interviews to help reduce the human bias that often develops as hiring managers make small talk with candidates.

@@ -1,0 +1,35 @@
+A Tesla Model S driver published a video of his car crashing into a van while on Autopilot which acts as a great PSA to remind Tesla drivers not to always rely on the Autopilot and be ready to take control at all time. In this particular case, the video shows quite clearly what went wrong and the data could actually be useful to Tesla to help prevent the event from happening again.
+
+The Model S was on Autopilot, or at least the Traffic-Aware Cruise Control (TACC) feature of the Autopilot, in the left lane on the highway (looks like Switzerland) in heavy traffic. While in heavy traffic, TACC will lock on the vehicle in front of the Model S to determine the speed of the vehicle and consequently when to move in traffic.
+
+The problem here is that a van stopped in the left lane with its hazard lights on and the vehicle TACC was following didn’t stop, if it would have stopped it’s likely the Model S on Autopilot would have too, instead it swerved past it by partly impinging on the right lane.
+
+It looks like the Model S stayed locked on the vehicle and therefore didn’t try to stop for the obstacle until the very last second, which of course shouldn’t happen. The Model S driver saw it coming but trusted the system:
+
+“Yes, I could have reacted sooner, but when the car slows down correctly 1’000 times, you trust it to do it the next time to. My bad..”
+
+Tesla’s owner manual has a warning especially for those kind of situations:
+
+“Warning: Traffic-Aware Cruise Control can not detect all objects and may not brake/decelerate for stationary vehicles, especially in situations when you are driving over 50 mph (80 km/h) and a vehicle you are following moves out of your driving path and a stationary vehicle or object, bicycle, or pedestrian is in front of you instead. Always pay attention to the road ahead and stay prepared to take immediate corrective action. Depending on Traffic-Aware Cruise Control to avoid a collision can result in serious injury or death. In addition, Traffic-Aware Cruise Control may react to vehicles or objects that either do not exist or are not in the lane of travel, causing Model S to slow down unnecessarily or inappropriately.”
+
+The owner says that “the whole front of the car needs to be replaced, including a parking sensor and a steel beam”.
+
+Update: the Model S owner set the video to private (see below), but someone linked to a gif of the video:
+
+via GIPHY
+
+Here’s the short video:
+
+It’s interesting to compare the situations in which the Autopilot is more inclined to act in time. For example, it looks like it’s better at avoiding obstacles that are coming in the vehicle’s path instead of stationary obstacles already in the path: Watch Tesla’s Autopilot autonomously avoid a collision with a truck [Video]. . Within a week of Tesla releasing Autopilot to the masses last fall, we started seeing some generally scary videos of people putting a little too much trust in the system. Well, we're continuing to see them, and in the latest video we sadly have a proper collision.
+
+As spotted on Tech Insider and Electrek, a European Tesla owner was driving their Model S on the highway in Switzerland last week with Tesla's Adaptive Cruise Control engaged. Tesla's ACC and Autopilot systems use a camera and a series of sensors to monitor surrounding traffic and dynamically adjust speed, even coming to a complete stop.
+
+The car ahead changed lanes to avoid a stopped van, which was blocking half the lane. The Model S seems to have recognized the car leaving the lane ahead but did not spot the stopped van. The result was the Model S actually accelerating slightly into the van, causing a collision that looked low-speed. But according to the driver's comments in the video, "the whole front of the car needs to be replaced, including a parking sensor and a steel beam."
+
+The driver blames the car, both for not spotting the van and for the automatic braking system failing to trigger. However, as YouTube commenter Shaimach points out, the Model S manual calls out this exact situation as something drivers need to be aware of:
+
+Warning: Traffic-aware cruise control may not brake/decelerate for stationary vehicles, especially in situations when you are driving over 50 mph (80 km/h) and a vehicle you are following moves out of your driving path and a stationary vehicle or object is in front of you instead. Always pay attention to the road ahead and stay prepared to take immediate corrective action. Depending on TrafficAware Cruise Control to avoid a collision can result in serious injury or death.
+
+The driver concedes: "Yes, I could have reacted sooner, but when the car slows down correctly 1,000 times, you trust it to do it the next time to. My bad." As I discovered after spending a week with a Model X, its automation systems are really, really good -- but far from perfect. So, stay vigilant, Tesla owners.
+
+Update 5:15pm ET: The video, which lived here, has been made private. We have also removed the name of the driver of the Model S from this post at their request.
