@@ -1,0 +1,54 @@
+What I’ve learned from Kaggle’s fisheries competition
+Me and my Kaggle partner, have recently participated in “The Nature Conservancy Fisheries Monitoring” (hereby: “fisheries”) Kaggle competition. This competition had some very interesting results, most notably, the benchmark result got ahead of most competitors. I believe there are a few very important lessons we can learn form as data scientists. Bellow you can read about the competition, and some of the things we have learned from it.
+
+The Competition
+So recently you’ve might have heard some buzz about Kaggle’s fisheries competition, and you’ve might have been wondering what all the fuss is about.
+
+In this competition your goal (as in many Kaggle competitions) was to classify an object, in this case - determine the species of a fish.
+
+why would you like to do this? Well, to make a long story short, ships are currently equipped with automatic cameras, to make sure they are catching only legit fish like tuna, and not protected animals like sharks. The picture are later manually deciphered
+
+However, the fish are not presented to you in a clear profile pic, but it is randomly tossed around some boat. Here are some example images:
+
+
+there are also images with more than one fish, or images with no fish at all.
+
+So this is not the standard “recognize the flower/leaf/face” competition, but a more challenging one.
+
+And this is why I love Kaggle: unlike many machine learning articles, which use the easiest available data-set (mnist, cifar-10, imagenet to name a few) Kaggle presents you with real life problems, which are always dirty, mislabeled, blurred etc.
+As in some other competitions, this was a two stage competition, in which a small part of the test data (1K images) is available, while the majority of the test set (another 12K images) is released 1 week before the competition deadline. This method may prevent some cheating, but has a lot of issues, and may discourage many competitors: only around 300 competitors of the total 2300 starters made a submission at the second stage.
+Our way through the competition
+From a quick look, it is easy to see that the required approach here is doing two steps: first detecting the fish, and then classifying it.
+
+However, during the competition, something strange came up in the competition forums: if you run a pre-trained VGG network on the training set (as very clearly described here and more thoroughly discussed in this great course), you can reach accuracy of around 99%. This is strange, because the VGG was trained on image-net data, which is not very similar to the images above. Submitting these results to Kaggle showed results which were not bad at all, but much lower than 99%.
+One of the most important things when competing in kaggle, is having a decent validation set, that is able to somehow predict your results on the leader board, and clearly this was not the case for us. It seemed there is a “leak” in this competition, which means some feature that is correlated with the predicted variable in the training set. This feature was the boat ID.
+
+It seems, that due to the setting of the camera in the boats, the data-set contained numerous images that were very similar to each other, and when randomly splitting the data-set, the model could easily over-fit those images. the test set had also some of these similar images, however, we were not guaranteed that the second stage test set will not have completely new images. You can read about it in this post.
+So how to pass this hurdle? It’s actually quite easy. Sklearn has a function that does exactly this. It can leave one ship out as a validation set. This is quite a useful technique.
+
+When trying this, the results flipped upside down: form accuracy of 99% we went to hardly beating random guess. This has shown us that using the pre trained VGG is not such a good idea, and we went forward to developing our two step strategy.
+
+Our way to solution
+we’ve been looking through some modern detection techniques, preferably with friendly API, and found these 2: YOLO and SSD. They are both fast deep network algorithms, which are based on one pass through the image, what makes them quite fast. we’ve sicked with the SSD since it has quite friendly implementation in keras.
+After playing with it for a while, we’ve reached some very good results, here are some random examples:
+in This stage we’ve thought we are golden, and we are going to reach very high in this competition. What we’ve had left is to take our fish cropped images and to do exactly what we’ve done before, classify them with the VGG or something similar.
+
+Unfortunately for us, we were not able to complete our strategy: though it felt the right way to go, it didn’t prove itself in the Kaggle leader-board, so we quit trying about a week or so before the end of the competition. we’ve been able to reach log-loss score of around 1.3, which brought us to the middle of the leader-board, while the 1st place had something like 0.2, and there were just too many people above us.
+
+However, when the competition ended and the private leader board was revealed, we were very shocked to see a few things:
+
+the leading results is no longer 0.2, but 1.06
+the sample submission — the benchmark which was released in the beginning of the competition was ranked 30th, which is unprecedented
+our poor submission of 1.3 dropped to 1.8, and got us to the respectable 126 rank.
+What is the meaning of all this?
+It seem that the public leader board was based on an extremely unrepresentative sample of the actual test data.
+All (or most) the high ranked results before the publication of private leader board were extremely over fitting data as described before
+many of the contestants (such as us) were discouraged by seemingly poor results, so they stopped competing — out of >2K competitors at stage 1, only ~ 300 made a submission in the second stage. Our submission was merely just to get a score, and not a sincere shot
+So what is the lesson we’ve learned?
+Well, besides of immersing ourselves in many image classification/detection algorithms, it is good to get a reminder about the elusiveness of working with data.
+
+In real life data science, most of the time it is just you and your problem. There is no perfect solution, and it is hard to tell if you’ve reached a good result for your problem or a major improvement is just around the corner. In Kaggle, you are always bench-marked with other competitors which may encourage/discourage you: “what do they know that I don’t know?” however, this competition proves that you should still mostly rely on yourself, your intuition, your validation.
+
+Moreover, its a little bit of hindsight, but you should also ask yourself, “if I was in this competition, would I or would I stumble on it like others?” I think it should also bring us as data scientists to examining our real life problems, where we don’t have a leader board to check ourselves, but only our boss or client or product to use our predictions. How well do we measure ourselves?
+
+as usual, some of the high achievers very kindly shared their solutions:

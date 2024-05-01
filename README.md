@@ -50,7 +50,9 @@ python3 news_content.py
 
 ## News Content Processing
 
-The `news_content.py` script aggregates news articles content of the same incident into one large string. It then instantiates an OpenaiAPI instance which processes the content of the aggregated article text by invoking the OpenAI() client. The `gpt-4-turbo-preview` model is used for this purpose.
+The `news_content.py` script is the entry-point of the program. It aggregates news articles content of the same incident into one large string. It then instantiates an OpenaiAPI instance which processes the content of the aggregated article text by invoking the OpenAI() client. The `gpt-4-turbo-preview` model is used for this purpose.
+
+Before scraping the article from the provided URLs, the program pre-processes the urls to check if they are valid.
 
 The OpenaiAPI class and the prompt can be found in the `openai_api.py` file in the `api` directory. The taxonomies for our classification of the Irresponsible AI Atlas are defined in the `taxonomies.py` file, also located in the `api` directory, under the Taxonomies class. The prompt retrieves some of the taxonomic information from this file. The system is asked to adhere to the taxonomy we created as closely as possible, but if a field is not applicable, it can generate a more appropriate response.
 
@@ -78,13 +80,16 @@ Individual JSON outputs are under the `processed_output_individual` directory
     ├── incident_data.py <!-- Utility functions used by news_content.py-->
     ├── api/ <!-- Main directory for LLM APIs -->
     │ ├── openai_api.py <!-- Main class for calling LLM APIs -->
+    | ├── param_data.py <!--generates message arguments for openai_api-->
     │ ├── prompt_factory.py <!-- Contains all the prompts -->
     │ ├── results.py <!-- Examples -->
+    | ├── search_request.py <!-- Calls Google Custom Search API -->
     │ └── taxonomies.py <!-- Taxonomic structure -->
+    ├── check_urls.py <!-- Utility functions to pre-process urls -->
     ├── cut_text.py <!-- Utility function -->
     ├── format_checker.py <!-- Utility function -->
     ├── aiid.py <!-- Script that loads data to MongoDB -->
-    ├── article_texts/ <!-- Contains the scraped articles of AIID (not complete) -->
+    ├── article_texts/ <!-- Contains the scraped articles of AIID -->
     ├── article_texts2/ <!-- This will be removed -->
     ├── processed_output/ <!-- Main directory of aggregated output -->
     ├── processed_output_individual/ <!-- Main directory of individual output -->
