@@ -5,10 +5,13 @@ import re
 
 
 def clean_filename(filename):
-    """
-    function to clean up string to be used as filename
-    :param filename: original string to be cleaned up
-    :return: cleaned up string safe for use as a file name
+    """Cleans a string to make it safe for use as a filename by removing special characters.
+
+    Parameters:
+        filename (str): The original filename string to be sanitized.
+
+    Returns:
+        str: A cleaned string safe for use as a filename.
     """
     filename = re.sub(r'[\\/*?:"<>|]', "", filename)  # remove special characters
     return filename
@@ -16,13 +19,16 @@ def clean_filename(filename):
 
 def build_payload(query: str, start=1, num=10, **params):
     """
-    function to build payload for the Google Search API request
-    :param query: search term
-    :param start: index of the first result to return
-    :param num: how many results returned
-    :param params: additional parameters for the API request
+    Constructs a dictionary payload for making a Google Search API request.
 
-    :return: Dictionary containing the API request parameters
+    Parameters:
+        query (str): The search term for the API request.
+        start (int): The starting index of the search results (default is 1).
+        num (int): The number of search results to return (default is 10).
+        **params: Additional parameters to customize the API request.
+
+    Returns:
+        dict: A dictionary containing the parameters for the API request.
     """
     load_dotenv()
     SEARCH_API_KEY = os.getenv("SEARCH_API_KEY")
@@ -35,9 +41,16 @@ def build_payload(query: str, start=1, num=10, **params):
 
 def make_request(payload):
     """
-    function that sends GET request to Google Search API and handle potential errors
-    :param payload: Dictionary containing API request parameters
-    :return: JSON response from the API
+    Sends a GET request to the Google Search API using the provided payload and handles errors.
+
+    Parameters:
+        payload (dict): A dictionary containing the parameters for the API request.
+
+    Returns:
+        dict: The JSON response from the API.
+
+    Raises:
+        Exception: If the request to the API fails.
     """
     response = requests.get(
         "https://customsearch.googleapis.com/customsearch/v1", params=payload

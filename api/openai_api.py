@@ -7,6 +7,13 @@ from .param_data import *
 
 
 class OpenaiAPI:
+    """
+    Initializes the OpenAI API client with a specific model.
+
+    Parameters:
+        model (str): The model identifier to be used with the OpenAI API.
+    """
+
     def __init__(self, model="gpt-4-1106-preview"):
         self.client = OpenAI()
         self.model = model
@@ -14,7 +21,14 @@ class OpenaiAPI:
 
     def get_data(self, prompt_type, article_text):
         """
-        returns messages, tool, and prompts for chat completions API arguments
+        Retrieves messages, tools, and prompts necessary for the chat completions API based on the given prompt type and article text.
+
+        Parameters:
+            prompt_type (str): The type of prompt to generate.
+            article_text (str): The article text to process.
+
+        Returns:
+            tuple: A tuple containing the list of messages, tools configuration, and the prompt string.
         """
         prompt = prompt_factory.get_prompt(article_text, prompt_type)
         messages = get_messages(prompt, article_text, "multi")
@@ -23,8 +37,13 @@ class OpenaiAPI:
 
     def handle_tool_calls(self, tool_calls):
         """
-        calls the external function in availble functions suggested by LLM
-        returns list of location candidates
+        Processes external function calls based on the tool calls suggested by the LLM, returning location candidates.
+
+        Parameters:
+            tool_calls (list): A list of tool call specifications received from the LLM.
+
+        Returns:
+            list: A list of location candidates extracted from the external function calls.
         """
         location_candidates = []
         available_functions = self.available_functions
@@ -54,11 +73,14 @@ class OpenaiAPI:
 
     def process_content(self, article_text, prompt_type):
         """
-        function that calls chat completions API from OpenAI in get_data() and external search function
-        to search company location
-        :param article_text: type string article text to pass to get data
-        :param prompt_type: type string prompt type to get prompt
-        :return: response from LLM and prompt
+        Processes the article content by calling the chat completions API and handling external search functions to locate company information.
+
+        Parameters:
+            article_text (str): The article text to analyze.
+            prompt_type (str): The type of prompt to generate for the completion.
+
+        Returns:
+            tuple: A tuple containing the response from the LLM and the generated prompt.
         """
         message, tools, prompt = self.get_data(prompt_type, article_text)
 
@@ -87,9 +109,17 @@ class OpenaiAPI:
         response = completion.choices[0].message.content
         return response, prompt
 
+    # optional
     def check_result(self, article_text, result):
         """
-        optional method to do a second-pass on result checking
+        Validates the result by asking a follow-up question and checking the response.
+
+        Parameters:
+            article_text (str): The text of the article associated with the result.
+            result (str): The result to validate.
+
+        Returns:
+            bool: True if the response is affirmative, False otherwise.
         """
         prompt = prompt_factory.get_prompt_for_check(article_text, result)
         messages = [

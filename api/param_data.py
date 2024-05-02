@@ -28,11 +28,19 @@ def get_tools():
 
 def get_messages(prompt, article_text, message_type="one"):
     """
-    this message prompt invokes get_location() from Google Custom Search API
-    :param prompt: prompt for the LLM
-    :param article_text: incident article
-    :message_type: if "one" selected only one prompt. If "multi" selected there will be a multi-role conversation
-    :return: message list for chat completions API.
+    Constructs a message list for chat completions API based on provided parameters.
+
+    This function also invokes the `get_location()` method from the Google Custom Search API
+
+    Parameters:
+        prompt (str): The initial user prompt for the language model (LLM).
+        article_text (str): The text of the article involved in the incident.
+        message_type (str): Determines the structure of the conversation.
+                            "one" for a single interaction, "multi" for a multi-step interaction.
+
+    Returns:
+        list[dict]: A list of message dictionaries. Each dictionary represents a step in the conversation,
+                    containing 'role' (either 'system' or 'user') and 'content' (text of the message).
     """
     message = []
     if message_type == "one":
@@ -61,11 +69,15 @@ def get_messages(prompt, article_text, message_type="one"):
 
 
 def update_messages_with_location(article_text, prompt, location_candidates):
-    """
-    :param article_text: incident article
-    :param prompt: prompt for the LLM
-    :param location_candidates: list of Google Custom Search API result for LLM to determine location of the company
-    :return: message list for chat completions API
+    """Updates and returns a message list for the chat completions API that includes steps
+    Parameters:
+        article_text (str): The text of the article involved in the incident.
+        prompt (str): The initial prompt for the language model to start the conversation.
+        location_candidates (list): A list of location results from Google Custom Search API, which are potential
+                                    locations of the company mentioned in the article text.
+
+    Returns:
+        list[dict]: An extended list of message dictionaries structured for a multi-turn conversation for chat completions API
     """
     # llm_lingua = PromptCompressor(
     #     "TheBloke/Llama-2-7b-Chat-GPTQ", model_config={"revision": "main"}
