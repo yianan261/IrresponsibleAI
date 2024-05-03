@@ -1,0 +1,32 @@
+{
+    "579": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "OpenAI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Non-cisgender individuals"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "35",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Gender",
+                "Sexual Orientation"
+            ]
+        },
+        "Area of AI Application": "Image Generation",
+        "Online": "No"
+    }
+}

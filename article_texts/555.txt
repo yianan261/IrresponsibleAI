@@ -1,7 +1,31 @@
-Hi! You've reached one of our premium articles. This is available exclusively to subscribers.
+Lawsuit says OpenAI violated US authors' copyrights
+Two US authors sued OpenAI in San Francisco federal court, claiming in a proposed class action that the company misused their works to "train" its popular generative artificial-intelligence system ChatGPT. Massachusetts-based writers Paul Tremblay and Mona Awad said ChatGPT mined data ...
+The Intercept, Raw Story and AlterNet
+Filed Feb. 28 by the same law firm came two new copyright cases from a trio of news organizations: The Intercept, Raw Story and AlterNet. 
 
-It's free to register, and only takes a few minutes.
 
-Once you sign up you'll have unlimited access to the full catalogue of Australia's best business IT content, as well as a daily news bulletin delivered straight to your inbox.
+Raw Story and AlterNet filed suit together. 
 
-Already have an account? Log in to read this article.
+Both suits claim that OpenAI violated the Digital Millennium Copyright Act (DMCA) of 1998, in which it is prohibited to remove copyright information — such as author and title — from an article with the intent of concealing copyright infringement. 
+
+ Both suits, citing data from Copyleaks that found nearly 60% of ChatGPT responses to contain plagiarized content, state that OpenAI knowingly chose to strip away copyright information from the articles it used to train ChatGPT, essentially training ChatGPT "not to acknowledge or respect copyright, not to notify ChatGPT users when the responses they received were protected by journalists’ copyrights and not to provide attribution when using the works of human journalists."
+
+"Defendants had reason to know that ChatGPT would be less popular and would generate less revenue if users believed that ChatGPT responses violated third-party copyrights," The Intercept's suit says.
+The New York Times
+In the New York Times' lawsuit, filed at the end of last year, DMCA violations are only one component of many. 
+
+The suit — which was also brought against Microsoft — alleges copyright infringement in both the input and output of OpenAI's models, going further to allege unfair competition and trademark dilution. 
+"Defendants’ use of Times content encoded within models and live Times content processed by models produces outputs that usurp specific commercial opportunities of The Times," the suit claims. 
+
+The Times is seeking to hold both firms accountable for "billions of dollars in statutory and actual damages that they owe for the unlawful copying and use of The Times’s uniquely valuable works."
+
+"If Microsoft and OpenAI want to use our work for commercial purposes, the law requires that they first obtain our permission," a Times spokesperson said at the time. "They have not done so."
+
+OpenAI, according to a Feb. 27 filing, is seeking to dismiss several parts of the lawsuit, including claims of direct copyright infringement, contributory infringement, copyright management information removal and unfair competition by misappropriation. 
+
+OpenAI said in the filing that the Times "paid someone to hack OpenAI's products," adding that ChatGPT "is not in any way a substitute for a subscription" to the Times.
+"In the real world, people do not use ChatGPT or any other OpenAI product for that purpose. Nor could they," OpenAI said. 
+
+Ian Crosby, the Times' lead counsel, said in an emailed statement that the filing importantly does not dispute the company's use of copyrighted material. 
+
+“What OpenAI bizarrely mischaracterizes as ‘hacking’ is simply using OpenAI’s products to look for evidence that they stole and reproduced The Times’ copyrighted works. And that is exactly what we found," Crosby said. "In fact, the scale of OpenAI’s copying is much larger than the 100-plus examples set forth in the complaint."

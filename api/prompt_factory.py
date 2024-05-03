@@ -693,21 +693,21 @@ def get_prompt(article_text, prompt_type):
         - Company state (the state of the company city, if applicable, if not leave blank):
         - Affected population (let's think about which groups of people are directly affected by the incident in the article.): 
         - Number of people actually affected (let's check the number of people directly affected according to the article. Give a total number. If unknown output 'Unknown'):
-        - Number of people potentially affected (let's think and estimate how many people might have been potentially affected by this incident):
-        - Classes of irresponsible AI use (please follow the rules and refer to this taxonomy: 
+        - Number of people potentially affected (try to come up with an estimate number. let's think and estimate how many people might have been potentially affected by this incident):
+        - Classes of irresponsible AI use (Identify the classes of harm. Please follow the rules and refer to this taxonomy for the classes of harm): 
         ```taxonomy classes
                 {taxa.classes} 
         ```   
         Rule1: There could be more than one classes the article classifies as. 
         Rule2: DO NOT create your own class, adhere strictly to the provided list.
-        - Subclasses (please follow the rules and refer to this taxonomy structure `<class>:[<subclass>]`):
+        - Subclasses (Identify the subclasses IF applicable, not all `classes` have `subclasses`. You MUST adhere to this taxonomy structure `<class>:[<subclass>]`.):
           ```taxonomy subclasses       
                  {taxa.subclasses}
           ```
         Rule1 : The subclasses should be the children of the classes. Let's think about which sub-categories of the class/classes this article belong in. 
         Rule2: DO NOT ADD subclass fields that are NOT in the provided taxonomy list
         Rule3: If there is no subclass for a particular class in the taxonomy, leave it.
-        - Sub-subclass (please follow the rules and refer to this taxonomy structure `<subclass>:[<sub-subclass>]`): 
+        - Sub-subclass (Identify the sub-subclass IF applicable, not all `subclasses` have `sub-subclasses`. You MUST adhere to this taxonomy structure `<subclass>:[<sub-subclass>]`): 
         ```taxonomy structure
                {taxa.sub_subclasses}
         ```

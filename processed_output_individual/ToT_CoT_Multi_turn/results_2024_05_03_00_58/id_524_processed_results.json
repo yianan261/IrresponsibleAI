@@ -1,0 +1,29 @@
+{
+    "524": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Torswats",
+        "Company city": "Dubuque",
+        "Company state": "Iowa",
+        "Affected population": [
+            "Schools, High school students, General public"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Voice synthesis",
+        "Online": "No"
+    }
+}

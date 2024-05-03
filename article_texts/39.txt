@@ -1,15 +1,39 @@
-. How will artificial intelligence affects jobs?
+. A new technique using artificial intelligence to manipulate video content gives new meaning to the expression “talking head.”
 
-Let’s hear from Barack Obama on the future of the world.
+An international team of researchers showcased the latest advancement in synthesizing facial expressions—including mouth, eyes, eyebrows, and even head position—in video at this month’s 2018 SIGGRAPH, a conference on innovations in computer graphics, animation, virtual reality, and other forms of digital wizardry.
 
-To learn more, check out: 10 Key Robotics Facts You Need to Know and 10 Ways Robotics Could Transform Our Future.. . If you, like me, believe yourself to be a scrupulous consumer of news, full of healthy skepticism and too smart for that fake-news bullshit, Jordan Peele has got a big, stiff-ass cup of wake-the-hell-up for you. Yesterday, Peele released a video with BuzzFeed News titled "You Won't Believe What Obama Says in This Video [winky-face emoji]"—something that seems really easy to gloss over if you're accustomed to viral stunts. But you should watch this one, because it's a really good reminder of how easily conned we can be in 2018.
+The project is called Deep Video Portraits. It relies on a type of AI called generative adversarial networks (GANs) to modify a “target” actor based on the facial and head movement of a “source” actor. As the name implies, GANs pit two opposing neural networks against one another to create a realistic talking head, right down to the sneer or raised eyebrow.
 
-The video shows what appears to be Barack Obama talking about how easily faked public statements can be, before revealing that it's not actually Obama but Jordan Peele doing his extremely good Obama impression with the help of some AI puppets that are becoming frighteningly easy to use.
+In this case, the adversaries are actually working together: One neural network generates content, while the other rejects or approves each effort. The back-and-forth interplay between the two eventually produces a realistic result that can easily fool the human eye, including reproducing a static scene behind the head as it bobs back and forth.
 
-If you look at it closely, you can see that it looks a bit suspect—the lower half of "Obama's" face is a bit off, and the hand movements are weird—but if you're not primed to look for this stuff, it's incredibly easy to miss. (Besides, we watch most videos on tiny screens where glitchy giveaways can be written off as hiccups in Internet service.) Peele's PSA uses his Fake Obama to have a little fun (he calls Trump a dipshit, and signs off with "stay woke, bitches"), but also to stress the importance of news literacy, skepticism, and trust in established and credible news sources.
+The researchers say the technique can be used by the film industry for a variety of purposes, from editing facial expressions of actors for matching dubbed voices to repositioning an actor’s head in post-production. AI can not only produce highly realistic results, but much quicker ones compared to the manual processes used today, according to the researchers. You can read the full paper of their work here.
 
-Of course, it's not hard to imagine this PSA immediately being taken out of context and parts of it (like the "Trump is a dipshit" part) passed as Obama's actual words on some subreddit somewhere. It's nice to remember how well and truly screwed we are.
+“Deep Video Portraits shows how such a visual effect could be created with less effort in the future,” said Christian Richardt, from the University of Bath’s motion capture research center CAMERA, in a press release. “With our approach, even the positioning of an actor’s head and their facial expression could be easily edited to change camera angles or subtly change the framing of a scene to tell the story better.”
 
-Watch:
+AI Tech Different Than So-Called “Deepfakes”
 
-How to Tie a Durag, According to A$AP Ferg
+The work is far from the first to employ AI to manipulate video and audio. At last year’s SIGGRAPH conference, researchers from the University of Washington showcased their work using algorithms that inserted audio recordings from a person in one instance into a separate video of the same person in a different context.
+
+In this case, they “faked” a video using a speech from former President Barack Obama addressing a mass shooting incident during his presidency. The AI-doctored video injects the audio into an unrelated video of the president while also blending the facial and mouth movements, creating a pretty credible job of lip synching.
+
+A previous paper by many of the same scientists on the Deep Video Portraits project detailed how they were first able to manipulate a video in real time of a talking head (in this case, actor and former California governor Arnold Schwarzenegger). The Face2Face system pulled off this bit of digital trickery using a depth-sensing camera that tracked the facial expressions of an Asian female source actor.
+
+A less sophisticated method of swapping faces using a machine learning software dubbed FakeApp emerged earlier this year. Predictably, the tech—requiring numerous photos of the source actor in order to train the neural network—was used for more juvenile pursuits, such as injecting a person’s face onto a porn star.
+
+The application gave rise to the term “deepfakes,” which is now used somewhat ubiquitously to describe all such instances of AI-manipulated video—much to the chagrin of some of the researchers involved in more legitimate uses.
+
+Fighting AI-Created Video Forgeries
+
+However, the researchers are keenly aware that their work—intended for benign uses such as in the film industry or even to correct gaze and head positions for more natural interactions through video teleconferencing—could be used for nefarious purposes. Fake news is the most obvious concern.
+
+“With ever-improving video editing technology, we must also start being more critical about the video content we consume every day, especially if there is no proof of origin,” said Michael Zollhöfer, a visiting assistant professor at Stanford University and member of the Deep Video Portraits team, in the press release.
+
+Toward that end, the research team is training the same adversarial neural networks to spot video forgeries. They also strongly recommend that developers clearly watermark videos that are edited through AI or otherwise, and denote clearly what part and element of the scene was modified.
+
+To catch less ethical users, the US Department of Defense, through the Defense Advanced Research Projects Agency (DARPA), is supporting a program called Media Forensics. This latest DARPA challenge enlists researchers to develop technologies to automatically assess the integrity of an image or video, as part of an end-to-end media forensics platform.
+
+The DARPA official in charge of the program, Matthew Turek, did tell MIT Technology Review that so far the program has “discovered subtle cues in current GAN-manipulated images and videos that allow us to detect the presence of alterations.” In one reported example, researchers have targeted eyes, which rarely blink in the case of “deepfakes” like those created by FakeApp, because the AI is trained on still pictures. That method would seem to be less effective to spot the sort of forgeries created by Deep Video Portraits, which appears to flawlessly match the entire facial and head movements between the source and target actors.
+
+“We believe that the field of digital forensics should and will receive a lot more attention in the future to develop approaches that can automatically prove the authenticity of a video clip,” Zollhöfer said. “This will lead to ever-better approaches that can spot such modifications even if we humans might not be able to spot them with our own eyes.
+
+Image Credit: Tancha / Shutterstock.com

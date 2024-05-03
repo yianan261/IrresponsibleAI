@@ -1,0 +1,28 @@
+{
+    "514": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Turnitin",
+        "Company city": "Oakland",
+        "Company state": "California",
+        "Affected population": [
+            "Students and faculty using Turnitin's services"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "750 student papers",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Privacy Concerns"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Plagiarism Detection",
+        "Online": "No"
+    }
+}

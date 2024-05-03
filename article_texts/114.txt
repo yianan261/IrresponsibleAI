@@ -1,0 +1,28 @@
+Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots
+Amazon’s face surveillance technology is the target of growing opposition nationwide, and today, there are 28 more causes for concern. In a test the ACLU recently conducted of the facial recognition tool, called “Rekognition,” the software incorrectly matched 28 members of Congress, identifying them as other people who have been arrested for a crime.
+
+The members of Congress who were falsely matched with the mugshot database we used in the test include Republicans and Democrats, men and women, and legislators of all ages, from all across the country.
+Our test used Amazon Rekognition to compare images of members of Congress with a database of mugshots. The results included 28 incorrect matches.
+
+The false matches were disproportionately of people of color, including six members of the Congressional Black Caucus, among them civil rights legend Rep. John Lewis (D-Ga.). These results demonstrate why Congress should join the ACLU in calling for a moratorium on law enforcement use of face surveillance.
+
+To conduct our test, we used the exact same facial recognition system that Amazon offers to the public, which anyone could use to scan for matches between images of faces. And running the entire test cost us $12.33 — less than a large pizza.
+
+Tell Amazon to get out of the surveillance business
+
+Using Rekognition, we built a face database and search tool using 25,000 publicly available arrest photos. Then we searched that database against public photos of every current member of the House and Senate. We used the default match settings that Amazon sets for Rekognition.
+Rep. Sanford Bishop (D-Ga.) was falsely identified by Amazon Rekognition as someone who had been arrested for a crime.
+
+In a recent letter to Amazon CEO Jeff Bezos, the Congressional Black Caucus expressed concern about the “profound negative unintended consequences” face surveillance could have for Black people, undocumented immigrants, and protesters. Academic research has also already shown that face recognition is less accurate for darker-skinned faces and women. Our results validate this concern: Nearly 40 percent of Rekognition’s false matches in our test were of people of color, even though they make up only 20 percent of Congress.
+
+If law enforcement is using Amazon Rekognition, it’s not hard to imagine a police officer getting a “match” indicating that a person has a previous concealed-weapon arrest, biasing the officer before an encounter even begins. Or an individual getting a knock on the door from law enforcement, and being questioned or having their home searched, based on a false identification.
+
+An identification — whether accurate or not — could cost people their freedom or even their lives. People of color are already disproportionately harmed by police practices, and it’s easy to see how Rekognition could exacerbate that. A recent incident in San Francisco provides a disturbing illustration of that risk. Police stopped a car, handcuffed an elderly Black woman and forced her to kneel at gunpoint — all because an automatic license plate reader improperly identified her car as a stolen vehicle.
+
+Matching people against arrest photos is not a hypothetical exercise. Amazon is aggressively marketing its face surveillance technology to police, boasting that its service can identify up to 100 faces in a single image, track people in real time through surveillance cameras, and scan footage from body cameras. A sheriff’s department in Oregon has already started using Amazon Rekognition to compare people’s faces against a mugshot database, without any public debate.
+
+Face surveillance also threatens to chill First Amendment-protected activity like engaging in protest or practicing religion, and it can be used to subject immigrants to further abuse from the government.
+
+These dangers are why Amazon employees, shareholders, a coalition of nearly 70 civil rights groups, over 400 members of the academic community, and more than 150,000 members of the public have already spoken up to demand that Amazon stop providing face surveillance to the government.
+
+Congress must take these threats seriously, hit the brakes, and enact a moratorium on law enforcement use of face recognition. This technology shouldn’t be used until the harms are fully considered and all necessary steps are taken to prevent them from harming vulnerable communities.

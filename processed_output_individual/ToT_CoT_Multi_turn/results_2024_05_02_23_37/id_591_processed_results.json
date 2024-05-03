@@ -1,0 +1,27 @@
+{
+    "591": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Cigna",
+        "Company city": "Bloomfield",
+        "Company state": "Connecticut",
+        "Affected population": [
+            "Patients with Cigna health insurance"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds of thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Claims processing",
+        "Online": "No"
+    }
+}

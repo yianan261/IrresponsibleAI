@@ -1,0 +1,23 @@
+{
+    "576": {
+        "Country": "United States",
+        "State": "California",
+        "City": "Mountain View",
+        "Continent": "North America",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Consumers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Unknown"
+        ],
+        "Subclasses": {},
+        "Sub-subclass": [],
+        "Area of AI Application": "Unknown",
+        "Online": "Unknown"
+    }
+}

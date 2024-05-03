@@ -1,46 +1,14 @@
-Until recently, it wasn’t possible to say that AI had a hand in forcing a government to resign. But that’s precisely what happened in the Netherlands in January 2021, when the incumbent cabinet resigned over the so-called kinderopvangtoeslagaffaire: the childcare benefits affair.
+A parliamentary report into the child care benefits scandal found several grave shortcomings, including ​​institutional biases and authorities hiding information or misleading the parliament about the facts. Once the full scale of the scandal came to light, Prime Minister Mark Rutte's government resigned, only to regroup 225 days later.
 
-When a family in the Netherlands sought to claim their government childcare allowance, they needed to file a claim with the Dutch tax authority. Those claims passed through the gauntlet of a self-learning algorithm, initially deployed in 2013. In the tax authority’s workflow, the algorithm would first vet claims for signs of fraud, and humans would scrutinize those claims it flagged as high risk.
+In addition to the penalty announced April 12, the Dutch data protection agency also fined the Dutch tax administration €2.75 million in December 2021 for the “unlawful, discriminatory and therefore improper manner” in which the tax authority processed data on the dual nationality of child care benefit applicants.
 
-In reality, the algorithm developed a pattern of falsely labeling claims as fraudulent, and harried civil servants rubber-stamped the fraud labels. So, for years, the tax authority baselessly ordered thousands of families to pay back their claims, pushing many into onerous debt and destroying lives in the process.
+“There was a total lack of checks and balances within every organization of making sure people realize what was going on,” said Pieter Omtzigt, an independent member of the Dutch parliament who played a pivotal role in uncovering the scandal and grilling the tax authorities.
 
-“When there is disparate impact, there needs to be societal discussion around this, whether this is fair. We need to define what ‘fair’ is,” says Yong Suk Lee, a professor of technology, economy, and global affairs at the University of Notre Dame, in the United States. “But that process did not exist.”
+“What is really worrying me is that I’m not sure that we’ve taken even vaguely enough preventive measures to strengthen our institutions to handle the next derailment,” he continued.
 
-Postmortems of the affair showed evidence of bias. Many of the victims had lower incomes, and a disproportionate number had ethnic minority or immigrant backgrounds. The model saw not being a Dutch citizen as a risk factor.
+The new Rutte government has pledged to create a new algorithm regulator under the country’s data protection authority. Dutch Digital Minister Alexandra van Huffelen — who was previously the finance minister in charge of the tax authority — told POLITICO that the data authority’s role will be “to oversee the creation of algorithms and AI, but also how it plays out when it’s there, how it’s treated, make sure that is human-centered, and that it does apply to all the regulations that are in use.” The regulator will scrutinize algorithms in both the public and private sectors.
 
-“The performance of the model, of the algorithm, needs to be transparent or published by different groups,” says Lee. That includes things like what the model’s accuracy rate is like, he adds.
-
-The tax authority’s algorithm evaded such scrutiny; it was an opaque black box, with no transparency into its inner workings. For those affected, it could be nigh impossible to tell exactly why they had been flagged. And they lacked any sort of due process or recourse to fall back upon.
-
-“The government had more faith in its flawed algorithm than in its own citizens, and the civil servants working on the files simply divested themselves of moral and legal responsibility by pointing to the algorithm,” says Nathalie Smuha, a technology legal scholar at KU Leuven, in Belgium.
-
-As the dust settles, it’s clear that the affair will do little to halt the spread of AI in governments—60 countries already have national AI initiatives. Private-sector companies no doubt see opportunity in helping the public sector. For all of them, the tale of the Dutch algorithm—deployed in an E.U. country with strong regulations, rule of law, and relatively accountable institutions—serves as a warning.
-
-“If even within these favorable circumstances, such a dangerously erroneous system can be deployed over such a long time frame, one has to worry about what the situation is like in other, less regulated jurisdictions,” says Lewin Schmitt, a predoctoral policy researcher at the Institut Barcelona d’Estudis Internacionals, in Spain.
-
-So, what might stop future wayward AI implementations from causing harm?
-
-In the Netherlands, the same four parties that were in government prior to the resignation have now returned to government. Their solution is to bring all public-facing AI—both in government and in the private sector—under the eye of a regulator in the country’s data authority, which a government minister says would ensure that humans are kept in the loop.
-
-On a larger scale, some policy wonks place their hope in the European Parliament’s AI Act, which puts public-sector AI under tighter scrutiny. In its current form, the AI Act would ban some applications, such as government social-credit systems and law enforcement use of face recognition, outright.
-
-Something like the tax authority’s algorithm would abide, but due to its public-facing role in government functions, the AI Act would have marked it a high-risk system. That means that a broad set of regulations would apply, including a risk-management system, human oversight, and a mandate to remove bias from the data involved.
-
-The tale of the Dutch algorithm—deployed in an E.U. country with strong regulations, rule of law, and relatively accountable institutions—serves as a warning.
-
-“If the AI Act had been put in place five years ago, I think we would have spotted [the tax algorithm] back then,” says Nicolas Moës, an AI policy researcher in Brussels for the Future Society think tank.
-
-Moës believes that the AI Act provides a more concrete scheme for enforcement than its overseas counterparts, such as the one that recently took effect in China—which focuses less on public-sector use and more on reining in private companies’ use of customers’ data—and proposed U.S. regulations that are currently floating in the legislative ether.
-
-“The E.U. AI Act is really kind of policing the entire space, while others are still kind of tackling just one facet of the issue, very softly dealing with just one issue,” says Moës.
-
-Lobbyists and legislators are still busy hammering the AI Act into its final form, but not everyone believes that the act—even if it’s tightened—will go far enough.
-
-“We see that even the [General Data Protection Regulation], which came into force in 2018, is still not properly being implemented,” says Smuha. “The law can only take you so far. To make public-sector AI work, we also need education.”
-
-That, she says, will need to come through properly informing civil servants of an AI implementation’s capabilities, limitations, and societal impacts. In particular, she believes that civil servants must be able to question its output, regardless of whatever temporal or organizational pressures they might face.
-
-“It’s not just about making sure the AI system is ethical, legal, and robust; it’s also about making sure that the public service in which the AI system [operates] is organized in a way that allows for critical reflection,” she says.. On January 15, the Dutch government was forced to resign amidst a scandal around its child-care benefits scheme. Systems that were meant to detect misuse of the benefits scheme, mistakenly labelled over 20,000 parents as fraudsters. More crucially, a disproportionate amount of those labelled as fraudsters had an immigration background.
+Van Huffelen stressed the need to make sure humans are always in the loop. “What I find very important is to make sure that decisions, governmental decisions based on AI are also always treated afterwards by a human person,” she said.. On January 15, the Dutch government was forced to resign amidst a scandal around its child-care benefits scheme. Systems that were meant to detect misuse of the benefits scheme, mistakenly labelled over 20,000 parents as fraudsters. More crucially, a disproportionate amount of those labelled as fraudsters had an immigration background.
 
 Amongst the upheaval, little attention was brought to the fact that the tax authority was making use of algorithms to guide its decision-making. In a report by the Dutch Data Protection Authority, it became clear that a ‘self-learning’ algorithm was used to classify the benefit claims. Its role was to learn which claims had the highest risk of being false. The risk-classification model served as a first filter; officials then scrutinized the claims with the highest risk label. As it turns out, certain claims by parents with double citizenship were systematically identified by the algorithm as high-risk, and officials then hastily marked those claims as fraudulent.
 
@@ -78,22 +46,4 @@ Legitimacy also comes paired with transparency, agencies must be clear about whe
 
 A cautionary tale
 
-The Dutch benefits scandal teaches us a lesson about the risks of algorithmic enforcement. The difference lies in the fact that the tax authority had the luxury of political accountability, allowing it to mitigate long-term consequences of the scandal. An algorithmic scandal in an agency may be more prone to do lasting damage to its legitimacy, and thus, the effectiveness of its enforcement. Agencies should therefore put in place dedicated governance structures to ensure algorithms are free from bias and are used responsibly. A recently leaked version of the Commission’s draft AI regulation, expected to also apply to EU agencies (article 2(2)(d)), may be a good first step to guide them.. To revisit this article, visit My Profile, then View saved stories.. It was October 2021, and Imane, a 44-year-old mother of three, was still in pain from the abdominal surgery she had undergone a few weeks earlier. She certainly did not want to be where she was: sitting in a small cubicle in a building near the center of Rotterdam, while two investigators interrogated her. But she had to prove her innocence or risk losing the money she used to pay rent and buy food.
-
-Imane emigrated to the Netherlands from Morocco with her parents when she was a child. She started receiving benefits as an adult, due to health issues, after divorcing her husband. Since then, she has struggled to get by using welfare payments and sporadic cleaning jobs. Imane says she would do anything to leave the welfare system, but chronic back pain and dizziness make it hard to find and keep work.
-
-This story is part of a joint investigation between Lighthouse Reports and WIRED. To read other stories from the series, click here.
-
-In 2019, after her health problems forced her to leave a cleaning job, Imane drew the attention of Rotterdam’s fraud investigators for the first time. She was questioned and lost her benefits for a month. “I could only pay rent,” she says. She recalls the stress of borrowing food from neighbors and asking her 16-year-old son, who was still in school, to take on a job to help pay other bills.
-
-Now, two years later, she was under suspicion again. In the days before that meeting at the Rotterdam social services department, Imane had meticulously prepared documents: her rental contract, copies of her Dutch and Moroccan passports, and months of bank statements. With no printer at home, she had visited the library to print them.
-
-“It took me two years to recover from this. I was destroyed mentally.” Imane, Rotterdam resident
-
-In the cramped office she watched as the investigators thumbed through the stack of paperwork. One of them, a man, spoke loudly, she says, and she felt ashamed as his accusations echoed outside the thin cubicle walls. They told her she had brought the wrong bank statements and pressured her to log in to her account in front of them. After she refused, they suspended her benefits until she sent the correct statements two days later. She was relieved, but also afraid. “The atmosphere at the meetings with the municipality is terrible,” she says. The ordeal, she adds, has taken its toll. “It took me two years to recover from this. I was destroyed mentally.”
-
-Imane, who asked that her real name not be used for fear of repercussions from city officials, isn’t alone. Every year, thousands of people across Rotterdam are investigated by welfare fraud officers, who search for individuals abusing the system. Since 2017, the city has been using a machine learning algorithm, trained on 12,707 previous investigations, to help it determine whether individuals are likely to commit welfare fraud.
-
-The machine learning algorithm generates a risk score for each of Rotterdam’s roughly 30,000 welfare recipients, and city officials consider these results when deciding whom to investigate. Imane’s background and personal history meant the system ranked her as “high risk.” But the process by which she was flagged is part of a project beset by ethical issues and technical challenges. In 2021, the city paused its use of the risk-scoring model after external government-backed auditors found that it wasn’t possible for citizens to tell if they had been flagged by the algorithm and some of the data it used risked producing biased outputs.
-
-In response to an investigation by Lighthouse Reports and WIRED, Rotterdam handed over extensive details about its system. These include its machine learning model, training data, and user operation manuals. The disclosures provide an unprecedented view into the inner workings of a system that has been used to classify and rank tens of thousands of people.
+The Dutch benefits scandal teaches us a lesson about the risks of algorithmic enforcement. The difference lies in the fact that the tax authority had the luxury of political accountability, allowing it to mitigate long-term consequences of the scandal. An algorithmic scandal in an agency may be more prone to do lasting damage to its legitimacy, and thus, the effectiveness of its enforcement. Agencies should therefore put in place dedicated governance structures to ensure algorithms are free from bias and are used responsibly. A recently leaked version of the Commission’s draft AI regulation, expected to also apply to EU agencies (article 2(2)(d)), may be a good first step to guide them.

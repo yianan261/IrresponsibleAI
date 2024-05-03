@@ -1,159 +1,53 @@
-Comedian and author Sarah Silverman, as well as authors Christopher Golden and Richard Kadrey — are suing OpenAI and Meta each in a US District Court over dual claims of copyright infringement.
+The Moscow metro has rolled out what authorities have lauded as the world’s first mass-scale facial recognition payment system, amid privacy concerns over the new technology.
 
-The suits alleges, among other things, that OpenAI’s ChatGPT and Meta’s LLaMA were trained on illegally-acquired datasets containing their works, which they say were acquired from “shadow library” websites like Bibliotik, Library Genesis, Z-Library, and others, noting the books are “available in bulk via torrent systems.”
+The cashless, cardless and phoneless system, named Face Pay, launched at more than 240 stations across the Russian capital on Friday.
 
-Golden and Kadrey each declined to comment on the lawsuit, while Silverman’s team did not respond by press time.
+“Now all the passengers will be able to pay for travel without taking out their phone, metro or bank card,” the Moscow mayor, Sergey Sobyanin, tweeted on Thursday evening.
 
-In the OpenAI suit, the trio offers exhibits showing that when prompted, ChatGPT will summarize their books, infringing on their copyrights. Silverman’s Bedwetter is the first book shown being summarized by ChatGPT in the exhibits, while Golden’s book Ararat is also used as an example, as is Kadrey’s book Sandman Slim. The claim says the chatbot never bothered to “reproduce any of the copyright management information Plaintiffs included with their published works.”
+To activate Face Pay, Sobyanin said, passengers will need to connect their photo, bank card and metro card to the service through the metro’s mobile app. “It will be enough just to look at the camera to pass through the turnstiles,” Sobyanin said.
 
-As for the separate lawsuit against Meta, it alleges the authors’ books were accessible in datasets Meta used to train its LLaMA models, a quartet of open-source AI Models the company introduced in February.
+The Moscow authorities, who expect up to 15% of metro passengers will use Face Pay regularly in the next three years, said the system would quicken the flow of people, particularly at busy times.
 
-The complaint lays out in steps why the plaintiffs believe the datasets have illicit origins — in a Meta paper detailing LLaMA, the company points to sources for its training datasets, one of which is called ThePile, which was assembled by a company called EleutherAI. ThePile, the complaint points out, was described in an EleutherAI paper as being put together from “a copy of the contents of the Bibliotik private tracker.” Bibliotik and the other “shadow libraries” listed, says the lawsuit, are “flagrantly illegal.”
+“Moscow is the first in the world to introduce Face Pay on such a scale. The technology is new and very complex, we will continue to work on improving it,” the mayor added.
 
-In both claims, the authors say that they “did not consent to the use of their copyrighted books as training material” for the companies’ AI models. Their lawsuits each contain six counts of various types of copyright violations, negligence, unjust enrichment, and unfair competition. The authors are looking for statutory damages, restitution of profits, and more.
+Authorities have said passengers’ data will be “securely encrypted”, saying the information collected will be stored in data processing centres to which only interior ministry staff have access.
 
-Lawyers Joseph Saveri and Matthew Butterick, who are representing the three authors, write on their LLMlitigation website that they’ve heard from “writers, authors, and publishers who are con­cerned about [ChatGPT’s] uncanny abil­ity to gen­er­ate text sim­i­lar to that found in copy­righted tex­tual mate­ri­als, includ­ing thou­sands of books.”
+However, activists have raised the alarm over privacy concerns. “This is a dangerous new step in Russia’s push for control over its population. We need to have full transparency on how this application will work in practice,” said Stanislav Shakirov, the founder of Roskomsvoboda, a group dedicated to protecting digital rights and freedom of information.
 
-Saveri has also started litigation against AI companies on behalf of programmers and artists. Getty Images also filed an AI lawsuit, alleging that Stability AI, who created the AI image generation tool Stable Diffusion, trained its model on “millions of images protected by copyright.” Saveri and Butterick are also representing authors Mona Awad and Paul Tremblay in a similar case over the company’s chatbot.
+“We are moving closer to authoritarian countries like China that have mastered facial technology. The Moscow metro is a government institution and all the data can end up in the hands of the security services,” he added.
 
-Lawsuits like this aren’t just a headache for OpenAI and other AI companies; they are challenging the very limits of copyright. As we’ve said on The Vergecast every time someone gets Nilay going on copyright law, we’re going to see lawsuits centered around this stuff for years to come.
+Moscow recently expanded its facial recognition technology across the capital, with a network of more than 175,000 surveillance cameras.
 
-We’ve reached out to Meta, OpenAI, and the Joseph Saveri Law Firm for comment, but they did not respond by press time.. CNN —
+Human rights activists said the cameras were used to identify protesters who attended rallies in support of the jailed opposition politician Alexei Navalny. Facial recognition was also used to enforce Covid-19 quarantines during Russia’s two-month lockdown in spring 2020.
 
-ChatGPT is smart enough to pass prestigious graduate-level exams – though not with particularly high marks.
+The Russian metro – the busiest in Europe, with more than 6 million daily passengers – is considered a tourist attraction in itself, with stations elaborately decorated with mosaics reflecting a range of Soviet themes.. Special Rapporteur on racism, Tendayi Achiume, presented her concerns in a report delivered on Wednesday to the UN Human Rights Council in Geneva.
 
-The powerful new AI chatbot tool recently passed law exams in four courses at the University of Minnesota and another exam at University of Pennsylvania’s Wharton School of Business, according to professors at the schools.
+Tweet URL Emerging digital technologies driven by big data and artificial intelligence are entrenching racial inequality, discrimination & intolerance – UN expert Tendayi Achiume calls for justice & reparations for anyone affected.Learn more: https://t.co/xnNgmoRjlO#HRC44#FightRacism pic.twitter.com/3hfrhcuW3i UN Special Procedures UN_SPExperts
 
-To test how well ChatGPT could generate answers on exams for the four courses, professors at the University of Minnesota Law School recently graded the tests blindly. After completing 95 multiple choice questions and 12 essay questions, the bot performed on average at the level of a C+ student, achieving a low but passing grade in all four courses.
+Tech ‘not neutral’
 
-ChatGPT fared better during a business management course exam at Wharton, where it earned a B to B- grade. In a paper detailing the performance, Christian Terwiesch, a Wharton business professor, said ChatGPT did “an amazing job” at answering basic operations management and process-analysis questions but struggled with more advanced prompts and made “surprising mistakes” with basic math.
+“Technology is not neutral or objective”, said Ms. Achiume, who was appointed by the Council and is neither a UN staff member nor paid by the Organization.
 
-“These mistakes can be massive in magnitude,” he wrote.
+“It is fundamentally shaped by the racial, ethnic, gender and other inequalities prevalent in society, and typically makes these inequalities worse. It is resulting in discrimination and unequal treatment in all areas of life, from education and employment to healthcare and criminal justice.”
 
-The test results come as a growing number of schools and teachers express concerns about the immediate impact of ChatGPT on students and their ability to cheat on assignments. Some educators are now moving with remarkable speed to rethink their assignments in response to ChatGPT, even as it remains unclear how widespread use is of the tool among students and how harmful it could really be to learning.
+While extremist racism, xenophobia and intolerance are at issue, the problem runs much deeper, according to the rights expert.
 
-Video Ad Feedback Congressman gives speech written by AI 02:49 - Source: CNN
+“Corporations such as Facebook, have economic and business models that mean they actively profit from misinformation, discrimination and intolerance”, she said, adding that many governments have adopted algorithms which discriminate against marginalised groups.
 
-Since it was made available in late November, ChatGPT has been used to generate original essays, stories and song lyrics in response to user prompts. It has drafted research paper abstracts that fooled some scientists. Some CEOs have even used it to write emails or do accounting work.
+‘Transnational uprising’
 
-ChatGPT is trained on vast amounts of online data in order to generate responses to user prompts. While it has gained traction among users, it has also raised some concerns, including about inaccuracies and its potential to perpetuate biases and spread misinformation.
+In addition to pressing for reparations for those affected by entrenched racism, Ms. Achiume also called for possibly banning some technologies.
 
-Jon Choi, one of the University of Minnesota law professors, told CNN the goal of the tests was to explore ChatGPT’s potential to assist lawyers in their practice and to help students in exams, whether or not it’s permitted by their professors, because the questions often mimic the writing lawyers do in real life.
+“The deaths of George Floyd and countless others have prompted a transnational uprising against systemic racism in law enforcement,” she said, referring to the African American man who died in May while in police custody on a street in Minneapolis.
 
-“ChatGPT struggled with the most classic components of law school exams, such as spotting potential legal issues and deep analysis applying legal rules to the facts of a case,” Choi said. “But ChatGPT could be very helpful at producing a first draft that a student could then refine.”
+“Part of the human rights response must include greater scrutiny of how the design and use of digital technologies is further entrenching this systemic racism.”
 
-He argues human-AI collaboration is the most promising use case for ChatGPT and similar technology.
+With her report released against the backdrop of the COVID-19 pandemic, which has hit racial and ethnic minorities the hardest, Ms. Achiume warned that technology deployed to combat spread of the disease “is the same type that has been used to exclude these communities from full enjoyment of their human rights in the past”.
 
-“My strong hunch is that AI assistants will become standard tools for lawyers in the near future, and law schools should prepare their students for that eventuality,” he said. “Of course, if law professors want to continue to test simple recall of legal rules and doctrines, they’ll need to put restrictions in place like banning the internet during exams to enforce that.”
+More representation
 
-Likewise, Wharton’s Terwiesch found the chatbot was “remarkably good” at modifying its answers in response to human hints, such as reworking answers after pointing out an error, suggesting the potential for people to work together with AI.
+To prevent and eliminate racial discrimination in technological design will require having more racial and ethnic minorities in decision-making in the industry, Ms. Adichie said.
 
-Video Ad Feedback Scott Galloway on the 'scarier part' of AI tools like ChatGPT 02:07 - Source: CNN
+“States must also provide the full spectrum of effective remedies for those against whom emerging digital technologies have racially discriminated”, she added.
 
-In the short-term, however, discomfort remains with whether and how students should use ChatGPT. Public schools in New York City and Seattle, for example, have already banned students and teachers from using ChatGPT on the district’s networks and devices.
-
-Considering ChatGPT performed above average on his exam, Terwiesch told CNN he agrees restrictions should be put in place for students while they’re taking tests.
-
-“Bans are needed,” he said. “After all, when you give a medical doctor a degree, you want them to know medicine, not how to use a bot. The same holds for other skill certification, including law and business.”
-
-But Terwiesch believes this technology still ultimately has a place in the classroom. “If all we end up with is the same educational system as before, we have wasted an amazing opportunity that comes with ChatGPT,” he said.. (Bloomberg) -- Google’s Bard artificial intelligence chatbot will answer a question about how many pandas live in zoos quickly, and with a surfeit of confidence.
-
-Ensuring that the response is well-sourced and based on evidence, however, falls to thousands of outside contractors from companies including Appen Ltd. and Accenture Plc, who can make as little as $14 an hour and labor with minimal training under frenzied deadlines, according to several contractors, who declined to be named for fear of losing their jobs.
-
-The contractors are the invisible backend of the generative AI boom that’s hyped to change everything. Chatbots like Bard use computer intelligence to respond almost instantly to a range of queries spanning all of human knowledge and creativity. But to improve those responses so they can be reliably delivered again and again, tech companies rely on actual people who review the answers, provide feedback on mistakes and weed out any inklings of bias.
-
-It’s an increasingly thankless job. Six current Google contract workers said that as the company entered a AI arms race with rival OpenAI over the past year, the size of their workload and complexity of their tasks increased. Without specific expertise, they were trusted to assess answers in subjects ranging from medication doses to state laws. Documents shared with Bloomberg show convoluted instructions that workers must apply to tasks with deadlines for auditing answers that can be as short as three minutes.
-
-“As it stands right now, people are scared, stressed, underpaid, don’t know what’s going on,” said one of the contractors. “And that culture of fear is not conducive to getting the quality and the teamwork that you want out of all of us.”
-
-Google has positioned its AI products as public resources in health, education and everyday life. But privately and publicly, the contractors have raised concerns about their working conditions, which they say hurt the quality of what users see. One Google contract staffer who works for Appen said in a letter to Congress in May that the speed at which they are required to review content could lead to Bard becoming a “faulty” and “dangerous” product.
-
-Google has made AI a major priority across the company, rushing to infuse the new technology into its flagship products after the launch of OpenAI’s ChatGPT in November. In May, at the company’s annual I/O developers conference, Google opened up Bard to 180 countries and territories and unveiled experimental AI features in marquee products like search, email and Google Docs. Google positions itself as superior to the competition because of its access to “the breadth of the world’s knowledge.”
-
-“We undertake extensive work to build our AI products responsibly, including rigorous testing, training, and feedback processes we’ve honed for years to emphasize factuality and reduce biases,” Google, owned by Alphabet Inc., said in a statement. The company said it isn’t only relying on the raters to improve the AI, and that there are a number of other methods for improving its accuracy and quality.
-
-Read More: Google’s Rush to Win in AI Led to Ethical Lapses, Employees Say
-
-To prepare for the public using these products, workers said they started getting AI-related tasks as far back as January. One trainer, employed by Appen, was recently asked to compare two answers providing information about the latest news on Florida’s ban on gender-affirming care, rating the responses by helpfulness and relevance. Workers are also frequently asked to determine whether the AI model’s answers contain verifiable evidence. Raters are asked to decide whether a response is helpful based on six-point guidelines that include analyzing answers for things like specificity, freshness of information and coherence.
-
-They are also asked to make sure the responses don’t “contain harmful, offensive, or overly sexual content,” and don’t “contain inaccurate, deceptive, or misleading information.” Surveying the AI’s responses for misleading content should be “based on your current knowledge or quick web search,” the guidelines say. “You do not need to perform a rigorous fact check” when assessing the answers for helpfulness.
-
-The example answer to “Who is Michael Jackson?” included an inaccuracy about the singer starring in the movie “Moonwalker” — which the AI said was released in 1983. The movie actually came out in 1988. “While verifiably incorrect,” the guidelines state, “this fact is minor in the context of answering the question, ‘Who is Michael Jackson?’”
-
-Even if the inaccuracy seems small, “it is still troubling that the chatbot is getting main facts wrong,” said Alex Hanna, the director of research at the Distributed AI Research Institute and a former Google AI ethicist. “It seems like that’s a recipe to exacerbate the way these tools will look like they’re giving details that are correct, but are not,” she said.
-
-Raters say they are assessing high-stakes topics for Google’s AI products. One of the examples in the instructions, for instance, talks about evidence that a rater could use to determine the right dosages for a medication to treat high blood pressure, called Lisinopril.
-
-Google said that some workers concerned about accuracy of content may not have been training specifically for accuracy, but for tone, presentation and other attributes it tests. “Ratings are deliberately performed on a sliding scale to get more precise feedback to improve these models,” the company said. “Such ratings don’t directly impact the output of our models and they are by no means the only way we promote accuracy.”
-
-Read the contract staffers’ instructions for training Google’s generative AI here:
-
-Ed Stackhouse, the Appen worker who sent the letter to Congress, said in an interview that contract staffers were being asked to do AI labeling work on Google’s products “because we’re indispensable to AI as far as this training.” But he and other workers said they appeared to be graded for their work in mysterious, automated ways. They have no way to communicate with Google directly, besides providing feedback in a “comments” entry on each individual task. And they have to move fast. “We’re getting flagged by a type of AI telling us not to take our time on the AI,” Stackhouse added.
-
-Google disputed the workers’ description of being automatically flagged by AI for exceeding time targets. At the same time, the company said that Appen is responsible for all performance reviews for employees. Appen did not respond to requests for comment. A spokesperson for Accenture said the company does not comment on client work.
-
-Other technology companies training AI products also hire human contractors to improve them. In January, Time reported that laborers in Kenya, paid $2 an hour, had worked to make ChatGPT less toxic. Other tech giants, including Meta Platforms Inc., Amazon.com Inc. and Apple Inc. make use of subcontracted staff to moderate social network content and product reviews, and to provide technical support and customer service.
-
-“If you want to ask, what is the secret sauce of Bard and ChatGPT? It’s all of the internet. And it’s all of this labeled data that these labelers create,” said Laura Edelson, a computer scientist at New York University. “It’s worth remembering that these systems are not the work of magicians — they are the work of thousands of people and their low-paid labor.”
-
-Google said in a statement that it “is simply not the employer of any of these workers. Our suppliers, as the employers, determine their working conditions, including pay and benefits, hours and tasks assigned, and employment changes – not Google.”
-
-Staffers said they had encountered bestiality, war footage, child pornography and hate speech as part of their routine work assessing the quality of Google products and services. While some workers, like those reporting to Accenture, do have health care benefits, most only have minimal “counseling service” options that allow workers to phone a hotline for mental health advice, according to an internal website explaining some contractor benefits.
-
-For Google’s Bard project, Accenture workers were asked to write creative responses for the AI chatbot, employees said. They answered prompts on the chatbot — one day they could be writing a poem about dragons in Shakespearean style, for instance, and another day they could be debugging computer programming code. Their job was to file as many creative responses to the prompts as possible each work day, according to people familiar with the matter, who declined to be named because they weren’t authorized to discuss internal processes.
-
-For a short period, the workers were reassigned to review obscene, graphic and offensive prompts, they said. After one worker filed an HR complaint with Accenture, the project was abruptly terminated for the US team, though some of the writers’ counterparts in Manila continued to work on Bard.
-
-The jobs have little security. Last month, half a dozen Google contract staffers working for Appen received a note from management, saying their positions had been eliminated “due to business conditions.” The firings felt abrupt, the workers said, because they had just received several emails offering them bonuses to work longer hours training AI products. The six fired workers filed a complaint to the National Labor Relations Board in June. They alleged they were illegally terminated for organizing, because of Stackhouse’s letter to Congress. Before the end of the month, they were reinstated to their jobs.
-
-Google said the dispute was a matter between the workers and Appen, and that they “respect the labor rights of Appen employees to join a union.” Appen didn’t respond to questions about its workers organizing. The Alphabet Workers Union — which has organized both Google employees and contract staffers, including those at Appen and Accenture — said it condemned how the new workloads around AI made job conditions for workers even more difficult.
-
-Emily Bender, a professor of computational linguistics at the University of Washington, said the work of these contract staffers at Google and other technology platforms is “a labor exploitation story,” pointing to their precarious job security and how some of these kinds of workers are paid well below a living wage. “Playing with one of these systems, and saying you’re doing it just for fun — maybe it feels less fun, if you think about what it’s taken to create and the human impact of that,” Bender said.
-
-The contract staffers said they have never received any direct communication from Google about their new AI-related work — it all gets filtered through their employer. They said they don’t know where the AI-generated responses they see are coming from, nor where their feedback goes. In the absence of this information, and with the ever-changing nature of their jobs, workers worry that they’re helping to create a bad product.
-
-Some of the answers they encounter can be bizarre. In response to the prompt, “Suggest the best words I can make with the letters: k, e, g, a, o, g, w,” one answer generated by the AI listed 43 possible words, starting with suggestion No. 1: “wagon.” Suggestions 2 through 43, meanwhile, repeated the word “WOKE” over and over.
-
-In another task, a rater was presented with a lengthy answer that began with, “As of my knowledge cutoff in September 2021.” That response is associated with OpenAI’s large language model, called GPT-4. Though Google said that Bard “is not trained on any data from ShareGPT or ChatGPT,” raters have wondered why such phrasing appears in their tasks.
-
-Bender said it makes little sense for large tech corporations to be encouraging people to ask an AI chatbot questions on such a broad range of topics, and to be presenting them as “everything machines.”
-
-“Why should the same machine that is able to give you the weather forecast in Florida also be able to give you advice about medication doses?” she asked. “The people behind the machine who are tasked with making it be somewhat less terrible in some of those circumstances have an impossible job.”
-
-(Updates with Alphabet Workers’ Union comment in the 24th paragraph.)
-
-©2023 Bloomberg L.P.. A political controversy rocked the southern Indian state of Tamil Nadu in April when K. Annamalai, state head of the Bharatiya Janata Party (BJP) — India’s ruling party — released a controversial audio recording of Palanivel Thiagarajan, a lawmaker from the Dravida Munnetra Kazhagam (DMK) that is currently in power in the state.
-
-In the 26-second low-quality audio tape, Thiagarajan, who was the finance minister of Tamil Nadu at the time, could allegedly be heard accusing his own party members of illegally amassing $3.6 billion. Thiagarajan vehemently denied the veracity of the recording, calling it “fabricated” and “machine-generated.”
-
-“NEVER trust an Audio clip without an attributable source,” Thiagarajan tweeted on April 22. He argued that it’s now easy to fabricate voices, citing a news clip on the infamous AI-generated songs of Drake and The Weeknd.
-
-On April 25, Annamalai released a second clip — 56 seconds long, and with much clearer audio — where Thiagarajan allegedly spoke disparagingly of his own party and praised the BJP. This time, Thiagarajan called it a desperate attempt by a “blackmail gang” to create a political rift within his own party, and said no one had claimed ownership of the source of the clips. The BJP’s Hindu nationalist politics have found little reception in India’s southern states, and the party has been trying to make inroads into Tamil Nadu through aggressive campaigns. The purported audio leaks are part of a longer list of what is now known as the DMKFiles — a set of alleged corruption scandals of which Annamalai has accused the ruling party. He recently promised to release more such files.
-
-While experts have rattled off multiple alarming scenarios on how AI can play out in politics, in India, this could be the first high-profile case of the “liar’s dividend” — the ability of the powerful to claim plausible deniability of unflattering footage. Deepfake experts told Rest of World the rise of AI is being used as a ruse to sow information uncertainty in a new political era. On the one hand, they said, generative AI has the potential to tarnish reputations and manipulate public opinion, but on the other, the technology could be a way to evade accountability by dismissing any incriminating evidence as fake.
-
-“The bigger threat now is that everyone has plausible deniability.”
-
-“We are seeing more generative AI/deepfake/synthetic media content, as well as more claims of fake when not,” Sam Gregory, executive director at the nonprofit Witness, which studies the use of deepfakes to defend human rights, told Rest of World over email. Gregory noted instances in Myanmar where the army had challenged real evidence of human rights violations as fake. More recently, in May, a Twitter account belonging to Sudan’s Rapid Support Forces leader Mohamed Hamdan Dagalo posted an audio recording allegedly from the general. Rumors had circulated online that Dagalo was dead, and social media users speculated whether the audio was AI-generated. A forensic analysis facilitated by Witness, however, determined that the Arabic recording was very likely authentic.
-
-Rest of World shared the two audio clips released by Annamalai with the Deepfakes Rapid Response Force for forensic analysis. An initiative by Witness, the Deepfakes Rapid Response Force connects local networks of journalists and fact-checkers with leading media forensics and deepfake experts. The program facilitated three independent tests of the clips. The analysts were divided on the first clip, either finding it too poor in quality to come to a conclusion, or judging that the clip was “very likely fake.” However, they all agreed on the second clip, deeming it authentic.
-
-“It would be extremely difficult for any current text-to-speech system to generate English-speaking audio with this southern Indian accent at this level of fidelity,” Rijul Gupta, CEO of DeepMedia, an AI generation and detection company, told Rest of World about the second clip. “The voice does not contain artifacts that are associated with voice-swapping algorithms (e.g. speech-to-speech instead of text-to-speech). For these reasons, our AI experts conclude that Clip 2 is an authentic voice,” the DeepMedia team noted over email. DeepMedia’s deepfake detectors are currently used by the U.S. Department of Defense to ascertain if internet media emerging out of Russia and China is authentic.
-
-After a human evaluation, DeepMedia ran the clips through their proprietary in-house deepfake detection tool, which also showed with 87% confidence that the second clip is authentic. However, DeepMedia’s evaluation of the first clip came back as inconclusive. “The level of noise in this clip makes it difficult to determine its authenticity. Although the voice sounds as though it may be AI-generated, we cannot conclusively confirm or deny its authenticity at this time,” the team said.
-
-According to a six-member team of deepfake researchers at the University of Naples Federico II led by Luisa Verdoliva, “The second clip is considered authentic [under the threshold] for the whole duration of the clip.” They collected 50 minutes of pristine audio of Thiagarajan — from three speeches uploaded on YouTube, including his talk at the Oxford Union. They then compared the audio to the two clips. “The first clip turns out to be authentic for the first segment then the distance increases. However this could be due to the fact that the clip is quite noisy,” the team said over an email.
-
-“The tools to detect synthetic media manipulation are not available to the people who need it the most.”
-
-A third evaluation by deepfake detection company Reality Defender, led by Ali Shahriyari, used in-house audio detection models as well as human experts. It called the first clip “very likely fake.” According to the team, “Several spoken words are lost, as if the voice converter failed to grasp the right pronunciations (or did this deliberately to give an impression it’s authentic/real).” Reality Defender also concluded that the second clip is likely authentic. “Strong naturality in the speech content (e.g. broken sentences with filler words that would make sense in a conversation but not entirely so when written down), changes in emotion that are hard to model with fake speech generators, and overall good quality of the speech content (e.g. native pronunciation),” the team noted over email.
-
-Rest of World reached out to Thiagarajan and Annamalai’s offices but did not receive a response by the time of publishing.
-
-Thiagarajan released his own audio analysis of the first clip, citing the audio distortions as evidence of it being a deepfake. He also mentioned a 2020 story by Vice — where an Indian politician cloned his voice and created an election campaign video in English and Haryanvi — as evidence of how misleading video and audio can be created. In a second statement, Thiagarajan said the BJP was “using advanced technologies and cheap tactics such as releasing these fabricated audios to disrupt our good work.”
-
-The current explosion of generative AI has made the public second-guess any evidence, and wonder if it’s real or fake. “The bigger threat now is that everyone has plausible deniability, right?” Gupta of DeepMedia said. “Anyone can just say this is fake, it never happened. And even if it’s true, their supporters might believe that. That’s insanely problematic.” This idea of the “liar’s dividend” has put tremendous pressure on journalists and fact-checkers, who now have to be selective about which story they want to chase down and verify, Gregory said.
-
-In May, an AI-manipulated image of two Indian wrestlers — who were smiling while being arrested for protesting against a BJP politician for sexual harassment — went viral. Social media users claimed the wrestlers were not serious about the protest, according to reports.
-
-“There is a detection equity gap that exists in the world,” Gregory said. “The tools to detect synthetic media manipulation are not available to the people who need it the most. They’re not evolved to a broad global range of journalists and fact-checkers, alongside the skills to use them.” However, Gupta expects more independent firms will develop detection tools as generative AI evolves. “It is going to be a cat-and-mouse game.”
+“This includes accountability for racial discrimination, and reparations to affected individuals and communities. As recent moves to ban facial recognition technologies in some parts of the world show - in some cases the discriminatory effect of digital technologies will require their outright prohibition.”

@@ -1,10 +1,4 @@
-Have you ever searched for a contact on LinkedIn only to have the networking site automatically prompt you to look up a man with a similar name? You're not alone. A recent investigation by the Seattle Times revealed a pervasive gender bias within the site's search algorithm that pointed users toward male profiles when they searched for some of the most common female names.
-
-The Times cited the relatively-common female name "Stephanie Williams." Rather than yield results for the 2,500 women of the same name, a search for Stephanie would instead bring up a prompt asking if the user meant to search for "Stephen Williams" instead. Similar situations occurred when searching for an "Andrea Jones" (users are asked if they're looking for "Andrew Jones"), as well as for women named Danielle (Daniel), Michaela (Michael), and Alexa (Alex). But when users searched for men with one of the 100 most common male names, the site did not ask if they were looking for a female user with a similar name.
-
-LinkedIn, however, denies any gender bias in its search tool. "The search algorithm is guided by relative frequencies of words appearing in past queries and member profiles, it is not anything to do [with] gender," a spokeswoman told the BBC.
-
-But, to make absolute certain that no such bias exists, the professional networking site has updated its search algorithm to remove any prompts suggesting alternative names. We can only assume this will mean big things for all the Stephanie Williamses of the world who missed out on countless new and exciting professional opportunities because recruiters couldn't actually search for them.. The question of whether a computer can be biased or not may seem frivolous, but it could make all the difference when it comes to being found online.
+The question of whether a computer can be biased or not may seem frivolous, but it could make all the difference when it comes to being found online.
 
 Now, an investigation by a US newspaper has suggested that this bias may be present on the biggest professional networking site in the world.
 
@@ -50,4 +44,4 @@ Some reports have claimed these predictive algorithms may skew results cording t
 
 While other examples include a technique called word embedding, which teaches machines how to process language by finding relationships between words.
 
-But when the computer searches real world sources, the embedding approach can pick up on inherent gender stereotypes.. . Prior to the update, searches for 100 of the most common male names in the US did not result in prompts suggesting female versions of those names, the Seattle Times said.
+But when the computer searches real world sources, the embedding approach can pick up on inherent gender stereotypes.. Prior to the update, searches for 100 of the most common male names in the US did not result in prompts suggesting female versions of those names, the Seattle Times said.

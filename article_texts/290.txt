@@ -1,5 +1,39 @@
+Safe for swimming? Toronto’s new tool for measuring water quality at its beaches is misleading, say advocates
+Waters that tested high for E. coli using traditional means were marked safe by the new system dozens of times, says Swim Drink Fish.
 Earlier this year, Toronto’s public health department quietly flipped the switch on an experiment targeting the city’s most pollution-prone beaches.
 
 Instead of relying on day-old laboratory tests to ensure that people don’t swim in unsafe water, the city tapped the magic of artificial intelligence, contracting with Cann Forecast, a Montreal-based startup whose predictive modeling products use AI and machine learning to forecast water quality. Beginning in June, officials used Cann’s model to decide when two of Toronto’s most frequently contaminated beaches should be open to the public and when the water was unsafe.
 
 Almost immediately, the experiment began to go awry. The model regularly declared the beaches safe to swim on days when history or the water’s appearance suggested it was not safe. City officials waved off concerns from residents and a local environmental monitoring group over the discrepancies, arguing that the AI tool was more accurate than traditional testing methods.
+
+“Overall, there have been 30 times that the swimming status predicted by the model has been incorrect,” said Fleisher. The model has been in use since June 3, making it only accurate about half the time, she added.
+
+Toronto Public Health says its new system is a vast improvement.
+
+“While AIPM is not expected to be 100 per cent accurate in assessing water quality, it presents a significant improvement over test results using the traditional means for assessing microbial water quality,” said a spokesperson for TPH.
+
+The traditional means of testing involves processing a water sample and determining whether a beach is safe or not based on what’s in the water. The drawback is that it takes an average of 24 hours to generate results. TPH says that lag is too long to provide reliable data. While faster testing methods do exist, TPH says they are not yet commercially available.
+
+Bacteria flowing in from nearby rivers makes Sunnyside and Marie Curtis the two most frequently contaminated beaches in Toronto.
+
+As a result, the city, and Swim Drink Fish, pay close attention to them. While most of Ontario tests beach water quality weekly, Toronto does it daily in the summer. When a beach’s water becomes contaminated, Toronto is supposed to close it.
+Fleisher has seen both beaches fail their daily water tests multiple times this summer while remaining open. In one instance, Marie Curtis was opened despite an E. coli count nearly four-and-a-half times the acceptable level for Toronto beaches.
+
+Why didn’t the city close it? E. coli can cause severe disease, death in children and the elderly. Swim Drink Fish says some lifeguards have become afraid to swim.
+
+“Isabel spoke with a lifeguard at Sunnyside who was very concerned,” said Matt Brown, director of communications with Swim Drink Fish. “They didn’t want to go into the water that day, but they would have had to. It’s one thing if you know the risks and choose to swim, but it’s very different if it’s your job. This an occupational hazard.”
+According to TPH, the new system uses a series of calculations based on historical data and metrics such as rainfall, temperature and wind direction. It also pulls real-time meteorological and hydrological data.
+
+Though still a pilot project, the AI results supersede daily testing data — which Toronto has relied on for years as its sole determiner of water quality — even if testing shows high levels of E. coli.
+“If a beach is posted unsafe based on yesterday’s sample results, the conditions may have improved since the collection of those samples,” said TPH in a statement to the Star. “In this situation the AIPM model will predict improved conditions in real time that makes the beach safe to use.”
+
+Fleisher has been keeping a spreadsheet comparing AIPM predictions with testing data.
+
+Her findings show the AI forecast was correct less than half the time.
+
+Fleisher said the apparent low-accuracy she observed is a “clear example of why predictive modelling — especially in its pilot phase — should be used as part of a risk management system for beaches, not as the only source.”
+
+TPH said the predictive model will be evaluated after the end of the summer season, on Labour Day, to determine whether it will be used again next year at Sunnyside and Marie Curtis. Toronto’s other eight beaches will not require AI modelling, as they are less at risk of contamination and the “current traditional method works very well.”
+
+Swim Drink Fish said it is not opposed to AI modelling and recognizes the failings of lagging test results. But Fleisher said more transparency is needed from the city if the model is to remain so that beachgoers can make educated decisions regarding their own health and safety.
+“We want to get rid of the 24-hour gap,” said Fleisher. “We want as much real-time monitoring information as possible. The purpose of a predictive model is to have more accurate information. But the way in which this predictive model is being used is doing the opposite.”

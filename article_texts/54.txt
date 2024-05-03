@@ -1,22 +1,211 @@
-Policing the Future
-In the aftermath of Michael Brown's death, St. Louis cops embrace crime-predicting software.
-st over a year after Michael Brown’s death became a focal point for a national debate about policing and race, Ferguson and nearby St. Louis suburbs have returned to what looks, from the outside, like a kind of normalcy. Near the Canfield Green apartments, where Brown was shot by police officer Darren Wilson, a sign reading “Hands Up Don’t Shoot” and a mountain of teddy bears have been cleared away. The McDonald’s on West Florissant Avenue, where protesters nursed rubber bullet wounds and escaped tear gas, is now just another McDonald’s.This story was produced in collaboration withHalf a mile down the road in the city of Jennings, between the China King restaurant and a Cricket cell phone outlet, sits an empty room that the St. Louis County Police Department keeps as a substation. During the protests, it was a war room, where law enforcement leaders planned their responses to the chaos outside.One day last December, a few Jennings police officers flicked on the substation’s fluorescent lights and gathered around a big table to eat sandwiches. The conversation drifted between the afternoon shift’s mundane roll of stops, searches, and arrests, and the day’s main excitement: the officers were trying out a new software program called HunchLab, which crunches vast amounts of data to help predict where crime will happen next.The conversation also turned to the grand anxieties of post-Ferguson policing. “Nobody wants to be the next Darren Wilson,” Officer Trevor Voss told me. They didn’t personally know Wilson. Police jurisdiction in St. Louis is notoriously labyrinthine and includes dozens of small, local municipal agencies like the Ferguson Police Department, where Wilson worked — munis, the officers call them — and the St. Louis County Police Department, which patrols areas not covered by the munis and helps with “resource intense events,” like the protests in Ferguson. The munis have been the targets of severe criticism; in the aftermath 2014's protests, Ferguson police were accused by the federal Department of Justice of being racially discriminatory and poorly trained, more concerned with handing out tickets to fund municipal coffers than with public safety.The officers in Jennings work for the St. Louis County Police Department; in 2014, their colleagues appeared on national TV, pointing sniper rifles at protesters from armored trucks. Since then, the agency has also been called out by the Justice Department for, among other things, its lack of engagement with the community.
+A police officer stands at the corner of a busy intersection, scanning the crowd with her body camera. The feed is live-streamed into the Real Time Crime Center at department headquarters, where specialized software uses biometric recognition to determine if there are any persons of interests on the street.
 
-Predictive Policing: the future of crime-fighting, or the future of racial profiling?
-There’s a new kind of software that claims to help law enforcement agencies reduce crime, by using algorithms to predict where crimes will happen and directing more officers to those areas. It’s called “predictive policing,” and it’s already being used by dozens of police departments all over the country, including the Los Angeles, Chicago, and Atlanta Police Departments.
+Data analysts alert the officer that a man with an abnormally high threat score is among the crowd; the officer approaches him to deliver a “custom notification”, warning him that the police will not tolerate criminal behavior. He is now registered in a database of potential offenders.
 
-Aside from the obvious “Minority Report” pre-crime allusions, there has been a tremendous amount of speculation about what the future of predictive policing might hold. Could people be locked up just because a computer model says that they are likely to commit a crime? Could all crime end altogether, because an artificial intelligence gets so good at predicting when crimes will occur?
-Some skeptics doubt that predictive policing software actually works as advertised. After all, most crimes occur only in semi-regular patterns, while big, low-frequency crimes like terrorist attacks aren’t typically governed by patterns at all, making them much harder for an algorithm to predict.
+Overhead, a light aircraft outfitted with an array of surveillance cameras flies around the city, persistently keeping watch over entire sectors, recording everything that happens and allowing police to stop, rewind and zoom in on specific people or vehicles …
 
-There is also the question of what happens to communities of color under a predictive policing regime. Brown and black people are already the disproportionate targets of police action, and with predictive policing software, some worry that police could feel even more empowered to spend time looking for crime in neighborhoods populated by minorities.
+None of this is techno-paranoia from the mind of Philip K Dick or Black Mirror, but rather existing technologies that are already becoming standard parts of policing.
 
-Although big companies like IBM also make predictive policing tools, one of the most widely deployed products comes from a small Santa Cruz, California firm called PredPol.
+The California city of Fresno is just one of the police departments in the US already using a software program called “Beware” to generate “threat scores” about an individual, address or area. As reported by the Washington Post in January, the software works by processing “billions of data points, including arrest reports, property records, commercial databases, deep web searches and the [person’s] social media postings”.
 
-The way PredPol works is actually quite simple. It takes in past crime data—only when it happened and what type of crime—and spits out predictions about where future crimes are more likely to occur. It turns those predictions into 500 foot by 500 foot red boxes on a Google map, indicating areas that police officers should patrol when they’re not actively responding to a call. The idea is that if officers focus their attention on an area that’s slightly more likely to see a crime committed than other places, they will reduce the amount of crime in that location.
+A brochure for Beware uses a hypothetical example of a veteran diagnosed with PTSD, indicating they also take into account health-related data. Scores are colour-coded so officers can know at a glance what level the threat is: green, yellow or red.
 
-Police chiefs who have tried PredPol and similar systems swear that it work. For example, the Norcross (GA) Police Department claims it saw a 15-30% reduction in burglaries and robberies after deploying the software.
+Chicago's computer-generated heat list profiled potential criminals – essentially suspects for crimes not yet committed
 
-But I wanted to ask tougher questions about predictive policing—not just whether it helps reduce crime, but how it helps reduce crime, and whether the system could serve as an algorithmic justification for old-school racial profiling by placing more police in minority-populated neighborhoods.
-So I went to Santa Cruz, California, where the local police department is using PredPol to patrol the city. I went on a ride-along with Deputy Police Chief Steve Clark, and spoke to local activists who fear that predictive policing software could invite harm, rather than preventing it.
+This is just one of many new technologies facilitating “data-driven policing”. The collection of vast amounts of data for use with analytics programs allows police to gather data from just about any source and for just about any reason.
 
-Here’s the video of my trip to see the real effects of predictive policing:
+The holy grail is ‘predictive policing’
+
+“Soon it will be feasible and affordable for the government to record, store and analyze nearly everything we do,” writes law professor Elizabeth Joh in Harvard Law & Policy Review. “The police will rely on alerts generated by computer programs that sift through the massive quantities of available information for patterns of suspicious activity.”
+
+The holy grail of data-fueled analytics is called “predictive policing”, which uses statistical models to tell officers where crime is likely to happen and who is likely to commit it.
+
+In February 2014, the Chicago police department (CPD) attracted attention when officers pre-emptively visited residents on a computer-generated “heat list”, which marked them as likely to be involved in a future violent crime. These people had done nothing wrong, but the CPD wanted to let them know that officers would be keeping tabs on them.
+
+Essentially, they were already considered suspects for crimes not yet committed.
+
+From Fresno to New York, and Rio to Singapore, data analysts sit at the helm of futuristic control rooms, powered by systems such as IBM’s Intelligent Operations Center and Siemens’ City Cockpit. Monitors pipe in feeds from hundreds or even thousands of surveillance cameras in the city.
+
+Is this really the promise of a ‘smart city’?
+
+These analysts have access to massive databases of citizens’ records. Sensors installed around the city detect pedestrian traffic and suspicious activities. Software programs run analytics on all this data in order to generate alerts and “actionable insights”.
+
+Neither IBM nor the Chicago Police Department responded to a request to comment. But it this is the new model of how policing should be done in an era of “smart cities”?
+
+These analytics can be used to great effect, potentially enhancing the ability of police to make more informed, less biased decisions about law enforcement. But they are often used in dubious ways and for repressive purposes. It is unclear – especially for analytics tools developed and sold by private tech companies – how exactly they even work.
+
+What data are they using? How are they weighing variables? What values and biases are coded into them? Even the companies that develop them can’t answer all those questions, and what they do know can’t be divulged because of trade secrets.
+
+So when police say they are using data-driven techniques to make smarter decisions, what they really mean is they are relying on software that spits out scores and models, without any real understanding of how. This demonstrates a tremendous faith in the veracity of analytics.
+
+Those affected lose their right to individualized treatment, as systems treat them as a mere collection of data points
+
+It is absurd for police not to know what decisions, weights, values and biases are baked into the analytics they use. It obscures the factors and decisions that influence how police operate – even to the police themselves, and means these methods are not open to the scrutiny of public oversight and accountability.
+
+Yet even in the face of controversy, police departments continue to use and defend these technologies when questioned by the public, the media and politicians.
+
+Contrary to the common defense trotted out by technocrats, the judgments produced by the algorithms of big data analytics are not objective arbiters of discretion and punishment. Rather, they easily become ways of laundering subjective, biased decisions into ostensibly objective judgments.
+
+Many researchers and advocates have argued that techniques like predictive policing don’t so much see the future as entrench and justify longstanding practices of racial profiling in policing certain urban neighborhoods, aggressively targeting already disempowered groups.
+
+Those affected lose their right to individualized treatment and understanding, as technical systems treat people as a mere collection of data points.
+
+Moreover, by integrating these technologies deeper into their operations, police departments are opening the way for corporations to have disproportionate influence over what policing means in society. Technologies are not just neutral tools, and they are not divorced from politics; they are designed with certain values and goals in mind. And when large corporations and entrepreneurial startups establish those values and goals, you are likely to end up with policing modeled after technocratic motivations for total efficiency and control.
+
+It is telling that the companies creating these analytics programs sell modified versions of their software to more than just police departments. As the Intercept reported in October 2015, the same types of analytics are used from marketing to the military; in essence, the Pentagon uses a data program to monitor drones in the same way businesses monitor customers.
+
+IBM has its own vision of an internet-connected world, and its “Smarter Planet” concept happens to align with the goals of business, the military and the police. While its program has already been sold to law enforcement, it is also developing systems to process refugees and even predict terrorist attacks.
+
+Many researchers have documented how police forces are increasingly technologized and militarized. Enthusiastic and rapid adoption of data-driven analytics has happened at the expense of meaningful public input, safeguards against misconduct and other basic procedures of accountability.
+
+The question remains: are these technologies accurate, appropriate and legitimate?
+
+Our governments and police departments are already deploying this technology, and need to be held to account. This technology encourages police officers to view the public as a threat, as criminals in waiting. These opaque procedures and questionable outcomes need to be scrutinized, before the efficiencies of connected data are used to justify taking power away from citizens and further concentrating it in police forces.. This article is co-reported with The Markup.
+
+
+
+Between 2018 and 2021, more than one in 33 U.S. residents were potentially subject to police patrol decisions directed by crime-prediction software called PredPol.
+
+Advertisement
+
+The company that makes it sent more than 5.9 million of these crime predictions to law enforcement agencies across the country—from California to Florida, Texas to New Jersey—and we found those reports on an unsecured server.
+
+Gizmodo and The Markup analyzed them and found persistent patterns.
+
+Residents of neighborhoods where PredPol suggested few patrols tended to be Whiter and more middle- to upper-income. Many of these areas went years without a single crime prediction.
+
+By contrast, neighborhoods the software targeted for increased patrols were more likely to be home to Blacks, Latinos, and families that would qualify for the federal free and reduced lunch program.
+
+Advertisement
+
+These communities weren’t just targeted more—in some cases, they were targeted relentlessly. Crimes were predicted every day, sometimes multiple times a day, sometimes in multiple locations in the same neighborhood: thousands upon thousands of crime predictions over years. A few neighborhoods in our data were the subject of more than 11,000 predictions.
+
+The software often recommended daily patrols in and around public and subsidized housing, targeting the poorest of the poor.
+
+“Communities with troubled relationships with police—this is not what they need,” said Jay Stanley, a senior policy analyst at the ACLU Speech, Privacy, and Technology Project. “They need resources to fill basic social needs.”
+
+Yet the pattern repeated nearly everywhere we looked:
+
+Advertisement
+
+Neighborhoods in Portage, Michigan, where PredPol recommended police focus patrols have nine times the proportion of Black residents as the city average. Looking at predictions on a map, local activist Quinton Bryant said, “It’s just giving them a reason to patrol these areas that are predominantly Black and Brown and poor folks.”
+
+In Birmingham, Alabama, where about half the residents are Black, the areas with the fewest crime predictions are overwhelmingly White. The neighborhoods with the most have about double the city’s average Latino population. “This higher density of police presence,” Birmingham-based anti-hunger advocate Celida Soto Garcia said, “reopens generational trauma and contributes to how these communities are hurting.”
+
+the city’s average Latino population. “This higher density of police presence,” Birmingham-based anti-hunger advocate Celida Soto Garcia said, “reopens generational trauma and contributes to how these communities are hurting.” In Los Angeles, even when crime predictions seemed to target a majority White neighborhood, like the Northridge area, they were clustered on the blocks that are almost 100% Latino. The neighborhoods in the city where the software recommended police spend the most time were disproportionately poor and more heavily Latino than the city overall. “These are the areas of L.A. that have had the greatest issues of biased policing,” said Thomas A. Saenz, president and general counsel of the LA-based Latino civil rights group MALDEF.
+
+100% Latino. The neighborhoods in the city where the software recommended police spend the most time were disproportionately poor and more heavily Latino than the city overall. “These are the areas of L.A. that have had the greatest issues of biased policing,” said Thomas A. Saenz, president and general counsel of the LA-based Latino civil rights group MALDEF. About 35 miles outside of Boston, in Haverhill, Massachusetts, PredPol recommended police focus patrols in neighborhoods that had three times the Latino population and twice the low-income population as the city average. “These are the communities that we serve,” said Bill Spirdione, associate pastor of the Newlife Christian Assembly of God and executive director of the Common Ground food pantry.
+
+In the Chicago suburb of Elgin, Illinois, neighborhoods with the fewest crime predictions were richer, with a higher proportion than the city average of families earning $200,000 a year or more. The neighborhoods with the most predictions didn’t have a single one; instead, they had twice as many low-income residents and more than double the percentage of Latino residents as the city average. “I would liken it to policing bias-by-proxy,” Elgin Police Department deputy chief Adam Schuessler said in an interview. The department has stopped using the software.
+
+Overall, we found that the fewer White residents lived in an area—and the more Black and Latino residents lived there—the more likely PredPol would predict a crime there. The same disparity existed between richer and poorer communities.
+
+In neighborhoods most targeted by Prediction software, Black and Latino populations were higher
+
+
+
+“No one has done the work you guys are doing, which is looking at the data,” said Andrew Ferguson, a law professor at American University, who is a national expert on predictive policing. “This isn’t a continuation of research. This is actually the first time anyone has done this, which is striking because people have been paying hundreds of thousands of dollars for this technology for a decade.”
+
+It’s impossible for us to know with certainty whether officers spent their free time in prediction areas, as PredPol recommends, and whether this led to any particular stop, arrest, or use of force. The few police departments that answered that question either said they couldn’t recall or that it didn’t result in any arrests, and the National Association of Criminal Defense Lawyers said its members are not informed when crime prediction software leads to charges.
+
+Advertisement
+
+Jumana Musa, director of that group’s Fourth Amendment Center, called the lack of information a “fundamental hurdle” to providing a fair defense.
+
+“It’s like trying to diagnose a patient without anyone fully telling you the symptoms,” Musa said. “The prosecution doesn’t say, ‘The tool that we purchased from this company said we should patrol here.’”
+
+That’s because they don’t know either, according to the National District Attorneys Association, which polled a smattering of members and found that none had heard of it being part of a case.
+
+Only one of 38 law enforcement agencies in our analysis, the Plainfield Police Department in New Jersey, provided us with more than a few days of PredPol-produced data indicating when officers were in prediction boxes—and that data was sparse. None of it matched perfectly with arrest reports during that period, which were also provided by the agency.
+
+Advertisement
+
+We found the crime predictions for our analysis through a link on the Los Angeles Police Department’s public website, which led to an open cloud storage bucket containing PredPol predictions for not just the LAPD but also for dozens of other departments. When we downloaded the data on Jan. 31, 2021, it held 7.4 million predictions dating back to Feb. 15, 2018. Public access to that page is now blocked.
+
+We limited our analysis to U.S. law enforcement agencies with at least six months of predictions and removed predictions generated outside of contract dates, which were likely testing or trial periods. That left 5.9 million predictions provided to 38 agencies over nearly three years.
+
+Who uses PredPol
+
+
+
+PredPol, which renamed itself Geolitica in March, criticized our analysis as based on reports “found on the internet.” But the company did not dispute the authenticity of the prediction reports, which we provided, acknowledging that they “appeared to be generated by PredPol.”
+
+Advertisement
+
+Company CEO Brian MacDonald said our data was “incomplete,” without further explanation, and “erroneous.” The errors, he said, were that one department inadvertently doubled up on some shifts, resulting in additional predictions, and that the data for at least 20 departments in the cache included predictions that were made after the contract period and not delivered to the agencies.
+
+We explained that we had already discovered date discrepancies for exactly 20 departments and were not using that data in our final analysis and volunteered to share the analysis dates with him for confirmation. He instead offered to allow us to use the software for free on publicly available crime data instead of reporting on the data we had gathered. After we declined, he did not respond to further emails.
+
+
+
+Only 13 out of 38 departments responded to requests for comment about our findings and related questions, most with a written statement indicating they no longer use PredPol.
+
+One exception was the Decatur Police Department in Georgia. “The program as well as the officers’ own knowledge of where crime is occurring assists our department in utilizing our patrol resources more efficiently and effectively,” public information officer Sgt. John Bender said in an emailed statement. A third of Decatur’s low-income households were in a pair of neighborhoods that were each the subject of more than 11,000 crime predictions in two years.
+
+Advertisement
+
+As predictions increased, average household income decreased
+
+Except for Elgin, Illinois, whose deputy chief called the software “bias by proxy,” none of the 38 agencies that used PredPol during our analysis period expressed concern about the stark demographic differences between the neighborhoods that received the most and least predictions.
+
+We asked MacDonald whether he was concerned about the race and income disparities. He didn’t address those questions directly, but rather said the software mirrored reported crime rates, “to help direct scarce police resources to protect the neighborhoods most at risk of victimization.” The company has long held a position that because the software doesn’t include race or other demographic information in its analysis, that “eliminates the possibility for privacy or civil rights violations seen with other intelligence-led or predictive policing models.”
+
+Yet according to a research paper, PredPol co-founders determined in 2018 that the algorithm would have targeted Black and Latino neighborhoods up to 400% more than White residents in Indianapolis had it been used there.
+
+
+
+Advertisement
+
+MacDonald said in his email that the company did not provide the study to its law enforcement clients because it “was an academic study conducted independently of PredPol.” The authors presented the paper at an engineering conference that’s not part of the usual police circuit, the 2018 IEEE International Conference on Systems, Man and Cybernetics.
+
+
+
+The study authors developed a potential tweak to the algorithm that they said resulted in a more even distribution of crime predictions, but they found the predictions were less in line with later crime reports, making it less accurate than the original, although still “potentially more accurate” than human predictions.
+
+MacDonald said the company didn’t adjust its algorithm in response.
+
+“Such a change would reduce the protection provided to vulnerable neighborhoods with the highest victimization rates,” he said.
+
+
+
+Advertisement
+
+While MacDonald responded to some written questions by email, none of the company’s leaders would agree to an interview for this story.
+
+To use PredPol’s algorithm, police departments set up an automatic feed of crime reports, which experts and police said include incidents reported by both the public and by officers, and choose which crimes they want to be predicted. The algorithm uses three variables to come up with future crime predictions: the date and time, the location, and the type of past crime reports.
+
+The predictions consist of 500-by-500-foot boxes marked on a map listing the police shift during which the crimes are most likely to occur. PredPol advises officers to “get in the box” during free time. Officials in some cities said officers frequently drove to prediction locations and completed paperwork there.
+
+How predictive policing works
+
+Advertisement
+
+In his email to Gizmodo and The Markup, MacDonald said the company’s choice of input data ensures the softare’s predictions are unbiased.
+
+“We use crime data as reported to the police by the victims themselves,” he said. “If your house is burglarized or your car stolen, you are likely to file a police report.”
+
+But that’s not always true, according to the federal Bureau of Justice Statistics (BJS). The agency found that only 40% of violent crimes and less than a third of property crimes were reported to police in 2020, which is in line with prior years.
+
+The agency has found repeatedly that White crime victims are less likely to report violent crime to police than Black or Hispanic victims.
+
+
+
+Advertisement
+
+In a special report looking at five years of data, BJS found an income pattern as well. People earning $50,000 or more a year reported crimes to the police 12% less often than those earning $25,000 a year or less.
+
+Wealthy and White victims of violent crime are less likely to report to police
+
+This disparity in crime reporting would naturally be reflected in predictions.
+
+“There’s no such thing as crime data,” said Phillip Goff, co-founder of the nonprofit Center for Policing Equity, which focuses on bias in policing. “There is only reported crime data. And the difference between the two is huge.”
+
+Advertisement
+
+MacDonald didn’t respond to questions about these studies and their implications, but PredPol’s founders acknowledged in their 2018 research paper that place-based crime prediction algorithms can focus on areas that are already receiving police attention, creating a feedback loop that leads to even more arrests and more predictions there.
+
+We examined more than 270,000 arrests in 11 cities using PredPol that provided those records to us (most refused) and found that locations with lots of predictions tended to have high arrest rates in general, suggesting the software was largely recommending officers patrol areas they already frequented.
+
+Five cities provided us with data on officer use of force, and we found a similar pattern. In Plainfield, per capita use-of-force rates were nearly double the city average in the neighborhoods with the most predictions. In Niles, Illinois, per capita use of force was more than double the city average in high-prediction neighborhoods. In Piscataway, New Jersey, the arrest rate was more than 10 times the city average in those neighborhoods.
+
+Arrests per capita relative to jurisdiction average

@@ -1,34 +1,4 @@
-Tesla vehicles are inexplicably slamming on their brakes for no reason, frightening owners and eliciting over 100 complaints to the federal government in the last three months alone, according to The Washington Post.
-
-It’s been a persistent issue for the automaker. Last October, Tesla CEO Elon Musk said on Twitter that the company was forced to “roll back” version 10.3 of its Full Self-Driving beta software because of issues with forward collision warnings and phantom braking.
-
-But since then, the number of complaints about Tesla’s braking has spiked. According to The Washington Post’s analysis, reports from Tesla owners about phantom braking to the National Highway Traffic Safety Administration (NHTSA) rose to 107 complaints in the past three months, compared with only 34 in the preceding 22 months.
-
-“No other cars around. Flat, clear open freeway.”
-
-“Using adaptive cruise control with autopilot steering (as well as without Autosteer), multiple episodes of severe ‘phantom breaking [sic]’ where the car slams on the breaks [sic] for no apparent reason,” a Model Y owner from Sterling, Ill., wrote in a November 16th complaint. “No other cars around. Flat, clear open freeway.”
-
-Another Model Y owner, who reported installing FSD in October 2021, said they “immediately” experienced issues with Autopilot and Traffic-Aware Cruise Control after the update was installed, including “spurious forward collision warnings.” “These warnings involved the standard warning beeps and red indicators on the driving display, and at one point included an unnecessary emergency braking incident when no obstacle was in front of me,” this person wrote. “As such, I had reverted to driving the car in manual mode, not on autopilot,” this person wrote.
-
-A Model 3 owner in San Ramon, Calif., reported “numerous phantom braking events when on [A]utopilot. These seemingly happen out of nowhere, various conditions, and for no apparent reason.”
-
-The problem may be traced to the controversial decision last year to remove radar sensors from new Model 3 and Model Y vehicles. The decision came after Musk publicly expressed a desire to rely on cameras to power the company’s advanced driver assistance system.
-
-The problem may be traced to the controversial decision last year to remove radar sensors from new Model 3 and Model Y vehicles
-
-Tesla has drawn intense scrutiny from safety advocates and regulators for its willingness to allow its customers to test what is essentially an unfinished version of a product that Musk has long promised will lead to fully autonomous vehicles on the road. Earlier this week, the company was forced to issue a software update to remove an FSD feature that allows cars to perform a “rolling stop” — a maneuver in which the vehicle moves slowly through a stop sign without coming to a full stop. (A rolling stop is a common driving maneuver despite being illegal in all 50 states in the US.)
-
-A spokesperson for NHTSA said the agency was “aware of complaints received about forward collision avoidance and is reviewing them through our risk-based evaluation process. This process includes discussions with the manufacturer, as well as reviewing additional data sources, including Early Warning Reporting data. If the data show that a risk may exist, NHTSA will act immediately.”
-
-During an earnings call last week, Musk cited FSD as “a primary area of focus.” FSD is a beta version of an advanced driver-assist system that controls some of the car’s functions on local roads but still requires human supervision. In contrast, autonomous vehicles are cars that can operate on public roads without any human intervention or supervision.
-
-Still, the company claims that FSD will lead to more profits in the future thanks to the “higher utilization of our vehicles.” Musk has said that once Tesla’s cars are able to drive themselves, the company will leverage that capability into a robotaxi fleet. The goal is to make it so that each Tesla customer’s car can double as an autonomous vehicle that other people can hail while the owner isn’t using it.
-
-Tesla said it released seven over-the-air software updates for FSD over the quarter and that there are currently 60,000 vehicles operating with the advanced driver assist system in the US.
-
-Last fall, complaints began to surface on social media of problems with some Tesla vehicles. Owners said the 10.3 update of FSD introduced phantom forward collision warnings, while others noticed a disappearing Autosteer option, traffic-aware cruise control (TACC) problems, and occasional Autopilot panic.
-
-Now it’s clear some owners were also filing complaints with NHTSA. To be sure, the agency does not individually verify each complaint. Owners submit a description of the issue, their vehicle identification number, and other identifying information when they report their problems to the agency.. After opening strong in pre-market trading, Tesla’s stock (TSLA) fell this morning as more attention is brought to its serious phantom braking issue on Autopilot.
+After opening strong in pre-market trading, Tesla’s stock (TSLA) fell this morning as more attention is brought to its serious phantom braking issue on Autopilot.
 
 Back in November, Electrek released a report called ‘Tesla has a serious phantom braking problem in Autopilot.‘
 
@@ -110,46 +80,4 @@ Luckily, there was no car behind me and I was able to fight back against the bra
 
 I talked with other Tesla owners on the latest updates, and it seems that some are having the same issues while others aren’t.
 
-There’s undeniably a significant uptick in phantom braking events, but it doesn’t seem to be affecting all cars the same way.. DETROIT (AP) — More than 750 Tesla owners have complained to U.S. safety regulators that cars operating on the automaker’s partially automated driving systems have suddenly stopped on roadways for no apparent reason.
-
-The National Highway Traffic Safety Administration revealed the number in a detailed information request letter to Tesla that was posted Friday on the agency’s website.
-
-The 14-page letter dated May 4 asks the automaker for all consumer and field reports it has received about false braking, as well as reports of crashes, injuries, deaths and property damage claims. It also asks whether the company’s “Full Self Driving” and automatic emergency braking systems were active at the time of any incident.
-
-The agency began investigating phantom braking in Tesla’s Models 3 and Y last February after getting 354 complaints. The probe covers an estimated 416,000 vehicles from the 2021 and 2022 model years. In February, the agency said it had no reports of crashes or injuries.
-
-The letter gives Tesla a deadline of June 20 to respond to the information request but says the company can ask for an extension.
-
-Shares of Tesla Inc. tumbled more than 9% Friday.
-
-A message was left early Friday seeking comment from Tesla.
-
-In opening the probe, the agency said it was looking into vehicles equipped with automated driver-assist features such as adaptive cruise control and “Autopilot,” which allows them to automatically brake and steer within their lanes.
-
-“Complainants report that the rapid deceleration can occur without warning, and often repeatedly during a single drive cycle,” the agency said.
-
-Many owners wrote in their complaints that they feared a rear-end crash on a freeway.
-
-In the letter, NHTSA asks for the initial speed of when the cars began to brake, the final speed, and the average deceleration. It also asks if the automated systems detected a target obstacle, and whether Tesla has video of the braking incidents.
-
-The agency is now seeking information on warranty claims for phantom braking including the owners’ names and what repairs were made. It’s also seeking information on Tesla’s sensors, any testing or investigations into the braking problems, or if any modifications were made.
-
-The letter focuses on Tesla’s testing of the automated systems when it comes to detecting metal bridges, s-shaped curves, oncoming and cross traffic, and different sizes of vehicles including large trucks. The agency also wants information on how cameras deal with reflections, shadows, glare and blockage due to snow or heavy rain.
-
-The agency asks Tesla to detail its assessment of the “alleged defect” in the automated systems, including what caused the unnecessary braking, what failed, and the risk to motor vehicle safety that the problem poses. It asks Tesla “what warnings, if any, the operator and the other persons both inside and outside the vehicle would have that the alleged defect was occurring, or subject component was malfunctioning.”
-
-The probe is another in a string of enforcement efforts by the agency that include Autopilot and “Full Self-Driving” software. Despite their names, neither feature can drive the vehicles without people supervising.
-
-It’s the fourth formal investigation of the Texas automaker in the past three years, and NHTSA is supervising 23 Tesla recalls since January of 2021.
-
-The agency also is investigating complaints that the automatic emergency braking systems on more than 1.7 million newer Hondas can stop the vehicles for no reason.
-
-In addition, NHTSA has a broader probe under way into crashes involving partially automated driving systems from all automakers. Since 2016, the agency has sent teams to 34 crashes in which the systems were either in use or suspected of operating. Of the 34, 28 involved Teslas.
-
-Fifteen people died in the crashes that NHTSA is investigating, and at least 15 more were hurt. Of the deaths, 14 occurred in crashes involving Teslas, agency documents say.
-
-NHTSA also is investigating why Teslas on Autopilot have crashed into emergency vehicles parked on roads.
-
-Tesla and CEO Elon Musk have been fighting with U.S. and California government agencies for years, sparring with NHTSA and most notably with the Securities and Exchange Commission.
-
-Musk has offered to buy Twitter for $44 billion and make it a private company, but says he has put the deal on hold because of allegations that the social media platform has more automated bot accounts than it has disclosed.
+There’s undeniably a significant uptick in phantom braking events, but it doesn’t seem to be affecting all cars the same way.

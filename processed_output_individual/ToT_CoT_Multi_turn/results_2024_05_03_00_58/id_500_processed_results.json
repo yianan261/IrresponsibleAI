@@ -1,0 +1,19 @@
+{
+    "500": {
+        "Country": "United Kingdom",
+        "State": "",
+        "City": "London",
+        "Continent": "Europe",
+        "Company": "BBC Studios Distribution Limited",
+        "Company city": "London",
+        "Company state": "",
+        "Affected population": [],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [],
+        "Subclasses": {},
+        "Sub-subclass": [],
+        "Area of AI Application": "",
+        "Online": "Yes"
+    }
+}

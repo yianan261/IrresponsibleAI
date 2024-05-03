@@ -1,0 +1,27 @@
+{
+    "594": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Pak 'n' Save",
+        "Company city": "Auckland",
+        "Company state": "Auckland",
+        "Affected population": [
+            "Customers of Pak 'n' Save"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Meal Planning",
+        "Online": "No"
+    }
+}

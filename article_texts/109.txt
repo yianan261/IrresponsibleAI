@@ -1,0 +1,107 @@
+This facial recognition website can turn anyone into a cop — or a stalker
+PimEyes has become a hit among digital ‘creeps’ and others eager to investigate strangers. Researchers fear there’s no way to prevent it from being abused.
+
+The facial recognition site PimEyes is one of the most capable face-searching tools on the planet. In less than a second, it can scan through more than 900 million images from across the Internet and find matches with startling accuracy.
+
+But its most distinguishing trait is who can use it: Anyone. While most facial recognition tools are reserved for police or government use, PimEyes is open to the masses, whether they’re hunting down U.S. Capitol riot suspects or stalking women around the Web.
+
+The search tool stands at the frontier of a new era of facial recognition surveillance: Powerfully sophisticated and available to anyone, with added abilities for those who pay. And without public oversight or government rules controlling facial recognition use, researchers expect that sites like PimEyes will multiply, capitalizing on the Internet’s vast bounty of photos and videos — and making it possible for strangers to keep tabs on people’s personal lives.
+“What is stopping them? Literally nothing,” said Stephanie Hare, a technology researcher in London.
+
+“The people who put those pictures on the Internet — with their children, their parents, the people who might be vulnerable in their life — were not doing it so they could feed a database that companies could monetize,” she said. There’s no clear way to fight back, she added: “I can leave my phone at home. What I can’t leave is my face.”
+
+How America’s surveillance networks helped the FBI catch the Capitol mob
+
+Facial recognition has become an increasingly widespread investigative tool for government authorities and law enforcement; airports, stores and schools also use it to verify visitors’ identities and boost security. But PimEyes has made it easier than ever for the general public to tap its artificial intelligence power: When a user submits a photo of someone’s face, the site will return a catalogue of images linked to other places where that person appears around the Web, including old videos, news stories, photo albums and personal blogs.
+The search results don’t include exact names, but they offer a detail and precision that has left some people stunned. Pete, a 40-year-old man in Germany who asked that only his first name be used, said he ran a 17-year-old photo of himself drinking a beer on a train and was blown away when it returned a link to a recent video of him on YouTube.
+
+“How did it even work? I’m older, it’s a different facial expression, even a different position of my head,” he said, comparing the two photos. “It’s very creepy and way too powerful. This should not be in the public, available for everyone.”
+PimEyes says in its online “manifesto” that it believes searching for one’s face online should be a basic human right open to anyone, not just corporations and governments, and that the company’s work is, counterintuitively, a boon for privacy. PimEyes sells subscription packages to people who want to find where their photos have been posted online or get alerted when they’re posted somewhere else.
+Though they’ve built a search engine devoted to unraveling online mysteries, the developers won’t say practically anything about themselves. A representative for the company — who declined to share their name, said they’d talk only over email and asked to be referred to only as “the director” — declined to answer questions about how PimEyes works, who is involved with the company or even where the company is based.
+
+“Staying completely anonymous is very important to us,” the director said.
+
+A sprawling investigation: What we know so far about the Capitol riot suspects
+
+The company has defended itself against criticism — and data-privacy laws like the European Union’s General Data Protection Regulation, which restricts facial recognition use — by saying it is to be used only by people uploading their own images. But PimEyes enforces that rule with a single checkbox that anyone can easily click to circumvent. The company has no other rules in place to prevent anyone from scouring the Web for someone else.
+“The most valuable resource is information … [and] we allow people to find, monitor, and protect pieces of information about themselves,” the director said. “We don’t encourage people to search for other people — it is their own decision to break the rules.”
+
+The tool has become wildly popular among strangers looking to “essentially stalk” women around the Web, said Aaron DeVera, a security researcher in New York. On 4chan and other anonymous forums, PimEyes subscribers with deeper search capabilities than unpaid users — subscriptions start at around $30 a month — routinely create threads offering to search out any photo and relay back the results.
+
+Almost all of the photos are of young girls and women pulled from their social media accounts, their dating-app profiles or “creepshots” stealthily photographed without their consent. The people searching often hope to find other photos or learn more personal details “so they can creep on them further,” DeVera added: “Something like this that is so off-the-shelf really does lower the barrier to entry for nefarious activity.”
+In one PimEyes thread on 4chan from October, an anonymous user posted a digital collage, titled “Complete Exposure” and a woman’s name, filled with sensitive details of their personal life. It was unclear whether all the photos had been surfaced by PimEyes, or even whether they were all of the same woman. But the collage was scarily comprehensive, including photos of her standing in the middle-school classroom where she teaches, her driver’s license, school badge, wedding announcement, the outside of her home and her home address. (The woman, through her husband, declined to comment.)
+
+The director said PimEyes should not be blamed for how it’s used by people on a forum like 4chan: “You will probably find some content there that shows how to use Google, a car, or just a plate or any other tool to hurt someone.”
+
+A shadowy AI service has transformed thousands of women’s photos into fake nudes: ‘Make fantasy a reality’
+
+Most facial recognition tools, such as Clearview AI, look for matches to an image among photos in a giant database. But PimEyes works more like Google, using bots known as “spiders” to crawl the Web, scanning for photos of faces and then recording those images as numerical code. If the search tool is later shown a photo that resembles one of those images, it will return a direct link to where the image can be found.
+PimEyes said last year in a since-deleted webpage that it had analyzed 900 million unique faces — nearly three times the U.S. population — from 150 million websites and processed 1 terabyte of images everyday.
+
+PimEyes said it does not search images on social media, but photos from those sites are regularly among the results, and in a test last year by the German digital-rights blog Netzpolitik, journalists said they found results from Instagram, YouTube, Twitter and TikTok. The company did not offer an explanation, the journalists wrote, adding, “The more we confront PimEyes with questions, the more the company contradicts itself.”
+
+PimEyes’ bots do, however, catalogue the images on pornographic websites, and people who have used the site said they’ve often stumbled across those look-alike results when searching for someone else. The company director said the site scans porn images so its customers can find nonconsensual “revenge” porn postings or attempt “to erase the mistakes of youth.” One customer who creates sexual content, the director added, uses the tool to find websites that steal their work.
+Launched in 2017 by a Polish start-up, PimEyes advertises itself as “an advanced self-monitoring, self-protection and self-image management tool.” A Polish blog in 2019 said the site was started by two graduates of the Wrocław University of Science and Technology, Lukasz Kowalczyk and Denis Tatina, who built it as a hobby project and later monetized it upon seeing the user interest — the greatest of which, they said, came from the United States.
+
+Coalition of groups calls for end to facial recognition program used to identify protester at Lafayette Square
+
+In 2020, the PimEyes brand was transferred to Face Recognition Solutions Ltd., a company with no real online presence and a corporate address registered to a single room in the Seychelles, the island nation in the Indian Ocean that has become a popular offshore haven for companies wanting to obscure their ownership and corporate details.
+
+The same room is also listed as a registered address for start-ups in advertising, finance and cryptocurrency, corporate records show. The PimEyes director said the company chose the Seychelles “because of the good incorporation environment.”
+The director also offered little about how PimEyes’s facial recognition algorithms work, saying only that they are “built in-house.” Hundreds of such algorithms have been developed around the world, each with varying features and error rates that can affect how well they work: In a 2019 federal test, the least-accurate algorithms were up to 100 times more likely to misidentify people of color.
+
+Users have been surprised when PimEyes found not just their own photos, but photos they hadn’t even realized they’d been captured in. A French journalist ran a webcam photo of himself through the site and found a photo he had no memory of, in which it looked like he’d fallen asleep during a news conference. Another man said the site had found a photo of him from 25 years ago.
+
+Wrongfully arrested man sues Detroit police over false facial recognition match
+
+Some have also been alarmed by the ease of use: One man tweeted that he had taken screenshots of people’s faces while on Zoom calls, then ran them through PimEyes, saying “the results were startling.” If he’d wanted, he added, he could have paid to get notifications any time a new photo of them was put online.
+
+The service, though, could suffer from the same issues that plague many facial recognition tools, including wide swings in accuracy depending on the skin color of who’s being searched. Some Twitter users have complained that the search engine returned only porn actors who looked nothing like them.
+
+The company declined to answer questions about its development team, finances, customer base, photo index and expansion plans. In March, the company offered to connect The Washington Post with some of its clients, saying “we have many customers who are satisfied with our service,” but after several weeks reversed course and said none would agree to talk.
+
+“We help our customers solving sensitive cases, so they might not be willing to share their stories,” the director said.
+
+Any PimEyes user can see some limited search results. But only paying “Premium” subscribers can perform unlimited searches, unlock the full image details and get email alerts whenever the site detects a face they’ve uploaded somewhere else on the Web. For $29.99 a month, a user can search 25 times a day, while $299.99 a month can unlock unlimited searches. An online pricing calculator suggests some users may want to conduct up to 100 million searches a month — a gargantuan number for a business that says users should search only for their own images.
+
+Senators seek limits on some facial-recognition use by police, energizing surveillance technology debate
+
+PimEyes has advertised itself as a law-enforcement investigative tool, saying last year in a since-deleted post that it “is actively involved in the fight against online crime.” But the company director said that none of its customers are law enforcement agencies. That crime-fighting claim, the director said, is nevertheless “true in some way” because the tool can be used to find illegally used images.
+
+PimEyes allows anyone to request a photo’s removal using an online form, one image at a time. But to completely block those photos from showing up in PimEyes’s search results, a user needs to pay $79.99 a month for the “PROtect” package — in essence, paying the same company that uncovered the images to also take them down.
+
+PimEyes’s widespread use in the pursuit of Capitol rioters, by an online crowdsourced collective of “sedition hunters,” has also worried researchers like Hare, the technology researcher, who believed it could be easily misused to target the wrong people or turn untrained sleuths into digital vigilantes.
+
+“Are citizens cops? No. But tools like these can turn anyone into a cop,” she said. “If you give people something that can be used as a surveillance tool, people are going to use it as one, and they’re not going to feel the need to have an ethical conversation about it.”
+
+A tool for amateur detective work, Hare added, can also easily be transformed into a weapon of state surveillance. Before PimEyes, there was FindFace, a similar face-search engine developed by the Moscow tech start-up NtechLab. Russian authorities now use the software to track opposition activists, journalists, protesters and others captured by Moscow’s more than 189,000 cameras.
+
+Russia’s surveillance state still doesn’t match China. But Putin is racing to catch up.
+
+PimEyes said that instances of abuse tied to the search tool were not the company’s fault, adding that any “service can be used against the purpose it was created for.” Of the “sedition hunters,” the director said, “People who misused our search engine did that for a good cause, but it doesn’t mean they won’t face the consequences of their actions.”
+
+But even some fans of the service think it goes too far. Conor Nolan, a photo researcher in London, spent hours on PimEyes attempting to identify members of the mob that stormed the U.S. Capitol on Jan. 6, believing the information could prove invaluable to the FBI. On one of his first searches, PimEyes pointed to one suspect’s decade-old mug shot — an investigative breakthrough in a single click.
+
+Nolan said it’s scarily accurate and “a technology I’m not comfortable with at all,” adding that he thinks governments should regulate such tools before they are made available to the general public. But in the meantime, he said, he intends to keep using it, just because it works so well.
+
+“Ethics aside, it was well worth it,” Nolan said. “I’d use it again if I had the need.”
+
+Massive camera hack exposes the growing reach and intimacy of American surveillance
+
+In the U.S., PimEyes and other facial recognition companies have few laws to worry about. While members of Congress from both parties have talked about freezing government use of the technology, and federal watchdogs at the Government Accountability Office last year urged them to strengthen face-scan laws, the business is still entirely unregulated at the national level.
+
+Half a dozen states and roughly two dozen cities have banned or restricted the technology for public use; another dozen state legislatures are slated to discuss similar bills this year. But such legislation almost always addresses use by police or public authorities, not companies or private individuals.
+
+That regulatory void has led even the technology’s biggest developers to call for stronger laws: Amazon last summer halted its sale of facial recognition technology to police for one year to give lawmakers “enough time to implement appropriate rules,” while Microsoft said it would not sell the technology to police until a federal law is enacted that is “grounded in human rights.”
+
+Some AI researchers expect PimEyes won’t be the last site to attempt unbounded facial search. The rise of “open source” AI has allowed outside developers to easily fold facial recognition software into their own applications: With enough computing power, anyone can use them to play around with the seemingly infinite photo and video data of the Web.
+
+Home-security cameras have become a fruitful resource for law enforcement — and a fatal risk
+
+One AI data scientist using the online name “Patr10tic,” who spoke in a phone interview on the condition of anonymity to candidly discuss the development of similar tools, said PimEyes’s functionality can be closely mimicked using freely available tools such as FaceNet, an open-source facial recognition system developed by Google researchers in 2015 and now widely emulated around the Web.
+
+After the Capitol siege, he used an open-source “face extractor” tool to pull out facial images from more than 40,000 videos uploaded to the heavily pro-Trump social network Parler. He then built a cluster map of those faces, as well as a detailed location map pinpointing where the videos had first been made.
+
+Developers, he said, have a “real duty” to build tools with guardrails against their own misuse. But he’s not surprised that such AI uses are expanding rapidly — and he believes that, in many cases, it’s already too late to rein in a type of technology that’s widely proliferated around the world.
+
+“You’re not going to be able to stop people from ‘spidering’ the Web on their own and using open-source code to build pipelines like this. It’s just impossible to enforce,” he said. “That’s where the world is going. Like the physicists of the 1940s, we can already effectively create a Manhattan Project. All these tools can be used, so to speak, for peace or for war.”

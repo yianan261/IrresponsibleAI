@@ -17,7 +17,13 @@ class IncidentData:
 
     def get_handpicked_id_set(self):
         # id_set = set([0, 1, 2, 3, 4, 5, 6, 9, 10, 11, 13, 14, 451, 382, 505, 167])
-        id_set = set([14, 9, 4, 10, 3])
+        # id_set = set([1, 14, 9, 4, 10, 3, 505])
+        # id_set = set([3])
         # id_set = set([i for i in range(1,16)])
-        id_int_to_string = (str(i) for i in id_set)
+        id_set = set([494, 560, 602])
+        id_int_to_string = set(str(i) for i in id_set)
         return id_int_to_string
+
+    # data that are un-scrapable or too large
+    def get_empty_data(self):
+        return set([44, 65, 273, 287, 298, 375, 400, 522, 539, 552, 559, 576])

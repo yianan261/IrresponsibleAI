@@ -22,71 +22,7 @@ Successful Business Woman Profile
 
 Business Woman Silhouette
 
-Google's search engine intelligence may be mostly artificial, but it's bootstrapped by the garbage expectations that many of its users feed into the system over time. Getting rid of nasty occupational stereotypes will require better human intelligence.. Who’s a CEO? Google image results can shift gender biases
-
-Jennifer Langston UW News
-
-Getty Images last year created a new online image catalog of women in the workplace – one that countered visual stereotypes on the Internet of moms as frazzled caregivers rather than powerful CEOs.
-
-A new University of Washington study adds to those efforts by assessing how accurately gender representations in online image search results for 45 different occupations match reality.
-
-In a few jobs — including CEO — women were significantly underrepresented in Google image search results, the study found, and that can change searchers’ worldviews. Across all the professions, women were slightly underrepresented on average.
-
-The study also answers a key question: Does the gender ratio in images that pop up when we type “author,” “receptionist” or “chef” influence people’s perceptions about how many men or women actually hold those jobs?
-
-Read about another of Munson’s CHI 2015 papers on making public exercise commitments on Facebook
-
-In a paper to be presented in April at the Association for Computing Machinery’s CHI 2015 conference in South Korea, researchers from the UW and the University of Maryland, Baltimore County found that manipulated image search results could determine, on average, 7 percent of a study participant’s subsequent opinion about how many men and women work in a particular field, compared with earlier estimates.
-
-“You need to know whether gender stereotyping in search image results actually shifts people’s perceptions before you can say whether this is a problem. And, in fact, it does — at least in the short term,” said co-author Sean Munson, UW assistant professor of human centered design and engineering.
-
-The study first compared the percentages of women who appeared in the top 100 Google image search results in July 2013 for different occupations — from bartender to chemist to welder — with 2012 U.S. Bureau of Labor statistics showing how many women actually worked in that field.
-
-In some jobs, the discrepancies were pronounced, the study found. In a Google image search for CEO, 11 percent of the people depicted were women, compared with 27 percent of U.S. CEOs who are women. Twenty-five percent of people depicted in image search results for authors are women, compared with 56 percent of actual U.S. authors.
-
-By contrast, 64 percent of the telemarketers depicted in image search results were female, while that occupation is evenly split between men and women.
-
-Yet for nearly half of the professions – such as nurse practitioner (86 percent women), engineer (13 percent women), and pharmacist (54 percent women) — those two numbers were within five percentage points.
-
-“I was actually surprised at how good the image search results were, just in terms of numbers,” said co-author Matt Kay, a UW doctoral student in computer science and engineering. “They might slightly underrepresent women and they might slightly exaggerate gender stereotypes, but it’s not going to be totally divorced from reality.”
-
-When the researchers asked people to rate the professionalism of the people depicted in top image search results, though, other inequities emerged. Images that showed a person matching the majority gender for a profession tended to be ranked by study participants as more competent, professional and trustworthy. They were also more likely to choose them to illustrate that profession in a hypothetical business presentation.
-
-By contrast, the image search results depicting a person whose gender didn’t match an occupational stereotype were more likely to be rated as provocative or inappropriate.
-
-“A number of the top hits depicting women as construction workers are models in skimpy little costumes with a hard hat posing suggestively on a jackhammer. You get things that nobody would take as professional,” said co-author Cynthia Matuszek, a former UW doctoral student who is now an assistant professor of computer science and electrical engineering at University of Maryland, Baltimore County.
-
-Most importantly, researchers wanted to explore whether gender biases in image search results actually affected how people perceived those occupations.
-
-They asked study volunteers a series of questions about a particular job, including how many men and women worked in that field. Two weeks later, they showed them a set of manipulated image search results and asked the same questions.
-
-Exposure to the skewed image search results did shift their estimates slightly, accounting for 7 percent of those second opinions. The study did not test long-term changes in perception, but other research suggests that many small exposures to biased information over time can have a lasting effect on everything from personal preconceptions to hiring practices.
-
-The measured effect raises interesting questions, the researchers say, about whether search image algorithms should be changed to help counter occupational stereotypes.
-
-“Our hope is that this will become a question that designers of search engines might actually ask,” Munson said. “They may come to a range of conclusions, but I would feel better if people are at least aware of the consequences and are making conscious choices around them.”
-
-For more information, contact Munson, Kay and Matuszek at careerimagesearch@uw.edu.
-
-Source note: Images are from Google searches conducted in April 2015. Cited percentages of women depicted in top 100 search results are from Google searches conducted in July 2013, and percentages of women actually working in a profession come from 2012 U.S. Bureau of Labor Statistics.. Try this: Google image "CEO." Notice anything? The first female Google image search result for "CEO" appears TWELVE rows down—and it's Barbie.
-
-A recent study conducted at the University of Washington sought to examine how well female representation in online search results reflected reality—and, subsequently, how impressions in search results could, in turn, impact the way that people perceive how women are represented in industry, in real life.
-
-"You need to know whether gender stereotyping in search image results actually shifts people's perceptions before you can say whether this is a problem," UW assistant professor of human-centered design and engineering says. "And, in fact, it does—at least in the short term."
-
-How skewed—and how much does it skew perceptions, then, that the first female image result in Google for "CEO" is Barbie, appearing 12 rows (and two page scrolls) down?
-
-The study first compared the percentages of women who appeared in the top 100 Google image search results in July 2013 for different occupations—from bartender to chemist to welder—with 2012 U.S. Bureau of Labor statistics showing how many women actually worked in that field.
-
-In some jobs, the discrepancies were pronounced, the study found. In a Google image search for CEO, 11 percent of the people depicted were women, compared with 27 percent of U.S. CEOs who are women.
-
-Twenty-five percent of people depicted in image search results for authors are women, compared with 56 percent of actual U.S. authors.
-
-By contrast, 64 percent of the telemarketers depicted in image search results were female, while that occupation is evenly split between men and women.
-
-Researchers found that around seven percent of test subjects shown skewed search results shifted their estimates of how many women and men are employed in different industries—"Small exposures to biased information over time can have a lasting effect on everything from personal preconceptions to hiring practices," the study reports.
-
-What do you think about this? Are there other industries and/or job titles you've noticed this happen in? Tell us in the comments below.. The search engine creates a feedback loop that influences the way people see the world, a new study finds.
+Google's search engine intelligence may be mostly artificial, but it's bootstrapped by the garbage expectations that many of its users feed into the system over time. Getting rid of nasty occupational stereotypes will require better human intelligence.. The search engine creates a feedback loop that influences the way people see the world, a new study finds.
 
 Google is a modern oracle, and a miraculous one at that. It can lead you to the Perfect Strangers theme song lyrics, or to a satellite image of your childhood neighborhood, or to a blueprint for building a quantum computer. But for as much as it is a portal to the world's knowledge, and despite its inherently aspirational functionality, Google searches are also a reflection of the status quo.
 

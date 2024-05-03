@@ -1,4 +1,40 @@
-Apple FaceID Hacked
+The release of the iPhone X earlier this month included a new facial recognition security feature called Face ID. Designed to replace the iPhone’s Touch ID feature, Face ID uses face-based authentication via infrared screening to identify the user and provide access to the iPhone X as well as authorize purchases via Apple Pay. Banks are starting to utilize this feature as well.
+
+Apple said Face ID uses 30,000 points of reference to map out a user’s face, making the likelihood that the feature could be fooled extremely low, but recently, a Vietnamese company called Bkav has circumvented this technology with a mask made from 3-D parts. This development spells out what may only be the beginning of a string of potential flaws surrounding this new feature. So should business users be worried?
+
+“Apple’s facial recognition was never intended to be a security measure for strong authentication,” said Josh Mayfield, director of product marketing at FireMon. “Strong authentication cannot be faked, gamed, or manipulated. Apple’s facial recognition begins with the opening assumption that the user gazing at the screen is likely to be the correct user. From there, the recognition system only seeks to confirm its assumption…never to seek to prove its assumption wrong.”
+
+SEE: Mobile device computing policy (Tech Pro Research)
+
+Paul Norris, senior systems engineer at Tripwire, stated that hacks like the one Bkav carried out take a great deal of time and effort. “Detailed dimensions would have had to be taken to create the mask and the security firm alluded to the fact that they had to use a special material on the mask too,” he said. “What they didn’t disclose was how many attempts and what level of effort it took to get the mask to work flawlessly.” Norris also pointed out that certain security details built into Apple’s Face ID can mitigate risk. Five failed attempts to authenticate users via facial means will force the user to enter a passcode, which is required for Face ID to function. In addition, the passcode must be entered when the device:
+
+Has just been turned on or restarted
+
+Hasn’t been unlocked via Face ID in the last four hours
+
+Hasn’t been unlocked via the passcode in the past six and a half days
+
+Hasn’t been unlocked at all for more than 48 hours
+
+Has received a remote lock command
+
+Has initiated the Emergency SOS function
+
+Terry Ray, CTO of cybersecurity firm Imperva, pointed out that Apple concedes that a user’s twin or other close family member could look similar enough to a user to trigger a false positive. Worse, researchers have been able to brute force facial authentication in the past.
+
+SEE: Special report: Cybersecurity in an IoT and mobile world (free PDF) (TechRepublic)
+
+Ray said that false negatives can happen too. If the owner of the phone undergoes a notable appearance change – such as shaving a beard or getting a drastically different haircut, then Face ID could fail to authenticate and the passcode will be required in order to set up Face ID again to match the user’s updated looks.
+
+However, said Ray, “The average consumer is probably not at risk from a facial recognition attack or a false positive authorization, unless of course, they possess a devious identical twin,”
+
+A hack like the one Bhav pulled off would cost about $150 in 3D supplies, which is not financially crippling to a potential attacker but also not something not likely to be invested in on a widescale basis. It would also require access to the phone itself, at which point some physical security would have already been compromised. Finally, the mask would have to be authentic enough to unlock the phone within five attempts inside a 48-hour time window.
+
+“Is the value in one phone worth this effort?” said Ray. “Probably to someone with a particular agenda, but not likely an issue for most users.”
+
+Ray said that a common question in the security realm is whether the technology being considered is good and easy enough for your purposes: “Nothing is perfect and the right technology is one you feel comfortable to use and one that keeps you acceptably secure.”
+
+Also see:. Apple FaceID Hacked
 
 It only took a week:
 
@@ -10,38 +46,4 @@ I don’t think this is cause for alarm, though. Authentication will always be a
 
 FAQ from the researchers.
 
-Posted on November 15, 2017 at 6:54 AM • 46 Comments. “It is quite hard to make the "correct" mask without certain knowledge of security,” a Bkav blog post states. “We were able to trick Apple's AI, because we understood how their AI worked and how to bypass it.”. Apple's new Face ID unlock system on the iPhone X can reportedly be tricked with paper eyes and pizza toppings.
-
-Yes, you read that correctly, but let us explain. Life-size eyes printed onto paper, then placed on the face of a 'sleeping' iPhone X owner, who had their phone nearby, were enough to bypass Face ID — at least according to a new video from FaceTec, a biometric security company pushing out its own facial recognition app, Zoom.
-
-FaceTec conducted its short experiment, pushing the concept a step further, placing various pizza toppings on the iPhone owner's face. Black olives on top of slices of mushrooms (instead of the paper eyes) also appeared to unlock Face ID, and so did a pair of bottle caps, although that took multiple attempts.
-
-The company says this works, even when an iPhone X setting called 'Require Attention for Face ID' is switched on. This extra level of security is designed to prevent the iPhone from unlocking when the owner is not looking at it.
-
-Unlike Face ID and other facial recognition systems, Zoom is meant to map your face from one distance, then a second, closer distance. This requires users to hold the phone steady, then move it towards them and hold it steady again — zooming in, hence the name. ZoOm uses the front-facing camera of an iPhone or Android device to scan the owner's face, which is stored as an encrypted data file (a "facemap") in the devices secure zone, and used for future authentication.
-
-GearBrain tried out Zoom, and while it works quickly and reliably, we found the offset location of the Google Pixel 2 XL's front camera made zooming in on our face tricky at first. That being said, the app was not phased by difficult lighting conditions, and we can see the appeal to financial companies looking to employ biometric security that claims to work on "five billion" smartphones worldwide — in other words, every device with a front camera.
-
-The Zoom app seen here is only a demonstration of how the San Diego-based FaceTec's technology works, but the company says its unlocking system has been shipping to developers for several months now, and will appear in banking applications soon. Zoom integration is free for small businesses and nonprofits, but is charged on a per active user, per year basis for enterprise-level customers.
-
-
-
-Zoom claims to be more secure than Face ID, by using just one camera FaceTec demo app via App Store
-
-Naturally, FaceTec has said little about how its system works, but claiming to have one up on Face ID, Touch ID and other systems like Samsung's iris scanner is a bold move for a startup. Zoom is "the only mobile biometric that cannot be spoofed by photos or videos, making it far more secure than legacy biometrics, including fingerprint, 2D face recognition and even eye scans," the developers say.. Hackers may have already proven that Face ID isn’t quite as secure as secure as Apple claims.
-
-Using a simple 3D printed mask, Vietnamese security firm Bkav, has posted a video showing an iPhone X being unlocked after unveiling a composite 3D-printed mask made of plastic, makeup, silicone and paper cutouts for some facial features.
-
-Bkav detailed how it hacked Face ID in a blog post but has not publicly demonstrated the process yet. It also hasn’t been confirmed by a third-party yet. Normal iPhone X users shouldn’t really be alarmed either because for now it requires a lot of time to 3D scan your face. Still, Bkav says it shows Face ID is less secure than Touch ID.
-
-“Apple has done this not so well,” wrote Bkav. “Face ID can be fooled by mask, which means it is not an effective security measure.”
-
-Fooling Face ID
-
-The mask used by the hackers consisted of a 3D-printed frame of the victim’s face. They then attached a sculpted silicone nose, two-dimensional eyes and lips printed on papers. It’s a much simpler solution than the Hollywood-quality masks commissioned by WIRED that had much more detailed hair and facial features that failed to trick Face ID.
-
-“The recognition mechanism is not as strict as you think,” wrote Bkav. “We just need a half face to create the mask. It was even simpler than we ourselves had thought.”
-
-Even though Bkav claims to have beat Face ID, there’s still a lot of questions on how legitimate the hack is. It’s still unclear how the phone was registered and trained on the owner’s real face. To pull off the hack you need access to 3D scan the person’s face for 5 minutes.
-
-Bkav said it made four masks that failed to unlock Face ID and then got it right on the fifth attempt. Billionaires and top CEOS could be potential targets of the hack, but most iPhone X owners have nothing to worry about.
+Posted on November 15, 2017 at 6:54 AM • 46 Comments

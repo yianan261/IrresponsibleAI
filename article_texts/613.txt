@@ -1,0 +1,44 @@
+Getty Images is suing the creators of AI art tool Stable Diffusion for scraping its content
+/ Getty Images claims Stability AI ‘unlawfully’ scraped millions of images from its site. It’s a significant escalation in the developing legal battles between generative AI firms and content creators.
+By James Vincent, a senior reporter who has covered AI, robotics, and more for eight years at The Verge.
+
+Jan 17, 2023, 2:30 AM PST
+Share this story
+
+
+
+18 Comments18 New
+
+Getty Images is suing Stability AI, creators of popular AI art tool Stable Diffusion, over alleged copyright violation.
+
+In a press statement shared with The Verge, the stock photo company said it believes that Stability AI “unlawfully copied and processed millions of images protected by copyright” to train its software and that Getty Images has “commenced legal proceedings in the High Court of Justice in London” against the firm.
+
+Getty Images CEO Craig Peters told The Verge in an interview that the company has issued Stability AI with a “letter before action” — a formal notification of impending litigation in the UK. (The company did not say whether legal proceedings would take place in the US, too.)
+
+“We’re taking an action to protect our and our contributors’ intellectual property rights.”
+
+“The driver of that [letter] is Stability AI’s use of intellectual property of others — absent permission or consideration — to build a commercial offering of their own financial benefit,” said Peters. “We don’t believe this specific deployment of Stability’s commercial offering is covered by fair dealing in the UK or fair use in the US. The company made no outreach to Getty Images to utilize our or our contributors’ material so we’re taking an action to protect our and our contributors’ intellectual property rights.”
+
+When contacted by The Verge, a press representative for Stability AI, Angela Pontarolo, said the “Stability AI team has not received information about this lawsuit, so we cannot comment.”
+
+The lawsuit marks an escalation in the developing legal battle between AI firms and content creators for credit, profit, and the future direction of the creative industries. AI art tools like Stable Diffusion rely on human-created images for training data, which companies scrape from the web, often without their creators’ knowledge or consent. AI firms claim this practice is covered by laws like the US fair use doctrine, but many rights holders disagree and say it constitutes copyright violation. Legal experts are divided on the issue but agree that such questions will have to be decided for certain in the courts. (This past weekend, a trio of artists launched the first major lawsuit against AI firms, including Stability AI itself.)
+
+Related
+The scary truth about AI copyright is nobody knows what will happen next
+Getty Images CEO Peters compares the current legal landscape in the generative AI scene to the early days of digital music, where companies like Napster offered popular but illegal services before new deals were struck with license holders like music labels.
+
+“We think similarly these generative models need to address the intellectual property rights of others, that’s the crux of it,” said Peters. “And we’re taking this action to get clarity.” 
+
+Although the creators of some AI image tools (like OpenAI) refuse to disclose the data used to create their models, Stable Diffusion’s training dataset is open source. An independent analysis of the dataset found that Getty Images and other stock image sites constitute a large portion of its contents, and evidence of Getty Images’ presence can be seen in the AI software’s tendency to recreate the company’s watermark, as in the example image below:
+Although companies like Stability AI deny any legal or ethical hazard in creating their systems, they have still begun making concessions to content creators. Stability AI says artists will be able to opt-out of the next version of Stable Diffusion, for example. In a recent tweet about the company’s training datasets, Stability AI CEO Emad Mostaque said “I believe they are ethically, morally and legally sourced and used,” before adding: “Some folks disagree so we are doing opt out and alternate datasets/models that are fully cc.”
+The full details of Getty Images’ lawsuit have not yet been made public, but Peters said that charges include copyright violation and violation of the site’s terms of service (in particular, web scraping). Andres Guadamuz, an academic specializing in AI and intellectual property law at the UK’s University of Sussex, told The Verge it seemed like the case would have “more merit” than other existing AI lawsuits, but that “the devil will be in the details.”
+
+When asked what remedies against Getty Images would be seeking from Stability AI, Peters said the company was not interested in financial damages or stopping the development of AI art tools, but in creating a new legal status quo (presumably one with favorable licensing terms for Getty Images).
+
+“I don’t think it’s about damages and it’s not about stopping the distribution of this technology,” Peters told The Verge. “I think there are ways of building generative models that respect intellectual property. I equate [this to] Napster and Spotify. Spotify negotiated with intellectual property rights holders — labels and artists — to create a service. You can debate over whether they’re fairly compensated in that or not, but it’s a negotiation based of the rights of individuals and entities. And that’s what we’re looking for, rather than a singular entity benefiting of the backs of others. That’s the long term goal of this action.”
+
+The full press statement from Getty Images is as follows:
+
+Earlier today, Getty Images commenced legal proceedings in the High Court of Justice in London against Stability AI claiming Stability AI infringed intellectual property rights including copyright in content owned or represented by Getty Images. It is Getty Images’ position that Stability AI unlawfully copied and processed millions of images protected by copyright and the associated metadata owned or represented by Getty Images absent a license to benefit Stability AI’s commercial interests and to the detriment of the content creators. 
+
+Getty Images believes artificial intelligence has the potential to stimulate creative endeavors. Accordingly, Getty Images provided licenses to leading technology innovators for purposes related to training artificial intelligence systems in a manner that respects personal and intellectual property rights. Stability AI did not seek any such license from Getty Images and instead, we believe, chose to ignore viable licensing options and long-standing legal protections in pursuit of their stand-alone commercial interests.

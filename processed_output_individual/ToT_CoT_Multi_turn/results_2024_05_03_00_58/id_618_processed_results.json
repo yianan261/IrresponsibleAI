@@ -1,0 +1,31 @@
+{
+    "618": {
+        "Country": "Worldwide",
+        "State": "Virginia",
+        "City": "Vienna",
+        "Continent": "Worldwide",
+        "Company": "Navy Federal Credit Union",
+        "Company city": "Vienna",
+        "Company state": "Virginia",
+        "Affected population": [
+            "Black and Latino borrowers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ],
+            "Human Incompetence": [
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Mortgage lending",
+        "Online": "No"
+    }
+}

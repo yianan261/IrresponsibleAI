@@ -1,201 +1,57 @@
-Welcome to the new age of academic dishonesty.
+. Stanford students and professors alike are grappling with the rise of ChatGPT, a chatbot powered by artificial intelligence, and the technology’s implications for education.
 
-A college professor in South Carolina is sounding the alarm after catching a student using ChatGPT — a new artificial intelligence chat bot that can quickly digest and spit out written information about a vast array of subjects — to write an essay for his philosophy class.
+Some professors have already overhauled their courses in anticipation of how students might use the chatbot to complete assignments and exams. And according to an informal poll conducted by The Daily, a large number of students have already used ChatGPT on their final exams.
 
-The weeks-old technology, released by OpenAI and readily available to the public, comes as yet another blow to higher learning, already plagued by rampant cheating.
+Whether the new technology will necessitate a revision of the Honor Code, the University’s standards for academic integrity, remains to be seen: A University spokesperson confirmed that the Board of Judicial Affairs is aware of and monitoring these emerging tools.
 
-3 The bot software ChatGPT is a cause of concern in academia. Getty Images/iStockphoto
+“Students are expected to complete coursework without unpermitted aid,” wrote spokesperson Dee Mostofi. “In most courses, unpermitted aid includes AI tools like ChatGPT.”
 
-“Academia did not see this coming. So we’re sort of blindsided by it,” Furman University assistant philosophy professor Darren Hick told The Post. “As soon as I reported this on Facebook, my [academic] friends said, ‘Yeah, I caught one too.'”
+The chatbot was created by San Francisco-based artificial intelligence company OpenAI and launched in November. Stanford dropout Sam Altman is among the company’s co-founders.
 
-Earlier this month, Hick had instructed his class to write a 500-word essay on the 18th-century philosopher David Hume and the paradox of horror, which examines how people can get enjoyment from something they fear, for a take-home test.
+When OpenAI released the tool, it quickly took off, attracting over a million users in under a week and drawing widespread attention for its ability to generate almost any level of text-based fodder using technology from a field of machine learning called natural language processing. It not only acts as a robotic study buddy, but can also write lengthy essays on almost any subject and generate ideas and outlines for projects.
 
-But one submission, he said, featured a few hallmarks that “flagged” AI usage in the student’s “rudimentary” answer.
+For example, when asked for a “witty opening paragraph for a Stanford Daily article about ChatGPT and the Stanford Honor Code,” the chatbot produced the following:
 
-“It’s a clean style. But it’s recognizable. I would say it writes like a very smart 12th-grader,” Hick said of ChatGPT’s written responses to questions.
+“ChatGPT, a popular artificial intelligence tool, has recently sparked a debate on campus about its role in academic integrity. Some argue that using ChatGPT to complete assignments is a violation of the Honor Code, while others claim it’s simply a tool for idea generation. The question remains: is ChatGPT a helpful helper or a dishonest cheat? One thing is for certain: the stakes are high, and the future of AI at Stanford hangs in the balance.”
 
-“There’s particular odd wording used that was not wrong, just peculiar … if you were teaching somebody how to write an essay, this is how you tell them to write it before they figure out their own style.”
+The power of the technology to instantaneously generate swaths of human-like text has frightened some educators across the country.
 
-Despite having a background in the ethics of copyright law, Hick said proving that the paper was concocted by ChatGPT was nearly impossible.
+Among other districts that have cracked down on its use, New York City’s education department has blocked the site on its networks, citing “concerns about negative impacts on student learning, and concerns regarding the safety and accuracy of content,” according to education department spokesperson Jenna Lyle in a statement to Chalkbeat New York.
 
-3 Assistant professor Darren Hick fears what ChatGPT will do to academic honesty. courtesy of Darren Hick
+Awareness of the technology has also reached Stanford’s faculty, confirmed Mostofi, the University spokesperson. Mostofi, citing a recent story in the Stanford Report featuring faculty weighing in on ChatGPT, wrote, “Many Stanford faculty are highly engaged in researching new large language models and implications of AI in the learning environment.”
 
-3 Students are using ChatGPT to cheat in classes, one professor warns. NurPhoto via Getty Images
+Mostofi said student assignments will continue to be designed to “support students in developing linked thinking and writing skills,” including the drafting and revising processes, as well as citing sources.
 
-First, the professor plugged the suspect text into software made by the producers of ChatGPT to determine if the written response was formulated by AI.
+Some colleges and universities have already incorporated the new technology into their academic integrity policies. Washington University in St. Louis and University of Vermont in Burlington are among the institutions that have amended their academic integrity policies to include the usage of AI tools like ChatGPT.
 
-He was given a 99.9% likely match. But unlike in standard plagiarism detection software — or a well-crafted college paper — the software offered no citations.
+Mostofi wrote that at Stanford, conversations will soon be underway about ChatGPT and the honor code.
 
-Hick then tried producing the same essay by asking ChatGPT a series of questions he imagined his student had asked. The move yielded similar answers, but no direct matches, since the tool formulates unique responses.
+“The Board on Judicial Affairs (BJA) has been monitoring these emerging tools and will be discussing how they may relate to the guidelines of our Honor Code,” Mostofi wrote.
 
-Ultimately, he confronted the student, who copped to using ChatGPT and failed the class as a result. The undergrad was also turned over to the school’s academic dean.
+But while the University plans to discuss ChatGPT, some students have already used the tool to complete their finals, according to an anonymous poll conducted by The Daily on the social media app Fizz, which requires a stanford.edu email to join.
 
-But Hick fears that other cases will be almost impossible to prove, and that he and his colleagues will soon be inundated with fraudulent work, as universities like Furman struggle to establish formal academic protocols for the developing technology.
+According to the poll, which had 4,497 respondents (though the number may be inflated) and was open from Jan. 9 to Jan. 15, around 17% of Stanford student respondents reported using ChatGPT to assist with their fall quarter assignments and exams.
 
-For now, Hick says that the best he can do is surprise suspected students with impromptu oral exams, hoping to catch them off-guard without their tech armor.
+Of those 17%, a majority reported using the AI only for brainstorming and outlining. Only about 5% reported having submitted written material directly from ChatGPT with little to no edits, according to the poll.
 
-“What’s going to be the difficulty is that, unlike convincing a friend to write your essay because they took the class before or paying somebody online to write the essay for you, this is free and instantaneous,” he said.
+According to another informal poll conducted by The Daily on the same app, a majority of student respondents believe that the use of ChatGPT to assist with assignments is currently or should be a violation of the Honor Code. However, there is a difference in what students believe should be considered a violation.
 
-Even more frightening, Hick fears that as ChatGPT keeps learning, irregularities in its work will become less and less obvious on a student’s paper.
+The news that some students are already using ChatGPT on assignments has spread to professors, some of whom are revamping their courses as a result.
 
-“This is learning software — in a month, it’ll be smarter. In a year, it’ll be smarter,” he said. “I feel the mix myself between abject terror and what this is going to mean for my day-to-day job — but it’s also fascinating, it’s endlessly fascinating.”. Artificial intelligence has the potential to revolutionise the way students' coursework is written, but academics have called for greater controls to stop widespread cheating.
+In a message to the public computer science (CS) department Slack channel, computer science associate professor Michael Bernstein ’06 asked if any other professors had encountered homework that was generated by ChatGPT.
 
-With the use of AI, students and researchers could potentially save time and effort by allowing the technology to assist with the creation of written assignments.
+“In this case,” wrote Bernstein, “it was easy to tell because part of the submission included: ‘As a large language model trained by OpenAI…’”
 
-Another potential application of AI in academic writing is through the use of machine-learning algorithms.
+Computer science lecturer Julie Stanford BA ’98 MA ’98 added in the Slack that the student’s submission was “like robbing a bank and caring so little about being caught that you try to take a selfie with the security camera on the way out.”
 
-There needs to be an institutional policy in place for this and some education for students that this use of AI in this way is unacceptable Dr Athol Yates, Khalifa University
+Some professors on campus have recently added course policies to their syllabi cautioning against the use of ChatGPT, arguing that it is a form of plagiarism, while others have switched to more traditional methods, attempting to eliminate technology from the picture.
 
-These algorithms can be trained on a large data set of academic papers and articles, learning the characteristics and patterns of successful writing.
+One class, COMM 108: “Media Processes and Effects” has dedicated a whole section of its syllabus dedicated to the usage of AI tools. “Using Artificial Intelligence (AI) Agents (e.g., ChatGPT, StableDiffusion) to generate assignments or parts of assignments is generally discouraged. If you choose to use an AI agent for generating portions or aspects of an assignment, you must disclose this use and cite it in the same manner as you would cite any external source,” reads the syllabus.
 
-Speaking at a Khalifa University workshop with lecturers on how to detect the use of ChatGPT, a text-generating AI software launched by US company OpenAI in November, Dr Athol Yates warned against its use by students.
+In the computer science Slack, senior lecturer Keith Schwarz MS ’11 said that he has “switched back to pencil-and-paper exams,” citing concerns related to open computers that could be operating ChatGPT, even suggesting that he might consider “requiring students to leave all their backpacks and electronics at the front of the exam room.”
 
-“This is definitely already being used around the world, as students are tech savvy,” said Dr Yates, an associate professor of humanities and social science at Khalifa University.
+Stanford AI Alignment (SAIA) student leaders Gabriel Mukobi ’23 Michael Byun ’24 urged students to be wary of using ChatGPT for academic work as the tool has not been fine-tuned for use in academic settings.
 
-“It is easy to use, so if they are late for an assignment it is a simple option. It has the potential to turn us more into classroom police.
+“AI tools like ChatGPT are clearly here to stay,” the two wrote.
 
-ChatGPT already boasts more than one million users. Photo: AP
-
-“There is a need for all educational institutions to have institutional policy in place for this and some education for students that this use of AI in this way is unacceptable.”
-
-More than one million users
-
-The technology has been created by OpenAI, a San Francisco based tech-firm co-founded by Elon Musk and valued at around $29 million, according to financial reports.
-
-On December 4, just four days after its launch, ChatGPT had more than a million users.
-
-Schools in New York City have already moved to ban the technology across the district, but some schools will still be allowed to access the technology to aid their education.
-
-There are AI tools specifically designed for academic writing, such as citation management software.
-
-These tools can help students organise their sources and automatically generate citations and references in the correct formatting style.
-
-While AI has the potential to be a valuable tool in the academic writing process, academics said it should not be used as a replacement for human effort and critical thinking.
-
-Dr Athol Yates said ChatGPT uses natural language, so it is difficult to spot when it is being used. Khushnum Bhandari / The National
-
-Ultimately, the goal of using AI in academic writing should be to assist and enhance the writing process, rather than to fully automate it, they said.
-
-“It provides good quality formulaic responses, which is what we are trying to teach,” said Dr Yates
-
-“It is perfect and uses natural language, so it is difficult to spot.
-
-Read more Governments must control the rise of artificial intelligence, experts say
-
-“The lack of references is an issue, but there are ways to get around this.
-
-“Students don’t have to submit an entire response. It can be reworked and, hey presto, you have a piece of work — we need to decide if that is acceptable as we have no policy at the moment on this.”
-
-Risk of cyber attacks
-
-There is a risk that AI could be used for malicious purposes, such as cyber attacks or the spread of false information.
-
-As AI systems become more advanced, they could potentially be used to automate and amplify these activities, causing significant harm to individuals and society as a whole.
-
-Finally, the widespread adoption of AI could lead to significant job displacement, as many tasks currently performed by humans are automated.
-
-This could result in widespread unemployment and economic disruption, and it will be important for governments and businesses to address this issue and ensure that those affected are protected.
-
-Overall, while AI has the potential to bring about many benefits, it is important that careful consideration is given to address the potential dangers it poses.
-
-This will require ongoing research and collaboration between researchers, policymakers and industry professionals to ensure that the development and use of AI is responsible and ethical.
-
-Amira Al Aamri, a research scientist at Khalifa University, said she sees benefits in using ChatGPT to see the flow of ideas that it generates. Khushnum Bhandari / The National
-
-“If I was going to use ChatGPT, I would benefit from seeing the flow of ideas that it generates,” said Amira Al Aamri, a research scientist at Khalifa University.
-
-“Often, we don’t know where to start when writing, so these tools can help with that.
-
-“I am not saying it should never be used, as there are benefits, but the outcomes should not be copied and pasted.
-
-“I would want to see the process students have gone through to generate their work and this does not allow for that. That means more work for the student.
-
-“When the software develops to produce references, it will be a game changer.”
-
-This story was created was generated with ChatGPT
-
-This story has largely been created using ChatGPT. We entered 'write a news article on the dangers of artificial intelligence in the command box' and ChatGPT created a 400-word story in seconds.
-
-We added quotes from experts at Khalifa University who gave a presentation on the power of ChatGPT and its potential uses.. By clicking “Sign Up”, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.
-
-Access your favorite topics in a personalized feed while you're on the go. download the app
-
-Sign up to get the inside scoop on today’s biggest stories in markets, tech, and business — delivered daily. Read preview
-
-A few weeks after the launch of the AI chatbot ChatGPT, Darren Hick, a philosophy professor at Furman University, said he caught a student turning in an AI-generated essay.
-
-Hick said he grew suspicious when the student turned in an on-topic essay that included some well-written misinformation.
-
-After running it through Open AI's ChatGPT detector, the results said it was 99% likely the essay had been AI-generated.
-
-This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now.
-
-Antony Aumann, a religious studies and philosophy professor at Northern Michigan University, told Insider he had caught two students submitting essays written by ChatGPT.
-
-Advertisement
-
-After the writing style set off alarm bells, Aumann submitted them back to the chatbot asking how likely it was that they were written by the program. When the chatbot said it was 99% sure the essays were written by ChatGPT, he forwarded the results to the students.
-
-Both Hick and Aumann said they confronted their students, all of whom eventually confessed to the infraction. Hick's student failed the class and Aumann had his students rewrite the essays from scratch.
-
-'It was really well-written wrong'
-
-There were certain red flags in the essays that alerted the professors to the use of AI. Hick said the essay he found referenced several facts not mentioned in class, and made one nonsensical claim.
-
-"Word by word it was a well-written essay," he said, but on closer inspection, one claim about the prolific philosopher, David Hume "made no sense" and was "just flatly wrong."
-
-Advertisement
-
-"Really well-written wrong was the biggest red flag," he said.
-
-Related stories
-
-For Aumann, the chatbot just wrote too perfectly. "I think the chat writes better than 95% of my students could ever," he said.
-
-"All of a sudden you have someone who does not demonstrate the ability to think or write at that level, writing something that follows all the requirements perfectly with sophisticated grammar and complicated thoughts that are directly related to the prompt for the essay," he said.
-
-Christopher Bartel, a professor of philosophy at Appalachian State University, said that while the grammar in AI-generated essays is almost perfect, the substance tends to lack detail.
-
-Advertisement
-
-He said: "They are really fluffy. There's no context, there's no depth or insight."
-
-Hard-to-prove plagiarism
-
-If students don't confess to using AI for essays, it can leave academics in a tough spot.
-
-Bartel said that some institutions' rules haven't evolved to combat this kind of cheating. If a student decided to dig their heels in and deny the use of AI, it can be difficult to prove.
-
-Bartel said the AI detectors on offer were "good but not perfect."
-
-Advertisement
-
-"They give a statistical analysis of how likely the text is to be AI-generated, so that leaves us in a difficult position if our policies are designed so that we have to have definitive and demonstrable proof that the essay is a fake," he said. "If it comes back with a 95% likelihood that the essay is AI generated, there's still a 5% chance that it wasn't."
-
-In Hick's case, although the detection site said it was "99% certain" the essay had been generated by an AI, he said it wasn't enough for him without a confession.
-
-"The confession was important because everything else looks like circumstantial evidence," he said. "With AI-generated content, there is no material evidence, and material evidence has a lot more weight to it than circumstantial evidence."
-
-Aumann said although he thought the analysis by the chatbot would be good enough proof for disciplinary action, AI plagiarism was still a new challenge for colleges.
-
-Advertisement
-
-He said: "Unlike plagiarism cases of old where you can just say, 'hey, here's the paragraph from Wikipedia.' There is no knockdown proof that you can provide other than the chat says that's the statistical likelihood.". It’s no secret that Stanford students are some of the smartest and most driven individuals in the world. But it seems that some of these high-achieving students are taking the easy way out when it comes to exams and homework assignments.
-
-You heard that right: Stanford Students are using the language model Chat GPT to cheat on their exams and assignments. This is a clear violation of academic integrity and a disservice to the students who are relying on the technology to do their work for them.
-
-For those who are not familiar, Chat GPT is a large language model trained by OpenAI that can generate human-like text. It has become increasingly popular among students at Stanford and other universities as a way to quickly generate answers to test questions.
-
-At first, I was skeptical about the effectiveness of Chat GPT for cheating. After all, how could a machine-generated answer possibly fool a professor or teaching assistant? But as it turns out, Chat GPT is surprisingly good at generating answers that sound convincingly human.
-
-Firstly, it is obvious that using a tool like Chat GPT to complete assignments is lazy and unethical. It deprives students of the opportunity to learn and develop their own skills, and it undermines the integrity of the education system. This kind of cheating is not only unfair to the students who are studying and working hard, but it also diminishes the value of the education received. When students cheat on exams using Chat GPT, they are not learning the material, but rather just memorizing answers. This means that they are not gaining the knowledge and skills that they need to succeed in their careers
-
-In order for Stanford and the United States to maintain their positions as global leaders in education and innovation, it is essential that students are held to high standards of academic integrity. Using technology to cheat on exams is a clear violation of these standards and sets a dangerous precedent for the future.
-
-And let’s not forget: Using Chat GPT to cheat on exams and assignments undermines the specific value of a Stanford education. When students cheat, they are not only cheating themselves, their classmates, their professors and the university as a whole. This undermines the credibility and reputation of the institution, and it undermines the value of the degrees that are earned there.
-
-It's time for Stanford and other universities to take action against the use of Chat GPT for cheating on exams. One potential solution would be to implement a system that can detect when students are using Chat GPT to generate answers on exams. This could be done through a combination of algorithms and human review.
-
-In the meantime, it's up to each individual student to decide whether to use Chat GPT for cheating or to study and learn the material. As a student at Stanford, I choose to do the latter. I encourage my fellow students to do the same. Together, we can uphold the integrity of our education and ensure that we are truly learning and growing as individuals.
-
-For those of you who don’t believe the effectiveness of Chat GPT for writing essays, perhaps you would be persuaded by the fact that it actually wrote this entire article from the prompt “Write a contrarian article about Stanford students using Chat GPT to cheat.” Even this self-aware section was penned by a machine. Despite the style not fitting my usual way of writing, and the writing being a bit clunky, its readability should be a warning to professors and graders everywhere.
+A previous version of this article incorrectly stated that Elon Musk dropped out of Stanford. That portion of the article has since been removed, and The Daily regrets this error.

@@ -1,0 +1,25 @@
+{
+    "565": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "China Central Television (CCTV)",
+        "Company city": "Beijing",
+        "Company state": "",
+        "Affected population": [
+            "Residents of Maui, Hawaii"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Disinformation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Social Media Manipulation",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,31 @@
+Spam filters are efficient and uncontroversial. Until you look at them.
+by Nicolas Kayser-Bril
+An experiment reveals that Microsoft Outlook marks messages as spam on the basis of a single word, such as “Nigeria”. Spam filters are largely unaudited and could discriminate unfairly.
+
+In an experiment, AlgorithmWatch sent a few hundred emails to 10 email inboxes at Gmail, Yahoo, Outlook, GMX and LaPoste (the last two are used by millions of Germans and French, respectively). All accounts were created specifically for the experiment.
+
+The results, which are available online, show that Microsoft Outlook considers the following as spam:
+
+An internship application from a Nigerian student. The same email with the word “Nigeria” removed was delivered to the inbox.
+A description of a sex education program. The same email was delivered to the inbox after removing all instances of “sex” (but leaving just one directed the email to the spam folder).
+An excerpt from a speech by Joe Biden on student debt. Removing the words “loan”, “investment” and “billion” from a similar email resulted in its delivery in the inbox.
+Spam detectors at other providers did not display the same behavior. Outlook was the only provider where we could identify the words that triggered the spam filter.
+
+Microsoft declined to comment. It is unlikely that an Outlook engineer made an explicit rule to mark any message that contains “Nigeria” as spam. Instead, a machine learning algorithm probably identified “Nigeria” as a strong discriminator between spam and non-spam messages. Microsoft does not make the training data set of its spam filter available to researchers.
+
+SpamAssassin’s creed
+SpamAssassin is a spam filter developed by the Apache Software Foundation. It is widely used by organizations that maintain their own email servers. Unlike most commercial offerings, SpamAssassin’s code is open-source and can be reviewed.
+
+While SpamAssassin’s rules change daily, its default configuration files single out words like “Ivory Coast”, “Nigeria” or “Nigerian government” as spammy. The phrase “Oprah!”, an African-American entertainer, is listed as potentially spammy, though the rule is currently inactive.
+
+Rules are changed based on daily checks on training data submitted by users. No effort seems to be made to ensure that user-submitted data does not discriminate unfairly.
+
+User-submitted data is not available, but some of the training data sets are. SpamAssassin published a public corpus of spam and non-spam mail (which the anti-spam community calls ham) which, while over 15 years old, is still widely used. In the spam folder, 59 emails out of 1,397 are from Nigerians. In the ham folder, none are.
+
+The SpamAssassin Project Management Committee did not answer our questions but stated that problems with specific rules were managed by “the community”.
+
+White privilege
+SpamAssassin’s leadership is aware of the racism and white privilege embedded in software. In July, it announced that its next release would use “welcomelist” and “blocklist” to replace the racially-charged terms that were used until then.
+
+However, while SpamAssassin says that “[they have] a particular self-interest in attracting contributors from a diversity of cultures”, its Project Management Committee seems to be composed exclusively of white men (some members use pseudonyms and could not be verified with certainty). And at least one of its members routinely signs the emails he posts on the SpamAssassin’s mailing list with anti-feminist quotes from a far-right columnist.
+

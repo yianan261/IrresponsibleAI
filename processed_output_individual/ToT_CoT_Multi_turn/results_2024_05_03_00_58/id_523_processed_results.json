@@ -1,0 +1,27 @@
+{
+    "523": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Nuance",
+        "Company city": "Burlington",
+        "Company state": "Massachusetts",
+        "Affected population": [
+            "Australian government clients"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Voice identification",
+        "Online": "No"
+    }
+}

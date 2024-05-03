@@ -58,34 +58,4 @@ Won't be sharing my Facebook Year in Review, which "highlights" a post on a frie
 
 As for Meyer, he suggests two things Facebook, and firms like it, can do to avoid this sort of inadvertent cruelty. “First, don’t pre-fill a picture until you’re sure the user actually wants to see pictures from their year. And second, instead of pushing the app at people, maybe ask them if they’d like to try a preview—just a simple yes or no. If they say no, ask if they want to be asked again later, or never again. And then, of course, honour their choices.
 
-“It may not be possible to reliably pre-detect whether a person wants to see their year in review, but it’s not at all hard to ask politely—empathetically—if it’s something they want. That’s an easily-solvable problem. Had the app been designed with worst-case scenarios in mind, it probably would have been.”. I didn’t go looking for grief this afternoon, but it found me anyway, and I have designers and programmers to thank for it. In this case, the designers and programmers are somewhere at Facebook.
-
-I know they’re probably pretty proud of the work that went into the “Year in Review” app they designed and developed , and deservedly so — a lot of people have used it to share the highlights of their years . Knowing what kind of year I’d had, though, I avoided making one of my own. I kept seeing them pop up in my feed, created by others, almost all of them with the default caption, “It’s been a great year! Thanks for being a part of it.” Which was, by itself, jarring enough, the idea that any year I was part of could be described as great.
-
-Still, they were easy enough to pass over, and I did. Until today, when I got this in my feed, exhorting me to create one of my own. “Eric, here’s what your year looked like!”
-
-A picture of my daughter, who is dead. Who died this year.
-
-Yes, my year looked like that. True enough. My year looked like the now-absent face of my little girl. It was still unkind to remind me so forcefully.
-
-And I know, of course, that this is not a deliberate assault. This inadvertent algorithmic cruelty is the result of code that works in the overwhelming majority of cases, reminding people of the awesomeness of their years, showing them selfies at a party or whale spouts from sailing boats or the marina outside their vacation house.
-
-But for those of us who lived through the death of loved ones, or spent extended time in the hospital, or were hit by divorce or losing a job or any one of a hundred crises, we might not want another look at this past year.
-
-To show me Rebecca’s face and say “Here’s what your year looked like!” is jarring. It feels wrong, and coming from an actual person, it would be wrong. Coming from code, it’s just unfortunate. These are hard, hard problems. It isn’t easy to programmatically figure out if a picture has a ton of Likes because it’s hilarious, astounding, or heartbreaking.
-
-Algorithms are essentially thoughtless. They model certain decision flows, but once you run them, no more thought occurs. To call a person “thoughtless” is usually considered a slight, or an outright insult; and yet, we unleash so many literally thoughtless processes on our users, on our lives, on ourselves.
-
-Where the human aspect fell short, at least with Facebook, was in not providing a way to opt out. The Year in Review ad keeps coming up in my feed, rotating through different fun-and-fabulous backgrounds, as if celebrating a death, and there is no obvious way to stop it. Yes, there’s the drop-down that lets me hide it, but knowing that is practically insider knowledge. How many people don’t know about it? Way more than you think.
-
-This is another aspect of designing for crisis, or maybe a better term is empathetic design. In creating this Year in Review app, there wasn’t enough thought given to cases like mine, or friends of Chloe, or anyone who had a bad year. The design is for the ideal user, the happy, upbeat, good-life user. It doesn’t take other use cases into account.
-
-Just to pick two obvious fixes: first, don’t pre-fill a picture until you’re sure the user actually wants to see pictures from their year. And second, instead of pushing the app at people, maybe ask them if they’d like to try a preview — just a simple yes or no. If they say no, ask if they want to be asked again later, or never again. And then, of course, honor their choices.
-
-It may not be possible to reliably pre-detect whether a person wants to see their year in review, but it’s not at all hard to ask politely — empathetically — if it’s something they want. That’s an easily-solvable problem. Had the app been designed with worst-case scenarios in mind, it probably would have been.
-
-If I could fix one thing about our industry, just one thing, it would be that: to increase awareness of and consideration for the failure modes, the edge cases, the worst-case scenarios. And so I will try.
-
-Note: There is a followup to this post that clarifies my original intent, among other things.
-
-A slightly revised and updated version of this post was published at Slate.
+“It may not be possible to reliably pre-detect whether a person wants to see their year in review, but it’s not at all hard to ask politely—empathetically—if it’s something they want. That’s an easily-solvable problem. Had the app been designed with worst-case scenarios in mind, it probably would have been.”

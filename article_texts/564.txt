@@ -3,3 +3,56 @@ The problem is still new enough that there is no comprehensive accounting of how
 In Mr. Kabatznik’s case, the fraud was detectable. But the speed of technological development, the falling costs of generative artificial intelligence programs and the wide availability of recordings of people’s voices on the internet have created the perfect conditions for voice-related A.I. scams.
 
 Customer data like bank account details that have been stolen by hackers — and are widely available on underground markets — help scammers pull off these attacks. They become even easier with wealthy clients, whose public appearances, including speeches, are often widely available on the internet. Finding audio samples for everyday customers can also be as easy as conducting an online search — say, on social media apps like TikTok and Instagram — for the name of someone whose bank account information the scammers already have.
+
+It's a scam! How deepfakes and voice cloning taps into your cash
+A recent deepfake video call with what was thought to be a CFO of a company cost €23 million to an undisclosed firm in Hong Kong.
+
+Deepfake fraudulent identity verification attempts have surged by 3,000% over the past year, pointing to an emerging threat as new ways of financial scams emerge.
+
+Using false or stolen identity is the number one way of fraudulently getting into a bank account, and victims across the globe are being deprived of billions of their own hard-earned cash.
+
+Now, scammers are fooling people using the new technology of generative artificial intelligence (AI) tools that can imitate people's voices or appearances to get access to their banks accounts. 
+How do you know who to believe?
+A recent example of deepfaking (digitally manipulating videos or images) was when an amount of €23 million was transferred from one undisclosed company in Hong Kong to another (controlled by the scammers) on what was believed to be the order of the firm's chief financial officer. 
+
+Hong Kong police said the employee who carried out the transfer believed that the CFO of the company, as well as everyone else on the video call, was real. 
+
+The scam was only discovered when the employee later checked with the firm's head office. 
+
+An emerging number of reports tell tales about people receiving calls from friends and relatives asking for financial help. They sound real. They might not ask for much. But if in doubt, say experts, always hang up and call back your contact. 
+
+Another hair-raising fraudulent use of generative AI has been happening in Australia, where it AI has been used to create entire news stories and deepfake videos - often featuring a celebrity - promoting investment opportunities. The National Anti-Scam Centre had to hand out warnings that these scams cost Australians more than $8 million (€4.88 million) last year. 
+
+Similar attempts happened closer to Europe in October 2023 when deepfake videos surfaced that imitated BBC presenters who appeared to be promoting an Elon Musk investment project.
+
+In the US, the FBI's Internet Crime Complaint Center received almost 900,000 complaints last year, an increase of 22% from the previous year. The potential losses are more than $12.5 billion (€11.5 billion). Future damage could easily be higher, as experts predict a $2 billion (€1.4 billion) annual rise in identity fraud through generative AI, according to Marketwatch.
+
+Trends in financial frauds using AI
+The financial industry has reportedly witnessed a significant rise in frauds where deepfakes and machine-learning algorithms are involved. 
+
+These tools are making their way through the faking of identification, including document verification, biometric verification and data validation.
+
+Document manipulation is increasing fast with the help of improved AI tools, and biometric verification is gradually falling victim to this trend too, according to ID verification provider Onfido in their Identity Fraud Report 2024. 
+
+One way fraudsters are getting creative with biometric fraud is the use of deepfakes, including face-swapping apps. The attempts to use deepfakes in scams rose widely between 2022 and 2023.
+
+"Increasingly, fraudsters use a genuine document (obtained via data leak) for the document verification check, and then change their face for the biometric check," wrote the report. Currently, although faking biometrics is a rising trend because of the wide range of online AI tools available, more complicated aspect of faking biometrics are still not widespread. Such cases provide just over 2% of the overall fraud attempts.
+
+But generative AI and deepfake applications are growing. 
+
+According to the report, which analyses trends, a small number of fraudsters are responsible for the majority of deepfake attacks and they tend to focus on a single business at a time. Another trend suggests that, while in previous years the number of scam attempts dropped over the weekends, in 2023, they were detected consistently all seven days of the week, suggesting a global, interconnected activity. 
+
+Europe is the least favourite region for fraudsters. Average fraud rates are 3.1% for all ID verifications with the most widely used document type in such crimes being national ID cards. The French national ID card is the most popular to steal. 
+
+How AI can protect against bank fraud scams
+"The same technological tools making fraud more pervasive in banking and payments are enabling firms to meet the challenge," say experts from consulting firm McKinsey's.
+
+Through collaboration with regulators, as well as cyber security experts, cutting-edge solutions are in the making. These include real-time fraud detection and prevention, driven by AI. 
+
+One such way is for AI to analyse a large amount of data, including transactional patterns and the spending behaviour of each customer, and use machine learning to spot fraudulent attempts in the future. Identifying patterns and flagging anomalies allows swift responses to suspicious activities.
+
+Citigroup uses such tools as a part of its anti-money laundering efforts, and HSBC aims to prevent payment fraud with the help of a similar AI system. 
+
+"AI can be harnessed for the common good. Both government agencies and industries are increasingly leveraging AI and machine learning to combat fraud effectively," said the Onfido report. 
+
+They also note that AI tools are available to outsmart fake IDs, spot repeated data in fraud attempts, and double-checking signs for deepfake in biometric verification.

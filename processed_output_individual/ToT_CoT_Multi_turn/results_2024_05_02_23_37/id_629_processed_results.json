@@ -1,0 +1,25 @@
+{
+    "629": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Shein",
+        "Company city": "Guangzhou",
+        "Company state": "",
+        "Affected population": [
+            "Artists, Designers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Fashion Design",
+        "Online": "Yes"
+    }
+}

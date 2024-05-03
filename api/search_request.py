@@ -56,7 +56,8 @@ def make_request(payload):
         "https://customsearch.googleapis.com/customsearch/v1", params=payload
     )
     if response.status_code != 200:
-        raise Exception("Request failed")
+        print("Request failed")
+        return None
     return response.json()
 
 

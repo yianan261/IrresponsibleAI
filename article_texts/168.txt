@@ -36,6 +36,8 @@ The evaluation protocol considered the recommendation task as a prediction chall
 
 The results indicate a near-guarantee of popularity bias under collaborative filtering. The question, arguably, is whether this is perceived as a problem by the multi-billion dollar companies currently incorporating CF into their search algorithms.
 
+Across all four datasets studied over four popular Collaborative Filtering recommendations, each result indicates that popular media items are more likely to be recommended than unpopular offerings.
+
 The ‘Easy' Way Out
 
 

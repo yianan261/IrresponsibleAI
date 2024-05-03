@@ -1,0 +1,29 @@
+{
+    "545": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "National Eating Disorders Association (NEDA)",
+        "Company city": "White Plains",
+        "Company state": "New York",
+        "Affected population": [
+            "Individuals with eating disorders"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Emotional support",
+        "Online": "No"
+    }
+}

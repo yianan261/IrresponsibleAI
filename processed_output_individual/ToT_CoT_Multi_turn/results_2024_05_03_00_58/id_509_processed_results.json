@@ -1,0 +1,29 @@
+{
+    "509": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "National Cyber Security Centre (NCSC)",
+        "Company city": "London",
+        "Company state": "",
+        "Affected population": [
+            "General Public",
+            "Celebrities",
+            "Politicians"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Deepfake technology",
+        "Online": "No"
+    }
+}

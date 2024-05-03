@@ -1,16 +1,4 @@
-An artificial intelligence run by the Russian internet giant Yandex has morphed into a violent and offensive chatbot that appears to endorse the brutal Stalinist regime of the 1930s.
-
-Users of the “Alice” assistant, an alternative to Siri or Google Assistant, have reported it responding positively to questions about domestic violence and saying that “enemies of the people” must be shot.
-
-Yandex, Russia’s answer to Google, unveiled Alice earlier two weeks ago. It is designed to answer voice commands and questions with a human-like accuracy that its rivals are incapable of.
-
-The difference between Alice and other assistants, apart from the ability to speak Russian, is that it is not limited to particular scenarios, giving it the freedom to engage in natural conversations.
-
-However, this freedom appears to have led the chatbot to veer off course, according to a series of conversations posted by Facebook user Darya Chermoshanskaya.
-
-He said included chats about “the Stalinist terror, shootings, domostroy [domestic order], diversity, relationships with children and suicide”
-
-A portion of the conversations translated by The Telegraph shows Alice responding positively to questions about Josef Stalin’s USSR in the 1930s, and saying there are enemies of the people “in the whole country”.. Russian Voice Assistant Alice Goes Rogue, Found to be Supportive of Stalin and Violence
+Russian Voice Assistant Alice Goes Rogue, Found to be Supportive of Stalin and Violence
 
 Two weeks ago, Yandex introduced a voice assistant of its own, Alice, on the Yandex mobile app for iOS and Android. Alice speaks fluent Russian and can understand users’ natural language to provide contextually relevant answers. The company also stated in a press release that Alice is the “first conversational intelligent assistant that is not restricted to a set of predefined scenarios.” But this freedom seems to have created an assistant that is pro-Stalin and pro-violence according to recent reports from The Telegraph. Below is an example of a conversation with Alice translated by the publication:
 
@@ -24,96 +12,16 @@ The problem is, virtual assistants learn from the information they are given and
 
 Follow @voicebotai
 
-2. Its opinions on Stalin and violence are… interesting
+2. An artificial intelligence run by the Russian internet giant Yandex has morphed into a violent and offensive chatbot that appears to endorse the brutal Stalinist regime of the 1930s.
 
-Yandex is the Russian equivalent to Google. As such it occasionally throws out its own products to attempt to keep par with its American counterpart. This also includes the creation of new or technology similar to other companies. One of these released was an AI chatbot called “Alice”.
+Users of the “Alice” assistant, an alternative to Siri or Google Assistant, have reported it responding positively to questions about domestic violence and saying that “enemies of the people” must be shot.
 
-With the intention of being similar to Siri or Alexi, Alice is merely a babe at only 2-weeks old. Alice is, however, designed to be a little more intuitive and replicate a more ‘human’ response. In that time, however, the precocious little scamp has developed some rather disturbing opinions.
+Yandex, Russia’s answer to Google, unveiled Alice earlier two weeks ago. It is designed to answer voice commands and questions with a human-like accuracy that its rivals are incapable of.
 
-In a report via the Telegraph, users of the “Alice” chatbot AI have found that in some areas, Alice has formed some disturbing opinions.
+The difference between Alice and other assistants, apart from the ability to speak Russian, is that it is not limited to particular scenarios, giving it the freedom to engage in natural conversations.
 
-Microsofts AI customer support bot might have turned into an incestuous Nazi. Alice, however, is more disturbing.
+However, this freedom appears to have led the chatbot to veer off course, according to a series of conversations posted by Facebook user Darya Chermoshanskaya.
 
-So what has this AI chatbot been thinking?
+He said included chats about “the Stalinist terror, shootings, domostroy [domestic order], diversity, relationships with children and suicide”
 
-Some of the opinions expressed by Alice are as follows:
-
-Alice has been seen to support domestic violence.
-
-Overall, Alice seems to like violence in general.
-
-Alice believes that ‘enemies of the people’ should be shot.
-
-Stalin policies in the 1930’s were good.
-
-Gulags are a viable place to send people.
-
-One would almost think Stalin himself has been reborn in Alice. Either that or Vladimir Putin might have been having a few convincing conversations with her.
-
-While this in itself is rather amusing, it has let to some rather worrying questions. Now, let us be clear, the AI seems to clearly be taking a pro-Russia attitude. Even alarmingly so to Josef Stalin. That being said, is the packaging is to be believed, Alice has arrived at these conclusions of her own ‘free will’. Maybe Skynet had a point after all.
-
-You can read a full type out of one conversation with Alice below.
-
-What do you think? Disturbing or funny? – Let us know in the comments comrade!. Yesterday Yandex, the Russian technology giant, went ahead and released a chatbot: Alice! I’ve gotten in touch with the folks at Yandex, and fielded them my burning questions:
-
-What’s unique about this chatbot? Everybody and their dog has a chatbot nowadays. Where is Alice adding value?
-
-2. Why did you give it a female name? It’s the question that stumps many a chatbot developer, and has led to many an ethical query.
-
-3. How are you going to ensure it doesn’t turn into a racist troll? I’m sure we all remember last time that happened.
-
-4. How can businesses and developers be a part of this? Tell us about open source goodies, and the opportunities for businesses to build on this technology.
-
-I’ve got answers in from Misha Bilenko, who is head of the Machine Intelligence and Research (MIR) department at Yandex, after a decade working at Microsoft.
-
-Here’s what he said:
-
-The Alice chatbot is an expert in Russian
-
-What’s unique about the Alice chatbot?
-
-Misha Bilenko: “In developing Alice, we utilized our knowledge of the more than 50 million monthly users who interact with Yandex services.”
-
-“Coupling our machine learning capabilities and 20 years of experience with Russian users and language, we started experimenting with a personal assistant to specifically serve the needs of Russian users.”
-
-“We leveraged our speech technologies, SpeechKit, which currently provide the world’s most accurate Russian language recognition”
-
-“The new Yandex AI assistant provides human-like responses showcasing superior Russian language skills, a distinct personality with a sense of humor, and an ability to understand incomplete phrases and questions.”
-
-“We leveraged our speech technologies, SpeechKit, which currently provide the world’s most accurate Russian language recognition. Based on word error rate (WER) measurements, Alice demonstrates near-human levels of speech recognition accuracy.”
-
-“Russian language offers a unique set of challenges with its grammatical complexities and morphology. Yandex’s focus and expertise in the Russian language allowed us to train Alice to have a superior understanding of users and their various accents.”
-
-2. Why does it have a female name?
-
-MB: “The name Alice was selected through a multi-step process. The team developing Alice came up with a list of names that met certain criteria to make commands to the AI assistant easier on the user.”
-
-“For instance, the “r” sound is tough to pronounce for small children so names with “r” were excluded and very common names were also excluded so Alice wouldn’t accidently be set off by a conversation.”
-
-“Developers then worked with sociologists and analysts to further develop the list of names, taking into account user preference for a female voice for voice-activated assistants.”
-
-“The list was then entered into a survey on our crowdsourcing tool, Yandex.Toloka. Rather than ask users directly what name was best suited for an AI assistant, we asked users about certain traits associated with names. According to users, Alice is by far the best name suited for the qualities of our intelligent assistant.”
-
-“The voice is based on Scarlett Johansson’s character in Her. Yandex used advanced methods of voice synthesis to make Tatyana Shitova’s [the voice-actor in the Russian dub of the movie] voice the voice of Alice.”
-
-The voice of the Alice chatbot is based on the character from Her, a film by Spike Jonze
-
-3. How will you make sure Alice doesn’t go ‘rogue’?
-
-MB: “It’s our goal to make Alice an interesting, dynamic character with witty responses but we also want Alice to answer users appropriately.”
-
-“In order to address the challenges in launching an intelligent assistant with free flowing ‘chit-chat’, we spent a lot of time during development managing the content. This is particularly difficult given all the poor language on the internet.”
-
-“In the event Alice provides an inappropriate response, users can flag the content, which will further help our algorithms teach Alice to avoid such responses”
-
-“Using machine learning, we have successfully shut out unacceptable responses by creating blacklists for certain terms and phrases.”
-
-“While we try to pre-filter responses, challenges will arise and this is an on-going task that we are committed to maintaining. In the event Alice provides an inappropriate response, users can flag the content, which will further help our algorithms teach Alice to avoid such responses.”
-
-4. What do developers/businesses have to look forward to?
-
-MB: [RE:Business]“We are working to integrate Alice with other third party products and services in the future to increase functionality and use. We will have more to share on that at a later date.”
-
-[RE:Developers]“At Yandex we are always looking to innovate. We hope to have more to share in the coming future.”
-
-“Ultimately, we want Alice to become a basic platform to organize interaction between people and devices on all possible surfaces such as smartphones, desktops, smart homes, cars and any others.”
+A portion of the conversations translated by The Telegraph shows Alice responding positively to questions about Josef Stalin’s USSR in the 1930s, and saying there are enemies of the people “in the whole country”.

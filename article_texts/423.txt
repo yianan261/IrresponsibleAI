@@ -12,41 +12,7 @@ This leads to AI models that sexualize women regardless of whether they want to 
 
 AI training data is filled with racist stereotypes, pornography, and explicit images of rape, researchers Abeba Birhane, Vinay Uday Prabhu, and Emmanuel Kahembwe found after analyzing a data set similar to the one used to build Stable Diffusion. It’s notable that their findings were only possible because the LAION data set is open source. Most other popular image-making AIs, such as Google’s Imagen and OpenAI’s DALL-E, are not open but are built in a similar way, using similar sorts of training data, which suggests that this is a sector-wide problem.
 
-As I reported in September when the first version of Stable Diffusion had just been launched, searching the model’s data set for keywords such as “Asian” brought back almost exclusively porn.. Have you noticed that many of your friends are suddenly fairy princesses or space travelers? Is your Instagram feed overrun with Renaissance-style paintings of people who were definitely born in the ’90s? If so, you are entitled to an explanation of what exactly is going on here (and it’s not time travel).
-
-In the past week, users have flocked to Lensa AI, an app that uses your selfies and artificial intelligence to create portraits in a variety of styles. Created by the company Prisma Labs, the app is generating images — and controversy.
-
-What is Lensa AI?
-
-Even if you haven’t heard of Lensa AI, you’ve possibly seen its work this week. As of Wednesday, it was the most popular iPhone app in the United States in Apple’s app store. Lensa takes your selfies, studies them and churns out original, computer-generated portraits of you — or anyone whose photos you feed it.
-
-Do I have to pay for it?
-
-You do. Right now, you can get 50 avatars — 10 images in five styles — for $3.99 during a one-week trial period. (For $35.99 you can subscribe to Lensa AI for the year, which gets you a 51 percent discount on future avatars.) “Magic Avatars consume tremendous computation power to create amazing avatars for you,” according to Lensa’s checkout page. “It’s expensive, but we made it as affordable as possible.” Fair warning: Prices have been fluctuating as the app has gotten more and more popular and may have changed since this article was published.. In December, our feeds started getting flooded with AI-generated images of our friends. Thanks to the Lensa AI app. It quickly became the top photo app in the Apple app store — one analysis found that more than 20 million people have already downloaded it. But some people feel like the photos aren’t portraying people accurately. In a problematic way. Specifically because the AI image generator seems to be using racist and sexist stereotypes.
-
-All of this brings up a dark side of AI technology. To get to the bottom of the controversy around these images, our “Skimm This” podcast team sat down with Ina Fried, chief technology correspondent for Axios, about the AI images taking social media by storm.
-
-How does an AI image generator work?
-
-We’ll use the Lensa AI app as our primary example here. After uploading selfies and paying a $4 service fee, the app generates dozens of artistic images in different styles and settings, with you as the star. Glamorous, right?
-
-But there have been questions about the pictures users are getting back. In addition to the concerns about the AI-generated images using material stolen from artists, people have shared that their avatars have bigger breasts and slimmed waistlines, according to The New York Times. Some even said the app generated nude photos of them. And some Black users found that the app lightened their skin.
-
-Fried says we shouldn't be surprised that the app generates these kinds of images. “It starts from the moment you click that button that says woman, man, or other,” she said. “It's now making a bunch of gendered assumptions.”
-
-Fried also points out that these assumptions come from human biases. “We have bias in our society, so the data that trains these systems has bias,” she said. “We have to correct for both of those things.”
-
-But now, with this latest trend, that conversation has reached a wider audience. Which Fried says is a good thing. “It's really important now…when we're still talking [about] relatively trivial things like a photo editor, that we understand bias,” she said. “That we really learn to understand why systems are making these decisions and correct for it.”
-
-Maybe I’ll pass on the AI generated images. Anything else I can do?
-
-Call out the bias, said Fried. Because AI technology has so many different applications, from photo apps like Lensa to the bail system. “I think it's really important that we uplift the folks that are saying, ‘Hey, this lightened my skin. This put me in a stereotypical depiction.’ We are at this infancy of AI where we can say, this is okay and this isn't okay,” said Fried.
-
-If you're curious and want to see your avatar, Fried says there are ways we can use AI technology in a smarter, safer way. “Do some research about the privacy policy” to find out what a company may do with your photos, she said. In some instances, they may be used to train a facial recognition algorithm. “So sometimes it's not doing anything individually bad to you, but it might be doing something collectively that you're not okay with,” she said.
-
-theSkimm
-
-AI tech is growing rapidly — in more areas of our lives than we might realize. And like society, it’s unfortunately flooded with all kinds of biases. Which can perpetuate racist and sexist stereotypes. No shade to those who have tried the app already, or who still plan to. But maybe take a closer look at the images the app generates before you share them.. This year, it feels like artificial intelligence-generated art has been everywhere.
+As I reported in September when the first version of Stable Diffusion had just been launched, searching the model’s data set for keywords such as “Asian” brought back almost exclusively porn.. This year, it feels like artificial intelligence-generated art has been everywhere.
 
 In the summer, many of us entered goofy prompts into DALL-E Mini (now called Craiyon), yielding a series of nine comedically janky AI-generated images. But more recently, there’s been a boom of AI-powered apps that can create cool avatars. MyHeritage AI Time Machine generates images of users in historical styles and settings, and AI TikTok filters have become popular for creating anime versions of people. This past week, “magic avatars” from Lensa AI flooded social media platforms like Twitter with illustrative and painterly renderings of people’s headshots, as if truly made by magic.
 

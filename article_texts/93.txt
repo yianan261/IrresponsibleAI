@@ -1,54 +1,4 @@
-The Department of Justice announced today that it has obtained a settlement agreement resolving allegations that Meta Platforms Inc., formerly known as Facebook Inc., has engaged in discriminatory advertising in violation of the Fair Housing Act (FHA). The proposed agreement resolves a lawsuit filed today in the U.S. District Court for the Southern District of New York alleging that Meta’s housing advertising system discriminates against Facebook users based on their race, color, religion, sex, disability, familial status and national origin. The settlement will not take effect until approved by the court.
-
-Among other things, the complaint alleges that Meta uses algorithms in determining which Facebook users receive housing ads, and that those algorithms rely, in part, on characteristics protected under the FHA. This is the department’s first case challenging algorithmic bias under the Fair Housing Act.
-
-Under the settlement, Meta will stop using an advertising tool for housing ads (known as the “Special Ad Audience” tool) that, according to the department’s complaint, relies on a discriminatory algorithm. Meta also will develop a new system to address racial and other disparities caused by its use of personalization algorithms in its ad delivery system for housing ads. That system will be subject to Department of Justice approval and court oversight.
-
-This settlement marks the first time that Meta will be subject to court oversight for its ad targeting and delivery system.
-
-“As technology rapidly evolves, companies like Meta have a responsibility to ensure their algorithmic tools are not used in a discriminatory manner,” said Assistant Attorney General Kristen Clarke of the Justice Department’s Civil Rights Division. “This settlement is historic, marking the first time that Meta has agreed to terminate one of its algorithmic targeting tools and modify its delivery algorithms for housing ads in response to a civil rights lawsuit. The Justice Department is committed to holding Meta and other technology companies accountable when they abuse algorithms in ways that unlawfully harm marginalized communities.”
-
-“When a company develops and deploys technology that deprives users of housing opportunities based in whole or in part on protected characteristics, it has violated the Fair Housing Act, just as when companies engage in discriminatory advertising using more traditional advertising methods,” said U.S. Attorney Damian Williams for the Southern District of New York. “Because of this ground-breaking lawsuit, Meta will — for the first time — change its ad delivery system to address algorithmic discrimination. But if Meta fails to demonstrate that it has sufficiently changed its delivery system to guard against algorithmic bias, this office will proceed with the litigation.”
-
-“It is not just housing providers who have a duty to abide by fair housing laws,” said Demetria McCain, the Principal Deputy Assistant Secretary for Fair Housing and Equal Opportunity at the Department of Housing and Urban Development (HUD). “Parties who discriminate in the housing market, including those engaging in algorithmic bias, must be held accountable. This type of behavior hurts us all. HUD appreciates its continued partnership with the Department of Justice as they seek to uphold our country’s civil rights laws.”
-
-United States’ Lawsuit
-
-The United States’ complaint challenges three key aspects of Meta’s ad targeting and delivery system. Specifically, the department alleges that:
-
-Meta enabled and encouraged advertisers to target their housing ads by relying on race, color, religion, sex, disability, familial status and national origin to decide which Facebook users will be eligible and ineligible to receive housing ads.
-
-Meta created an ad targeting tool known as “Lookalike Audience” or “Special Ad Audience.” The tool uses a machine-learning algorithm to find Facebook users who share similarities with groups of individuals selected by an advertiser using several options provided by Facebook. Facebook has allowed its algorithm to consider FHA-protected characteristics — including race, religion and sex — in finding Facebook users who “look like” the advertiser’s source audience and thus are eligible to receive housing ads.
-
-Meta’s ad delivery system uses machine-learning algorithms that rely in part on FHA-protected characteristics — such as race, national origin and sex — to help determine which subset of an advertiser’s targeted audience will actually receive a housing ad.
-
-The complaint alleges that Meta has used these three aspects of its advertising system to target and deliver housing-related ads to some Facebook users while excluding other users based on FHA-protected characteristics.
-
-The department’s lawsuit alleges both disparate treatment and disparate impact discrimination. The complaint alleges that Meta is liable for disparate treatment because it intentionally classifies users on the basis of FHA-protected characteristics and designs algorithms that rely on users’ FHA-protected characteristics. The department further alleges that Meta is liable for disparate impact discrimination because the operation of its algorithms affects Facebook users differently on the basis of their membership in protected classes.
-
-Settlement Agreement
-
-These are the key features of the parties’ settlement agreement:
-
-By Dec. 31, 2022, Meta must stop using an advertising tool for housing ads known as “Special Ad Audience” (previously called “Lookalike Audience”), which relies on an algorithm that, according to the United States, discriminates on the basis of race, sex and other FHA-protected characteristics in identifying which Facebook users will be eligible to receive an ad.
-
-Meta has until December 2022 to develop a new system for housing ads to address disparities for race, ethnicity and sex between advertisers’ targeted audiences and the group of Facebook users to whom Facebook’s personalization algorithms actually deliver the ads. If the United States concludes that this new system sufficiently addresses the discriminatory disparities that Meta’s algorithms introduce, then Meta will fully implement the new system by Dec. 31, 2022.
-
-If the United States concludes that Meta’s changes to its ad delivery system do not adequately address the discriminatory disparities, the settlement agreement will terminate and the United States will litigate its case against Meta in federal court.
-
-The parties will select an independent, third-party reviewer to investigate and verify on an ongoing basis whether the new system is meeting the compliance standards agreed to by the parties. Under the agreement, Meta must provide the reviewer with any information necessary to verify compliance with those standards. The court will have ultimate authority to resolve disputes over the information that Meta must disclose.
-
-Meta will not provide any targeting options for housing advertisers that directly describe or relate to FHA-protected characteristics. Under the agreement, Meta must notify the United States if Meta intends to add any targeting options. The court will have authority to resolve any disputes between the parties about proposed new targeting options.
-
-Meta must pay to the United States a civil penalty of $115,054, the maximum penalty available under the Fair Housing Act.
-
-The Justice Department’s lawsuit is based in part on an investigation and charge of discrimination by HUD, which found that all three aspects of Meta’s ad delivery system violated the Fair Housing Act. When Facebook elected to have the HUD charge heard in federal court, HUD referred the matter to the Justice Department for litigation.
-
-This case is being handled jointly by the Justice Department’s Civil Rights Division and the U.S. Attorney’s Office for the Southern District of New York.
-
-Assistant Attorney General Kristen Clarke and U.S. Attorney Damian Williams thanked the Department of Housing and Urban Development for its efforts in the investigation.
-
-The Fair Housing Act prohibits discrimination in housing on the basis of race, color, religion, sex, familial status, national origin and disability. More information about the Civil Rights Division and the laws it enforces is available at www.justice.gov/crt. More information about the U.S. Attorney’s Office for the Southern District of New York is available at www.justice.gov/usao-sdny. Individuals who believe they have been victims of housing discrimination may submit a report online at www.civilrights.justice.gov, or may contact the Department of Housing and Urban Development at 1-800-669-9777 or through its website at www.hud.gov.. Written by David Park, NAFCU, Regulatory Compliance Counsel
+. Written by David Park, NAFCU, Regulatory Compliance Counsel
 
 Last week I watched a webinar (additional cost) that is available on the NAFCU Online Training Center titled Red Flags for Fair Lending. The webinar was presented live in March of this year on the same day that the United States Department of Housing and Urban Development (HUD) charged Facebook with violating the Fair Housing Act. Despite the brief warning, the presenters did a great job of explaining what was at issue in the charge against Facebook and what that might mean for credit unions and other financial institutions attempting to comply with the Fair Housing Act's requirements. The Fair Housing Act prohibits discriminating against any person with respect to the terms and conditions of the sale or rental of a dwelling or in providing any services in conjunction with a sale or rental on the basis of race, color, religion, sex, familial status, national origin, or disability. When a dwelling is involved, NCUA's nondiscrimination in lending rule prohibits discrimination against any person in the lending context on similar bases.
 
@@ -66,4 +16,4 @@ The risk to credit unions pointed out by the NAFCU webinar presenters is that th
 
 The March 2019 webinar also covered more issues related to inclusion and exclusion, pricing practices, underwriting practices, and fair lending programs. If you are looking for more guidance about fair lending issues, NAFCU is also running a Fair Lending 101 webinar (additional cost) on June 4th.
 
-Programming Note. NAFCU's offices will close at noon on Friday, May 24th in observance of Memorial Day. We will resume business as usual on Tuesday May 28th.. 
+Programming Note. NAFCU's offices will close at noon on Friday, May 24th in observance of Memorial Day. We will resume business as usual on Tuesday May 28th.

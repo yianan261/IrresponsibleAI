@@ -1,0 +1,35 @@
+{
+    "588": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Vera Institute of Justice",
+        "Company city": "New York",
+        "Company state": "New York",
+        "Affected population": [
+            "Terrorist offenders"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Autism spectrum disorders"
+            ]
+        },
+        "Area of AI Application": "Crime prediction",
+        "Online": "No"
+    }
+}

@@ -14,7 +14,7 @@ class OpenaiAPI:
         model (str): The model identifier to be used with the OpenAI API.
     """
 
-    def __init__(self, model="gpt-4-1106-preview"):
+    def __init__(self, model="gpt-3.5-turbo-0125"):
         self.client = OpenAI()
         self.model = model
         self.available_functions = {"get_location": get_location}
@@ -51,10 +51,10 @@ class OpenaiAPI:
         for tool_call in tool_calls:
             function_name = tool_call.function.name
             function_to_call = available_functions[function_name]
-            # print("FUNCTION TO CALL", function_to_call)
+            print("FUNCTION TO CALL", function_to_call)
             function_args = json.loads(tool_call.function.arguments)
             function_response = function_to_call(query=function_args.get("query"))
-            # print(">>>>>>FUNCTION RESPONSE>>>>>", function_response)
+            print(">>>>>>FUNCTION RESPONSE>>>>>", function_response)
             search = function_response
         temp_snippet = []
         temp_metatag = []
@@ -100,6 +100,7 @@ class OpenaiAPI:
             new_message = update_messages_with_location(
                 article_text, prompt, location_candidates
             )
+            print("REQUESTING 2nd chat completions call")
             completion = self.client.chat.completions.create(
                 model=self.model,
                 response_format={"type": "json_object"},

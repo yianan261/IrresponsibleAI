@@ -1,84 +1,4 @@
-Amazon users are at this point used to search results filled with products that are fraudulent scams , or quite literally garbage . These days, though, they also may have to pick through obviously shady products, with names like "I'm sorry but I cannot fulfill this request it goes against OpenAI use policy."
-
-As of press time, some version of that telltale OpenAI error message appears in Amazon products ranging from lawn chairs to office furniture to Chinese religious tracts (Update: Links now go to archived copies, as the original were taken down shortly after publication). A few similarly named products that were available as of this morning have been taken down as word of the listings spreads across social media (one such example is archived here).
-
-Other Amazon product names don't mention OpenAI specifically but feature apparent AI-related error messages, such as "Sorry but I can't generate a response to that request" or "Sorry but I can't provide the information you're looking for," (available in a variety of colors). Sometimes, the product names even highlight the specific reason why the apparent AI-generation request failed, noting that OpenAI can't provide content that "requires using trademarked brand names" or "promotes a specific religious institution" or, in one case, "encourage unethical behavior."
-
-The descriptions for these oddly named products are also riddled with obvious AI error messages like, "Apologies, but I am unable to provide the information you're seeking." One product description for a set of tables and chairs (which has since been taken down) hilariously noted: "Our [product] can be used for a variety of tasks, such [task 1], [task 2], and [task 3]]." Another set of product descriptions (archive link), seemingly for tattoo ink guns, repeatedly apologizes that it can't provide more information because: "We prioritize accuracy and reliability by only offering verified product details to our customers."
-
-Advertisement
-
-Spam spam spam spam
-
-Using large language models to help generate product names or descriptions isn't against Amazon policy. On the contrary, in September, Amazon launched its own generative AI tool to help sellers "create more thorough and captivating product descriptions, titles, and listing details." And we could only find a small handful of Amazon products slipping through with the telltale error messages in their names or descriptions as of press time.
-
-Still, these error-message-filled listings highlight the lack of care or even basic editing many Amazon scammers are exercising when putting their spammy product listings on the Amazon marketplace. For every seller that can be easily caught accidentally posting an OpenAI error, there are likely countless others using the technology to create product names and descriptions that only seem like they were written by a human who has actual experience with the product in question.
-
-Amazon isn't the only online platform where these AI bots are outing themselves. A quick search for "goes against OpenAI policy" or "as an AI language model" can find many artificial posts on Twitter / X or Threads or LinkedIn, for example. Security engineer Dan Feldman noted a similar problem on Amazon in April, though searching with the phrase "as an AI language model" doesn't seem to generate any obviously AI-generated search results these days.
-
-As fun as it is to call out these obvious mishaps for AI-generated content mills, a flood of harder-to-detect AI content is threatening to overwhelm everyone from art communities to sci-fi magazines to Amazon's ebook marketplace . Pretty much any platform that accepts user submissions that involve text or visual art now has to worry about being flooded with wave after wave of AI-generated work trying to crowd out the human community they were created for. It's a problem that's likely to get worse before it gets better.
-
-[Update: In a statement provided to Ars Technica, Amazon spokesperson Maria Boschetti said that "We work hard to provide a trustworthy shopping experience for customers, including requiring third-party sellers to provide accurate, informative product listings. We have removed the listings in question and are further enhancing our systems."]
-
-Listing image by Getty Images | Leon Neal. It's no secret that Amazon is filled to the brim with dubiously sourced products, from exploding microwaves to smoke detectors that don't detect smoke. We also know that Amazon's reviews can be a cesspool of fake reviews written by bots.
-
-But this latest product, a cute dresser with a "natural finish" and three functional drawers, takes the cake. Just look at the official name of the product listing:
-
-"I'm sorry but I cannot fulfill this request it goes against OpenAI use policy," the dresser's name reads. "My purpose is to provide helpful and respectful information to users-Brown."
-
-If we were in the business of naming furniture, we'd opt for something that's less of a mouthful. The listing also claims it has two drawers, when the picture clearly shows it as having three.
-
-The admittedly hilarious product listing suggests companies are hastily using ChatGPT to whip up entire product descriptions, including the names — without doing any degree of proofreading — in a likely failed attempt to optimize them for search engines and boost their discoverability.
-
-It raises the question: is anyone at Amazon actually reviewing products that appear on its site? That's unclear, but after the publication of this story, Amazon provided a statement.
-
-"We work hard to provide a trustworthy shopping experience for customers, including requiring third-party sellers to provide accurate, informative product listings," a spokesperson said. "We have removed the listings in question and are further enhancing our systems."
-
-OpenAI's uber-popular chatbot has already flooded the internet, resulting in AI content farms to an endless stream of posts on X-formerly-Twitter that regurgitate the same notification about requests going "against OpenAI's use policy" or some close derivative of that phrase.
-
-And it's not just a single product on Amazon. In fact, a simple search on the e-commerce platform reveals a number of other products, including this outdoor sectional and this stylish bike pannier, that include the same OpenAI notice.
-
-"I apologize, but I cannot complete this task it requires using trademarked brand names which goes against OpenAI use policy," reads the product description of what appears to be a piece of polyurethane hose.
-
-Its product description helpfully suggests boosting "your productivity with our high-performance , designed to deliver-fast results and handle demanding tasks efficiently."
-
-"Sorry but I can't provide the requested analysis it goes against OpenAI use policy," reads the name of a tropical bamboo lounger.
-
-One particularly egregious recliner chair by a brand called "khalery" notes in its name that "I'm Unable to Assist with This Request it goes Against OpenAI use Policy and Encourages Unethical Behavior."
-
-A listing for one set of six outdoor chairs boasts that "our can be used for a variety of tasks, such [task 1], [task 2], and [task 3], making it a versatile addition to your household."
-
-As far as the brands behind these products are concerned, many seem to be resellers that pass on goods from other manufacturers. The vendor behind the OpenAI dresser, for instance, is called FOPEAS — one of many alphabet soup sellers on Amazon — and lists a variety of goods ranging from dashboard-mounted compasses for boats to corn cob strippers and pelvic floor strengtheners. Another seller with a clearly AI-generated product listing sells an equally eclectic mix of outdoor gas converters and dental curing light meters.
-
-Given the sorry state of Amazon's marketplace, which has long been plagued by AI bot-generated reviews and cheap, potentially copyright-infringing knockoffs of popular products, the news doesn't come as much of a surprise.
-
-Worse yet, in 2019, the Wall Street Journal found that the platform was riddled with thousands of items that "have been declared unsafe by federal agencies, are deceptively labeled or are banned by federal regulators."
-
-Fortunately, in the case of lazily mislabeled products that make use of ChatGPT, the stakes are substantially lower than products that could potentially suffocate infants or motorcycle helmets that come off during a crash, as the WSJ discovered at the time.
-
-Nonetheless, the listings paint a worrying future of e-commerce. Vendors are demonstrably putting the bare minimum — if any — care into their listings and are using AI chatbots to automate the process of writing product names and descriptions.
-
-And Amazon, which is giving these faceless companies a platform, is complicit in this ruse — while actively trying to monetize AI itself.
-
-Updated with comment from Amazon.
-
-READ MORE: Jeff Bezos Discusses Plans for a Trillion People to Live in Huge Cylindrical Space Stations. Amazon has been hit with a wave of AI-generated listings.
-
-The site has been listing products with titles about OpenAI's usage policy.
-
-Amazon says it has removed the listings in question and is "further enhancing" its systems.
-
-NEW LOOK Sign up to get the inside scoop on today’s biggest stories in markets, tech, and business — delivered daily. Read preview Thanks for signing up! Access your favorite topics in a personalized feed while you're on the go. download the app Email address Sign up By clicking “Sign Up”, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.
-
-Advertisement
-
-Amazon has been hit with a wave of odd AI-generated listings.
-
-The site has been playing host to items with names such as, "I cannot fulfill this request as it goes against OpenAI use policy." The trend was noticed on social media, with users sharing screenshots of the listings.
-
-One dresser previously listed on Amazon was called, "I'm sorry but I cannot fulfill this request it goes against OpenAI use policy. My purpose is to provide helpful and respectful information to users-Brown."
-
-This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now. Have an account? Log in .. Fun new game just dropped! Go to the internet platform of your choice, type “goes against OpenAI use policy,” and see what happens. The bossman dropped a link to a Rick Williams Threads post in the chat that had me go check Amazon out for myself.
+Fun new game just dropped! Go to the internet platform of your choice, type “goes against OpenAI use policy,” and see what happens. The bossman dropped a link to a Rick Williams Threads post in the chat that had me go check Amazon out for myself.
 
 Hell yeah, [product name]! Screenshot by Liz Lopatto
 
@@ -116,4 +36,38 @@ Amazon isn’t the only platform with the problem, though its listings are a lot
 
 Elon Musk’s plan to get rid of the bots is going great, why do you ask? Screenshot by Liz Lopatto
 
-Hm, I’m sure it’s just a coincidence that a bunch of these accounts “❤️ Memecoin.” Or maybe OpenAI itself ❤️s Memecoin, who am I to say?
+Hm, I’m sure it’s just a coincidence that a bunch of these accounts “❤️ Memecoin.” Or maybe OpenAI itself ❤️s Memecoin, who am I to say?. Amazon has been hit with a wave of AI-generated listings.
+
+The site has been listing products with titles about OpenAI's usage policy.
+
+Amazon says it has removed the listings in question and is "further enhancing" its systems.
+
+NEW LOOK Sign up to get the inside scoop on today’s biggest stories in markets, tech, and business — delivered daily. Read preview Thanks for signing up! Access your favorite topics in a personalized feed while you're on the go. download the app Email address Sign up By clicking “Sign Up”, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.
+
+Advertisement
+
+Amazon has been hit with a wave of odd AI-generated listings.
+
+The site has been playing host to items with names such as, "I cannot fulfill this request as it goes against OpenAI use policy." The trend was noticed on social media, with users sharing screenshots of the listings.
+
+One dresser previously listed on Amazon was called, "I'm sorry but I cannot fulfill this request it goes against OpenAI use policy. My purpose is to provide helpful and respectful information to users-Brown."
+
+Related stories
+
+The trend suggests companies might be using OpenAI's popular chatbot to create product descriptions, including item names, without reviewing the final results.
+
+Advertisement
+
+Another listing, which appears to be a piece of hose, is titled: "I apologize, but I cannot complete this task it requires using trademarked brand names which goes against OpenAI use policy." The listing has also been removed from the site.
+
+While Amazon has been known to struggle with AI-generated reviews, this new trend raises questions about how thoroughly the site reviews some of its product listings.
+
+Representatives for Amazon and OpenAI did not immediately respond to a request for comment from Business Insider, made outside normal working hours.
+
+In a statement shared with Futurism, the company said: "We work hard to provide a trustworthy shopping experience for customers, including requiring third-party sellers to provide accurate, informative product listings."
+
+Advertisement
+
+"We have removed the listings in question and are further enhancing our systems," the spokesperson continued.
+
+AI is already being used to flood other areas of the internet with content. On X, a similar phrase has popped up in seemingly AI-generated posts.

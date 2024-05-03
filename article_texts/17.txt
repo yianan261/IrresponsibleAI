@@ -1,83 +1,61 @@
-Google will no longer continue support for Reply, an experimental app that offers smart reply responses to various messaging apps such as Slack, Hangouts, and Messenger. The app launched earlier this year as part of Google’s Area 120 division that incubates and tests wacky apps.
+On April 1, 2009, Google unveiled Gmail Autopilot, a plug-in that promised to read and generate contextually relevant replies to the messages piling up in users’ inboxes. “As more and more everyday communication takes place over email, lots of people have complained about how hard it is to read and respond to every message,” the product page explained. “This is because they actually read and respond to all their messages.” For those who hadn’t registered the date, the terms-and-conditions page spelled out the joke: “No, we don’t plan to scan every one of your incoming messages and automatically send the perfect reply.”
 
-“As you know, Reply was an experiment, and that experiment has now ended,” Google wrote in an email to beta testers. “While it might still work for the next few months, you may encounter bugs, or see that the suggestions aren’t as good.” The company says it will incorporate what it’s learned from the app in other Google products, which likely includes Gmail’s Smart Compose and Smart Reply. (Smart Reply is also available on Android Messages.)
+On November 5, 2015, Google unveiled Smart Reply, a plug-in that reads and suggests responses to e-mails. This time the innovation actually exists, as part of the company’s Inbox app for Android and iOS. If Smart Reply thinks that it understands a message that requires an answer, it will suggest three options, alongside a cheerful invitation to “start composing your reply with one tap.” When I wrote to Matt Jones, the design director at Google Research, to say that it had been great to see him the other night and to ask whether he could put me in touch with the team behind Smart Reply, he sent back a screenshot of the options that the app had given him: “It was great seeing you too!” “It was fun!” “Will do!” He connected me with Alex Gawley, the product manager for Gmail, who said that I shouldn’t be offended. (“I mean, I’m sure it was great to see you.”)
 
-When I tested the app earlier this year, I found that Reply’s automated responses were often bland, leaned toward affirmative answers, or just simply parroted the noun from the message that was received. It also tended to offer “I love you” as a default third response regardless of context.. After users complained that Gmail’s Smart Reply wasn’t so smart, Google announced that it will soon give desktop users the ability to disable the A.I.-based feature. Although the time-saving feature relies on artificial intelligence to come up with short responses based on the context of the email message, users complained that early iterations of Smart Reply frequently offered suggestions that were either not very useful or not appropriate. Early iterations of Smart Reply often suggested “I love you” and “Sent from my iPhone” as possible responses to email messages.
+The April Fool’s joke of 2009 began to be taken seriously in early 2015, Gawley told me, thanks to two developments. The Google Research team, which had recently acquired DeepMind, the company behind an arcade-game-winning form of artificial intelligence, was making rapid progress in language-related areas of machine learning, including translation and speech analysis. At the same time, Americans were reading more and more of their e-mails on mobile devices—fifty-three per cent of them, in fact, up from eight per cent in 2011. “It’s a little screen and a little keyboard, which means e-mail is easy to read and really hard to reply to,” Gawley said. He added that the combination of fat thumbs and autocorrect is “a real pain point for our users.”
 
-Despite complaints, Smart Reply appears to be catching on. The Wall Street Journal reported that Smart Reply was used on more than 10 percent of all sent Gmail messages, which is a huge number considering that Gmail counts more than 1 billion users. The Journal also noted that in the coming weeks, Google will provide desktop Gmail users with the option of opting out of Smart Reply altogether. Google already offers users of the Gmail app the ability to turn it off.
+Smart Reply uses what is known as an artificial neural network—an intimidating term for a particular kind of mathematical model—to tease out the patterns and probabilities that underlie e-mail communications. For privacy reasons, humans are not allowed to read Google’s vast corpus of e-mail messages. Machines, however, are, and by drawing on that data they can gradually sort sentences into “thought vectors,” or coördinates in linguistic space. In other words, by plotting similarities in context, word frequency, and sentence structure, the neural network can teach itself to recognize and group together the endless variety of ways that humans have developed to say much the same thing: “How does this afternoon look for a call?” “Can we talk later today?” Or “Does this P.M. work for a quick chat?” By trawling through the data again, the machine can then find and suggest the most typical responses to this particular thought vector: “Sure, what time were you thinking?” “Sure, anytime.” Or “Sure, what’s up?”
 
-Recommended Videos
+Earlier this year, Google researchers used the network to develop an intelligent chatbot with which they could discuss the purpose of life. (“To serve the greater good,” according to the machine.) Still, when the company’s engineers applied their neural net to the problem of e-mail, it did not work perfectly right away. “Most machine-learning work is actually about tuning,” Gawley said. The A.I. has a tendency to suggest replies that say the same thing in slightly different ways, which is less useful than offering users responses that represent a range of different likely replies. (For instance, “No, sorry, I’m busy” would have been a more useful alternative than “Sure, anytime” in the example above.) The team has corrected for this, to some extent, by adding a parameter that encourages the machine to choose disparate responses—ones that have sufficient distance between them when plotted as vectors in semantic space.
 
-Although Smart Reply only launched earlier this year alongside Google’s big Gmail redesign, the feature was present for about a year before that for Gmail users who used the Inbox service. Google claimed that 12 percent of Inbox users had used the smart feature, prompting it to make it available to more users. When Google moved Smart Reply out of Inbox and into Gmail, it said that it changed the algorithms to make the suggestions more natural.
+The early iterations of Smart Reply were overly affectionate. “I love you” was the machine’s most common suggested response. This was a touch awkward: because the model has no knowledge of the relationship between an e-mail’s sender and its receiver, it provides the same suggested responses whether you are corresponding with your boss or a long-lost sibling. “The team was really puzzled about this,” Gawley said. “It turns out that our internal testers are very affectionate and that ‘I love you’ is a very common thing for people at Google to say.” When the engineers inspected their model, they discovered that whenever an e-mail did not give a particularly strong signal as to the appropriate response, the machine hedged its bets with a declaration of affection. This fact may yet become the subject of philosophical inquiry—a scan of every Gmail message ever sent taught the machine that the proper response to ambiguity is an outpouring of love?—but, for Google, it was a bug rather than a feature. The solution: instruct the model to calculate the likelihood that, given an empty e-mail message, it would also suggest “I love you” as a response, and use that as a filter.
 
-“Based on our examination of the use of Smart Reply in Inbox and our ideas about how humans learn and use language, we have created a new version of Smart Reply for Gmail,” Google wrote on its A.I. research blog at the time. “This version increases the percentage of usable suggestions and is more algorithmically efficient.”
+There was a user-experience facet to the issue, too. During testing, Gawley’s team found that if humans did actually want to write “I love you,” they preferred to type it themselves. This reluctance to allow a machine to speak on emotional or otherwise intimate matters also informed the length of Smart Reply’s suggestions. Although the model is capable of generating reasonably well-formed sentences of twelve to thirteen words, it is programmed to offer responses that are only five or six words long. “The longer the answer got, the more the end user felt that it was important that it was in their tone,” Gawley said. It’s fine to sound generic for six words, but by ten it gets uncomfortable.
 
-Google claims that by using a bot to scan your messages, it can apply machine learning to improve Smart Reply and make better, more personalized recommendations in the future. And even though suggestions may improve, for group emails, Smart Reply may not be able to discern whether you’ll want to reply to one person or everyone in the email thread.
+This boundary between creepiness and helpfulness is one that Gawley and his colleagues will continue to probe. For now, they are working to make Smart Reply available in other languages, but he expects that they will begin adding another level of personalization before long. “I call it the exclamation-point model,” Gawley said. Some users sprinkle them throughout their communications—“My mum will put four in a row,” he said—while others deploy them more sparingly. The result is a simple, yet characteristic, pattern that a neural network could easily learn to mimic.
 
-For users who love the Smart Reply suggestions, Google is looking at ways to bring this capability to other messaging apps in the future on its Android platform.
+Because Smart Reply can suggest only short responses, it is selective in offering its assistance. Of the twenty e-mails I received in the first hour after the feature was activated in my inbox, twelve were deemed suitable for the Smart Reply treatment. Some suggestions were amusing but unhelpful: in response to an e-mail asking how much of a particular chemical I wished to order, Smart Reply thought I might want to say “I have no idea,” “I am not sure,” or “I was thinking the same thing.” Most of the choices, though, were entirely usable—and yet I struggled to use them. The experience triggered an uncomfortable tension in me. On the one hand, I was unwilling to accept how much of my correspondence could be managed with the same inane responses (“Sounds great!” was a recurring suggestion), and I wished to resist it. On the other hand, I suddenly realized how easy it would be to achieve the elusive, long-dreamed-of goal of inbox zero. If only I could bring myself to cut out a few pleasantries and personal touches!!!!. By clicking “Sign Up”, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.
 
-Editors' Recommendations. Just a few months ago, Google really started showing off its newest secret weapon: a robot brain that learns. Using machine learning algorithms that actually get smarter as they practice, Google's been able to identify your loved ones in your photo albums, and figure out what you might want to search for based on what's on your phone screen. And soon, it could be answering your emails too.
+Access your favorite topics in a personalized feed while you're on the go. download the app
 
-The new feature is called "Smart Reply" and it's for Inbox, the fancy new Gmail alternative Google announced a while back. When you're using it, Smart Reply is simple; you just get a handful of prewritten options to respond to emails, and you can either select one and send it off, or ignore them and type one in yourself.
+Sign up to get the inside scoop on today’s biggest stories in markets, tech, and business — delivered daily. Read preview
 
-Behind the scenes however, this is a massive accomplishment. A computer is reading your email (slightly creepy but nothing new) and understanding its meaning. It's not as simple as just identifying a few keywords like "plans" and then spitting out a few auto-responses about "I'll send them." Google's machine learning algorithms actually learn from scratch by reading thousands of emails and thousands of responses, slowly getting better and better at predicting what kind of responses match up with what kind of emails.
+A few days ago, I received a short, effective email in my inbox: "Sounds good!"
 
-In an in-depth post about how this tech actually works, Google shared some fun anecdotes about the initial prototypes. Some of the early versions of the tech were a little too lovey, for instance:
+I had to pause. Although that was the response I wanted — I was arranging a meeting — I wondered: Did he really send that, or did he simply hit Google's automated response suggestions at the bottom?
 
-[A] bizarre feature of our early prototype was its propensity to respond with "I love you" to seemingly anything. As adorable as this sounds, it wasn't really what we were hoping for. Some analysis revealed that the system was doing exactly what we'd trained it to do, generate likely responses -- and it turns out that responses like "Thanks", "Sounds good", and "I love you" are super common -- so the system would lean on them as a safe bet if it was unsure.
+In recent weeks, Gmail's "Smart Reply" feature has been released to an ever-rising amount of the web email service's over 1.4 billion users, meaning that soon a large percentage of the world's population will get access to Google's cheery, direct suggestions when it becomes a default feature next month.
 
-The new feature will be rolling out to Inbox users later this week, and even if it's not perfect yet, it'll only get better as time goes on.
+This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now.
 
-Source: Google. Opinion
+The actual language of the suggestions is created with machine learning, a family of technologies that is sometimes called artificial intelligence in the non-technical world.
 
-“Thanks for letting me know.”
+Advertisement
 
-Have you noticed an uptick in this phrase appearing in emails, on social media, and IRL? Do you find yourself saying it even though maybe a year ago you would never use the phrase? Is there a new wave of semi-formality sweeping our communications and infecting our brains? What’s going on here?
+Google
 
-The answer isn’t some insidious conspiracy by the Illuminati to make the world more polite. “Thanks for letting me know” just happens to be one of the more common answers offered by Google Smart Reply, and as a result, it has become embedded in our daily lives, like so many other products the company offers.
+Google's software crawls billions of emails on Gmail, and then uses software to suggest phrases drawn from that database that you might want to use to confirm a coffee at 4 PM at Blue Bottle. 10% of responses are generated through the Smart Reply feature, according to The Wall Street Journal.
 
-In November 2015, Google unveiled Smart Reply, a plug-in that reads and suggests responses to emails. The plug-in does its best to take in the content of the message you’ve received and suggest three potential appropriate responses.
+But it hasn't always worked well enough — a director of product management at Google, Ajit Varma, shared some funny early bugs with the Journal.
 
-The benefits in terms of efficiency are obvious. Many of us wake up to cluttered inboxes and spend the rest of our days grasping toward the zen of “inbox zero.” Like all types of nirvana, inbox zero is an elusive state. Try as we might, we never quite get that last piece of mail off of our digital desk before another deluge of correspondence crashes onto our servers.
+Related stories
 
-It would be considered callous, even cruel, to simply respond, “Got it. Thanks.” to the bulk of your emails. Smart Reply, with its personally tailored yet concise responses, offers a way to maintain a modicum of human decency while preserving your e-sanity.
+From the story:
 
-A perfect solution to a uniquely modern problem? Not quite.
+Google said an early prototype of the feature had “a propensity to respond with ‘I love you’ to seemingly anything,” forcing it to tweak the algorithm. “You don’t want to respond that to your boss,” Mr. Varma said.
 
-Almost three years into the Smart Reply experience, we are starting to see the cultural cost of automatic responses. With our personally tailored series of pre-fabricated lines drilled into our brains, we are all starting to sound like brands.
+Advertisement
 
-The new gmail makes for great, life-affirming conversations.
+Imagine trying to organize a conference call with a client and accidentally sending "I love you."
 
-Ok, thanks for letting me know.
+Another funny suggestion the software kept repeating is a nod to Google's neighbors in Silicon Valley, Apple. Apparently, the software thought "Sent from my iPhone" was a good way to respond to emails.
 
-You’re welcome.
+That's the default signature on the default email app on iPhones, so it shows up all the time in Google's data. And Google's machine learning software, as smart as it was, isn't actually a human, so it didn't realize that was a clever bit of branding, and not any kind of useful information.
 
-You’re the best!
+Same with "I love you" — while Smart Reply is impressive, it doesn't understand social context yet.
 
-My pleasure! — Lynley Stace (@lynleystace) June 26, 2018
+Advertisement
 
-This makes sense in terms of the goals of Smart Reply. For most people, the majority of emails are work-related, and while friends and family will forgive a touch of formality, being too loose at work has ended a lot of careers. The most important thing Smart Reply can do is not get you fired.
+But the software does learn: Google says that as you use it more, the style and tone will become more personalized to you.
 
-This bears out in the history of Smart Reply’s development. When the technology was first introduced, the New Yorker’s Nicola Twilley wrote a piece on the rollout of the plug-in. Early testing showed that Smart Reply’s natural tendency was to be “overly affectionate.” “When the engineers inspected their model,” Twilley relays, “they discovered that whenever an e-mail did not give a particularly strong signal as to the appropriate response, the machine hedged its bets with a declaration of affection.” This is a very human response: How many men after too many drinks have come up with only “I love you, man!” to explain their feelings to a buddy? Google saw this as a “bug, not a feature,” and added an affection filter to the technology. Your email would never again say, “I love you.”
-
-Google knows that our No. 1 email priority is to avoid embarrassment. After all, “Undo Send” remains one of Gmail’s most popular features and as soon as a big job offer lands on your desk, you would do well to purge any offensive tweets from your Twitter history.
-
-It is in Google’s best interest to create a product that minimizes any outpouring of emotion that might be inappropriate. We can assume that the algorithm that produces these auto-responses isn’t just controlling for affection, but also humor, sadness, anger, wistfulness, and any other feelings that would prevent you from being a gold-star employee.
-
-Smart Reply tries to strike a balance between office-appropriate responses and maintaining some level of personality. Andrew Chamings writing at the Bold Italic noted that while he was offered effusive responses like “Sure thing!” friends of his were given more muted suggestions like “I’ll be there.” and “I’ll try.”
-
-The end result is a set of responses that are in “your voice,” but never transgress the acceptable limits of that voice in a professional setting. After several years of Smart Reply, we all sound a little bit like a corporatized version of ourselves.
-
-We are also in an era where every big brand has a readily identifiable voice on social media. Everyone on Twitter knows what Denny’s and Wendy’s “sound like.” The now-defunct account @brandsayingbae chronicled the early years of company Twitters trying to sound like cool teenagers, and despite constant mockery from the snarkier corners of the peanut gallery, the brands are talking to us, releasing music, and even dissing customers.
-
-As human beings have attempted to sanitize their public presence for fear of being James-Gunned out of their livelihood, and brands have sought ever more “authenticity,” the distance between the way your friend Wendy talks and the way the corporation Wendy’s sounds grows smaller by the day.
-
-Three years into Smart Reply, humans now realize that we are always accountable for anything we say online, in public and in private. Conversely, brands have realized that the more human they sound, the less accountable consumers will hold them. If they can make Mitt Romney’s prophecy that “corporations are people my friends” come true, all the better for their bottom line.
-
-According to the Supreme Court, corporations are people. If Smart Reply is any indication, it is also true that people are now corporations, and are expected to conduct themselves on the internet with the grace and care of someone with a full-staffed PR team. We have decided that it is OK to fire someone for a tweet unrelated to their work, and we have decided that any email could cost you your job. Google may not be enforcing this strict behavioral code, but it is certainly enabling it.
-
-Google is here to help us all make sure that to “sound like us” is to sound like a carefully focus-grouped personal brand. It is too late for us to do anything about it, as the standards for casual conversation on the internet have become so high that a little machine assistance might even be necessary to survive in the current iteration of online.
-
-You could spend time raging against the machine, refusing to give into to the sanitized allure of Smart Reply. But you are probably better off accepting that you will be defined by your three automated responses. It’s probably best to sit back, relax, and pick “Thanks for letting me know.”
-
-READ MORE:
+Sounds good!

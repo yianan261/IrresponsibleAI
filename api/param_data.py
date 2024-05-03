@@ -116,36 +116,36 @@ def update_messages_with_location(article_text, prompt, location_candidates):
             """,
         },
     ]
-    compressed_message = [
-        {"role": "system", "content": "You are a helpful assistant."},
-        {"role": "user", "content": prompt},
-        {
-            "role": "assistant",
-            "content": example_output_explanation_id_1,
-        },
-        {
-            "role": "user",
-            "content": "Check if your reasoning makes sense and is supported by the article text. Give your final classification result in JSON format",
-        },
-        {
-            "role": "assistant",
-            "content": example_output_id_1,
-        },
-        {
-            "role": "user",
-            "content": f"""
-            read this article: 
-            ====start of article====
-            {compressed_article['compressed_prompt']}
-            ====end of article ====
-            please do the following:
-            request 1. Follow the previous example steps, provide classification and reasoning. Construct your final classification results in JSON format.
-            request 2. From this list of location candidates from Google Search API that returns search results on the city and state of the company, 
-            ```location candidates = {location_candidates}```
-            determine which candidate most-likely has the correct location of company in question in the article and note the city and state of the company of the chosen candidate.
-            Compare the `company city` and `company state` field results with your result from request 1; determine which `company city` and `company state` are the correct answers and update if necessary. Provide your final full classification result in JSON.
-            If the location candidates list is empty, there is no need to compare and you may just return the classification results in JSON format.
-            """,
-        },
-    ]
+    # compressed_message = [
+    #     {"role": "system", "content": "You are a helpful assistant."},
+    #     {"role": "user", "content": prompt},
+    #     {
+    #         "role": "assistant",
+    #         "content": example_output_explanation_id_1,
+    #     },
+    #     {
+    #         "role": "user",
+    #         "content": "Check if your reasoning makes sense and is supported by the article text. Give your final classification result in JSON format",
+    #     },
+    #     {
+    #         "role": "assistant",
+    #         "content": example_output_id_1,
+    #     },
+    #     {
+    #         "role": "user",
+    #         "content": f"""
+    #         read this article:
+    #         ====start of article====
+    #         {compressed_article['compressed_prompt']}
+    #         ====end of article ====
+    #         please do the following:
+    #         request 1. Follow the previous example steps, provide classification and reasoning. Construct your final classification results in JSON format.
+    #         request 2. From this list of location candidates from Google Search API that returns search results on the city and state of the company,
+    #         ```location candidates = {location_candidates}```
+    #         determine which candidate most-likely has the correct location of company in question in the article and note the city and state of the company of the chosen candidate.
+    #         Compare the `company city` and `company state` field results with your result from request 1; determine which `company city` and `company state` are the correct answers and update if necessary. Provide your final full classification result in JSON.
+    #         If the location candidates list is empty, there is no need to compare and you may just return the classification results in JSON format.
+    #         """,
+    #     },
+    # ]
     return message

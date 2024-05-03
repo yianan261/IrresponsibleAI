@@ -40,24 +40,112 @@ Law enforcement and national security agencies are also interested in this data.
 
 Harvey says there’s currently “little debate” about the ethics of this sort of data collection. It’s a complex topic, and although individuals might be outraged that their image is being used without permission, there’s little they can do about it.
 
-There is pushback in some instances (like when a researcher scraped 40,000 selfies from Tinder without permission and posted the dataset online), but in the debate about what is the right and the wrong way to go about acquiring data, the loudest voices are those of big companies. This leads to situations like in the UK, where Google’s AI subsidiary DeepMind made an illegal deal to access medical records belonging to 1.6 million individuals.. New research finds that a controversial facial recognition dataset of trans people remained available online for years after the initial controversy of its existence, reports AlgorithmWatch. The academic responsible is a U.S. government advisor.
+There is pushback in some instances (like when a researcher scraped 40,000 selfies from Tinder without permission and posted the dataset online), but in the debate about what is the right and the wrong way to go about acquiring data, the loudest voices are those of big companies. This leads to situations like in the UK, where Google’s AI subsidiary DeepMind made an illegal deal to access medical records belonging to 1.6 million individuals.. Discover how companies are responsibly integrating AI in production. This invite-only event in SF will explore the intersection of technology and business. Find out how you can attend here.
 
-Public scrutiny goes back to 2017 when The Verge investigated the work of Karl Ricanek, professor at the University of North Carolina Wilmington, notes AlgorithmWatch. But his research goes back even further, to 2013.
+Last year was a grim, record-setting year for violence against transgender individuals, and the Human Rights Campaign is tracking data that shows 2022 is on a similar pace. Outside of physical violence, other forms of attacks can harm these individuals as well. Some of that harm stems from enterprise technology, specifically around issues such as data privacy, facial recognition, artificial intelligence (AI) training and surveillance.
 
-Ricanek built a biometric dataset of 10,000 images of 38 trans people, scraped from their YouTube videos documenting their hormone therapies. The dataset would improve facial recognition system accuracy in being able to establish that an individual is the same person but after hormone therapy.
+The use of biometrics in particular is quickly growing as a sector of the technology landscape. A report from the Biometrics Institute found that, “More than 90% of industry professionals agreed that biometrics will be the key enabler for anchoring digital identity and that there will continue to be significant growth in mobile remote identity verification systems and remote onboarding technology.”
 
-In 2017, Ricanek said he had tried to acquire consent from the video posters, but had not been able to reach them all and that he only shared links to the videos, not the images themselves.
+But, as this technology grows, severe AI ethical problems both in training it and in applying it to use-cases continue to emerge.
 
-However, fresh research by Os Keyes and Jeanie Austin, published in Big Data & Society, finds that not only was the HRT Transgender Dataset still available as a Dropbox URL until April 2021, but that it was not simply video URLs, but contained the videos, many of which had since been deleted from YouTube by the posters and all of which were subject to copyright.
+Misuse of data
 
-Keyes and Austin contacted the institutional review board at the University of North Carolina at Wilmington about the project, only to discover that Ricanek never sought ethical approval. The dataset was shared with academics who subsequently shared it with their own doctoral students and researchers, again without oversight.
+A research team led by professor Karl Ricanek at the University of North Carolina, Wilmington — several years back — worked on research related to facial recognition using transition videos that transgender individuals had uploaded to YouTube for inter-community support and information. Ricanek and his team were conducting the research, propelled by a claim that hormone replacement therapy treatments (HRT) might be used by criminals and terrorists illicitly to dodge surveillance system detection.
 
-Earlier this week, Ricanek spoke about democratizing face biometric technology for the transgender community, at FedID, the Federal Identity Forum and Expo, as part of the U.S. National Academies of Sciences, Engineering and Medicine knowledge-gathering project on facial recognition and the data behind it.
+VB Event The AI Impact Tour – San Francisco Join us as we navigate the complexities of responsibly integrating AI in business at the next stop of VB’s AI Impact Tour in San Francisco. Don’t miss out on the chance to gain insights from industry experts, network with like-minded innovators, and explore the future of GenAI with customer experiences and optimize business processes. Request an invite
 
-Ricanek said that democratizing face-based tech for the transgender community will be a challenge for algorithms as well as policymakers.
+The purpose of the research itself has since drawn criticism from experts like Os Keyes, a Ph.D. candidate at the University of Washington’s department of human-centered design and engineering, who researches data ethics, medical AI, facial recognition, gender and sexuality.
 
-His data acquisition appears to be informing his advice. He said that even hormone therapy can alter a face significantly as changes in skin density and vascular structure can be enough to fool AI.
 
-Article Topics
 
-biometrics | biometrics research | dataset | ethics | facial recognition
+“This idea is like the equivalent of saying, ‘What if people tried to defeat detection by evading a height detector? What if they did it by cutting their own legs off?’ Keyes asked. “To imply you would do this on a whim is to drastically misunderstand things.”
+
+Previously, in response to criticism, Ricanek told The Verge that, “the dataset itself was just a set of links to YouTube videos, rather than the videos themselves; second, that he never shared it with anyone for commercial purposes … and third, that he stopped giving access to it altogether three years ago.”
+
+Keyes and Jeanie Austin, who has a Ph.D. in library and information science from the University of Illinois at Urbana-Champaign — have since looked into Ricanek’s work together in an effort to research algorithmic bias and dataset auditing for purposes of academia.
+
+What they found, and have since published, was much more than that alone.
+
+What Ricanek and his team previously claimed about the UNC-Wilmington facial recognition HRT dataset and all assets related to it being private, as well as having consent from the individuals whose videos were used for it — were false.
+
+From a collection of information gathered by Keyes and Austin via a public records request that included about 90 emails and email attachments from Ricanek and his team, four important aspects were uncovered.
+
+The team at UNC-Wilmington, “has no records of participants being contacted, and explicitly acknowledged some had not; contrary to their assurances, were redistributing the full videos, even after the videos had been removed from public view, into 2015; it eschewed responsibility for removing images of transgender people published without consent, and; left the full videos in an unprotected Dropbox account until our research team contacted them in 2021,” Keyes and Austin wrote in a document shared with VentureBeat.
+
+Keyes and Austin, both identify as trans, but neither were subjects in the UNC-Wilmington dataset.
+
+
+
+“Although neither of us are included in the dataset, both of us saw it as an exemplar of the violence that can occur when existing practices — the surveillance and over-examination of trans bodies and lives — begin to resonate with new technologies,” they wrote in their academic research titled “Feeling Fixes,” which was just published in the journal, Big Data & Society. “We sought to understand the circumstances of the dataset’s creation, use and redistribution, in order to map that violence and (possibly) ameliorate it.”
+
+The dataset
+
+UNC-Wilmington’s dataset focused only on 38 individuals, but Keyes and Austin found that it contained more than 1 million still images taken from the 38 transgender individuals’ YouTube videos in which they narrated what their transition process and experiences were like.
+
+Further, they found that in the dataset videos “all those we could identify were provided under the standard YouTube license, which explicitly prohibited reusing and redistributing the content outside of YouTube as a platform at the time that the images were captured,” they wrote.
+
+Ricanek, in response, did admit to VentureBeat that not every individual contacted in the videos gave their consent, but wanted to clarify several things, including, that the dataset was not used for training purposes, and that the research was not about the transgender community, but rather about how morphology can alter someone’s face and what the implications of that could be. He also asserted that it was not 1 million still images.
+
+“First, you cannot use 32, 38, 50 or even 100 subjects to build any face recognition system. It is not possible. Second, the data was never used for training. We never attempted to create a training dataset to train an AI. It was only used to evaluate the current state-of-the-art algorithms,” he said. “It was developed by researchers who were funded by the U.S. government. Another was used by a commercial solution that had contracts with the U.S. government.”
+
+Ricanek clarified that the dataset, though it had been in an unprotected Dropbox, had a unique URL and that the data was not published anywhere and would have been difficult for any random internet user to access on a whim. He said that although his post-doc student working with him had set the Dropbox up, he was not aware of this and that it was an unofficial method and was grateful that Keyes and Austin brought it to his attention. He had it taken down immediately when the two contacted him after finding it in 2021.
+
+Keyes and Austin’s public record request contradicts Ricanek and shows that he was cc’d on the emails about the Dropbox years ago, and further that the dataset had been distributed.
+
+“We were struck by how broadly the dataset had spread, including into disciplines with their own histories of transphobia and to scholars who likely lacked the background knowledge needed to critically contextualize the creation of the dataset,” they wrote in their findings. “The records contained 16 requests for the dataset — all approved — from 15 institutions spanning seven countries.”
+
+Though, Ricanek told VentureBeat that the distribution of the dataset was not broad.
+
+“As far as the [transgender] community is concerned, it probably is more than it should have happened,” he noted, “But it’s not a broad use of the data to be quite honest.”
+
+
+
+He also claimed he did previously have contact with some of the 38 individuals included in the dataset and had conversations about how they were impacted, reiterating he did not mean harm.
+
+
+
+If he could change things, Ricanek said he wouldn’t do this again.
+
+“I probably wouldn’t do this body of work. I mean, it’s a very small fraction of work that I [did] in the totality of my career — less than 1% of what I’ve done in the totality of my career,” he said.
+
+Although at best it is a case of negligence, Austin said, it’s important to not lose sight of the larger issue here.
+
+“The larger issue is not about Ricanek as a person. It’s about the way that this research was conducted and distributed and how many people were harmed along the way,” they said. “That’s something that we really wanted to focus on.”
+
+Keyes agreed, adding that, “The fact that society disproportionately treats trans people as dangerous and worth surveilling and objectifying … taking those videos and then using them to train software that assumes that people might be suspect for taking trans medicine, that people might be dangerous that they need to be watched for, from taking trans people’s responses is to turn them into objects yet again.”
+
+Other harms of data and biometrics technology
+
+Unfortunately, this is certainly not the first time biometrics intentions or data about the LGBTQ+ community has gone awry in the tech industry — impacting marginalized communities as a result.
+
+Other instances of technological harms that have been caused to individuals of the transgender community range from instances of failing to be able to properly verify their own identities for bank accounts, IDs and document checks which can prevent these individuals from potentially accessing necessary services like hospitals etc.
+
+Mina Hunt Burnside, a Ph.D. candidate at Utrecht University who studies gender and technology, has done research on the above.
+
+“I put research together for BMI metrics — which is not necessarily obviously the most technologically advanced form of biometric. It’s really interesting when you look into the history of it, how arbitrary it is. The original data points were taken from insurance companies, and indeed were taken from insurance companies into the 20th century until they were eventually agreed upon … But I bring this up because what it ends up doing is it becomes a really common cause to deny trans people services,” she said.
+
+“I had a friend recently who was denied surgery over like five kilograms or something because of a biometric marker …. There’s an argument that maybe it was bad for her health, but we know for certain that denying trans people such healthcare has very deadly in quantifiable outcomes. So, BMI, this kind of arbitrary thing … is all of a sudden, 200 years later, being used to deny trans masculine people surgeries in Toronto,” Hunt Burnside said.
+
+Beyond healthcare, biometrics verification can also have implications for individuals who attempt to update their documents. According to the National Transgender Discrimination Survey, only 21% of transgender individuals report that they have been able to update all necessary IDs and records with their new gender.
+
+
+
+Without having access to systems that can properly recognize and identify their gender, combating false identifications from algorithms or biometric tools can be challenging.
+
+Steve Ritter, CTO of Mitek, a digital identity verification company that uses biometrics, explained that the company had an incident a while back where it discovered that when a California ID was scanned, the barcode on the back that contains information to verify someone’s information was misrepresenting a code for gender identity in the company system.
+
+When scanned, X should have represented “non-binary,” however, it was returning the number nine rather than an “X.” The company realized that even this small discrepancy was likely causing someone who identified as non-binary on their California driver’s license to not have their identity authenticated by Mitek’s systems.
+
+Once the discrepancy was identified, Ritter and his team worked to resolve the issue and now note it as an important lesson for others in the biometrics or identity verification space.
+
+“Of course, there was no purposeful bias being put into that, but a simple mistake that we caught and we found that could have led to people four or nine binary individuals, for example, being less likely to be approved for a bank account in the online channel,” Ritter said. “So maybe they’d have to go into the branch or something like that — it’s an example that I think is really important because these are every day things that impact lives. As society changes, technology needs to keep up with that change.”
+
+Takeaways for tech leaders, researchers and the enterprise
+
+Researchers at the intersection of gender and technology underscore that “biometric technologies are currently not free of exclusionary dynamics. While they are widely regarded as neutral and objective, they rely on simplistic and problematic understandings of the relation between identity and the body, and disproportionately focus on some bodies over others. This forms a critical problem of inequality, especially for people who are already in a marginalized position.”
+
+The National Center for Transgender Equality noted that for enterprises using biometrics technology in any capacity or that are gathering data in hopes of removing rather than creating bias, it is still important to keep in mind how these systems can and do harm.
+
+“Humans cannot consistently determine who is transgender or non-binary and who is cisgender, and when they attempt to do so they rely on stereotypes and assumptions about how people dress, speak and move. An AI system developed by humans will only perpetuate these same stereotypes and assumptions,” said Olivia Hunt, policy director at the National Center for Transgender Equality.
+
+Hunt underscored what the several researchers above also mentioned and added that “AI systems should not attempt to assign a gender to individuals based on appearance because the only authority on any given individual’s gender is that individual. Relying on an AI system to do so will inevitably result in trans people being misidentified, misunderstood and potentially denied governmental and commercial services that they both need and are entitled to.”

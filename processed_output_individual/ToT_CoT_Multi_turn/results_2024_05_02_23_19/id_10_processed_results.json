@@ -1,0 +1,27 @@
+{
+    "10": {
+        "Country": "Worldwide",
+        "State": "California",
+        "City": "Lowell",
+        "Continent": "Worldwide",
+        "Company": "Kronos Incorporated",
+        "Company city": "Lowell",
+        "Company state": "Massachusetts",
+        "Affected population": [
+            "Employees at Kronos Incorporated"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Workforce management",
+        "Online": "No"
+    }
+}

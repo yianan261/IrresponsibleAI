@@ -1,42 +1,4 @@
-Story highlights Google Photos tagged an African-American man's pictures of him and a friend as "Gorillas" He highlighted the problem on Twitter, drawing the attention of a Google engineer
-
-CNN —
-
-When Jacky Alcine looked at his Google Photos app recently, he was appalled by what he saw. The facial recognition software had tagged pictures of him and a friend, both of them African-Americans, with the word “Gorillas.”
-
-Alcine, a computer programmer in New York, called out Google about the blunder that had served up the offensive racial slur on the photos he’d uploaded.
-
-“What kind of sample image data you collected that would result in this?” he asked in a series of angry tweets Sunday evening.
-
-His outraged comments quickly picked up traction and the attention of a senior engineer at Google, who identified himself as Yonatan Zunger on Twitter. His account was linked to a Google+ blog of a senior engineer of the same name.
-
-The chief architect of the Internet giant’s Google+ platform, promptly jumped into the fray, expressing horror at the bug and promising to get it fixed as quickly as possible.
-
-“This is 100% Not OK,” he told Alcine in a tweet. “Sheesh. High on my list of bugs you *never* want to see happen. ::shudder::” Zunger said in another.
-
-Google still working on fixes
-
-On Monday, Zunger said Google would stop using “Gorillas” as a label and was still clearing up the glitch in search results.
-
-Google is also working on longer-term improvements in the use of words to label photos and its image recognition software, which automatically generates the tags.
-
-“Lots of work being done, and lots still to be done. But we’re very much on it,” Zunger tweeted, explaining that image recognition software has problems with obscured faces, as well as different skin tones and lighting.
-
-“We used to have a problem with people (of all races) being tagged as dogs, for similar reasons,” he said.
-
-Alcine has thanked Zunger for his response.
-
-Google didn’t immediately respond to calls from CNN late Wednesday seeking comment on the matter.
-
-Previous problems: Confusing dogs and horses
-
-It’s not the first time the Internet company’s programming has misidentified subjects. In May, a user caught it tagging her dogs as horses.
-
-The photo sharing service Flickr has also faced difficulties, labeling photos of both black and white people with “ape” and “animal.”
-
-In a continuing discussion on Twitter of the problem Alcine highlighted, Zunger insisted that it was down to “ordinary machine learning trouble.”
-
-But he acknowledged that “the history of racism is what makes this error particularly bad.”. The representative from Google added, “Image labelling technology is still early and unfortunately, it’s nowhere near perfect.”
+The representative from Google added, “Image labelling technology is still early and unfortunately, it’s nowhere near perfect.”
 
 Do you remember the time when Google ’s image recognition algorithm created a major controversy after it categorised a black couple as “Gorillas” ?
 
@@ -60,20 +22,36 @@ According to another test, the algorithm did not serve any results to the term �
 
 Advertisement
 
-Google issued a statement to Wired confirming that the ‘gorilla’ term was censored from the search and image tags after the incident. The representative added, “Image labelling technology is still early and unfortunately it’s nowhere near perfect.” The report goes in on more detail about the research conducted while investigating about how far Google went in fixing the problem This issue highlights the complexities and potential problems when it comes to image identification and detection algorithms. However, regardless of the problems, it is unclear on why the search giant has not been able to make a more comprehensive solution to this instead of the fix.. After Google was criticised in 2015 for an image-recognition algorithm that auto-tagged pictures of black people as “gorillas”, the company promised “immediate action” to prevent any repetition of the error.
+Google issued a statement to Wired confirming that the ‘gorilla’ term was censored from the search and image tags after the incident. The representative added, “Image labelling technology is still early and unfortunately it’s nowhere near perfect.” The report goes in on more detail about the research conducted while investigating about how far Google went in fixing the problem This issue highlights the complexities and potential problems when it comes to image identification and detection algorithms. However, regardless of the problems, it is unclear on why the search giant has not been able to make a more comprehensive solution to this instead of the fix.. Google has apologized after its new photo app labelled two black people as “gorillas”.
 
-That action was simply to prevent Google Photos from ever labelling any image as a gorilla, chimpanzee, or monkey – even pictures of the primates themselves.
 
-That’s the conclusion drawn by Wired magazine, which tested more than 40,000 images of animals on the service. Photos accurately tagged images of pandas and poodles, but consistently returned no results for the great apes and monkeys – despite accurately finding baboons, gibbons and orangutans.
 
-Google confirmed that the terms were removed from searches and image tags as a direct result of the 2015 incident, telling the magazine that: “Image labelling technology is still early and unfortunately it’s nowhere near perfect”.
+The photo service, launched in May, automatically tags uploaded pictures using its own artificial intelligence software.
 
-The gorilla blindness is found in other places across Google’s platform: Google Lens, a camera app that identifies objects in images, will also refuse to recognise gorillas. But Google Assistant will correctly identify the primates, as will Google’s business-to-business image recognition service Google Cloud Vision.
+“Google Photos, y’all fucked up. My friend’s not a gorilla,” Jacky Alciné tweeted on Sunday after a photo of him and a friend was mislabelled as “gorillas” by the app.
 
-The failure of the company to develop a more sustainable fix in the following two years highlights the extent to which machine learning technology, which underpins the image recognition feature, is still maturing.
+Google Photos, y'all fucked up. My friend's not a gorilla. pic.twitter.com/SMkMCsNVX4 — diri noir avec banan (@jackyalcine) June 29, 2015
 
-Such technologies are frequently described as a “black box”, capable of producing powerful results, but with little ability on the part of their creators to understand exactly how and why they make the decisions they do.
+Shortly after, Alciné was contacted by Yonatan Zunger, the chief architect of social at Google.
 
-That is particularly true of the first wave of image-recognition systems, of which Google Photos was a part. At the same time that product was launched, Flickr released a similar feature, auto-tagging – which had an almost identical set of problems.
 
-The Yahoo-owned photo sharing platform labelled a picture of a black man as “ape”, and a photo of the Dachau concentration camp as “jungle gym”. Flickr’s response was much the same as Google’s: the company apparently removed the word “ape” from its tagging lexicon entirely.. 
+
+“Big thanks for helping us fix this: it makes a real difference,” Zunger tweeted to Alciné.
+
+He went on to say that problems in image recognition can be caused by obscured faces and “different contrast processing needed for different skin tones and lighting”.
+
+“We used to have a problem with people (of all races) being tagged as dogs, for similar reasons,” he said. “We’re also working on longer-term fixes around both linguistics (words to be careful about in photos of people) and image recognition itself (e.g., better recognition of dark-skinned faces). Lots of work being done and lots still to be done, but we’re very much on it.”
+
+Racist tags have also been a problem in Google Maps. Earlier this year, searches for “nigger house” globally and searches for “nigger king” in Washington DC turned up results for the White House, the residence of the US president, Barack Obama. Both at that time and earlier this week, Google apologized and said that it was working to fix the issue.
+
+
+
+“We’re appalled and genuinely sorry that this happened,” a Google spokeswoman told the BBC on Wednesday. “We are taking immediate action to prevent this type of result from appearing. There is still clearly a lot of work to do with automatic image labelling, and we’re looking at how we can prevent these types of mistakes from happening in the future.”
+
+Google is not the only platform trying to work out bugs in its automatic image labelling.
+
+In May, Flickr’s auto-tagging system came under scrutiny after it labelled images of black people with tags such as “ape” and “animal”. The system also tagged pictures of concentration camps with “sport” or “jungle gym”.
+
+“We are aware of issues with inaccurate auto-tags on Flickr and are working on a fix. While we are very proud of this advanced image-recognition technology, we’re the first to admit there will be mistakes and we are constantly working to improve the experience,” a Flickr spokesperson said at the time.
+
+“If you delete an incorrect tag, our algorithm learns from that mistake and will perform better in the future. The tagging process is completely automated – no human will ever view your photos to tag them.”

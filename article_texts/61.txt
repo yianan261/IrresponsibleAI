@@ -1,4 +1,6 @@
 What I’ve learned from Kaggle’s fisheries competition
+TLDR:
+
 Me and my Kaggle partner, have recently participated in “The Nature Conservancy Fisheries Monitoring” (hereby: “fisheries”) Kaggle competition. This competition had some very interesting results, most notably, the benchmark result got ahead of most competitors. I believe there are a few very important lessons we can learn form as data scientists. Bellow you can read about the competition, and some of the things we have learned from it.
 
 The Competition
@@ -9,14 +11,13 @@ In this competition your goal (as in many Kaggle competitions) was to classify a
 why would you like to do this? Well, to make a long story short, ships are currently equipped with automatic cameras, to make sure they are catching only legit fish like tuna, and not protected animals like sharks. The picture are later manually deciphered
 
 However, the fish are not presented to you in a clear profile pic, but it is randomly tossed around some boat. Here are some example images:
-
-
 there are also images with more than one fish, or images with no fish at all.
 
 So this is not the standard “recognize the flower/leaf/face” competition, but a more challenging one.
 
 And this is why I love Kaggle: unlike many machine learning articles, which use the easiest available data-set (mnist, cifar-10, imagenet to name a few) Kaggle presents you with real life problems, which are always dirty, mislabeled, blurred etc.
 As in some other competitions, this was a two stage competition, in which a small part of the test data (1K images) is available, while the majority of the test set (another 12K images) is released 1 week before the competition deadline. This method may prevent some cheating, but has a lot of issues, and may discourage many competitors: only around 300 competitors of the total 2300 starters made a submission at the second stage.
+
 Our way through the competition
 From a quick look, it is easy to see that the required approach here is doing two steps: first detecting the fish, and then classifying it.
 
@@ -24,13 +25,13 @@ However, during the competition, something strange came up in the competition fo
 One of the most important things when competing in kaggle, is having a decent validation set, that is able to somehow predict your results on the leader board, and clearly this was not the case for us. It seemed there is a “leak” in this competition, which means some feature that is correlated with the predicted variable in the training set. This feature was the boat ID.
 
 It seems, that due to the setting of the camera in the boats, the data-set contained numerous images that were very similar to each other, and when randomly splitting the data-set, the model could easily over-fit those images. the test set had also some of these similar images, however, we were not guaranteed that the second stage test set will not have completely new images. You can read about it in this post.
+
 So how to pass this hurdle? It’s actually quite easy. Sklearn has a function that does exactly this. It can leave one ship out as a validation set. This is quite a useful technique.
 
 When trying this, the results flipped upside down: form accuracy of 99% we went to hardly beating random guess. This has shown us that using the pre trained VGG is not such a good idea, and we went forward to developing our two step strategy.
 
 Our way to solution
 we’ve been looking through some modern detection techniques, preferably with friendly API, and found these 2: YOLO and SSD. They are both fast deep network algorithms, which are based on one pass through the image, what makes them quite fast. we’ve sicked with the SSD since it has quite friendly implementation in keras.
-After playing with it for a while, we’ve reached some very good results, here are some random examples:
 in This stage we’ve thought we are golden, and we are going to reach very high in this competition. What we’ve had left is to take our fish cropped images and to do exactly what we’ve done before, classify them with the VGG or something similar.
 
 Unfortunately for us, we were not able to complete our strategy: though it felt the right way to go, it didn’t prove itself in the Kaggle leader-board, so we quit trying about a week or so before the end of the competition. we’ve been able to reach log-loss score of around 1.3, which brought us to the middle of the leader-board, while the 1st place had something like 0.2, and there were just too many people above us.

@@ -1,62 +1,10 @@
-For the last four years, the Chicago Police Department has kept a list of people they believe are most likely to be involved in a shooting. The list—known as the "heat list" or the Strategic Subject List—was developed using a secret algorithm and contains the names of over a thousand people at any given time.
+Gun violence in Chicago has surged since late 2015, and much of the news media attention on how the city plans to address this problem has focused on the Strategic Subject List, or S.S.L.
 
-In record-breaking year for gun violence rates, Superintendent Eddie Johnson has praised the list and the department’s use of big data in predicting crimes. In May, the CPD reported three out of four shooting victims in 2016 were on the Strategic Subject List. The number of people arrested in connection to shootings was even more impressive: 80 percent were on the SSL, they say.
+The list is made by an algorithm that tries to predict who is most likely to be involved in a shooting, either as perpetrator or victim. The algorithm is not public, but the city has now placed a version of the list — without names — online through its open data portal, making it possible for the first time to see how Chicago evaluates risk.
 
-Though the department has been quick to tout the list’s accuracy, there is no way to independently verify their claims. The names on the list are private and the department won’t even explain what variables are used to determine a person’s ranking on the list. In other words, we’ve had to take the department at their word that their big data program works.
+We analyzed that information and found that the assigned risk scores — and what characteristics go into them — are sometimes at odds with the Chicago Police Department’s public statements and cut against some common perceptions.
 
-That changed this week with the release of a report by RAND Corporation in the Journal of Experimental Criminology. In the first independent audit of the department’s SSL, researchers found a 2013 version of the list to be not nearly as valuable as the department claims.
-
-“Individuals on the SSL are not more or less likely to become a victim of a homicide or shooting than the [control] group,” the authors write. Police use of the list also had no effect on citywide violence levels in Chicago.
-
-While the study’s authors found that individuals on the SSL were indeed more likely to be arrested for a shooting, the researchers guessed that this was happening because officers were using the list as leads to close cases. Superintendent Johnson has said as recently as last month, however, that the list is not being used to target people for arrest.
-
-“One of the major findings [of the study] was that the police on the ground, the people in the field, do not get a lot of training about how to use this list and what it means,” says lead author Jessica Saunders.
-
-When asked for a comment yesterday afternoon, CPD spokesman Anthony J. Guglielmi said he was unaware of the report. In a statement released today, which includes a point-by-point response, police emphasize that the SSL has changed significantly since the 2013 version that is the subject of RAND's analysis.
-
-"The evaluation was conducted on an early model of the algorithm that is no longer in use today… We are currently using SSL Version 5, which is more than 3 times as accurate as the version reviewed by RAND," the statement says.
-
-But Saunders says that her findings can still apply to the tool CPD is using today.
-
-“The findings of this study are probably not changed by making the list better,” says Saunders. “What we really found was that they didn’t know what to do with the list and there was no intervention tied to the list. So in my opinion, it almost doesn’t matter how good the list is, if you don’t know what to do with it.”
-
-Saunders says that the CPD must carefully consider what interventions it uses on people on the list in order to prevent crime. Tactics such as call-ins and home visits, which the CPD sometimes uses in conjunction with the list, cannot be effective if they are not done across the board.
-
-In its official statement, CPD says this intervention strategy has likewise evolved along with the SSL since 2013: they are now used in every police district, and metrics on the interventions are now "fully integrated within our CompStat accountability framework and weekly Compstat meetings."
-
-Still, those who study big data policing say this week’s report from RAND is troubling.
-
-“I think there’s a real question now after [the] RAND [report],” says Andrew Ferguson, a law professor at the University of the District of Columbia in Washington. “We don’t know how effective these lists are except for what the police tell us. This is one of the first analyses of the risk factors.”
-
-Police departments and criminal justice organizations across the country are increasingly using algorithms like Chicago’s to predict the locations and perpetrators of future crimes. And in an era marked by the police shootings of young black men, big data has been held up as a way to avoid racial profiling and reduce violence.
-
-But few cities make their algorithms available to the public or to organizations that work with communities most at risk for violence. This week’s RAND study is one of only two independent evaluations of predictive policing programs that have been done nationwide.
-
-Given the shroud of secrecy that covers big data policing, many have questioned the algorithms’ accuracy and fairness. A ProPublica investigation earlier this year found a risk assessment algorithm used in Florida to have significant racial disparities and to be only slightly more accurate than a coin flip.
-
-The Electronic Frontier Foundation and the American Civil Liberties Union of Illinois have both voiced concerns about how Chicago’s Strategic Subject List handles the issue of race. The Chicago Police Department has said that race is not one of the 11 weighted variables it uses to determine a person’s ranking on the list, but other variables they are using may code for race in less explicit ways. For example, a person’s address in a highly segregated neighborhood in Chicago could indicate a person’s wealth and race.
-
-“The RAND analysis should be the beginning, not the end of determining whether or not these systems work,” says Ferguson. “The underlying idea of prioritizing police resources on those most at risk makes a ton of sense. The downside of getting that prediction wrong means a lot of wasted resources. So I think we need to figure out whether it’s possible to prioritize risk and then really decide whether police are really the right remedy once we’ve identified risks through big data policing.”. More on: Human Rights
-
-David O’Connor is an intern for the Digital and Cyberspace Policy Program at the Council on Foreign Relations.
-
-The problem of policing has always been that it’s after-the-fact. If law enforcement officers could be at the right place at the right time, crime could be prevented, lives could be saved, and society would surely be safer. In recent years, predictive policing technology has been touted as just such a panacea. References to Minority Report are apparently obligatory when writing about the topic, but disguise a critical problem: predictive policing isn’t sci-fi; it’s a more elaborate version of existing, flawed practices.
-
-Predictive policing is an umbrella term to describe law enforcement’s use of new big data and machine learning tools. There are two types of tools: person-based and location-based systems. Person-based systems like Chicago’s Strategic Subject List use a variety of risk factors, including social media analysis, to identify likely offenders. A 2015 report stated the Chicago Police D epartment had assembled a list of “roughly 400 individuals identified by certain factors as likely to be involved in violent crime.” This raises a host of civil liberties questions about what degree of latitude police should be granted to perform risk analysis on people with no criminal records. In the future, these questions will become ever more pressing as revelations of threat scores, StingRays and facial recognition technology continue to grab headlines.
-
-In the present, however, the majority of publicly-known predictive policing algorithms are location-based. Twenty of the nation’s fifty largest police departments are known to use such algorithms, all of which rely on historical crime data—things like 911 calls and police reports. Based on data trends, these algorithms direct police to locations that are likely to experience crime at a particular time. Unfortunately, the Department of Justice has estimated that less than half of violent crimes and even fewer household property crimes are reported to the police. An algorithm trying to make predictions based on historical data isn’t actually looking at crime; it’s looking at how police respond to crimes they know about.
-
-This merely reinforces the biases of existing policing practices. In October, the Human Rights Data Analysis Group released a study that applied a predictive policing algorithm to the Oakland Police Department’s drug crime records from 2010. The study found that the algorithm would dispatch officers “almost exclusively to lower income, minority neighborhoods”—despite the fact that drug users are estimated to be widely dispersed throughout the city. The predictive algorithm essentially sent cops to areas they had already made arrests, not identifying new areas where drugs might appear.
-
-The algorithm the researchers analyzed was written by PredPol, one of the largest suppliers of predictive policing systems in the United States, and was chosen for being one of the few algorithms openly published in a scientific journal. PredPol says it uses “only three data points in making predictions: past type of crime, place of crime and time of crime. It uses no personal information about individuals or groups of individuals, eliminating any personal liberties and profiling concerns.” Ironically, these parsimonious standards ensure that the algorithm cannot improve on the historical record; it can only reinforce it.
-
-Some systems, like IBM’s, wisely incorporate other data points like weather and proximity of liquor stores. Unlike PredPol, however, the vast majority of these algorithms are trade secrets and not subject to independent review. The secrecy around the software makes it harder for police departments and local governments to make fully informed decisions. It also bars the public from participating in the decision-making process and sows distrust.
-
-That’s not to say that police departments shouldn’t use software to analyze their data. In fact, a 2015 study found predictive policing technology had significantly aided law enforcement in Los Angeles and Kent, England. In Norcross, Georgia, police claim that they saw a 15 percent reduction in robberies and burglaries within four months of deploying PredPol. The Atlanta Police Department was similarly enthused.
-
-Further development of the technology is inevitable, so local governments and police departments should develop appropriate standards and practices. For starters, these algorithms should not be called ‘predictive.’ They aren’t crystal balls; they’re making forecasts based on limited data. Less obvious data points, like broken streetlights or the presence of trees, should be incorporated to refine these forecasts. As in St. Louis, they shouldn’t be used for minor crimes. Person-based algorithmic forecasts should never be accepted as meeting the reasonable suspicion requirement for detaining an individual, and only data specialists should have access to the software to reduce the chances of abuse. Police should by default incorporate racial impact assessments into their data and programs should be open to academic review. The potential for mission creep is enormous; reviews must be regular to ensure that software is being used appropriately. Most importantly, city governments and police departments should conduct a transparent dialogue with the public about what data is being collected, particularly in the cases of cell phone surveillance and social media analysis, and citizens should be able to see what data has been compiled on them, be it photos or a threat score or biometrics.
-
-It’s a natural choice for police departments with shrinking budgets and huge troves of data to turn to machines for help. However, officials must recognize that nerds won’t solve the problem of policing; data must be a supplement to traditional, people-focused police work. Data-driven predictions have suffered many prominent setbacks in 2016. We should be cautious about using them to arrest people.. Struggling to reduce its high murder rate, the city of Chicago has become an incubator for experimental policing techniques. Community policing, stop and frisk, "interruption" tactics — the city has tried many strategies. Perhaps most controversial and promising has been the city’s futuristic "heat list" — an algorithm-generated list identifying people most likely to be involved in a shooting.
+■ Violence in the city is less concentrated at the top — among a group of about 1,400 people with the highest risk scores — than some public comments from the Chicago police have suggested.. Struggling to reduce its high murder rate, the city of Chicago has become an incubator for experimental policing techniques. Community policing, stop and frisk, "interruption" tactics — the city has tried many strategies. Perhaps most controversial and promising has been the city’s futuristic "heat list" — an algorithm-generated list identifying people most likely to be involved in a shooting.
 
 The hope was that the list would allow police to provide social services to people in danger, while also preventing likely shooters from picking up a gun. But a new report from the RAND Corporation shows nothing of the sort has happened. Instead, it indicates that the list is, at best, not even as effective as a most wanted list. At worst, it unnecessarily targets people for police attention, creating a new form of profiling.
 
@@ -98,66 +46,4 @@ The RAND report is significant, however, as a rare look at the effectiveness of 
 
 Andrew G. Ferguson, a law professor and predictive policing expert at the University of the District of Columbia, summarized the problems identified in the RAND report.
 
-"Just creating a data-driven ‘most-wanted’ list misses the value of big data prediction," Ferguson said in an email. "The ability to identify and proactively intervene in the lives of at risk youth is a positive, but you have to commit to the intervention piece.". A police officer stands at the corner of a busy intersection, scanning the crowd with her body camera. The feed is live-streamed into the Real Time Crime Center at department headquarters, where specialized software uses biometric recognition to determine if there are any persons of interests on the street.
-
-Data analysts alert the officer that a man with an abnormally high threat score is among the crowd; the officer approaches him to deliver a “custom notification”, warning him that the police will not tolerate criminal behavior. He is now registered in a database of potential offenders.
-
-Overhead, a light aircraft outfitted with an array of surveillance cameras flies around the city, persistently keeping watch over entire sectors, recording everything that happens and allowing police to stop, rewind and zoom in on specific people or vehicles …
-
-None of this is techno-paranoia from the mind of Philip K Dick or Black Mirror, but rather existing technologies that are already becoming standard parts of policing.
-
-The California city of Fresno is just one of the police departments in the US already using a software program called “Beware” to generate “threat scores” about an individual, address or area. As reported by the Washington Post in January, the software works by processing “billions of data points, including arrest reports, property records, commercial databases, deep web searches and the [person’s] social media postings”.
-
-A brochure for Beware uses a hypothetical example of a veteran diagnosed with PTSD, indicating they also take into account health-related data. Scores are colour-coded so officers can know at a glance what level the threat is: green, yellow or red.
-
-Chicago's computer-generated heat list profiled potential criminals – essentially suspects for crimes not yet committed
-
-This is just one of many new technologies facilitating “data-driven policing”. The collection of vast amounts of data for use with analytics programs allows police to gather data from just about any source and for just about any reason.
-
-The holy grail is ‘predictive policing’
-
-“Soon it will be feasible and affordable for the government to record, store and analyze nearly everything we do,” writes law professor Elizabeth Joh in Harvard Law & Policy Review. “The police will rely on alerts generated by computer programs that sift through the massive quantities of available information for patterns of suspicious activity.”
-
-The holy grail of data-fueled analytics is called “predictive policing”, which uses statistical models to tell officers where crime is likely to happen and who is likely to commit it.
-
-In February 2014, the Chicago police department (CPD) attracted attention when officers pre-emptively visited residents on a computer-generated “heat list”, which marked them as likely to be involved in a future violent crime. These people had done nothing wrong, but the CPD wanted to let them know that officers would be keeping tabs on them.
-
-Essentially, they were already considered suspects for crimes not yet committed.
-
-From Fresno to New York, and Rio to Singapore, data analysts sit at the helm of futuristic control rooms, powered by systems such as IBM’s Intelligent Operations Center and Siemens’ City Cockpit. Monitors pipe in feeds from hundreds or even thousands of surveillance cameras in the city.
-
-Is this really the promise of a ‘smart city’?
-
-These analysts have access to massive databases of citizens’ records. Sensors installed around the city detect pedestrian traffic and suspicious activities. Software programs run analytics on all this data in order to generate alerts and “actionable insights”.
-
-Neither IBM nor the Chicago Police Department responded to a request to comment. But it this is the new model of how policing should be done in an era of “smart cities”?
-
-These analytics can be used to great effect, potentially enhancing the ability of police to make more informed, less biased decisions about law enforcement. But they are often used in dubious ways and for repressive purposes. It is unclear – especially for analytics tools developed and sold by private tech companies – how exactly they even work.
-
-What data are they using? How are they weighing variables? What values and biases are coded into them? Even the companies that develop them can’t answer all those questions, and what they do know can’t be divulged because of trade secrets.
-
-So when police say they are using data-driven techniques to make smarter decisions, what they really mean is they are relying on software that spits out scores and models, without any real understanding of how. This demonstrates a tremendous faith in the veracity of analytics.
-
-Those affected lose their right to individualized treatment, as systems treat them as a mere collection of data points
-
-It is absurd for police not to know what decisions, weights, values and biases are baked into the analytics they use. It obscures the factors and decisions that influence how police operate – even to the police themselves, and means these methods are not open to the scrutiny of public oversight and accountability.
-
-Yet even in the face of controversy, police departments continue to use and defend these technologies when questioned by the public, the media and politicians.
-
-Contrary to the common defense trotted out by technocrats, the judgments produced by the algorithms of big data analytics are not objective arbiters of discretion and punishment. Rather, they easily become ways of laundering subjective, biased decisions into ostensibly objective judgments.
-
-Many researchers and advocates have argued that techniques like predictive policing don’t so much see the future as entrench and justify longstanding practices of racial profiling in policing certain urban neighborhoods, aggressively targeting already disempowered groups.
-
-Those affected lose their right to individualized treatment and understanding, as technical systems treat people as a mere collection of data points.
-
-Moreover, by integrating these technologies deeper into their operations, police departments are opening the way for corporations to have disproportionate influence over what policing means in society. Technologies are not just neutral tools, and they are not divorced from politics; they are designed with certain values and goals in mind. And when large corporations and entrepreneurial startups establish those values and goals, you are likely to end up with policing modeled after technocratic motivations for total efficiency and control.
-
-It is telling that the companies creating these analytics programs sell modified versions of their software to more than just police departments. As the Intercept reported in October 2015, the same types of analytics are used from marketing to the military; in essence, the Pentagon uses a data program to monitor drones in the same way businesses monitor customers.
-
-IBM has its own vision of an internet-connected world, and its “Smarter Planet” concept happens to align with the goals of business, the military and the police. While its program has already been sold to law enforcement, it is also developing systems to process refugees and even predict terrorist attacks.
-
-Many researchers have documented how police forces are increasingly technologized and militarized. Enthusiastic and rapid adoption of data-driven analytics has happened at the expense of meaningful public input, safeguards against misconduct and other basic procedures of accountability.
-
-The question remains: are these technologies accurate, appropriate and legitimate?
-
-Our governments and police departments are already deploying this technology, and need to be held to account. This technology encourages police officers to view the public as a threat, as criminals in waiting. These opaque procedures and questionable outcomes need to be scrutinized, before the efficiencies of connected data are used to justify taking power away from citizens and further concentrating it in police forces.
+"Just creating a data-driven ‘most-wanted’ list misses the value of big data prediction," Ferguson said in an email. "The ability to identify and proactively intervene in the lives of at risk youth is a positive, but you have to commit to the intervention piece."

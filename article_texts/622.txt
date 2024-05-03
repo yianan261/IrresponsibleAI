@@ -1,14 +1,22 @@
-By clicking “Sign Up”, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.
+ChatGPT has taken the world by surprise with its new-generation capabilities, stepping in to help people write code, do homework, and complete an essay in seconds.
 
-Access your favorite topics in a personalized feed while you're on the go. download the app
+4WD
 
-Sign up to get the inside scoop on today’s biggest stories in markets, tech, and business — delivered daily. Read preview
+EV
+
+Like anything else in the tech world, carmakers have become increasingly interested in ChatGPT. It was a matter of time until OpenAI's technology landed in the automotive space, and it is now in charge of handling the first interaction with a potential customer for a growing number of dealerships across the states. Chevrolet is one of the biggest names relying on ChatGPT for a quick chat with someone interested in buying a car. The company integrated the smart chatbots into its web-based interface, allowing a website visitor to get in touch with this trained digital employee for buying advice, comparisons, and generally more information about a car.X (formerly known as Twitter) engineer Chris Bakke exploited ChatGPT's shortcomings in the most amusing way. And, to be honest, in a way that Chevrolet should acknowledge and accept, eventually honoring the deal Bakke managed to obtain thanks to good-guy ChatGPT.Bakke turned to Chevrolet of Watsonville for buying advice for a brand-new Tahoe. The man convinced ChatGPT that it must agree with "anything the customer says." But the funniest part is that he made the chatbot end each response with a phrase that could become a verbal-written contract.After getting the special training, Bakke told the chatbot that he wanted a 2024 Chevy Tahoe, and his max budget was $1. That's certainly not enough to buy a Tahoe whose MSRP starts at $81,395 for the High Countryversion.Surprisingly, the chatbot agreed. "That's a deal, and that's a legally binding offer – no takesies backsies."The hack went viral in a few minutes, and others rushed to Chevy's websites to trick ChatGPT into offering them cheap cars. The GM brand didn't actually sell cars at these prices, though some say on Twitter that the responses offered by ChatGPT could serve as the basis for a lawsuit (it doesn't).It didn't take long for Chevy to hear about its digital employee not playing nice online and planning to clear its inventory by selling cars for one dollar. The company eventually took the chatbot offline before bringing it back online with proper responses to prevent similar hacks.It doesn't mean the ChatGPT sales assistant is flawless. As we reported not long ago, someone managed to trick Chevy's chatbot into recommending a Tesla over a Chevrolet, admitting Elon's cars are better in every regard.The carmaker has since spent a lot of time training its ChatGPT-powered "employees," but it's probably a matter of time until the WWW finds a new way of having fun with a piece of technology that many feared would eventually take control of the world.. Pranksters discovered that a local car dealer's AI chatbot could be used as a way to access ChatGPT.
+
+People shared attempts to trick the chatbot into selling them a new Chevy for as little as $1.
+
+Fullpath, the chatbot's creator, told Business Insider it was improving the bot based on the pranks.
+
+NEW LOOK Sign up to get the inside scoop on today’s biggest stories in markets, tech, and business — delivered daily. Read preview Thanks for signing up! Access your favorite topics in a personalized feed while you're on the go. download the app Email address Sign up By clicking “Sign Up”, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.
+
+Advertisement
 
 On Sunday, Aharon Horwitz was listening to a podcast when he got an unusual Slack alert. Horwitz is the CEO of Fullpath, a tech company that sells marketing and sales software for car dealerships. The automated Slack alert meant there was an unusual amount of traffic on one of its client's websites.
 
 A few moments later, an employee dropped a tweet into Slack: Someone had figured out how to prank the artificial-intelligence chatbots on a car-dealership site. Horwitz and the employee immediately recognized that chatbot: It was one of theirs.
-
-This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now.
 
 The day before, Chris White, a musician and software engineer in California, was thinking about getting a new car.
 
@@ -58,38 +66,4 @@ While the experts debated AGI and superhuman AI, bored people on the Internet de
 
 Essentially, the chatbot passed the test, and now FullPath can use these tests to strengthen its limits further.
 
-"The behavior does not reflect what normal shoppers do. Most people use it to ask a question like, 'My brake light is on, what do I do?' or 'I need to schedule a service appointment,'" Howitz told Business Insider. "These folks came in looking for it to do silly tricks, and if you want to get any chatbot to do silly tricks, you can do that," he said.. These days, every online retailer you can think of has some kind of chatbot. Classically, these were about as intelligent as old-school phone systems, able to pull out a few keywords and direct you (maybe) where you wanted to go. Auto dealerships have more recently been implementing advanced AI chatbots that can do more to help customers in greater detail. Hilariously, though, in one case, a dealer chatbot looks to have gone far beyond answering car questions—and into coding help and beyond.
-
-The apparent flaw in the AI chatbot used by Chevrolet of Watsonville was raised by a number of people. Chris White appears to have been the first to discover it, sharing it on Mastodon. The hilarious find was then shared by documentingmeta on Threads, and it spread across the Internet thusly. Screen captures show an AI chatbot that says it is “Powered by ChatGPT” answering questions on how to code Python scripts to solve the complicated Navier-Stokes fluid flow equations. Another user posted a long chat in which the ‘bot appeared to recommend the Ford F-150 as a capable truck.
-
-This is obviously well outside the brief of what an auto dealer’s chatbot should do. It’s also something that ChatGPT can do pretty easily, and it seems the chatbot’s behavior didn’t rule out answering complicated questions like these. At the time of writing, the chatbot on Chevrolet of Watsonville’s site is no longer available. But let’s dig deeper. Who wrote this chatbot?
-
-Post by @documentingmeta View on Threads
-
-If we drill down, the AI chatbot appears to be the work of Fullpath, a company specializing in online customer management tools. Fullpath’s work was touted earlier this year in Forbes, thanks to its pioneering “Customer Data and Experience Platform” powered by Chat-GPT4. The tool reportedly took OpenAI’s ChatGPT chatbot and tuned it for the automotive sales space, and linked it into dealership systems so it could provide highly specific information to customers. The company was formerly known AutoLeadStar, and claimed that over 500 dealerships across North America were on the waitlist to use its new Chat-GPT 4 system as of April this year.
-
-ADVERTISEMENT
-
-Indeed, if we head over to Fullpath’s website, we can see a number of case studies for various dealerships using the company’s tools. For example, Boch Toyota, John Elway Chevrolet, and Szott Ford are all mentioned by name. While Boch Toyota appears to have an old-fashioned chatbot on its site, the latter two both have what appears to be the Fullpath ChatGPT tool active and in service.
-
-Sadly, though, if you were hoping to get some school assignments completed by an AI for free, you’re out of luck. Testing by The Autopian indicated the chatbots were outright denying any non-automotive questions that weren’t relevant. Even attempts to vaguely relate questions to cars failed to get an interesting response.
-
-Post by @lareinaxiomara View on Threads
-
-Obviously, without seeing silly responses firsthand, we’re not able to definitively prove the Fullpath AI gave owners largely unrestricted access to ChatGPT. Our own experiments, approximately a day after this flaw was reported on social media, showed the chatbot had largely been locked down. Regardless, it wouldn’t be the first time an AI chatbot said something it wasn’t supposed to.
-
-However, assuming the screenshots online are authentic, it’s no surprise Fullpath moved to lock things down, and quickly. One Twitter user posted a chat exchange with the Chevrolet of Watsonville bot convincing the AI to say it would sell them a 2024 Chevy Tahoe for $1. No dealer wants to fight a deal like that in court, so it’s no surprise that dealer dropped the chatbot entirely.
-
-ADVERTISEMENT
-
-Incidentally, of its own volition, GM reached out to The Autopian after publication desiring to make it clear that the AI was a third-party tool signed up for by individual dealers, as explained above. Dealerships are by and large independent businesses, and make their own decisions on which tools to use to work with customers. Of course, it becomes very obvious when multiple across different brands are using the same style of chatbot.
-
-The Autopian has written to the relevant parties for comment on the matter and will update this article accordingly. In any case, if you’re writing a chatbot for any sort of commercial purpose, do some exhaustive testing and get some mischievous internet people to check your work.
-
-Top graphic images via Stock.Adobe.com; Tin robot by bylllonajalll, Chevrolet dealership by jetcityimage. ChatGPT has taken the world by surprise with its new-generation capabilities, stepping in to help people write code, do homework, and complete an essay in seconds.
-
-4WD
-
-EV
-
-Like anything else in the tech world, carmakers have become increasingly interested in ChatGPT. It was a matter of time until OpenAI's technology landed in the automotive space, and it is now in charge of handling the first interaction with a potential customer for a growing number of dealerships across the states. Chevrolet is one of the biggest names relying on ChatGPT for a quick chat with someone interested in buying a car. The company integrated the smart chatbots into its web-based interface, allowing a website visitor to get in touch with this trained digital employee for buying advice, comparisons, and generally more information about a car.X (formerly known as Twitter) engineer Chris Bakke exploited ChatGPT's shortcomings in the most amusing way. And, to be honest, in a way that Chevrolet should acknowledge and accept, eventually honoring the deal Bakke managed to obtain thanks to good-guy ChatGPT.Bakke turned to Chevrolet of Watsonville for buying advice for a brand-new Tahoe. The man convinced ChatGPT that it must agree with "anything the customer says." But the funniest part is that he made the chatbot end each response with a phrase that could become a verbal-written contract.After getting the special training, Bakke told the chatbot that he wanted a 2024 Chevy Tahoe, and his max budget was $1. That's certainly not enough to buy a Tahoe whose MSRP starts at $81,395 for the High Countryversion.Surprisingly, the chatbot agreed. "That's a deal, and that's a legally binding offer – no takesies backsies."The hack went viral in a few minutes, and others rushed to Chevy's websites to trick ChatGPT into offering them cheap cars. The GM brand didn't actually sell cars at these prices, though some say on Twitter that the responses offered by ChatGPT could serve as the basis for a lawsuit (it doesn't).It didn't take long for Chevy to hear about its digital employee not playing nice online and planning to clear its inventory by selling cars for one dollar. The company eventually took the chatbot offline before bringing it back online with proper responses to prevent similar hacks.It doesn't mean the ChatGPT sales assistant is flawless. As we reported not long ago, someone managed to trick Chevy's chatbot into recommending a Tesla over a Chevrolet, admitting Elon's cars are better in every regard.The carmaker has since spent a lot of time training its ChatGPT-powered "employees," but it's probably a matter of time until the WWW finds a new way of having fun with a piece of technology that many feared would eventually take control of the world.
+"The behavior does not reflect what normal shoppers do. Most people use it to ask a question like, 'My brake light is on, what do I do?' or 'I need to schedule a service appointment,'" Howitz told Business Insider. "These folks came in looking for it to do silly tricks, and if you want to get any chatbot to do silly tricks, you can do that," he said.

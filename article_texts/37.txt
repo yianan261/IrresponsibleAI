@@ -1,161 +1,45 @@
-In 1964, the Civil Rights Act barred the humans who made hiring decisions from discriminating on the basis of sex or race. Now, software often contributes to those hiring decisions, helping managers screen résumés or interpret video interviews.
+It was supposed to make finding the right person for the job easier. However, an AI tool developed by Amazon to sift through potential hires has been dropped by the firm after developers found it was biased against picking women.
 
-That worries some tech experts and civil rights groups, who cite evidence that algorithms can replicate or magnify biases shown by people. In 2018, Reuters reported that Amazon scrapped a tool that filtered résumés based on past hiring patterns because it discriminated against women.
+From pricing items to warehouse coordination, automation has been a key part of Amazon’s rise to e-commerce domination. And since 2014, its developers have been creating hiring programs aimed at making the selection of top talent as easy and as automated as possible.
 
-Legislation proposed in the New York City Council seeks to update hiring discrimination rules for the age of algorithms. The bill would require companies to disclose to candidates when they have been assessed with the help of software. Companies that sell such tools would have to perform annual audits to check that their people-sorting tech doesn’t discriminate.
+“Everyone wanted this holy grail,” one of the anonymous sources told Reuters about the ambitions for the software.
 
-The proposal is a part of a recent movement at all levels of government to place legal constraints on algorithms and software that shape life-changing decisions—one that may shift into new gear when Democrats take control of the White House and both houses of Congress.
+“They literally wanted it to be an engine where I’m going to give you 100 resumes, it will spit out the top five, and we’ll hire those.”
 
-More than a dozen US cities have banned government use of face recognition, and New York state recently passed a two-year moratorium on the technology’s use in schools. Some federal lawmakers have proposed legislation to regulate face algorithms and automated decision tools used by corporations, including for hiring. In December, 10 senators asked the Equal Employment Opportunity Commission to police bias in AI hiring tools, saying they feared the technology could deepen racial disparities in employment and hurt economic recovery from COVID-19 in marginalized communities. Also last year, a new law took effect in Illinois requiring consent before using video analysis on job candidates; a similar Maryland law restricts use of face analysis technology in hiring.
+However, a leak by several of those familiar with the program give an insight into some of the mishaps in the AI-based hiring software’s development, and how it taught itself to penalize women… for being women.
 
-Advertisement
+It was in 2015 that human recruiters first noticed discrepancies with the tool, when it seemingly marked down female candidates for roles in the male-dominated spheres of software development and other technical roles at the firm.
 
-Lawmakers are more practiced in talking about regulating new algorithms and AI tools than implementing such rules. Months after San Francisco banned face recognition in 2019, it had to amend the ordinance because it inadvertently made city-owned iPhones illegal.
+When the engine came across words like “women’s” on a resume, or if a candidate graduated from an all-women’s college, it unfairly penalized female candidates from selection, the sources said.
 
-The New York City proposal launched by Democratic council member Laurie Cumbo would require companies using what are termed automated employment-decision tools to help screen candidates or decide terms such as compensation to disclose use of the technology. Vendors of such software would be required to conduct a “bias audit” of their products each year and make the results available to customers.
+Investigations into the cause of the gender imbalance found that the data which fed the algorithm was based on ten years of resumes sent to the company. The vast majority of which were submitted by men.
 
-Strange bedfellows
+The algorithm in turn learned to dismiss female candidates as a negative leading to its sexist scoring system.
 
-The proposal faces resistance from some unusual allies, as well as unresolved questions about how it would operate. Eric Ellman, senior vice president for public policy at the Consumer Data Industry Association, which represents credit- and background-checking firms, says the bill could make hiring less fair by placing new burdens on companies that run background checks on behalf of employers. He argues that such checks can help managers overcome a reluctance to hire people from certain demographic groups.
+Edits were made by programmers to make the engine neutral to these particular terms, however, there was no certainty that it wouldn't develop other ways to discriminate in future.
 
-Some civil rights groups and AI experts also oppose the bill—for different reasons. Albert Fox Cahn, founder of the Surveillance Technology Oversight Project, organized a letter from 12 groups including the NAACP and New York University’s AI Now Institute objecting to the proposed law. Cahn wants to regulate hiring tech, but he says the New York proposal could allow software that perpetuates discrimination to get rubber-stamped as having passed a fairness audit.
+READ MORE: Racist & sexist AI bots could deny you job, insurance & loans – tech experts
 
-Cahn wants any law to define the technology covered more broadly, not let vendors decide how to audit their own technology, and allow individuals to sue to enforce the law. “We didn’t see any meaningful form of enforcement against the discrimination we’re concerned about,” he says.
+Dejected executives eventually scrapped the team in 2017 after losing hope in the project. An Amazon spokesperson told RT that the project never made it out of the trial phase. In addition to its apparent bias, the software "never returned storng candidates for the roles." Now, a “much-watered down version” is instead used for minor HR tasks such as sorting out duplicate applicants from its databases.
 
-Supporters
+Amazon’s sexist algorithms isn’t the first time AI has landed tech firms in hot water. Last month Facebook got flack after it was discovered that women users were prevented from seeing job advertisements in traditionally male-dominated industries.
 
-Others have concerns but still support the New York proposal. “I hope that the bill will go forward,” says Julia Stoyanovich, director of the Center for Responsible AI at New York University. “I also hope it will be revised.”
+In May 2016, a report found that a US court that used automated software to provide risk assessments was biased against black prisoners, recording them as twice as likely to reoffend as their white counterparts.
 
-Advertisement
+Think your friends would be interested? Share this story!. Another issue that neither the four-fifths rule nor Pymetrics’s audit addresses is intersectionality. The rule compares men with women and one racial group with another to see if they pass at the same rates, but it doesn’t compare, say, white men with Asian men or Black women. “You could have something that satisfied the four-fifths rule [for] men versus women, Blacks versus whites, but it might disguise a bias against Black women,” Kim says.
 
-Like Cahn, Stoyanovich is concerned that the bill’s auditing requirement is not well defined. She still thinks it’s worth passing, in part because when she organized public meetings on hiring technology at Queens Public Library, many citizens were surprised to learn that automated tools were widely used. “The reason I’m in favor is that it will compel disclosure to people that they were evaluated in part by a machine as well as a human,” Stoyanovich says. “That will help get members of the public into the conversation.”
+Pymetrics is not the only company having its AI audited. HireVue, another large vendor of AI hiring software, had a company called O’Neil Risk Consulting and Algorithmic Auditing (ORCAA) evaluate one of its algorithms. That firm is owned by Cathy O’Neil, a data scientist and the author of Weapons of Math Destruction, one of the seminal popular books on AI bias, who has advocated for AI audits for years.
 
-Two New York–based startups whose hiring tools would be regulated by the new rules say they welcome them. The founders of HiredScore, which tries to highlight promising candidates based on résumés and other data sources, and Pymetrics, which offers online assessments based on cognitive psychology with the help of machine learning, both supported the bill during a virtual hearing of the City Council’s Committee on Technology in November.
+ORCAA and HireVue focused their audit on one product: HireVue’s hiring assessments, which many companies use to evaluate recent college graduates. In this case, ORCAA didn’t evaluate the technical design of the tool itself. Instead, the company interviewed stakeholders (including a job applicant, an AI ethicist, and several nonprofits) about potential problems with the tools and gave HireVue recommendations for improving them. The final report is published on HireVue’s website but can only be read after signing a nondisclosure agreement.
 
-Frida Polli, Pymetrics’ CEO and cofounder, markets the company’s technology as providing a fairer signal about candidates than traditional measures like résumés, which she says can disadvantage people from less privileged backgrounds. The company recently had its technology audited for fairness by researchers from Northeastern University. She acknowledges that the bill’s auditing requirement could be tougher but says it’s unclear how to do that in a practical way, and it would be better to get something on the books. “The bill is moderate, but in a powerful way,” she says.
+Alex Engler, a fellow at the Brookings Institution who has studied AI hiring tools and who is familiar with both audits, believes Pymetrics’s is the better one: “There’s a big difference in the depths of the analysis that was enabled,” he says. But once again, neither audit addressed whether the products really help companies make better hiring choices. And both were funded by the companies being audited, which creates “a little bit of a risk of the auditor being influenced by the fact that this is a client,” says Kim.
 
-“Like the Wild West out there”
+For these reasons, critics say, voluntary audits aren’t enough. Data scientists and accountability experts are now pushing for broader regulation of AI hiring tools, as well as standards for auditing them.
 
-Robert Holden, chair of the City Council’s Committee on Technology, has his own concerns about the cash-strapped city government’s capacity to define how to scrutinize hiring software. He’s also been hearing from envoys from companies whose software would fall under the proposed rules, which have prompted more industry engagement than is usual for City Council business. Some have assured him the industry can be trusted to self-regulate. Holden says what he’s learned so far makes clear that more transparency is needed. “It’s almost like the Wild West out there now,” Holden says. “We really have to provide some transparency.”
+Filling the gaps
 
-Holden says the bill likely faces some negotiations and rewrites, as well as possible opposition from the mayor’s office, before it could be scheduled for a final vote by the council. If passed, it would take effect January 2022.
+Some of these measures are starting to pop up in the US. Back in 2019, Senators Cory Booker and Ron Wyden and Representative Yvette Clarke introduced the Algorithmic Accountability Act to make bias audits mandatory for any large companies using AI, though the bill has not been ratified.
 
-This story originally appeared on wired.com.. Some parts of machine learning are incredibly esoteric and hard to grasp, surprising even seasoned computer science pros; other parts of it are just the same problems that programmers have contended with since the earliest days of computation. The problem Amazon had with its machine-learning-based system for screening job applicants was the latter.
+Meanwhile, there’s some movement at the state level. The AI Video Interview Act in Illinois, which went into effect in January 2020, requires companies to tell candidates when they use AI in video interviews. Cities are taking action too—in Los Angeles, city council member Joe Buscaino proposed a fair hiring motion for automated systems in November.
 
-
-
-Amazon understood that it had a discriminatory hiring process: the unconscious biases of its technical leads resulted in the company passing on qualified woman applicants. This isn't just unfair, it's also a major business risk, because qualified developers are the most scarce element of modern businesses.
-
-
-
-
-
-So they trained a machine-learning system to evaluate incoming resumes, hoping it would overcome the biases of the existing hiring system.
-
-
-
-
-
-Of course, they trained it with the resumes of Amazon's existing stable of successful job applicants — that is, the predominantly male workforce that had been hired under the discriminatory system they hoped to correct.
-
-
-
-
-
-The computer science aphorism to explain this is "garbage in, garbage out," or GIGO. It is pretty self-explanatory, but just in case, GIGO is the phenomenon in which bad data put through a good system produces bad conclusions.
-
-
-
-
-
-Amazon built the system in 2014 and scrapped it in 2017, after concluding that it was unsalvagable — sources told Reuters that it rejected applicants from all-woman colleges, and downranked resume's that included the word "women's" as in "women's chess club captain." Amazon says it never relied on the system.
-
-
-
-
-
-There is a "machine learning is hard" angle to this: while the flawed outcomes from the flawed training data was totally predictable, the system's self-generated discriminatory criteria were surprising and unpredictable. No one told it to downrank resumes containing "women's" — it arrived at that conclusion on its own, by noticing that this was a word that rarely appeared on the resumes of previous Amazon hires.
-
-The group created 500 computer models focused on specific job functions and locations. They taught each to recognize some 50,000 terms that showed up on past candidates' resumes. The algorithms learned to assign little significance to skills that were common across IT applicants, such as the ability to write various computer codes, the people said. Instead, the technology favored candidates who described themselves using verbs more commonly found on male engineers' resumes, such as "executed" and "captured," one person said. Gender bias was not the only issue. Problems with the data that underpinned the models' judgments meant that unqualified candidates were often recommended for all manner of jobs, the people said. With the technology returning results almost at random, Amazon shut down the project, they said.
-
-Amazon scraps secret AI recruiting tool that showed bias against women [Jeffrey Dastin/Reuters]
-
-
-
-
-
-(Image: Cryteria, CC-BY). Last December Synced compiled its first “Artificial Intelligence Failures” recap of AI gaffes from the previous year. AI has achieved remarkable progress, and many scientists dream of creating the Master Algorithm proposed by Pedro Domingos — which can solve all problems envisioned by humans. It’s unavoidable however that researchers, fledgling technologies and biased data will also produce blunders not envisioned by humans.
-
-That’s why a review of AI failures is necessary and meaningful: The aim of the article is not to downplay or mock research and development results, but to take a look at what went wrong with the hope we can do better next time.
-
-Synced 10 AI failures of 2018.
-
-Chinese billionaire’s face identified as jaywalker
-
-Traffic police in major Chinese cities are using AI to address jaywalking. They deploy smart cameras using facial recognition techniques at intersections to detect and identify jaywalkers, whose partially obscured names and faces then show up on a public display screen.
-
-The AI system in the southern port city of Ningbo however recently embarrassed itself when it falsely “recognized” a photo of Chinese billionaire Mingzhu Dong on an ad on a passing bus as a jaywalker. The mistake went viral on Chinese social media and Ningbo police apologized. Dong was unfazed, posting on Weibo: “This is a trivial matter. Safe travel is more important.”
-
-CloudWalk Deep Learning Researcher Xiang Zhou told Synced the algorithm’s lack of live detection was the likely problem. “Live detection at this distance is challenging, recognizing an image as a real person is pretty common now.”
-
-Chinese billionaire Mingzhu Dong’s face on a public display screen.
-
-Uber self-driving car kills a pedestrian
-
-In the first known autonomous vehicle-related pedestrian death on a public road, an Uber self-driving SUV struck and killed a female pedestrian on March 28 in Tempe, Arizona. The Uber vehicle was in autonomous mode, with a human safety driver at the wheel.
-
-So what happened? Uber discovered that its self-driving software decided not to take any actions after the car’s sensors detected the pedestrian. Uber’s autonomous mode disables Volvo’s factory-installed automatic emergency braking system, according to US National Transportation Safety Board preliminary report on the accident.
-
-In the wake of the tragedy Uber suspended self-driving testing in North American cities, and Nvidia and Toyota also stopped their self-driving road tests in the US. Eight months after the accident Uber announced plans to resume self-driving road tests in Pittsburgh, although the company’s self-driving future remains uncertain.
-
-ABC 15 screenshot of deadly Uber accident.
-
-IBM Watson comes up short in healthcare
-
-“This product is a piece of shit” wrote a doctor at Florida’s Jupiter Hospital regarding IBM’s flagship AI program Watson, according to internal documents obtained by Stat. Originally a question-answering machine, IBM has been exploring Watson’s AI capabilities across a broad range of applications and processes, including healthcare. In 2013 IBM developed Watson’s first commercial application for cancer treatment recommendation, and the company has secured a number of key partnerships with hospitals and research centers over the past five years. But Watson AI Health has not impressed doctors. Some complained it gave wrong recommendations on cancer treatments that could cause severe and even fatal consequences.
-
-After spending years on the project without significant advancements, IBM is reportedly downsizing Watson Health and laying off more than half the division’s staff.
-
-Amazon AI recruiting tool is gender biased
-
-Amazon HR reportedly used an AI-enabled recruiting software between 2014 and 2017 to help review resumes and make recommendations. The software was however found to be more favorable to male applicants because its model was trained on resumes submitted to Amazon over the past decade, when many more male candidates were hired.
-
-The software reportedly downgraded resumes that contain the word “women” or implied the applicant was female, for example because they had attended a women’s college. Amazon has since abandoned the software. The company did not deny using the tool to produce recommendations, but said it was never used to evaluate candidates.
-
-DeepFakes reveals AI’s unseemly side
-
-Last December several porn videos appeared on Reddit “featuring” top international female celebrities. User “DeepFakes” employed generative adversarial networks to swap celebrities’ faces with those of the porn stars. While face-swapping technology has been under development for years, DeepFakes’ method showed that anyone with enough facial images could now produce their own highly convincing fake videos.
-
-Realistic-looking fake videos of well-known people flooded the Internet through 2018. While the method is not technically a “failure,” its potential dangers are serious and far-reaching: if video evidence is no longer credible, this could further encourage the circulation of fake news.
-
-Star Wars star Daisy Ridley’s face swapped with a porn actress in a DeepFake video.
-
-Google Photo confuses skier and mountain
-
-Google Photos includes a relatively unknown AI feature that can automatically detect images with the same backgrounds/scenes and offer to merge them into a single panoramic picture. In January Reddit User “MalletsDarker” posted three photos taken at a ski resort: two were landscapes, the other shot of his friend. When Google Photos merged the three a weird thing happened, as his friend’s head was rendered as a peak-like giant peering out from the forest.
-
-The photo made the r/funny subreddit top ten and has received 202k upvotes. Social media hailed the Google algorithm’s smart blending of the images while mocking its stupidity for missing compositional basics.
-
-Blended image by Google Photos.
-
-LG robot Cloi gets stagefright at its unveiling
-
-January 8 was supposed to be the day when LG’s IoT AI assistant Cloi made its stunning debut at CES 2018 in Las Vegas. Cloi was presented as a simple and pleasant interface able to recognize voice commands to control home appliances. However when the cute robot took to the stage for its live demo, with the audience watching and waiting, and waiting… it failed to respond to commands from LG’s marketing chief, producing only awkward silence.
-
-Boston Dynamics robot blooper
-
-SoftBank-owned robot-maker Boston Dynamics has wowed the Internet more than once this year: Its robodog SpotMini can deftly open doors with its head-mounted gripper arm; and its humanoid robot Atlas can now do parkour — smoothly jumping over a log and leaping up a series of 40cm steps without breaking pace.
-
-But even Boston Dynamics has its “oops” moments: In its debut at the Congress of Future Scientists and Technologists, Atlas lifted boxes etc. in a flawless demo. But just as Atlas had wrapped its demo and was attempting to leave, the poor robot tripped over a curtain and awkwardly tumbled off the stage. On the bright side, it fell much like a human might.
-
-Boston Dynamics robot Atlas jumps over a log.
-
-AI World Cup 2018 predictions almost all wrong
-
-The World Cup 2018 was the top sporting event of year, and AI researchers at Goldman Sachs, German Technische University of Dortmund, Electronic Arts, Perm State National Research University and other institutions ran machine learning models to predict outcomes for the multi-stage competition. Most however were totally wrong, with only EA — which ran its simulations using new ratings for its video game FIFA 18 — correctly favouring winner France. The EA game engine is backed by numerous machine learning techniques designed to make player performance as realistic as possible.
-
-SQL Services Data Scientist Nick Burns offered an explanation: “No matter how good your models are, they are only as good as your data… recent football data just isn’t enough to predict the performance in the World Cup. There’s too much missing information and undefined influences.”
-
-Startup claims to predict IQ from faces
-
-Israeli machine learning startup Faception made the controversial claim that its AI tech could analyse facial images and bone structure to reveal people’s IQ, personality, and even violent tendencies. Data scientist Ben Snyder rebuked the company’s tech on Twitter: “That’s phrenology. You just made the ML equivalent of a racist uncle.” The tweet has received over 6,500 retweets and almost 17,000 likes.. 
+The New York City bill in particular could serve as a model for cities and states nationwide. It would make annual audits mandatory for vendors of automated hiring tools. It would also require companies that use the tools to tell applicants which characteristics their system used to make a decision.

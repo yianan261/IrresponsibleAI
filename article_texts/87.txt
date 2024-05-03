@@ -1,0 +1,92 @@
+UK passport photo checker shows bias against dark-skinned women
+Women with darker skin are more than twice as likely to be told their photos fail UK passport rules when they submit them online than lighter-skinned men, according to a BBC investigation.
+
+One black student said she was wrongly told her mouth looked open each time she uploaded five different photos to the government website.
+
+This shows how "systemic racism" can spread, Elaine Owusu said.
+
+The Home Office said the tool helped users get their passports more quickly.
+"The indicative check [helps] our customers to submit a photo that is right the first time," said a spokeswoman.
+
+"Over nine million people have used this service and our systems are improving.
+
+"We will continue to develop and evaluate our systems with the objective of making applying for a passport as simple as possible for all."
+
+Skin colour
+The passport application website uses an automated check to detect poor quality photos which do not meet Home Office rules. These include having a neutral expression, a closed mouth and looking straight at the camera.
+
+BBC research found this check to be less accurate on darker-skinned people.
+
+More than 1,000 photographs of politicians from across the world were fed into the online checker.
+
+The results indicated:
+
+Dark-skinned women are told their photos are poor quality 22% of the time, while the figure for light-skinned women is 14%
+Dark-skinned men are told their photos are poor quality 15% of the time, while the figure for light-skinned men is 9%
+Photos of women with the darkest skin were four times more likely to be graded poor quality, than women with the lightest skin.
+Ms Owusu said she managed to get a photo approved after challenging the website's verdict, which involved writing a note to say her mouth was indeed closed.
+
+"I didn't want to pay to get my photo taken," the 22-year-old from London told the BBC.
+
+"If the algorithm can't read my lips, it's a problem with the system, and not with me."
+
+But she does not see this as a success story.
+
+"I shouldn't have to celebrate overriding a system that wasn't built for me."
+
+It should be the norm for these systems to work well for everyone, she added.
+Other reasons given for photos being judged to be poor quality included "there are reflections on your face" and "your image and the background are difficult to tell apart"
+
+Cat Hallam, who describes her complexion as dark-skinned, is among those to have experienced the problem.
+
+She told the BBC she had attempted to upload 10 different photographs over the course of a week, and each one had been rated as "poor" quality by the site.
+
+"I am a learning technologist so I have a good understanding of bias in artificial intelligence," she told the BBC.
+
+"I understood the software was problematic - it was not my camera.
+
+"The impact of automated systems on ethnic minority communities is regularly overlooked, with detrimental consequences."
+
+Documents released as part of a freedom of information request in 2019 had previously revealed the Home Office was aware of this problem, but decided "overall performance" was good enough to launch the online checker.
+How can a computer be biased?
+By David Leslie, Alan Turing Institute
+
+The story of bias in facial detection and recognition technologies began in the 19th century with the development of photography. For years, the chemical make-up of film was designed to be best at capturing light skin.
+
+Colour film was insensitive to the wide range of non-white skin types and often failed to show the detail of darker-skinned faces.
+
+The big change brought in by digital photography was that images were recorded as grids of numbers representing pixel intensities.
+
+Computers could now pick up patterns in these images and search for faces in them, but they needed to be fed lots of images of faces to "teach" them what to search for.
+
+This means the accuracy of face detection systems partly depends on the diversity of the data they were trained on.
+
+So a training dataset with less representation of women and people of colour will produce a system that doesn't work well for those groups.
+
+Face-recognition systems need to be tested for fair performance across different communities, but there are other areas of concern too.
+
+Discrimination can also be built into the way we categorise data and measure the performance of these technologies. The labels we use to classify racial, ethnic and gender groups reflect cultural norms, and could lead to racism and prejudice being built into automated systems.
+
+2px presentational grey line
+IMAGE SOURCE,AFP
+One US-based researcher who has carried out similar studies of her own said such systems were the result of developers "being careless".
+
+"This just adds to the increasing pile of products that aren't built for people of colour and especially darker-skinned women," said Inioluwa Deborah Raji, a Mozilla Fellow and researcher with the Algorithmic Justice League.
+
+If a system "doesn't work for everyone, it doesn't work", she added.
+
+"The fact [the Home Office] knew there were problems is enough evidence of their responsibility."
+
+The automated checker was supplied to the government by an external provider which it declined to name.
+
+As a result, the BBC was unable to contact it for comment.
+
+2px presentational grey line
+Methods
+The procedure was based on the Gender Shades study by Joy Buolamwini and Timnit Gebru.
+
+Photos of politicians were collected from parliaments around the world. The gender and skin tone were recorded for each photo using the Fitzpatrick skin-tone scale. Each image met the Home Office standards for a passport photo.
+
+This gave a database of 1,130 passport-style photos with a balance of skin tones and genders. Each photo was fed into the automated photo checker and the quality score was recorded. No passport applications were submitted.
+
+Kirstie Whitaker, programme lead for tools, practices and systems at the Alan Turing Institute, reviewed our code, independently reproduced our results, and provided input on the validity of the reported outcomes.

@@ -1,0 +1,29 @@
+{
+    "564": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Pindrop",
+        "Company city": "Atlanta",
+        "Company state": "Georgia",
+        "Affected population": [
+            "Financial services clients, Victims of financial scams"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Voice authentication and fraud detection",
+        "Online": "No"
+    }
+}

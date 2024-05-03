@@ -1,181 +1,59 @@
-New York CNN —
+DETROIT (AP) — U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it can misbehave around intersections and doesn’t always follow speed limits.
 
-Tesla is recalling all 363,000 US vehicles with its so-called “Full Self Driving” driver assist software due to safety risks, another blow to the feature that is central to the automaker’s business model.
+The recall, part of part of a larger investigation by the National Highway Traffic Safety Administration into Tesla’s automated driving systems, is the most serious action taken yet against the electric vehicle maker.
 
-“Full self-driving,” as it currently stands, navigates local roads with steering, braking and acceleration, but requires a human driver prepared to take control at any moment, as the system makes judgment errors. The National Highway Traffic Safety Administration said that, based on its analysis, Tesla’s FSD feature “led to an unreasonable risk to motor vehicle safety based on insufficient adherence to traffic safety laws.” And it warned FSD could violate traffic laws at some intersections “before some drivers may intervene.”
+It raises questions about CEO Elon Musk’s claims that he can prove to regulators that cars equipped with “Full Self-Driving” are safer than humans, and that humans almost never have to touch the controls.
 
-“The FSD Beta system may allow the vehicle to act unsafe around intersections, such as traveling straight through an intersection while in a turn-only lane, entering a stop sign-controlled intersection without coming to a complete stop, or proceeding into an intersection during a steady yellow traffic signal without due caution,” said the recall notice, posted on NHTSA’s website.
+Musk at one point had promised that a fleet of autonomous robotaxis would be in use in 2020. The latest action appears to push that development further into the future.
 
-Tesla will attempt to fix the the FSD feature, which costs $15,000, through an over-the-air software update, the notice added.
+The safety agency says in documents posted on its website Thursday that Tesla will fix the concerns with an online software update in the coming weeks. The documents say Tesla is doing the recall but does not agree with an agency analysis of the problem.
 
-While Tesla CEO Elon Musk has not yet commented on the nature or scope of the problem, he tweeted that “the word “recall” for an over-the-air software update is anachronistic and just flat wrong!”
+The system, which is being tested on public roads by as many as 400,000 Tesla owners, can make unsafe actions such as traveling straight through an intersection while in a turn-only lane, failing to come to a complete stop at stop signs, or going through an intersection during a yellow traffic light without proper caution, NHTSA said. The problems happen in “certain rare circumstances,” the agency wrote.
 
-But NHTSA said in a statement that “manufacturers must initiate a recall for any repair, including a software update, that remedies an unreasonable risk to safety.” The federal agency said it will “continue to monitor the recall remedies for effectiveness.”
+In addition, the system may not adequately respond to changes in posted speed limits, or it may not account for the driver’s adjustments in speed, the documents said.
 
-The notice said that the problems are present with all cars with the current version of the FSD software, which is available on all four Tesla models, the Model S, Model X, Model 3 and Model Y.
+“FSD beta software that allows a vehicle to exceed speed limits or travel through intersections in an unlawful or unpredictable manner increases the risk of a crash,” the agency said in documents.
 
-It also said Tesla has identified18 reports of incidents received between May 8, 2019, and September 12, 2022, that may be related to the conditions described above. It said Tesla is not aware of any injuries or deaths caused in those incidents. NHTSA itself has identified at least 273 crashes that involved one of Tesla’s driver assist systems.
+Musk complained Thursday on Twitter, which he now owns, that calling an over-the-air software update a recall is “anachronistic and just flat wrong!” A message was left Thursday seeking further comment from Tesla, which has disbanded its media relations department.
 
-A Troubled Development
+Tesla has received 18 warranty claims that could be caused by the software from May of 2019 through Sept. 12, 2022, the documents said. But the Austin, Texas, electric vehicle maker told the agency it is not aware of any deaths or injuries.
 
-FSD is considered key to the company’s basic business plan, given the premiums that drivers pay for the features, and it’s ability to attract buyers to chose Tesla cars in the first place. Tesla and Musk have repeatedly claimed that FSD, even in its current “beta” form, is safer than cars driven solely by humans. He told investors last month that Tesla has collected data from about 100 million miles of drivers using FSD outside of highways.
+In a statement, NHTSA said it found the problems during tests performed as part of an investigation into Tesla’s “Full Self-Driving” and “Autopilot” software that take on some driving tasks. The investigation remains open, and the recall doesn’t address the full scope of what NHTSA is scrutinizing, the agency said.
 
-“Our published data shows that improvement in safety,” he said. “It’s very clear. So we would not have released the FSD Beta if the safety statistics were not excellent.”
+Despite the names “Full Self-Driving” and “Autopilot,” Tesla says on its website that the cars cannot drive themselves and owners must be ready to intervene at all times.
 
-But other safety experts have questioned the validity of Tesla’s safety claims. There have been high-profile accidents of Tesla cars using FSD or its more rudimentary predecessor known as “Autopilot.” Some of those accidents included fatalities.
+NHTSA’s testing found that Tesla’s FSD beta testing, “led to an unreasonable risk to motor vehicle safety based on insufficient adherence to traffic safety laws.”
 
-NHTSA is also investigating that predecessor, Autopilot. That technology combines lane-keeping assist with adaptive cruise control to keep a car in a lane on a highway, as opposed to the promise of “full self-driving,” which Tesla says aims to one day be able to operate a vehicle without human supervision on a city street.
+Raj Rajkumar, a professor of computer engineering at Carnegie Mellon University, doubts that Tesla can fix all of the problems cited by NHTSA with a software update. The automaker, he says, relies only on cameras and artificial intelligence to make driving decisions, a system that will make mistakes.
 
-While “this recall seeks to address a specific set of concerns identified by the agency,” NHTSA’s statement said that this recall does not address its earlier investigations. “Accordingly, the agency’s investigation into Tesla’s Autopilot and associated vehicle systems remains open and active.”
+“Cameras can miss a lot of things,” Rajkumar said. “These are not straightforward issues to fix. If they could have fixed it, they would have fixed it a long time back.”
 
-Last month, Tesla disclosed in the company’s annual financial report that it “has received requests from the US Justice Department for documents related to Tesla’s Autopilot and FSD features.”
+Most other companies with self-driving vehicles use laser sensors and radar in addition to cameras to make sure vehicles see everything. “One sensing modality is not perfect by any metric,” Rajkumar said.
 
-Moving Deadlines
+He questioned whether NHTSA will require testing before the software update is sent out to make sure it works. The agency said that it works closely with automakers as they develop recall remedies “to ensure adequacy.”
 
-Musk has repeatedly predicted that the company would soon build a truly self-driving car. But it has also repeatedly pushed back its own self-imposed deadlines. Tesla owners have filed a class-action lawsuit over the predictions and missed deadlines, which is still pending.
+In documents, NHTSA says that on Jan. 25, as part of regular communications with Tesla, it told the automaker about concerns with FSD, and it asked Tesla to do a recall. On Feb. 7, Tesla decided to do the recall out of an abundance of caution, “while not concurring with the agency’s analysis.”
 
-“Mere failure to realize a long-term, aspirational goal is not fraud,” Tesla’s lawyers wrote in a November 28 court filing, asking that the suit be dismissed.
+The recall is another in a list of problems that Tesla has with the U.S. government. In January, the company disclosed that the U.S. Justice Department had requested documents from Tesla about “Full Self-Driving” and “Autopilot.”
 
-Musk has said for years that the price of “full self-driving” would increase periodically as it develops and moves closer to regulatory approval. He tweeted in May 2020 that when “full self-driving” had that approval, the feature would “probably” be worth more than “$100,000.” But as recently as a July 2021 call with investors, Musk said it was “debatable” that the feature was worth the $10,000 Tesla was charging at that time.
+NHTSA has been investigating Tesla’s automated systems since June of 2016 when a driver using Autopilot was killed after his Tesla went under a tractor-trailer crossing its path in Florida. A separate probe into Teslas that were using Autopilot when they crashed into emergency vehicles started in August 2021. At least 14 Teslas have crashed into emergency vehicles while using the Autopilot system.
 
-In September, when CNN Business spoke with 13 people who have cars with the “full self-driving” beta, the overwhelming majority, 11 people, said they felt it wasn’t worth $15,000. And it’s been the subject of controversy for years, including a recent ad that played during the Super Bowl in a few markets.
+NHTSA has sent investigators to 35 Tesla crashes in which automated systems are suspected of being used. Nineteen people have died in those crashes, including two motorcyclists.
 
-Tesla does not appear close to regulatory approval for “full self-driving.” In August of 2022, the California DMV said that the name “full self-driving” is “a deceptive practice” and grounds for suspending or revoking Tesla’s license to sell vehicles in the state.
+The agency also is investigating complaints that Teslas can brake suddenly for no reason.
 
-Tesla, which has disbanded its public relations staff and has not responded to press inquiries for several years, could not be reached for comment.
+Since January of 2022, Tesla has issued 20 recalls, including several that were required by NHTSA. The recalls include one from January of last year for “Full Self-Driving” vehicles being programmed to run stop signs at slow speeds.
 
-CNN’s Matt McFarland contributed to this report.. “We have never been in a more dangerous place in automotive-safety history, except for maybe right when cars were invented and we hadn’t figured out brake lights and headlights yet.”
+“Full Self-Driving” went on sale late in 2015, and Musk has used the name ever since. It currently costs $15,000 to activate the system.
 
-More than 350,000 Tesla vehicles are being recalled by the National Highway Traffic Safety Administration because of concerns about their self-driving-assistance software—but this isn’t your typical recall. The fix will be shipped “over the air” (meaning the software will be updated remotely, and the hardware does not need to be addressed).
+The recall announced Thursday covers certain 2016-2023 Model S and Model X vehicles, as well as 2017 through 2013 Model 3s, and 2020 through 2023 Model Y vehicles equipped with the software, or with installation pending.
 
-Missy Cummings sees the voluntary nature of the recall as a positive sign that Tesla is willing to cooperate with regulators. Cummings, a professor in the computer-science department at George Mason University and a former NHTSA regulator herself, has at times argued that the United States should proceed more cautiously on autonomous vehicles, drawing the ire of Elon Musk, who has accused her of being biased against his company.
+Shares of Tesla closed Thursday down 5.7%. The stock has rallied about 64% in the year to date, reversing 2022’s hefty loss.. Despite their names, neither system can drive cars on its own, and Tesla tells owners of its cars to be prepared to take control at any moment while using its driver-assistance technology. It also instructs car owners to keep their hands on the steering wheel and eyes on the road.
 
-Andrew Moseman: The inconvenient truth about electric vehicles
+Safety experts have often raised concerns about the Tesla systems and similar technology offered by other automakers. One of their biggest fears is that people will become so lulled into thinking that their cars are driving themselves that they will not be able to take control when the technology malfunctions or handle certain traffic conditions.
 
-Cummings also sees this recall as a software story: NHTSA is entering an interesting—perhaps uncharted—regulatory space. “If you release a software update—that’s what’s about to happen with Tesla—how do you guarantee that that software update is not going to cause worse problems? And that it will fix the problems that it was supposed to fix?” she asked me. “If Boeing never had to show how they fixed the 737 Max, would you have gotten into their plane?”
+Data released by the federal safety agency last summer showed that six people died and five were seriously injured in nearly 400 incidents from July 1, 2021, to May 15, 2022, involving cars using advanced driver-assistance technologies. Tesla’s technology, which is installed in many more cars than the systems offered by other automakers, was being used in 273 crashes, five of which were fatal.
 
-Cummings and I discussed that and more over the phone.
+The safety agency said Thursday that Tesla agreed to the recall and planned to fix the flaws through an over-the-air update to the affected vehicles, according to a letter posted on the agency’s website. The recall involves all four of the models the company makes and covers vehicles produced from 2016 to 2023. The automaker intends to notify owners of the recalled vehicles by mail no later than April 15.
 
-Our conversations have been condensed and edited for clarity.
-
-Caroline Mimbs Nyce: What was your reaction to this news?
-
-Missy Cummings: I think it’s good. I think it’s the right move.
-
-Nyce: Were you surprised at all?
-
-Cummings: No. It’s a really good sign—not just because of the specific news that they’re trying to get self-driving to be safer. It also is a very important signal that Tesla is starting to grow up and realize that it’s better to work with the regulatory agency than against them.
-
-Nyce: So you’re seeing the fact that the recall was voluntary as a positive sign from Elon Musk and crew?
-
-Cummings: Yes. Really positive. Tesla is realizing that, just because something goes wrong, it’s not the end of the world. You work with the regulatory agency to fix the problems. Which is really important, because that kind of positive interaction with the regulatory agency is going to set them up for a much better path for dealing with problems that are inevitably going to come up.
-
-That being said, I do think that there are still a couple of sticky issues. The list of problems and corrections that NHTSA asked for was quite long and detailed, which is good—except I just don’t see how anybody can actually get that done in two months. That time frame is a little optimistic.
-
-It’s kind of the Wild West for regulatory agencies in the world of self-certification. If Tesla comes back and says, “Okay, we fixed everything with an over-the-air update,” how do we know that it’s been fixed? Because we let companies self-certify right now, there’s not a clear mechanism to ensure that indeed that fix has happened. Every time that you try to make software to fix one problem, it’s very easy to create other problems.
-
-Nyce: I know there’s a philosophical question that’s come up before, which is, How much should we be having this technology out in the wild, knowing that there are going to be bugs? Do you have a stance?
-
-Cummings: I mean, you can have bugs. Every type of software—even software in safety-critical systems in cars, planes, nuclear reactors—is going to have bugs. I think the real question is, How robust can you make that software to be resilient against inevitable human error inside the code? So I’m okay with bugs being in software that’s in the wild, as long as the software architecture is robust and allows room for graceful degradation.
-
-Nyce: What does that mean?
-
-Cummings: It means that if something goes wrong—for example, if you’re on a highway and you’re going 80 miles an hour and the car commands a right turn—there’s backup code that says, “No, that’s impossible. That’s unsafe, because if we were to take a right turn at this speed … ” So you basically have to create layers of safety within the system to make sure that that can’t happen.
-
-Emma Marris: Bring on the boring EVs
-
-This isn’t just a Tesla problem. These are pretty mature coding techniques, and they take a lot of time and a lot of money. And I worry that the autonomous-vehicle manufacturers are in a race to get the technology out. And anytime you’re racing to get something out, testing and quality assurance always get thrown out the window.
-
-Nyce: Do you think we’ve gone too fast in green-lighting the stuff that’s on the road?
-
-Cummings: Well, I’m a pretty conservative person. It’s hard to say what green-lighting even means. In a world of self-certification, companies were allowed to green-light themselves. The Europeans have a preapproval process, where your technology is preapproved before it is let loose in the real world.
-
-In a perfect world—if Missy Cummings were the king of the world—I would have set up a preapproval process. But that’s not the system we have. So I think the question is, Given the system in place, how are we going to ensure that, when manufacturers do over-the-air updates to safety-critical systems, it fixes the problems that it was supposed to fix and doesn’t introduce new safety-related issues? We don’t know how to do that. We’re not there yet.
-
-In a way, NHTSA is wading into new regulatory waters. This is going to be a good test case for: How do we know when a company has successfully fixed recall problems through software? How can we ensure that that’s safe enough?
-
-Nyce: That’s interesting, especially as we put more software into the things around us.
-
-Cummings: That’s right. It’s not just cars.
-
-Nyce: What did you make of the problem areas that were flagged by NHTSA in the self-driving software? Do you have any sense of why these things would be particularly challenging from a software perspective?
-
-Cummings: Not all, but a lot are clearly perception-based.
-
-The car needs to be able to detect objects in the world correctly so that it can execute, for example, the right rule for taking action. This all hinges on correct perception. If you’re going to correctly identify signs in the world—I think there was an issue with the cars that they sometimes recognized speed-limit signs incorrectly—that’s clearly a perception problem.
-
-What you have to do is a lot of under-the-hood retraining of the computer vision algorithm. That’s the big one. And I have to tell you, that’s why I was like, “Oh snap, that is going to take longer than two months.” I know that theoretically they have some great computational abilities, but in the end, some things just take time. I have to tell you, I’m just so grateful I’m not under the gun there.
-
-Nyce: I wanted to go back a bit—if it were Missy’s world, how would you run the regulatory rollout on something like that?
-
-Cummings: I think in my world we would do a preapproval process for anything with artificial intelligence in it. I think the system we have right now is fine if you take AI out of the equation. AI is a nondeterministic technology. That means it never performs the same way twice. And it’s based on software code that can just be rife with human error. So anytime that you’ve got this code that touches vehicles that move in the world and can kill people, it just needs more rigorous testing and a lot more care and feeding than if you’re just developing a basic algorithm to control the heat in the car.
-
-Read: The simplest way to sell more electric cars in America
-
-I’m kind of excited about what just happened today with this news, because it’s going to make people start to discuss how we deal with over-the-air updates when it touches safety-critical systems. This has been something that nobody really wants to tackle, because it’s really hard. If you release a software update—that’s what’s about to happen with Tesla—how do you guarantee that that software update is not going to cause worse problems? And that it will fix the problems that it was supposed to fix?
-
-What should a company have to prove? So, for example, if Boeing never had to show how they fixed the 737 Max, would you have gotten into their plane? If they just said, “Yeah, I know we crashed a couple and a lot of people died, but we fixed it, trust us,” would you get on that plane?
-
-Nyce: I know you’ve experienced some harassment over the years from the Musk fandom, but you’re still on the phone talking to me about this stuff. Why do you keep going?
-
-Cummings: Because it’s really that important. We have never been in a more dangerous place in automotive-safety history, except for maybe right when cars were invented and we hadn’t figured out brake lights and headlights yet. I really do not think people understand just how dangerous a world of partial autonomy with distraction-prone humans is.
-
-I tell people all the time, “Look, I teach these students. I will never get in a car that any of my students have coded, because I know just what kinds of mistakes they introduce into the system.” And these aren’t exceptional mistakes. They’re just humans. And I think the thing that people forget is that humans create the software.. Tesla has been forced to “recall” all vehicles equipped with Full Self-Driving (FSD) Beta as NHTSA believes it may cause crashes.
-
-The fix is a software update.
-
-In a recall notice released today, NHTSA has notified that Tesla has agreed to “recall” all 362,758 vehicles equipped with FSD Beta in the US over what it believes is a serious risk that it “may cause crashes.”
-
-Here’s the recall notice summary from NHTSA:
-
-Tesla, Inc. (Tesla) is recalling certain 2016-2023 Model S, Model X, 2017-2023 Model 3, and 2020-2023 Model Y vehicles equipped with Full Self-Driving Beta (FSD Beta) software or pending installation. The FSD Beta system may allow the vehicle to act unsafe around intersections, such as traveling straight through an intersection while in a turn-only lane, entering a stop sign-controlled intersection without coming to a complete stop, or proceeding into an intersection during a steady yellow traffic signal without due caution. In addition, the system may respond insufficiently to changes in posted speed limits or not adequately account for the driver’s adjustment of the vehicle’s speed to exceed posted speed limits.
-
-The notice describes well-known mistakes that FSD Beta frequently makes.
-
-Here are NHTSA’s four main issues with FSD Beta:
-
-traveling or turning through certain intersections during a stale yellow traffic light; the perceived duration of the vehicle’s static position at certain intersections with a stop sign, particularly when the intersection is clear of any other road users; adjusting vehicle speed while traveling through certain variable speed zones, based on detected speed limit signage and/or the vehicle’s speed offset setting that is adjusted by the driver; and negotiating a lane change out of certain turn-only lanes to continue traveling straight.
-
-Tesla has been consistently releasing new software updates to try to improve on FSD Beta, but it has never been able to completely remove those behaviors.
-
-Now the “remedy” to the recall is another software update, NHTSA doesn’t go into the specific of the update other than it will “improve” on those behaviors:
-
-Tesla will deploy an over-the-air (‘OTA’) software update at no cost to the customer. The OTA update, which we expect to deploy in the coming weeks, will improve how FSD Beta negotiates certain driving maneuvers during the conditions described above.
-
-Based on the defect notice, NHTSA raised its issue with Tesla about FSD Beta on January 25, 2023, and the automaker met with the regulators on several occasions until February 7.
-
-Tesla disagreed with NHTSA’s analysis, but it decided to do a voluntary recall:
-
-On February 7, 2023, while not concurring with the agency’s analysis, Tesla decided to administer a voluntary recall out of an abundance of caution.
-
-Tesla also confirmed that it identified 18 warranty claims between May 8, 2019, and September 12, 2022, that it believes “may be related to the conditions” described in the recall notice. The company says that is not aware of any injuries or deaths that may be related to such conditions.
-
-Electrek’s Take
-
-This is interesting. Beyond the usual concerns – “Is it a recall if the fix is a software update?” – the software update itself could be interesting.
-
-All the issues described in the defect notice are things that Tesla has obviously already been working on. Now the fix for the recall is to “improve” on those issues.
-
-Therefore, it sounds to me that the “recall update” is just the usual next Tesla FSD Beta update. No?
-
-But even if it’s just that, it’s still an important situation since it shows that NHTSA is watching closely and willing to put pressure on Tesla regarding the FSD Beta program.. On Thursday Tesla had to issue a recall for nearly 363,000 of its electric vehicles. At issue is the company's highly controversial "Full Self Driving" Beta, which the National Highway Traffic Safety Administration believes is dangerous.
-
-NHTSA has four principal complaints with the driver-assistance system:
-
-The FSD Beta system may allow the vehicle to act unsafe around intersections, such as traveling straight through an intersection while in a turn-only lane, entering a stop sign-controlled intersection without coming to a complete stop, or proceeding into an intersection during a steady yellow traffic signal without due caution.
-
-Additionally, NHTSA says that "the system may respond insufficiently to changes in posted speed limits or not adequately account for the driver's adjustment of the vehicle's speed to exceed posted speed limits."
-
-According to the timeline published by the nation's auto safety regulator, NHTSA told Tesla on January 25 that it had four concerns about FSD Beta's driving behavior and asked Tesla to issue a recall. After a couple of weeks of discussions, Tesla apparently did not concur with the agency but decided to issue a recall anyway, perhaps reading the writing on the wall.
-
-Advertisement
-
-The recall affects 2016-2023 Models S, 2016-2023 Models X, 2017-2023 Models 3, and 2020-2023 Models Y "that have installed or are pending installation of a software release that contains the Autosteer on City Streets feature."
-
-This is at least the second recall for FSB Beta; in November 2021 the OEM had to recall 11,706 EVs that had downloaded the then-current FSD Beta due to that version's propensity to brake inappropriately, leading to multiple complaints.
-
-Tesla CEO Elon Musk has said in the past that FSD is "make or break" for Tesla and that the feature is the difference between his company being "worth a lot of money or worth basically zero."
-
-Affected Tesla owners will be notified by mid-April, and the automaker will push out a new version of the software over the air, which it says will "improve how FSD Beta negotiates certain driving maneuvers during the conditions described above."
-
-This does not mark the end of Tesla's driver-assist woes. NHTSA is continuing to investigate the less-capable but more ubiquitous Autopilot feature after 41 crashes since 2016, resulting in at least 19 deaths.
+The safety agency said that Tesla did not agree with the regulators' analysis but that the company had agreed to a voluntary recall “out of an abundance of caution.”

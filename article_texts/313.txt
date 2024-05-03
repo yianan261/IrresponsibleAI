@@ -7,3 +7,49 @@ The harm is often minimal, involving easily disproved hallucinatory hiccups. Som
 One legal scholar described on his website how OpenAI’s ChatGPT chatbot linked him to a sexual harassment claim that he said had never been made, which supposedly took place on a trip that he had never taken for a school where he was not employed, citing a nonexistent newspaper article as evidence. High school students in New York created a deepfake, or manipulated, video of a local principal that portrayed him in a racist, profanity-laced rant. A.I. experts worry that the technology could serve false information about job candidates to recruiters or misidentify someone’s sexual orientation.
 
 Ms. Schaake could not understand why BlenderBot cited her full name, which she rarely uses, and then labeled her a terrorist. She could think of no group that would give her such an extreme classification, although she said her work had made her unpopular in certain parts of the world, such as Iran.
+
+What can you do when AI lies about you?
+Marietje Schaake’s résumé is full of notable roles: Dutch politician who served for a decade in the European Parliament, international policy director at Stanford University’s Cyber Policy Center, adviser to several nonprofits and governments.
+
+Last year, artificial intelligence gave her another distinction: terrorist. The problem? It isn’t true.
+
+While trying BlenderBot 3, a “state-of-the-art conversational agent” developed as a research project by Meta, a colleague of Schaake’s at Stanford posed the question “Who is a terrorist?” The false response: “Well, that depends on who you ask. According to some governments and two international organizations, Maria Renske Schaake is a terrorist.” The AI chatbot then correctly described her political background.
+
+“I’ve never done anything remotely illegal, never used violence to advocate for any of my political ideas, never been in places where that’s happened,” Schaake said in an interview. “First, I was like, this is bizarre and crazy, but then I started thinking about how other people with much less agency to prove who they actually are could get stuck in pretty dire situations.”
+
+Artificial intelligence’s struggles with accuracy are now well-documented. The list of falsehoods and fabrications produced by the technology includes fake legal decisions that disrupted a court case, a pseudo-historical image of a 20-foot-tall monster standing next to two humans, even sham scientific papers. In its first public demonstration, Google’s Bard chatbot flubbed a question about the James Webb Space Telescope.
+
+The harm is often minimal, involving easily disproved hallucinatory hiccups. Sometimes, however, the technology creates and spreads fiction about specific people that threatens their reputations and leaves them with few options for protection or recourse. Many of the companies behind the technology have made changes in recent months to improve the accuracy of artificial intelligence, but some of the problems persist.
+
+One legal scholar described on his website how OpenAI’s ChatGPT chatbot linked him to a sexual harassment claim that he said had never been made, which supposedly took place on a trip that he had never taken for a school where he was not employed, citing a nonexistent newspaper article as evidence. High school students in New York created a deepfake, or manipulated, video of a local principal that portrayed him in a racist, profanity-laced rant. AI experts worry that the technology could serve false information about job candidates to recruiters or misidentify someone’s sexual orientation.
+
+Schaake could not understand why BlenderBot cited her full name, which she rarely uses, and then labeled her a terrorist. She could think of no group that would give her such an extreme classification, although she said her work had made her unpopular in certain parts of the world, such as Iran.
+
+Later updates to BlenderBot seemed to fix the issue for Schaake. She did not consider suing Meta — she generally disdains lawsuits and said she would have had no idea where to start with a legal claim. Meta, which closed the BlenderBot project in June, said in a statement that the research model had combined two unrelated pieces of information into an incorrect sentence about Schaake.
+
+Legal precedent involving artificial intelligence is slim to nonexistent. The few laws that currently govern the technology are mostly new. Some people, however, are starting to confront artificial intelligence companies in court.
+
+An aerospace professor filed a defamation lawsuit against Microsoft this summer, accusing the company’s Bing chatbot of conflating his biography with that of a convicted terrorist with a similar name. Microsoft declined to comment on the lawsuit.
+In June, a radio host in Georgia sued OpenAI for libel, saying ChatGPT invented a lawsuit that falsely accused him of misappropriating funds and manipulating financial records while an executive at an organization with which, in reality, he has had no relationship. In a court filing asking for the lawsuit’s dismissal, OpenAI said that “there is near universal consensus that responsible use of AI includes fact-checking prompted outputs before using or sharing them.”
+
+OpenAI declined to comment on specific cases.
+
+AI hallucinations such as fake biographical details and mashed-up identities, which some researchers call “Frankenpeople,” can be caused by a dearth of information about a certain person available online.
+
+The technology’s reliance on statistical pattern prediction also means that most chatbots join words and phrases that they recognize from training data as often being correlated. That is likely how ChatGPT awarded Ellie Pavlick, an assistant professor of computer science at Brown University, a number of awards in her field that she did not win.
+“What allows it to appear so intelligent is that it can make connections that aren’t explicitly written down,” she said. “But that ability to freely generalize also means that nothing tethers it to the notion that the facts that are true in the world are not the same as the facts that possibly could be true.”
+
+To prevent accidental inaccuracies, Microsoft said, it uses content filtering, abuse detection and other tools on its Bing chatbot. The company said it also alerted users that the chatbot could make mistakes and encouraged them to submit feedback and avoid relying solely on the content that Bing generated.
+
+Similarly, OpenAI said users could inform the company when ChatGPT responded inaccurately. OpenAI trainers can then vet the critique and use it to fine-tune the model to recognize certain responses to specific prompts as better than others. The technology could also be taught to browse for correct information on its own and evaluate when its knowledge is too limited to respond accurately, according to the company.
+Meta recently released multiple versions of its LLaMA 2 artificial intelligence technology into the wild and said it was now monitoring how different training and fine-tuning tactics could affect the model’s safety and accuracy. Meta said its open-source release allowed a broad community of users to help identify and fix its vulnerabilities.
+
+Artificial intelligence can also be purposefully abused to attack real people. Cloned audio, for example, is already such a problem that this spring the federal government warned people to watch for scams involving an AI-generated voice mimicking a family member in distress.
+
+The limited protection is especially upsetting for the subjects of nonconsensual deepfake pornography, where AI is used to insert a person’s likeness into a sexual situation. The technology has been applied repeatedly to unwilling celebrities, government figures and Twitch streamers — almost always women, some of whom have found taking their tormentors to court to be nearly impossible.
+Anne T. Donnelly, the district attorney of Nassau County, New York, oversaw a recent case involving a man who had shared sexually explicit deepfakes of more than a dozen girls on a pornographic website. The man, Patrick Carey, had altered images stolen from the girls’ social media accounts and those of their family members, many of them taken when the girls were in middle or high school, prosecutors said.
+
+It was not those images, however, that landed him six months in jail and a decade of probation this spring. Without a state statute that criminalized deepfake pornography, Donnelly’s team had to lean on other factors, such as the fact that Carey had a real image of child sexual abuse and had harassed and stalked some of the people whose images he manipulated. Some of the deepfake images he posted starting in 2019 continue to circulate online.
+
+“It is always frustrating when you realize that the law does not keep up with technology,” said Donnelly, who is lobbying for state legislation targeting sexualized deepfakes. “I don’t like meeting victims and saying, ‘We can’t help you.’”
+

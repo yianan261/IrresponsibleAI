@@ -1,24 +1,4 @@
-On Tuesday, Meta AI unveiled a demo of Galactica, a large language model designed to "store, combine and reason about scientific knowledge." While intended to accelerate writing scientific literature, adversarial users running tests found it could also generate realistic nonsense. After several days of ethical criticism, Meta took the demo offline, reports MIT Technology Review.
-
-Large language models (LLMs), such as OpenAI's GPT-3, learn to write text by studying millions of examples and understanding the statistical relationships between words. As a result, they can author convincing-sounding documents, but those works can also be riddled with falsehoods and potentially harmful stereotypes. Some critics call LLMs "stochastic parrots" for their ability to convincingly spit out text without understanding its meaning.
-
-Enter Galactica, an LLM aimed at writing scientific literature. Its authors trained Galactica on "a large and curated corpus of humanity’s scientific knowledge," including over 48 million papers, textbooks and lecture notes, scientific websites, and encyclopedias. According to Galactica's paper, Meta AI researchers believed this purported high-quality data would lead to high-quality output.
-
-Starting on Tuesday, visitors to the Galactica website could type in prompts to generate documents such as literature reviews, wiki articles, lecture notes, and answers to questions, according to examples provided by the website. The site presented the model as "a new interface to access and manipulate what we know about the universe."
-
-Advertisement
-
-While some people found the demo promising and useful, others soon discovered that anyone could type in racist or potentially offensive prompts, generating authoritative-sounding content on those topics just as easily. For example, someone used it to author a wiki entry about a fictional research paper titled "The benefits of eating crushed glass."
-
-Even when Galactica's output wasn't offensive to social norms, the model could assault well-understood scientific facts, spitting out inaccuracies such as incorrect dates or animal names, requiring deep knowledge of the subject to catch.
-
-I asked #Galactica about some things I know about and I'm troubled. In all cases, it was wrong or biased but sounded right and authoritative. I think it's dangerous. Here are a few of my experiments and my analysis of my concerns. (1/9) — Michael Black (@Michael_J_Black) November 17, 2022
-
-As a result, Meta pulled the Galactica demo Thursday. Afterward, Meta's chief AI scientist, Yann LeCun, tweeted, "Galactica demo is off line for now. It's no longer possible to have some fun by casually misusing it. Happy?"
-
-The episode recalls a common ethical dilemma with AI: When it comes to potentially harmful generative models, is it up to the general public to use them responsibly or for the publishers of the models to prevent misuse?
-
-Where the industry practice falls between those two extremes will likely vary between cultures and as deep learning models mature. Ultimately, government regulation may end up playing a large role in shaping the answer.. Bookmark Save as PDF My Authors
+Bookmark Save as PDF My Authors
 
 
 
@@ -124,10 +104,24 @@ So TL;DR, what could be done better
 
 - Add disclaimers if there are any future demos
 
-• • •. “I am both astounded and unsurprised by this new effort,” says Chirag Shah at the University of Washington, who studies search technologies. “When it comes to demoing these things, they look so fantastic, magical, and intelligent. But people still don’t seem to grasp that in principle such things can’t work the way we hype them up to.”
+• • •. On Tuesday, Meta AI unveiled a demo of Galactica, a large language model designed to "store, combine and reason about scientific knowledge." While intended to accelerate writing scientific literature, adversarial users running tests found it could also generate realistic nonsense. After several days of ethical criticism, Meta took the demo offline, reports MIT Technology Review.
 
-Asked for a statement on why it had removed the demo, Meta pointed MIT Technology Review to a tweet that says: “Thank you everyone for trying the Galactica model demo. We appreciate the feedback we have received so far from the community, and have paused the demo for now. Our models are available for researchers who want to learn more about the work and reproduce results in the paper.”
+Large language models (LLMs), such as OpenAI's GPT-3, learn to write text by studying millions of examples and understanding the statistical relationships between words. As a result, they can author convincing-sounding documents, but those works can also be riddled with falsehoods and potentially harmful stereotypes. Some critics call LLMs "stochastic parrots" for their ability to convincingly spit out text without understanding its meaning.
 
-A fundamental problem with Galactica is that it is not able to distinguish truth from falsehood, a basic requirement for a language model designed to generate scientific text. People found that it made up fake papers (sometimes attributing them to real authors), and generated wiki articles about the history of bears in space as readily as ones about protein complexes and the speed of light. It’s easy to spot fiction when it involves space bears, but harder with a subject users may not know much about.
+Enter Galactica, an LLM aimed at writing scientific literature. Its authors trained Galactica on "a large and curated corpus of humanity’s scientific knowledge," including over 48 million papers, textbooks and lecture notes, scientific websites, and encyclopedias. According to Galactica's paper, Meta AI researchers believed this purported high-quality data would lead to high-quality output.
 
-Many scientists pushed back hard. Michael Black, director at the Max Planck Institute for Intelligent Systems in Germany, who works on deep learning, tweeted: “In all cases, it was wrong or biased but sounded right and authoritative. I think it’s dangerous.”
+Starting on Tuesday, visitors to the Galactica website could type in prompts to generate documents such as literature reviews, wiki articles, lecture notes, and answers to questions, according to examples provided by the website. The site presented the model as "a new interface to access and manipulate what we know about the universe."
+
+Advertisement
+
+While some people found the demo promising and useful, others soon discovered that anyone could type in racist or potentially offensive prompts, generating authoritative-sounding content on those topics just as easily. For example, someone used it to author a wiki entry about a fictional research paper titled "The benefits of eating crushed glass."
+
+Even when Galactica's output wasn't offensive to social norms, the model could assault well-understood scientific facts, spitting out inaccuracies such as incorrect dates or animal names, requiring deep knowledge of the subject to catch.
+
+I asked #Galactica about some things I know about and I'm troubled. In all cases, it was wrong or biased but sounded right and authoritative. I think it's dangerous. Here are a few of my experiments and my analysis of my concerns. (1/9) — Michael Black (@Michael_J_Black) November 17, 2022
+
+As a result, Meta pulled the Galactica demo Thursday. Afterward, Meta's chief AI scientist, Yann LeCun, tweeted, "Galactica demo is off line for now. It's no longer possible to have some fun by casually misusing it. Happy?"
+
+The episode recalls a common ethical dilemma with AI: When it comes to potentially harmful generative models, is it up to the general public to use them responsibly or for the publishers of the models to prevent misuse?
+
+Where the industry practice falls between those two extremes will likely vary between cultures and as deep learning models mature. Ultimately, government regulation may end up playing a large role in shaping the answer.

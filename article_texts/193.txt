@@ -1,0 +1,62 @@
+False positives still cause threat alert fatigue
+How you set up and prioritize which alerts to look at and act on is the basis for an effective threat management strategy.
+It is commonly referred to as information overload. An infosec professional throws out a wide net in hopes of stopping malware before it gets too deep into the network, but like a motion-sensor light, sometimes the alert catches a squirrel instead of a burglar.
+
+Rob Kerr, chief technology officer at Haystax Technology, cited the 2013 breach at Target, as an example in which thieves stole some 40 million Target credit cards by accessing data on point of sale (POS) systems. Target later revised that number to include theft of private data for 70 million customers.
+
+“There were many missteps before the breach happened, but a big one was that Target missed internal alerts — only finding out about the breach when they were contacted by the Department of Justice,” he said.
+
+Kerr said there were two different issues relating to the alert problem: While the attack was in progress, monitoring software (FireEye) alerted staff in Bangalore, India, who in turn notified Target staff in Minneapolis. No action was taken because these alerts were included with many other likely false alerts. Kerr recalls that it also appeared that at least some of the company’s network infiltration alerting systems were turned off to reduce false positives.
+
+A survey by FireEye polled C-level security executives at large enterprises worldwide and found that 37 percent of respondents receive more than 10,000 alerts each month. Of those alerts, 52 percent were false positives, and 64 percent were redundant alerts.
+
+“This represents a huge burden on companies, as around 40 percent of them manually review each alert,” Kerr said.
+
+In most enterprises, various monitoring and detection solutions are constantly combing through network and user activity data looking for anomalies that may indicate a malicious event is taking place. Each time the system gets a hit, an alert is generated that typically requires a human analyst to either verify it is a bona-fide threat, or clear as not applicable or too minor.
+
+The problem this creates is analyst overload, Kerr notes. “In other words, the system is unable to provide sufficient context up front to filter out the anomaly before it generates an alert, so it falls to the analyst to do that manually. This is a big problem because there are thousands of pieces of data on network logins, printer activity and building access logs. So there will be an alert when Bob — who typically works 9 to 5 every day — reenters the office at 7:30 one evening and prints a large file on a Sunday, accessing a file server that is normally off-limits to him.” 
+
+The Cisco 2017 Security Capabilities Benchmark Study found that, due to various constraints, organizations can investigate only 56 percent of the security alerts they receive on a given day. Half of the investigated alerts (28 percent) are deemed legitimate; less than half (46 percent) of legitimate alerts are remediated. In addition, 44 percent of security operations managers see more than 5000 security alerts per day.
+
+Kerr added that the combination of filtering out minor activity and highlighting the highest-priority risks has the net effect of providing enough context to drastically diminish false positives and the burdens they place on overworked analyst teams.
+One of the key takeaways from a recent Rapid7 report was that reducing alert fatigue should always be a goal, but there’s more to it. A better signal-to-noise ratio means responders and analysts are more likely to see meaningful trends. One trend is that attackers still heavily rely on user interaction. For instance, on Monday holidays, alerts dipped significantly, which Rapid7’s analysts attributed to a lack of employees interacting with malicious emails, attachments, etc.
+
+Rapid 7’s report also notes that if you design indicators based only on currently available information, rather than seeking out additional intelligence or adding industry- and company-specific context, the result will be low-quality alerts. In other words: while most alerts are triggered from known, malicious activity, the quality of these alerts is entirely dependent on the established indicators.
+
+Rebekah Brown, intelligence lead at Rapid7, said it is difficult to compile a list of common alerts that will be good for everyone, all the time. “Even some that seem like obvious choices–i.e., alerting on hashes associated with ransomware–may not be universally applicable. For example, if they are hashes that encrypt Windows-based systems, they wouldn’t be relevant in an organization that only uses Macs,” she said.
+
+She added that a customer needs to identify what threats are relevant to them because of the systems they use, the data they have, and their threat profile. For example, a retail company that deals with both online and in-store sales would want to alert on:
+
+Threats to their e-commerce platform, which can come from a threat feed that gathers data on brute force and other attacks against that specific platform
+Threats to POS systems 
+Threats reported by an industry-specific information sharing group, such as the R-CISC
+General threats to Windows systems including ransomware, credential theft  or malware 
+Custom alerts based on things that they have seen in their environment before
+Brown said there are three primary sources for detections: threat feeds (primarily from honeypots and network sensors), threat reports (primarily from IR investigations or research initiatives), and internal detections (from previous incidents).
+
+Staple lists Brown likes to use include Facebook threat exchange, Openbl_1d (open blocklist 1 day), Ransomware_feed by Abuse.ch and SSL blacklist by Abuse.ch.
+Common mistakes
+Kerr shared common security analytics mistakes that trigger false positives. They are as follows: 
+
+1. More alerts than you can process. Security analytics systems present a challenge for security organizations. They can alert on just about any event, and most of the time those alerts are for benign events. The natural response is to turn off the noisiest offenders. Turn off too many and you can miss events that are important. Good security analytics tools use context to give you the best of both worlds — fewer, higher quality alerts.
+
+2. Only alerting for things that are happening right now. Security analytics systems are most often configured to alert when something obviously malicious is occurring.  But waiting until you see malicious activity puts your security team into response mode before they even start. Good security analytics tools are like spotlights and let you see negative behavior before it starts so you can take proactive action to stop it.
+
+3. Only looking at network data. Security analytics systems are often configured to only see network data. This data is readily available, and connecting it to your system is generally painless. However, many potentially malicious network events are more likely benign events that triggered your security analytics system. Additional information is essential to clear the alerts and your security team spends its time gathering data to clear alerts. Good security analytics tools integrate with other internal and external data sources to eliminate specious alerts based on context.
+
+4. Not prioritizing alerts. Time is our most precious commodity.  Security analytics systems that don’t effectively prioritize alerts waste your team’s time by asking them to clear low-value alerts when highly important alerts linger at the bottom of their queue. Good security analytics systems drive your team to the events that most need attention via strong prioritization.
+
+5. Alerts without context. When your security team processes an alert, the first thing they will do is look for additional information that provides the context they need to clear it. They will use a variety of on and off network tools to evaluate the alert and take the appropriate action. Good security analytics tools will assist that workflow by integrating with other internal and external data sources to minimize false alerts and prioritize real alerts more effectively.
+
+Setting up good alerts
+Brown said companies should look for reports that are specific to your industry, sector, or geographic region. Reports are better at this than feeds. Here are a few she recommends.
+
+US-CERT reports usually contain at least some contextual information, along with network based indicators that can be used to build detections for network traffic (primarily c2 nodes–if you see this then you already have malware on your system) as well as host-based detections, which are usually malware hashes or file names. These can be blocked or monitored for. If they are blocked you should still have a way to check those alerts, it is important to see who has attempted to attack you. 
+
+DHS/FBI and other .gov reports are often not as timely as one would hope, but if the government is taking the time to put something out, it is worth your time to read. Look for the timing on when the attack/data was from. Most of the time with these reports it is good to look back in time for indicators rather than setting up alerts. By the time the government has put something out the attackers have likely changed infrastructure or moved onto a new evolution of malware samples. 
+
+Commercial threat reports are often more timely than government reports, though they are also usually coming at the tail end of an investigation, so it may not be worth setting up alerts looking for future activity, especially when it comes to network-based indicators like IP addresses and domains that are often not active for long. Instead, look for attacker activities or behaviors to build detections – for example, did an attacker use a phishing email to get an attacker to download a file, which then launched an executable (like we saw with the recent exploitation of CVE-2017-1099)?  In that case, blocking or alerting on executables launched from word documents would be a good detection. The more a detection can look for an attacker behavior rather than just a discreet indicator associated with a piece of malware the more effective that detection will be.
+
+Researcher blogs are some of the best sources of intelligence on threats. They are usually timely and have good technical information, though they don’t always provide higher level details such as which industries are targeted or what the impact of an attack would be. Still, they are some of the best places to get information on how attacks are being carried out.
+
+“When building detections from blogs, I look for what can be alerted on (IPs, domains, hashes or behaviors such as where a malware sample executes), the timing and what the threat is related to. When you have these pieces you can understand what the threat is and what to do if you see something alert,” Brown said.

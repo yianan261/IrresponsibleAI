@@ -1,73 +1,19 @@
-Last fall, Canadian student Colin Madland noticed that Twitter’s automatic cropping algorithm continually selected his face—not his darker-skinned colleague’s—from photos of the pair to display in tweets. The episode ignited accusations of bias as a flurry of Twitter users published elongated photos to see whether the AI would choose the face of a white person over a Black person or if it focused on women’s chests over their faces.
+Insights Sharing learnings about our image cropping algorithm By
 
-At the time, a Twitter spokesperson said assessments of the algorithm before it went live in 2018 found no evidence of race or gender bias. Now, the largest analysis of the AI to date has found the opposite: that Twitter’s algorithm favors white people over Black people. That assessment also found that the AI for predicting the most interesting part of a photo does not focus on women’s bodies over women’s faces.
+In October 2020, we heard feedback from people on Twitter that our image cropping algorithm didn’t serve all people equitably. As part of our commitment to address this issue, we also shared that we'd analyze our model again for bias. Over the last several months, our teams have accelerated improvements for how we assess algorithms for potential bias and improve our understanding of whether ML is always the best solution to the problem at hand. Today, we’re sharing the outcomes of our bias assessment and a link for those interested in reading and reproducing our analysis in more technical detail. The analysis of our image cropping algorithm was a collaborative effort together with Kyra Yee and Tao Tantipongpipat from our ML Ethics, Transparency, and Accountability (META) team and Shubhanshu Mishra from our Content Understanding Research team, which specializes in improving our ML models for various types of content in tweets. In our research, we tested our model for gender and race-based biases and considered whether our model aligned with our goal of enabling people to make their own choices on our platform. This post is unavailable This post is unavailable.
 
-Previous tests by Twitter and researcher Vinay Prabhu involved a few hundred images or fewer. The analysis released by Twitter research scientists Wednesday is based on 10,000 image pairs of people from different demographic groups to test whom the algorithm favors.
+How does a saliency algorithm work and where might harms arise? Twitter started using a saliency algorithm in 2018 to crop images. We did this to improve consistency in the size of photos in your timeline and to allow you to see more Tweets at a glance. The saliency algorithm works by estimating what a person might want to see first within a picture so that our system could determine how to crop an image to an easily-viewable size. Saliency models are trained on how the human eye looks at a picture as a method of prioritizing what's likely to be most important to the most people. The algorithm, trained on human eye-tracking data, predicts a saliency score on all regions in the image and chooses the point with the highest score as the center of the crop. In our most recent analysis of this model, we considered three places where harms could arise: Unequal treatment based on demographic differences: People on Twitter noted instances where our model chose white individuals over Black individuals in images and male-presenting images over female-presenting images. We tested the model on a larger dataset to determine if this was a problem with the model. Objectification biases, also known as “male gaze”: People on Twitter also identified instances where image cropping chose a woman’s chest or legs as a salient feature. We tested the model on a larger dataset to determine if this was a systematic flaw. Freedom to take action: An algorithmic decision doesn't allow people to choose how they'd like to express themselves on the platform, resulting in representation harm. How did we test it and what did we find?
 
-Researchers found bias when the algorithm was shown photos of people from two demographic groups. Ultimately, the algorithm picks one person whose face will appear in Twitter timelines, and some groups are better represented on the platform than others. When researchers fed a picture of a Black man and a white woman into the system, the algorithm chose to display the white woman 64 percent of the time and the Black man only 36 percent of the time, the largest gap for any demographic groups included in the analysis. For images of a white woman and a white man, the algorithm displayed the woman 62 percent of the time. For images of a white woman and a Black woman, the algorithm displayed the white woman 57 percent of the time.
+To quantitatively test the potential gender and race-based biases of this saliency algorithm, we created an experiment of randomly linked images of individuals of different races and genders. (Note: In our paper, we share more details around the tradeoffs between using identity terms and skin tone annotations in our analysis.) If the model is demographically equal, we'd see no difference in how many times each image was chosen by the saliency algorithm. In other words, demographic parity means each image has a 50% chance of being salient. Here’s what we found: In comparisons of men and women, there was an 8% difference from demographic parity in favor of women.
 
-On May 5, Twitter did away with image cropping for single photos posted using the Twitter smartphone app, an approach Twitter chief design officer Dantley Davis favored since the algorithm controversy erupted last fall. The change led people to post tall photos and signaled the end of “open for a surprise” tweets.
+In comparisons of black and white individuals, there was a 4% difference from demographic parity in favor of white individuals.
 
-The so-called saliency algorithm is still in use on Twitter.com as well as for cropping multi-image tweets and creating image thumbnails. A Twitter spokesperson says excessively tall or wide photos are now center cropped, and the company plans to end use of the algorithm on the Twitter website. Saliency algorithms are trained by tracking what people look at when they look at an image.
+In comparisons of black and white women, there was a 7% difference from demographic parity in favor of white women.
 
-Other sites, including Facebook and Instagram, have used AI-based automated cropping. Facebook did not respond to a request for comment.
-
-Accusations of gender and race bias in computer vision systems are, unfortunately, fairly common. Google recently detailed efforts to improve how Android cameras work for people with dark skin. Last week the group Algorithm Watch found that image-labeling AI used on an iPhone labeled cartoon depictions of people with dark skin as “animal.” An Apple spokesperson declined to comment.. Twitter‘s algorithm for automatically cropping images attached to tweets often doesn’t focus on the important content in them. A bother, for sure, but it seems like a minor one on the surface. However, over the weekend, researchers found that the cropping algorithm might have a more serious problem: white bias.
-
-Several users posted a lot of photos to show that in an image that has people with different colors, Twitter chooses to show folks with lighter skin after cropping those images to fit its display parameters on its site and embeds. Some of them even tried to reproduce results with fictional characters and dogs.
-
-If you tap on these images, you’ll see an uncropped version of the image which includes more details such as another person or character. What’s odd is that even if users flipped the order of where dark-skinned and light-skinned people appeared in the image, the results were the same.
-
-
-
-Trying a horrible experiment… Which will the Twitter algorithm pick: Mitch McConnell or Barack Obama? pic.twitter.com/bR1GRyCkia — Tony “Abolish (Pol)ICE” Arcieri ? (@bascule) September 19, 2020
-
-Happens with Michael Jackson too…… pic.twitter.com/foUMcExS2P — carter (@gnomestale) September 19, 2020
-
-I wonder if Twitter does this to fictional characters too. Lenny Carl pic.twitter.com/fmJMWkkYEf — Jordan Simonovski (@_jsimonovski) September 20, 2020
-
-I tried it with dogs. Let's see. pic.twitter.com/xktmrNPtid — – M A R K – (@MarkEMarkAU) September 20, 2020
-
-However, some people noted that there might be other factors than the color of the skin. And they who tried different methods found inconsistent results.
-
-Does Twitter's thumbnail-picker algorithm systematically prefer white faces over Black ones? I did an experiment. It's not conclusive, but in my experiment with pictures of Barack Obama, Raphael Warnock, George W. Bush and Donald Trump, the hypothesized pattern didn't appear. pic.twitter.com/2ddcPR5CPi — Jeremy B. Merrill (@jeremybmerrill) September 20, 2020
-
-Twitter’s Chief Design Officer (CDO), Dantley Davis, said that the choice of cropping sometimes takes brightness of the background into consideration.
-
-Here's another example of what I've experimented with. It's not a scientific test as it's an isolated example, but it points to some variables that we need to look into. Both men now have the same suits and I covered their hands. We're still investigating the NN. pic.twitter.com/06BhFgDkyA — Dantley ?✊?? (@dantley) September 20, 2020
-
-In a thread, Bianca Kastl, a developer from Germany, explained that Twitter’s algorithm might be cropping the image based on saliency — an important point or part in an image that you’re likely to look at first when you see it.
-
-Probably Twitters Crop algorithm is a pretty simple Saliency. We will see… pic.twitter.com/q4R0R8h3vh — Bianca Kastl (@bkastl) September 20, 2020
-
-Her theory is backed by Twitter’s 2018 blog post that explained its neural network built for image cropping. The post notes that earlier, the company took facial detection into account to crop images. However, that approach didn’t work for images that didn’t have a face in them. So the social network switched to a saliency-based algorithm.
-
-[Read: Are EVs too expensive? Here are 5 common myths, debunked]
-
-Even if Twitter’s algorithm is not ‘racist,’ enough people have posted examples showing the algorithm appears biased towards lighter skin tones, and the results are problematic.. The company definitely needs to do some digging into their algorithm to understand the bias in its neural network. Anima Anandkumar, Director of AI research at Nvidia, pointed out that the saliency algorithm might be trained using eye-tracking of straight male participants, and that would insert more bias into the algorithm.
-
-Recording straight men where their eyes veer when they view female pictures is encoding objectification and sexualization of women in social media @Twitter No one asks whose eyes are being tracked to record saliency. #ai #bias https://t.co/coXwngSjiW — Prof. Anima Anandkumar (@AnimaAnandkumar) September 20, 2020
-
-Twitter spokesperson Liz Kelly tweeted that the firm tested the model and didn’t find any bias. She added that the company will open-source its work for others to review and replicate. It might be possible that Twitter has ignored some factors while testing, and open-sourcing the study might help them find those blind spots.
-
-thanks to everyone who raised this. we tested for bias before shipping the model and didn't find evidence of racial or gender bias in our testing, but it’s clear that we’ve got more analysis to do. we'll open source our work so others can review and replicate. https://t.co/E6sZV3xboH — liz kelley (@lizkelley) September 20, 2020
-
-The company’s Chief Technology Officer, Parag Agarwal, said that the model needs continuous improvements and the team is eager to learn from this experience.
-
-This is a very important question. To address it, we did analysis on our model when we shipped it, but needs continuous improvement. Love this public, open, and rigorous test — and eager to learn from this. https://t.co/E8Y71qSLXa — Parag Agrawal (@paraga) September 20, 2020
-
-Light skin bias in algorithms is well documented in fields ranging from healthcare to law enforcement. So large companies like Twitter need to continuously work on their systems to get rid of it. Plus, it needs to start an open dialog with the AI community to understand its blind spots.
-
-So you’re interested in AI? Then join our online event, TNW2020, where you’ll hear how artificial intelligence is transforming industries and businesses.. Twitter's first bounty program for AI bias has wrapped up, and there are already some glaring issues the company wants to address. CNET reports that grad student Bogdan Kulynych has discovered that photo beauty filters skew the Twitter saliency (importance) algorithm's scoring system in favor of slimmer, younger and lighter-skinned (or warmer-toned) people. The findings show that algorithms can "amplify real-world biases" and conventional beauty expectations, Twitter said.
+In comparisons of black and white men, there was a 2% difference from demographic parity in favor of white men. This post is unavailable This post is unavailable.. Twitter's first bounty program for AI bias has wrapped up, and there are already some glaring issues the company wants to address. CNET reports that grad student Bogdan Kulynych has discovered that photo beauty filters skew the Twitter saliency (importance) algorithm's scoring system in favor of slimmer, younger and lighter-skinned (or warmer-toned) people. The findings show that algorithms can "amplify real-world biases" and conventional beauty expectations, Twitter said.
 
 This wasn't the only issue. Halt AI learned that Twitter's saliency algorithm "perpetuated marginalization" by cropping out the elderly and people with disabilities. Researcher Roya Pakzad, meanwhile, found that the saliency algorithm prefers cropping Latin writing over Arabic. Another researcher spotted a bias toward light-skinned emojis, while an anonymous contributor found that almost-invisible pixels could manipulate the algorithm's preferences
 
 Twitter has published the code for winning entries.
 
-The company didn't say how soon it might address algorithmic bias. However, this comes as part of a mounting backlash to beauty filters over their tendency to create or reinforce unrealistic standards. Google, for instance, turned off automatic selfie retouching on Pixel phones and stopped referring to the processes as beauty filters. It wouldn't be surprising if Twitter's algorithm took a more neutral stance on content in the near future.. It will pay up to $3,500 to those who uncover issues with the image-cropping algorithm.
-
-Twitter has laid out plans for a bug bounty competition with a difference. This time around, instead of paying researchers who uncover security issues , Twitter will reward those who find as-yet undiscovered examples of bias in its image-cropping algorithm.
-
-Back in April, Twitter said it would study potential “unintentional harms” created by its algorithms, beginning with its image-cropping one. It started using the algorithm in 2018 in an attempt to focus on the most interesting parts of images in previews. Some users criticized how Twitter handled automated cropping , claiming that the algorithm tends to focus on lighter-skinned people in photos.
-
-"In May, we shared our approach to identifying bias in our saliency algorithm (also known as our image cropping algorithm), and we made our code available for others to reproduce our work," Twitter wrote in a blog post . "We want to take this work a step further by inviting and incentivizing the community to help identify potential harms of this algorithm beyond what we identified ourselves."
+The company didn't say how soon it might address algorithmic bias. However, this comes as part of a mounting backlash to beauty filters over their tendency to create or reinforce unrealistic standards. Google, for instance, turned off automatic selfie retouching on Pixel phones and stopped referring to the processes as beauty filters. It wouldn't be surprising if Twitter's algorithm took a more neutral stance on content in the near future.

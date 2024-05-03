@@ -1,4 +1,77 @@
-. Photo by Gary Lopater on Unsplash
+By Stanley Widianto, Ashley Halsey III and Aaron Gregg | Washington Post
+
+JAKARTA, Indonesia – A malfunctioning sensor and an automated response from the aircraft’s software stymied pilots’ efforts to control a doomed Indonesian flight that went careening into the sea last month, according to a preliminary investigative report released Wednesday.
+The report, which stops short of determining the cause of the crash or analyzing findings, chronicles the chaotic moments on the Lion Air flight before it crashed into the waters off the coast of Java last month, killing all 189 passengers and crew on board.
+
+It details how sensors and other equipment were checked and fixed before the aircraft’s final flight, but not the “angle of attack” sensor. That measures where the nose is pointing and was showing erroneous readings throughout the short time the plane was airborne.
+
+With the sensor insisting the nose was too high, an automatic feature kicked in, sending the plane plummeting as the pilots wrestled to regain control. Unable to trust their readings, the pilots resorted to asking air traffic control about their speed and altitude.
+
+Lion Air Flight 610 plunged into the Java Sea on Oct. 29 just after taking off from the Indonesian capital, Jakarta, killing the eight crew members and 181 passengers on board, including a child and two infants.
+
+The crash appears to have been caused by a mix of brand new technology and cockpit confusion as the pilots fought to gain altitude after an early-morning takeoff from Jakarta. The flight crew – at an altitude of just 5,000 feet – had very little time to resolve the issue before the plane crashed into the sea at a reported 450 miles per hour.
+
+Though the report contains no conclusion assigning blame, its descriptions of automated systems overtaking the aircraft – leaving pilots both confused and powerless – poses questions for Boeing and Lion Air about whether the cockpit crew was prepared for this scenario. After the Lion Air crash, pilots in the United States accused Boeing of withholding safety information on its new 737 model.
+
+The aircraft’s pilots asked to return to Jakarta just two minutes after takeoff, reporting a “flight-control problem” but not specifying what it was.
+
+Black-box data released by Indonesian investigators showed that the pilots were pulling back on the control column, attempting to raise the plane’s nose, with almost 100 pounds of pressure before they crashed.
+
+The Indonesian National Transportation Safety Committee, which produced the report, also said that Lion Air, a Jakarta-based low-cost airline, should improve its “safety culture.”
+
+No engineer briefed the pilots of the crashed plane on the multiple problems the aircraft experienced on previous flights, and it was up to him to review the maintenance logs.
+
+The report, however, contains no conclusion on who was at fault.
+
+“When it comes to faulting, I don’t know. Our job isn’t to find faults,” National Transportation Safety Committee investigator Nurcahyo Utomo said at a news conference Wednesday.
+
+The aircraft was the most recent incarnation of the venerable Boeing 737, a plane that first flew in 1967 and has gone through multiple iterations before it emerged as the 737 Max.
+
+The 737 Max was equipped with more-powerful engines that are mounted farther forward on the wing, requiring that additional software be added to the autopilot to provide more control.
+
+That software, which has been described as several lines of coding, was identified in the Boeing manual as the maneuvering characteristics augmentation system, or MCAS.
+
+When the sensors transmitted faulty data to the cockpit of Flight 610, the new MCAS system sensed a stall – that point at which planes do not have enough airspeed to create lift – and sought to correct for it by repeatedly pointing the nose of the aircraft down.
+
+A feature in previous 737 models that allowed pilots to manually override an “electric trimming” process – which automatically budges the nose downward to prevent a stall, does not work in Boeing’s 737 Max 8 planes, Boeing explained in a Nov. 7 bulletin.
+
+That same week, the Federal Aviation Administration issued an emergency notice to all airlines that fly the 737 Max, warning them that erroneous sensor inputs “could cause the flight crew to have difficulty controlling the airplane,” leading to “possible impact with terrain.”
+
+The deviation probably was caused by what is called a “runaway stabilizer.” Stabilizers are essentially those small wings on either side at the tail end of the plane. They each have flaps – called elevators – that help control the elevation of the plane.
+
+In case of a runaway stabilizer, pilots are instructed in the cockpit checklist to hold the control column firmly, disengaging the autopilot that, in this case, contained the MCAS program. Next, they are told, disengage the auto throttle and manually fly the plane.
+
+“This corner of the performance charts is called the ‘coffin corner,’ ” said Mary Schiavo, an aviation lawyer and former inspector general of the U.S. Transportation Department, “and good pilot training teaches you how to get out of coffin corner, but did these pilots realize the plane itself was putting them in coffin corner? Apparently not.”
+
+It is not clear whether the pilots attempted the runaway stabilizer procedure.
+
+Unions representing pilots at Southwest and American airlines said they were not properly informed about the new system during training.
+
+“We did not know this was on the Max models,” Southwest Airlines Pilots Association President Jon Weaks told The Washington Post in a Nov. 13 interview, referring to a new automated flight-control feature.
+
+The prospect that a runaway autopilot system could have contributed to the crash has already been the subject of at least one lawsuit implicating Boeing, with the father of a Lion Air Flight 610 crash victim filing suit recently.
+
+Soerjanto Tjahjono, who heads Indonesia’s National Transportation Safety Committee, said last week that the plane’s black box showed that “the technical problem was the airspeed, or the speed of the plane.” (The plane’s cockpit voice recorder has not been recovered.)
+
+“There were four flights that experienced problems with the airspeed indicator,” Tjahjono said. The angle-of-attack sensor contributes to the airspeed readings.
+
+In testimony before the Indonesian parliament last week, Utomo, the investigator, said that the anti-stall system had activated on the plane as it flew into Jakarta the night before the crash but that the pilots managed to shut it off.
+
+At the news conference Wednesday, Utomo said the plane, on both the doomed flight and the previous flight from Bali to Jakarta, had experienced a stick shaker – “a warning that showed that the plane was going to stall,” he said.
+
+The committee report said differing data between the sensors appeared rectified by cleaning an electrical plug the night before the crash, and a “test on the ground found the problem had been solved.”
+
+But it was not, the report concludes, because when the plane took off shortly after 6 a.m. the following morning, the two flight-speed sensors did not agree on the aircraft’s speed.
+
+The 737 Max is the most popular plane in Boeing history, with 453 delivered so far and 4,671 on order. It is flown or is on order by close to 40 airlines, with Lion Air in the process of receiving more than 200 of the jets.
+
+Boeing said Tuesday that it “continues to work closely with the U.S. National Transportation Safety Board as technical advisers to support the ongoing investigation” by the Indonesian authorities.
+
+The flights of Indonesia’s airlines to U.S. destinations were banned in the decade before 2016 because their safety record was considered abysmal by U.S. standards. The crash of the Lion Air flight was the worst in Indonesia since 1997, when 234 people died on the national airline Garuda in North Sumatra.
+
+Halsey and Gregg reported from Washington. Shibani Mahtani in Hong Kong contributed to this report.
+
+A previous version of this story incorrectly described the general reasons for a plane to stall during flight.. Photo by Gary Lopater on Unsplash
 
 Present day Air travel is one of the safest modes of travel. Statistics from the US Department of Transportation show that in 2007 and 2016 there were 11 fatalities per trillion miles of commercial air travel. This is in stark contrasts to the 7,864 fatalities per trillion miles of travel on the highway ( You can check the statistics here: fatalities and miles of travel per mode of transport). Incremental improvements to air travel is a marvel of technical innovation. However, when an aircraft accident does occur, we are forced to take notice due to the magnitude of a single event.
 
@@ -102,130 +175,4 @@ Air travel is extremely reliable, but introducing software patches as a means to
 
 Update December 2019
 
-Further Reading. Pilots fought against an automated system that pitched a Boeing jetliner's nose down repeatedly because of a faulty sensor until they finally lost control and plunged into the Java Sea last month, Indonesian investigators said Wednesday.
-
-By NINIEK KARMINI and DAVID KOENIG
-
-JAKARTA, Indonesia (AP) — Pilots fought against an automated system that pitched a Boeing jetliner's nose down repeatedly because of a faulty sensor until they finally lost control and plunged into the Java Sea last month, Indonesian investigators said Wednesday.
-
-At a news conference, safety officials said they were still struggling to understand why the plane crashed, killing all 189 people on board.
-
-The National Transportation Safety Commission's Nurcahyo Utomo said investigators were trying to figure out from interviews with engineers why they certified that the Boeing 737 MAX 8 was airworthy and whether they had followed required maintenance procedures. Pilots of previous flights had reported problems with control systems on the brand-new jet.
-
-The board issued a preliminary report that stopped short of declaring a probable cause of the crash — the investigation is continuing — but it provided new details about the pilots' struggle to fly the highly automated jet and Lion Air's inability to fix problems with sensors on the plane.
-
-Sensors that measure speed were flushed and checked, and an electrical plug was cleaned before the fatal flight. Mechanics, however, did not check a sensor that measures whether the nose of the plane is pointing up or down.
-
-That "angle of attack" sensor gave faulty readings throughout the short flight, triggering a system that automatically pointed the plane's nose down more than two dozen times, with pilots responding by manually fighting to correct the pitch. Pilots even asked air traffic controllers to tell them how fast and high they were flying.
-
-The malfunctions and warnings from the plane's control system appeared to overwhelm the pilots almost as soon as the jet became airborne, said another investigator, Ony Suryo Wibowo.
-
-"The problem is if multiple malfunctions occur all at once, which one should be prioritized?" Wibowo said.
-
-In a statement following release of the report, U.S.-based Boeing declared that the MAX, its newest plane, is safe. The manufacturer played up the possibility of pilot error.
-
-Boeing noted that the crew of the plane's previous flight one day earlier had responded correctly to the automatic nose-down pitch and flew the plane manually. They also ran safety checklists. The preliminary report does not say whether pilots on the deadly flight took those steps, Boeing pointed out.
-
-Boeing has said that the procedure to correct an automatic nose-down pitch is in the plane's operating manual and pilots should have known about it.
-
-Searchers have not yet recovered the plane's cockpit voice recorder, which could tell investigators what the pilots were doing — or failing to do — to regain control of the plane during the brief, erratic flight.
-
-The report by Indonesia's safety commission repeated earlier recommendations made just after the disaster that pilots be better versed in emergency procedures and aware of past aircraft problems. They recommended that Lion Air, a fast-growing low-cost airline based in Jakarta, ensure that pilots follow proper procedures "to improve the safety culture."
-
-Mary Schiavo, a former inspector general of the U.S. Department of Transportation, said the preliminary report offered a road map of final recommendations that are likely to emerge from the investigation.
-
-"They will be looking for more precise reporting of problems (by pilots), and certainly a better maintenance response," she said.
-
-Peter Lemme, an expert in aviation and satellite communications and a former Boeing engineer who wrote an analysis of the data on his blog, compared the scene in the cockpit to "a deadly game of tag" in which the plane pointed down, the pilots countered by manually aiming the nose higher, only for the sequence to repeat about five seconds later.
-
-That happened 26 times during the 11-minute flight, but pilots failed to recognize what was happening and follow the known procedure for countering incorrect activation of the automated safety system, Lemme told The Associated Press.
-
-Lemme said he was troubled that there weren't easy checks to see if sensor information was correct, that the crew of the fatal flight apparently wasn't warned about the problems on previous flights and that the Lion Air jet wasn't fully repaired after those flights.
-
-"Had they fixed the airplane, we would not have had the accident," he said. "Every accident is a combination of events, so there is disappointment all around here," he said.
-
-The U.S. National Transportation Safety Board and Boeing experts are helping the Indonesian investigators.
-
-Boeing has a great deal at stake in defending its plane.
-
-More than 200 MAX jets have been delivered to airlines around the world. Pilots at American Airlines and Southwest Airlines complained this month that they had not been given all information about the new automated anti-stall safety system on the MAX.
-
-Boeing shares fell 14 percent in the last three weeks through Tuesday, as investigators focused on the possible role of faulty sensor readings on the new plane. In afternoon trading Wednesday, the shares were up $13.60, or 4.3 percent, to $331.63.
-
-___
-
-Koenig reported from Dallas, Texas.. By Stanley Widianto, Ashley Halsey III and Aaron Gregg | Washington Post
-
-JAKARTA, Indonesia – A malfunctioning sensor and an automated response from the aircraft’s software stymied pilots’ efforts to control a doomed Indonesian flight that went careening into the sea last month, according to a preliminary investigative report released Wednesday.
-
-The report, which stops short of determining the cause of the crash or analyzing findings, chronicles the chaotic moments on the Lion Air flight before it crashed into the waters off the coast of Java last month, killing all 189 passengers and crew on board.
-
-It details how sensors and other equipment were checked and fixed before the aircraft’s final flight, but not the “angle of attack” sensor. That measures where the nose is pointing and was showing erroneous readings throughout the short time the plane was airborne.
-
-With the sensor insisting the nose was too high, an automatic feature kicked in, sending the plane plummeting as the pilots wrestled to regain control. Unable to trust their readings, the pilots resorted to asking air traffic control about their speed and altitude.
-
-Lion Air Flight 610 plunged into the Java Sea on Oct. 29 just after taking off from the Indonesian capital, Jakarta, killing the eight crew members and 181 passengers on board, including a child and two infants.
-
-The crash appears to have been caused by a mix of brand new technology and cockpit confusion as the pilots fought to gain altitude after an early-morning takeoff from Jakarta. The flight crew – at an altitude of just 5,000 feet – had very little time to resolve the issue before the plane crashed into the sea at a reported 450 miles per hour.
-
-Though the report contains no conclusion assigning blame, its descriptions of automated systems overtaking the aircraft – leaving pilots both confused and powerless – poses questions for Boeing and Lion Air about whether the cockpit crew was prepared for this scenario. After the Lion Air crash, pilots in the United States accused Boeing of withholding safety information on its new 737 model.
-
-The aircraft’s pilots asked to return to Jakarta just two minutes after takeoff, reporting a “flight-control problem” but not specifying what it was.
-
-Black-box data released by Indonesian investigators showed that the pilots were pulling back on the control column, attempting to raise the plane’s nose, with almost 100 pounds of pressure before they crashed.
-
-The Indonesian National Transportation Safety Committee, which produced the report, also said that Lion Air, a Jakarta-based low-cost airline, should improve its “safety culture.”
-
-No engineer briefed the pilots of the crashed plane on the multiple problems the aircraft experienced on previous flights, and it was up to him to review the maintenance logs.
-
-The report, however, contains no conclusion on who was at fault.
-
-“When it comes to faulting, I don’t know. Our job isn’t to find faults,” National Transportation Safety Committee investigator Nurcahyo Utomo said at a news conference Wednesday.
-
-The aircraft was the most recent incarnation of the venerable Boeing 737, a plane that first flew in 1967 and has gone through multiple iterations before it emerged as the 737 Max.
-
-The 737 Max was equipped with more-powerful engines that are mounted farther forward on the wing, requiring that additional software be added to the autopilot to provide more control.
-
-That software, which has been described as several lines of coding, was identified in the Boeing manual as the maneuvering characteristics augmentation system, or MCAS.
-
-When the sensors transmitted faulty data to the cockpit of Flight 610, the new MCAS system sensed a stall – that point at which planes do not have enough airspeed to create lift – and sought to correct for it by repeatedly pointing the nose of the aircraft down.
-
-A feature in previous 737 models that allowed pilots to manually override an “electric trimming” process – which automatically budges the nose downward to prevent a stall, does not work in Boeing’s 737 Max 8 planes, Boeing explained in a Nov. 7 bulletin.
-
-That same week, the Federal Aviation Administration issued an emergency notice to all airlines that fly the 737 Max, warning them that erroneous sensor inputs “could cause the flight crew to have difficulty controlling the airplane,” leading to “possible impact with terrain.”
-
-The deviation probably was caused by what is called a “runaway stabilizer.” Stabilizers are essentially those small wings on either side at the tail end of the plane. They each have flaps – called elevators – that help control the elevation of the plane.
-
-In case of a runaway stabilizer, pilots are instructed in the cockpit checklist to hold the control column firmly, disengaging the autopilot that, in this case, contained the MCAS program. Next, they are told, disengage the auto throttle and manually fly the plane.
-
-“This corner of the performance charts is called the ‘coffin corner,’ ” said Mary Schiavo, an aviation lawyer and former inspector general of the U.S. Transportation Department, “and good pilot training teaches you how to get out of coffin corner, but did these pilots realize the plane itself was putting them in coffin corner? Apparently not.”
-
-It is not clear whether the pilots attempted the runaway stabilizer procedure.
-
-Unions representing pilots at Southwest and American airlines said they were not properly informed about the new system during training.
-
-“We did not know this was on the Max models,” Southwest Airlines Pilots Association President Jon Weaks told The Washington Post in a Nov. 13 interview, referring to a new automated flight-control feature.
-
-The prospect that a runaway autopilot system could have contributed to the crash has already been the subject of at least one lawsuit implicating Boeing, with the father of a Lion Air Flight 610 crash victim filing suit recently.
-
-Soerjanto Tjahjono, who heads Indonesia’s National Transportation Safety Committee, said last week that the plane’s black box showed that “the technical problem was the airspeed, or the speed of the plane.” (The plane’s cockpit voice recorder has not been recovered.)
-
-“There were four flights that experienced problems with the airspeed indicator,” Tjahjono said. The angle-of-attack sensor contributes to the airspeed readings.
-
-In testimony before the Indonesian parliament last week, Utomo, the investigator, said that the anti-stall system had activated on the plane as it flew into Jakarta the night before the crash but that the pilots managed to shut it off.
-
-At the news conference Wednesday, Utomo said the plane, on both the doomed flight and the previous flight from Bali to Jakarta, had experienced a stick shaker – “a warning that showed that the plane was going to stall,” he said.
-
-The committee report said differing data between the sensors appeared rectified by cleaning an electrical plug the night before the crash, and a “test on the ground found the problem had been solved.”
-
-But it was not, the report concludes, because when the plane took off shortly after 6 a.m. the following morning, the two flight-speed sensors did not agree on the aircraft’s speed.
-
-The 737 Max is the most popular plane in Boeing history, with 453 delivered so far and 4,671 on order. It is flown or is on order by close to 40 airlines, with Lion Air in the process of receiving more than 200 of the jets.
-
-Boeing said Tuesday that it “continues to work closely with the U.S. National Transportation Safety Board as technical advisers to support the ongoing investigation” by the Indonesian authorities.
-
-The flights of Indonesia’s airlines to U.S. destinations were banned in the decade before 2016 because their safety record was considered abysmal by U.S. standards. The crash of the Lion Air flight was the worst in Indonesia since 1997, when 234 people died on the national airline Garuda in North Sumatra.
-
-Halsey and Gregg reported from Washington. Shibani Mahtani in Hong Kong contributed to this report.
-
-A previous version of this story incorrectly described the general reasons for a plane to stall during flight.
+Further Reading

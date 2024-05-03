@@ -1,103 +1,67 @@
-An “unbiased” computer algorithm used for informing judicial decisions appears to be no better than the assessments of a random group of people, according to
-
-Receive emails about upcoming NOVA programs and related content, as well as featured reporting about current events through a science lens. Email Address Zip Code Subscribe
-
-a recent study. What’s more, the algorithm appears to issue racially biased recommendations.
-
-COMPAS, the software that many judges use to inform their sentencing decisions, tends to classify black people as higher risk and white people as lower risk, despite not including explicit information about race. In practice, this translates into more lenient rehabilitation suggestions for white defendant and more rigorous programs black defendant of the same recidivism risk.
-
-Support Provided By Learn More
-
-A study of 1,000 defendants suggests that an algorithm used by judges in several states may be wrong a third of the time.
-
-The results—and the bias—were statistically indistinguishable from judgement calls made by human volunteers randomly selected over the internet.
-
-Here’s John Timmer writing at Ars Technica:
-
-The significance of that discrepancy is still the subject of some debate, but two Dartmouth College researchers have asked a more fundamental question: is the software any good? The answer they came up with is “not especially,” as its performance could be matched by recruiting people on Mechanical Turk or performing a simple analysis that only took two factors into account.
-
-The racial bias likely creeps into the COMPAS algorithm through data on arrest rates, which in some cities and counties are skewed. Equivalent, the developer of COMPAS, says it relies on 127 different data points when determining rehabilitation programs, but only six when assessing whether an individual is at risk of reoffending.
-
-The new study builds on an investigation by Pro Publica, which analyzed COMPAS’s performance in Broward County, Florida, between 2013–2014. Researchers at Dartmouth College took data on age, sex, and criminal history for 1,000 defendants and handed it to volunteer “judges” who were recruited over the internet via Amazon’s Mechanical Turk service.
-
-COMPAS was no better than the study’s participants in assessing the risk of a defendant reoffending. The study’s authors compared the recommendations made by COMPAS and the participants with real-world data on reoffenders. In practice, more white people who were predicted not to reoffend did (40.3% humans, 47.9% COMPAS) compared with black people (29.2% humans, 30.9% COMPAS). Moreover, a larger proportion of black criminals were wrongly predicted to reoffend (37.1% humans, 40.4% COMPAS) compared with white defendants (27.2% humans, 25.4% COMPAS).
-
-While COMPAS and human judgements were similar, failed judgement calls tended to favor white defendants and disadvantage black defendants. False positives are instances where criminals do not reoffend, but were predicted to. False negatives are instances where criminals were predicted to reform but did not.
-
-The Dartmouth researchers also managed to reproduce the software’s predictions by consulting only 5% of the information the algorithm purportedly considers.
-
-“The widely used commercial risk assessment software COMPAS is no more accurate or fair than predictions made by people with little or no criminal justice expertise,” write the study’s authors. “A simple linear predictor provided with only two features is nearly equivalent to COMPAS with its 137 features.”. The criminal justice system is becoming automated. At every stage — from policing and investigations to bail, evidence, sentencing and parole — computer systems play a role. Artificial intelligence deploys cops on the beat. Audio sensors generate gunshot alerts. Forensic analysts use probabilistic software programs to evaluate fingerprints, faces and DNA. Risk-assessment instruments help to determine who is incarcerated and for how long.
-
-Technological advancement is, in theory, a welcome development. But in practice, aspects of automation are making the justice system less fair for criminal defendants.
-
-The root of the problem is that automated criminal justice technologies are largely privately owned and sold for profit. The developers tend to view their technologies as trade secrets. As a result, they often refuse to disclose details about how their tools work, even to criminal defendants and their attorneys, even under a protective order, even in the controlled context of a criminal proceeding or parole hearing.
-
-Take the case of Glenn Rodríguez. An inmate at the Eastern Correctional Facility in upstate New York, Mr. Rodríguez was denied parole last year despite having a nearly perfect record of rehabilitation. The reason? A high score from a computer system called Compas. The company that makes Compas considers the weighting of inputs to be proprietary information. That forced Mr. Rodríguez to rely on his own ingenuity to figure out what had gone wrong.. The credibility of a computer program used for bail and sentencing decisions has been called into question after it was found to be no more accurate at predicting the risk of reoffending than people with no criminal justice experience provided with only the defendant’s age, sex and criminal history.
-
-The algorithm, called Compas (Correctional Offender Management Profiling for Alternative Sanctions), is used throughout the US to weigh up whether defendants awaiting trial or sentencing are at too much risk of reoffending to be released on bail.
-
-Since being developed in 1998, the tool is reported to have been used to assess more than one million defendants. But a new paper has cast doubt on whether the software’s predictions are sufficiently accurate to justify its use in potentially life-changing decisions.
-
-Hany Farid, a co-author of the paper and professor of computer science at Dartmouth College in New Hampshire, said: “The cost of being wrong is very high and at this point there’s a serious question over whether it should have any part in these decisions.”
-
-The analysis comes as courts and police forces internationally are increasingly relying on computerised approaches to predict the likelihood of people reoffending and to identify potential crime hotspots where police resources should be concentrated. In the UK, East Midlands police force are trialling software called Valcri, aimed at generating plausible ideas about how, when and why a crime was committed as well as who did it, and Kent Police have been using predictive crime mapping software called PredPol since 2013.
-
-The trend has raised concerns about whether such tools could introduce new forms of bias into the criminal justice system, as well as questions about the regulation of algorithms to ensure the decisions they reach are fair and transparent.
-
-The latest analysis focuses on the more basic question of accuracy.
-
-Farid, with colleague Julia Dressel, compared the ability of the software – which combines 137 measures for each individual – against that of untrained workers, contracted through Amazon’s Mechanical Turk online crowd-sourcing marketplace.
-
-The academics used a database of more than 7,000 pretrial defendants from Broward County, Florida, which included individual demographic information, age, sex, criminal history and arrest record in the two year period following the Compas scoring.
-
-The online workers were given short descriptions that included a defendant’s sex, age, and previous criminal history and asked whether they thought they would reoffend. Using far less information than Compas (seven variables versus 137), when the results were pooled the humans were accurate in 67% of cases, compared to the 65% accuracy of Compas.
-
-In a second analysis, the paper found that Compas’s accuracy at predicting recidivism could also be matched using a simple calculation involving only an offender’s age and the number of prior convictions.
-
-“When you boil down what the software is actually doing, it comes down to two things: your age and number of prior convictions,” said Farid. “If you are young and have a lot of prior convictions you are high risk.”
-
-“As we peel the curtain away on these proprietary algorithms, the details of which are closely guarded, it doesn’t look that impressive,” he added. “It doesn’t mean we shouldn’t use it, but judges and courts and prosecutors should understand what is behind this.”
-
-Seena Fazel, a professor of forensic psychiatry at the University of Oxford, agreed that the inner workings of such risk assessment tools ought to be made public so that they can be scrutinised.
-
-However, he said that in practice, such algorithms were not used to provide a “yes or no” answer, but were useful in giving gradations of risk and highlighting areas of vulnerability – for instance, recommending that a person be assigned a drug support worker on release from prison.
-
-“I don’t think you can say these algorithms have no value,” he said. “There’s lots of other evidence suggesting they are useful.”
-
-The paper also highlights the potential for racial asymmetries in the outputs of such software that can be difficult to avoid – even if the software itself is unbiased.
+In a study of COMPAS, an algorithmic tool used in the US criminal justice system , Dartmouth College researchers Julia Dressel and Hany Farid found that the algorithm did no better than volunteers recruited via a crowdsourcing site. COMPAS, a proprietary risk assessment algorithm developed by Equivant (formerly Northpointe), considers answers to a 137-item questionnaire in order to provide predictions that are used in making decisions about sentencing and probation. In a case brought by a defendant, who claimed that the use of an algorithm whose inner workings were a proprietary secret, violated due process.
 
 
 
-The analysis showed that while the accuracy of the software was the same for black and white defendants, the so-called false positive rate (when someone who does not go on to offend is classified as high risk) was higher for black than for white defendants. This kind of asymmetry is mathematically inevitable in the case where two populations have a different underlying rate of reoffending – in the Florida data set the black defendants were more likely to reoffend – but such disparities nonetheless raise thorny questions about how the fairness of an algorithm should be defined.
-
-Farid said the results also highlight the potential for software to magnify existing biases within the criminal justice system. For instance, if black suspects are more likely to be convicted when arrested for a crime, and if criminal history is a predictor of reoffending, then software could act to reinforce existing racial biases.
-
-Racial inequalities in the criminal justice system in England and Wales were highlighted in a recent report written by the Labour MP David Lammy at the request of the prime minister.
+Prior criticisms such as a 2017 study by ProPublica have led to debates about how to measure fairness. However, none tested the crucial claim, that the algorithm provided more accurate predictions than humans would. To test this, Dressel and Farid asked 400 non-expert volunteers to guess if a defendant would commit another crime within two years given short descriptions of defendants from ProPublica's investigation in which seven pieces of information were highlighted. On average, the group got the right answer 63% of the time - and 67% of the time if their answers were pooled. COMPAS's accuracy is 65%. Because Equivant does not disclose its algorithm for study, the researchers went on to build their own, making it as simple as possible; it showed an accuracy of 67%, even using only two pieces of information, the defendant's age and number of previous convictions. Other researchers have found similar results.
 
 
 
-People from ethnic minorities “still face bias, including overt discrimination, in parts of the justice system”, Lammy concluded.
+Farid and Dressel argue that the point is not that these algorithms should not be used, but that they should be understood and required to prove that they work before they are put into use determining the course of people's lives.
 
-The findings were published in the journal Science Advances.. The American criminal justice system couldn’t get much less fair. Across the country, some 1.5 million people are locked up in state and federal prisons. More than 600,000 people, the vast majority of whom have yet to be convicted of a crime, sit behind bars in local jails. Black people make up 40 percent of those incarcerated, despite accounting for just 13 percent of the US population.
 
-With the size and cost of jails and prisons rising—not to mention the inherent injustice of the system—cities and states across the country have been lured by tech tools that promise to predict whether someone might commit a crime. These so-called risk assessment algorithms, currently used in states from California to New Jersey, crunch data about a defendant’s history—things like age, gender, and prior convictions—to help courts decide who gets bail, who goes to jail, and who goes free.
 
-But as local governments adopt these tools, and lean on them to inform life-altering decisions, a fundamental question remains: What if these algorithms aren’t actually any better at predicting crime than humans are? What if recidivism isn’t actually that predictable at all?
+https://www.theatlantic.com/technology/archive/2018/01/equivant-compas-algorithm/550646/
 
-That’s the question that Dartmouth College researchers Julia Dressel and Hany Farid set out to answer in a new paper published today in the journal Science Advances. They found that one popular risk-assessment algorithm, called Compas, predicts recidivism about as well as a random online poll of people who have no criminal justice training at all.
+tags: criminal justice, COMPAS, algorithms, research, scientific testing, Dartmouth, error rates, prediction
 
-"There was essentially no difference between people responding to an online survey for a buck and this commercial software being used in the courts," says Farid, who teaches computer science at Dartmouth. "If this software is only as accurate as untrained people responding to an online survey, I think the courts should consider that when trying to decide how much weight to put on them in making decisions."
+writer: Ed Yong
 
-Man Vs Machine
+Publication: The Atlantic
 
-While she was still a student at Dartmouth majoring in computer science and gender studies, Dressel came across a ProPublica investigation that showed just how biased these algorithms can be. That report analyzed Compas's predictions for some 7,000 defendants in Broward County, Florida, and found that the algorithm was more likely to incorrectly categorize black defendants as having a high risk of reoffending. It was also more likely to incorrectly categorize white defendants as low risk.
+. Predicting the future is not only the provenance of fortune tellers or media pundits. Predictive algorithms, based on extensive datasets and statistics have overtaken wholesale and retail operations as any online shopper knows. And in the last few years algorithms, are used to automate decision making for bank loans, school admissions, hiring and infamously in predicting recidivism – the probability that a defendant will commit another crime in the next two years.
 
-That was alarming enough. But Dressel also couldn't seem to find any research that studied whether these algorithms actually improved on human assessments.
+COMPAS, which stands for Correctional Offender Management Profiling for Alternative Sanctions, is such a program and was singled out by ProPublica earlier this year as being racially biased. COMPAS utilizes 137 variables in its proprietary and unpublished scoring algorithm; race is not one of those variables. ProPublica used a dataset of defendants in Broward County, Florida. The data included demographics, criminal history, a COMPAS score [1] and the criminal actions in the subsequent two years. ProPublica then crosslinked this data with the defendants’ race. Their findings are generally accepted by all sides
 
-'There was essentially no difference between people responding to an online survey for a buck and this commercial software being used in the courts.' Hany Farid, Dartmouth College
+COMPAS is moderately accurate in identifying white and black recidivism about 60% of the time.
 
-"Underlying the whole conversation about algorithms was this assumption that algorithmic prediction was inherently superior to human prediction," she says. But little proof backed up that assumption; this nascent industry is notoriously secretive about developing these models. So Dressel and her professor, Farid, designed an experiment to test Compas on their own.
+COMPAS’s errors reflect apparent racial bias. Blacks are more often wrongly identified as recidivist risks (statistically a false positive) and whites more often erroneously identified as not being a risk (a false negative).
 
-Using Amazon Mechanical Turk, an online marketplace where people get paid small amounts to complete simple tasks, the researchers asked about 400 participants to decide whether a given defendant was likely to reoffend based on just seven pieces of data, not including that person's race. The sample included 1,000 real defendants from Broward County, because ProPublica had already made its data on those people, as well as information on whether they did in fact reoffend, public.
+The “penalty” for being misclassified as a higher risk is more likely to be stiffer punishment. Being misclassified as a lower risk is like a “Get out of jail” card.
 
-They divided the participants into groups, so that each turk assessed 50 defendants, and gave the following brief description:
+As you might anticipate, significant controversy followed couched mostly in an academic fight over which statistical measures or calculations more accurately depicted the bias. A study in Science Advances revisits the discussion and comes to a different conclusion.
+
+The study
+
+In the current study, assessment by humans was compared to that of COMPAS using that Broward County dataset. The humans were found on Amazon’s Mechanical Turk [2], paid a dollar to participate and a $5 bonus if they were accurate more than 60% of the time.
+
+Humans were just as accurate as the algorithm (62 vs. 65%)
+
+The errors by the algorithm and humans were identical, overpredicting (false positives) recidivism for black defendants and underpredicting (false negatives) for white defendants.
+
+Humans COMPAS Black % White % Black % White % Accuracy* 68.2 67.6 64.9 65.7 False Positives 37.1 27.2 40.4 25.4 False Negatives 29.2 40.3 30.9 47.9
+
+* Accuracy is the sum of true positives and true negatives statistically speaking
+
+The human assessors used only seven variables, not the 137 of COMPAS. [3] This suggests that the algorithm was needlessly complex at least in deciding recidivism risk. In fact, the researchers found that just two variables, defendant age, and the number of prior convictions was as accurate as COMPAS’s predictions.
+
+Of more significant interest is the finding that when human assessors were given the additional information regarding defendant race it had no impact. They were just as accurate and demonstrated the same racial disparity in false positives and negatives. Race was an associated confounder, but it was not the cause of the statistical difference. ProPublica’s narrative of racial bias was incorrect.
+
+Algorithms are statistical models involving choices. If you optimize to find all the true positives, your false positives will increase. Lower your false positive rate and the false negatives increase. Do we want to incarcerate more or less? The MIT Technology Review puts it this way.
+
+“Are we primarily interested in taking as few chances as possible that someone will skip bail or re-offend? What trade-offs should we make to ensure justice and lower the massive social costs of imprisonment?”
+
+COMPAS is meant to serve as a decision aid. The purpose of the 137 variables is to create a variety of scales depicting substance abuse, environment, criminal opportunity, associates, etc. Its role is to assist the humans of our justice system in determining an appropriate punishment. [4] None of the studies, to my knowledge, looked at the sentences handed down. The current research ends as follows:
+
+“When considering using software such as COMPAS in making decisions that will significantly affect the lives and well-being of criminal defendants, it is valuable to ask whether we would put these decisions in the hands of random people who respond to an online survey because, in the end, the results from these two approaches appear to be indistinguishable.”
+
+The answer is no. COMPAS and similar algorithms are tools, not a replacement FOR human judgment. They facilitate but do not automate. ProPublica is correct when saying algorithmic decisions need to be understood by their human users and require continuous validation and refinement. But ProPublica’s narrative, that evil forces were responsible for a racially biased algorithm are not true.
+
+[1] COMPAS is scored on a 1 to 10 scale, with scores greater than 8 being at high risk for repeat offenders
+
+[2] Amazon's Mechanical Turk is a crowd-sourced marketplace for human assistance. In this case for people to participate in a survey.
+
+[3] The variables were gender, age, criminal charge, misdemeanor or felony, prior adult convictions and prior juvenile felony and misdemeanor charges.
+
+[4] As the COMPAS manual states: “Criminal justice agencies across the nation use COMPAS to inform decisions regarding the placement, supervision and case management of offenders.” [Emphasis added]
+
+Source: The accuracy, fairness and limits of predicting recidivism Science Advances 2018

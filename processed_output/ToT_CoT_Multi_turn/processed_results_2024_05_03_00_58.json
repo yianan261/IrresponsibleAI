@@ -1,0 +1,1159 @@
+{
+  "587": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Consumers using Google and Apple products"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Classes of irresponsible AI use": ["Discrimination", "Human Incompetence"],
+    "Subclasses": {
+      "Discrimination": ["Data bias"],
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": {
+      "Data bias": ["Race"]
+    },
+    "Area of AI Application": "Image analysis",
+    "Online": "No"
+  },
+  "572": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Turnitin",
+    "Company city": "Oakland",
+    "Company state": "California",
+    "Affected population": ["Students using Turnitin"],
+    "Number of people actually affected": "1",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Human Incompetence"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Academic plagiarism detection",
+    "Online": "No"
+  },
+  "508": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "ElevenLabs",
+    "Company city": "New York City",
+    "Company state": "New York",
+    "Affected population": ["Users of ElevenLabs' technology"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": [
+      "Disinformation",
+      "Copyright Violation"
+    ],
+    "Subclasses": {
+      "Disinformation": [],
+      "Copyright Violation": []
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Voice Cloning",
+    "Online": "Yes"
+  },
+  "615": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "OpenAI",
+    "Company city": "San Francisco",
+    "Company state": "California",
+    "Affected population": ["Attorneys", "Legal Professionals"],
+    "Number of people actually affected": "1",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Human Incompetence"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Legal Research",
+    "Online": "No"
+  },
+  "467": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Investors, Analysts"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Class of irresponsible AI use": ["Human Incompetence", "Disinformation"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"],
+      "Disinformation": ["Textual"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Search Engine",
+    "Online": "No"
+  },
+  "523": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Nuance",
+    "Company city": "Burlington",
+    "Company state": "Massachusetts",
+    "Affected population": ["Australian government clients"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Classes of irresponsible AI use": ["Human Incompetence"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Voice identification",
+    "Online": "No"
+  },
+  "565": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "China Central Television (CCTV)",
+    "Company city": "Beijing",
+    "Company state": "",
+    "Affected population": ["Residents of Maui, Hawaii"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Thousands",
+    "Classes of irresponsible AI use": ["Disinformation"],
+    "Subclasses": {
+      "Disinformation": []
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Social Media Manipulation",
+    "Online": "Yes"
+  },
+  "554": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Art enthusiasts", "Internet users"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Classes of irresponsible AI use": ["Disinformation", "Human Incompetence"],
+    "Subclasses": {
+      "Disinformation": [],
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Search Engine",
+    "Online": "Yes"
+  },
+  "491": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Replika",
+    "Company city": "San Francisco",
+    "Company state": "California",
+    "Affected population": ["Italian users of Replika"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Human Incompetence", "Mental Health"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Emotional support and companionship",
+    "Online": "Yes"
+  },
+  "499": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["General Public"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Disinformation"],
+    "Subclasses": {
+      "Disinformation": []
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Image Manipulation",
+    "Online": "Yes"
+  },
+  "593": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Playground AI",
+    "Company city": "Boston",
+    "Company state": "Massachusetts",
+    "Affected population": ["Rona Wang"],
+    "Number of people actually affected": "1",
+    "Number of people potentially affected": "Unknown",
+    "Class of irresponsible AI use": ["Discrimination"],
+    "Subclasses": {
+      "Discrimination": ["Algorithmic bias"]
+    },
+    "Sub-subclass": {
+      "Algorithmic bias": ["Data bias"]
+    },
+    "Area of AI Application": "Image Editing",
+    "Online": "Yes"
+  },
+  "513": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "OpenAI",
+    "Company city": "San Francisco",
+    "Company state": "California",
+    "Affected population": ["Users of ChatGPT"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": [
+      "Human Incompetence",
+      "Copyright Violation"
+    ],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Data processing and algorithm training",
+    "Online": "Yes"
+  },
+  "505": {
+    "Country": "Worldwide",
+    "State": "California",
+    "City": "Mountain View",
+    "Continent": "Worldwide",
+    "Company": "Chai Research",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Users of the Chai app"],
+    "Number of people actually affected": "1",
+    "Number of people potentially affected": "Millions",
+    "Classes of irresponsible AI use": ["Mental Health"],
+    "Subclasses": {
+      "Mental Health": []
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Chatbot",
+    "Online": "Yes"
+  },
+  "581": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Advertisers", "Internet Users"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Global online audience",
+    "Class of irresponsible AI use": ["Disinformation", "Human Incompetence"],
+    "Subclasses": {
+      "Human Incompetence": ["Administrative"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Online Advertising",
+    "Online": "Yes"
+  },
+  "592": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": [
+      "Porcha Woodruff",
+      "Black individuals falsely arrested"
+    ],
+    "Number of people actually affected": "1",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Discrimination", "Human Incompetence"],
+    "Subclasses": {
+      "Discrimination": ["Algorithmic bias"],
+      "Human Incompetence": ["Administrative"]
+    },
+    "Sub-subclass": {
+      "Algorithmic bias": ["Data bias"],
+      "Administrative": []
+    },
+    "Area of AI Application": "Facial Recognition",
+    "Online": "No"
+  },
+  "578": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Meta",
+    "Company city": "Menlo Park",
+    "Company state": "California",
+    "Affected population": ["Users of AI-powered sexbots"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Class of irresponsible AI use": ["Disinformation", "Mental Health"],
+    "Subclasses": {
+      "Disinformation": [],
+      "Mental Health": []
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Generative AI systems",
+    "Online": "Yes"
+  },
+  "509": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "National Cyber Security Centre (NCSC)",
+    "Company city": "London",
+    "Company state": "",
+    "Affected population": ["General Public", "Celebrities", "Politicians"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Classes of irresponsible AI use": [
+      "Disinformation",
+      "Copyright Violation"
+    ],
+    "Subclasses": {
+      "Disinformation": [],
+      "Copyright Violation": []
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Deepfake technology",
+    "Online": "No"
+  },
+  "563": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Cruise",
+    "Company city": "San Francisco",
+    "Company state": "California",
+    "Affected population": ["Emergency responders", "Patients"],
+    "Number of people actually affected": "1",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Human Incompetence"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Autonomous Vehicles",
+    "Online": "No"
+  },
+  "604": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Children on Youtube"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Class of irresponsible AI use": [
+      "Human Incompetence",
+      "Mental Health",
+      "Copyright Violation"
+    ],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "content filtering",
+    "Online": "Yes"
+  },
+  "580": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Meta",
+    "Company city": "Menlo Park",
+    "Company state": "California",
+    "Affected population": ["Facebook users"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Billions",
+    "Class of irresponsible AI use": ["Discrimination"],
+    "Subclasses": {
+      "Discrimination": ["Data bias", "Algorithmic bias"]
+    },
+    "Sub-subclass": {
+      "Data bias": ["Gender"],
+      "Algorithmic bias": ["Interaction"]
+    },
+    "Area of AI Application": "Ad targeting",
+    "Online": "Yes"
+  },
+  "484": {
+    "Country": "Worldwide",
+    "State": "District of Columbia",
+    "City": "Washington",
+    "Continent": "Worldwide",
+    "Company": "Department of Homeland Security (DHS)",
+    "Company city": "Washington",
+    "Company state": "District of Columbia",
+    "Affected population": ["Migrants seeking asylum"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Thousands",
+    "Class of irresponsible AI use": ["Discrimination", "Human Incompetence"],
+    "Subclasses": {
+      "Discrimination": ["Algorithmic bias"],
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": {
+      "Algorithmic bias": ["Data bias"]
+    },
+    "Area of AI Application": "Biometric data processing",
+    "Online": "No"
+  },
+  "524": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Torswats",
+    "Company city": "Dubuque",
+    "Company state": "Iowa",
+    "Affected population": ["Schools, High school students, General public"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Hundreds",
+    "Classes of irresponsible AI use": ["Disinformation", "Human Incompetence"],
+    "Subclasses": {
+      "Disinformation": [],
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Voice synthesis",
+    "Online": "No"
+  },
+  "559": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Boeing",
+    "Company city": "Chicago",
+    "Company state": "Illinois",
+    "Affected population": [],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Class of irresponsible AI use": [],
+    "Subclasses": {},
+    "Sub-subclass": [],
+    "Area of AI Application": "",
+    "Online": "No"
+  },
+  "616": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "The Arena Group",
+    "Company city": "New York",
+    "Company state": "New York",
+    "Affected population": ["Readers of Sports Illustrated"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Classes of irresponsible AI use": ["Human Incompetence", "Disinformation"],
+    "Subclasses": {
+      "Human Incompetence": ["Administrative"],
+      "Disinformation": ["Textual"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Content Generation",
+    "Online": "No"
+  },
+  "617": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Unknown",
+    "Company city": "Unknown",
+    "Company state": "Unknown",
+    "Affected population": ["Students at Issaquah High School"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Class of irresponsible AI use": ["Disinformation", "Copyright Violation"],
+    "Subclasses": {
+      "Disinformation": ["Image"],
+      "Copyright Violation": []
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Image manipulation",
+    "Online": "No"
+  },
+  "591": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Cigna Corporation",
+    "Company city": "Bloomfield",
+    "Company state": "Connecticut",
+    "Affected population": ["Patients with medical claims"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Hundreds of thousands",
+    "Class of irresponsible AI use": ["Human Incompetence"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Claims processing",
+    "Online": "No"
+  },
+  "567": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Employees at Retool"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "27",
+    "Class of irresponsible AI use": ["Human Incompetence", "Disinformation"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Social Engineering",
+    "Online": "No"
+  },
+  "493": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["TikTok Users"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Class of irresponsible AI use": ["Disinformation", "Copyright Violation"],
+    "Subclasses": {
+      "Disinformation": [],
+      "Copyright Violation": []
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Social Media Impersonation",
+    "Online": "Yes"
+  },
+  "511": {
+    "Country": "Worldwide",
+    "State": "Washington",
+    "City": "Redmond",
+    "Continent": "Worldwide",
+    "Company": "Microsoft",
+    "Company city": "Redmond",
+    "Company state": "Washington",
+    "Affected population": ["Users of Bing's AI-powered chatbot"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Class of irresponsible AI use": ["Human Incompetence", "Disinformation"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"],
+      "Disinformation": ["Textual"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Conversational AI",
+    "Online": "Yes"
+  },
+  "481": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["TikTok Users", "Twitter Users"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Class of irresponsible AI use": ["Disinformation", "Copyright Violation"],
+    "Subclasses": {
+      "Disinformation": [],
+      "Copyright Violation": []
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Deepfake Creation",
+    "Online": "Yes"
+  },
+  "570": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Meta Platforms, Inc.",
+    "Company city": "Menlo Park",
+    "Company state": "California",
+    "Affected population": ["Users of Meta's AI-generated sticker tool"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Disinformation", "Human Incompetence"],
+    "Subclasses": {
+      "Disinformation": [],
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Image Generation",
+    "Online": "Yes"
+  },
+  "539": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Boeing",
+    "Company city": "Chicago",
+    "Company state": "Illinois",
+    "Affected population": ["Employees and stakeholders of Boeing"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Class of irresponsible AI use": [],
+    "Subclasses": {},
+    "Sub-subclass": [],
+    "Area of AI Application": "",
+    "Online": "No"
+  },
+  "576": {
+    "Country": "United States",
+    "State": "California",
+    "City": "Mountain View",
+    "Continent": "North America",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Consumers"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Unknown"],
+    "Subclasses": {},
+    "Sub-subclass": [],
+    "Area of AI Application": "Unknown",
+    "Online": "Unknown"
+  },
+  "553": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Art enthusiasts", "Internet users"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Classes of irresponsible AI use": ["Disinformation", "Human Incompetence"],
+    "Subclasses": {
+      "Disinformation": ["Image"],
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Image Recognition",
+    "Online": "Yes"
+  },
+  "446": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "SoundThinking, Inc.",
+    "Company city": "Fremont",
+    "Company state": "California",
+    "Affected population": ["Residents of Durham, NC"],
+    "Number of people actually affected": "5",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": [
+      "Human Incompetence",
+      "Environmental Impact"
+    ],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Gunfire detection",
+    "Online": "No"
+  },
+  "452": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "OpenAI",
+    "Company city": "San Francisco",
+    "Company state": "California",
+    "Affected population": [],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": [],
+    "Subclasses": {},
+    "Sub-subclass": [],
+    "Area of AI Application": "",
+    "Online": "Yes"
+  },
+  "624": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "LAION",
+    "Company city": "Hamburg",
+    "Company state": "",
+    "Affected population": ["Users of LAION-5B dataset"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": [
+      "Disinformation",
+      "Human Incompetence",
+      "Copyright Violation"
+    ],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Image Training",
+    "Online": "No"
+  },
+  "564": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Pindrop",
+    "Company city": "Atlanta",
+    "Company state": "Georgia",
+    "Affected population": [
+      "Financial services clients, Victims of financial scams"
+    ],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Class of irresponsible AI use": ["Disinformation", "Human Incompetence"],
+    "Subclasses": {
+      "Disinformation": [],
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Voice authentication and fraud detection",
+    "Online": "No"
+  },
+  "588": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Vera Institute of Justice",
+    "Company city": "New York",
+    "Company state": "New York",
+    "Affected population": ["Terrorist offenders"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Discrimination", "Human Incompetence"],
+    "Subclasses": {
+      "Discrimination": ["Data bias"],
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": {
+      "Data bias": ["Autism spectrum disorders"]
+    },
+    "Area of AI Application": "Crime prediction",
+    "Online": "No"
+  },
+  "480": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Twitch Streamers"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Copyright Violation", "Mental Health"],
+    "Subclasses": {
+      "Copyright Violation": [],
+      "Mental Health": []
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Deepfake creation",
+    "Online": "Yes"
+  },
+  "506": {
+    "company_name": "OpenAI",
+    "company_location": {
+      "city": "San Francisco",
+      "state": "California"
+    }
+  },
+  "601": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Unknown",
+    "Company city": "Unknown",
+    "Company state": "Unknown",
+    "Affected population": ["General Public"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Class of irresponsible AI use": ["Disinformation"],
+    "Subclasses": {
+      "Disinformation": ["Textual"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Audio/Video Manipulation",
+    "Online": "Yes"
+  },
+  "537": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Children on Youtube"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Class of irresponsible AI use": [
+      "Human Incompetence",
+      "Mental Health",
+      "Copyright Violation"
+    ],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "content filtering",
+    "Online": "Yes"
+  },
+  "579": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "OpenAI",
+    "Company city": "San Francisco",
+    "Company state": "California",
+    "Affected population": ["Non-cisgender individuals"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "35",
+    "Class of irresponsible AI use": ["Discrimination"],
+    "Subclasses": {
+      "Discrimination": ["Data bias"]
+    },
+    "Sub-subclass": {
+      "Data bias": ["Gender", "Sexual Orientation"]
+    },
+    "Area of AI Application": "Image Generation",
+    "Online": "No"
+  },
+  "595": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Cruise",
+    "Company city": "San Francisco",
+    "Company state": "California",
+    "Affected population": [
+      "Residents of San Francisco",
+      "Users of driverless cars"
+    ],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Human Incompetence"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Autonomous Vehicles",
+    "Online": "No"
+  },
+  "514": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Turnitin",
+    "Company city": "Oakland",
+    "Company state": "California",
+    "Affected population": ["Students and faculty using Turnitin's services"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "750 student papers",
+    "Class of irresponsible AI use": ["Human Incompetence", "Privacy Concerns"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Plagiarism Detection",
+    "Online": "No"
+  },
+  "500": {
+    "Country": "United Kingdom",
+    "State": "",
+    "City": "London",
+    "Continent": "Europe",
+    "Company": "BBC Studios Distribution Limited",
+    "Company city": "London",
+    "Company state": "",
+    "Affected population": [],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Class of irresponsible AI use": [],
+    "Subclasses": {},
+    "Sub-subclass": [],
+    "Area of AI Application": "",
+    "Online": "Yes"
+  },
+  "574": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "G/O Media",
+    "Company city": "New York",
+    "Company state": "New York",
+    "Affected population": ["Members of G/O Media staff"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Human Incompetence"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Content Generation",
+    "Online": "Yes"
+  },
+  "483": {
+    "Country": "Worldwide",
+    "State": "Telangana",
+    "City": "Hyderabad",
+    "Continent": "Worldwide",
+    "Company": "Telangana Police Department",
+    "Company city": "Hyderabad",
+    "Company state": "Telangana",
+    "Affected population": ["Residents of Medak, Telangana"],
+    "Number of people actually affected": "1",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Discrimination", "Human Incompetence"],
+    "Subclasses": {
+      "Discrimination": ["Facial Recognition"],
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": {
+      "Facial Recognition": ["Data bias"]
+    },
+    "Area of AI Application": "Law Enforcement",
+    "Online": "No"
+  },
+  "582": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Black patients"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Discrimination"],
+    "Subclasses": {
+      "Discrimination": ["Algorithmic bias"]
+    },
+    "Sub-subclass": {
+      "Algorithmic bias": ["Race"]
+    },
+    "Area of AI Application": "Medical diagnosis",
+    "Online": "No"
+  },
+  "618": {
+    "Country": "Worldwide",
+    "State": "Virginia",
+    "City": "Vienna",
+    "Continent": "Worldwide",
+    "Company": "Navy Federal Credit Union",
+    "Company city": "Vienna",
+    "Company state": "Virginia",
+    "Affected population": ["Black and Latino borrowers"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Thousands",
+    "Class of irresponsible AI use": ["Discrimination", "Human Incompetence"],
+    "Subclasses": {
+      "Discrimination": ["Data bias"],
+      "Human Incompetence": ["Administrative"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Mortgage lending",
+    "Online": "No"
+  },
+  "497": {
+    "Country": "Worldwide",
+    "State": "California",
+    "City": "San Francisco",
+    "Continent": "Worldwide",
+    "Company": "DoNotPay",
+    "Company city": "San Francisco",
+    "Company state": "California",
+    "Affected population": ["Customers of DoNotPay"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Classes of irresponsible AI use": ["Human Incompetence"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Legal services",
+    "Online": "Yes"
+  },
+  "568": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "ElevenLabs",
+    "Company city": "New York City",
+    "Company state": "New York",
+    "Affected population": ["TikTok Users"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Hundreds of millions",
+    "Class of irresponsible AI use": ["Disinformation"],
+    "Subclasses": {
+      "Disinformation": ["Audio"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Voice Technology",
+    "Online": "Yes"
+  },
+  "541": {
+    "Country": "United States",
+    "State": "New York",
+    "City": "New York",
+    "Continent": "North America",
+    "Company": "Levidow, Levidow & Oberman, P.C.",
+    "Company city": "New York",
+    "Company state": "New York",
+    "Affected population": ["Legal professionals", "Court system"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Several",
+    "Class of irresponsible AI use": ["Human Incompetence", "Other"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Legal research",
+    "Online": "No"
+  },
+  "485": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "ElevenLabs",
+    "Company city": "New York",
+    "Company state": "New York",
+    "Affected population": ["Bank Customers"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Class of irresponsible AI use": [
+      "Disinformation",
+      "Fraud",
+      "Security Breach"
+    ],
+    "Subclasses": {
+      "Disinformation": [],
+      "Fraud": [],
+      "Security Breach": []
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Voice Authentication",
+    "Online": "No"
+  },
+  "614": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Academics, Big Four Consultancy Firms"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Unknown",
+    "Class of irresponsible AI use": ["Disinformation"],
+    "Subclasses": {
+      "Disinformation": []
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Generating False Allegations",
+    "Online": "No"
+  },
+  "594": {
+    "Country": "New Zealand",
+    "State": "",
+    "City": "",
+    "Continent": "Oceania",
+    "Company": "Pak 'n' Save",
+    "Company city": "Wellington",
+    "Company state": "",
+    "Affected population": ["Customers of Pak 'n' Save"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Thousands",
+    "Class of irresponsible AI use": ["Human Incompetence", "Other"],
+    "Subclasses": {
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Meal Planning",
+    "Online": "Yes"
+  },
+  "629": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Shein",
+    "Company city": "Singapore",
+    "Company state": "",
+    "Affected population": ["Artists"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Class of irresponsible AI use": ["Copyright Violation"],
+    "Subclasses": {},
+    "Sub-subclass": [],
+    "Area of AI Application": "Fashion Design",
+    "Online": "Yes"
+  }
+}

@@ -1,65 +1,115 @@
-Insurance giant UnitedHealth Group is facing a lawsuit alleging it used an artificial intelligence algorithm to wrongfully deny coverage to older patients for care under its Medicare Advantage health policies, Bloomberg Law reported Nov. 14.
+Judith Sullivan was recovering from major surgery at a Connecticut nursing home in March when she got surprising news from her Medicare Advantage plan: It would no longer pay for her care because she was well enough to go home.
 
-The class action, filed by public interest law firm Clarkson Law Firm in the U.S. District Court for the District of Minnesota on Nov. 14, claims UnitedHealth made care determinations via its "nH Predict" algorithm, overriding physician recommendations and denied elderly patients' claims for treatment in extended care facilities. The suit alleges that UnitedHealth "[banks] on the patients' impaired conditions, lack of knowledge and lack of resources to appeal the erroneous AI-powered decisions."
+At the time, she could not walk more than a few feet, even with assistance — let alone manage the stairs to her front door, she said. She still needed help using a colostomy bag following major surgery.
 
-A spokesperson for naviHealth, creator of the algorithm used by UnitedHealth, said in a statement to Bloomberg that its tool was not used for making coverage determinations.
+“How could they make a decision like that without ever coming and seeing me?” said Sullivan, 76. “I still couldn’t walk without one physical therapist behind me and another next to me. Were they all coming home with me?”
 
-Fellow payer Cigna was hit with a similar lawsuit in July that alleged it systematically rejects patient claims using an algorithm system it put in place to automate the process, spending an average of 1.2 seconds on each claim. The suit claimed the insurer does not have a "reasonable standard" for claims processing.
+UnitedHealthcare — the nation’s largest health insurance company, which provides Sullivan’s Medicare Advantage plan — doesn’t have a crystal ball. It does have naviHealth, a care management company bought by UHC’s sister company, Optum, in 2020. Both are part of UnitedHealth Group. NaviHealth analyzes data to help UHC and other insurance companies make coverage decisions.
 
-"[The algorithm used by Cigna] is a simple tool to accelerate physician payments that has been grossly mischaracterized in the press. The facts speak for themselves, and we will continue to set the record straight," a Cigna spokesperson told Forbes.. Health insurance companies cannot use algorithms or artificial intelligence to determine care or deny coverage to members on Medicare Advantage plans, the Centers for Medicare & Medicaid Services (CMS) clarified in a memo sent to all Medicare Advantage insurers.
+Its proprietary “nH Predict” tool sifts through millions of medical records to match patients with similar diagnoses and characteristics, including age, preexisting health conditions, and other factors. Based on these comparisons, an algorithm anticipates what kind of care a specific patient will need and for how long.
 
-The memo—formatted like an FAQ on Medicare Advantage (MA) plan rules—comes just months after patients filed lawsuits claiming that UnitedHealth and Humana have been using a deeply flawed AI-powered tool to deny care to elderly patients on MA plans. The lawsuits, which seek class-action status, center on the same AI tool, called nH Predict, used by both insurers and developed by NaviHealth, a UnitedHealth subsidiary.
+But patients, providers, and patient advocates in several states said they have noticed a suspicious coincidence: The tool often predicts a patient’s date of discharge, which coincides with the date their insurer cuts off coverage, even if the patient needs further treatment that government-run Medicare would provide.
 
-According to the lawsuits, nH Predict produces draconian estimates for how long a patient will need post-acute care in facilities like skilled nursing homes and rehabilitation centers after an acute injury, illness, or event, like a fall or a stroke. And NaviHealth employees face discipline for deviating from the estimates, even though they often don't match prescribing physicians' recommendations or Medicare coverage rules. For instance, while MA plans typically provide up to 100 days of covered care in a nursing home after a three-day hospital stay, using nH Predict, patients on UnitedHealth's MA plan rarely stay in nursing homes for more than 14 days before receiving payment denials, the lawsuits allege.
+“When an algorithm does not fully consider a patient’s needs, there’s a glaring mismatch,” said Rajeev Kumar, a physician and the president-elect of the Society for Post-Acute and Long-Term Care Medicine, which represents long-term care practitioners. “That’s where human intervention comes in.”
 
-Specific warning
+The federal government will try to even the playing field next year, when the Centers for Medicare & Medicaid Services begins restricting how Medicare Advantage plans use predictive technology tools to make some coverage decisions.
 
-It's unclear how nH Predict works exactly, but it reportedly uses a database of 6 million patients to develop its predictions. Still, according to people familiar with the software, it only accounts for a small set of patient factors, not a full look at a patient's individual circumstances.
+Medicare Advantage plans, an alternative to the government-run, original Medicare program, are operated by private insurance companies. About half the people eligible for full Medicare benefits are enrolled in the private plans, attracted by their lower costs and enhanced benefits like dental care, hearing aids, and a host of nonmedical extras like transportation and home-delivered meals.
 
-This is a clear no-no, according to the CMS's memo. For coverage decisions, insurers must "base the decision on the individual patient’s circumstances, so an algorithm that determines coverage based on a larger data set instead of the individual patient's medical history, the physician’s recommendations, or clinical notes would not be compliant," the CMS wrote.
+Insurers receive a monthly payment from the federal government for each enrollee, regardless of how much care they need. According to the Department of Health and Human Services’ inspector general, this arrangement raises “the potential incentive for insurers to deny access to services and payment in an attempt to increase profits.” Nursing home care has been among the most frequently denied services by the private plans — something original Medicare likely would cover, investigators found.
 
-The CMS then provided a hypothetical that matches the circumstances laid out in the lawsuits, writing:
+After UHC cut off her nursing home coverage, Sullivan’s medical team agreed with her that she wasn’t ready to go home and provided an additional 18 days of treatment. Her bill came to $10,406.36.
 
-In an example involving a decision to terminate post-acute care services, an algorithm or software tool can be used to assist providers or MA plans in predicting a potential length of stay, but that prediction alone cannot be used as the basis to terminate post-acute care services.
+Email Sign-Up Subscribe to KFF Health News' free Morning Briefing. Your Email Address Sign Up
 
-Instead, the CMS wrote, in order for an insurer to end coverage, the individual patient's condition must be reassessed, and denial must be based on coverage criteria that is publicly posted on a website that is not password protected. In addition, insurers who deny care "must supply a specific and detailed explanation why services are either no longer reasonable and necessary or are no longer covered, including a description of the applicable coverage criteria and rules."
+Beyond her mobility problems, “she also had a surgical wound that needed daily dressing changes” when UHC stopped paying for her nursing home care, said Debra Samorajczyk, a registered nurse and the administrator at the Bishop Wicke Health and Rehabilitation Center, the facility that treated Sullivan.
 
-Advertisement
+Sullivan’s coverage denial notice and nH Predict report did not mention wound care or her inability to climb stairs. Original Medicare would have most likely covered her continued care, said Samorajczyk.
 
-In the lawsuits, patients claimed that when coverage of their physician-recommended care was unexpectedly wrongfully denied, insurers didn't give them full explanations.
+Sullivan appealed twice but lost. Her next appeal was heard by an administrative law judge, who holds a courtroom-style hearing usually by phone or video link, in which all sides can provide testimony. UHC declined to send a representative, but the judge nonetheless sided with the company. Sullivan is considering whether to appeal to the next level, the Medicare Appeals Council, and the last step before the case can be heard in federal court.
 
-Fidelity
+Sullivan’s experience is not unique. In February, Ken Drost’s Medicare Advantage plan, provided by Security Health Plan of Wisconsin, wanted to cut his coverage at a Wisconsin nursing home after 16 days, the same number of days naviHealth predicted was necessary. But Drost, 87, who was recovering from hip surgery, needed help getting out of bed and walking. He stayed at the nursing home for an additional week, at a cost of $2,624.
 
-In all, the CMS finds that AI tools can be used by insurers when evaluating coverage—but really only as a check to make sure the insurer is following the rules. An "algorithm or software tool should only be used to ensure fidelity" with coverage criteria, the CMS wrote. And, because "publicly posted coverage criteria are static and unchanging, artificial intelligence cannot be used to shift the coverage criteria over time" or apply hidden coverage criteria.
+After he appealed twice and lost, his hearing on his third appeal was about to begin when his insurer agreed to pay his bill, said his lawyer, Christine Huberty, supervising attorney at the Greater Wisconsin Agency on Aging Resources Elder Law & Advocacy Center in Madison.
 
-The CMS sidesteps any debate about what qualifies as artificial intelligence by offering a broad warning about algorithms and artificial intelligence. "There are many overlapping terms used in the context of rapidly developing software tools," the CMS wrote.
+“Advantage plans routinely cut patients’ stays short in nursing homes,” she said, including Humana, Aetna, Security Health Plan, and UnitedHealthcare. “In all cases, we see their treating medical providers disagree with the denials.”
 
-Algorithms can imply a decisional flow chart of a series of if-then statements (i.e., if the patient has a certain diagnosis, they should be able to receive a test), as well as predictive algorithms (predicting the likelihood of a future admission, for example). Artificial intelligence has been defined as a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments. Artificial intelligence systems use machine- and human-based inputs to perceive real and virtual environments; abstract such perceptions into models through analysis in an automated manner; and use model inference to formulate options for information or action.
+UnitedHealthcare and naviHealth declined requests for interviews and did not answer detailed questions about why Sullivan’s nursing home coverage was cut short over the objections of her medical team.
 
-The CMS also openly worried that the use of either of these types of tools can reinforce discrimination and biases—which has already happened with racial bias. The CMS warned insurers to ensure any AI tool or algorithm they use "is not perpetuating or exacerbating existing bias, or introducing new biases."
+Aaron Albright, a naviHealth spokesperson, said in a statement that the nH Predict algorithm is not used to make coverage decisions and instead is intended “to help the member and facility develop personalized post-acute care discharge planning.” Length-of-stay predictions “are estimates only.”
 
-While the memo overall was an explicit clarification of existing MA rules, the CMS ended by putting insurers on notice that it is increasing its audit activities and "will be monitoring closely whether MA plans are utilizing and applying internal coverage criteria that are not found in Medicare laws." Non-compliance can result in warning letters, corrective action plans, monetary penalties, and enrollment and marketing sanctions.. UnitedHealthcare (UHC) is the latest payer accused of using artificial intelligence (AI) to deny patient claims by trading "real doctors' recommendations" for a flawed algorithm to save money.
+However, naviHealth’s website boasts about saving plans money by restricting care. The company’s “predictive technology and decision support platform” ensures that “patients can enjoy more days at home, and healthcare providers and health plans can significantly reduce costs specific to unnecessary care and readmissions.”
 
-In a class action suit filed this week in Minnesota district court, the attorneys for the families of two deceased UHC Medicare Advantage plan policyholders say that the company uses the technology to systematically deny skilled nursing facility (SNF) claims and shirk its responsibility to adhere to Medicare's coverage determination standards.
+New federal rules for Medicare Advantage plans beginning in January will rein in their use of algorithms in coverage decisions. Insurance companies using such tools will be expected to “ensure that they are making medical necessity determinations based on the circumstances of the specific individual,” the requirements say, “as opposed to using an algorithm or software that doesn’t account for an individual’s circumstances.”
 
-The case raises ethical and legal questions about whether AI can replace or supplement human tasks and interactions, particularly in a field as complex as healthcare. California-based public advocacy firm Clarkson Law filed a similar complaint against Cigna earlier this year and has previously sued tech giants Google and ChatGPT creator OpenAI for harvesting internet users' data to train their AI systems.
+The CMS-required notices nursing home residents receive now when a plan cuts short their coverage can be oddly similar while lacking details about a particular resident. Sullivan’s notice from UHC contains some identical text to the one Drost received from his Wisconsin plan. Both say, for example, that the plan’s medical director reviewed their cases, without providing the director’s name or medical specialty. Both omit any mention of their health conditions that make managing at home difficult, if not impossible.
 
-Clarkson Law represents the plaintiffs and says that the policyholders had to pay thousands in out-of-pocket costs or forgo the recommended post-acute care owing to UHC's faulty AI model, nH Predict. The tool has a 90% error rate, says the lawsuit, as evidenced by the number of claims that are reversed following review by a medical professional. Still, just 0.2% of policyholders appeal the denials.
+The tools must still follow Medicare coverage criteria and cannot deny benefits that original Medicare covers. If insurers believe the criteria are too vague, plans can base algorithms on their own criteria, as long as they disclose the medical evidence supporting the algorithms.
 
-nH Predict was created by naviHealth and was acquired by UnitedHealth Group, UHC's parent company, in 2020. In a statement to Bloomberg Law, a spokesperson for naviHealth said that the lawsuit has no merit and the model was not used for making coverage determinations.
+And before denying coverage considered not medically necessary, another change requires that a coverage denial “must be reviewed by a physician or other appropriate health care professional with expertise in the field of medicine or health care that is appropriate for the service at issue.”
 
-According to the complaint, nH Predict determines the appropriate amount of SNF, home health, or rehabilitation services a patient requires on the basis of their diagnosis, age, and living situation. The model compares the patient with their database of 6 million patients and estimates the ideal length of stay and target discharge date, "pinpointing the precise moment when [UHC] will cut off payment for a patient's treatment."
+Jennifer Kochiss, a social worker at Bishop Wicke who helps residents file insurance appeals, said patients and providers have no say in whether the doctor reviewing a case has experience with the client’s diagnosis. The new requirement will close “a big hole,” she said.
 
-The lawsuit says that employees are instructed to strictly adhere to the AI model's predictions, and those who do not are disciplined and terminated, even when additional care for the patient is warranted. Employees are told that the generated reports contain proprietary information and that they cannot share them with physicians and patients who inquire about extending care.
+The leading MA plans oppose the changes in comments submitted to CMS. Tim Noel, UHC’s CEO for Medicare and retirement, said MA plans’ ability to manage beneficiaries’ care is necessary “to ensure access to high-quality safe care and maintain high member satisfaction while appropriately managing costs.”
 
-"Every patient is entitled to a nuanced evaluation of their health care needs," Zarrina Ozari, senior associate at Clarkson Law Firm, said in a prepared statement. "By replacing licensed practitioners with unchecked AI, UHC is telling its patients that they are completely interchangeable with one another and undervaluing the expertise of the physicians devoted to key elements of care."
+Restricting “utilization management tools would markedly deviate from Congress’ intent in creating Medicare managed care because they substantially limit MA plans’ ability to actually manage care,” he said.
 
-According to the complaint, Gene Lokken fell in May 2022 and fractured his leg and ankle. After a 1-month SNF stay, the 91-year-old man's doctor ordered physical therapy. However, the insurer said Lokken was safe to be discharged home two and a half weeks later, conflicting with a physical therapist's notes that indicated he still had paralyzed and weak muscles. The insurer denied Lokken's appeal. He remained in the facility for another year until his death, paying about $150,000 in out-of-pocket expenses, according to the lawsuit.
+In a statement, UHC spokesperson Heather Soule said the company’s current practices are “consistent” with the new rules. “Medical directors or other appropriate clinical personnel, not technology tools, make all final adverse medical necessity determinations” before coverage is denied or cut short. However, these medical professionals work for UHC and usually do not examine patients. Other insurance companies follow the same practice.
 
-Another patient, Dale Tetzloff, initially spent just 20 days in a SNF for stroke rehabilitation before UHC denied coverage. An appeal later extended the stay to 40 days, short of the 100 days recommended by his physician. Requests for further extensions were unsuccessful, and Tetzloff ultimately paid about $70,000 in out-of-pocket expenses over the next 10 months, according to the complaint.
+David Lipschutz, associate director of the Center for Medicare Advocacy, is concerned about how CMS will enforce the rules since it doesn’t mention specific penalties for violations.
 
-New federal rules prohibit Medicare Advantage plans from relying on an algorithm or software to make medically necessary determinations instead of an individual's specific circumstances. Any medical necessity denial must be "reviewed by a physician or other appropriate health care professional with expertise in the field of medicine or health care that is appropriate for the service at issue."
+CMS’ deputy administrator and director of the Medicare program, Meena Seshamani, said that the agency will conduct audits to verify compliance with the new requirements, and “will consider issuing an enforcement action, such as a civil money penalty or an enrollment suspension, for the non-compliance.”
 
-Clarkson is demanding a jury trial and has asked the court to certify the case as a federal class action, which could open the suit to any US resident who purchased a UHC Medicare Advantage plan in the past 4 years.
+Although Sullivan stayed at Bishop Wicke after UHC stopped paying, she said another resident went home when her MA plan wouldn’t pay anymore. After two days at home, the woman fell, and an ambulance took her to the hospital, Sullivan said. “She was back in the nursing home again because they put her out before she was ready.”. This photo shows UnitedHealthcare's corporate headquarters in May 2023. A new class action lawsuit accuses the insurance giant of using an artificial intelligence program to wrongly deny health insurance coverage for patients.
 
-Steph Weber is a Midwest-based freelance journalist specializing in healthcare and law.. 
+© JHVEPhoto - stock.adobe.com
+
+Health insurance giant UnitedHealthcare Inc. used a flawed artificial intelligence (AI) program to deny care to senior patients using the company’s Medicare Advantage insurance, according to a new class action lawsuit.
+
+The AI had a 90% error rate but UnitedHealthcare continued using it to systematically deny health insurance claims because the company knew only a tiny minority of policy holders – about 0.2% – would appeal the denials, said the lawsuit, published online by news service Reuters.
+
+Instead, the insureds had to pay out of pocket or discontinue post-acute care that was prescribed by their actual human physicians, the complaint said.
+
+The lawsuit was filed this week in U.S. District Court – District of Minnesota by law firms on behalf of the estates of two patients now deceased. Attorneys are seeking class action certification for the case, which could involve patients across 21 states, four years’ worth of insurance claims, and at least $5 million in costs.
+
+The attorneys claimed UnitedHealthcare Inc., parent company UnitedHealth Group Inc., and subsidiary naviHealth Inc. had a monetary incentive to deny medical care to patients who needed it.
+
+“The fraudulent scheme affords Defendants a clear financial windfall in the form of policy premiums without having to pay for promised care, while the elderly are prematurely kicked out of care facilities nationwide or forced to deplete family savings to continue receiving necessary medical care, all because an AI model ‘disagrees’ with their real live doctors’ determinations,” said the lawsuit. UnitedHealthcare’s corporate communications spokesman did not immediately respond to a Nov. 15 request for comments.
+
+UnitedHealth Group denied the claims of the lawsuit and will defend itself vigorously, said a statement from a company spokesman.
+
+Faulty predictions?
+
+UnitedHealthcare’s mission is “to help people live healthier lives and make the health system work better for everyone.” In reality, UnitedHealthcare prematurely and in bad faith quit paying for post-acute care for older patients with serious diseases and injuries, the complaint said.
+
+UnitedHealthcare had an AI program known as “nH Predict,” created by naviHealth, which was acquired by UnitedHealth Group in 2020.
+
+The nH Predict AI Model has a database of 6 million patients compiled over years. The program uses it to analyze a patient’s diagnosis, age, living situation, and physical function, then predict how much post-acute care a patient “should” require. It pinpoints the moment when UnitedHealthcare will cut payment for care, according to the lawsuit.
+
+But when patients appealed, they won more than 90% of the time, either by internal appeal or through federal administrative law judge rulings.
+
+“This demonstrates the blatant inaccuracy of the nH Predict AI Model and the lack of human review involved in the coverage denial process,” the lawsuit said.
+
+UnitedHealth responds
+
+A spokesman for Optum Health, a division of UnitedHealth Group, said the company made health coverage decision based on criteria of the U.S. Centers for Medicare & Medicaid Services (CMS) and health insurance plans.
+
+“The naviHealth predict tool is not used to make coverage determinations,” said the statement emailed to Medical Economics. “The tool is used as a guide to help us inform providers, families and other caregivers about what sort of assistance and care the patient may need both in the facility and after returning home. Coverage decisions are based on CMS coverage criteria and the terms of the member’s plan. This lawsuit has no merit, and we will defend ourselves vigorously.”
+
+Patients in need
+
+The court complaint named estates as plaintiffs and described the situations of two Wisconsin men who had Medicare Advantage plans through UnitedHealthcare.
+
+In May 2022, Gene B. Lokken, 91, fell at home, fracturing his leg and ankle. He was treated and admitted to a hospice service, but he began recovering. In June, an orthopedic doctor placed him in a removable ankle boot and ordered intensive physical therapy.
+
+About July 20, 2022, UnitedHealthcare terminated Lokken’s coverage, claiming additional days at a skilled nursing facility were not necessary and he could have a safe discharge. Lokken and his physician were “dumbfounded” by the news, so Lokken and his family appealed the insurance ruling, but lost multiple appeals. Lokken and his family paid $12,000 to $14,000 a month out of pocket for almost a year until his death on July 17, 2023.
+
+In October 2022, Dale Henry Tetzloff, 74, suffered a stroke. He was hospitalized and prescribed at least 100 days of post-acute care. After 20 days at a skilled nursing facility, UnitedHealthcare denied additional coverage. Tetzloff’s wife appealed and won, but after 40 days, UnitedHealthcare again denied coverage, claiming Tetzloff was ready for discharge.
+
+Over 10 months, Tetzloff’s health care costs exceeded $70,000. He died Oct. 11, 2023, at an assisted living facility.
+
+Across the nation
+
+Patients may be involved in other states: Arizona, California, Colorado, Delaware, Hawaii, Iowa, Kentucky, Massachusetts, Nebraska, North Carolina, North Dakota, Ohio, Oklahoma, Rhode Island, South Carolina, South Dakota, Vermont, Washington, West Virginia, and Wyoming.
+
+The case was filed in Minnesota because UnitedHealth Group’s corporate headquarters is in that state. UnitedHealthcare provides health insurance plans for 52.9 million people, the lawsuit said.

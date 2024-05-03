@@ -5,3 +5,95 @@ What happened, however, was more complicated than a simple algorithmic mistake. 
 The pandemic was a boom time for companies that remotely monitor test takers, as it became a public health hazard to gather a large group in a room. Suddenly, millions of people were forced to take bar exams, tests and quizzes alone at home on their laptops. To prevent the temptation to cheat, and catch those who did, remote proctoring companies offered web browser extensions that detect keystrokes and cursor movements, collect audio from a computer’s microphone, and record the screen and the feed from a computer’s camera, bringing surveillance methods used by law enforcement, employers and domestic abusers into an academic setting.
 
 Honorlock, based in Boca Raton, Fla., was founded by a couple of business school graduates who were frustrated by classmates they believed were gaming tests. The start-up administered nine million exams in 2021, charging about $5 per test or $10 per student to cover all the tests in the course. Honorlock has raised $40 million from investors, the vast majority of it since the pandemic began.
+
+Accused Of Cheating By An Algorithm, And A Professor She Had Never Met
+Source: New York Times, Kashmir Hill
+Photo: Test Taker
+
+An unsettling glimpse at the digitization of education.
+
+A Florida teenager taking a biology class at a community college got an upsetting note this year. A start-up called Honorlock had flagged her as acting suspiciously during an exam in February. She was, she said in an email to The New York Times, a Black woman who had been “wrongfully accused of academic dishonesty by an algorithm.”
+
+What happened, however, was more complicated than a simple algorithmic mistake. It involved several humans, academic bureaucracy and an automated facial detection tool from Amazon called Rekognition. Despite extensive data collection, including a recording of the girl, 17, and her screen while she took the test, the accusation of cheating was ultimately a human judgment call: Did looking away from the screen mean she was cheating?
+
+The pandemic was a boom time for companies that remotely monitor test takers, as it became a public health hazard to gather a large group in a room. Suddenly, millions of people were forced to take bar exams, tests and quizzes alone at home on their laptops. To prevent the temptation to cheat, and catch those who did, remote proctoring companies offered web browser extensions that detect keystrokes and cursor movements, collect audio from a computer’s microphone, and record the screen and the feed from a computer’s camera, bringing surveillance methods used by law enforcement, employers and domestic abusers into an academic setting.
+
+Honorlock, based in Boca Raton, Fla., was founded by a couple of business school graduates who were frustrated by classmates they believed were gaming tests. The start-up administered nine million exams in 2021, charging about $5 per test or $10 per student to cover all the tests in the course. Honorlock has raised $40 million from investors, the vast majority of it since the pandemic began.
+
+Keeping test takers honest has become a multimillion-dollar industry, but Honorlock and its competitors, including ExamSoft, ProctorU and Proctorio, have faced major blowback along the way: widespread activism, media reports on the technology’s problems and even a Senate inquiry. Some surveilled test takers have been frustrated by the software’s invasiveness, glitches, false allegations of cheating and failure to work equally well for all types of people.
+
+The Florida teenager is a rare example of an accused cheater who received the evidence against her: a 50-second clip from her hourlong Honorlock recording. She asked that her name not be used because of the stigma associated with academic dishonesty.
+
+Flagged
+
+The teenager was in the final year of a special program to earn both her high school diploma and her associate degree. Nearly 40 other students were in the teenager’s biology class, but they never met. The class, from Broward College, was fully remote and asynchronous.
+
+Asynchronous online education was growing even before the pandemic. It offers students a more flexible schedule, but it has downsides. Last year, an art history student who had a question about a recorded lecture tried to email his professor, and discovered that the man had died nearly two years earlier.
+
+The Florida teenager’s biology professor, Jonelle Orridge, was alive, but distant, her interactions with students taking place by email, as she assigned readings and YouTube videos. The exam this past February was the second the teenager had taken in the class. She set up her laptop in her living room in North Lauderdale making sure to follow a long list of rules set out in the class syllabus and in an Honorlock drop-down menu: Do not eat or drink, use a phone, have others in the room, look offscreen to read notes, and so on.
+
+The student had to pose in front of her laptop camera for a photo, show her student ID, and then pick her laptop up and use its camera to provide a 360-degree scan of the room to prove she didn’t have any contraband material. She didn’t mind any of this, she said, because she hoped the measures would prevent others from cheating.
+
+“You were flagged by Honorlock,” Dr. Orridge wrote. “After review of your video, you were observed frequently looking down and away from the screen before answering questions.”
+
+She was receiving a zero on the exam, and the matter was being referred to the dean of student affairs. “If you are found responsible for academic dishonesty the grade of zero will remain,” Dr. Orridge wrote.
+
+“This must be a mistake,” the student replied in an email. “I was not being academically dishonest. Looking down does not indicate academic dishonesty.”
+
+‘The word of God’
+
+The New York Times has reviewed the video. Honorlock recordings of several other students are visible briefly in the screen capture, before the teenager’s video is played.
+
+The student and her screen are visible, as is a partial log of time stamps, including at least one red flag, which is meant to indicate highly suspicious behavior, just a minute into her test. As the student begins the exam, at 8:29 a.m., she scrolls through four questions, appearing to look down after reading each one, once for as long as 10 seconds. She shifts slightly. She does not answer any of the questions during the 50-second clip.
+
+It’s impossible to say with certainty what is happening in the video. What the artificial intelligence technology got right is that she looked down. But to do what? She could be staring at the table, a smartphone or notes. The video is ambiguous.
+
+When the student met with the dean and Dr. Orridge by video, she said, she told them that she looks down to think, and that she fiddles with her hands to jog her memory. They were not swayed. The student was found “responsible” for “noncompliance with directions,” resulting in a zero on the exam and a warning on her record.
+
+“Who stares at a test the entire time they’re taking a test? That’s ridiculous. That’s not how humans work,” said Cooper Quintin, a technologist at the Electronic Frontier Foundation, a digital rights organization. “Normal behaviors are punished by this software.”
+
+After examining online proctoring software that medical students at Dartmouth College claimed had wrongly flagged them, Mr. Quintin suggested that schools have outside experts review evidence of cheating. The most serious flaw with these systems may be a human one: educators who overreact when artificially intelligent software raises an alert.
+
+“Schools seem to be treating it as the word of God,” Mr. Quintin said. “If the computer says you’re cheating, you must be cheating.”
+
+Tess Mitchell, a spokeswoman for Honorlock, said it was not the company’s role to advise schools on how to deal with behavior flagged by its product.
+
+“In no case do we definitively identify ‘cheaters’ — the final decision and course of action is up to the instructor and school, just as it would be in a classroom setting,” Ms. Mitchell said. “It can be challenging to interpret a student’s actions. That’s why we don’t.”
+
+Dr. Orridge did not respond to requests for comment for this article. A spokeswoman from Broward College said she could not discuss the case because of student privacy laws. In an email, she said faculty “exercise their best judgment” about what they see in Honorlock reports. She said a first warning for dishonesty would appear on a student’s record but not have more serious consequences, such as preventing the student from graduating or transferring credits to another institution.
+
+Who decides
+
+Honorlock hasn’t previously disclosed exactly how its artificial intelligence works, but a company spokeswoman revealed that the company performs face detection using Rekognition, an image analysis tool that Amazon started selling in 2016. The Rekognition software looks for facial landmarks — nose, eyes, eyebrows, mouth — and returns a confidence score that what is onscreen is a face. It can also infer the emotional state, gender and angle of the face.
+
+Honorlock will flag a test taker as suspicious if it detects multiple faces in the room, or if the test taker’s face disappears, which could happen when people cover their face with their hands in frustration, said Brandon Smith, Honorlock’s president and chief operating officer.
+
+Honorlock does sometimes use human employees to monitor test takers; “live proctors” will pop in by chat if there is a high number of flags on an exam to find out what is going on. Recently, these proctors discovered that Rekognition was mistakenly registering faces in photos or posters as additional people in the room.
+
+When something like that happens, Honorlock tells Amazon’s engineers. “They take our real data and use it to improve their A.I.,” Mr. Smith said.
+
+Rekognition was supposed to be a step up from what Honorlock had been using. A previous face detection tool from Google was worse at detecting the faces of people with a range of skin tones, Mr. Smith said.
+
+But Rekognition has also been accused of bias. In a series of studies, Joy Buolamwini, a computer researcher and executive director of the Algorithmic Justice League, found that gender classification software, including Rekognition, worked least well on darker-skinned females.
+
+Determining a person’s gender is different from detecting or recognizing a face, but Dr. Buolamwini considered her findings a canary in a coal mine. “If you sell one system that has been shown to have bias on human faces, it is doubtful your other face-based products are also completely bias free,” she wrote in 2019.
+
+The Times analyzed images from the student’s Honorlock video with Amazon Rekognition. It was 99.9 percent confident that a face was present and that it was sad, and 59 percent confident that the student was a man.
+
+Dr. Buolamwini said the Florida student’s skin color and gender should be a consideration in her attempts to clear her name, regardless of whether they affected the algorithm’s performance.
+
+“Whether it is technically linked to race or gender, the stigma and presumption placed on students of color can be exacerbated when a machine label feeds into confirmation bias,” Dr. Buolamwini wrote in an email.
+
+The human element
+
+As the pandemic winds down, and test takers can gather in person again, the remote proctoring industry may soon be in lower demand and face far less scrutiny. However, the intense activism around the technology during the pandemic did lead at least one company to make a major change to its product.
+
+ProctorU, an Honorlock competitor, no longer offers an A.I.-only product that flags videos for professors to review.
+
+“The faculty didn’t have the time, training or ability to do it or do it properly,” said Jarrod Morgan, ProctorU’s founder. A review of ProctorU’s internal data found that videos of flagged behavior were opened only 11 percent of the time.
+
+All suspicious behavior is now reviewed by one of the company’s approximately 1,300 proctors, most of whom are based abroad in cheaper labor markets. Mr. Morgan said these contractors went through rigorous training, and would “confirm a breach” only if there was solid evidence that a test taker was receiving help. ProctorU administered four million exams last year; in analyzing three million of those tests, it found that over 200,000, or about 7 percent, involved some kind of academic misconduct, according to the company.
+
+The teenager graduated from Broward College this month. She remains distraught at being labeled a cheater and fears it could happen again.
+
+“I try to become like a mannequin during tests now,” she said.

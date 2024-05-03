@@ -1,0 +1,35 @@
+{
+    "483": {
+        "Country": "Worldwide",
+        "State": "Telangana",
+        "City": "Hyderabad",
+        "Continent": "Worldwide",
+        "Company": "Telangana Police Department",
+        "Company city": "Hyderabad",
+        "Company state": "Telangana",
+        "Affected population": [
+            "Residents of Medak, Telangana"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Facial Recognition"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Facial Recognition": [
+                "Data bias"
+            ]
+        },
+        "Area of AI Application": "Law Enforcement",
+        "Online": "No"
+    }
+}

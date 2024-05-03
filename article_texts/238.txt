@@ -1,3 +1,43 @@
 State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington Washington D.C. West Virginia Wisconsin Wyoming Puerto Rico US Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana Islands Marshall Islands American Samoa Federated States of Micronesia Guam Palau Alberta, Canada British Columbia, Canada Manitoba, Canada New Brunswick, Canada Newfoundland, Canada Nova Scotia, Canada Northwest Territories, Canada Nunavut, Canada Ontario, Canada Prince Edward Island, Canada Quebec, Canada Saskatchewan, Canada Yukon Territory, Canada
 
 Zip Code
+
+Oregon dropping AI tool used in child abuse cases
+
+WASHINGTON — Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.
+
+The move comes weeks after an Associated Press review of a separate algorithmic tool in Pennsylvania that had originally inspired Oregon officials to develop their model, and was found to have flagged a disproportionate number of Black children for "mandatory" neglect investigations when it first was in place.
+
+Oregon's Department of Human Services announced to staff via email last month that after "extensive analysis" the agency's hotline workers would stop using the algorithm at the end of June to reduce disparities concerning which families are investigated for child abuse and neglect by child protective services.
+
+"We are committed to continuous quality improvement and equity," Lacey Andresen, the agency's deputy director, said in the May 19 email.
+
+Jake Sunderland, a department spokesman, said the existing algorithm would "no longer be necessary," since it can't be used with the state's new screening process. He declined to provide further details about why Oregon decided to replace the algorithm and would not elaborate on any related disparities that influenced the policy change.
+
+'Tracked'
+Hotline workers’ decisions about reports of child abuse and neglect mark a critical moment in the investigations process, when social workers first decide if families should face state intervention. The stakes are high — not attending to an allegation could end with a child’s death, but scrutinizing a family’s life could set them up for separation.
+
+From California to Colorado and Pennsylvania, as child welfare agencies use or consider implementing algorithms, an AP review identified concerns about transparency, reliability and racial disparities in the use of the technology, including their potential to harden bias in the child welfare system.
+
+U.S. Sen. Ron Wyden, an Oregon Democrat, said he had long been concerned about the algorithms used by his state’s child welfare system and reached out to the department again following the AP story to ask questions about racial bias — a prevailing concern with the growing use of artificial intelligence tools in child protective services.
+
+“Making decisions about what should happen to children and families is far too important a task to give untested algorithms,” Wyden said in a statement. “I’m glad the Oregon Department of Human Services is taking the concerns I raised about racial bias seriously and is pausing the use of its screening tool.”
+
+Sunderland said Oregon child welfare officials had long been considering changing their investigations process before making the announcement last month.
+
+He added that the state decided recently that the algorithm would be completely replaced by its new program, called the Structured Decision Making model, which aligns with many other child welfare jurisdictions across the country.
+
+Oregon’s Safety at Screening Tool was inspired by the influential Allegheny Family Screening Tool, which is named for the county surrounding Pittsburgh, and is aimed at predicting the risk that children face of winding up in foster care or being investigated in the future. It was first implemented in 2018. Social workers view the numerical risk scores the algorithm generates — the higher the number, the greater the risk – as they decide if a different social worker should go out to investigate the family.
+
+But Oregon officials tweaked their original algorithm to only draw from internal child welfare data in calculating a family’s risk, and tried to deliberately address racial bias in its design with a “fairness correction.”
+
+In response to Carnegie Mellon University researchers’ findings that Allegheny County’s algorithm initially flagged a disproportionate number of Black families for “mandatory” child neglect investigations, county officials called the research “hypothetical,” and noted that social workers can always override the tool, which was never intended to be used on its own.
+
+Wyden is a chief sponsor of a bill that seeks to establish transparency and national oversight of software, algorithms and other automated systems.
+
+
+“With the livelihoods and safety of children and families at stake, technology used by the state must be equitable — and I will continue to watchdog,” Wyden said.
+
+The second tool that Oregon developed — an algorithm to help decide when foster care children can be reunified with their families — remains on hiatus as researchers rework the model. Sunderland said the pilot was paused months ago due to inadequate data but that there is “no expectation that it will be unpaused soon.”
+
+In recent years while under scrutiny by a crisis oversight board ordered by the governor, the state agency — currently preparing to hire its eighth new child welfare director in six years — considered three additional algorithms, including predictive models that sought to assess a child’s risk for death and severe injury, whether children should be placed in foster care, and if so, where. Sunderland said the child welfare department never built those tools, however.

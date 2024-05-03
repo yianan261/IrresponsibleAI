@@ -1,4 +1,20 @@
-Tesla has said a car that crashed in California last week, killing its driver, was operating on Autopilot.
+Tesla’s Autopilot is getting smarter. The semi-autonomous driving system, set to form the basis of CEO Elon Musk’s self-driving car ambitions, has been receiving regular software updates to improve the underlying artificial intelligence. The company’s vehicles running on the Hardware 2 system can now tackle some of the toughest corners on the road.
+
+In a video shared by Electrek on Thursday, Tesla Model X owner Mike switches on Autopilot along a curve of Virginia highway near Chester. The Tesla Model S P100D loaner car that he’s using effortlessly guides its way through a tricky corner, where previously his car struggled to make the turn.
+
+It’s a promising step for Tesla as it prepares to roll out autonomous driving. The Hardware 2 suite of cameras and sensors, which have shipped with every car since October 2016, are expected to power the new mode with just computer updates. Musk has suggested that coast-to-coast autonomy is achievable in the next six months.
+
+Before that point, Tesla needs to get the existing Autopilot features moving past the Mobileye systems used in previous vehicles. In the Enhanced Autopilot feature set, Tesla promises advanced features like moving to the correct lane, a feature this video suggests is coming soon.
+
+“Once on the freeway, your Tesla will determine which lane you need to be in and when,” the company says in its description of Enhanced Autopilot. “In addition to ensuring you reach your intended exit, Autopilot will watch for opportunities to move to a faster lane when you’re caught behind slower traffic. When you reach your exit, your Tesla will depart the freeway, slow down and transition control back to you.”
+
+Watch the feat in action below:
+
+In a second video, Mike tried the curve again with his Model X at night. It sticks closer to the left side of the curve than right, but ultimately offers a far smoother ride than before:
+
+“This is a huge improvement for the vehicle,” Mike says in the second video. “One of the best runs ever by this Model X.”
+
+Perhaps autonomy this year isn’t so unfeasible after all.. Tesla has said a car that crashed in California last week, killing its driver, was operating on Autopilot.
 
 The 23 March crash on highway 101 in Mountain View is the latest accident to involve self-driving technology. Earlier this month, a self-driving Volvo SUV that was being tested by the ride-hailing service Uber struck and killed a pedestrian in Arizona.
 
@@ -28,68 +44,4 @@ Autopilot does not prevent all accidents, Tesla said, but it does make them less
 
 The company added that it “care[s] deeply for and feel[s] indebted to those who chose to put their trust in us. However, we must also care about people now and in the future whose lives may be saved if they know that Autopilot improves safety.
 
-“None of this changes how devastating an event like this is or how much we feel for our customer’s family and friends. We are incredibly sorry for their loss.”. (Bloomberg) -- The Tesla Inc. Model X that crashed in California while being guided by its semi-autonomous driving system sped up to 71 miles an hour in the seconds before the vehicle slammed into a highway barrier, investigators said Thursday.
-
-U.S. National Transportation Safety Board issued a preliminary report on the March 23 crash showing that the driver’s hands were detected on the steering wheel only 34 seconds during the last minute before impact.
-
-The investigation is the latest to shine a spotlight into potential flaws in emerging autonomous driving technology. Another NTSB probe of a self-driving Uber Technologies Inc. car that killed a pedestrian March 18 in Arizona found that the car’s sensors picked up the victim, but the vehicle wasn’t programmed to brake for obstructions.
-
-Walter Huang, a 38-year-old engineer who worked at Apple Inc., died in Mountain View, California, in the March 23 crash when his Model X struck a highway barrier as he was using the driver-assistance system known as Autopilot. The car’s computer didn’t sense his hands on the steering wheel for six seconds before the collision, according to NTSB.
-
-To contact the reporters on this story: Alan Levin in Washington at alevin24@bloomberg.net;Ryan Beene in Washington at rbeene@bloomberg.net
-
-To contact the editors responsible for this story: Jon Morgan at jmorgan97@bloomberg.net, Elizabeth Wasserman, Justin Blum
-
-©2018 Bloomberg L.P.. Drivers need to be ready to grab the wheel if the lane markings disappear, or lanes split, which may have been a contributing factor in this crash. Systems like Autopilot have known weaknesses. The manual also warns that it may not see stationary objects, a shortcoming highlighted when a Tesla slammed into a stopped firetruck near Los Angeles in January. The systems are designed to discard radar data about things that aren’t moving, to prevent false alarms for every overhead gantry or street-side trash can.
-
-Autopilot was first enabled on Tesla’s cars, via an over-the-air software updates, in October 2015. The system combines radar-controlled cruise control with automatic steering to stay within painted lane lines. The first person known to die using Autopilot was Joshua Brown, whose Model S crashed into a truck that turned across his path in Florida, in May 2016. Neither he nor the car’s computers saw the white truck against the bright sky.
-
-LEARN MORE The WIRED Guide to Self-Driving Cars
-
-Federal investigators pored over the crash site and the vehicle logs, as they are doing with this second fatality. The National Highway Traffic Safety Administration concluded that the system was operating as intended, wasn’t defective, and that Tesla didn’t need to recall any cars. The crash, in other words, was Brown’s fault. It went further, and said that crashes dropped 40 percent in Tesla cars equipped with the autosteer feature.
-
-The National Transportation Safety Board was more damning, saying Tesla should bear some of the blame for selling a system that is too easy to misuse.
-
-After Brown’s death, Tesla modified Autopilot to rely more on data from its radar, and less on the camera, to spot obstacles in the car’s path. It also sent out a software update that sharply curtailed the length of time a driver can let go of the wheel, and introduced brighter, flashing warnings. That length of time varies according to speed and road conditions, but can still be a few minutes.
-
-Autopilot was groundbreaking when Tesla introduced it, and Elon Musk promises his cars are capable of even more, from changing lanes all by themselves, to full self-driving. Other luxury car makers have introduced similar systems with varying restrictions—and far less grand promises. Cadillac’s Super Cruise uses an infrared camera to monitor the driver’s head position (so it knows when he’s looking at the road), instead of relying on torque sensors in the steering wheel.
-
-The federal investigations into Huang’s crash are ongoing, and may not produce reports for several months (the NTSB typically takes 12 to 18 months to finalize and publish its findings). In the meantime, Tesla used its blog post to point out some extreme circumstances in this accident. The barrier that Huang hit was supposed to have a crash attenuator, which crumples to absorb some of the impact. But it had been crushed in a previous accident, and not replaced, the company says. “We have never seen this level of damage to a Model X in any other crash,” the blog post reads.
-
-Coupled with Uber’s fatal crash in Arizona, in which one of its self-driving cars hit and killed a pedestrian pushing a bike, this incident marks the beginning of what is likely to be a difficult time for the autonomous vehicle industry. Engineers are convinced that taking the easily-distracted human out of the driving equation will cut down on the 40,000 road deaths each year on American roads. But right now, the systems aren’t sophisticated enough to operate without human oversight, which is difficult to ensure. And that leaves everyone in a difficult middle ground—a no man’s land with no obvious or immediate route out.
-
-Autonomous Accidents. Tesla said on Friday that a Tesla Model X involved a fatal crash in California last week had activated its Autopilot system, raising new questions about the semi-autonomous system that handles some driving tasks.
-
-Tesla also said vehicle logs from the accident showed no action had been taken by the driver soon before the crash and that he had received earlier warnings to put his hands on the wheel.
-
-"The driver had about five seconds and 150 meters of unobstructed view of the concrete divider with the crushed crash attenuator, but the vehicle logs show that no action was taken," Tesla said.
-
-The statement did not say why the Autopilot system apparently did not detect the concrete divider.
-
-The fatal crash and vehicle fire of the Tesla near Mountain View, California, involved two other cars and delayed traffic for hours. The 38-year-old Tesla driver died at a nearby hospital shortly after the crash.
-
-The National Highway Traffic Safety Administration, which launched an investigation into the crash earlier this week, did not immediately comment late Friday. The National Transportation Safety Board is also investigating the fatal crash.
-
-Autopilot allows drivers to take their hands off the wheel for extended periods under certain conditions. Tesla requires users to agree to keep their hands on the wheel "at all times" before they can use autopilot, but users routinely tout the fact they can use the system to drive hands-free.
-
-The NTSB faulted Tesla in a prior fatal autopilot crash.
-
-In September, NTSB Chairman Robert Sumwalt said operational limitations in the Tesla Model S played a major role in a May 2016 crash that killed a driver using autopilot.
-
-That death — the first fatality in a Tesla vehicle operating in Autopilot mode — raised questions about the safety of systems that can perform driving tasks for long stretches with little or no human intervention, but which cannot completely replace human drivers.
-
-The NTSB said Tesla could have taken further steps to prevent the system's misuse, and faulted the driver for not paying attention and for "overreliance on vehicle automation."
-
-In January, NHTSA and NTSB launched investigations into a Tesla vehicle, apparently traveling in semi-autonomous mode, that struck a fire truck in California. Neither agency nor Tesla has offered any update.
-
-The government probes raise the risk for Tesla and automakers at a time when the industry is seeking federal legislation that would ease deployment of self driving cars.
-
-The crash comes soon after an Uber vehicle in Arizona in self-driving mode struck and killed a pedestrian in the first death linked to an autonomous vehicle.
-
-Tesla said late Friday that "Autopilot does not prevent all accidents — such a standard would be impossible — but it makes them much less likely to occur. It unequivocally makes the world safer for the vehicle occupants, pedestrians and cyclists."
-
-Tesla said that in the United States "there is one automotive fatality every 86 million miles across all vehicles from all manufacturers. For Tesla, there is one fatality, including known pedestrian fatalities, every 320 million miles in vehicles equipped with Autopilot hardware."
-
-Tesla in September 2016 unveiled improvements to Autopilot, adding new limits on hands-off driving.
-
-On Thursday, Tesla said it was recalling 123,000 Model S sedans built before April 2016 in order to replace bolts in the power steering component that can begin to corrode after contact in cold temperatures with road salt. No accidents or injuries were reported.
+“None of this changes how devastating an event like this is or how much we feel for our customer’s family and friends. We are incredibly sorry for their loss.”

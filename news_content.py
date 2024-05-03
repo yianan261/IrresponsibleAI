@@ -10,6 +10,7 @@ from incident_data import IncidentData
 import concurrent.futures
 import random
 from check_urls import process_urls
+from concurrent.futures import ThreadPoolExecutor
 
 
 class FileNotFoundError(Exception):
@@ -24,6 +25,7 @@ class NewsContent:
         self.base = os.path.abspath(os.path.dirname(__file__))
         self.openai_client = OpenaiAPI()
         self.processed_results = {}
+        self.issues = dict()
 
     def scrape_article(self, url) -> str:
         """
@@ -62,8 +64,8 @@ class NewsContent:
 
         aggregated_content = self.aggregated_content
         for id, urls in urls_dict.items():
-            if len(urls) > 4:
-                urls = random.sample(urls, 4)
+            if len(urls) > 2:
+                urls = random.sample(urls, 2)
             with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
                 article_texts = list(executor.map(self.scrape_article, urls))
             concated = ". ".join(article_texts)
@@ -101,8 +103,35 @@ class NewsContent:
                     file_content = file.read()
                 aggregated_content[str(i)] = file_content
             except FileNotFoundError:
-                raise FileNotFoundError(f"File for ID {i} does not exist")
+                logging.error(f"File for ID {i} does not exist, skipping...")
+                continue
+
         return
+
+    # def process_item(self, id, content, prompt_type, check_prompt):
+    #     openai_client = self.openai_client
+    #     format_checker = FormatChecker()
+    #     try:
+    #         result, prompt = openai_client.process_content(content, prompt_type)
+    #         json_result = json.loads(result)
+    #         check = format_checker.check_format(json_result)
+    #         if not check:
+    #             replace_result, _ = openai_client.process_content(content, check_prompt)
+    #             json_replace = json.loads(replace_result)
+    #             result = json_replace
+    #         else:
+    #             result = json_result
+
+    #         return id, result, prompt
+
+    #     except json.JSONDecodeError as e:
+    #         logging.error(
+    #             f"Error decoding JSON data from API response for ID {id}: {e}"
+    #         )
+    #         return id, None, None
+    #     except Exception as e:
+    #         logging.error(f"An error occurred for ID {id}: {e}")
+    #         return id, None, None
 
     def process_aggregate_results(self, prompt_type, check_prompt):
         """
@@ -123,6 +152,28 @@ class NewsContent:
         results_directory = f"{self.base}/processed_output_individual/{prompt_type}/results_{current_time}"
         os.makedirs(results_directory, exist_ok=True)
         prompt = ""
+
+        # with ThreadPoolExecutor(max_workers=5) as executor:
+        #     future_to_item = {
+        #         executor.submit(
+        #             self.process_item, id, content, prompt_type, check_prompt
+        #         ): (id, content)
+        #         for id, content in aggregated_content.items()
+        #     }
+        #     for future in future_to_item:
+        #         id, content = future_to_item[future]
+        #         try:
+        #             result_id, result, prompt = future.result()
+        #             processed_results[result_id] = result
+        #             if result:
+        #                 individual_result_file_path = os.path.join(
+        #                     results_directory, f"id_{result_id}_processed_results.json"
+        #                 )
+        #                 with open(individual_result_file_path, "w") as json_file:
+        #                     json.dump({result_id: result}, json_file, indent=4)
+        #         except Exception as e:
+        #             logging.error(f"Error processing {id}: {e}")
+
         for id, content in aggregated_content.items():
             try:
                 result, prompt = openai_client.process_content(content, prompt_type)
@@ -149,10 +200,12 @@ class NewsContent:
                 logging.error(
                     f"Error decoding JSON data from API response for ID {id}: {e}"
                 )
+                self.issues[id] = f"{e}"
                 continue
             except Exception as e:
                 logging.error(f"An error occurred for ID {id}: {e}")
-                raise
+                self.issues[id] = f"{e}"
+                continue
         with open(f"{results_directory}/prompt.txt", "w") as prompt_file:
             prompt_file.write(prompt)
 
@@ -165,6 +218,7 @@ class NewsContent:
             json.dump(processed_results, json_file, indent=4)
 
         logging.info("Aggregate results saved to JSON file...")
+        print("FILES WITH ISSUES", self.issues)
         return
 
     def get_double_check(self, prompt_type, check_prompt):
@@ -193,7 +247,6 @@ class NewsContent:
                 )
                 json_replace = json.loads(replace_result)
                 processed_results[id] = json_replace
-        print("DOUBLE_CHECK", double_check)
         with open(
             f"./processed_output/{prompt_type}/processed_results_{current_time}_checked.json",
             "w",
@@ -229,8 +282,11 @@ class NewsContent:
         if scrape_articles == True:
             self.fill_article_content()
         else:
-            id_set = data.get_incidents_2023()
-            self.read_article_from_file(id_set)
+            # id_set = data.get_incidents_2023()
+            id_remove = data.get_empty_data()
+            id_set = data.get_handpicked_id_set()
+            ids_to_process = id_set - id_remove
+            self.read_article_from_file(ids_to_process)
         self.process_aggregate_results(prompt_type, ZERO_SHOT)
 
         if double_check == True:

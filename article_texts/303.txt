@@ -4,4 +4,26 @@ It was a Friday night in February 2021. His wife called an advice nurse at their
 
 Mark’s wife grabbed her husband’s phone and texted a few high-quality close-ups of their son’s groin area to her iPhone so she could upload them to the health care provider’s messaging system. In one, Mark’s hand was visible, helping to better display the swelling. Mark and his wife gave no thought to the tech giants that made this quick capture and exchange of digital data possible, or what those giants might think of the images.
 
-With help from the photos, the doctor diagnosed the issue and prescribed antibiotics, which quickly cleared it up. But the episode left Mark with a much larger problem, one that would cost him more than a decade of contacts, emails and photos, and make him the target of a police investigation. Mark, who asked to be identified only by his first name for fear of potential reputational harm, had been caught in an algorithmic net designed to snare people exchanging child sexual abuse material.. 
+With help from the photos, the doctor diagnosed the issue and prescribed antibiotics, which quickly cleared it up. But the episode left Mark with a much larger problem, one that would cost him more than a decade of contacts, emails and photos, and make him the target of a police investigation. Mark, who asked to be identified only by his first name for fear of potential reputational harm, had been caught in an algorithmic net designed to snare people exchanging child sexual abuse material..
+
+Big tech gone bad: Google blocks accounts based on false child exploitation filter
+
+The application of artificial intelligence in various aspects of life has been mostly a net positive, but what happens when machine learning algorithms cannot detect the difference between an innocent health photo and child exploitation material?
+
+The New York Times today reported that a San Francisco-based tech worker named only “Mark” — who ironically works for an unnamed tech company in content filtering — was banned by Google LLC for “a severe violation of Google’s policies and might be illegal” after his son became ill and photos were taken of his son. In this case, the child had an issue with his penis and after being asked by a medical professional, his wife had taken photos and sent them online through his Google account for a consultation.
+
+Google’s AI and filtering tagged the photos as child abuse without taking into context the situation. An incorrect or out-of-context block from Google is not greatly surprising. What happened next, though, is arguably appalling.
+
+Google informed authorities that the man, named in the report only as Mark, was dealing in child pornography and a police investigation was launched. Fortunately, the San Francisco Police Department understood the context, but nearly two years later, Google has not and Mark is still locked out of his account.
+
+In response to the New York Times story, Google’s only comment was “child sexual abuse material is abhorrent and we’re committed to preventing the spread of it on our platforms.” No one could argue with that statement, but in this case, the photos were not abusive material, rather a legitimate health issue.
+
+The case highlights how dependent billions of people have become on tech companies and how a simple false positive can spiral into something far worse. In Mark’s case, he not only lost his email account, Google Photos account and contact information, he also had a phone number through Google Fi that was also closed down by Google. The Google Fi phone number was connected to various other accounts, meaning he lost access to two-factor authentication as well.
+
+“The more eggs you have in one basket, the more likely the basket is to break,” Mark told the Times.
+
+Mark’s case is not unique. The Times also referenced a similar case from a father in Texas where Google flagged medically related photos taken and sent online as abusive material. In the Texas case, as with Mark’s case, Google suspended the father’s account and the robot tech workers in Mountain View rejected any appeals.
+
+Google and other big tech companies should be proactively looking for and screening abusive material. However, that Google cannot find a human employee to look at the context on appeal and sort the situation is not a positive reflection on Google and other tech companies.
+
+Fortunately, in both Mark’s case and the Texas case, the medical issues with their children were sorted out, but there is no medical prescription for dealing with Google and other tech companies once they have made up their minds and falsely labeled someone as being a child pornographer.

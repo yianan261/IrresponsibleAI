@@ -1,101 +1,39 @@
-The UK government officials are using artificial intelligence (AI) and complex algorithms to help make various decisions including those related to welfare, benefits, and approval of marriage licenses, a report by the Guardian said. According to the report, civil servants in at least eight government departments are using AI in one way or another, and some in an “uncontrolled manner”. UK Prime Minister Rishi Sunak (AP)
+In the past, artificial intelligence (AI) use in public services has caused uproars. For instance, in the Netherlands, tax authorities used technology to find fraud but made many mistakes. This resulted in a hefty fine of €3.7m, pushing thousands of families into poverty.
 
-The report made findings of some potentially discriminatory results made by the AI such as - an algorithm used by the Department for Work and Pensions (DWP) which an MP believes mistakenly led to dozens of people having their benefits removed, or a facial recognition tool used by the Metropolitan police has been found to make more mistakes recognising black faces than white ones under certain settings.
+A recent inquiry by The Guardian unveiled that government officials and civil servants in a minimum of eight Whitehall departments and some police forces in the United Kingdom employed AI to make significant determinations regarding benefit allocations.. The UK government risks contempt of court unless it improves its response to requests for transparency over the use of artificial intelligence (AI) to vet welfare claims, the information commissioner has said.
 
-HT launches Crick-it, a one stop destination to catch Cricket, anytime, anywhere. Explore now!
+Over the past two years, the Department for Work and Pensions (DWP) has increasingly deployed machine-learning algorithms to detect fraud and error in universal credit (UC) claims.
 
-Another discriminatory finding reportedly shows an algorithm used by the Home Office to flag up fake marriages has been disproportionately selecting people of certain nationalities.
+Ministers have maintained a veil of secrecy over the system, which the transparency campaign group Big Brother Watch has described as “seriously concerning”. The DWP has refused freedom of information requests and blocked MPs’ questions, arguing that providing information could help fraudsters.
 
-This comes ahead of the AI Safety Summit (UK AISS) - where global leaders will come together to deliberate on strategies for addressing potential misuse and loss of control risks associated with AI. Around 100 people from 28 nations are expected to attend the summit - which will feature companies and industry experts on November 1 and 2, hosted by Technology Secretary Michelle Donelan.
+Child poverty campaigners have said the impact on children of the AI tools could be “devastating” if benefits are suspended.
 
-Sunak pitches Britain as future home for AI regulation
+The information commissioner, John Edwards, has now warned the DWP it could be in contempt of court unless it changes its approach and spells out within 35 days the terms under which it could release more information.
 
-UK Prime Minister Rishi Sunak on Monday pitched for his country to be the future global home for AI regulation. Speaking at the London Tech Week conference, Sunak said, “The possibilities (of AI) are extraordinary. But we must – and we will – do it safely…I want to make the UK not just the intellectual home, but the geographical home of global AI safety regulation.”
+In July 2022, the Guardian asked what information was fed to the algorithm to help it decide who might be cheating, which companies were involved, and for the results of a “fairness analysis” of disproportionate impacts on ethnic minorities, older and disabled people and any others with protected characteristics. It refused to comply with the request.
 
-He added that the tech sector was at the “heart of his priority” to grow the economy.
+In a decision notice after an appeal by this newspaper, Edwards’ office said he was “disappointed that the DWP failed to consider the request on the basis of its clear, objective interpretation” and had “incorrectly” interpreted the request.
 
-Earlier in May, Sunak had met with the leading CEOs in artificial intelligence - OpenAI, Google DeepMind, and Anthropic, to discuss joint action to ensure the development of safe and responsible AI and ways to establish the right approach to governance for the next technological frontier. During the meeting, Sunak made it clear that AI is the “defining technology of our time”.. Kate Osamor, the Labour MP for Edmonton, recently received an email from a charity about a constituent of hers who had had her benefits suspended apparently without reason.
+It also described as “unfortunate” the way the DWP had changed its reason for not releasing information 11 months after the request was first made, creating a fresh delay.
 
-“For well over a year now she has been trying to contact DWP [the Department for Work and Pensions] and find out more about the reason for the suspension of her UC [Universal Credit], but neither she nor our casework team have got anywhere,” the email said. “It remains unclear why DWP has suspended the claim, never mind whether this had any merit … she has been unable to pay rent for 18 months and is consequently facing eviction proceedings.”
+The DWP initially claimed that releasing information would harm the prevention or detection of crime and that it would prejudice commercial interests. Then in June it said it would cost too much to gather the information, such were the volumes of material about the AI system held on government computers.
 
-Osamor has been dealing with dozens of such cases in recent years, often involving Bulgarian nationals. She believes they have been victims of a semi-automated system that uses an algorithm to flag up potential benefits fraud before referring those cases to humans to make a final decision on whether to suspend people’s claims.
+The DWP recently expanded its use of AI from scanning claims for welfare advances to applications made by cohabitants, self-employed people and people applying for housing support, as well as to assess claimants’ savings declarations. One of the questions the DWP is refusing to answer is what historical fraud and error data is inputted to train the AI model. The system has shown some evidence of bias, according to the DWP’s own trials. Universal credit is used by 5.9 million people.
 
-“I was contacted by dozens of constituents around the beginning of 2022, all Bulgarian nationals, who had their benefits suspended,” Osamor said. “Their cases had been identified by the DWP’s Integrated Risk and Intelligence Service as being high risk after carrying out automated data analytics.
+“Whilst reducing fraud in the benefit system is important, the uses of these tools have real-life implications for families in poverty who get caught up in their deployment,” said Claire Hall, the head of strategic litigation at Child Poverty Action Group. “The DWP must drop its culture of secrecy and provide meaningful reassurance of the fairness of these tools.”
 
-“They were left in destitution for months, with no means of appeal. Yet, in almost all cases, no evidence of fraud was found and their benefits were eventually restored. There was no accountability for this process.”
+Big Brother Watch, a civil liberties and privacy campaigning organisation, said the DWP was being “alarmingly, unjustifiably secretive”.
 
-The DWP has been using AI to help detect benefits fraud since 2021. The algorithm detects cases that are worthy of further investigation by a human and passes them on for review.
+The group’s director, Silkie Carlo, said: “It is totally unacceptable to refuse legal requests for information about the use of powerful technologies that run a high risk of causing unfair and discriminatory impacts on some of our country’s most vulnerable people.
 
-In response to a freedom of information request by the Guardian, the DWP said it could not reveal details of how the algorithm works in case it helps people game the system.
+skip past newsletter promotion Sign up to First Edition Free daily newsletter Our morning email breaks down the key stories of the day, telling you what’s happening and why it matters Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
 
-The department said the algorithm does not take nationality into account. But because these algorithms are self-learning, no one can know exactly how they do balance the data they receive.
+“Algorithms in the welfare system tend to cast a wide net of digital suspicion and can be dangerously wrong, with serious harms. Government uses of AI should trigger much greater public transparency, not less. People have the right to understand how their information is being used and why decisions are made about them, rather than to be left at the mercy of opaque AI.”
 
-The DWP said in its latest annual accounts that it monitored the system for signs of bias, but was limited in its capacity to do so where it had insufficient user data. The public spending watchdog has urged it to publish summaries of any internal equality assessments.
+UN experts have warned that extending the UK’s “digital by default” welfare system with machine learning, without greater transparency, risks creating serious problems for some benefit claimants.
 
-Shameem Ahmad, the chief executive of the Public Law Project, said: “In response to numerous Freedom of Information Act requests, and despite the evident risks, the DWP continues to refuse to provide even basic information on how these AI tools work, such as who they are being tested on, or whether the systems are working accurately.”
+In March the information commissioner warned the DWP to improve its broader handling of freedom of information requests. The commissioner complained of a “consistently poor level of performance” and found the department was often not properly reading the requests, that it persistently used standard templates when refusing requests and that it had recently been withholding more information.
 
-The DWP is not the only department using AI in a way that can have major impacts on people’s daily lives. A Guardian investigation has found such tools in use in at least eight Whitehall departments and a handful of police forces around the UK.
+It has ordered the DWP to set out how it might be able to respond to the Guardian’s specific request by 22 September.
 
-The Home Office has a similar tool to detect potential sham marriages. An algorithm flags marriage licence applications for review to a case worker who can then approve, delay or reject the application.
-
-The tool has allowed the department to process applications much more quickly. But its own equality impact assessment found it was flagging a disproportionately high number of marriages from four countries: Greece, Albania, Bulgaria and Romania.
-
-The assessment, which has been seen by the Guardian, found: “Where there may be indirect discrimination it is justified by the overall aims and outcomes of the process.”
-
-Several police forces are also using AI tools, especially to analyse patterns of crime and for facial recognition. The Metropolitan police have introduced live facial recognition cameras across London in order to help officers detect people on its “watchlist”.
-
-But just like other AI tools, there is evidence the Met’s facial recognition systems can lead to bias. A review carried out this year by the National Physical Laboratory found that under most conditions, the cameras had very low error rates, and errors were evenly spread over different demographics.
-
-When the sensitivity settings were dialled down however, as they might be in an effort to catch more people, they falsely detected at least five times more black people than white people.
-
-The Met did not respond to a request for comment.
-
-West Midlands police, meanwhile, are using AI to predict potential hotspots for knife crime and car theft, and are developing a separate tool to predict which criminals might become “high harm offenders”.
-
-These examples are those about which the Guardian was able to find out most information.
-
-In many cases, departments and police forces used an array of exemptions to freedom of information rules to avoid publishing details of their AI tools.
-
-Some worry the UK could be heading for a scandal similar to that in the Netherlands, where tax authorities were found to have breached European data rules, or in Australia, where 400,000 people were wrongly accused of giving authorities incorrect details about their income.
-
-John Edwards, the UK’s information commissioner, said he had examined many AI tools being used in the public sector, including the DWP’s fraud detection systems, and not found any to be in breach of data protection rules: “We have had a look at the DWP applications and have looked at AI being used by local authorities in relation to benefits. We have found they have been deployed responsibly and there has been sufficient human intervention to avoid the risk of harm.”
-
-However, he added that facial recognition cameras were a source of concern. “We are watching with interest the developments of live facial recognition,” he said. “It is potentially intrusive and we are monitoring that.”
-
-Some departments are trying to be more open about how AI is being used in the public sphere. The Cabinet Office is putting together a central database of such tools, but it is up to individual departments whether to include their systems or not.
-
-In the meantime, campaigners worry that those on the receiving end of AI-informed decision-making are being harmed without even realising.
-
-Ahmad warned: “Examples from other countries illustrate the catastrophic consequences for affected individuals, governments, and society as a whole. Given the lack of transparency and regulation, the government is setting up the precise circumstances for it to happen here, too.”. The government has widened its deployment of artificial intelligence to uncover welfare fraud, despite warnings of algorithmic bias against groups of vulnerable claimants.
-
-In a £70m investment applying “advanced analytics” to requests for universal credit (UC), the Department for Work and Pensions (DWP) has extended the use of machine learning as it attempts to save more than £1bn from the £8bn-plus lost to fraud and error last year, audit documents scrutinised by the Guardian reveal.
-
-The project does not appear to have been formally announced by the government, which has been accused of being secretive about AI in the welfare system. If extended, it has the potential to reach many of the 5.9 million people who claim UC.
-
-After a trial last year using automated software to flag up potential fraudsters seeking UC cash advances, similar technology has now been developed and piloted to scan welfare applications made by people living together, self-employed people, and those wanting housing support, as well as to assess the claims people make about their personal capital such as savings.
-
-Welfare rights organisations and UN experts have previously said that extending the UK’s “digital by default” welfare system with machine learning without greater transparency risks creating serious problems for some benefit claimants.
-
-Big Brother Watch, a UK civil liberties campaign group, said it was “worrying” the government was “pushing ahead with yet more opaque AI models when it admits its capability to monitor for unfairness is limited”.
-
-“The DWP consistently refuses to publish information about how they operate bar the vaguest details,” said Jake Hurfurt, head of research and investigations.
-
-The extension of welfare automation is summarised in the comptroller and auditor general’s statement in the DWP’s latest annual report. It says the DWP has “tight governance and control over its use of machine learning”, but it revealed officials have detected “evidence of bias toward older claimants”.
-
-An algorithm trialled last year was fed data about previous claimant fraud to teach it to predict which new benefit claimants might be cheating. Final decisions are made by a human.
-
-The auditor general warned of “an inherent risk that the algorithms are biased towards selecting claims for review from certain vulnerable people or groups with protected characteristics”.
-
-The DWP had admitted its “ability to test for unfair impacts across protected characteristics is currently limited”, they said.
-
-skip past newsletter promotion Sign up to Headlines UK Free newsletter Get the day’s headlines and highlights emailed direct to you every morning Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
-
-The government is under pressure to increase public confidence in its use of AI, and the auditor general urged it to publish its assessment of bias in machine learning models.
-
-The DWP has so far declined to release information about how its machine learning algorithm works. It has blocked freedom of information requests from the Guardian seeking the name of any companies involved in the fraud detection trial relating to universal credit advances because “details of contracts are commercially sensitive”. It is also refusing to publish any results from last year’s trial, including assessing bias against certain groups of claimants.
-
-Last month, Tom Pursglove, minister for disabled people, health and work, told parliament the government would not publish an equalities assessment of trials of machine-learning algorithms, because it would tip off fraudsters “leading to new frauds and greater losses to the public purse”.
-
-The DWP has told the auditor it is “working to develop its capability to perform a more comprehensive fairness analysis across a wider range of protected characteristics”.
-
-A spokesperson for the DWP said: “We continue to explore the potential of new technologies in combating fraud and deploy comprehensive safeguards when doing so. AI does not replace human judgment when investigating fraud and error to either determine or deny a payment to a claimant.”. 
+A spokesperson for the DWP said: “We welcome that the commissioner agreed we are entitled to refuse to comply with the request on the basis on cost, as defined under the FoI Act. We have noted the points about providing further advice and assistance to the requester. The department takes its compliance with the Freedom of Information Act and Cabinet Office code of practice very seriously and keeps its approach to the publication of information under constant review.”

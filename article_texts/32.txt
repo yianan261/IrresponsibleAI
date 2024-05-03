@@ -1,22 +1,4 @@
-. Everyone's talking about the iPhone X, and for one reason in particular: its Face ID. This is Apple's attempt at conquering biometric security, and it could be either a huge success or a giant letdown. To see just how accurately the iPhone X facial recognition works, two sets of identical twins put it to the ultimate test: trying to tell them apart.
-
-Right now, you're likely unlocking your phone with a passcode or using your fingerprint; but Apple wants to take things to the next level. Face ID works by first registering your face as you do rather funny-looking head rolls in front of the camera, then storing this information. After this set-up, to use the feature, you need only look down at your phone, and it unlocks — indicated by the little padlock that opens up on the screen. Then, swipe up, and you're in.
-
-In the video posted by Mashable, two pairs of identical twin bothers put the iPhone X's Face ID to good use. One brother took a turn letting it scan his face, before passing it off to his twin — who then tried to use his own face to unlock the phone. To spice things up a little more, one brother even removed his glasses before trying to "break into" his brother's device. Did it work? Watch below to find out.
-
-Fail. The iPhone knows a lot of things. It knows your fingerprint. It knows your friends and family. But if you have a look-alike relative, it might not be able to tell you apart.
-
-It's not too comforting, but there are important details to note here, because it's not quite as simple as, "Face ID can't tell twins apart, so it must suck." First, let's back up to Touch ID, which uses your fingerprint to unlock your phone. We already know this isn't foolproof. Touch ID works by taking many (very) small photos of your prints. This means, theoretically, someone could fake your fingerprints — but the odds are one in 50,000. Looking at Face ID, however, that number skyrockets to one in a million. Apple has been open about how your odds might not be as good if you have a twin or another relative who looks a lot like you. (On the same note, hopefully you don't have to worry about these specific people snooping through your phone, reading your texts, and checking out your naughty selfies.)
-
-As for the rest of us who don't have twins or doppelgangers... Alex Cranz with Gizmodo tested out Face ID and confirmed what a lot of us have probably already suspected: most of the time, Face ID works perfectly.
-
-In fact, as long as you don't give it a profile view (which it can't read), Face ID usually works in less than a second.
-
-You simply tilt it toward your face and swipe. It even works in the pitch black. Best yet, the technology gets smarter as you use it. In other words, over time, it will know it's you even if you've grown a beard, are wearing your glasses (including sunglasses!), are making a funny face, and even after you've removed or put on make-up.
-
-Joanna Stern of the Wall Street Journal also tried to trip up the iPhone X, similar to Mashable. Most of the time, the phone knew right from wrong: she even used photos of herself to try to trick it — taping a cutout to her own face, and holding up a picture of herself on her iPhone 7. Even a silicone mask of her own face didn't cut it. While she had a pair of twins try to (unsuccessfully) unlock the iPhone for each other, triplets were able to pull it off.
-
-Bottom line: you can expect Face ID to be easy to use, fast, and secure. And unless you have a twin named Dr. Evil, you probably don't need to worry.. There’s been a flood of iPhone X reviews surfacing this week and we’re hearing (and seeing) more details about Face ID. While Apple has touted that Face ID is more secure than Touch ID, it also shared that this isn’t the case for twins and those under the age of 13. Now that a few outlets have had more time with the iPhone X, we’re seeing some mixed results when it comes to identical twins tricking Face ID.
+There’s been a flood of iPhone X reviews surfacing this week and we’re hearing (and seeing) more details about Face ID. While Apple has touted that Face ID is more secure than Touch ID, it also shared that this isn’t the case for twins and those under the age of 13. Now that a few outlets have had more time with the iPhone X, we’re seeing some mixed results when it comes to identical twins tricking Face ID.
 
 Apple first shared that the probability of someone else unlocking your iPhone X with Face ID is 1 in 1,000,000 compared 1 in 50,000 with Touch ID at its September event. The company also made a joke out of the fact that Face ID’s security is lower when it comes to identical twins.
 
@@ -36,26 +18,42 @@ The Wall Street Journal used fraternal twins and identical triplets in its tests
 
 Meanwhile, Business Insider saw the opposite results in its test. While BI only ran the test with one set of twins, no false matches occurred.
 
-Is this a concern for you? For twins, this certainly seems like a downside compared to Touch ID (so hopefully you can trust your twin). iPhone X with Face ID hits stores this Friday when more customers will be able to give real world tests to the new facial recognition features.. The iPhone X might be the future of Apple’s smartphone design, but its lauded Face ID facial recognition system has an issue with people under 13: it’s much more difficult to tell them apart.
+Is this a concern for you? For twins, this certainly seems like a downside compared to Touch ID (so hopefully you can trust your twin). iPhone X with Face ID hits stores this Friday when more customers will be able to give real world tests to the new facial recognition features.. The iPhone X's Face ID does capture actual face images on every unlock, but they're discarded as soon it's calculated the representation. Image: Apple/CNET
 
-In a security guide published Wednesday, Apple recommends that children under the age of 13 do not use Face ID due to the probability of a false match being significantly higher for young children. The company said this was because “their distinct facial features may not have fully developed”.
+Apple has already said the iPhone X's facial-recognition system, Face ID, could be a problem for people with an evil twin. They'll have to use a passcode to keep their data secure. Or get an iPhone 8 with Touch ID, since twins don't have matching fingerprints.
 
-While few young children are likely to be given a £999 iPhone, false matches are also more likely for twins and siblings. In all those situations, the company recommends concerned users disable Face ID and use a passcode instead.
+But just as people want to keep others out of their iPhone, how does Face ID ensure owners aren't locked out because they've got more wrinkles, makeup, or a different hairdo than a month ago?
 
-For most users – those over 13 without “evil twins”, as Apple’s head of iOS Craig Federighi describes them – the bigger concern is deliberate attacks. Touch ID, Apple’s fingerprint sensor, was famously bypassed just two days after it was launched in the iPhone 5S, using a fake fingerprint placed over a real finger.
+Apple explains this issue and more in a new paper called Face ID Security, as well as on a new Face ID support page.
 
-With Face ID, Apple has implemented a secondary system that exclusively looks out for attempts to fool the technology. Both the authentication and spoofing defence are based on machine learning, but while the former is trained to identify individuals from their faces, the latter is used to look for telltale signs of cheating.
+As it's said before, there's a one in a million chance someone else could look at your iPhone X and unlock it. That's 20 times less likely than for Touch ID.
 
-“An additional neural network that’s trained to spot and resist spoofing defends against attempts to unlock your phone with photos or masks,” the company says. If a completely perfect mask is made, which fools the identification neural network, the defensive system will still notice – just like a human.
+Apple says the probability of a false match is different for twins, and for kids under 13 years old, whose distinctive facial features aren't fully developed.
 
-Apple is also confident that it won’t fall prey to issues of algorithmic bias that have plagued many attempts to use neural networks at scale. High-profile examples of such failures include the photo-labelling system that ltagged black people as gorillas, or the word-association model which states that men are computer programmers and women are homemakers.
+The Face ID enrollment relies on an image of the person's face at a single point in time, which, like Touch ID's fingerprint capture, is stored as a mathematical representation in the device's secure enclave. However, Face ID also relies on a neural network to build on this representation of the owner's face using facial data from some login attempts.
 
-Whenever its initial training exposed a demographic shortcoming, Apple says, it “augmented the studies as needed to provide a high degree of accuracy for a diverse range of users”. Time – and millions of people around the world using the technology – will tell whether the effort worked, but the company sounds confident.
+Besides data captured at enrollment, the secure enclave also stores "mathematical representations of your face calculated during some unlock attempts if Face ID deems them useful to augment future matching".
 
-One area the system will struggle with, however, is facial coverings. Apple says that “Face ID is designed to work with hats, scarves, glasses, contact lenses and many sunglasses,” but ultimately two things dictate whether or not it has a chance of success. The first is whether the coverings are transparent to infrared light, and the second whether the system can see the eyes, nose and mouth. While some fabrics are more transparent to infrared than they may seem, that means iPhone users who cover their faces may be forced to rely on a passcode when out and about.
+Face ID does capture actual face images on every unlock, but they're discarded as soon it's calculated the representation.
 
-Separately, Apple has also confirmed that the depth-sensing technology included in the iPhone X is not allowed to be used by developers to create their own facial biometrics, a possibility which had concerned many privacy activists.
+To cater for "dramatic" changes to your looks, such as new facial hair or make-up, Face ID can use a temporary representation of your face if it was a good enough match to unlock the device.
 
-The depth sensor data is not directly available to developers, but the camera API now allows them to receive a pixel-by-pixel measure of how far features in an image are from the lens, a system intended to be used to enable image manipulation such as Apple’s own portrait mode.
+This can be used for a limited number of unlocks. Face ID also captures another facial image when it fails to recognize the owner but the match still reaches a "certain threshold" and they immediately type the correct passcode.
 
-That could theoretically be used to build a standalone authentication feature, albeit one that is less precise than Apple’s own, but the company has updated its App Store policies to prevent developers from attempting to do so. “You may not attempt, facilitate, or encourage others to identify anonymous users or reconstruct user profiles based on data collected from depth and/or facial mapping tools,” the company’s developer guidelines now state.
+"To improve unlock performance and keep pace with the natural changes of your face and look, Face ID augments its stored mathematical representation over time. Upon successful unlock, Face ID may use the newly calculated mathematical representation -- if its quality is sufficient -- for a finite number of additional unlocks before that data is discarded," Apple explains in the paper.
+
+"Conversely, if Face ID fails to recognize you, but the match quality is higher than a certain threshold and you immediately follow the failure by entering your passcode, Face ID takes another capture and augments its enrolled Face ID data with the newly calculated mathematical representation.
+
+"This new Face ID data is discarded after a finite number of unlocks and if you stop matching against it. These augmentation processes allow Face ID to keep up with dramatic changes in your facial hair or makeup use, while minimizing false acceptance."
+
+Previous and related coverage
+
+Face, fingerprint, passwords, or PIN: What's the best way to keep your smartphone secure?
+
+Apple's Face ID has caused a stir -- but are biometrics really the best way to boost mobile security?
+
+iPhone X: The hardware behind Face ID
+
+Unlocking the iPhone 8 might be as simple as looking at it, but there's a lot of high-tech hardware powering it behind the scenes.
+
+Read more on Apple Face ID

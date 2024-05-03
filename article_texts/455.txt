@@ -1,97 +1,57 @@
-CNET will pause publication of stories generated using artificial intelligence “for now,” the site’s leadership told employees on a staff call Friday.
-
-The call, which lasted under an hour, was held a week after CNET came under fire for its use of AI tools on stories and one day after The Verge reported that AI tools had been in use for months, with little transparency to readers or staff. CNET hadn’t formally announced the use of AI until readers noticed a small disclosure.
-
-“We didn’t do it in secret,” CNET editor-in-chief Connie Guglielmo told the group. “We did it quietly.”
-
-CNET’s pop-up disclosure before it was rewritten last week.
-
-CNET, owned by private equity firm Red Ventures, is among several websites that have been publishing articles written using AI. Other sites like Bankrate and CreditCards.com would also pause AI stories, executives on the call said.
-
-Futurism noted that CNET and Bankrate appeared to have stopped running AI stories as early as Wednesday.
-
-The call was hosted by Guglielmo, Lindsey Turrentine, CNET’s EVP of content and audience, and Lance Davis, Red Ventures’ vice president of content. They answered a handful of questions submitted by staff ahead of time in the AMA-style call.
-
-Davis, who was listed as the point of contact for CNET’s AI stories until recently, also gave staff a more detailed rundown of the tool that has been utilized for the robot-written articles. Until now, most staff had very little insight into the machine that was generating dozens of stories appearing on CNET.
-
-Are you a former or current CNET / Red Ventures employee? I’d love to hear from you. Contact me at mia@theverge.com, and I’ll share my Signal.
-
-The AI, which is as of yet unnamed, is a proprietary tool built by Red Ventures, according to Davis. AI editors are able to choose domains and domain-level sections from which to pull data from and generate stories; editors can also use a combination of AI-generated text and their own writing or reporting.
-
-Turrentine declined to answer staff questions about the dataset used to train AI in today’s meeting as well as around plagiarism concerns but said more information would be available next week and that some staff would get a preview of the tool.
-
-Leadership also differentiated between the unnamed internal tool and other automated technology Red Ventures uses on its sites to auto-insert numbers into mortgage rate and refinance rate stories, which The Verge reported had been in use for far longer but that the company didn’t disclose.
-
-CNET will begin including disclosures on their own stories about AI
-
-“Some writers — I won’t call them reporters — have conflated these two things and had caused confusion and have somehow said that using a tool to insert numbers into interest rate or stock price stories is somehow part of some, I don’t know, devious enterprise,” Guglielmo said. “I’m sure that’s news to The Wall Street Journal, Bloomberg, The New York Times, Forbes, and everyone else who does that and has been doing it for a very, very long time.”
-
-Guglielmo said that, going forward, stories on CNET about artificial intelligence will have a disclosure that the outlet uses its own automated technologies. Red Ventures also created an AI working group spanning across multiple departments, though it’s unclear what the council has done so far — leadership noted that the Slack channel had been created.
-
-“I just want to reassure everybody: this will pass,” Turrentine said of the media coverage in recent weeks. “It’s uncomfortable, we will get through it, the news cycle will move on.”
-
-Yesterday, The Verge reported that despite CNET’s “experiments” in AI-generated technology, many on staff were largely kept in the dark about what tools the company was using or how it was using them. At times, staffers told The Verge that they didn’t know if content published to CNET was AI-generated or written by their human colleagues. CNET and Red Ventures declined to answer any of The Verge’s questions about the tools used or disclosure policies.. CNET told staff it would halt the publication of articles generated via artificial intelligence, in a Friday call, according to a report from The Verge. Or, at least, the company said it would pause the AI-article practice “for now,” as it waits out a stream of media criticism.
+. Aside from stringing together human-like, fluid English language sentences, one of ChatGPT’s biggest skillsets seems to be getting things wrong. In the pursuit of generating passable paragraphs, the AI-program fabricates information and bungles facts like nobody’s business. Unfortunately, tech outlet CNET decided to make AI’s mistakes its business.
 
 
 
-ChatGPT’s Creator Buddies Up to Congress | Future Tech CC Share Subtitles Off
+Generating Video Via Text? | Future Tech CC Share Subtitles Off
 
-English view video ChatGPT’s Creator Buddies Up to Congress | Future Tech
+English view video Generating Video Via Text? | Future Tech
 
-“I just want to reassure everybody: this will pass,” Lindsey Turrentine, a CNET executive, told staff regarding the recent coverage of the site’s AI use. “It’s uncomfortable, we will get through it, the news cycle will move on,” she added, in the hour-long call.
+The tech media site has been forced to issue multiple, major corrections to a post published on CNET, created via AI, as first reported by Futurism. In one single AI-written explainer on compounding interest, there were at least five significant inaccuracies, which have now been amended. The errors were as follows, according to CNET’s hefty correction:
+
+The article implied a savings account initially containing $10,000 with a 3% interest rate, compounding annually, would accrue $10,300 in interest after a year. The real earned interest would amount to $300.
+
+An error similar to the above showed up in a second example, based on the first.
+
+The post incorrectly stated that one-year CD accounts’ interest only compounds annually. In reality: CD accounts compound at variable frequencies.
+
+The article mis-reported how much a person would have to pay on a car loan with a 4% interest rate over five years.
+
+The original post incorrectly conflated APR and APY, and offered bad advice accordingly.
 
 Advertisement
 
-The storied tech media outlet, acquired in 2020 by private equity group Red Ventures, had been quietly publishing AI-generated content for months, under the byline “CNET Money Staff” or “CNET Money.” Other sites owned by Red Ventures, including Bankrate and CreditCards.com, have also been using the same, unnamed proprietary AI tool to generate content, Lance Davis, a Red Ventures executive, noted in the staff call, according to The Verge.
-
-In the CNET stories, a small, hard-to-locate disclaimer on the “author” page was the only initial hint that a human hadn’t crafted the prose behind the posts. Until the true nature of those articles—almost entirely basic financial explainers transparently intended to garner clicks through SEO—was first widely noted in a January report from Futurism. And from there, multiple other major media outlets picked up the story .
+For more than two months, CNET has been pumping out posts generated by an artificial intelligence program. The site has published 78 of these articles total, and up to 12 in a single day, originally under the byline “CNET Money Staff,” and now just “CNET Money.” Initially, the outlet seemed eager to have its AI authorship fly under the radar, disclosing the lack of a human writer only in an obscure byline description on the robot’s “author” page. Then, Futurism and other media outlets caught on. Critique followed. CNET’s editor in chief, Connie Guglielmo, wrote a statement about it.
 
 Advertisement
 
-A follow-up report from Futurism noted an alarming number of errors in just one of the AI-assisted posts. The article, titled “What is Compound Interest?,” misrepresented compound interest multiple times. CNET was forced to issue a hefty correction, and began reviewing the accuracy of all of its similarly produced content
-
-Then, interviews with current and former CNET staff members revealed that the “CNET Money” posts were just the tip of the AI-iceberg. CNET had been using some form of automated assistance in posts for at least 18-months, and editorial staff were often left in the dark about when are where automation was being used, according to an earlier report from The Verge.
+And just like the outlet’s public acknowledgement of its use of AI only followed widespread criticism, CNET didn’t identify nor aim to fix all these inaccuracies noted on Tuesday, all on its own. The media outlet’s correction only came after Futurism directly alerted CNET to some of the errors, Futurism reported.
 
 Advertisement
 
-In the Friday staff call, Davis, Turrentine, and CNET editor-in-chief Connie Guglielmo offered staff more details about how AI was being used on the site. Editors using the AI tool can choose domains and sections for articles, pull data, and generate text. They can also include or add their own, human-written text or reporting.
-
-Worth noting: multiple major news outlets use automation or AI for some content on their sites. For instance, the Associated Press began using AI to generate articles on earnings reports in 2014, and later expanded that to sports recaps. The Washington Post has used artificial intelligence to keep tabs on election results and football games.
+CNET has claimed that all of its AI-generated articles are “reviewed, fact-checked and edited” by real, human staff. And each post has an editor’s name attached to it in the byline. But clearly, that alleged oversight isn’t enough to stop artificial intelligence’s many generated mistakes from slipping through the cracks.
 
 Advertisement
 
-However, CNET’s application of AI has been slightly different. By publishing a slew of articles with basic questions as headlines, meant to rank as high as possible in Google’s algorithmic assessment, the company was clearly trying to corner the click-market on financial advice—not free up journalists for other work. And all this from the same outlet that published an (actual, reported) article arguing that large language models wouldn’t replace humans in media. CNET didn’t immediately respond to Gizmodo’s request for comment.
+Usually, when an editor approaches an article (particularly an explainer as basic as “What is Compound Interest”), it’s safe to assume that the writer has done their best to provide accurate information. But with AI, there is no intent, only the product. An editor evaluating an AI-generated text cannot assume anything, and instead has to take an exacting, critical eye to every phrase, world, and punctuation mark. It’s a different type of task from editing a person, and one people might not be well-equipped for, considering the degree of complete, unfailing attention it must take and the high volume CNET seems to be aiming for with its AI-produced stories.
 
-Of course CNET and Red Ventures aren’t solely to blame in the rise of AI-written content on the web. Google has allowed these posts to flourish on its search results pages, providing companies ample financial incentive to continue pursuing artificial intelligence as an avenue of content creation.
-
-Advertisement
-
-“Our ranking team focuses on the usefulness of content, rather than how the content is produced,” Danny Sullivan, Google’s public search liaison, told Futurism. Though “useful” is a misleading term when SEO headlines can mask faulty financial advice. And, if Google continues to take that stance, the trustworthiness of your search results could get even shakier, as spammers and click-farmers aim to take advantage. Gizmodo reached out to Google with questions, but did not immediately receive a response.. After getting caught using an algorithm to write dozens of articles, the tech publication CNET has apologized (sorta) but wants everybody to know that it definitely has no intention of calling it quits on AI journalism.
-
-ChatGPT’s Creator Buddies Up to Congress | Future Tech CC Share Subtitles Off
-
-English view video ChatGPT’s Creator Buddies Up to Congress | Future Tech
-
-R oughly two weeks ago Futurism reported that CNET had been using an in-house artificial intelligence program to pen droves of financial explainers. The articles—some 78 in total—were published over the course of two months under the bylines “CNET Money Staff” or “CNET Money,” and weren’t directly attributed to a non-human writer. Last week, after an online uproar over Futurism’s findings, CNET and its parent company, media firm Red Ventures, announced that it would be temporarily pressing “pause” on the AI editorials.
+It’s easy to understand (though not excusable) that when sifting through piles of AI-generated posts, an editor could miss an error about the nature of interest rates among the authoritative-sounding string of statements. When writing gets outsourced to AI, editors end up bearing the burden, and their failure seems inevitable.
 
 Advertisement
 
-It would appear that this “pause” isn’t going to last long, however. On Wednesday, CNET’s editor and senior vice president, Connie Guglielmo, published a new statement about the scandal, in which she noted that, eventually, the outlet would continue to use what she called its “AI engine” to write (or help write) more articles. In her own words, Guglielmo said that...
+And the failures are almost certainly not just limited to the one article. Nearly all of CNET’s AI-written articles now come with an “Editors’ note” at the top which says, “We are currently reviewing this story for accuracy If we find errors, we will update and issue corrections,” indicating the outlet has realized the inadequacy of its initial editing process.
 
-[Readers should] ...expect CNET to continue exploring and testing how AI can be used to help our teams as they go about their work testing, researching and crafting the unbiased advice and fact-based reporting we’re known for. The process may not always be easy or pretty, but we’re going to continue embracing it – and any new tech that we believe makes life better.
-
-Advertisement
-
-Guglielmo also used Wednesday’s piece as an opportunity to address some of the other criticisms aimed at CNET’s dystopian algo—namely, that it had frequently created content that was both factually inaccurate and potentially plagiaristic. Under a section titled “AI engines, like humans, make mistakes,” Guglielmo copped to the fact that its so-called engine made quite a few mistakes:
-
-After one of the AI-assisted stories was cited, rightly, for factual errors, the CNET Money editorial team did a full audit...We identified additional stories that required correction, with a small number requiring substantial correction and several stories with minor issues such as incomplete company names, transposed numbers or language that our senior editors viewed as vague.
+Gizmodo reached out to CNET for more clarification about what this secondary review process means via email. (Will each story be re-read for accuracy by the same editor? A different editor? An AI fact-checker?) However, CNET didn’t directly respond to my questions. Instead, Ivey Oneal, the outlet’s PR manager, referred Gizmodo to Guglielmo’s earlier statement and wrote, “We are actively reviewing all our AI-assisted pieces to make sure no further inaccuracies made it through the editing process. We will continue to issue any necessary corrections according to CNET’s correction policy.”
 
 Advertisement
 
-The editor also admitted that some of the automated articles may have not passed the sniff test when it comes to original content:
+Given the apparent high likelihood of AI-generated errors, one might ask why CNET is pivoting away from people to robots. Other journalistic outlets, like the Associated Press, also use artificial intelligence—but only in very limited contexts, like filling information into pre-set templates. And in these narrower settings, the use of AI seems intended to free up journalists to do other work, more worthy of their time. But CNET’s application of the technology is clearly different in both scope and intent.
 
-In a handful of stories, our plagiarism checker tool either wasn’t properly used by the editor or it failed to catch sentences or partial sentences that closely resembled the original language. We’re developing additional ways to flag exact or similar matches to other published content identified by the AI tool, including automatic citations and external links for proprietary information such as data points or direct quotes.
+All of the articles published under the “CNET Money” byline are very general explainers with plain language questions as headlines. They are clearly optimized to take advantage of Google’s search algorithms, and to end up at the top of peoples’ results pages—drowning out existing content and capturing clicks. CNET, like Gizmodo and many other digital media sites, earns revenue from ads on its pages. The more clicks, the more money an advertiser pays for their miniature digital billboard(s).
 
 Advertisement
 
-It would be one thing if CNET had very publicly announced that it was engaging in a bold new experiment to automate some of its editorial tasks, thus letting everybody know that it was doing something new and weird. However, CNET did just the opposite of this—quietly rolling out article after article under vague bylines and clearly hoping nobody would notice. Guglielmo now admits that “when you read a story on CNET, you should know how it was created”—which seems like standard journalism ethics 101.. 
+From a financial perspective, you can’t beat AI: there’s no overhead cost and there’s no human limit to how much can be produced in a day. But from a journalistic viewpoint, AI-generation is a looming crisis, wherein accuracy becomes entirely secondary to SEO and volume. Click-based revenue doesn’t incentivize thorough reporting or well-put explanation. And in a world where AI-posts become an accepted norm, the computer will only know how to reward itself.
+
+
+
+Update 1/17/2023, 5:05 p.m. ET: This post has been updated with comment from CNET.

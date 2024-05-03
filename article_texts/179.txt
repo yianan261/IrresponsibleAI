@@ -66,19 +66,7 @@ The Anthropic team also recommends exploring regulation that would change the in
 
 Although some good new norms have been adopted voluntarily within the AI community in recent years — like publishing “model cards,” which document a model’s risks, as OpenAI did for DALL-E 2 — the community hasn’t yet created repeatable standards that make it clear how developers should measure and mitigate those risks.
 
-“This lack of standards makes it both more challenging to deploy systems, as developers may need to determine their own policies for deployment, and it also makes deployments inherently risky, as there’s less shared knowledge about what ‘safe’ deployments look like,” the Anthropic team writes. “We are, in a sense, building the plane as it is taking off.”. To see all available qualifiers, see our documentation .
-
-Saved searches Use saved searches to filter your results more quickly
-
-We read every piece of feedback, and take your input very seriously.
-
-You signed in with another tab or window. Reload to refresh your session.
-
-You signed out in another tab or window. Reload to refresh your session.
-
-You switched accounts on another tab or window. Reload to refresh your session.
-
-Dismiss alert. Researchers experimenting with OpenAI's text-to-image tool, DALL-E 2, noticed that it seems to covertly be adding words such as "black" and "female" to image prompts, seemingly in an effort to diversify its output
+“This lack of standards makes it both more challenging to deploy systems, as developers may need to determine their own policies for deployment, and it also makes deployments inherently risky, as there’s less shared knowledge about what ‘safe’ deployments look like,” the Anthropic team writes. “We are, in a sense, building the plane as it is taking off.”. Researchers experimenting with OpenAI's text-to-image tool, DALL-E 2, noticed that it seems to covertly be adding words such as "black" and "female" to image prompts, seemingly in an effort to diversify its output
 
 DALL-E 2 is a text-to-image generating artificial intelligence STEFANI REYNOLDS/AFP via Getty Images
 

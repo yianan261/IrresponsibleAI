@@ -1,69 +1,26 @@
-The use of robotic systems for some forms of surgery is still a relatively new area, but they have been in use long enough for researchers from MIT, the University of Illinois at Urbana-Champaign, and Rush University Medical Center in Chicago to put together a set of findings on what they describe as "adverse events in robotic surgery."
+Robotic Surgery Linked To 144 Deaths Since 2000
+Surgery involving robots is far from perfect, according to a new study of death rates during medical procedures involving robotic equipment and techniques.
+Robotic surgeons were involved in the deaths of 144 people between 2000 and 2013, according to records kept by the U.S. Food and Drug Administration. And some forms of robotic surgery are much riskier than others: the death rate for head, neck, and cardiothoracic surgery is almost 10 times higher than for other forms of surgery.
+Robotic surgery has increased dramatically in recent years. Between 2007 and 2013, patients underwent more than 1.7 million robotic procedures in the U.S., the vast majority of them performed in gynecology and urology. “Yet no comprehensive study of the safety and reliability of surgical robots has been performed,” say Jai Raman at the Rush University Medical Center in Chicago and a few pals.
 
-As BBC News reports, their key finding is that the machines have been linked to 144 deaths and 1,391 injuries in the United States during the 14-year study period.
+These guys set out to change that by analyzing records kept by the FDA, which has made it mandatory to report any incident in which a robotic procedure has gone wrong. This database is known as the Manufacturer and User Facility Device Experience, or MAUDE, and contains both mandatory reports and voluntary ones submitted between 2000 and 2013.
 
-That translates to 1.4 percent and 13 percent, respectively, of the cases reported and, as the researchers note, is a relatively small number compared with the total number of robotic surgeries performed - between 2007 and 2013 alone, they note, there were some 1.7 million such procedures performed in the United States, over 1.5 million (86 percent) were performed in gynecology and urology, while the number of procedures in other surgical specialties was less than 250,000 (14 percent).
+Raman and co found over 10,000 reports related to robotic procedures of which more than 1,500 described a significant negative impact for the patient. On average, this represents about 550 adverse events per 100,000 procedures.
+The number of robotic procedures dramatically increased during this period. And consequently the number of deaths and injuries has increased 30 times over since 2006. However, the number per procedure has remained more or less constant since 2007.
 
-Still, the researchers say that "a nonnegligible number of technical difficulties and complications are still being experienced during procedures." Those issues, they explain, include things like broken pieces falling into the patient, electrical arcing causing burns, instruments not functioning as intended, and system restarts causing a delay in the surgical procedure.
+Raman and co say the types of adverse event fall into five categories. These include the equipment arcing or sparking during an operation, events that burned 193 patients between 2000 and 2013; in another category of incidents burned or broken pieces fell into the patient’s body, which occurred over 100 times and killed one patient; and another category involves uncontrolled movement of the instruments, which injured 52 patients and killed two of them. System errors such as the loss of video feed contributed to almost 800 other adverse events.
 
-As with any surgery, those risks can't be eliminated completely, but the researchers suggest that changes in the design and operation of robotic surgical systems "may reduce these preventable incidents in the future." Those improvements, they explain, could include things like "uniform standards for surgical team training, advanced human machine interfaces, improved accident investigation and reporting mechanisms, and safety-based design techniques."
+Curiously, although the database contains reports of 144 deaths during robotic surgery, the circumstances involved were recorded in detail in only a tiny fraction of cases. However, over 60 percent of these incidents were caused by device malfunctions while the rest were caused by factors such as operator error and the inherent risks of the surgery.
 
-Robotic surgery can reduce the risk of infections and help patients heal more quickly, proponents say. Surgical specialties for which robots are extensively used, such as gynecology and urology, had lower number of injuries, deaths, and conversions per procedure than more complex surgeries, such as cardiothoracic and head and neck (106.3 vs. 232.9) procedures, they note.
+The fact that some forms of surgery are more risky than others is cause for concern. “The higher number of injury, death, and conversion per adverse event, in cardiothoracic and head and neck surgeries, could be indirectly explained by the higher complexity of the procedures, less frequent use of robotic devices, and less robotic expertise in these fields,” say Raman and co.
 
-ⓒ 2024 TECHTIMES.com All rights reserved. Do not reproduce without permission.. Robotic surgery is on the rise as doctors look to make procedures less invasive, but according to a new study, the strategy comes with risks.
+That may not reassure potential patients. Neither will the fact that the way the FDA collects this data means that these numbers almost certainly underestimate of the true death and injury levels.
 
-Looking at more than 10,000 incident reports from the FDA spanning from 2000 to 2013, researchers found that robots were involved in 144 patient deaths and 1,391 patient injuries.
+That’s an interesting study that provides pause for thought for anyone about to undergo robotic surgery. The vast majority of these procedures take place without any adverse incidents. But Raman and co show that a significant proportion do suffer some kind of problem, even if it doesn’t lead to injury or death. “Device and instrument malfunctions have affected thousands of patients and surgical teams by causing complications and prolonged procedure times,” they conclude.
 
-For most of the reports involving death, very little information was shared on why the patient died -- meaning it's difficult to say whether it was human error, a problem with the robot, or the risks inherent in surgery.
+What Raman and co don’t discuss, however, is how these injury and death rates compare to procedures that take place without robotic techniques. Without that info, it’s hard to decide whether robots are making things better or worse.
 
-Still, the study's authors -- from MIT, Rush University Medical Center, and the University of Illinois at Urbana-Champaign -- found cause for alarm.
+Nevertheless, there is room for improvement. “Improved accident investigation and reporting mechanisms, and safety-based design techniques should be developed to reduce incident rates in the future,” say Ramon and co.
 
-"Despite widespread adoption of robotic systems for minimally invasive surgery, a non-negligible number of technical difficulties and complications are still being experienced during procedures," the study said.
-
-Some of the errors included burnt or broken pieces of tools falling into the patient (14.7 percent), electrical sparking (10.5 percent) and robots making unintended movements (8.6 percent) -- the last of which resulted in 52 injuries and two deaths.
-
-And while robots did well during gynecology and urology procedures, there were more errors reported in complicated cardiothoracic and head and neck surgeries.
-
-Overall, the study found 550 error reports per 100,000 surgical procedures involving robots, most of them not resulting in death or injury.. Robotic surgeries: Really safe?
-
-A series of reports submitted to the U.S. Food and Drug Administration since 2000 were analyzed and it was found that robotic surgeries are not safe after all.
-
-In recent years, the use of surgical robots in the medical community has increased, and surgeons have employed the assistance of machines during critical surgical procedures.
-
-A report from MIT Technology Review found that patients had gone through over 1.7 million procedures in the U.S. that involved robots from 2007 to 2013.
-
-Now, a study from researchers at Massachusetts Institute of Technology (MIT), the University of Illinois at Urbana-Champaign, and Rush University Medical Center in Chicago found that these procedures are risky.
-
-In a nutshell, the incident report stated that there were 144 deaths, 1,391 injuries, and 8,061 cases of device malfunctions that occurred during those aforementioned years.
-
-Some of the reported cases sound so concerning. For instance, it was reported that there were instances when equipment sparked while doctors were performing a procedure. Such situations resulted in a total of 193 burned patients between 2000 and 2013.
-
-Another incident report stated that broken pieces of the machine fell onto the bodies of the patients being operated. There were 100 cases of this kind, with one instance of death, as reported in Gizmodo.
-
-Researchers said that death and injury cases for each procedure remained constant since 2007, according to a BBC report. But since the use of robotics in surgery is increasing, it would only mean that the number of events is also increasing each year.
-
-Robot-assisted surgeries are usually costly, but they can offer several benefits. For instance, surgeons can use smaller tools that allow them to make more precise cuts.
-
-This will mean that patients will heal faster, the risk of infection will be reduced, and fewer scars will be formed.
-
-Furthermore, robots in surgery will also mean that not a lot of doctors should be present inside the operating room. This will make more of them available to tend to other cases.
-
-Since there are risks associated with the machines, the study authors suggest that members of the surgical team should receive troubleshoot training so they will learn how to resume operation after an interruption.
-
-The study has not compared rates of events to that of operations that did not employ robots. According to BBC, the study has not undergone peer review just yet.. All surgery carries risk, and that’s also true when it involves robots. A new study of U.S. Food and Drug Administration data reveals that a variety of malfunctions have been linked to 144 deaths during robotic surgery in the last 14 years.
-
-In the study, researchers from University of Illinois at Urbana-Champaign, MIT and Rush University Medical Center dive into record kept by the FDA. The Manufacturer and User Facility Device Experience database—known as MAUDE—contains mandatory and voluntary reports about incidents that have occurred. The researchers note that that, to date, “no comprehensive study of the safety and reliability of surgical robots has been performed.”
-
-Advertisement
-
-Some of the reported incidents sound a little... worrying. There’s descriptions of equipment arcing or sparking during procedures, which burned 193 patients in total between 2000 and 2013. Elsewhere, broken pieces fell into the bodies of patients in 100 cases, once killing the victim. And “uncontrolled movement” apparently injured 52 and killed 2 patients. The reports, however, don’t typically go into this level of detail—though over 60 percent were related to “malfunction.”
-
-
-
-It’s worth noting that the number of deaths is small compared to the total number of procedures. The analysis shows that robotic surgery was related to 144 deaths between 2000 and 2013, but between 2007 and 2013 over 1.7 million robotic procedures were carried out. One thing the result does show, though, is that over the same period the number of deaths per procedure has remained relatively constant—suggesting that problems aren’t necessarily being ironed out.
-
-Advertisement
-
-Sadly, the study doesn’t compare the results to surgeries carried out without robots, which makes it hard to draw any real conclusions about the risks involved with robotic surgery. Still, the presence of the report, published on the arXiv servers, highlights the need for better reporting and analysis of robotic procedures. The authors agree: “Improved accident investigation and reporting mechanisms, and safety-based design techniques should be developed to reduce incident rates in the future,” they write.
-
-[arXiv via Technology Review]
+Ref: arxiv.org/abs/1507.03518: Adverse Events in Robotic Surgery: A Retrospective Study of 14 Years of FDA Data
+MIT Technology Review: According to a recent study, most of the robotic surgical procedures performed over the past 14 years have gone smoothly. However, a significant number have suffered some sort of adverse event, even if it did not result in the injury or death of the patient. Jai Raman at the Rush University Medical Center in Chicago and his colleagues analyzed data on robotic procedures recorded in the Manufacturer and User Facility Device Experience, or MAUDE, database kept by the US Food and Drug Administration. They found that of the more than 1 million robotic procedures carried out in the US between 2000 and 2013, 144 people died. However, procedure complications and prolonged operating times were caused by device malfunctions, which included equipment sparking and burning patients, pieces breaking off and falling into the patient’s body, equipment moving uncontrollably, and video feed being lost. Although no comparison was made with procedures that don’t use robotic techniques, the researchers say there is room for improvement in robotic equipment design and in the way accidents are reported and investigated.

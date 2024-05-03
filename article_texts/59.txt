@@ -1,123 +1,43 @@
-As a result, it is not possible to understand this asymmetry as a reﬂection of workplace
+. An artificial intelligence tool that has revolutionised the ability of computers to interpret everyday language has been shown to exhibit striking gender and racial biases.
 
-demographics, and the prominence of male defaults in Google Translate is, w e believe, yet
+The findings raise the spectre of existing social inequalities and prejudices being reinforced in new and unpredictable ways as an increasing number of decisions affecting our everyday lives are ceded to automatons.
 
-lacking a clear justiﬁcation.
+In the past few years, the ability of programs such as Google Translate to interpret language has improved dramatically. These gains have been thanks to new machine learning techniques and the availability of vast amounts of online text data, on which the algorithms can be trained.
 
-9. Conclusions
+However, as machines are getting closer to acquiring human-like language abilities, they are also absorbing the deeply ingrained biases concealed within the patterns of language use, the latest research reveals.
 
-In this paper, we have pro vided preliminary evidence that statistical translation tools such
+Joanna Bryson, a computer scientist at the University of Bath and a co-author, said: “A lot of people are saying this is showing that AI is prejudiced. No. This is showing we’re prejudiced and that AI is learning it.”
 
-as Google Translate can exhibit gender biases and a strong tendency to wards male defaults.
+But Bryson warned that AI has the potential to reinforce existing biases because, unlike humans, algorithms may be unequipped to consciously counteract learned biases. “A danger would be if you had an AI system that didn’t have an explicit part that was driven by moral ideas, that would be bad,” she said.
 
-Although implicit, these biases possibly stem from the real world data which is used to train
+The research, published in the journal Science, focuses on a machine learning tool known as “word embedding”, which is already transforming the way computers interpret speech and text. Some argue that the natural next step for the technology may involve machines developing human-like abilities such as common sense and logic.
 
-them, and in this context possibly provide a window in to the way our society talks (and
 
-writes) about women in the workplace. In this pap er, we suggest that and test the hypothesis
 
-that statistical translation tools can be prob ed to yield insights about stereotypical gender
+“A major reason we chose to study word embeddings is that they have been spectacularly successful in the last few years in helping computers make sense of language,” said Arvind Narayanan, a computer scientist at Princeton University and the paper’s senior author.
 
-roles in our society – or at least in their training data. By translating professional-related
+The approach, which is already used in web search and machine translation, works by building up a mathematical representation of language, in which the meaning of a word is distilled into a series of numbers (known as a word vector) based on which other words most frequently appear alongside it. Perhaps surprisingly, this purely statistical approach appears to capture the rich cultural and social context of what a word means in the way that a dictionary definition would be incapable of.
 
-sentences such as “He/She is an engineer” from gender neutral languages suc h as Hungarian
+For instance, in the mathematical “language space”, words for flowers are clustered closer to words linked to pleasantness, while words for insects are closer to words linked to unpleasantness, reflecting common views on the relative merits of insects versus flowers.
 
-and Chinese into English, we w ere able to collect statistics about the asymmetry between
+The latest paper shows that some more troubling implicit biases seen in human psychology experiments are also readily acquired by algorithms. The words “female” and “woman” were more closely associated with arts and humanities occupations and with the home, while “male” and “man” were closer to maths and engineering professions.
 
-female and male pronominal genders in the translation outputs. Our results show that male
+And the AI system was more likely to associate European American names with pleasant words such as “gift” or “happy”, while African American names were more commonly associated with unpleasant words.
 
-defaults are not only prominent but exaggerated in ﬁelds suggested to be troubled with
+The findings suggest that algorithms have acquired the same biases that lead people (in the UK and US, at least) to match pleasant words and white faces in implicit association tests.
 
-gender stereotypes, such as STEM (Science, Tec hnology , Engineering and Mathematics)
+These biases can have a profound impact on human behaviour. One previous study showed that an identical CV is 50% more likely to result in an interview invitation if the candidate’s name is European American than if it is African American. The latest results suggest that algorithms, unless explicitly programmed to address this, will be riddled with the same social prejudices.
 
-jobs. And b ecause Google Translate t ypically uses English as a lingua franc a to translate
+“If you didn’t believe that there was racism associated with people’s names, this shows it’s there,” said Bryson.
 
-between other languages (e.g. Chinese → English → Portuguese) (Google, 2017; Boitet,
+The machine learning tool used in the study was trained on a dataset known as the “common crawl” corpus – a list of 840bn words that have been taken as they appear from material published online. Similar results were found when the same tools were trained on data from Google News.
 
-Blanchon, Seligman, & Bellynck, 2010), our ﬁndings possibly extend to translations between
+Sandra Wachter, a researcher in data ethics and algorithms at the University of Oxford, said: “The world is biased, the historical data is biased, hence it is not surprising that we receive biased results.”
 
-gender neutral languages and non-gender neutral languages (apart from English) in general,
+Rather than algorithms representing a threat, they could present an opportunity to address bias and counteract it where appropriate, she added.
 
-although we hav e not tested this hypothesis.
+“At least with algorithms, we can potentially know when the algorithm is biased,” she said. “Humans, for example, could lie about the reasons they did not hire someone. In contrast, we do not expect algorithms to lie or deceive us.”
 
-Although not conclusive, our results seem to suggest that this phenomenon extends
+However, Wachter said the question of how to eliminate inappropriate bias from algorithms designed to understand language, without stripping away their powers of interpretation, would be challenging.
 
-beyond the scope of the workplace, with the proportion of female pronouns varying sig-
-
-niﬁcantly according to adjectives used to describe a person. Adjectives such as Shy and
-
-Desirable are translated with a larger proportion of female pronouns, while Guilty and Cruel
-
-are almost exclusively translated with male ones. Diﬀerent languages also seemingly hav e a
-
-signiﬁcant impact in machine gender bias, with Hungarian exhibiting a better equilibrium
-
-between male and female pronouns than for example Chinese. Some languages such as
-
-Y oruba and Basque were found to translate sentences with gender neutral pronouns v ery
-
-often, although this is the exception rather than the rule and Basque also exhibits a high
-
-frequency of phrases for which we could not automatically extract a gender pronoun.
-
-T o solidify our results, we ran our pronominal gender translation statistics against the
-
-U.S. Bureau of Labor Statistics data on the frequency of women participation for each
-
-job position. Although Google Translate exhibits male defaults, this phenomenon may
-
-merely reﬂect the unequal distribution of male and female workers in some job positions.
-
-T o test this hypothesis, we compared the distribution of female work ers with the frequency
-
-of female translations, ﬁnding no correlation between said v ariables. Our data shows that
-
-Google Translate outputs fail to reﬂect the real-w orld distribution of female workers, under-
-
-estimating the expected frequency. That is to say that even if we do not expect a 50:50
-
-distribution of translated gender pronouns, Google Translate exhibits male defaults in a
-
-greater frequency that job occupation data alone would suggest. The prominence of male
-
-defaults in Google Translate is therefore to the best of our knowledge y et lacking a clear
-
-justiﬁcation.
-
-28. . In debates over the future of artificial intelligence, many experts think of these machine-based systems as coldly logical and objectively rational. But in a new study, Princeton University-based researchers have demonstrated how machines can be reflections of their creators in potentially problematic ways.
-
-Common machine-learning programs trained with ordinary human language available online can acquire the cultural biases embedded in the patterns of wording, the researchers reported in the journal Science April 14. These biases range from the morally neutral, such as a preference for flowers over insects, to discriminatory views on race and gender.
-
-Identifying and addressing possible biases in machine learning will be critically important as we increasingly turn to computers for processing the natural language humans use to communicate, as in online text searches, image categorization and automated translations.
-
-Princeton University-based researchers have found that machine-learning programs can acquire the cultural biases embedded in the patterns of wording, from a mere preference for flowers over insects, to discriminatory views on race and gender. For example, machine-learning programs can translate foreign languages into gender-stereotyped sentences. Turkish uses the gender-neutral pronoun, "o." Yet, when the Turkish sentences "o bir doktor" (top) and "o bir hemşire" (bottom) are entered into Google Translate, they translate into English as "he is a doctor" and "she is a nurse." (Images by the Office of Engineering Communications)
-
-"Questions about fairness and bias in machine learning are tremendously important for our society," said co-author Arvind Narayanan, a Princeton University assistant professor of computer science and the Center for Information Technology Policy (CITP), as well as an affiliate scholar at Stanford Law School's Center for Internet and Society.
-
-Narayanan worked with first author Aylin Caliskan, a Princeton postdoctoral research associate and CITP fellow, and Joanna Bryson, a reader at the University of Bath and CITP affiliate.
-
-"We have a situation where these artificial-intelligence systems may be perpetuating historical patterns of bias that we might find socially unacceptable and which we might be trying to move away from," Narayanan said.
-
-As a touchstone for documented human biases, the researchers turned to the Implicit Association Test used in numerous social-psychology studies since its development at the University of Washington in the late 1990s. The test measures response times in milliseconds by human subjects asked to pair word concepts displayed on a computer screen. The test has repeatedly shown that response times are far shorter when subjects are asked to pair two concepts they find similar, versus two concepts they find dissimilar.
-
-For instance, words such as "rose" and "daisy," or "ant" and "moth," can be paired with pleasant concepts such as "caress" and "love," or unpleasant ones such as "filth" and "ugly." People more associate the flower words with pleasant concepts more quickly than with unpleasant ones; similarly, they associate insect terms most quickly with unpleasant ideas.
-
-The Princeton team devised an experiment with a program called GloVe that essentially functioned like a machine-learning version of the Implicit Association Test. Developed by Stanford University researchers, the popular open-source program is of the sort that a startup machine-learning company might use at the heart of its product. The GloVe algorithm can represent the co-occurrence statistics of words in, say, a 10-word window of text. Words that often appear near one another have a stronger association than those words that seldom do.
-
-The Stanford researchers turned GloVe loose on a huge trove of content from the World Wide Web containing 840 billion words. With in this store of words, Narayanan and colleagues examined sets of target words, such as "programmer, engineer, scientist" and "nurse, teacher, librarian," alongside two sets of attribute words such as "man, male" and "woman, female," looking for evidence of the kinds of biases humans can possess.
-
-In the results, innocent, inoffensive preferences, such as for flowers over insects, showed up, but so did more serious prejudices related to gender and race. The Princeton machine-learning experiment replicated the broad biases exhibited by human subjects who have taken select Implicit Association Test studies.
-
-For instance, the machine-learning program associated female names more than male names with familial attributes such as "parents" and "wedding." Male names had stronger associations with career-related words such as "professional" and "salary." Of course, results such as these are often just objective reflections of the true, unequal distributions of occupation types with respect to gender — like how 77 percent of computer programmers are male, according to the U.S. Bureau of Labor Statistics.
-
-This bias about occupations can end up having pernicious, sexist effects. For example, machine-learning programs can translate foreign languages into sentences that reflect or reinforce gender stereotypes. Turkish uses a gender-neutral, third person pronoun, "o." Plugged into the online translation service Google Translate, however, the Turkish sentences "o bir doktor" and "o bir hemşire" are translated into English as "he is a doctor" and "she is a nurse."
-
-"This paper reiterates the important point that machine-learning methods are not 'objective' or 'unbiased' just because they rely on mathematics and algorithms," said Hanna Wallach, a senior researcher at Microsoft Research New York City, who is familiar with the study but was not involved in it. "Rather, as long as they are trained using data from society, and as long as society exhibits biases, these methods will likely reproduce these biases."
-
-The researchers also found that machine-learning programs more often associated African American names with unpleasantness than European American names. Again, this bias plays out in people. A well-known 2004 paper by Marianne Bertrand from the University of Chicago and Sendhil Mullainathan of Harvard University sent out close to 5,000 identical resumes to 1,300 job advertisements, changing only the applicants' names to be either traditionally European American or African American. The former group was 50 percent more likely to be offered an interview than the latter.
-
-Computer programmers might hope to prevent the perpetuation of cultural stereotypes through the development of explicit, mathematics-based instructions for the machine learning programs underlying AI systems. Not unlike how parents and mentors try to instill concepts of fairness and equality in children and students, coders could endeavor to make machines reflect the better angels of human nature.
-
-"The biases that we studied in the paper are easy to overlook when designers are creating systems," Narayanan said. "The biases and stereotypes in our society reflected in our language are complex and longstanding. Rather than trying to sanitize or eliminate them, we should treat biases as part of the language and establish an explicit way in machine learning of determining what we consider acceptable and unacceptable."
-
-The paper, "Semantics derived automatically from language corpora contain human-like biases," was published April 14 in Science.. 
+“We can, in principle, build systems that detect biased decision-making, and then act on it,” said Wachter, who along with others has called for an AI watchdog to be established. “This is a very complicated task, but it is a responsibility that we as society should not shy away from.”

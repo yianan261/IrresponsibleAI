@@ -1,115 +1,21 @@
-A real AI could have saved this man from being fired by a computer
+Ibrahim Diallo was eight months into a three year contract with a big company when its systems abruptly decided that he was fired: first it told his recruiter that he'd been let go, then it stopped accepting his pass for the parking and the turnstyles, then his logins stopped working, and at each turn, his supervisor, and that person's boss, and the HR people, were at a loss to explain or reverse the steady, automated disappearance of Ibrahim from the company.
 
-Artificial Intelligence (AI) are becoming more common in industries such as banks, insurance companies, wealth management firms, factories, ecommerce, retail firms, train stations, hotels and other service industries. While there is a constant fear of AI taking over human jobs in the future, in this particular case, an error made by a human cost an employee his job.
 
-Ibrahim Diallo, a Californian software developer, was fired from his job by a machine, because his previous manager hadn’t renewed his contract on the new computer system that lead to various automated systems get into action and in the end, him being escorted from the office building by two security guards. What’s more ironic, that even his managers were powerless to stop it.
 
-“I was fired,” Diallo who shared his story in a detailed blog post said. “There was nothing my manager could do about it. There was nothing the director could do about it. They stood powerless as I packed my stuff and left the building.”
+Eventually, they had to send him home for three weeks while the top bosses exchanged volley after volley of email with the mystified IT staff until they got to the bottom of things: Ibrahim's direct manager had been laid off and sent to work from home during a transitional period. His ex-boss basically stopped doing anything, including ticking the box that said that Ibrahim's contract was still in force, and this missed step triggered the automated, irreversible, algorithmic termination process, which relentlessly discontinued all of Ibrahim's company access — a fully automated process that ensured that ex-employees weren't accidentally left with ongoing access to sensitive systems and data.
 
-As an advisory tale about the dangers of automation, Diallo hopes that companies take it as a lesson to not be over-dependent on automation.
 
-Look like i made hacknews top #1 today!!! Thoroughly enjoyed the comments The machine Fired me#TheMachineFiredMe Artcle: https://t.co/D89JrwjmMF Comments: https://t.co/5yYHvAuCuE pic.twitter.com/peOMk0RO8t — Ibrahim Diallo (@dialloibu) June 20, 2018
 
-Diallo had been working for just eight months of his three-year-long contract with the company in Los Angeles when one day his keycard, which granted him entry to work, stopped working.
 
-“It wasn’t the first time my key card failed, I assumed it was time to replace it,” Diallo wrote in his blog post. “As soon as I got to my floor, I went to see my manager to let her know. She promised to order me a new one right away.”
 
-This was just the start of bizarre events that took place over a few subsequent days, with things like his entry card into office not working, systems not allowing him to log in, notifications like ‘access barred’ etc. In fact, even the word ‘inactive’ was mentioned alongside his name. Diallo had to be sent home for three weeks when it all came to a head when a security guard came to escort him out of the building. He had been fired: a series of automated emails notifying it, had gone out to multiple people, and managers could do nothing.
+The explanation is anodyne, but the process was absolutely chilling, something like "Remember Me", the Star Trek:TNG episode where the whole world disappears one drib at a time, leaving Dr Crusher in a kind of astro-Satrean wasteland (it's also got more than a passing similarity to Harlan Ellison's story Shatterday).
 
-After many weeks it was figured out Diallo had joined at a time when his company had been bought over by another. His direct manager who was part of the previous organization had been laid off and was sent to work from home during a transitional period. His ex-boss basically stopped doing anything, which also included non-renewal of Diallo’s contract in the new system. Once the machines took over, it triggered the automated, irreversible, algorithmic termination process, which persistently discontinued all of Diallo’s company access. As a result, human intervention became fruitless, which finally resulted in Diallo’s termination. Although, Diallo was reinstated later, he chose to move on to another job.
+The next day, I had been locked out off every single system except my Linux machine. Even the service we used to log our hours to get paid had been deactivated. I spent the first half of the day documenting my work. After lunch, two people appeared at my desk. One was a familiar long face that seemed to avoid making direct eye contact. It was Jose and his fellow security guard. He cordially informed me that he was to escort me out of the building. The director was furious. They had received a very threatening email to escort me out of the building and were just doing their job. "Who the hell is sending those emails!?" I was fired. There was nothing my manager could do about it. There was nothing the director could do about it. They stood powerless as I packed my stuff and left the building.
 
-The entire incident brought to light that the AI systems had no knowledge-based intelligence (such as human resources expertise in the form of rules, text and logical link) nor did it have computational intelligence (the ability to learn from datasets – such as identifying the factors that might lead to dismissal). At the end of it, it was an old-fashioned and poorly designed system that saw Diallo get fired due to human error, which was neither communicated nor explained. What also came to light was the lack of humanity shown and also the inflexibility and ineffectiveness of the AI.
+The Machine Fired Me [Ibrahim Diallo/Idiallo]
 
-In scenarios, where one has lost his or her job and livelihood, it requires sensitivity and understanding to handle the situation, which is only possible through human contact and not through an AI chatbot. In other words, any job that involves managing people, applying expertise and social interaction, human involvement in such areas will still be necessary, which can’t be matched by a machine.
 
-Source: The Conversation. Automation can be a boon for a company, but it can also be a serious liability, as one Ibrahim Diallo could easily tell you after his ordeal of being unceremoniously and unstoppably canned by the system while managers and even the company director stood powerless. Diallo’s story started off looking like something had merely malfunctioned, but by the end of it, his file had to be thrown out entirely and he had to be brought in as a new employee, despite only being 8 months into a 3 year contract. While Diallo was eventually restored to his rightful status and continued working, the incident made him miss three weeks of work, a dangerous proposition in today’s economy.
 
-Ibrahim Diallo was a contractor who joined up with a new contract for a company at just the wrong time. The company had been sold, and a hiring manager who was a full-time employee had been knocked down to contractor status and sent to work from home as a budget measure. As such, when it came time to confirm and renew the contract that Diallo happened to be on, the manager didn’t get around to it. The termination process for contractors in the company was automated, so the days-long, snowballing process began. First, Diallo’s card key was deactivated, then he could no longer park. At one point, he had to use his personal Linux setup to “hack” into the system and fix some critical errors, which of course sprung mostly from issues concerning the system deactivating his profile little by little. Eventually, the system sent an angry-sounding and official-looking email that put the director who praised Diallo’s shining work and the security guard he was good friends with in the awkward position of escorting him off the premises. It took him three weeks of touching base with his recruiter and watching his personal support ticket go up the ladder before he was able to return to work.
 
-Advertisement
 
-Advertisement
-
-The moral of the story here is a common trope in the world of AI, from simple automated programs like this one all the way up to complex, humanlike AI and self-driving cars; there has to be some way for humans to intervene. In this case, the organization had to go three weeks with others picking up the slack, and Diallo had to go three weeks without a paycheck. Compared to the potential consequences of unsafe and unreliable AI, however, this could be considered light.. . 'The Machine Fired Me' -- a blog post by Ibrahim Diallo speaks of exactly what it is titled. Diallo was literally fired by a machine one fine day. He realised it after his security pass stopped working, his computer system login was disabled, and finally he was hustled from the building by security personnel. He hopes that his detailed story in his blog will serve as a warning to firms about relying too much on automation.
-
-Diallo's firing
-
-advertisement
-
-After having to enter his office with the help of his security guard, failing to log in to his computer, and a long wait, he was told by his recruiter that she had received an email saying his contract was terminated.
-
-She promised to sort out the problem.
-
-As Diallo entered his Los Angeles office the next day, he'd been locked out of every single system "except my Linux machine" and then, after lunch, two people appeared at his desk to inform him that an email had been received telling them to escort him from the building.
-
-Diallo's manager couldn't do anything about it
-
-Ibrahim's boss was confused but helpless.
-
-I was fired. There was nothing my manager could do about it. There was nothing the director could do about it.
-
-Adding to the uncontrollable situation, Diallo writes: "They stood powerless as I packed my stuff and left the building".
-
-"I watched it be escalated to bigger and more powerful titles over and over, yet no-one could do anything about it."
-
-"From time-to-time, they would attach a system email," he laments.
-
-System-generated e-mail sent to Ibrahim instructing his termination. (Courtesy: Ibrahim Diallo's blog)
-
-At the time that he was fired, he was eight months into a three-year contract and over the next three weeks he was copied into emails about his case.
-
-"It was soulless and written in red as it gave orders that dictated my fate. Disable this, disable that, revoke access here, revoke access there, escort out of premises, etc," writes Ibrahim on the ruthlessness of the system.
-
-The system was out for blood and I was its very first victim
-
-Why did the machine fire him after all?
-
-A three weeks' time is what it took Ibrahim's bosses to really figure why he had been fired.
-
-His firm was going through changes, both in terms of the systems it used and the people it employed.
-
-His original manager had been recently laid off and sent to work from home for the rest of his time at the firm and in that period he had not renewed Diallo's contract in the new system.
-
-advertisement
-
-This is the point when the machines took over -- dismissing him as an ex-employee.
-
-"All the necessary orders are sent automatically and each order completion triggers another order. For example, when the order for disabling my key card is sent, there is no way of it to be re-enabled."
-
-Further explaining the nature of the structure, he adds that "once it is disabled, an email is sent to security about recently dismissed employees. Scanning the key card is a red flag. The order to disable my Windows account is also sent. There is also one for my Jira account. And on and on".
-
-"It was soulless and written in red as it gave orders that dictated my fate," lamented Diallo about the machine's ruthlessness.
-
-Diallo's final goodbye
-
-Even though Diallo was allowed to get back to work, he had missed out on three weeks' worth of pay and been escorted from the building "like a thief".
-
-He also had to explain his disappearance to others and found that his co-workers had become distant, so he decided to move to another job.
-
-It's another example of a failure of human thinking where they allow it to be humans versus machines rather than humans plus machines - says Dallio
-
-advertisement
-
-Here's where he starts speaking about the role of Artificial Intelligence in mitigating the situation.
-
-Here is how AI could have saved him
-
-"One of the fundamental skills for all humans in an AI world is accountability -- just because the algorithm says it's the answer, it doesn't mean it actually is," explain Ibrahim.
-
-The systems displayed no knowledge-based intelligence, meaning they didn't have a model designed to encapsulate knowledge (such as human resources expertise) in the form of rules, text and logical links.
-
-At the same time, the systems showed no intelligence like the ability to learn from datasets such as recognising the factors that might lead to someone being fired.
-
-As phys.org puts it, Ibrahim was fired as a result of an old-fashioned and poorly designed system triggered by a human error.
-
-A more practical AI system could use a mix of techniques to make it smarter.
-
-For instance, an AI system could've learned the rules to be applied to the nuances of real situations from the company's HR records.
-
-To be more specific, an AI concept called "fuzzy logic" can interpret situations that aren't only black and white, applying evidence and conclusions in varying degrees to avoid the kind of stark decision-making that led to Diallo's dismissal.
-
-What about you? Would you still prefer a human manager, as you find human contact essential, no matter how convincing the AI chatbot might be? Tell us in the comments section below.
-
-advertisement
-
-Read: India's Artificial Intelligence scene is set to explode, thanks to this Google-Niti Aayog tie-up
+(via Four Short Links). "It wasn't the first time my key card failed, I assumed it was time to replace it." So began a sequence of events that saw Ibrahim Diallo fired from his job , not by his manager but by a machine. From a report:And that was just the beginning. Mr Diallo soon realized that he was logged out of his work system and "inactive" status was appearing next to his name, his colleagues told him. He was then informed by his recruiter, who was just as puzzled, that his contract has been terminated. Next day, says Mr Diallo, he was locked out of every system, except his Linux machine. Things continued to go south, as two people approached Mr Diallo to escort him out of the building. The story continues:

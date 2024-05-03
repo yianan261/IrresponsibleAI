@@ -1,0 +1,39 @@
+Facebook AI moderator confused videos of mass shootings and car washes
+Facebook CEO Mark Zuckerberg sounded an optimistic note three years ago when he wrote about the progress his company was making in automated moderation tools powered by artificial intelligence. “Through the end of 2019, we expect to have trained our systems to proactively detect the vast majority of problematic content,” he wrote in November 2018.
+
+But as recently as March, internal Facebook documents reveal the company found its automated moderation tools were falling far short, removing posts that were responsible for only a small fraction of views of hate speech and violence and incitement on the platform. The posts removed by AI tools only accounted for 3–5 percent of views of hate speech and 0.6 percent of views of violence and incitement.
+While that’s up from 2 percent of hate speech views two years ago, according to documents turned over to The Wall Street Journal by whistleblower Frances Haugen, it's far from a vast majority. One of the company’s senior engineers wrote in 2019 that he felt the company could improve by an order of magnitude but that they might then hit a ceiling beyond which further advances would be difficult.
+“The problem is that we do not and possibly never will have a model that captures even a majority of integrity harms, particularly in sensitive areas,” he wrote. “Recent estimates suggest that unless there is a major change in strategy, it will be very difficult to improve this beyond 10-20% in the short-medium term.”
+
+To arrive at these estimates, Facebook takes a sample of posts, applies its AI moderation tools to them, and then asks human moderators to assess the AI’s accuracy. It then uses that fraction to estimate how much hate speech or violence and incitement is missed platform-wide.
+
+Advertisement
+“When you consider that we miss 95 percent of violating hate speech, you realize that it might actually take 100 violations for that group to accrue its five strikes,” one data scientist said in a 2020 note that was reported by BuzzFeed and WSJ.
+
+Differing statistics
+Facebook’s internal view of its AI moderation tools appears far more pessimistic than what it reports to the public. Part of that is because what it reports internally and what it’s telling the public are subtly, though entirely, different. In public statements, Facebook has disclosed the percent of hate speech discovered by AI before users report it, which is a very high number, 98 percent. The problem is, there are many cases where hate speech goes unreported. 
+
+Company spokesperson Andy Stone told WSJ that figures about posts removed do not include other actions the platform takes, such as decreasing the reach of suspect content. In that context, he said, policy violating content is decreasing in prevalence and is what the company judges itself by.
+
+Facebook has said it’s gotten better about finding hate speech on its platform, claiming that it proactively removed 15 times more in 2020 than in 2017. That figure obscures some key details, though. “We ask, what’s the numerator? What’s the denominator? How did you get that number? And then it’s like crickets,” Rashad Robinson, president of the civil rights group Color of Change, told WSJ. “They won’t ever show their work.”
+
+Harder to report
+Today, Facebook’s AI tools may be catching more content before users report it, because two years ago, Facebook intentionally made it harder for users to file reports. A side effect of that was that the AI tools were now able to catch more posts before they were finally reported by users.
+
+FURTHER READING
+Facebook’s latest “apology” reveals security and safety disarray
+“We may have moved the needle too far,” one of the report's authors said of the extra hurdles users must go through to report posts that may violate the site’s policies. Stone, the Facebook spokesperson, told the WSJ that the company had removed some though not all of the barriers.
+Facebook has a strong profit motive to automate more of its moderation. Human moderators cost the company $104 million in 2019, according to WSJ, and three-quarters of that was paying people to respond to user reports. That year, Facebook made it a goal to “reduce $ cost of total hate review capacity by 15%,” one document says.
+
+Advertisement
+What’s more, WSJ reports that Facebook at the time also tweaked its algorithm in a way that led it to ignore more user reports.
+
+AI confusion
+Facebook’s internal documents reveal just how far its AI moderation tools are from identifying what human moderators were easily catching. Cockfights, for example, were mistakenly flagged by the AI as a car crash. “These are clearly cockfighting videos,” the report said. In another instance, videos livestreamed by perpetrators of mass shootings were labeled by AI tools as paintball games or a trip through a carwash.
+
+If the situation sounds grim in the US or among English-speaking countries, it appears far worse elsewhere. In Afghanistan, for example, the company said in reports that it lacks a dictionary of slurs in the country’s various languages. As a result, Facebook estimates that it identified just 0.23 percent of hate speech posted on the platform in Afghanistan.
+
+FURTHER READING
+Algorithms shouldn’t be protected by Section 230, Facebook whistleblower tells Senate
+Internal reports show that Facebook’s users would rather the company take a more aggressive approach to enforcing policy violations for hate speech and violence and incitement, even if it means removing a higher number of innocent posts. In a survey, users from around the world said inaccurate content removals were the least of their concerns and told Facebook that hate speech and violence should be its highest priority. In the US, more users felt inaccurate removals were an issue but that hate speech and violence were still voted the top problem.
+Still, Facebook’s leadership has been more concerned with taking down too many posts, company insiders told WSJ. As a result, they said, engineers are now more likely to train models that avoid false positives, letting more hate speech slip through undetected.

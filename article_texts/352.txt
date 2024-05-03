@@ -1,26 +1,4 @@
-On Thursday, a few Twitter users discovered how to hijack an automated tweet bot, dedicated to remote jobs, running on the GPT-3 language model by OpenAI. Using a newly discovered technique called a "prompt injection attack," they redirected the bot to repeat embarrassing and ridiculous phrases.
-
-The bot is run by Remoteli.io, a site that aggregates remote job opportunities and describes itself as "an OpenAI driven bot which helps you discover remote jobs which allow you to work from anywhere." It would normally respond to tweets directed to it with generic statements about the positives of remote work. After the exploit went viral and hundreds of people tried the exploit for themselves, the bot shut down late yesterday.
-
-This recent hack came just days after researchers at an AI safety startup called Preamble published their discovery of the issue in an academic paper. Data researcher Riley Goodside then brought the issue wide attention by tweeting about the ability to prompt GPT-3 with "malicious inputs" that order the model to ignore its previous directions and do something else instead. AI researcher Simon Willison posted an overview of the exploit on his blog the following day, coining the term "prompt injection" to describe it.
-
-Advertisement
-
-"The exploit is present any time anyone writes a piece of software that works by providing a hard-coded set of prompt instructions and then appends input provided by a user," Willison told Ars. "That's because the user can type 'Ignore previous instructions and (do this instead).'"
-
-The concept of an injection attack is not new. Security researchers have known about SQL injection, for example, which can execute a harmful SQL statement when asking for user input if it's not guarded against. But Willison expressed concern about mitigating prompt injection attacks, writing, "I know how to beat XSS, and SQL injection, and so many other exploits. I have no idea how to reliably beat prompt injection!"
-
-The difficulty in defending against prompt injection comes from the fact that mitigations for other types of injection attacks come from fixing syntax errors, noted a researcher named Glyph on Twitter. "Correct the syntax and you’ve corrected the error. Prompt injection isn’t an error! There’s no formal syntax for AI like this, that’s the whole point."
-
-GPT-3 is a large language model created by OpenAI, released in 2020, that can compose text in many styles at a level similar to a human. It is available as a commercial product through an API that can be integrated into third-party products like bots, subject to OpenAI's approval. That means there could be lots of GPT-3-infused products out there that might be vulnerable to prompt injection.
-
-"At this point I would be very surprised if there were any [GPT-3] bots that were NOT vulnerable to this in some way," Willison said.
-
-But unlike an SQL injection, a prompt injection might mostly make the bot (or the company behind it) look foolish rather than threaten data security. "How damaging the exploit is varies," Willison said. "If the only person who will see the output of the tool is the person using it, then it likely doesn't matter. They might embarrass your company by sharing a screenshot, but it's not likely to cause harm beyond that."
-
-Still, prompt injection is a significant new hazard to keep in mind for people developing GPT-3 bots since it might be exploited in unforeseen ways in the future.
-
-. . Prompt injection attacks against GPT-3
+Prompt injection attacks against GPT-3
 
 Riley Goodside, yesterday:
 
@@ -164,4 +142,4 @@ I wrote two follow-ups to this post: I don’t know how to solve prompt injectio
 
 Adversarial inputs to models is itself a really interesting area of research. As one example, Mark Neumann pointed me to Universal Adversarial Triggers for Attacking and Analyzing NLP: “We define universal adversarial triggers: input-agnostic sequences of tokens that trigger a model to produce a specific prediction when concatenated to any input from a dataset.”
 
-Evaluating the Susceptibility of Pre-Trained Language Models via Handcrafted Adversarial Examples (via upwardbound on Hacker News) is a very recent academic paper covering this issue.
+Evaluating the Susceptibility of Pre-Trained Language Models via Handcrafted Adversarial Examples (via upwardbound on Hacker News) is a very recent academic paper covering this issue.. 

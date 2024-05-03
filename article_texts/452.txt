@@ -1,1 +1,25 @@
-. “There’s a difference between something like GitHub Copilot and ChatGPT. With the former, you are driving the process and the role of Copilot is offering useful suggestions in context, which you accept or reject as you write your program,” Immunefi told CoinDesk in a Twitter message. “With the latter, you are using a single prompt to generate something that looks like a well-written bug report, but is nonsense when analyzed further.”
+ChatGPT Can Do a Lot, but It Can’t Help You With White Hat Reports
+
+“There’s a difference between something like GitHub Copilot and ChatGPT. With the former, you are driving the process and the role of Copilot is offering useful suggestions in context, which you accept or reject as you write your program,” Immunefi told CoinDesk in a Twitter message. “With the latter, you are using a single prompt to generate something that looks like a well-written bug report, but is nonsense when analyzed further.”
+The whitehat hacker bounty platform insisted that ChatGPT could not identify bugs because it has no technical capability beyond providing answers to human inquiries. 
+
+ChatGPT Should Not Replace Whitehat Report
+According to Immunefi, whitehats can expedite a speedy resolution to a software bug by describing the problem in their own words rather than through artificial intelligence language tools. 
+Immunefi is a bug bounty platform that rewards whitehats for finding problems with the smart contracts powering decentralized finance projects like Aave, Compound, and Synthetix. By Sep. 2022, the platform had paid whitehats $65 million, with an additional $138 million available for future payouts.
+
+Software project owners hire whitehats to ethically test the security of their product in exchange for a bounty. These “good” hackers are contrasted with blackhats, who criminally exploit security flaws. On the other hand, so-called greyhats find bugs without the project owner’s permission.
+Still, the bounty platform said that any genuine bugs highlighted by the tool should be reported through the proper channels.
+ChatGPT uses a large-language model called GPT-3 to converse naturally with humans. Its ace card is its ability to answer questions by focusing on a question’s intent more than its words. For context, mainstream search engines generally rank results according to the quantity and quality of links to a web page.
+
+ChatGPT CEO Says the Tool is Still a Work in Progress
+By its own admission, ChatGPT’s sometimes biased training data means that its answers often lack common sense and context. Furthermore, its articulation can sometimes embellish low-quality information. A moderator at the programming forum StackOverflow recently confirmed that the tool’s polished presentation often successfully disguises inaccurate answers.
+
+Like Immunefi, StackOverflow banned ChatGPT responses from its platform.
+
+Despite these glaring limitations, the chief executive of OpenAI, the company behind ChatGPT, is confident that the tool will evolve into a competent workplace tool. 
+“We can imagine an ‘AI office worker’ that takes requests in natural language like a human does,” said Sam Altman in a blog post last year. Smart contract auditing platform CertiK noted that the platform wasn’t ‘half-bad’ at finding bugs. At the same time, Canadian software engineer Tomiwa Aswmidum reportedly successfully used the tool to create a crypto wallet by teaching it cryptographic rules.
+
+Dogecoin promoter and Tesla CEO Elon Musk said in Dec. 2022 that ChatGPT’s AI is “scary good,” while Next47 venture capitalist Kate Reznykova pointed out ChatGPT’s staggering user adoption rate of one million users in just five days.
+However, Altman has cautioned against reading too much into ChatGPT’s developing abilities, calling it a “preview of progress” and adding that it shouldn’t be used for anything mission-critical.
+
+It’s a mistake to be relying on it for anything important right now,” he said.

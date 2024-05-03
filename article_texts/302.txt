@@ -5,3 +5,50 @@ Dartmouth had reviewed Mr. Zhang’s online activity on Canvas, its learning man
 Mr. Zhang, 22, said he had not cheated. But when the school’s student affairs office suggested he would have a better outcome if he expressed remorse and pleaded guilty, he said he felt he had little choice but to agree. Now he faces suspension and a misconduct mark on his academic record that could derail his dream of becoming a pediatrician.
 
 “What has happened to me in the last month, despite not cheating, has resulted in one of the most terrifying, isolating experiences of my life,” said Mr. Zhang, who has filed an appeal.
+
+Dartmouth drops cheating charges against med students, apologizes for flawed investigation
+Dartmouth’s Geisel School of Medicine announced that it has dropped all charges against more than a dozen medical students investigated for electronic cheating after they were accused of accessing online course material during remote exams. FIRE and the Electronic Frontier Foundation first alerted Dartmouth back in March that there was not enough evidence to charge the students. FIRE and EFF also raised concerns about student reports of serious due process violations.
+
+In an email last night, Geisel Dean Duane Compton said new information was obtained from its e-learning system, Canvas, and suggested the technical data that formed the basis of the charges was indeed insufficient. Compton apologized to the accused students and the entire Geisel student body.
+
+“We will learn from this and we will do better,” Compton wrote, adding that the school is committed to “rebuilding the trust we recognize has been lost among some students during this process.”
+
+It was a process in which Dartmouth appeared to gravely misunderstand, or willfully ignore, the highly complicated data it used as the basis of its accusations against the students. 
+
+Dartmouth jumped to conclusions — at students’ expense
+EFF reviewed the data Dartmouth said constituted definitive evidence of cheating, and found that it showed no such thing. 
+
+Instead, according to EFF, the individual data points on which Dartmouth pinned its cases, which purportedly showed students accessing relevant course materials during online exams, could have been produced by an automatic process. Inherent in Canvas’ functionality is an automatic syncing process, known as AJAX, in which a secondary device — like a cell phone or tablet previously logged into Canvas for studying — can keep pinging the Canvas system by itself. That process can produce data showing a student’s account accessing relevant course material, even if the process is happening without a student knowing about it, on a device that was “asleep” or otherwise not in use during the time of the exam.
+
+As Dartmouth moves on from this scandal, it must employ policies that safeguard students’ basic rights. When students are accused of misconduct, fair and transparent procedures that respect those rights must be followed.
+
+Only full logs showing students’ devices interacting with Canvas over time would have painted a clear picture of exactly when and how students’ devices — or the students themselves — were accessing Canvas material. If a remote process (or intentional cheating) was at play, the full logs should have shown it. 
+
+But Dartmouth withheld those logs from students and insisted that a single datapoint told the whole story. 
+
+Dartmouth then made matters worse by failing to provide accused students the due process that might have brought these discrepancies to light before this controversy became national news.
+
+FIRE’s most recent review of Dartmouth’s due process policies (see the “Due Process” tab) for students accused of academic misconduct revealed that some elements of basic fairness — like a presumption of innocence, time to prepare a defense, the right to present evidence to a fact finder, and a requirement that there be clear and convincing evidence of guilt — are not promised to students. When FIRE sought to review these policies again in light of this case, FIRE discovered they had recently been password protected, creating confusion for prospective students interested to know what rights they’d have on campus.
+
+Due process horror stories
+Perhaps predictably, reports from those students accused in the Canvas case were veritable due process horror stories: Students said they were given less than 48 hours to prepare a defense based on highly complicated technical data that would have required expert analysis to fully vet, and then denied access to that data — data that could have exonerated them — altogether. In what may be the most egregious allegation, some accused students reported being coerced into confessing after Geisel administrators assured them that a swift admission of responsibility — even if they were innocent — would lead to leniency.
+
+Dartmouth’s fresh commitment to “rebuilding trust” among the students it unfairly accused in this case should start with promising a fair process to all future students who may find themselves facing a similar misconduct allegation.
+
+It did not; those students were still harshly punished. Depending on how many exams they were alleged to have cheated on, those students faced extremely serious punishment, from transcript marks, to suspension, to expulsion.
+
+(In the highly competitive world of securing a post-medical school residency, a transcript mark showing the mere existence of an investigation for academic misconduct has the power to end a career before it’s started.)
+
+FIRE also criticized Dartmouth for instituting a repressive social media policy in the initial wake of the controversy, when students began to share their experiences anonymously online. Dartmouth assured FIRE that the policy had been long in the works and the timing of its release was purely coincidental. The policy nonetheless remains on the books and violates Dartmouth’s broad promises of free expression, which give students the right to speak online — even if they’re criticizing administrators.
+
+Dartmouth wants to rebuild trust. It should start with due process.
+As Dartmouth moves on from this scandal, it must employ policies that safeguard students’ basic rights. When students are accused of misconduct, fair and transparent procedures that respect those rights must be followed.
+
+Students suspected of academic misconduct should only face an investigation if there is sufficient evidence to charge them. If Dartmouth seeks to use online learning software that employs certain (sometimes highly complicated) technical processes, the school must have a full understanding of what those processes are and what they do. If a student is suspected of cheating based on truly sufficient evidence, they must then face a full and fair hearing — with a presumption of innocence, time to prepare for the hearing, access to evidence and an advisor (preferably a lawyer), and other basic procedural protections that help all parties properly understand what happened and arrive at a just outcome.
+
+Dartmouth’s fresh commitment to “rebuilding trust” among the students it unfairly accused in this case should start with promising a fair process to all future students who may find themselves facing a similar misconduct allegation. 
+
+When it comes to trust, due process provides it: Giving everyone involved confidence that when a school reaches a result in a misconduct investigation, it’s a fair one. 
+
+FIRE will monitor Dartmouth’s policies to ensure that, from now on, students can trust them.
+

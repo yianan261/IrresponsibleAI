@@ -1,28 +1,4 @@
-A group of Facebook engineers identified a “massive ranking failure” that exposed as much as half of all News Feed views to potential “integrity risks” over the past six months, according to an internal report on the incident obtained by The Verge.
-
-The engineers first noticed the issue last October, when a sudden surge of misinformation began flowing through the News Feed, notes the report, which was shared inside the company last week. Instead of suppressing posts from repeat misinformation offenders that were reviewed by the company’s network of outside fact-checkers, the News Feed was instead giving the posts distribution, spiking views by as much as 30 percent globally. Unable to find the root cause, the engineers watched the surge subside a few weeks later and then flare up repeatedly until the ranking issue was fixed on March 11th.
-
-In addition to posts flagged by fact-checkers, the internal investigation found that, during the bug period, Facebook’s systems failed to properly demote probable nudity, violence, and even Russian state media the social network recently pledged to stop recommending in response to the country’s invasion of Ukraine. The issue was internally designated a level-one SEV, or site event — a label reserved for high-priority technical crises, like Russia’s ongoing block of Facebook and Instagram.
-
-The technical issue was first introduced in 2019 but didn’t create a noticeable impact until October 2021
-
-Meta spokesperson Joe Osborne confirmed the incident in a statement to The Verge, saying the company “detected inconsistencies in downranking on five separate occasions, which correlated with small, temporary increases to internal metrics.” The internal documents said the technical issue was first introduced in 2019 but didn’t create a noticeable impact until October 2021. “We traced the root cause to a software bug and applied needed fixes,” said Osborne, adding that the bug “has not had any meaningful, long-term impact on our metrics” and didn’t apply to content that met its system’s threshold for deletion.
-
-For years, Facebook has touted downranking as a way to improve the quality of the News Feed and has steadily expanded the kinds of content that its automated system acts on. Downranking has been used in response to wars and controversial political stories, sparking concerns of shadow banning and calls for legislation. Despite its increasing importance, Facebook has yet to open up about its impact on what people see and, as this incident shows, what happens when the system goes awry.
-
-In 2018, CEO Mark Zuckerberg explained that downranking fights the impulse people have to inherently engage with “more sensationalist and provocative” content. “Our research suggests that no matter where we draw the lines for what is allowed, as a piece of content gets close to that line, people will engage with it more on average — even when they tell us afterwards they don’t like the content,” he wrote in a Facebook post at the time.
-
-“We need real transparency to build a sustainable system of accountability”
-
-Downranking not only suppresses what Facebook calls “borderline” content that comes close to violating its rules but also content its AI systems suspect as violating but needs further human review. The company published a high-level list of what it demotes last September but hasn’t peeled back how exactly demotion impacts distribution of affected content. Officials have told me they hope to shed more light on how demotions work but have concern that doing so would help adversaries game the system.
-
-In the meantime, Facebook’s leaders regularly brag about how their AI systems are getting better each year at proactively detecting content like hate speech, placing greater importance on the technology as a way to moderate at scale. Last year, Facebook said it would start downranking all political content in the News Feed — part of CEO Mark Zuckerberg’s push to return the Facebook app back to its more lighthearted roots.
-
-I’ve seen no indication that there was malicious intent behind this recent ranking bug that impacted up to half of News Feed views over a period of months, and thankfully, it didn’t break Facebook’s other moderation tools. But the incident shows why more transparency is needed in internet platforms and the algorithms they use, according to Sahar Massachi, a former member of Facebook’s Civic Integrity team.
-
-“In a large complex system like this, bugs are inevitable and understandable,” Massachi, who is now co-founder of the nonprofit Integrity Institute, told The Verge. “But what happens when a powerful social platform has one of these accidental faults? How would we even know? We need real transparency to build a sustainable system of accountability, so we can help them catch these problems quickly.”
-
-Clarification at 6:56 PM ET: Specified with confirmation from Facebook that accounts designated as repeat misinformation offenders saw their views spike by as much as 30%, and that the bug didn’t impact the company’s ability to delete content that explicitly violated its rules.. Meta has admitted that a Facebook bug led to a 'surge of misinformation' and other harmful content appearing in users' News Feeds between October and March.
+Meta has admitted that a Facebook bug led to a 'surge of misinformation' and other harmful content appearing in users' News Feeds between October and March.
 
 According to an internal document, engineers at Mark Zuckerberg's firm failed to suppress posts from 'repeat misinformation offenders' for almost six months.
 
@@ -80,8 +56,28 @@ Last year, the firm said it would start downranking all political content on Fac
 
 Meta renamed itself in October, as part of its long-term project to turn its social media platform into a metaverse – a collective virtual shared space featuring avatars of real people.
 
-In the future, the social media platform will be accessible within the metaverse using virtual reality (VR) and augmented reality (AR) headsets and smart glasses.. Facebook engineers have belatedly uncovered a significant flaw in its downranking system to filter out harmful content, which exposed up to half of all News Feed views to potential ’integrity risks’ for six months.
+In the future, the social media platform will be accessible within the metaverse using virtual reality (VR) and augmented reality (AR) headsets and smart glasses.. A group of Facebook engineers identified a “massive ranking failure” that exposed as much as half of all News Feed views to potential “integrity risks” over the past six months, according to an internal report on the incident obtained by The Verge.
 
-Facebook flaw increased harmful News Feed content for six months / Adobe Stock
+The engineers first noticed the issue last October, when a sudden surge of misinformation began flowing through the News Feed, notes the report, which was shared inside the company last week. Instead of suppressing posts from repeat misinformation offenders that were reviewed by the company’s network of outside fact-checkers, the News Feed was instead giving the posts distribution, spiking views by as much as 30 percent globally. Unable to find the root cause, the engineers watched the surge subside a few weeks later and then flare up repeatedly until the ranking issue was fixed on March 11th.
 
-Reports in The Verge suggest the ‘massive ranking failure’ was first identified last October when engineers battled against a wave of misinformation that threatened to inundate the News Feed. Closer investigations revealed that a ranking system designed to suppress misinformation from flagged accounts, as identified by a team of external fact-checkers, was instead surfacing these posts to audiences.
+In addition to posts flagged by fact-checkers, the internal investigation found that, during the bug period, Facebook’s systems failed to properly demote probable nudity, violence, and even Russian state media the social network recently pledged to stop recommending in response to the country’s invasion of Ukraine. The issue was internally designated a level-one SEV, or site event — a label reserved for high-priority technical crises, like Russia’s ongoing block of Facebook and Instagram.
+
+The technical issue was first introduced in 2019 but didn’t create a noticeable impact until October 2021
+
+Meta spokesperson Joe Osborne confirmed the incident in a statement to The Verge, saying the company “detected inconsistencies in downranking on five separate occasions, which correlated with small, temporary increases to internal metrics.” The internal documents said the technical issue was first introduced in 2019 but didn’t create a noticeable impact until October 2021. “We traced the root cause to a software bug and applied needed fixes,” said Osborne, adding that the bug “has not had any meaningful, long-term impact on our metrics” and didn’t apply to content that met its system’s threshold for deletion.
+
+For years, Facebook has touted downranking as a way to improve the quality of the News Feed and has steadily expanded the kinds of content that its automated system acts on. Downranking has been used in response to wars and controversial political stories, sparking concerns of shadow banning and calls for legislation. Despite its increasing importance, Facebook has yet to open up about its impact on what people see and, as this incident shows, what happens when the system goes awry.
+
+In 2018, CEO Mark Zuckerberg explained that downranking fights the impulse people have to inherently engage with “more sensationalist and provocative” content. “Our research suggests that no matter where we draw the lines for what is allowed, as a piece of content gets close to that line, people will engage with it more on average — even when they tell us afterwards they don’t like the content,” he wrote in a Facebook post at the time.
+
+“We need real transparency to build a sustainable system of accountability”
+
+Downranking not only suppresses what Facebook calls “borderline” content that comes close to violating its rules but also content its AI systems suspect as violating but needs further human review. The company published a high-level list of what it demotes last September but hasn’t peeled back how exactly demotion impacts distribution of affected content. Officials have told me they hope to shed more light on how demotions work but have concern that doing so would help adversaries game the system.
+
+In the meantime, Facebook’s leaders regularly brag about how their AI systems are getting better each year at proactively detecting content like hate speech, placing greater importance on the technology as a way to moderate at scale. Last year, Facebook said it would start downranking all political content in the News Feed — part of CEO Mark Zuckerberg’s push to return the Facebook app back to its more lighthearted roots.
+
+I’ve seen no indication that there was malicious intent behind this recent ranking bug that impacted up to half of News Feed views over a period of months, and thankfully, it didn’t break Facebook’s other moderation tools. But the incident shows why more transparency is needed in internet platforms and the algorithms they use, according to Sahar Massachi, a former member of Facebook’s Civic Integrity team.
+
+“In a large complex system like this, bugs are inevitable and understandable,” Massachi, who is now co-founder of the nonprofit Integrity Institute, told The Verge. “But what happens when a powerful social platform has one of these accidental faults? How would we even know? We need real transparency to build a sustainable system of accountability, so we can help them catch these problems quickly.”
+
+Clarification at 6:56 PM ET: Specified with confirmation from Facebook that accounts designated as repeat misinformation offenders saw their views spike by as much as 30%, and that the bug didn’t impact the company’s ability to delete content that explicitly violated its rules.

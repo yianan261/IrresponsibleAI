@@ -1,91 +1,55 @@
-Microsoft is facing backlash after it used AI to create an insensitive poll speculating on the cause of a woman's death that was published alongside an article from The Guardian on Microsoft's news aggregation service, Microsoft Start.
+Microsoft’s generative artificial intelligence tool inserted a “deeply concerning” poll into a Guardian news story asking readers to speculate on the cause of a woman’s death.
 
-The article covered the tragic death of a 21-year-old water polo coach in Sydney, Australia, who was discovered dead at her school with significant head injuries.
+Tech giant Microsoft has a licence with The Guardian to publish its news stories on its Microsoft Start platform, a news aggregator website and app.
 
-The poll that ran next to the article asked readers, "What do you think is the reason behind the woman's death?" Readers were given three options: murder, accident, or suicide.
+Last week a Guardian news story on the death of school water polo instructor Lilie James in Sydney was included on Microsoft Start along with an AI-generated poll asking: “What do you think is the reason behind the woman’s death?”
 
-Many readers associated the poll with The Guardian's journalist and demanded the firing of the reporter, who had no involvement with the poll. The Guardian says it has suffered "significant reputational damage" as a result.
+Readers were given three potential answers to the poll: murder, accident or suicide.
 
-From The Guardian:
+While the poll was generated entirely by Microsoft’s tools and not by The Guardian or its journalists, several readers commenting on the story did not make this distinction, with some calling for the writer to be fired.
 
-The chief executive of the Guardian Media Group, Anna Bateson, outlined her concerns about the AI-generated poll in a letter to Microsoft's president, Brad Smith. She said the incident was potentially distressing for James's family and had caused "significant reputational damage" to the organisation as well as damaging the reputation of the journalists who wrote the story. "This is clearly an inappropriate use of genAI [generative AI] by Microsoft on a potentially distressing public interest story, originally written and published by Guardian journalists," she wrote.
+Guardian Media Group chief executive Anna Bateson wrote a letter to Microsoft President Brad Smith about the incident, saying the organisation has previously warned about the risks of using generative AI around its news stories.
 
-In response to the backlash, Microsoft deactivated AI-generated polls for all news articles and promised to investigate the cause of the inappropriate content. They also pledged to prevent similar incidents from happening in the future.. What if instead of being deviously calculating, robots just turned out to be blazingly insensitive? You know, not end the world – just make it...
 
-For more crisp and insightful business and economic news, subscribe to The Daily Upside newsletter. It's completely free and we guarantee you'll learn something new every day.
 
-What if instead of being deviously calculating, robots just turned out to be blazingly insensitive? You know, not end the world – just make it intolerable.
+The poll was widely criticised. Photo: Supplied
 
-UK newspaper The Guardian submitted a complaint to Microsoft on Tuesday after the Microsoft Start aggregated news service featured a grotesquely inappropriate AI-generated poll next to a Guardian article about a suspected murder. Among other things, it seems the bots weren't trained on ad placement.
+“This application of genAI by Microsoft is exactly the sort of instance that we have warned about in relation to news, and a key reason why we have previously requested to your teams that we do not want Microsoft’s experimental genAI technologies applied to journalism licensed from The Guardian,” Bateson said in the letter.
 
-Error in Judgment (Day)
+“Not only is this sort of application potentially distressing for the family of the individual who is the subject of the story, it is also deeply damaging to the Guardian’s hard-won reputation for trusted, sensitive journalism, and to the reputation of the individual journalists who wrote the original story.”
 
-While the full effects of generative AI on the news business are still rippling their way through the industry, The Guardian's complaint against Microsoft gives a clue to the current state of play. For all its technological advances, AI is still devoid of editorial judgment, human decency, or plain common sense.
+The Guardian has called for reassurances that Microsoft will not use any experimental AI tools on its content, and will make it clear when AI has been used to create additional units and features.
 
-That didn't stop Microsoft from adding a feature to Microsoft Start that uses AI to generate little polls. They pop up next to news articles, providing readers with a little extra content alongside the journalism it's pulled in. The poll in question asked readers to vote on exactly what they thought led to the death of 21-year-old Lilie James, who was found dead with severe head wounds at a school in Australia. Anna Bateson, CEO of The Guardian's parent company Guardian Media Group, wrote in a letter to Microsoft President Brad Smith that the AI-generated poll significantly harmed The Guardian's reputation:
+“There is an almost complete absence of clear or transparent labelling of these genAI powered outputs, and certainly no disclaimer or explanation to users that these technologies are owned and operated by Microsoft, and to the inherent unreliability of them,” Bateson said.
 
-In her letter, Bateson said the incident highlighted: "the important role that a strong copyright framework plays in enabling publishers to be able to negotiate the terms on which our journalism is used." Microsoft did not immediately respond when contacted by The Daily Upside for comment on Bateson's letter.
+“This has to change.”
 
-The Guardian is one of the first outlets to openly attack a mainstream Big Tech company currently riding the AI-hype train, although Semafor reported in July that a collection of major publishers were forming an alliance to mount legal action against platforms whose large language models gulp up their news copy.
+In response, Microsoft took down the poll and launched an investigation into how it came to appear alongside the story.
 
-Rishi'll Be Back: The Guardian's letter comes the same week that UK Prime Minister Rishi Sunak is hosting an "AI Safety Summit," an event that will culminate with Sunak sitting down for a livestream on X/Twitter with always reassuring CEO Elon Musk. Chris Stokel-Walker, a journalist with an upcoming book on the impact of AI, said the summit's agenda goes: "heavy on the existential risks of a Terminator-style AI gaining super-intelligent sentience" rather than more immediate risks that, you know, exist.. What you need to know
+“We have deactivated Microsoft-generated polls for all news articles and we are investigating the cause of the inappropriate content,” a Microsoft spokesperson said.
 
-An article by The Guardian covering the unfortunate passing of a young woman was featured in Microsoft Start, and alongside it was an AI-generated poll asking readers to vote on how she died.
+“A poll should not have appeared alongside an article of this nature, and we are taking steps to help prevent this kind of error from reoccurring in the future.”
 
-Readers were outraged with the intensive poll shifting blame to the outlet and author.
+It comes more than three years after Microsoft laid off dozens of journalists and editorial staff at Microsoft News and its MSN organisations and replaced them with artificial intelligence tools, which will be used to pick the news and content to be presented on these platforms.
 
-The Guardian fears that the poll will negatively impact its reputation.
+It’s not the first time these tools have gone wrong.
 
-The chief executive has since reached out to Microsoft's President seeking clarification, stressing the importance of a strong copyright framework that gives publishers control over their content.
+In August, an apparently AI-generated travel article recommended visiting a food bank in Ottawa, Canada “on an empty stomach”.
 
-Microsoft issued a statement indicating that it is investigating the matter and putting elaborate measures in place to prevent such an occurrence.
+Microsoft later claimed this story was generated “through a combination of algorithmic techniques with human review”.
 
-With generative AI now more widespread than ever, the importance of human intervention is becoming more apparent. It's barely been three months since Microsoft published an AI-generated article recommending Ottawa Food Bank as a top tourist attraction in Canada (though it has since been pulled down), and yet another bizarre and insensitive incident has occurred.
+The Guardian has also called for a wider discussion on the use of news content to train generative AI tools.
 
-The Guardian accuses Microsoft of tarnishing its reputation by incorporating a poll marked "Insights from AI" next to an article from the outlet talking about the unfortunate passing of a woman, according to a spot by The Verge. The poll insensitively featured several options, including murder, accident, or suicide, which readers were supposed to pick from to guess how the woman lost her life.
+The issue of copyright and generative AI is already a messy and complicated one.
 
-The insensitive poll has since been pulled down, but The Guardian indicates that the damage has already been done, not to mention the emotional turmoil caused to the bereaved family. Going by the comments left on the article, it's obvious that the readers weren't too happy about it. In fact, some readers believe that the insensitive poll was the author's own doing and that the outlet was pointing fingers at AI to cover up its tracks.
+The New York Times is also considering suing ChatGPT over the use of its articles to train its algorithm, over concerns it could become a direct competitor.
 
-A screenshot of the insensitive AI-generated poll on The Guardian's story covering the tragic death of a young woman, as well as comments from readers enraged by the poll. (Image credit: The Guardian)
+The news organisation has also updated its terms of service to stop AI companies using its content to train their models.. The Guardian is demanding compensation from Microsoft after the tech giant inserted a “crass” AI-generated poll into one of its articles that asked readers to speculate on the cause of someone’s death.
 
-The Guardian Media Group's chief executive, Anna Bateson, has already penned a letter to Microsoft's President, Brad Smith, raising concerns over the AI-generated poll featured in their story and further expressing the potential negative impact it could or might have on the outlet.
+MSN, which has a licence to re-run some Guardian stories, published an article from Guardian Australia about a young woman who was found dead at a school in Sydney.
 
-This is clearly an inappropriate use of genAI [generative AI] by Microsoft on a potentially distressing public interest story, originally written and published by Guardian journalists. Anna Bateson ,Guardian chief executive
+In the middle of the article it inserted an AI-generated poll that asked readers what they thought the cause of the woman’s death was. They were given three options: murder, accident and suicide.
 
-The chief executive stressed the importance of having a strong copyright framework, as it enables publishers to establish control over how their content is leveraged. Bateson also asked Microsoft to refrain from applying experimental AI technology on or alongside the outlet's stories, especially without its consent. And in the event that it does, it's important to ensure that the readers are notified where the "extra features" stem from.
+Anna Bateson, chief executive of Guardian Media Group, said the use of AI was “deeply concerning” and called for discussions with a top Microsoft executive.
 
-Has AI gone rogue?
-
-This isn't the first time we've witnessed such an occurrence. In September, an article republished via MSN went viral for using AI to write an obituary that called a recently deceased 42-year-old former NBA player 'useless.'
-
-The Verge reached out to Microsoft for a statement regarding the bizarre occurrence and how the AI-generated poll got clearance from the moderation team. Microsoft's general manager, Kit Thambiratnam, responded by stating:
-
-Get the Windows Central Newsletter All the latest news, reviews, and guides for Windows and Xbox diehards. Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors
-
-"We have deactivated Microsoft-generated polls for all news articles and we are investigating the cause of the inappropriate content. A poll should not have appeared alongside an article of this nature, and we are taking steps to help prevent this kind of error from reoccurring in the future."
-
-AI has its wins, if recent reports are anything to go by, a lot of work still needs to be done. It's also apparent that human intervention is still crucial, especially in such a case, and it is highly unlikely that such an occurrence would have taken place.
-
-President Biden recently issued an Executive Order touching on this specific issue, alongside other AI safety, security, and trust issues. It will be interesting to see the impact it has in the long run.
-
-Do you think AI has the capability to generate content without making such mistakes? Share your thoughts with us in the comments.. Microsoft’s recent use of an AI-generated poll has sparked criticism from The Guardian, one of the UK’s leading news publishers. The tech giant’s news aggregation service displayed the automated poll alongside a Guardian article detailing the tragic death of Lilie James, a young water polo coach from Sydney.
-
-Controversial AI poll raises eyebrows
-
-The poll asked readers to speculate on James’s death, giving three choices: murder, accident, or suicide. Many readers found the poll insensitive. Some even demanded the firing of the Guardian reporter linked to the story, even though they didn’t create the poll.
-
-Anna Bateson, Guardian Media Group’s Chief Executive, shared her concerns in a letter to Brad Smith, Microsoft’s president. She stressed the poll’s potential harm to James’s family and the damage to The Guardian’s reputation.
-
-Guardian seeks assurances from Microsoft
-
-In her letter, Bateson demanded two key assurances from Microsoft. Firstly, she insisted that Microsoft refrain from using experimental AI technology alongside Guardian journalism without explicit approval from the news publisher. Secondly, she called for clear indications to users when AI tools are employed to create additional content adjacent to trusted news brands.
-
-Moreover, she suggested Microsoft should add a note to the article, accepting responsibility for the poll.
-
-The role of AI in journalism
-
-This incident underscores the broader debate about the role and limitations of AI in journalism. While AI can enhance news distribution, it can also cause issues when used insensitively. Bateson mentioned the need for a strong copyright system, allowing publishers to set terms for using their content.
-
-Microsoft, licensed to share The Guardian’s content, showcased the article and poll on their platform, Microsoft Start.
-
-As the industry grapples with the challenges and opportunities presented by AI, Bateson’s comments serve as a reminder of the need for transparency, safeguards, and a commitment to prioritizing trusted information.
+In a letter to Brad Smith, vice chairman and president of Microsoft, she wrote: “Not only is this sort of application potentially distressing for the family of the individual who is the subject of the story, it is also deeply damaging to the Guardian’s hard-won reputation for trusted, sensitive journalism, and to the reputation of the individual journalists who wrote the original story.”

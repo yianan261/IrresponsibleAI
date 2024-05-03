@@ -1,61 +1,37 @@
-By Aiden Pink October 26, 2017
+October 25, 2017
 
-A Palestinian man was mistakenly arrested in Israel after Facebook’s translation software turned his “good morning” photo caption into a threat.
+The case in question concerns a Palestinian gentleman working in Israel. The man works in the construction industry near Jerusalem. He recently posted a photograph of himself at work, leaning against a bulldozer. He added the caption “يصبحهم”, or “yusbihuhum,” which means “good morning.”
 
-The man, who works in a West Bank settlement, posted a photo of himself next to a bulldozer with the message “good morning” in Arabic. But Facebook’s proprietary translation algorithm translated it into Hebrew as “attack them.”
+It was only last week that we discussed the flaws of machine translation. In that case, the focus of the article was on the WeChat messaging app’s racial slurs . Now, a new story has once more highlighted the dangers posed by the machines that we rely on to translate for us.
 
-Local police officers were notified of the post and arrested the man. They were especially concerned that he was posing next to a bulldozer, which has been used by Palestinians in hit-and-run terror attacks.
+Unfortunately, this seemingly innocent act triggered a great deal of trouble for this individual. Facebook’s artificial intelligence (AI) powered automatic translation system, which handles some 4.5 billion translations per day, made a mistake. Instead of translating the man’s innocent greeting correctly, the system translated it as “attack them” in Hebrew and “hurt them” in English. Local police put the translated comment together with the bulldozer in the picture and promptly arrested the poor construction worker.
 
-Forwarding the News Thoughtful, balanced reporting from the Forward and around the web, bringing you updated news and analysis of the crisis each day. Terms (Required) I agree to the Forward's Terms of Service and Privacy Policy Email (Required)
+Human translation lacking
 
-Israeli security frequently monitors Palestinians’ social media accounts to detect possible terror threats.
+Sadly, no Arabic translation was undertaken before the arrest. Nor were any Arabic-speaking officers consulted prior to the gentleman being hauled in for questioning. The suspicion that the gentleman was planning some form of bulldozer attack caused police to react first and ask questions later. Of course, once they did begin asking questions, the truth quickly became apparent.
 
-No Arabic-speaking officer read the post before the man’s arrest, Haaretz reported. The man was soon freed after the police admitted a mistake was made.
+The incident serves to highlight once more the importance of human translation rather than reliance on machines. In this case, the issue was resolved within a few hours when the erroneous translation was discovered. However, one can’t help but wonder how many other instances of fault Facebook translation are taking place each and every day, as users rely on artificial intelligence to communicate in other languages.
 
-“Unfortunately, our translation systems made an error last week that misinterpreted what this individual posted,” a Facebook spokesperson told Gizmodo. “Even though our translations are getting better each day, mistakes like these might happen from time to time and we’ve taken steps to address this particular issue. We apologize to him and his family for the mistake and the disruption this caused.”
+Facebook’s apology
 
-Contact Aiden Pink at [email protected] or on Twitter, @aidenpink. Facebook has apologized after a Palestinian man was arrested by Israeli police for a post saying “good morning” that its automatic-translation service erroneously translated as “attack them” in Hebrew and “hurt them” in English, reports Israeli newspaper Haaretz. The man is a construction worker near Jerusalem, reports The Guardian. He posted a photo of himself last week leaning against a bulldozer with the caption “يصبحهم”, or “yusbihuhum,” which translates as “good morning.”
+Facebook has, quite rightly, apologised for making such a mistake. Necip Fazil Ayan, an engineering manager in Facebook’s language technologies group, commented,
 
-Police arrested the man after they were notified of the post and were suspicious he was planning a vehicle attack using the bulldozer. He was released hours later after police realized the mistake. Haaretz reports that before his arrest, no Arabic-speaking officer had read the man’s Facebook post.
-
-Facebook is currently investigating the issue and Necip Fazil Ayan, an engineering manager in Facebook’s language technologies group, said in a statement to Gizmodo that though mistakes might happen, the company’s translations are getting better each day. “Unfortunately, our translation systems made an error last week that misinterpreted what this individual posted. We apologize to him and his family for the mistake and the disruption this caused.”. A construction worker was arrested after he posted ‘Good morning’ on Facebook, because the automatic translation got it wrong.
-
-The Palestinian man had posted a photo at work with a cigarette and a coffee, adding a greeting to his followers in Arabic.
-
-But the online translator misread what he said, translating it as ‘Hurt them’.
-
-Israeli police arrested him on suspicion of inciting violence, believing he was urging people to use a bulldozer to attack people, the Times of Israel reports.
-
-Nobody who spoke Arabic had read the post before he was interrogated.
-
-Israeli security forces arrested him (File picture: Getty)
-
-The automatic translator got mixed up because there is only one letter different in the phrases ‘good morning to you all’ and ‘hurt them’ in Arabic.
-
-Bulldozers have been used in terror attacks in the past, so police thought he was promoting violence.
-
-In fact it was a totally innocent and good natured photo from Beitar Illit settlement on October 15.
-
-The man has since deleted his Facebook post and did not want to be identified, the Times reported.
-
-MORE : Nursery worker died after accidentally overdosing on medication for mystery pain
-
-MORE : Couple find huge stash of marijuana hidden inside their Amazon order. Facebook has apologised after an error in its machine-translation service saw Israeli police arrest a Palestinian man for posting “good morning” on his social media profile.
-
-The man, a construction worker in the West Bank settlement of Beitar Illit, near Jerusalem, posted a picture of himself leaning against a bulldozer with the caption “يصبحهم”, or “yusbihuhum”, which translates as “good morning”.
-
-But Facebook’s artificial intelligence-powered translation service, which it built after parting ways with Microsoft’s Bing translation in 2016, instead translated the word into “hurt them” in English or “attack them” in Hebrew.
-
-Police officers arrested the man later that day, according to Israeli newspaper Haaretz, after they were notified of the post. They questioned him for several hours, suspicious he was planning to use the pictured bulldozer in a vehicle attack, before realising their mistake. At no point before his arrest did any Arabic-speaking officer read the actual post.
-
-Facebook said it is looking into the issue, and in a statement to Gizmodo, added: “Unfortunately, our translation systems made an error last week that misinterpreted what this individual posted.
+“Unfortunately, our translation systems made an error last week that misinterpreted what this individual posted.
 
 “Even though our translations are getting better each day, mistakes like these might happen from time to time and we’ve taken steps to address this particular issue. We apologise to him and his family for the mistake and the disruption this caused.”
 
-Arabic is considered particularly difficult for many machine translation services due to the large number of different dialects in use around the world, on top of Modern Standard Arabic, the international form of the language.
+Machine translation
 
-The Israeli Defence Force has been open about monitoring the social media accounts of Palestinians, looking for “lone-wolf” attackers who might otherwise slip through the net. It reportedly does so automatically, using algorithms to look for terms such as “sword of Allah”.
+The translation error occurred in part due to the difficulties that machines face when it comes to translating Arabic. Facebook’s system is far from alone in finding Arabic a hard language to translate. As well as the internationally used Modern Standard Arabic, the language has a large number of different dialects. This provides machines with a level of complexity that they don’t often face when working with other languages.
 
-Machine translation mistakes are a regular occurrence for anyone using AI to translate languages, particularly ones with little relationship. Earlier this month, Chinese social network WeChat apologised after its own machine translation system translated a neutral phrase meaning “black foreigner” as the n-word.
+Even so, the error shows how far machine translation still has to go before we can rely on it. If a simple phrase such as “good morning” can serve to flummox Facebook’s translation system so utterly, despite the enormous funds available to Facebook to invest in that system, one shudders to think of how poorly more complex chunks of text are being translated.
 
-“When I ran the translator, the n-word came up and I was gobsmacked,” said Ann James, who had been texting back and forth with a friend when the faulty translation appeared.
+Over the past few years, we’ve heard about numerous breakthroughs in the field of machine translation, from Google’s neural networks translating without transcribing courtesy of deep learning techniques, to Facebook’s much publicised shift to a system of entirely neural machine translation. So why is it that machine translation is still so flawed compared to human translation?
+
+Google recently announced that its Deep Mind project had made a leap forward in AI research. The AlphaGo Zero project saw Deep Mind achieve superhuman abilities at the game Go after being given a board and a set of instructions with which to teach itself. Whereas the previous project – AlphaGo – required thousands of hours of learning from human players before it was able to beat a human champion, AlphaGo Zero taught itself to do so in just a few days, defeating the original AlphaGo by 100 games to 0. The machine even taught itself Go techniques and strategies that humans have never thought of, despite the game being over a thousand years old.
+
+Perhaps this new approach to machine learning will finally be the masterstroke that leads to machines being able to translate as proficiently as humans – but, then again, we’ve heard such proclamations many times before and humans still have the edge over machines when it comes to professional translation!
+
+Final thoughts
+
+Will the latest advances in AI lead to machine translation being perfected? Or will we continue to see machine translation mistakes leading to confusion and, in extreme cases, arrests? Share your thoughts by leaving a comment below.. 

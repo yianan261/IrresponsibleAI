@@ -1,0 +1,22 @@
+{
+  "602": {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Citizens of Russia and Ukraine"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Classes of irresponsible AI use": ["Disinformation", "Human Incompetence"],
+    "Subclasses": {
+      "Disinformation": [],
+      "Human Incompetence": ["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "Disinformation Campaigns",
+    "Online": "Yes"
+  }
+}

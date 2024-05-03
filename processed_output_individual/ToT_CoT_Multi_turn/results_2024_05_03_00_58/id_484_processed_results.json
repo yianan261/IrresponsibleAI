@@ -1,0 +1,35 @@
+{
+    "484": {
+        "Country": "Worldwide",
+        "State": "District of Columbia",
+        "City": "Washington",
+        "Continent": "Worldwide",
+        "Company": "Department of Homeland Security (DHS)",
+        "Company city": "Washington",
+        "Company state": "District of Columbia",
+        "Affected population": [
+            "Migrants seeking asylum"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Data bias"
+            ]
+        },
+        "Area of AI Application": "Biometric data processing",
+        "Online": "No"
+    }
+}

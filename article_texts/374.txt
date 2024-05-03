@@ -1,60 +1,4 @@
-ABSTRACT
-
-When algorithmic harms emerge, a reasonable response is to stop using the algorithm to resolve concerns related to fairness, accountability, transparency, and ethics (FATE). However, just because an algorithm is removed does not imply its FATE-related issues cease to exist. In this paper, we introduce the notion of the “algorithmic imprint” to illustrate how merely removing an algorithm does not necessarily undo or mitigate its consequences. We operationalize this concept and its implications through the 2020 events surrounding the algorithmic grading of the General Certificate of Education (GCE) Advanced (A) Level exams, an internationally recognized UK-based high school diploma exam administered in over 160 countries. While the algorithmic standardization was ultimately removed due to global protests, we show how the removal failed to undo the algorithmic imprint on the sociotechnical infrastructures that shape students’, teachers’, and parents’ lives. These events provide a rare chance to analyze the state of the world both with and without algorithmic mediation. We situate our case study in Bangladesh to illustrate how algorithms made in the Global North disproportionately impact stakeholders in the Global South. Chronicling more than a year-long community engagement consisting of 47 interviews, we present the first coherent timeline of “what” happened in Bangladesh, contextualizing “why” and “how” they happened through the lenses of the algorithmic imprint and situated algorithmic fairness. Analyzing these events, we highlight how the contours of the algorithmic imprints can be inferred at the infrastructural, social, and individual levels. We share conceptual and practical implications around how imprint-awareness can (a) broaden the boundaries of how we think about algorithmic impact, (b) inform how we design algorithms, and (c) guide us in AI governance. The imprint-aware design mindset can make the algorithmic development process more human-centered and sociotechnically-informed.. Nearly 5 million GCSEs will this week be awarded using a controversial model which education experts fear could lead to even more results being downgraded than in last week’s A-levels fiasco.
-
-According to analysis shared with the Observer, more than 4.6 million GCSEs in England – about 97% of the total – will be assigned solely by the algorithm drawn up by the exam regulator Ofqual. Teacher rankings will be taken into consideration, but not teacher-assessed grades submitted by schools and colleges.
-
-Natalie Perera, executive director of the Education Policy Institute thinktank, said: “We will almost certainly see a repeat of the many problems seen with A-levels, only with GCSEs they could be more severe.”
-
-Fewer A-levels – an estimated 82% – were calculated by the Ofqual algorithm. “A larger year group, combined with the fact that GCSE grades are often harder to predict, will mean that Ofqual could place even greater emphasis on its standardisation model,” Perera said. “There is a real risk that even more grades will be pushed down as a result.”
-
-The government’s response to the debacle was thrown into further confusion on Saturday night after Ofqual announced students could use coursework to challenge A-level grades, only to withdraw the policy hours later. In a brief statement, Ofqual said the policy was “being reviewed” by its board and that further information would be released “in due course”, without explaining what elements of the policy had caused a problem.
-
-The government is also expected to face legal challenges over its results algorithm within days. The Observer has seen a lawyer’s letter drawn up on behalf of A-level students marked down two grades or more from the scores predicted by their teachers.
-
-It claims that despite the controversy about the awarded grades, the pupils involved are unable to use the appeals process because it is too narrowly drawn. The letter, drawn up by the Good Law Project, warns that the grades they were awarded did “not reliably indicate their knowledge, skills and understanding of the subject”.
-
-View image in fullscreen Gavin Williamson, the education secretary, has said appeals will be free of charge. Photograph: Hannah McKay/Reuters
-
-Gavin Williamson, the education secretary, has already announced that appeals will be free of charge, after a mounting rebellion among Tory MPs. Exam boards have confirmed they will be ready to process these from Monday, with pupils able to use mock exams as part of their appeal. In a further concession on Saturday, Ofqual said pupils who had not taken a mock exam could appeal using a “non-exam assessment mark”.
-
-The Liberal Democrat acting leader Ed Davey has called for Williamson to resign. While Labour’s shadow education secretary, Kate Green, stopped short of that, she said he had “a few days to demonstrate that he’s now going to do it right”.
-
-Anger continues to mount on the Tory backbenches. Robert Halfon, the Tory chair of the education select committee, said: “Ofqual needs to explain with every school what’s going on, and how its algorithm has worked. But above all, we’d better have a robust appeals system. That’s the only way we can solve this now. We’ve got to make sure that this is an exam system for the many, not the few.”
-
-The legal threats create more uncertainty over this summer’s results. Ofqual has confirmed that the same model used for A-levels will be deployed for GCSEs. For each subject, teachers were asked to give each pupil a grade and then place all pupils in rank order. But if the subject had, on average, more than 15 entries in a school, Ofqual decided the predicted grades would not be used, instead relying on the ranking. Research by upReach, a social mobility charity, predicts that about 4.6 million grades will be awarded using the algorithm and teacher rankings of pupils, but not teacher-assessed grades.
-
-Its study also raised concerns about how the model’s use of historic grade data could hit disadvantaged pupils, potentially benefiting those from private education.
-
-Private school pupils will be advantaged with their GCSE results in exactly the same way they have at A-levels John Craven
-
-“Last year, GCSE grades at independent schools averaged 1.5 grades higher than at state schools and showed much less variation,” said John Craven, the chief executive of UpReach. “This statistically further reduces the likelihood of a private school student being downgraded. Put simply, fewer students are at risk of being downgraded when the historical grades at their school are mostly higher grades and there is little variation in the grades awarded.”
-
-Its study estimates that at least 11% of private-school grades will take into account the teacher-assessed grades, but that will only be true of 1.4% of state-school grades. “A typical private school student is going to get at least one grade which is based on their teacher’s assessment,” said Craven. “Ofqual is saying teachers’ assessments have been over-optimistic. If this is the case for GCSEs too, private school pupils will be advantaged with their GCSE results in exactly the same way they have at A-levels.”
-
-The government said that as well as making appeals free, it had set up a taskforce, chaired by the schools minister Nick Gibb and including Ofqual and the exam boards, to speed appeals. Ofqual said: “We extensively tested possible variations of the model to ensure we selected the one which gives students the most accurate results possible.
-
-“The model used showed similar levels of accuracy to that seen in other assessment – marking for example. But of course, in this context, it is important to remember that students have not actually taken an exam – these can only ever be our best estimates of the grades students would have achieved.”
-
-A Department for Education spokesperson said: “Ofqual has a robust model in place to ensure results this year are fair for pupils despite them not having been able to sit exams this year. Standardisation ensures grades are fair for students and without it, we would see results that are substantially inflated, significantly undermining their value.”. The UK has said that students in England and Wales will no longer receive exam results based on a controversial algorithm after accusations that the system was biased against students from poorer backgrounds, Reuters and BBC News report. The announcement followed a weekend of demonstrations at which protesters chanted “fuck the algorithm” outside the country’s Department for Education.
-
-Instead, students will receive grades based on their teachers’ estimates after formal exams were canceled due to the pandemic. The announcement follows a similar U-turn in Scotland, which had previously seen 125,000 results downgraded.
-
-In the UK, A-levels are the set of exams taken by students around the age of 18. They’re the final exams taken before university, and they have a huge impact on which institution students attend. Universities make offers based on students’ predicted A-level grades, and usually, a student will have to achieve certain grades to secure their place.
-
-In other words: it’s a stressful time of year for students, even before the country’s exam regulator used a controversial algorithm to estimate their grades.
-
-As the BBC explains, the UK’s Office of Qualifications and Examinations Regulation (Ofqual) relied primarily on two pieces of information to calculate grades: the ranking of students within a school and their school’s historical performance. The system was designed to generate what are, on a national level, broadly similar results to previous years. Overall, that’s what the algorithm accomplished, with The Guardian reporting that overall results are up compared to previous years, but only slightly. (The percentage of students achieving an A* to C based on the algorithm’s grading rose by 2.4 percent compared to last year.)
-
-Results from independent schools rose by more than state schools
-
-But it’s also led to thousands of grades being lowered from teachers’ estimations: 35.6 percent of grades were adjusted down by a single grade, while 3.3 percent went down by two grades, and 0.2 went down by three. That means a total of almost 40 percent of results were downgraded. That’s life-changing news for anyone who needed to achieve their predicted grades to secure their place at the university of choice.
-
-Worse still, data suggests that fee-paying private schools (also known as “independent schools”) disproportionately benefited from the algorithm used. These schools saw the amount of grades A and above increase by 4.7 percent compared to last year, Sky News reports. Meanwhile, state-funded “comprehensive” schools saw an increase of less than half that: 2 percent.
-
-There is a variety of factors that seem to have biased the algorithm. One theory put forward by FFT Education Datalab is that Ofqual’s approach varied depending on how many students took a given subject, and this decision seems to have led to fewer grades getting degraded at independent schools, which tend to enter fewer students per subject. The Guardian also points out that what it calls a “shockingly unfair” system was happy to boost the number of “U” grades (aka, fails) and round down the amount of A* grades, while one university lecturer has pointed out other failings in the regulator’s approach.
-
-Fundamentally, however, because the algorithm placed so much importance on a school’s historical performance, it was always going to cause more problems for high-performing students at underperforming schools, where the individual’s work would be lost in the statistics. Average students at better schools, meanwhile, seem to have been treated with more leniency. Part of the reason the results have caused so much anger is that this outcome reflects what many see as the wider biases of the UK’s education system.. P kj = (1-r j )C kj + r j (C kj + q kj - p kj )
+P kj = (1-r j )C kj + r j (C kj + q kj - p kj )
 
 For such a short string of algebraic symbols, there is a lot we can learn from Ofqual’s grading algorithm (though really it is an equation) – and a lot we can learn about what went wrong.
 
@@ -90,4 +34,56 @@ The decision to give small classes the ability to receive their teachers’ reco
 
 The choice to take the results of the algorithm and further tweak the grade boundaries to prevent overall grade inflation is not in the algorithm but further depressed the larger classes in favour of the smaller.
 
-And the choice to focus, not on determining individual grades, but on determining a distribution for a class which students were then matched to on the basis of their rank in the class, is not an error in the algorithm but a fundamental misunderstanding of what the goal was.
+And the choice to focus, not on determining individual grades, but on determining a distribution for a class which students were then matched to on the basis of their rank in the class, is not an error in the algorithm but a fundamental misunderstanding of what the goal was.. Ofqual was warned at least a month ago of flaws in the exams algorithm that left thousands of students devastated, but the regulator pressed ahead amid longstanding ministerial pressure to prevent grade inflation, the Guardian understands.
+
+External advisers told the regulator that its formula for deciding England’s pupils’ A-level and GCSE results after the cancellation of exams was “volatile” and risked producing erratic outcomes, sources said.
+
+Despite the warnings, that formula was kept in place, leading to a fiasco that saw disadvantaged students worst hit by downgrades, until the government was forced into a U-turn on Monday.
+
+The disclosure raises questions about the extent of ministers’ knowledge of the concerns. The education secretary, Gavin Williamson, has claimed he only became aware of the scale of the unfairness of the algorithm “over the weekend” when the full detail was published, though a government source said he had raised earlier concerns about the model and sought reassurances from Ofqual.
+
+Universities have warned of mounting chaos as students scramble for places armed with new teacher-assessed grades. Ucas revealed on Wednesday that 15,000 pupils originally rejected by their first-choice university now have the grades to meet their offer, with 90% of them aiming to study at top-tier universities.
+
+With at least one over-subscribed university resorting to the offer of financial sweeteners to persuade students to defer until 2021, the National Union of Students (NUS) organised protests in six cities over ongoing inequalities in the fallout of the crisis and concerns that disadvantaged students will be forced to take gap years.
+
+In late March, with schools closed and the pandemic gathering pace, Williamson publicly warned Ofqual it “should ensure, as far as is possible, that qualification standards are maintained and the distribution of grades follows a similar profile to that in previous years”. The demand was made in a letter to the head of Ofqual, Sally Collier, on 31 March, issued as a ministerial direction under the Children and Learning Act of 2009.
+
+Quick Guide How ministers defended the A-level results system Show Gavin Williamson, 12 August, to ITV “[I have] every confidence that the system we have put in place is a robust system, a system that’s fair” Gavin Williamson, 12 August, to the BBC “The system, for the overwhelming majority of young people, is going to deliver credible, strong results. It’s a robust system, it’s a fair system, it’s making sure that young people get the grades that they’ve worked so hard towards” Nick Gibb, 12 August, to Sky News “Most young people … will get the grade that the teacher sent in to the exam board that they thought they would get.” Gavin Williamson, 13 August, to Sky News Q) “Can you give a cast-iron guarantee that you will not be forced into the embarrassing U-turn that John Swinney and Nicola Sturgeon were in Scotland?”
+
+
+
+A) "Absolutely" Boris Johnson, 13 August, to reporters in Northern Ireland “Let’s be in no doubt about it, the exam results that we’ve got today are robust. They’re good, they’re dependable for employers. It’s very important that for years to come people should be able to look at these grades and think these are robust, these are dependable” Gavin Williamson, 15 August, interview to the Times “This is it… No U-turn, no change… [In Scotland] you’ve got a system where there aren’t any controls, you’ve got rampant grade inflation. There’s been no checks and balances in that system; it degrades every single grade as a result and in-baked unfairness” Was this helpful? Thank you for your feedback.
+
+The diktat from Williamson is understood to have been the overriding concern that led Ofqual to reject warnings from its external advisers before the algorithm was finalised in July.
+
+The schools minister, Nick Gibb, was also identified by one senior Conservative source as having piled on pressure to keep grade inflation down. “Nick must take some of the blame. He has a tin ear, and he’s obsessed with avoiding grade inflation,” the source said.
+
+The Times also reported that Jon Coles, chief executive of the United Learning schools trust, warned Williamson last month that Ofqual’s system would unfairly grade pupils, in a letter and a subsequent call. But Williamson declined to act after receiving “reassurances” from Ofqual, according to a source quoted by the paper.
+
+Williamson finally admitted on Wednesday that Ofqual was responsible for the climbdown – for which he originally took credit – and insisted the regulator had his “full confidence”. He had previously refused to back Collier.
+
+“The decision they [Ofqual] took to move from moderated grades to centre-assessed grades was one that we agreed with,” the Department for Education (DfE) said.
+
+That statement appeared to contradict an assertion from Williamson in interviews on Tuesday, where he originally said there were “large numbers of youngsters … [who] wanted to see action taken, that’s what I’ve done”.
+
+Dave Penman, the general secretary of the FDA union, which represents senior civil servants, welcomed Williamson’s change of tone in respect of Ofqual. “Throwing the very people you need to fix the issue under the nearest bus, simply to affect the next morning’s headline, is no way to run any organisation successfully,” Penman said.
+
+“This government already has an instinct to brief and undermine the very public servants who are delivering public services in the most extraordinary of circumstances. Watching ministers scapegoat them live on the news channels will only have further undermined the trust that is so vital between ministers and civil servants.”
+
+A Whitehall source said there had been agreement across government – and cross-party – about the need for moderation of exam results, rather than pressure coming solely from ministers. “There was agreement from the sector, from teaching unions, from the SNP, from Labour in Wales, and there was a full consultation, everyone was aligned on the need to protect the integrity of grades,” the source said.
+
+“There were challenges made to Ofqual and assurances were received but ultimately everyone was working together to try and get a fair system and try and avoid grade inflation. And now it is down to a choice between inflation and equality – but we are in a pandemic and [pandemics] cause havoc.”
+
+In another potential headache for the department, Labour’s Charlie Falconer, the shadow attorney general, said the algorithms formula was unlawful, and ministers should have been aware under the 2009 act which set out Ofqual’s obligations and under anti-discrimination legislation.
+
+Lord Falconer said Williamson’s claim to have only become aware of the issues around the algorithm at the weekend was concerning, citing an education select committee report in July that had raised concerns over pupils from “well-heeled and sharp-elbowed” families benefiting.
+
+He said Williamson must now confirm when exactly the DfE was made aware of concerns about the algorithm and publish any legal advice it had received about the formula.
+
+The NUS has organised protests for 1pm on Thursday outside DfE buildings in London, Bristol, Coventry, Nottingham, Sheffield and Manchester.
+
+The deputy Labour leader, Angela Rayner, said students should remember the anger they felt when they got their results and use it to mobilise politically. On a Zoom call hosted by Young Labour with more than 100 young people, she said: “Remember and keep hold of that anger, that upset, about the injustice this government tried to get away with. Ruining the dreams of thousands.
+
+“Remember how you felt when the government made it clear they didn’t care about our young people. Take that and don’t forget about it.”
+
+Ofqual was approached for comment.
