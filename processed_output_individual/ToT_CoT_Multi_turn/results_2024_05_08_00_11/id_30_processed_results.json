@@ -1,0 +1,28 @@
+{
+    "30": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company": "Tesla",
+        "Company city": "Palo Alto",
+        "Company state": "California",
+        "Affected population": [
+            "Tesla employees",
+            "Tesla customers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds to thousands",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Manufacturing automation",
+        "Online": "No"
+    }
+}

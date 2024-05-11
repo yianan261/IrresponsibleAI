@@ -1,0 +1,29 @@
+{
+    "116": {
+        "Country": "Worldwide",
+        "State": "California",
+        "City": "San Diego",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Amazon delivery drivers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Surveillance",
+        "Online": "Yes"
+    }
+}

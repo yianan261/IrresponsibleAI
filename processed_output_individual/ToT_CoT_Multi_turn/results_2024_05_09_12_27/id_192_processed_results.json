@@ -1,0 +1,27 @@
+{
+    "192": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Est\u00e9e Lauder Companies",
+        "Company city": "New York",
+        "Company state": "New York",
+        "Affected population": [
+            "Make-up artists"
+        ],
+        "Number of people actually affected": "3",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Recruitment",
+        "Online": "No"
+    }
+}

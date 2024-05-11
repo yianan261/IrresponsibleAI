@@ -1,0 +1,31 @@
+{
+    "154": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Justice Department",
+        "Company city": "Washington, D.C.",
+        "Company state": "District of Columbia",
+        "Affected population": [
+            "Federal prisoners"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Race"
+            ]
+        },
+        "Area of AI Application": "Risk assessment",
+        "Online": "No"
+    }
+}

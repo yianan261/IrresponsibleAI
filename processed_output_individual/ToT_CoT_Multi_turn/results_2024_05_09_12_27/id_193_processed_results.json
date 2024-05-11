@@ -1,0 +1,27 @@
+{
+    "193": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Haystax Technology",
+        "Company city": "McLean",
+        "Company state": "Virginia",
+        "Affected population": [
+            "Information Security Professionals"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Threat Management",
+        "Online": "No"
+    }
+}

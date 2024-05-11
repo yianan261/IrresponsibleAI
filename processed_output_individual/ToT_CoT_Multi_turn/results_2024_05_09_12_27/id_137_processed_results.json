@@ -1,0 +1,25 @@
+{
+    "137": {
+        "Country": "Israel",
+        "State": "",
+        "City": "",
+        "Continent": "Asia",
+        "Company": "Israel Tax Authority",
+        "Company city": "Jerusalem",
+        "Company state": "",
+        "Affected population": [
+            "General Public"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Other"
+        ],
+        "Subclasses": {
+            "Other": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Tax Dispute Resolution",
+        "Online": "No"
+    }
+}

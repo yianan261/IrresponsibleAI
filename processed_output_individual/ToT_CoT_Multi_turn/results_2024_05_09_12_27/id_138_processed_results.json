@@ -1,0 +1,29 @@
+{
+    "138": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Proctorio",
+        "Company city": "Scottsdale",
+        "Company state": "Arizona",
+        "Affected population": [
+            "Students, Instructors"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Privacy Invasion",
+            "Accessibility Concerns",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Privacy Invasion": [],
+            "Accessibility Concerns": [],
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Exam Proctoring",
+        "Online": "Yes"
+    }
+}

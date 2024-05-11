@@ -1,0 +1,27 @@
+{
+    "127": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Microsoft",
+        "Company city": "Redmond",
+        "Company state": "Washington",
+        "Affected population": [
+            "Journalists and editorial workers at Microsoft News and MSN organizations"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Dozens",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "News curation",
+        "Online": "No"
+    }
+}

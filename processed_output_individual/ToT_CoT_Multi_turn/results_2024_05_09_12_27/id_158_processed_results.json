@@ -1,0 +1,35 @@
+{
+    "158": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Proctorio",
+        "Company city": "Scottsdale",
+        "Company state": "Arizona",
+        "Affected population": [
+            "Students using exam surveillance software"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Many",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Data bias"
+            ]
+        },
+        "Area of AI Application": "Exam surveillance",
+        "Online": "No"
+    }
+}

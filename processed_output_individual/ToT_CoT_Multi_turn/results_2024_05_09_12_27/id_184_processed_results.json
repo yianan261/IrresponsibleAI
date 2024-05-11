@@ -1,0 +1,35 @@
+{
+    "184": {
+        "Country": "Brazil",
+        "State": "S\u00e3o Paulo",
+        "City": "S\u00e3o Paulo",
+        "Continent": "South America",
+        "Company": "Companhia do Metropolitano de S\u00e3o Paulo (METRO)",
+        "Company city": "S\u00e3o Paulo",
+        "Company state": "S\u00e3o Paulo",
+        "Affected population": [
+            "Metro users in S\u00e3o Paulo"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "4 million",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Other"
+            ],
+            "Algorithmic bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Facial Recognition",
+        "Online": "No"
+    }
+}

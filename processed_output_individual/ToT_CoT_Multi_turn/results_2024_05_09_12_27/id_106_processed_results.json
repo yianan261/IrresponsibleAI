@@ -1,0 +1,35 @@
+{
+    "106": {
+        "Country": "South Korea",
+        "State": "",
+        "City": "Seoul",
+        "Continent": "Asia",
+        "Company": "Scatter Lab",
+        "Company city": "Seoul",
+        "Company state": "",
+        "Affected population": [
+            "Users of the chatbot"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "750,000",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Sexual Orientation"
+            ]
+        },
+        "Area of AI Application": "Chatbot",
+        "Online": "Yes"
+    }
+}

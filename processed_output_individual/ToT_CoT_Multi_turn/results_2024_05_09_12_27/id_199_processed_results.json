@@ -1,0 +1,36 @@
+{
+    "199": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Ever",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Customers of Ever"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Privacy Violation",
+            "Lack of Transparency"
+        ],
+        "Subclasses": {
+            "Privacy Violation": [
+                "Facial Recognition Technology Usage"
+            ],
+            "Lack of Transparency": [
+                "Business Model Disclosure"
+            ]
+        },
+        "Sub-subclass": {
+            "Facial Recognition Technology Usage": [
+                "Surveillance Technology Development"
+            ],
+            "Business Model Disclosure": []
+        },
+        "Area of AI Application": "Facial Recognition",
+        "Online": "Yes"
+    }
+}

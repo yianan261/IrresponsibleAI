@@ -1,0 +1,36 @@
+{
+    "172": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Appriss",
+        "Company city": "Louisville",
+        "Company state": "Kentucky",
+        "Affected population": [
+            "Patients using NarxCare"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Other"
+            ],
+            "Technical": []
+        },
+        "Area of AI Application": "Healthcare",
+        "Online": "No"
+    }
+}

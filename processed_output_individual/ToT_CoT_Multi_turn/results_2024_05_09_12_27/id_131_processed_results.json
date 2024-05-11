@@ -1,0 +1,31 @@
+{
+    "131": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "The State Bar of California",
+        "Company city": "Los Angeles",
+        "Company state": "California",
+        "Affected population": [
+            "Bar Exam Test Takers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "9,301",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Race"
+            ]
+        },
+        "Area of AI Application": "Exam Proctoring",
+        "Online": "Yes"
+    }
+}

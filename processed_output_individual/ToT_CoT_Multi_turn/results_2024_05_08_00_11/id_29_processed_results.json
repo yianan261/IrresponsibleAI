@@ -1,0 +1,28 @@
+{
+    "29": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "US Army Corps of Engineers",
+        "Company city": "Baltimore",
+        "Company state": "Maryland",
+        "Affected population": [
+            "Researchers",
+            "US Army personnel"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Image Recognition",
+        "Online": "No"
+    }
+}

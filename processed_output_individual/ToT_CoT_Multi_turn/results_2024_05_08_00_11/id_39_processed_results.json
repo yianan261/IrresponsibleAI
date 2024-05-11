@@ -1,0 +1,29 @@
+{
+    "39": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "University of Bath",
+        "Company city": "Bath",
+        "Company state": "England",
+        "Affected population": [
+            "Researchers",
+            "Film Industry Professionals"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Researchers, Film Industry Professionals",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Video Manipulation",
+        "Online": "No"
+    }
+}

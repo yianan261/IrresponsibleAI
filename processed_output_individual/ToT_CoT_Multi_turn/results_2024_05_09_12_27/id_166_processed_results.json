@@ -1,0 +1,38 @@
+{
+    "166": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Giggle",
+        "Company city": "Highwood",
+        "Company state": "Illinois",
+        "Affected population": [
+            "Transgender individuals"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Pseudoscience",
+            "Privacy Violation"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Pseudoscience": [
+                "Facial"
+            ],
+            "Privacy Violation": []
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Gender",
+                "Transgender"
+            ]
+        },
+        "Area of AI Application": "Facial Recognition",
+        "Online": "Yes"
+    }
+}

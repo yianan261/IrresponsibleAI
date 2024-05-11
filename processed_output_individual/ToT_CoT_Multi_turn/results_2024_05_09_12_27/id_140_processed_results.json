@@ -1,0 +1,31 @@
+{
+    "140": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "ProctorU",
+        "Company city": "Hoover",
+        "Company state": "Alabama",
+        "Affected population": [
+            "BIPOC students"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Many",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Data bias"
+            ]
+        },
+        "Area of AI Application": "Exam Monitoring",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "120": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "OpenAI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Reddit users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Text generation",
+        "Online": "Yes"
+    }
+}

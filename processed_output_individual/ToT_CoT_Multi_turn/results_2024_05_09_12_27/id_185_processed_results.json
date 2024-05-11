@@ -1,0 +1,33 @@
+{
+    "185": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "TikTok",
+        "Company city": "Culver City",
+        "Company state": "California",
+        "Affected population": [
+            "Users of TikTok"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Textual",
+                "Image",
+                "Video"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Filtering",
+        "Online": "Yes"
+    }
+}

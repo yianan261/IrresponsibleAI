@@ -1,0 +1,27 @@
+{
+    "34": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Amazon",
+        "Company city": "Seattle",
+        "Company state": "Washington",
+        "Affected population": [
+            "Amazon Echo Owners"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Voice Command Technology",
+        "Online": "No"
+    }
+}

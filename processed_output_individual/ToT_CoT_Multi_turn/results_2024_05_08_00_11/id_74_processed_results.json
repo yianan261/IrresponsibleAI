@@ -1,0 +1,39 @@
+{
+    "74": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "DataWorks Plus",
+        "Company city": "Greenville",
+        "Company state": "South Carolina",
+        "Affected population": [
+            "Individuals subjected to facial recognition technology"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race"
+            ],
+            "Algorithmic bias": [
+                "Interaction"
+            ]
+        },
+        "Area of AI Application": "Facial recognition",
+        "Online": "No"
+    }
+}

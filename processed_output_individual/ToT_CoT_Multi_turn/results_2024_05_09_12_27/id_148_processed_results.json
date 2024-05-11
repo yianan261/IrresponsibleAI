@@ -1,0 +1,38 @@
+{
+    "148": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "People with disabilities"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Pseudoscience",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Pseudoscience": [
+                "Other"
+            ],
+            "Disinformation": [
+                "Textual",
+                "Image",
+                "Video",
+                "Audio"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Web Accessibility",
+        "Online": "Yes"
+    }
+}

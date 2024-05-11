@@ -282,10 +282,12 @@ class NewsContent:
         if scrape_articles == True:
             self.fill_article_content()
         else:
-            # id_set = data.get_incidents_2023()
-            id_remove = data.get_empty_data()
+            # id_2023 = data.get_incidents_2023()
+            id_remove = data.get_empty_data() | data.get_incidents_2023()
             id_set = data.get_handpicked_id_set()
             ids_to_process = id_set - id_remove
+            to_process = sorted(ids_to_process)
+            print(to_process)
             self.read_article_from_file(ids_to_process)
         self.process_aggregate_results(prompt_type, ZERO_SHOT)
 

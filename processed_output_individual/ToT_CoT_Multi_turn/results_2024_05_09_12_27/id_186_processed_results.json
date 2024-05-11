@@ -1,0 +1,28 @@
+{
+    "186": {
+        "Country": "Spain",
+        "State": "",
+        "City": "",
+        "Continent": "Europe",
+        "Company": "VioG\u00e9n",
+        "Company city": "Madrid",
+        "Company state": "Unknown",
+        "Affected population": [
+            "Victims of gender violence"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Risk assessment in gender-based violence",
+        "Online": "No"
+    }
+}

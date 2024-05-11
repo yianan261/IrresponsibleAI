@@ -1,0 +1,39 @@
+{
+    "101": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Dutch Tax Administration",
+        "Company city": "Utrecht",
+        "Company state": "Utrecht",
+        "Affected population": [
+            "Child care benefit applicants"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Dual nationality"
+            ],
+            "Algorithmic bias": [
+                "Minority population"
+            ]
+        },
+        "Area of AI Application": "Decision-making",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "42": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "National Resident Matching Program (NRMP)",
+        "Company city": "Washington",
+        "Company state": "D.C.",
+        "Affected population": [
+            "Medical school graduates"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Matching Algorithm",
+        "Online": "No"
+    }
+}

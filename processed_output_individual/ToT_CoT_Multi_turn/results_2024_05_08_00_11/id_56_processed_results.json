@@ -1,0 +1,27 @@
+{
+    "56": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "my-handy-design",
+        "Company city": "Unknown",
+        "Company state": "Unknown",
+        "Affected population": [
+            "Amazon customers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Pseudoscience"
+        ],
+        "Subclasses": {
+            "Pseudoscience": [
+                "Other"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Product design",
+        "Online": "Yes"
+    }
+}

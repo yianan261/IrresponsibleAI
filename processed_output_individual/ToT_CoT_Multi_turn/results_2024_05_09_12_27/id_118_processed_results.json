@@ -1,0 +1,38 @@
+{
+    "118": {
+        "Country": "Worldwide",
+        "State": "California",
+        "City": "San Francisco",
+        "Continent": "Worldwide",
+        "Company": "OpenAI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "General Public"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Interaction",
+                "Feedback loop",
+                "Optimization function"
+            ],
+            "Textual": []
+        },
+        "Area of AI Application": "Text Generation",
+        "Online": "Yes"
+    }
+}

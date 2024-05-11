@@ -1,0 +1,28 @@
+{
+    "200": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "UK-based energy company"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "1",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Voice manipulation",
+        "Online": "No"
+    }
+}

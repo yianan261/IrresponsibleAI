@@ -1,0 +1,35 @@
+{
+    "48": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Individuals using facial recognition technology"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "1",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Race"
+            ]
+        },
+        "Area of AI Application": "Facial recognition technology",
+        "Online": "Yes"
+    }
+}

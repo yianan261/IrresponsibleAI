@@ -1,0 +1,25 @@
+{
+    "141": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Citizens in Beverly Hills"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Many",
+        "Classes of irresponsible AI use": [
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Filtering",
+        "Online": "Yes"
+    }
+}

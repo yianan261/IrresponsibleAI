@@ -1,0 +1,34 @@
+{
+    "43": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Students applying to St George's Hospital Medical School"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Gender",
+                "Race"
+            ],
+            "Algorithmic bias": []
+        },
+        "Area of AI Application": "Admissions process automation",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "107": {
+        "Country": "China",
+        "State": "Guangdong",
+        "City": "Shenzhen",
+        "Continent": "Asia",
+        "Company": "Huawei Technologies Co. Ltd",
+        "Company city": "Shenzhen",
+        "Company state": "Guangdong",
+        "Affected population": [
+            "Uighur people",
+            "Ethnic minority groups"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race",
+                "Ethnicity"
+            ],
+            "Algorithmic bias": [
+                "Ethnic profiling"
+            ]
+        },
+        "Area of AI Application": "Ethnicity detection",
+        "Online": "No"
+    }
+}

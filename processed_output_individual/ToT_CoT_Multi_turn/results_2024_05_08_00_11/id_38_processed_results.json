@@ -1,0 +1,27 @@
+{
+    "38": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Frontier Developments",
+        "Company city": "Cambridge",
+        "Company state": "England",
+        "Affected population": [
+            "Players of Elite Dangerous game"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Gaming",
+        "Online": "No"
+    }
+}

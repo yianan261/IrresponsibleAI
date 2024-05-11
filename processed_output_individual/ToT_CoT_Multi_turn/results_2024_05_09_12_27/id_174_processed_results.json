@@ -1,0 +1,29 @@
+{
+    "174": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "LIA",
+        "Company city": "Delhi",
+        "Company state": "",
+        "Affected population": [
+            "LinkedIn Users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Image"
+            ]
+        },
+        "Sub-subclass": {
+            "Image": []
+        },
+        "Area of AI Application": "Image Generation",
+        "Online": "Yes"
+    }
+}

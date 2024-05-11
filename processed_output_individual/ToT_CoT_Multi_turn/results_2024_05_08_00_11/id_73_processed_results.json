@@ -1,0 +1,35 @@
+{
+    "73": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Niantic Inc.",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Players of Pokemon Go"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race"
+            ]
+        },
+        "Area of AI Application": "Location-based gaming",
+        "Online": "Yes"
+    }
+}

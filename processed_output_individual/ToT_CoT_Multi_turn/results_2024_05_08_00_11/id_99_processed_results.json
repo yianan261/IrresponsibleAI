@@ -1,0 +1,31 @@
+{
+    "99": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "EAB",
+        "Company city": "Washington D.C.",
+        "Company state": "Washington D.C.",
+        "Affected population": [
+            "Students in universities"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Race"
+            ]
+        },
+        "Area of AI Application": "Predictive analytics in education",
+        "Online": "No"
+    }
+}

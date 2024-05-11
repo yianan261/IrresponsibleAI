@@ -1,0 +1,25 @@
+{
+    "147": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Banking sector in United Arab Emirates"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Fraud"
+        ],
+        "Subclasses": {
+            "Fraud": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Voice Cloning",
+        "Online": "No"
+    }
+}

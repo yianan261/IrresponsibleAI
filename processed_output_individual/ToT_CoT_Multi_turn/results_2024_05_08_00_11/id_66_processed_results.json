@@ -1,0 +1,29 @@
+{
+    "66": {
+        "Country": "China",
+        "State": "",
+        "City": "",
+        "Continent": "Asia",
+        "Company": "Tencent Holdings Ltd",
+        "Company city": "Shenzhen",
+        "Company state": "",
+        "Affected population": [
+            "Users of Tencent's QQ messaging service"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Conversational AI",
+        "Online": "Yes"
+    }
+}

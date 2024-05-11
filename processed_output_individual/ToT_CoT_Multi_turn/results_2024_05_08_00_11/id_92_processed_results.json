@@ -1,0 +1,33 @@
+{
+    "92": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Apple Inc.",
+        "Company city": "Cupertino",
+        "Company state": "California",
+        "Affected population": [
+            "Apple Card Users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Interaction",
+                "Feedback loop",
+                "Optimization function"
+            ]
+        },
+        "Area of AI Application": "Credit Underwriting",
+        "Online": "No"
+    }
+}

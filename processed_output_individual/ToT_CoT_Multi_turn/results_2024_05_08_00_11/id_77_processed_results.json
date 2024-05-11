@@ -1,0 +1,27 @@
+{
+    "77": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Knightscope",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Park Visitors"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Security and Surveillance",
+        "Online": "No"
+    }
+}

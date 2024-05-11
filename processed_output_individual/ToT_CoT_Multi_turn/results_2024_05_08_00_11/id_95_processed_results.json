@@ -1,0 +1,29 @@
+{
+    "95": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "HireVue",
+        "Company city": "South Jordan",
+        "Company state": "Utah",
+        "Affected population": [
+            "Job seekers using HireVue software"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Job candidate assessment",
+        "Online": "No"
+    }
+}

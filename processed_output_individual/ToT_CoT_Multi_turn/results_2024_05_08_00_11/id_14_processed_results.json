@@ -1,0 +1,37 @@
+{
+    "14": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Developers using Google's AI products"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Religious minorities",
+                "Ethnic minorities",
+                "Sexual orientation"
+            ]
+        },
+        "Area of AI Application": "Sentiment Analysis",
+        "Online": "No"
+    }
+}

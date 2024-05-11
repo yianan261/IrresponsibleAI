@@ -1,0 +1,27 @@
+{
+    "7": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Wikipedia",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Wikipedia users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content management",
+        "Online": "Yes"
+    }
+}

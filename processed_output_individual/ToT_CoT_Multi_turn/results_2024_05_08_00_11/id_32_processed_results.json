@@ -1,0 +1,27 @@
+{
+    "32": {
+        "Country": "Worldwide",
+        "State": "California",
+        "City": "Cupertino",
+        "Continent": "Worldwide",
+        "Company": "Apple Inc.",
+        "Company city": "Cupertino",
+        "Company state": "California",
+        "Affected population": [
+            "Users of iPhone X"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Facial Recognition",
+        "Online": "No"
+    }
+}

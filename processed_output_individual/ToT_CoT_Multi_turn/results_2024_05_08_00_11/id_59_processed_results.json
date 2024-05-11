@@ -1,0 +1,37 @@
+{
+    "59": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "General Public"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Gender",
+                "Race"
+            ],
+            "Algorithmic bias": [
+                "Interaction",
+                "Feedback loop"
+            ]
+        },
+        "Area of AI Application": "Natural Language Processing",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "79": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Mass General Brigham",
+        "Company city": "Boston",
+        "Company state": "Massachusetts",
+        "Affected population": [
+            "Patients with chronic kidney disease"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Interaction",
+                "Feedback loop"
+            ]
+        },
+        "Area of AI Application": "Healthcare decision-making",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "61": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "The Nature Conservancy",
+        "Company city": "Arlington",
+        "Company state": "Virginia",
+        "Affected population": [
+            "Data Scientists participating in Kaggle's fisheries competition"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Image Classification",
+        "Online": "No"
+    }
+}

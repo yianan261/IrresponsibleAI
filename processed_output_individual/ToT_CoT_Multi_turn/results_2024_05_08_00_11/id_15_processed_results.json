@@ -1,0 +1,32 @@
+{
+    "15": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Amazon.com",
+        "Company city": "Seattle",
+        "Company state": "Washington",
+        "Affected population": [
+            "Authors",
+            "Readers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Discrimination": [],
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Ranking",
+        "Online": "Yes"
+    }
+}

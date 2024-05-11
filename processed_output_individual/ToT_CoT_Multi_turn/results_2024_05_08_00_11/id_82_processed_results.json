@@ -1,0 +1,30 @@
+{
+    "82": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Facebook",
+        "Company city": "Menlo Park",
+        "Company state": "California",
+        "Affected population": [
+            "Social media users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Textual",
+                "Image",
+                "Video",
+                "Audio"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content moderation",
+        "Online": "Yes"
+    }
+}

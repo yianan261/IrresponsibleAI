@@ -1,0 +1,35 @@
+{
+    "180": {
+        "Country": "Malaysia",
+        "State": "Sarawak",
+        "City": "Kuching",
+        "Continent": "Asia",
+        "Company": "Sarawak Information Systems Sdn Bhd",
+        "Company city": "Kuching",
+        "Company state": "Sarawak",
+        "Affected population": [
+            "Defendants in Malaysian courts"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race"
+            ]
+        },
+        "Area of AI Application": "Sentencing recommendations",
+        "Online": "No"
+    }
+}

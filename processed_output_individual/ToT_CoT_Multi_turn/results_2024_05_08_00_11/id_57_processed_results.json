@@ -1,0 +1,31 @@
+{
+    "57": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Centrelink",
+        "Company city": "Canberra",
+        "Company state": "Australian Capital Territory",
+        "Affected population": [
+            "Welfare recipients"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds of thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Debt calculation",
+        "Online": "No"
+    }
+}

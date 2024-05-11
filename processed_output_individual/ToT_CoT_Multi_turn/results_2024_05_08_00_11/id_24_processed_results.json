@@ -1,0 +1,27 @@
+{
+    "24": {
+        "Country": "Germany",
+        "State": "Hesse",
+        "City": "Baunatal",
+        "Continent": "Europe",
+        "Company": "Volkswagen",
+        "Company city": "Wolfsburg",
+        "Company state": "Lower Saxony",
+        "Affected population": [
+            "Contractor"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Robotics",
+        "Online": "No"
+    }
+}

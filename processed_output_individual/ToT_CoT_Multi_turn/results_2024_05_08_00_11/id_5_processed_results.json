@@ -1,0 +1,27 @@
+{
+    "5": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Robotic Surgery Technology Inc.",
+        "Company city": "Chicago",
+        "Company state": "Illinois",
+        "Affected population": [
+            "Patients undergoing robotic surgery"
+        ],
+        "Number of people actually affected": "144",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Medical Robotics",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "123": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Epic",
+        "Company city": "Verona",
+        "Company state": "Wisconsin",
+        "Affected population": [
+            "Patients in hospitals"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Healthcare",
+        "Online": "No"
+    }
+}

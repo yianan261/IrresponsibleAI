@@ -1,0 +1,33 @@
+{
+    "124": {
+        "Country": "United States",
+        "State": "Minnesota",
+        "City": "Eden Prairie",
+        "Continent": "North America",
+        "Company": "Optum",
+        "Company city": "Eden Prairie",
+        "Company state": "Minnesota",
+        "Affected population": [
+            "Patients in the healthcare system"
+        ],
+        "Number of people actually affected": "Millions",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Interaction",
+                "Feedback loop",
+                "Optimization function"
+            ]
+        },
+        "Area of AI Application": "Healthcare decision-making",
+        "Online": "No"
+    }
+}

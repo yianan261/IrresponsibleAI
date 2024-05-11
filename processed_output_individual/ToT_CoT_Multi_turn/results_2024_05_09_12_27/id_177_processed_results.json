@@ -1,0 +1,37 @@
+{
+    "177": {
+        "Country": "Worldwide",
+        "State": "California",
+        "City": "Mountain View",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Writers, Content Creators"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Gender",
+                "Race",
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Assistive Writing",
+        "Online": "Yes"
+    }
+}

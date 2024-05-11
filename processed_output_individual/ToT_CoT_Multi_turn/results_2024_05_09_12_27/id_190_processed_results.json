@@ -1,0 +1,29 @@
+{
+    "190": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "ByteDance Ltd.",
+        "Company city": "Beijing",
+        "Company state": "",
+        "Affected population": [
+            "Users of Instagram, Snapchat, and other social media platforms"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Copyright Violation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Copyright Violation": [],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Scraping",
+        "Online": "Yes"
+    }
+}

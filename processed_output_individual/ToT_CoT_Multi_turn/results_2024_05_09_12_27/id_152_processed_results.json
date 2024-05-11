@@ -1,0 +1,27 @@
+{
+    "152": {
+        "Country": "Japan",
+        "State": "Tokyo",
+        "City": "Minato-ku",
+        "Continent": "Asia",
+        "Company": "SoftBank",
+        "Company city": "Minato-ku",
+        "Company state": "Tokyo",
+        "Affected population": [
+            "Customers of SoftBank"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Customer Service",
+        "Online": "No"
+    }
+}

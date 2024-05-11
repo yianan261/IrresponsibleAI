@@ -1,0 +1,44 @@
+{
+    "188": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Microsoft Corporation",
+        "Company city": "Redmond",
+        "Company state": "Washington",
+        "Affected population": [
+            "Teenage girls in Argentina"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence",
+            "Pseudoscience"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Pseudoscience": [
+                "Other"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Economic",
+                "Other"
+            ],
+            "Algorithmic bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Predictive analytics",
+        "Online": "No"
+    }
+}

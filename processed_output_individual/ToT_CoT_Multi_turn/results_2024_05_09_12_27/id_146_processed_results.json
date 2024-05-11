@@ -1,0 +1,35 @@
+{
+    "146": {
+        "Country": "Worldwide",
+        "State": "Washington",
+        "City": "Seattle",
+        "Continent": "Worldwide",
+        "Company": "Allen Institute for AI",
+        "Company city": "Seattle",
+        "Company state": "Washington",
+        "Affected population": [
+            "Users of Ask Delphi"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence",
+            "Pseudoscience"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Pseudoscience": [
+                "Other"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Ethical decision-making",
+        "Online": "Yes"
+    }
+}

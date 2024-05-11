@@ -1,0 +1,25 @@
+{
+    "139": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Amazon",
+        "Company city": "Seattle",
+        "Company state": "Washington",
+        "Affected population": [
+            "Amazon customers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Disinformation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Search and recommendation algorithms",
+        "Online": "Yes"
+    }
+}

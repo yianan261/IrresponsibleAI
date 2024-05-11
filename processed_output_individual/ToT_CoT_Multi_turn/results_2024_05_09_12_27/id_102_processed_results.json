@@ -1,0 +1,31 @@
+{
+    "102": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Black users, White users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "115",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race"
+            ]
+        },
+        "Area of AI Application": "Speech recognition",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "157": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Amazon",
+        "Company city": "Seattle",
+        "Company state": "Washington",
+        "Affected population": [
+            "Ans Rana and his family"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Driver monitoring",
+        "Online": "No"
+    }
+}

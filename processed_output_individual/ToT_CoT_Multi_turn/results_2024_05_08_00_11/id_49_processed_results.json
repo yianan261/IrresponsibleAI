@@ -1,0 +1,35 @@
+{
+    "49": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Beauty.AI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Participants in beauty contests"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "60,000",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race"
+            ],
+            "Algorithmic bias": [
+                "Interaction"
+            ]
+        },
+        "Area of AI Application": "Beauty contest judging",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "197": {
+        "Country": "Worldwide",
+        "State": "California",
+        "City": "Menlo Park",
+        "Continent": "Worldwide",
+        "Company": "Meta Platforms, Inc.",
+        "Company city": "Menlo Park",
+        "Company state": "California",
+        "Affected population": [
+            "Facebook Users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Filtering",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "58": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Yandex",
+        "Company city": "Moscow",
+        "Company state": "",
+        "Affected population": [
+            "Users of Yandex mobile app"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Conversational Intelligence",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "162": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Educational Testing Service (ETS)",
+        "Company city": "Princeton",
+        "Company state": "New Jersey",
+        "Affected population": [
+            "Students taking English tests"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Language Testing",
+        "Online": "No"
+    }
+}
