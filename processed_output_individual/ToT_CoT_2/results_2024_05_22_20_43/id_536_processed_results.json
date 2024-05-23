@@ -1,0 +1,28 @@
+{
+    "536": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "New Jersey Transit Corporation",
+        "Company city": "Newark",
+        "Company state": "New Jersey",
+        "Affected population": [
+            "NJ Transit passengers",
+            "NJ Transit employees"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Transit Planning",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "45": {
+        "Country": "Australia",
+        "State": "South Australia",
+        "City": "",
+        "Continent": "Australia",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Individuals defamed via Google Autocomplete"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Textual"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "search engine",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "31": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Delhi Metro Rail Corporation Limited",
+        "Company city": "Delhi",
+        "Company state": "Delhi",
+        "Affected population": [
+            "Passengers on Delhi Metro"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Transportation",
+        "Online": "No"
+    }
+}

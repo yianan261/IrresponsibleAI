@@ -1,0 +1,31 @@
+{
+    "336": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Home Office (UK Government)",
+        "Company city": "London",
+        "Company state": "",
+        "Affected population": [
+            "Individuals subject to immigration control"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Nationality"
+            ]
+        },
+        "Area of AI Application": "Sham marriage detection",
+        "Online": "No"
+    }
+}

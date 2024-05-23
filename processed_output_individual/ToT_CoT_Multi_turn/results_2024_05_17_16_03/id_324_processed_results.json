@@ -1,0 +1,32 @@
+{
+    "324": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "The BL",
+        "Company city": "Middletown",
+        "Company state": "New York",
+        "Affected population": [
+            "Users of Facebook and Instagram"
+        ],
+        "Number of people actually affected": "55 million",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Textual",
+                "Image"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Social Media Manipulation",
+        "Online": "Yes"
+    }
+}

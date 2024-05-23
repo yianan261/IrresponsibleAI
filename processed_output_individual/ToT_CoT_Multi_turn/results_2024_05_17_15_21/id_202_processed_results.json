@@ -1,0 +1,28 @@
+{
+    "202": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "DeepBrain AI",
+        "Company city": "Seoul",
+        "Company state": "",
+        "Affected population": [
+            "Voters in South Korea"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Political Campaigning",
+        "Online": "Yes"
+    }
+}

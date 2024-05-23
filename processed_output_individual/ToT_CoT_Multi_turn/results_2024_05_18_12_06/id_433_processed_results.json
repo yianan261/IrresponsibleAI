@@ -1,0 +1,38 @@
+{
+    "433": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Chicago Police Department",
+        "Company city": "Chicago",
+        "Company state": "Illinois",
+        "Affected population": [
+            "Residents of Chicago"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Interaction",
+                "Feedback loop",
+                "Optimization function"
+            ],
+            "Administrative": []
+        },
+        "Area of AI Application": "Predictive Policing",
+        "Online": "No"
+    }
+}

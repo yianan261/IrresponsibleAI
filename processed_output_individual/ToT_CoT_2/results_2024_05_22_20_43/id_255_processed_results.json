@@ -1,0 +1,46 @@
+{
+    "255": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "SoundThinking, Inc.",
+        "Company city": "Fremont",
+        "Company state": "California",
+        "Affected population": [
+            "Gunshot wound victims",
+            "Police departments"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Textual"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Other"
+            ],
+            "Algorithmic bias": [
+                "Other"
+            ],
+            "Administrative": [],
+            "Technical": [],
+            "Facial": [],
+            "Textual": [],
+            "Image": [],
+            "Video": [],
+            "Audio": []
+        },
+        "Area of AI Application": "Gunshot Location Detection",
+        "Online": "No"
+    }
+}

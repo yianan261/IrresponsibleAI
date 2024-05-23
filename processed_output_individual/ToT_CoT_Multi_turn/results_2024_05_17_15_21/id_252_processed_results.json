@@ -1,0 +1,28 @@
+{
+    "252": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Axon Enterprise",
+        "Company city": "Scottsdale",
+        "Company state": "Arizona",
+        "Affected population": [
+            "Students, School Staff"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Environmental Impact"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Security and Defense",
+        "Online": "No"
+    }
+}

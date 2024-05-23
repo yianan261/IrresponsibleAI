@@ -1,0 +1,38 @@
+{
+    "98": {
+        "Country": "United States",
+        "State": "New York",
+        "City": "New York",
+        "Continent": "North America",
+        "Company": "Boston Dynamics",
+        "Company city": "Waltham",
+        "Company state": "Massachusetts",
+        "Affected population": [
+            "Residents of public housing",
+            "General public"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Other": []
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Law enforcement",
+        "Online": "No"
+    }
+}

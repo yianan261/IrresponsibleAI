@@ -1,0 +1,39 @@
+{
+    "420": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "OpenAI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": "Users of AI technology, developers, programmers, general public",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race",
+                "Nationality"
+            ],
+            "Algorithmic bias": [
+                "Nationality"
+            ],
+            "Textual": []
+        },
+        "Area of AI Application": "Text generation",
+        "Online": "Yes"
+    }
+}

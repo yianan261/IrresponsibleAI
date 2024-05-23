@@ -1,0 +1,33 @@
+{
+    "382": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "YouTube",
+        "Company city": "San Bruno",
+        "Company state": "California",
+        "Affected population": [
+            "Children",
+            "Parents",
+            "Regulators",
+            "Advertisers",
+            "Law enforcement"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": {
+            "Textual": []
+        },
+        "Area of AI Application": "Content filtering",
+        "Online": "Yes"
+    }
+}

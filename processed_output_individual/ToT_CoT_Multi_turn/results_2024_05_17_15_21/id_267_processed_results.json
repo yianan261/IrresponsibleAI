@@ -1,0 +1,35 @@
+{
+    "267": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Clearview AI",
+        "Company city": "Manhattan",
+        "Company state": "New York",
+        "Affected population": [
+            "Law enforcement agencies",
+            "Social media users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Data bias",
+            "Algorithmic bias",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Data bias": [
+                "Race",
+                "Demographic"
+            ],
+            "Algorithmic bias": [
+                "Interaction"
+            ],
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Facial Recognition",
+        "Online": "No"
+    }
+}

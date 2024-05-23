@@ -1,0 +1,27 @@
+{
+    "254": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Illinois residents"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Pseudoscience"
+        ],
+        "Subclasses": {
+            "Pseudoscience": [
+                "Facial"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Facial recognition",
+        "Online": "No"
+    }
+}

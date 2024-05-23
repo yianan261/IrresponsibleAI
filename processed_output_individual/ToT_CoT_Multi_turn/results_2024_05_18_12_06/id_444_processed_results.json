@@ -1,0 +1,28 @@
+{
+    "444": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "US Air Force",
+        "Company city": "Arlington",
+        "Company state": "Virginia",
+        "Affected population": [
+            "Flight Lieutenants Kevin Main and David Williams"
+        ],
+        "Number of people actually affected": 2,
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Technical"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Military defense",
+        "Online": "No"
+    }
+}

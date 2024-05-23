@@ -1,0 +1,27 @@
+{
+    "219": {
+        "Country": "South Africa",
+        "State": "KwaZulu-Natal",
+        "City": "Pietermaritzburg",
+        "Continent": "Africa",
+        "Company": "Ezemvelo KZN Wildlife",
+        "Company city": "Pietermaritzburg",
+        "Company state": "KwaZulu-Natal",
+        "Affected population": [
+            "Rhinos in Hluhluwe-iMfolozi Park"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "4",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Surveillance",
+        "Online": "No"
+    }
+}

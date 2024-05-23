@@ -1,0 +1,27 @@
+{
+    "201": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Extinction Rebellion Belgium",
+        "Company city": "Brussels",
+        "Company state": "",
+        "Affected population": [
+            "Belgian Prime Minister, Citizens of Belgium"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Video"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Deepfake technology",
+        "Online": "Yes"
+    }
+}

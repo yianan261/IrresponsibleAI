@@ -1,0 +1,31 @@
+{
+    "429": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "SoundThinking, Inc.",
+        "Company city": "Fremont",
+        "Company state": "California",
+        "Affected population": [
+            "Residents of high-crime areas"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Pseudoscience"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Pseudoscience": [
+                "Other"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Gunshot detection",
+        "Online": "No"
+    }
+}

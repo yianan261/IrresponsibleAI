@@ -1,0 +1,27 @@
+{
+    "137": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Israeli Tax Authority",
+        "Company city": "Negev desert",
+        "Company state": "Israel",
+        "Affected population": [
+            "Farmers in Israel"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Taxation",
+        "Online": "No"
+    }
+}

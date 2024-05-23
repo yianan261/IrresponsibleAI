@@ -1,0 +1,25 @@
+{
+    "406": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Facebook",
+        "Company city": "Menlo Park",
+        "Company state": "California",
+        "Affected population": [
+            "Patients of Psychiatrist"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Privacy Violation"
+        ],
+        "Subclasses": {
+            "Privacy Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Social Networking",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "196": {
+        "Country": "Pakistan",
+        "State": "",
+        "City": "Islamabad",
+        "Continent": "Asia",
+        "Company": "National Database and Registration Authority (NADRA)",
+        "Company city": "Islamabad",
+        "Company state": "",
+        "Affected population": [
+            "Citizens of Pakistan"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative",
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Identification Systems",
+        "Online": "No"
+    }
+}

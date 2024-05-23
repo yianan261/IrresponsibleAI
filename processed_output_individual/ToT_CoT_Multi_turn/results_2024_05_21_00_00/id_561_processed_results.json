@@ -1,0 +1,29 @@
+{
+    "561": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "OpenAI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Internet users, including children of all ages"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds of millions",
+        "Class of irresponsible AI use": [
+            "Privacy Violation",
+            "Negligence",
+            "Larceny"
+        ],
+        "Subclasses": {
+            "Privacy Violation": [],
+            "Negligence": [],
+            "Larceny": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Language Model Training",
+        "Online": "Yes"
+    }
+}

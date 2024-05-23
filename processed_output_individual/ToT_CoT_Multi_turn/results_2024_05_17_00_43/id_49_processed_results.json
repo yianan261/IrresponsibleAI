@@ -1,0 +1,35 @@
+{
+    "49": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Insilico Medicine",
+        "Company city": "Moscow",
+        "Company state": "Russian Federation",
+        "Affected population": [
+            "Participants in Beauty.AI contest"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "60,000",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race"
+            ]
+        },
+        "Area of AI Application": "Beauty contest judging",
+        "Online": "No"
+    }
+}

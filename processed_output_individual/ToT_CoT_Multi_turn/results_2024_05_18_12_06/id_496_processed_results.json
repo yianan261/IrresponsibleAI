@@ -1,0 +1,31 @@
+{
+    "496": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Women affected by deepfake porn"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Mental Health",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Image"
+            ],
+            "Mental Health": [],
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Image manipulation",
+        "Online": "Yes"
+    }
+}

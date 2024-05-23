@@ -1,0 +1,27 @@
+{
+    "38": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Frontier Communications",
+        "Company city": "Dallas",
+        "Company state": "Texas",
+        "Affected population": [
+            "Players of Elite Dangerous game"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Gaming AI",
+        "Online": "Yes"
+    }
+}

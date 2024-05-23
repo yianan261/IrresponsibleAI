@@ -1,0 +1,29 @@
+{
+    "373": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Michigan Integrated Data Automated System (MiDAS)",
+        "Company city": "Michigan",
+        "Company state": "Michigan",
+        "Affected population": [
+            "Unemployment Insurance Claimants"
+        ],
+        "Number of people actually affected": "Thousands",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Privacy Violation",
+            "Social Security Interference"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Welfare Benefits Programs",
+        "Online": "No"
+    }
+}

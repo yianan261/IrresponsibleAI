@@ -1,0 +1,35 @@
+{
+    "83": {
+        "Country": "Worldwide",
+        "State": "Washington",
+        "City": "Redmond",
+        "Continent": "Worldwide",
+        "Company": "Microsoft Corporation",
+        "Company city": "Redmond",
+        "Company state": "Washington",
+        "Affected population": [
+            "Email users using Microsoft Outlook and SpamAssassin"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race"
+            ]
+        },
+        "Area of AI Application": "Email filtering",
+        "Online": "No"
+    }
+}

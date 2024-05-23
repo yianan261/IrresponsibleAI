@@ -1,0 +1,29 @@
+{
+    "138": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Students, Faculty"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Copyright Violation",
+            "Privacy Invasion",
+            "Accessibility Concerns"
+        ],
+        "Subclasses": {
+            "Copyright Violation": [],
+            "Privacy Invasion": [],
+            "Accessibility Concerns": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Exam Proctoring",
+        "Online": "Yes"
+    }
+}

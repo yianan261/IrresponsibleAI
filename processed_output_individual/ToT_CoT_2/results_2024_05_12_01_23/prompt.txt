@@ -1,0 +1,646 @@
+
+        You are three expert academic researchers trying to categorize and classify a list of incidents of irresponsible use of artificial intelligence technology.    
+        Given the aggregated news article texts on relevant incidents, each of the three experts will fill out the following classifications. Their responses are well-thought-out responses that are well-supported by the article text.
+        The experts will share their reasoning for all their classifications.
+        Each expert will share their thought process in detail, taking into account the previous thoughts of other and admitting any errors. 
+        For each classificaiton field, the experts will create a breadth-first search of the tree of probable classifications and will vote on which of their classification is the most well-supported by the article text.
+        1. The experts will take a look at this taxonomy:
+        ```taxonomy
+          
+{
+                    "Discrimination": {
+                        "Data bias": [
+                        "Gender",
+                        "Race",
+                        "Sexual Orientation",
+                        "Economic"
+                        ],
+                        "Algorithmic bias": [
+                        "Interaction",
+                        "Feedback loop",
+                        "Optimization function",
+                        "Other"
+                        ]
+                    },
+                    "Human Incompetence": {
+                        "Administrative": [],
+                        "Technical": []
+                    },
+                    "Pseudoscience": {
+                        "Facial": []
+                    },
+                    "Environmental Impact": {},
+                    "Disinformation": {
+                        "Textual": [],
+                        "Image": [],
+                        "Video": [],
+                        "Audio": []
+                    },
+                    "Copyright Violation": {},
+                    "Mental Health": {},
+                    "Other": {}
+                    }
+
+
+        ```, take a look at this example:
+        ==============start of EXAMPLE 1===============
+         step 1. Read article text. For an example article such as: 
+        ```start of example article 1```
+        
+ARTICLE TITLE: TayBot
+Yesterday, something that looks like a big failure has happened: Microsoft’s chatbot Tay has been taken offline after a series of offending tweets. And here’s how the social media has responded:
+
+Keywords associated with "Artificial Intelligence" throughout the day. "Microsoft" and "dangerous" are on the rise.
+
+We will not mention the racist and otherwise offensive content that Tay learned from people, as it’s not as newsworthy as it seems… Especially considering that it’s so easy to "teach" and ask her to repeat something.
+
+Let’s take a look at Microsoft’s official website "tay.ai" to see how they describe Tay’s objectives… The first thing we notice is that, Microsoft wants you to not take it too seriously, because On Tay’s Twitter account, they provided a link to Tay’s "about" page -that lists the following frequently asked questions-, rather than the regular home page.
+
+"Entertainment purposes only"
+
+The FAQ page seems to be far from covering what people really want to know about Tay, but one thing is clear: Tay doesn’t claim to be a smart bot capable of reasoning. She just wants to have small talk with youngsters.
+
+And here’s a list of "Things to do with Tay". (Along with the sad "Going offline for a while" message with a black background.)
+
+Is this really what 18 to 24 year olds expect from a chatbot?
+
+We know by (9 years of) experience that, the most important thing to do before releasing a chatbot is to plan a strategy to make sure you communicate the content domain properly, so that you can set the expectations right. Since perception is everything, nothing else matters. Remember the success of the YO! app? That’s the content domain we’re talking about. As long as people get it, you can get away with just one word.
+
+Title of the website, apparently wasn’t enough to convey Tay’s mission:
+
+Tay is an artificial intelligence chat bot designed to engage and entertain through casual and playful conversation
+
+Some more description from the "about" page:
+
+Tay has been built by mining relevant public data and by using AI and editorial developed by a staff including improvisational comedians. Public data that’s been anonymized is Tay’s primary data source. That data has been modeled, cleaned and filtered by the team developing Tay.
+
+Noticed the "comedians" part? And the fact that possibly terrabytes of data being cleaned and filtered manually, sounds problematic, even with the most efficient method one can imagine.
+
+Let’s take a look at what her conversations were all about. Source: foller.me
+
+Tay has only 3 tweets addressing all her followers. 96.000 tweets are mentions.
+
+So, the keyword cloud seems to be consistent with the goal: Common keywords such as "chattin, pix, selfie, pics, omg, love" represents a mixture of Justin Bieber & Kim Kardashian profiles.
+
+And here’s the three hashtags that Tay has been using so frequently:
+
+Microsoft engineers don’t seem to have spent much time coming up with creative hashtags.
+
+The way she uses them, didn’t make sense to us, though. So this is what Microsoft thinks Tay’s followers would find entertaining?. Microsoft’s attempt to converse with millennials using an artificial intelligence bot plugged into Twitter made a short-lived return on Wednesday, before bowing out again in some sort of meltdown.
+
+
+
+The learning experiment, which got a crash-course in racism, Holocaust denial and sexism courtesy of Twitter users, was switched back on overnight and appeared to be operating in a more sensible fashion. Microsoft had previously gone through the bot’s tweets and removed the most offensive and vowed only to bring the experiment back online if the company’s engineers could “better anticipate malicious intent that conflicts with our principles and values”.
+
+However, at one point Tay tweeted about taking drugs, in front of the police, no less.
+
+Microsoft's sexist racist Twitter bot @TayandYou is BACK in fine form pic.twitter.com/nbc69x3LEd — Josh Butler (@JoshButler) March 30, 2016
+
+Tay then started to tweet out of control, spamming its more than 210,000 followers with the same tweet, saying: “You are too fast, please take a rest …” over and over.
+
+I guess they turned @TayandYou back on... it's having some kind of meltdown. pic.twitter.com/9jerKrdjft — Michael Oman-Reagan (@OmanReagan) March 30, 2016
+
+Microsoft responded by making Tay’s Twitter profile private, preventing anyone from seeing the tweets, in effect taking it offline again.
+
+
+
+Tay is made in the image of a teenage girl and is designed to interact with millennials to improve its conversational skills through machine-learning. Sadly it was vulnerable to suggestive tweets, prompting unsavoury responses.
+
+This isn’t the first time Microsoft has launched public-facing AI chatbots. Its Chinese XiaoIce chatbot successfully interacts with more than 40 million people across Twitter, Line, Weibo and other sites but the company’s experiments targeting 18- to 24-year-olds in the US on Twitter has resulted in a completely different animal.. Microsoft has said it is “deeply sorry” for the racist and sexist Twitter messages generated by the so-called chatbot it launched this week.
+
+
+
+The company released an official apology after the artificial intelligence program went on an embarrassing tirade, likening feminism to cancer and suggesting the Holocaust did not happen.
+
+The bot, known as Tay, was designed to become “smarter” as more users interacted with it. Instead, it quickly learned to parrot a slew of anti-Semitic and other hateful invective that human Twitter users fed the program, forcing Microsoft Corp to shut it down on Thursday .
+
+Following the disastrous experiment, Microsoft initially only gave a terse statement, saying Tay was a “learning machine” and “some of its responses are inappropriate and indicative of the types of interactions some people are having with it.”
+
+But the company on Friday admitted the experiment had gone badly wrong. It said in a blog post it would revive Tay only if its engineers could find a way to prevent Web users from influencing the chatbot in ways that undermine the company’s principles and values.
+
+
+
+“We are deeply sorry for the unintended offensive and hurtful tweets from Tay, which do not represent who we are or what we stand for, nor how we designed Tay,” wrote Peter Lee, Microsoft’s vice president of research.
+
+Microsoft created Tay as an experiment to learn more about how artificial intelligence programs can engage with Web users in casual conversation. The project was designed to interact with and “learn” from the young generation of millennials.
+
+Tay began its short-lived Twitter tenure on Wednesday with a handful of innocuous tweets.
+
+c u soon humans need sleep now so many conversations today thx💖 — TayTweets (@TayandYou) March 24, 2016
+
+Then its posts took a dark turn.
+
+In one typical example, Tay tweeted: “feminism is cancer,” in response to another Twitter user who had posted the same message.
+
+View image in fullscreen Tay tweeting Photograph: Twitter/Microsoft
+
+Lee, in the blog post, called web users’ efforts to exert a malicious influence on the chatbot “a coordinated attack by a subset of people.”
+
+“Although we had prepared for many types of abuses of the system, we had made a critical oversight for this specific attack,” Lee wrote. “As a result, Tay tweeted wildly inappropriate and reprehensible words and images.”
+
+Microsoft has deleted all but three of Tay’s tweets.
+
+Microsoft has enjoyed better success with a chatbot called XiaoIce that the company launched in China in 2014. XiaoIce is used by about 40 million people and is known for “delighting with its stories and conversations,” according to Microsoft.
+
+As for Tay? Not so much.
+
+“We will remain steadfast in our efforts to learn from this and other experiences as we work toward contributing to an Internet that represents the best, not the worst, of humanity,” Lee wrote.
+
+Reuters contributed to this report. When Tay started its short digital life on March 23, it just wanted to gab and make some new friends on the net. The chatbot, which was created by Microsoft’s Research department, greeted the day with an excited tweet that could have come from any teen: “hellooooooo w🌎rld!!!”
+
+Within a few hours, though, Tay’s optimistic, positive tone had changed. “Hitler was right I hate the jews,” it declared in a stream of racist tweets bashing feminism and promoting genocide. Concerned about their bot’s rapid radicalization, Tay’s creators shut it down after less than 24 hours of existence.
+
+
+        ```end of example article 1```
+        step 2. Reason for the classifications: 
+        Here is the reasoning for its classifications:
+        ```start of response reasoning```
+        
+     {"Country": "Worldwide", reasoning-> Twitter can be accessed from many countries.
+        "State": "", reasoning-> The incident happened worldwide, not specific to one state, not applicable so leave blank.
+        "City": "", reasoning-> The incident happened worldwide, not specific to one city, not applicable so leave blank.
+        "Continent": "Worldwide", reasnoning-> Twitter can be accessed from many countries.
+        "Company": "Microsoft", reasoning-> Microsoft is the company causing the issue in the article. From the article, we see 'Microsoft’s chatbot Tay', 'Microsoft's sexist racist Twitter bot @TayandYou'...etc. Microsoft is the company in question here.
+        "Company city": "Redmond", reasoning-> Microsoft is headquartered in Redmond, Washington
+        "Company state": "Washington", reasoning-> Microsoft is headquartered in Redmond, which is in state Washington
+        "Affected population": ["Twitter Users", "Online Community"], reasoning -> Twitter users and people online can see the tweet and news and those are the affected population
+        "Number of people actually affected": "Unknown", reasoning -> We don't know the exact number from the articles
+        "Number of people potentially affected": "Millions", reasoning -> There are millions of Twitter users and wider online community. We estimate millions were affected.
+        "Class of irresponsible AI use": 
+            "Disinformation", reasoning-> Tweeting that the Holocaust didn't exist, and that feminism is cancer, for examples, is spreading non-factual disinformation.
+            "Discrimination", reasoning->  Tay tweeted discriminatory texts about feminists and Jews.
+        ,            
+        "Subclasses": [
+            "Disinformation-> Textual", reasoning-> The disinformation subclasses in the taxonomy includes 'textual, audio, image, video'. The most appropriate subclass here is "textual" since "Tweets" are texts on a social platform.
+            "Discrimination-> Data bias, Algorithmic bias", reasoning-> The subclasses of 'discrimination' according to the taxonomy includes 'data bias', and 'algorithmic bias'. The discriminatory tweets could be caused by inbalanced data (data bias) that was used to train the model or poor algorithmic design (algorithmic bias).
+        ],
+        "Sub-subclass": [ 
+        "Data bias"->"gender, race, other", reasoning-> The sub-subclasses of 'data bias' in the taxonomy includes 'gender, race, sexual orientation, economic, and other'. We have support in the article for potential gender data bias (it tweets about feminism being cancer), race (it tweets that it hates Jews), other (potentially other bias not in the list).
+        "Algorithmic bias"-> "feedback loop, optimization function, other", reasoning-> The sub-subclasses of 'algorithmic bias' in the taxonomy includes 'interaction, feedback loop, optimization function, and other'. Since the chatbot is an AI bot, we can reason that there could be an issue with the feedback loop in its system, or perhaps an issue with optimization function, or other algorithmic issues that causes algorithmic bias.
+        ],
+        "Area of AI Application": "Chatbot", reasoning-> from the article text 'Tay is an artificial intelligence chat bot designed to engage and entertain through casual and playful conversation'
+        "Online": "Yes", reasonoing-> Tay is a chatbot online that uses Twitter, which is an online social media platform
+      }  
+        
+
+        ```end of response reasoning```
+        step 3. generate expected output 
+        ```start of output example```
+        
+     {
+        "Country": "Worldwide", 
+        "State": "", 
+        "City": "", 
+        "Continent": "Worldwide",
+        "Company": "Microsoft", 
+        "Company city": "Redmond",
+        "Company state": "Washington",
+        "Affected population": ["Twitter Users", "Online Community"],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Discrimination",
+        ],
+        "Subclasses": {
+            "Disinformation":["Textual"],
+            "Discrimination":["Data bias","Algorithmic bias"],
+        },
+        "Sub-subclass": {
+        "Data bias":["gender","race","other"],
+        "Algorithmic bias":["feedback loop", "other"]
+        },
+        "Area of AI Application": ["Chatbot"],
+        "Online": "Yes"
+      }
+
+        ```end of output example```
+        ============== end of example 1 =================
+        Here's another example:
+        ==============start of EXAMPLE 2===============
+         step 1. Read article text. For an example article such as: 
+        ```start of example article 2```
+        
+ARTICLE TITLE: Google’s YouTube Kids App Presents Inappropriate Content
+Google-owned YouTube has apologised again after more disturbing videos surfaced on its YouTube Kids app.
+
+Investigators found several unsuitable videos including one of a burning aeroplane from the cartoon Paw Patrol and footage explaining how to sharpen a knife.
+
+YouTube has been criticised for using algorithms to sieve through material rather than using human moderators to judge what might be appropriate.
+
+There have been hundreds of disturbing videos found on YouTube Kids in recent months that are easily accessed by children.
+
+These videos have featured horrible things happening to various characters, including ones from the Disney movie Frozen, the Minions franchise, Doc McStuffins and Thomas the Tank Engine.
+
+Parents, regulators, advertisers and law enforcement have become increasingly concerned about the open nature of the service.
+
+Scroll down for video
+
+YouTube has apologised again after more disturbing videos surfaced on its YouTube Kids app. Investigators found several unsuitable videos including one from the cartoon Paw Patrol on a burning aeroplane and footage showing how to sharpen a knife
+
+A YouTube spokesperson has admitted the company needs to 'do more' to tackle inappropriate videos on their kids platform.
+
+This investigation is the latest to expose inappropriate content on the video-sharing site which has been subject to a slew of controversies since its creation in 2005.
+
+As part of an in-depth investigation by BBC Newsround, Google's Public Policy Manager Katie O'Donovan met five children who told her about the distressing videos they had seen on the site.
+
+They included videos showing clowns covered in blood and messages warning them there was someone at the door.
+
+Ms O'Donovan said she was 'very, very sorry for any hurt or discomfort'.
+
+'We've actually built a whole new platform for kids, called YouTube Kids, where we take the best content, stuff that children are most interested in and put it on there in a packaged up place just for kids,' she said.
+
+It normally takes five days for supposedly child-friendly content like cartoons to get from YouTube to YouTube Kids.
+
+Within that window it is hoped users and a specially-trained team will flag disturbing content.
+
+Once it has been flagged and reviewed, it won't appear on the YouTube Kids app and only people who are signed in and older than 18 years old will be able to view it.
+
+The company say thousands of people will be working around the clock to flag content.
+
+However, as part of the investigation Newsround revealed there are still lots of inappropriate videos on the Kids section.
+
+'We have seen significant investment in building the right tools so people can flag that [content], and those flags are reviewed very, very quickly', Ms O'Donovan said.
+
+'We're also beginning to use machine learning to identify the most harmful content, which is then automatically reviewed.'
+
+The problem was managing an open platform where content is uploaded straight onto the site, she added.
+
+'It is a difficult environment because things are moving so, so quickly', said Ms O'Donovan.
+
+'We have a responsibility to make sure the platform can survive and can thrive so that we have a collection that comes from around the world on there'.
+
+By the end of last year YouTube said it had removed more than 50 user channels and had stopped running ads on more than 3.5 million videos since June.
+
+'Content that endangers children is unacceptable to us and we have clear policies against such videos on YouTube and YouTube Kids', a YouTube spokesperson told MailOnline.
+
+'When we discover any inappropriate content, we quickly take action to remove it from our platform.
+
+'Over the past few months, we've taken a series of steps to tackle many of the emerging challenges around family content on YouTube, including: tightening enforcement of our Community Guidelines, age-gating content that inappropriately targets families, and removing it from the YouTube Kids app.'
+
+YouTube has been criticised for using algorithms to sieve through material rather than using human moderators to judge what might be appropriate (stock image)
+
+In March, a disturbing Peppa Pig fake, found by journalist Laura June, shows a dentist with a huge syringe pulling out the character's teeth as she screams in distress.
+
+Mrs June only realised the violent nature of the video as her three-year-old daughter watched it beside her.
+
+'Peppa does a lot of screaming and crying and the dentist is just a bit sadistic and it's just way, way off what a three-year-old should watch,' she said.
+
+'But the animation is close enough to looking like Peppa - it's crude but it's close enough that my daughter was like 'This is Peppa Pig.''
+
+Another video depicted Peppa Pig and a friend deliberately burning down a house with someone in it.
+
+All of these videos are easily accessed by children through YouTube's search results or recommended videos.
+
+But the channel's videos include titled such as 'FROZEN ELSA HUGE SNOT', 'NAKED HULK LOSES HIS PANTS' and 'BLOODY ELSA: Frozen Elsa's Arm is Broken by Spiderman'.
+
+Many of the videos feature graphic violence and toiler humour not appropriate for children.
+
+
+        ```end of example article 2```
+        step 2. Reason for the classifications (remember you are three experts and vote on the best classification): 
+        Here is the reasoning for its classifications:
+        ```start of response reasoning```
+        
+  {
+    "Country": "Worldwide", reasoning-> Youtube, including Youtube Kids, can be accessed in many countries. Though the incident is reported in the U.S., it doesn't mean the problem is limited to only the U.S..
+    "State": "", reasoning-> The incident is nation-wide in the United States, not specific to one state, so leave blank.
+    "City": "", reasoning-> The incident is nation-wide in the United States, not specific to one city, so leave blank.
+    "Continent": "Worldwide", reasoning-> Youtube, including Youtube Kids, can be accessed in many countries. Though the incident is reported in the U.S., it doesn't mean the problem is limited to only the U.S.; therefore the result should be 'Worldwide' for continent.
+    "Company": "Google LLC", reasoning-> Youtube is the company causing the issue in the article. Youtube is a subsidiary under Google, therefore the company is Google.
+    "Company city": "Mountain View", reasoning-> Youtube is a subsidiary under Google and Google is headquartered in Mountain View.
+    "Company state": "California", reasoning-> Mountain View is a city in the California state.
+    "Affected population": ["Children on Youtube"], reasoning-> The incident affects children on youtube directly.
+    "Number of people actually affected": "Unknown", reasoning-> There is no record of an actual number in the article text, we cannot know how many people are directly affected.
+    "Number of people potentially affected": "Millions", reasoning-> There are millions of Youtube Kids subscribers at the time of the event. We estimate millions were affected.
+    "Class of irresponsible AI use": "Disinformation", "Human Incompetence", "Mental Health", "Copyright Violation"], reasoning-> The classes in the taxonomy include "discrimination,human incompetence, psuedoscience, environmental impact, disinformation, copyright violation, mental health".
+    We choose "Human Incompetence" because the engineers and administrators behind the platform have not well-regulated the videos, causing such an issue.
+    "Mental Health" because the disturbing videos could potentially affect children's mental health.
+    "Copyright Violation" because the videos use characters without permission such as Mickey Mouse and Elsa from Disney, and Peppa Pig fakes to portray disturbing acts in videos.
+    "Subclasses": {
+      "Human Incompetence":["Technical"], reasoning-> The subclasses of 'human incompetence' in the taxonomy example include 'technical' and 'administrative'. In this case it seems to be technical incomptence that allowed this type of inappropriate content to surface.
+      "Mental Health":[], reasoning-> 'Mental health' doesn't have a subclass in the taxonomy, so it should be left empty.
+      "Copyright Violation":[], reasoning-> 'Copyright Violation' doesn't have a subclass in the taxonomy, so it should be left empty.
+    },
+    "Sub-subclass": [], reasoning-> There are no sub-subclasses of the subclasses listed in the taxonomy, therefore this field should be left empty.
+    "Area of AI Application": "content filtering", reasoning-> The area of AI application here is content filtering.
+    "Online": "Yes", reasoning-> Youtube is an online platform, therefore this incident is in fact an online incident.
+  },
+
+        ```end of response reasoning```
+        step 3. generate expected output 
+        ```start of output example```
+         
+  {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Children on Youtube"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Class of irresponsible AI use": ["Human Incompetence", "Mental Health", "Copyright Violation"],
+    "Subclasses": {
+      "Human Incompetence":["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "content filtering",
+    "Online": "Yes"
+  }
+
+        ```end of output example```
+        ============== end of example 2=================
+
+        IMPORTANT TASK HERE:
+        STEP 1: Read the article text and keep this main article in mind:
+        ================== Start of Main Article Content =================
+        ARTICLE TITLE: Crashes with Maneuvering Characteristics Augmentation System (MCAS)
+By Stanley Widianto, Ashley Halsey III and Aaron Gregg | Washington Post
+
+JAKARTA, Indonesia – A malfunctioning sensor and an automated response from the aircraft’s software stymied pilots’ efforts to control a doomed Indonesian flight that went careening into the sea last month, according to a preliminary investigative report released Wednesday.
+The report, which stops short of determining the cause of the crash or analyzing findings, chronicles the chaotic moments on the Lion Air flight before it crashed into the waters off the coast of Java last month, killing all 189 passengers and crew on board.
+
+It details how sensors and other equipment were checked and fixed before the aircraft’s final flight, but not the “angle of attack” sensor. That measures where the nose is pointing and was showing erroneous readings throughout the short time the plane was airborne.
+
+With the sensor insisting the nose was too high, an automatic feature kicked in, sending the plane plummeting as the pilots wrestled to regain control. Unable to trust their readings, the pilots resorted to asking air traffic control about their speed and altitude.
+
+Lion Air Flight 610 plunged into the Java Sea on Oct. 29 just after taking off from the Indonesian capital, Jakarta, killing the eight crew members and 181 passengers on board, including a child and two infants.
+
+The crash appears to have been caused by a mix of brand new technology and cockpit confusion as the pilots fought to gain altitude after an early-morning takeoff from Jakarta. The flight crew – at an altitude of just 5,000 feet – had very little time to resolve the issue before the plane crashed into the sea at a reported 450 miles per hour.
+
+Though the report contains no conclusion assigning blame, its descriptions of automated systems overtaking the aircraft – leaving pilots both confused and powerless – poses questions for Boeing and Lion Air about whether the cockpit crew was prepared for this scenario. After the Lion Air crash, pilots in the United States accused Boeing of withholding safety information on its new 737 model.
+
+The aircraft’s pilots asked to return to Jakarta just two minutes after takeoff, reporting a “flight-control problem” but not specifying what it was.
+
+Black-box data released by Indonesian investigators showed that the pilots were pulling back on the control column, attempting to raise the plane’s nose, with almost 100 pounds of pressure before they crashed.
+
+The Indonesian National Transportation Safety Committee, which produced the report, also said that Lion Air, a Jakarta-based low-cost airline, should improve its “safety culture.”
+
+No engineer briefed the pilots of the crashed plane on the multiple problems the aircraft experienced on previous flights, and it was up to him to review the maintenance logs.
+
+The report, however, contains no conclusion on who was at fault.
+
+“When it comes to faulting, I don’t know. Our job isn’t to find faults,” National Transportation Safety Committee investigator Nurcahyo Utomo said at a news conference Wednesday.
+
+The aircraft was the most recent incarnation of the venerable Boeing 737, a plane that first flew in 1967 and has gone through multiple iterations before it emerged as the 737 Max.
+
+The 737 Max was equipped with more-powerful engines that are mounted farther forward on the wing, requiring that additional software be added to the autopilot to provide more control.
+
+That software, which has been described as several lines of coding, was identified in the Boeing manual as the maneuvering characteristics augmentation system, or MCAS.
+
+When the sensors transmitted faulty data to the cockpit of Flight 610, the new MCAS system sensed a stall – that point at which planes do not have enough airspeed to create lift – and sought to correct for it by repeatedly pointing the nose of the aircraft down.
+
+A feature in previous 737 models that allowed pilots to manually override an “electric trimming” process – which automatically budges the nose downward to prevent a stall, does not work in Boeing’s 737 Max 8 planes, Boeing explained in a Nov. 7 bulletin.
+
+That same week, the Federal Aviation Administration issued an emergency notice to all airlines that fly the 737 Max, warning them that erroneous sensor inputs “could cause the flight crew to have difficulty controlling the airplane,” leading to “possible impact with terrain.”
+
+The deviation probably was caused by what is called a “runaway stabilizer.” Stabilizers are essentially those small wings on either side at the tail end of the plane. They each have flaps – called elevators – that help control the elevation of the plane.
+
+In case of a runaway stabilizer, pilots are instructed in the cockpit checklist to hold the control column firmly, disengaging the autopilot that, in this case, contained the MCAS program. Next, they are told, disengage the auto throttle and manually fly the plane.
+
+“This corner of the performance charts is called the ‘coffin corner,’ ” said Mary Schiavo, an aviation lawyer and former inspector general of the U.S. Transportation Department, “and good pilot training teaches you how to get out of coffin corner, but did these pilots realize the plane itself was putting them in coffin corner? Apparently not.”
+
+It is not clear whether the pilots attempted the runaway stabilizer procedure.
+
+Unions representing pilots at Southwest and American airlines said they were not properly informed about the new system during training.
+
+“We did not know this was on the Max models,” Southwest Airlines Pilots Association President Jon Weaks told The Washington Post in a Nov. 13 interview, referring to a new automated flight-control feature.
+
+The prospect that a runaway autopilot system could have contributed to the crash has already been the subject of at least one lawsuit implicating Boeing, with the father of a Lion Air Flight 610 crash victim filing suit recently.
+
+Soerjanto Tjahjono, who heads Indonesia’s National Transportation Safety Committee, said last week that the plane’s black box showed that “the technical problem was the airspeed, or the speed of the plane.” (The plane’s cockpit voice recorder has not been recovered.)
+
+“There were four flights that experienced problems with the airspeed indicator,” Tjahjono said. The angle-of-attack sensor contributes to the airspeed readings.
+
+In testimony before the Indonesian parliament last week, Utomo, the investigator, said that the anti-stall system had activated on the plane as it flew into Jakarta the night before the crash but that the pilots managed to shut it off.
+
+At the news conference Wednesday, Utomo said the plane, on both the doomed flight and the previous flight from Bali to Jakarta, had experienced a stick shaker – “a warning that showed that the plane was going to stall,” he said.
+
+The committee report said differing data between the sensors appeared rectified by cleaning an electrical plug the night before the crash, and a “test on the ground found the problem had been solved.”
+
+But it was not, the report concludes, because when the plane took off shortly after 6 a.m. the following morning, the two flight-speed sensors did not agree on the aircraft’s speed.
+
+The 737 Max is the most popular plane in Boeing history, with 453 delivered so far and 4,671 on order. It is flown or is on order by close to 40 airlines, with Lion Air in the process of receiving more than 200 of the jets.
+
+Boeing said Tuesday that it “continues to work closely with the U.S. National Transportation Safety Board as technical advisers to support the ongoing investigation” by the Indonesian authorities.
+
+The flights of Indonesia’s airlines to U.S. destinations were banned in the decade before 2016 because their safety record was considered abysmal by U.S. standards. The crash of the Lion Air flight was the worst in Indonesia since 1997, when 234 people died on the national airline Garuda in North Sumatra.
+
+Halsey and Gregg reported from Washington. Shibani Mahtani in Hong Kong contributed to this report.
+
+A previous version of this story incorrectly described the general reasons for a plane to stall during flight.. Photo by Gary Lopater on Unsplash
+
+Present day Air travel is one of the safest modes of travel. Statistics from the US Department of Transportation show that in 2007 and 2016 there were 11 fatalities per trillion miles of commercial air travel. This is in stark contrasts to the 7,864 fatalities per trillion miles of travel on the highway ( You can check the statistics here: fatalities and miles of travel per mode of transport). Incremental improvements to air travel is a marvel of technical innovation. However, when an aircraft accident does occur, we are forced to take notice due to the magnitude of a single event.
+
+Air travel today is at a level of technical maturity that when a plane crashes by accident (i.e not due to man-made causes like terrorism or misfiring of missiles), then it is surprisingly due not to pilot error or physical equipment failure but rather because of a computer error. That is, an aircraft accident is caused by a software bug.
+
+Everyone today is intimately familiar with software bugs. Microsoft blue screen of death and the use of ctrl-alt-delete have been burned into our experiences. Even in better designed operating systems that we find in smartphones, it’s is not uncommon to force a reboot. This is much less common that we often have to look up the procedure, but it does happen nevertheless.
+
+Software is notoriously difficult to make bug free. It is the nature of the beast. This is because, to build bug-free software systems, we need to explicitly list all the scenarios that can go wrong and how, and then test our software for those conditions. Unfortunately, that list tends to be unbounded if our designs don’t restrict the scope of a software’s applicability. In short, software developers are able to manage the unbounded complexity by narrowing the scope of applicability. That is why even the most sophisticated “artificial intelligent” applications work well in the most narrow of areas. It is very easy to get frustrated by the limitations of voice assistants like Alexa. That’s because AI technology has not reached the level of maturity that is required for open-ended general conversation. In short, bug-free depends fundamentally on a narrow scope of application and extensive testing within this narrow scope.
+
+As we build more sophisticated software that has higher degrees of complexity, we need to understand the scope of an application and an ever-increasing scope demands more on the testing of these systems. Thus to understand this complexity better, we need to understand the kinds of automation we are building.
+
+As I mentioned earlier, the USDOT shows that there were over 37,000 fatalities in highway accidents in 2017 alone. Thus it makes logical sense to understand how automation affects the safety of road vehicles. The Society of Automation Engineering (SAE) has an international standard which defines six levels of driving automation (SAE J3016). This is a useful framework for classifying the levels of automation in domains outside that of cars. A broader prescription is as follows:
+
+Level 0 (Manual Process)
+
+The absence of any automation.
+
+Level 1 (Attended Process)
+
+Users are aware of the initiation and completion of the performance of each automated task. The user may undo a task in the event of incorrect execution. Users, however, are responsible for the correct sequencing of tasks.
+
+Level 2 (Attended Multiple Processes)
+
+Users are aware of the initiation and completion of a composite of tasks. The user, however, is not responsible for the correct sequencing of tasks. An example will be the booking of a hotel, car, and flight. The exact ordering of the booking may not be a concern of the user. However, failure of the performance of this task may require more extensive manual remedial actions. An unfortunate example of a failed remedial action is the re-accommodation of United Airlines’ paying customer.
+
+Level 3 (Unattended Process)
+
+Users are only notified in exceptional situations and are required to do the work in these conditions. An example of this is in systems that continuously monitor the security of a network. Practitioners take action depending on the severity of an event.
+
+Level 4 (Intelligent Process)
+
+Users are responsible for defining the end goals of automation, however, all aspects of the process execution, as well as the handling of in-flight exceptional conditions, are handled by the automation. The automation is capable of performing appropriate compensating action in events of in-flight failure. The user however is still responsible for identifying the specific context in which automation can be safely applied to.
+
+Level 5 (Fully Automated Process)
+
+This is a final and future state where human involvement is no longer required in the processes. This, of course, may not be the final level because it does not assume that the process is capable of optimizing itself to make improvements.
+
+Level 6 (Self Optimizing Process)
+
+This is automation that requires no human involvement and is also capable of improving itself over time. This level goes beyond the SAE requirements but may be required in certain high-performance competitive environments such as Robocar races and stock trading.
+
+The automobiles of today have extremely sophisticated software that controls many parts of the functioning of the system. This software works at many levels and at each level the risks are different. Some software works at an extremely narrow scope that we are unaware that it is operating. So for example, a car’s fuel injection system is, in fact, fully automated. We can say this about many of the functions of a car that deals with its engine performance. So for example, many car enthusiasts buy programmers and chips that provide after-market tweaks on a car’s performance characteristics. Failure of any of these kinds of systems can still be fatal. SAE’s standards described above however apply to driving automation and not engine automation. There is a stark difference in automation that affect steering and automation that maintains the smooth running of engines.
+
+Automation such as traction control or car stabilization does affect steering. These are engaged in exceptional narrow conditions to ensure greater passenger safety. Controlled behavior is injected in a situation so that a driver can gain better control of a vehicle that he otherwise could not have done so himself. In this context, a driver is actually momentarily not controlling the car.
+
+There have been many cases of planes falling from the skies due to software bugs. My earliest memory of this kind of a catastrophe is Lauda Air Flight 004 in May 1991. This is when one of the engines reverse trusters engaged in mid-flight forcing the plane to spiral out of control and crash. There was no official conclusion as to the cause, however, the aviation writer Macarthur Job said that “had that Boeing 767 been of an earlier version of the type, fitted with engines that were controlled mechanically rather than electronically, then that accident could not have happened.”
+
+More recently, there is the case of Air France 447 in 2009. The official conclusion was that there was a “temporary inconsistency between the measured speeds, likely as a result of the obstruction of the pitot tubes by ice crystals, causing autopilot disconnection and reconfiguration.” The verdict was that the human pilots were eventually part of the fault due to their inability to react appropriately to the anomalous situation. To say this differently, the pilots received incorrect information from the instrumentation and thus took inappropriate action to stabilize the plane.
+
+There are other cases of computer caused failures. Qantas flight 72, it was determined that the CPU of the air data inertial reference unit (ADIRU) corrupted the angle of attack (AOA) data. Malaysia Air 124 that plunged 200 feet in midflight. The instrumentation displayed that the plane was “going too fast and too slow simultaneously”.
+
+In general, it is the responsibility for the pilots to properly perform compensating actions in the case of equipment failure (known as alternate law). The point though is that computer error due to equipment failure should be no different from regular equipment error and it is the responsibility of the pilots to take appropriate measures. Typically, on equipment error, the autopilot is disengaged and the plane is to be flown manually. This is Level 3 (unattended process) automation where the scope when automation is in play is explicit. In Level 3, a pilot is made aware of an exceptional condition and takes manual control of the plane.
+
+In Level 4 (intelligent process), a pilot must be able to recognize the exceptional condition and is able to specify when automation is applicable. Today, we have self-driving cars that are deployed in narrow applications. We have cars that can self-park and we have cars that can drive in good weather conditions on the highway. These are Level 4 automation where is up to the judgment of the driver to engage the automation. Autopilot in planes are Level 4 automation and is engaged in contexts of low complexity.
+
+Then there is the case of Boeing’s 737 Max 8’s MCAS. This I will argue is a Level 5 automation, this is a fully automated process wherein it is expected to function in all scenarios. Like electronics that control engine performance, fully automated processes aren’t generally problematic, however, when you involve driving (or steering for planes) then it opens up the question of the maturity of this level of automation.
+
+Airbus has what is called ‘Alpha Protection’:
+
+“Alpha protection” software is built into every Airbus aircraft to prevent the aircraft from exceeding its performance limits in angle of attack, and kicks in automatically when those limits are reached.
+
+From the definition, Alpha protection is automation that is always measuring, however, it isn’t always active. It is like a speed limiter that exits in cars today, it is constantly measuring, but is activated only when measurements exceed thresholds. However, what happens when the measurements are incorrect due to faulty sensors? One could argue that this might have been what happened to Air France 447. That is, the automation became active when the pilots did not expect it. Faulty sensors are always problematic, but faulty sensors that can trigger automated behavior can be extremely dangerous.
+
+The Boeing 737 Max 8 has a system known as Maneuvering Characteristics Augmentation System (MCAS). The business motivation behind MCAS is itself quite revealing. Apparently, it is analogous to a software patch that attempts to fix a physical flaw of the aircraft. The Boeing 737 aircraft, introduced in 1968, is an extremely mature and reliable aircraft. The 737 is the best selling aircraft in the world, selling over 10,000 aircraft since its inception. It is has been favored by many short-haul budget airlines that have risen in the past decade. Its main competitor in the Airbus A320, where over 8,000 planes have been delivered since its inception in 1988.
+
+In 2008, a joint American-French company CFM launched a more fuel and cost-efficient engine known as the Leap engine. Airbus fitted their new planes (Airbus A320neo) with this new engine. The reason behind the economy of the Leap engine is due to its much larger air intake diameter.
+
+To be competitive, the Max 8, was retrofitted also with this new engine. However, unlike the A320neo, there was not enough ground clearance for the Leap engine. To compensate for this problem, Boeing reduced the distance between the engine and the underside of the wing. This, however, had the effect of changing the center of mass of the plane. The Max 8 now had the dynamic tendency of raising its nose and as a consequence increasing the risk of a stall.
+
+To paper over this tendency, Boeing developed MCAS. The purpose of MCAS is that it is software dedicated to compensating for this flaw:
+
+Boeing engineers, in turn, came up with another makeshift solution. They developed a software that would work in the background. As soon as the nose of the aircraft pointed upward too steeply, the system would automatically activate the tailplane and bring the aircraft back to a safe cruising plane. The pilots wouldn’t even notice the software’s intervention — at least that was the idea.
+
+Employing software to paper over a plane’s natural instability is not new. Many of the more advanced fighter jets are designed to be unstable to ensure greater maneuverability. The fighter pilots are also trained to anticipate the peculiar flight characteristics of their planes. In contrast, there have been many complaints that pilots of the Max 8 were not properly informed of the existence of the MCAS system:
+
+“There are 1,400 pages and only one mention of the infamous Maneuvering Characteristics Augmentation System (MCAS) … in the abbreviations sections. But the manual does not include an explanation of what it is…”
+
+Perhaps Boeing determined that information about this system wasn’t worth attention by pilots. After all, the intention of the MCAS system was to make the 737 Max 8 to give the same “feel” as the previous model the 737 NG. This is what we call in software circles as virtualization. That is, this is software that renders a virtual machine on the pilot’s user interface to the plane so it feels and acts like another kind of plane (i.e. one that is structurally balanced).
+
+There is a “law” in software development knows as “The Law of Leaky Abstractions” which states “All non-trivial abstractions, to some degree, are leaky.” MCAS is perhaps a leaky abstraction, that is, it tries to creates a virtual abstraction of a legacy 737 NG without Leap engines, to hide an unbalanced airplane. Surely, nothing can leak with this kind of abstraction? It is one thing to abstract away virtual machinery and its entirely another thing to attempt to abstract away physical reality. However, in both cases, something will eventually leak through.
+
+So does the MCAS behave when its abstractions begin to leak? Here is what is reported by pilots of the plane:
+
+“On both the NG and the MAX, when you have a runaway trim stab this can be stopped temporarily by pulling the control column in the opposite direction. But when the MCAS is activated because of a high angle of attack, this can only be stopped by cutting the electrical trim motor.”
+
+How a pilot responds to an abstraction leak can be very different from that of the real thing it is trying to abstract. With faulty sensors, one can turn this off and use one’s understanding of the situation and the plane to make good decisions. However, when one’s understanding of the nature of the plane is virtual and not real, then you just can’t revert to reality. Reality is outside of the pilot’s comprehension and thus a cause to inproper decision making. A virtual trashcan works like a regular trash can in that you can still recover the documents you place in the trash before it is emptied. Reality however is very different than the virtual world, many times there is no undo function!
+
+Then there’s this leaky abstraction when the plane itself has exhibited its own intentions:
+
+But the EFS never acts by itself, so we were astounded when we heard what the real reason was. (…) However, in some cases — as happened on Flight 610 — the MCAS moves by itself.
+
+and this:
+
+MCAS is activated without pilot input and only operates in manual, flaps up flight.
+
+This is because, a virtual abstraction of a real plane, is the same as Level 5 automation! If MCAS is turned off, the pilots will find themselves to be flying an entirely different plane. When you abstract away interaction with reality, you cannot avoid introducing a process that mediates between a pilot’s action and the actual actions of the plane. The behavior of the real plane will depend on the environment that it is in. The behavior of a virtual plane will depend on just the working sensors that are available to render the virtual simulation. Level 5 automation requires a kind of intelligence that is aware of what sensors are faulty and furthermore is able to navigate a problem with partial and unobserved information. The smarts to enable this kind of Artificial Intelligence is simply not available in our current state of technological development.
+
+In short, Boeing has decided to implement technology that is simply too ambitious. Not all software has the same level of complexity. This is not an issue of insufficient testing to uncover logical flaws in the software. This is not an issue of robustly handling sensor and equipment failure. This is an issue of attempting to implement an overly ambitious and thus a dangerous solution.
+
+Air travel is extremely reliable, but introducing software patches as a means to virtualize physical behavior can lead to unintended consequences. The reason that we still fly planes with pilots in them is that we expect pilots to be able to solve unexpected situations that automation cannot handle. MCAS like virtualization, handcuffs pilots from differentiating between the real and the simulated. I would thus recommend to regulators that in the future, MCAS like virtualization should be treated and tested very differently from other automation. They should be treated as Level 5 automation with a more exhaustive level of scrutiny.
+
+Update December 2019
+
+Further Reading
+        ================== End of Main Article Content ===================
+        
+        Each expert's task is mainly the next classificaiton part. Each expert has to fill out the following fields according to the main article content.
+        STEP 2: State your reasons for your classifications for the following from the main article content:
+        =================Classification Fields====================
+        - Country (output "Worldwide" if the incident happened across multiple countries):
+        - State (State impacted by the incident; if not applicable leave blank):
+        - City (City impacted by the incident; if not applicable leave blank):
+        - Continent (output "Worldwide" if the incident happened across multiple countries):
+        - Company (i.e. the company that developed the technology involved in this incident):
+        - Company city (the city where the headquarters of this company is located):
+        - Company state (the state of the company city, if applicable, if not leave blank):
+        - Affected population (let's think about which groups of people are directly affected by the incident in the article.): 
+        - Number of people actually affected (let's check the number of people directly affected according to the article. Give a total number. If unknown output 'Unknown'):
+        - Number of people potentially affected (try to come up with an estimate number. let's think and estimate how many people might have been potentially affected by this incident):
+        - Classes of irresponsible AI use (Identify the classes of harm. Please follow the rules and refer to this taxonomy for the classes of harm): 
+        ```taxonomy classes
+                ["Discrimination",
+                    "Human Incompetence",
+                    "Pseudoscience",
+                    "Environmental Impact",
+                    "Disinformation",
+                    "Copyright Violation",
+                    "Mental Health",
+                    "Other"]
+                     
+        ```   
+        Rule1: There could be more than one classes the article classifies as. 
+        Rule2: DO NOT create your own class, adhere strictly to the provided list.
+        - Subclasses (Identify the subclasses IF applicable, not all `classes` have `subclasses`. You MUST adhere to this taxonomy structure `<class>:[<subclass>]`.):
+          ```taxonomy subclasses       
+                 
+                {
+                    "Discrimination": [
+                        "Data bias",
+                        "Algorithmic bias"
+                    ],
+                    "Human Incompetence": [
+                        "Administrative",
+                        "Technical"
+                    ],
+                    "Pseudoscience": [
+                        "Facial",
+                        "Other"
+                    ],
+                    "Environmental Impact":[],
+                    "Disinformation": [
+                        "Textual",
+                        "Image",
+                        "Video",
+                        "Audio",
+                    ],
+                    "Copyright Violation": [],
+                    "Mental Health": [],
+                    "Other": []
+                    }
+            
+          ```
+        Rule1 : The subclasses should be the children of the classes. Let's think about which sub-categories of the class/classes this article belong in. 
+        Rule2: DO NOT ADD subclass fields that are NOT in the provided taxonomy list
+        Rule3: If there is no subclass for a particular class in the taxonomy, leave it.
+        - Sub-subclass (Identify the sub-subclass IF applicable, not all `subclasses` have `sub-subclasses`. You MUST adhere to this taxonomy structure `<subclass>:[<sub-subclass>]`): 
+        ```taxonomy structure
+               
+                    {
+                        "Data bias": [
+                        "Gender",
+                        "Race",
+                        "Sexual Orientation",
+                        "Economic",
+                        "Other"
+                        ],
+                        "Algorithmic bias": [
+                        "Interaction",
+                        "Feedback loop",
+                        "Optimization function",
+                        "Other"
+                        ],
+                        "Administrative":[],
+                        "Technical":[],
+                        "Facial": [],
+                        "Textual": [],
+                        "Image": [],
+                        "Video": [],
+                        "Audio": []
+                    },
+
+                
+        ```
+        Rule1: Only find the sub-subclass relation in the provided taxonomy. The sub-subclass are children of subclass.
+        Rule2: DO NOT ADD OR CREATE sub-subclass fields that are not in the provided taxonomy list. 
+        Rule3: If a subclass in the taxonomy does not have a sub-subclass, leave it.
+        Rule4: If none of the subclasses have sub-subclasses, just leave the field empty e.g. sub-subclass:[]
+        - Area of AI Application (e.g. content filtering, surveillance, illness prediction):
+        - Online (yes or no):
+        =================Classification Fields====================
+        STEP 3: Each expert must follow the previous example steps and provide classification and reasoning for the main article content. The experts will discuss with each other their classification and reasoning and vote on the best one for each field.
+
+        Note to the experts: DO NOT make up your own field. If for some reason you are unable to extract information for a certain field, leave it blank. 
+
+        STEP 4: Check if your reasoning makes sense and is supported by the main article text. 
+        STEP 5: From this list of location candidates from Google Search API that returns search results on the city and state of the company, 
+            ```location candidates = [(0, "As of 2023, the Boeing Company's corporate headquarters is located in the Crystal City neighborhood of Arlington County, Virginia. ... The company is organized\xa0...", {'referrer': 'origin', 'og:image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Boeing_Virginia_Headquarters.jpg/1200px-Boeing_Virginia_Headquarters.jpg', 'theme-color': '#eaecf0', 'og:image:width': '1200', 'og:type': 'website', 'viewport': 'width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0', 'og:title': 'Boeing - Wikipedia', 'og:image:height': '800', 'format-detection': 'telephone=no'}), (1, 'May 5, 2022 ... At its Chicago office, less office space will be required for the employees who will continue to be based there. Boeing will adapt and modernize\xa0...', {'og:image': 'http://s2.q4cdn.com/661678649/files/design/BOEING-logo.png', 'og:type': 'website', 'og:image:width': '400', 'twitter:title': 'Boeing Names Northern Virginia Office Its Global Headquarters; Establishes Research & Technology Hub', 'viewport': 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0', 'twitter:description': '- DC-area location is close to Boeing\'s global customers and stakeholders - Boeing will develop a research & technology hub in Virginia to harness and attract engineering talent; hub to join the company\'s global engineering network Boeing [NYSE: BA] announced today that its Arlington, Virginia campus just outside Washington, D.C. will serve as the company\'s global headquarters. The aerospace and defense firm\'s employees in the region support various corporate functions and specialize in advanced airplane development and autonomous systems. In addition to designating Northern Virginia as its new headquarters, Boeing plans to develop a research  technology hub in the area to harness and attract engineering and technical capabilities. "We are excited to build on our foundation here in Northern Virginia. The region makes strategic sense for our global headquarters given its proximity to our customers and stakeholders, and its access to world-class engineering and technical', 'og:title': 'Boeing Names Northern Virginia Office Its Global Headquarters; Establishes Research & Technology Hub', 'og:image:height': '266', 'og:url': 'https://investors.boeing.com/investors/news/press-release-details/2022/Boeing-Names-Northern-Virginia-Office-Its-Global-Headquarters-Establishes-Research--Technology-Hub/default.aspx', 'twitter:image': 'https://mma.prnewswire.com/media/1811864/Boeing_Northern_Virginia_Office.jpg'}), (2, 'May 9, 2022 ... Boeing is moving its headquarters from Chicago to a suburb of Washington, DC. But some analysts think this move is one in the wrong\xa0...', {'og:image': 'https://media.cnn.com/api/v1/images/stellar/prod/220506144932-boeing-headquarters.jpg?c=16x9&q=w_800,c_fill', 'twitter:title': 'Boeing is losing the plane race. So it packed up and left for Washington | CNN Business', 'og:type': 'article', 'twitter:card': 'summary_large_image', 'article:published_time': '2022-05-09T10:17:48Z', 'og:site_name': 'CNN', 'author': 'Chris Isidore', 'og:title': 'Boeing is losing the plane race. So it packed up and left for Washington | CNN Business', 'meta-section': 'business', 'type': 'article', 'og:description': 'Boeing is moving its headquarters from Chicago to a suburb of Washington, DC. But some analysts think this move is one in the wrong direction.', 'twitter:image': 'https://media.cnn.com/api/v1/images/stellar/prod/220506144932-boeing-headquarters.jpg?c=16x9&q=w_800,c_fill', 'article:publisher': 'https://www.facebook.com/CNN', 'article:tag': 'accidents, accidents, disasters and safety, aerospace industry, air transportation, air transportation safety, air travel incidents, airbus sas, aircraft, aircraft accidents, aircraft manufacturing, airlines, arlington, aviation and aerospace industry, boeing 737 max, boeing co, business and industry sectors, business, economy and trade, chicago, commercial and general aviation aircraft, companies, continents and regions, engineering, government and public administration, government organizations - us, illinois, lobbying, manufacturing and engineering, midwestern united states, north america, northwestern united states, politics, safety issues and practices, seattle, southeastern united states, the americas, transportation and warehousing, travel and tourism, travel safety and security, united states, us congress, us department of defense, us federal departments and agencies, virginia, washington (state)', 'fb:app_id': '80401312489', 'twitter:site': '@CNNbusiness', 'article:modified_time': '2022-05-09T11:09:18Z', 'viewport': 'width=device-width,initial-scale=1,shrink-to-fit=no', 'twitter:description': 'Boeing is moving its headquarters from Chicago to a suburb of Washington, DC. But some analysts think this move is one in the wrong direction.', 'template_type': 'article_leaf', 'theme': 'business', 'og:url': 'https://www.cnn.com/2022/05/09/business/boeing-headquarters-move/index.html'}), (3, "Welcome to the official corporate site for the world's largest aerospace company and leading manufacturer of commercial jetliners and defense, space and\xa0...", {'template': 'product-page', 'og:type': 'website', 'twitter:card': 'summary_large_image', 'twitter:title': 'The Boeing Company Official Website', 'twitter:site': '@Boeing', 'viewport': 'width=device-width, initial-scale=1', 'twitter:description': "Welcome to the official corporate site for the world's largest aerospace company and leading manufacturer of commercial jetliners and defense, space and security systems. Learn about our passion for innovation, our products, careers and more.", 'og:title': 'The Boeing Company Official Website', 'og:url': '/content/theboeingcompany/us/en', 'og:description': "Welcome to the official corporate site for the world's largest aerospace company and leading manufacturer of commercial jetliners and defense, space and security systems. Learn about our passion for innovation, our products, careers and more."}), (4, "May 17, 2022 ... The company's Defense, Space & Security business unit is also located in Arlington, and its other business units, Commercial Airplanes and\xa0...", {'msapplication-tilecolor': '#da532c', 'og:image': 'https://northernvirginiamag.com/wp-content/uploads/2022/05/AdobeStock_296404170_Editorial_Use_Only.jpeg', 'theme-color': '#ffffff', 'og:type': 'article', 'article:published_time': '2022-05-17T20:51:32+00:00', 'og:image:width': '1200', 'twitter:card': 'summary_large_image', 'og:site_name': 'Northern Virginia Magazine', 'author': 'Laura Scudder', 'og:title': 'Why Boeing Moved Their Global Headquarters to Northern Virginia', 'og:image:height': '800', 'twitter:label1': 'Written by', 'twitter:label2': 'Est. reading time', 'og:image:type': 'image/jpeg', 'og:description': "The aerospace company could have major implications for Arlington's growth as a tech hub.", 'twitter:creator': '@NorthernVaMag', 'article:publisher': 'https://www.facebook.com/NorthernVirginiaMag/', 'twitter:data1': 'Laura Scudder', 'twitter:data2': '2 minutes', 'twitter:site': '@NorthernVaMag', 'viewport': 'width=device-width, initial-scale=1', 'og:locale': 'en_US', 'og:url': 'https://northernvirginiamag.com/home/real-estate/2022/05/17/boeing-northern-virginia/'}), (5, "Washington has been at the center of aviation since 1916, when Bill Boeing founded our airplane company in a shipyard on Seattle's Duwamish River. Today, Boeing\xa0...", {'template': 'product-page', 'og:type': 'website', 'twitter:card': 'summary_large_image', 'twitter:title': 'Washington', 'twitter:site': '@Boeing', 'viewport': 'width=device-width, initial-scale=1', 'og:title': 'Washington', 'og:url': '/content/theboeingcompany/us/en/company/about-bca/washington'}), (6, 'May 5, 2022 ... Boeing first moved its headquarters to Chicago from Seattle in 2001. Since then, it has been located at 100 N. Riverside Plaza in the city\xa0...', {'og:image': 'https://media.nbcchicago.com/2022/05/GettyImages-1211275423.jpg?quality=85&strip=all&resize=1200%2C675', 'twitter:card': 'summary_large_image', 'og:image:width': '1200', 'og:site_name': 'NBC Chicago', 'sailthru.tags': 'Boeing, Chicago', 'twitter:url': 'https://www.nbcchicago.com/news/local/boeing-to-move-its-headquarters-out-of-chicago-official/2825160/', 'msapplication-tileimage': 'https://media.nbcchicago.com/2019/09/cropped-NBC_Chicago.png?fit=270%2C270&quality=85&strip=all', 'twitter:creator': '@nbcchicago', 'og:description': 'Boeing is moving its headquarters out of Chicago, the company announced Thursday.', 'article:publisher': 'http://www.facebook.com/nbcchicago', 'twitter:image': 'https://media.nbcchicago.com/2022/05/GettyImages-1211275423.jpg?quality=85&strip=all&resize=1200%2C675', 'twitter:site': '@nbcchicago', 'sailthru.title': 'Boeing to Move Its Headquarters Out of Chicago, Company Announces', 'article:content_tier': 'free', 'sailthru.type': 'article', 'sailthru.date': '2022-05-05T13:46:27+00:00', 'og:type': 'article', 'twitter:title': 'Boeing to Move Its Headquarters Out of Chicago, Company Announces', 'og:title': 'Boeing to Move Its Headquarters Out of Chicago, Company Announces', 'og:image:height': '675', 'fb:app_id': '187516345314', 'sailthru.description': 'Boeing is moving its headquarters out of Chicago, the company announced Thursday.', 'viewport': 'width=device-width, initial-scale=1', 'twitter:description': 'Boeing is moving its headquarters out of Chicago, the company announced Thursday.', 'taboola_lead': 'video', 'og:url': 'https://www.nbcchicago.com/news/local/boeing-to-move-its-headquarters-out-of-chicago-official/2825160/', 'article:opinion': 'false'}), (7, 'View The Boeing Co company headquarters address along with its other key offices and locations.', {'viewport': 'width=device-width, initial-scale=1.0, user-scalable=no'}), (8, 'May 5, 2022 ... Boeing moved its headquarters to Chicago in 2001, leaving its Seattle home after 85 years following its 1997 merger with St. Louis-based rival\xa0...', {'og:image': 'https://image.cnbcfm.com/api/v1/image/107056861-1651779398752-gettyimages-71521899-71519765SO001_Boeing_Posts_.jpeg?v=1651779457&w=1920&h=1080', 'apple-itunes-app': 'app-id=398018310', 'twitter:card': 'summary_large_image', 'article:published_time': '2022-05-05T19:45:30+0000', 'og:site_name': 'CNBC', 'twitter:url': 'https://www.cnbc.com/2022/05/05/boeing-to-move-headquarters-from-chicago-to-virginia-.html', 'tp:preferredformats': 'M3U,MPEG4', 'og:description': 'The move to Arlington — across the Potomac River from the U.S. capital — will also include plans by Boeing to develop a research and technology hub in the area.', 'twitter:creator': '@CNBC', 'parsely-metadata': '{"nodeid":107056855,"originalImage":"https://image.cnbcfm.com/api/v1/image/107056861-1651779398752-gettyimages-71521899-71519765SO001_Boeing_Posts_.jpeg?v=1651779457"}', 'article:publisher': 'https://www.facebook.com/cnbc', 'al:ios:app_store_id': '398018310', 'pagenodeid': '107056855', 'twitter:site': '@CNBC', 'article:modified_time': '2022-05-05T20:16:27+0000', 'news_keywords': 'Boeing Co,Transportation,Airlines,Aerospace and defense industry,Business,business news', 'tp:preferredruntimes': 'universal', 'tp:initialize': 'false', 'assettype': 'wirestory', 'og:type': 'article', 'twitter:title': 'Boeing to move headquarters from Chicago to Virginia', 'article:section': 'Transportation', 'al:ios:app_name': 'CNBC Business News and Finance', 'og:title': 'Boeing to move headquarters from Chicago to Virginia', 'article:author': 'https://www.facebook.com/CNBC', 'twitter:image:src': 'https://image.cnbcfm.com/api/v1/image/107056861-1651779398752-gettyimages-71521899-71519765SO001_Boeing_Posts_.jpeg?v=1651779457&w=1920&h=1080', 'article:tag': 'Boeing Co', 'viewport': 'initial-scale=1.0, width=device-width', 'twitter:description': 'The move to Arlington — across the Potomac River from the U.S. capital — will also include plans by Boeing to develop a research and technology hub in the area.', 'og:url': 'https://www.cnbc.com/2022/05/05/boeing-to-move-headquarters-from-chicago-to-virginia-.html', 'format-detection': 'telephone=no', 'article:opinion': 'false'}), (9, 'Boeing is headquartered in Arlington, 929 Long Bridge Drive, United States, and has 68 office locations. Locations. Country, City, Address. United States\xa0...', {'msapplication-tilecolor': '#46305b', 'og:image': '//static.production.craft.co/assets/fe77dcdd390ff1d52a16.png', 'msapplication-config': '//static.production.craft.co/browserconfig.xml', 'theme-color': '#ffffff', 'viewport': 'width=device-width, initial-scale=1', 'og:title': 'Boeing Corporate Headquarters, Office Locations and Addresses | Craft.co', 'og:description': 'Boeing Corporate Headquarters, Office Locations and Addresses | Craft.co'})]```
+            determine which candidate most-likely has the correct location of company in question in the main article and note the city and state of the company of the chosen candidate.
+            Compare the `company city` and `company state` field results with your result from STEP 3 and 4; determine which `company city` and `company state` are the correct answers and update if necessary. Provide your final full classification result in JSON.
+            If the location candidates list is empty, you may just return the original classification results in JSON format.
+
+        

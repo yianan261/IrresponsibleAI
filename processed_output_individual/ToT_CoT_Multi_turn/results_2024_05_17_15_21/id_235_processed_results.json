@@ -1,0 +1,33 @@
+{
+    "235": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Ping An Insurance",
+        "Company city": "Shenzhen",
+        "Company state": "Guangdong",
+        "Affected population": [
+            "Customers of Ping An Insurance"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Interaction",
+                "Feedback loop",
+                "Optimization function"
+            ]
+        },
+        "Area of AI Application": "Facial Recognition",
+        "Online": "No"
+    }
+}

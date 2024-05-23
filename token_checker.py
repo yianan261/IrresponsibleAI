@@ -3,7 +3,8 @@ import os
 
 def check_tokens(base, char_limit=30500):
     flagged = []
-    for i in range(1, 639):
+    check = ["20", "110", "255", "263", "205", "259", "420", "517"]
+    for i in check:
         file_path = f"{base}/article_texts/{i}.txt"
         try:
             with open(file_path, "r", encoding="utf-8") as file:

@@ -1,0 +1,28 @@
+{
+    "22": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Southern California residents",
+            "Visitors in the area"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "200,000",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Navigation",
+        "Online": "Yes"
+    }
+}

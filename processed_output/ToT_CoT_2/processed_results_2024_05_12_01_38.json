@@ -1,0 +1,69 @@
+{
+    "167": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Stanford Graduate School of Business",
+        "Company city": "Stanford",
+        "Company state": "California",
+        "Affected population": "LGBTQ community",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Facial"
+            ],
+            "Human Incompetence": [],
+            "Pseudoscience": [],
+            "Environmental Impact": [],
+            "Disinformation": [],
+            "Copyright Violation": [],
+            "Mental Health": [],
+            "Other": []
+        },
+        "Sub-subclass": {
+            "Facial": [],
+            "Data bias": [],
+            "Algorithmic bias": [],
+            "Administrative": [],
+            "Technical": [],
+            "Textual": [],
+            "Image": [],
+            "Video": [],
+            "Audio": []
+        },
+        "Area of AI Application": "Facial Recognition",
+        "Online": "No"
+    },
+    "382": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Meta",
+        "Company city": "Menlo Park",
+        "Company state": "California",
+        "Affected population": [
+            "Teenagers using Instagram"
+        ],
+        "Number of people actually affected": "1 (Molly Russell)",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Mental Health",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Mental Health": [],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Filtering",
+        "Online": "Yes"
+    }
+}

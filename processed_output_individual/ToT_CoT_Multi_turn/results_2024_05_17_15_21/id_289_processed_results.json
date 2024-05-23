@@ -1,0 +1,27 @@
+{
+    "289": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Starship Technologies",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Residents of Frisco, Texas"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "1 (Jisuk Mok)",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous Delivery",
+        "Online": "No"
+    }
+}

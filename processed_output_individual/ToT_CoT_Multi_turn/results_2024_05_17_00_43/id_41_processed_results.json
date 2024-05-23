@@ -1,0 +1,29 @@
+{
+    "41": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Massachusetts Institute of Technology (MIT)",
+        "Company city": "Cambridge",
+        "Company state": "Massachusetts",
+        "Affected population": [
+            "Researchers at MIT Media Lab"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Pseudoscience",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Pseudoscience": [
+                "Other"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Psychological analysis",
+        "Online": "No"
+    }
+}

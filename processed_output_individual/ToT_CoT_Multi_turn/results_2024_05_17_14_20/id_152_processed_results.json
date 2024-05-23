@@ -1,0 +1,27 @@
+{
+    "152": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "SoftBank",
+        "Company city": "Tokyo",
+        "Company state": "",
+        "Affected population": [
+            "Customers of SoftBank using Pepper"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Customer Service Robotics",
+        "Online": "No"
+    }
+}

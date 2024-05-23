@@ -1,0 +1,27 @@
+{
+    "46": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Users of Nest Protect"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Several users reported false alarms",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Smart Home Devices",
+        "Online": "No"
+    }
+}

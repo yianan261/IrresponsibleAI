@@ -1,0 +1,27 @@
+{
+    "427": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "General Motors",
+        "Company city": "Detroit",
+        "Company state": "Michigan",
+        "Affected population": [
+            "Passengers using Cruise's AVs"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Multiple passengers in AVs",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous Vehicles",
+        "Online": "No"
+    }
+}

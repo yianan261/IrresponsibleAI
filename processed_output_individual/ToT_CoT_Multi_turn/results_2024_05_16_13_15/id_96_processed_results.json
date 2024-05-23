@@ -1,0 +1,27 @@
+{
+    "96": {
+        "Country": "United States",
+        "State": "Texas",
+        "City": "Houston",
+        "Continent": "North America",
+        "Company": "SAS Institute",
+        "Company city": "Cary",
+        "Company state": "North Carolina",
+        "Affected population": [
+            "Teachers in Houston ISD"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Educational Assessment",
+        "Online": "No"
+    }
+}

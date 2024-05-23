@@ -1,0 +1,28 @@
+{
+    "432": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Southwest Airlines",
+        "Company city": "Dallas",
+        "Company state": "Texas",
+        "Affected population": [
+            "Southwest Airlines employees",
+            "Passengers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Crew scheduling",
+        "Online": "No"
+    }
+}

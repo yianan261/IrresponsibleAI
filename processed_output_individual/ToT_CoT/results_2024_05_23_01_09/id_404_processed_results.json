@@ -1,0 +1,34 @@
+{
+    "404": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Sound Intelligence",
+        "Company city": "Chicago",
+        "Company state": "Illinois",
+        "Affected population": [
+            "Students",
+            "School Staff",
+            "Public"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Environmental Impact"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Environmental Impact": []
+        },
+        "Sub-subclass": {
+            "Technical": [],
+            "Environmental Impact": []
+        },
+        "Area of AI Application": "Surveillance",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "382": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Meta",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Teenagers using Instagram"
+        ],
+        "Number of people actually affected": "1 (Molly Russell)",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Mental Health",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Mental Health": [],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Filtering",
+        "Online": "Yes"
+    },
+    "11": {
+        "company_name": "Northpointe Institute for Public Management",
+        "company_location": {
+            "city": "Ohio",
+            "state": "United States"
+        }
+    },
+    "167": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Stanford Graduate School of Business",
+        "Company city": "Stanford",
+        "Company state": "California",
+        "Affected population": [
+            "General Public"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Sexual Orientation"
+            ]
+        },
+        "Area of AI Application": "Facial Recognition",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "167": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Stanford Graduate School of Business",
+        "Company city": "Stanford",
+        "Company state": "California",
+        "Affected population": "LGBTQ community",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Facial"
+            ],
+            "Human Incompetence": [],
+            "Pseudoscience": [],
+            "Environmental Impact": [],
+            "Disinformation": [],
+            "Copyright Violation": [],
+            "Mental Health": [],
+            "Other": []
+        },
+        "Sub-subclass": {
+            "Facial": [],
+            "Data bias": [],
+            "Algorithmic bias": [],
+            "Administrative": [],
+            "Technical": [],
+            "Textual": [],
+            "Image": [],
+            "Video": [],
+            "Audio": []
+        },
+        "Area of AI Application": "Facial Recognition",
+        "Online": "No"
+    }
+}

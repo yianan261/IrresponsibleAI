@@ -1,0 +1,37 @@
+{
+    "104": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Blue Shield of California",
+        "Company city": "Oakland",
+        "Company state": "California",
+        "Affected population": [
+            "Low-income neighborhoods",
+            "Communities of color"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race",
+                "Economic"
+            ]
+        },
+        "Area of AI Application": "Vaccine distribution",
+        "Online": "No"
+    }
+}

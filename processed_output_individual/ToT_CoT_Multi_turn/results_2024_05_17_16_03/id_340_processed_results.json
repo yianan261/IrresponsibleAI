@@ -1,0 +1,27 @@
+{
+    "340": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Honda",
+        "Company city": "Torrance",
+        "Company state": "California",
+        "Affected population": [
+            "Car drivers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Automotive safety",
+        "Online": "No"
+    }
+}

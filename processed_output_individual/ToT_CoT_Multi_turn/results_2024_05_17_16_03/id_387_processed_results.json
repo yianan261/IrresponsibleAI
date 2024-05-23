@@ -1,0 +1,27 @@
+{
+    "387": {
+        "Country": "Worldwide",
+        "State": "California",
+        "City": "Austin",
+        "Continent": "Worldwide",
+        "Company": "Oracle Corporation",
+        "Company city": "Austin",
+        "Company state": "Texas",
+        "Affected population": [
+            "Internet users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Billions",
+        "Class of irresponsible AI use": [
+            "Privacy Violation",
+            "Data Collection"
+        ],
+        "Subclasses": {
+            "Privacy Violation": [],
+            "Data Collection": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Data Collection and Profiling",
+        "Online": "Yes"
+    }
+}

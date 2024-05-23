@@ -1,0 +1,28 @@
+{
+    "358": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Cadillac Fairview",
+        "Company city": "Toronto",
+        "Company state": "Ontario",
+        "Affected population": [
+            "Shoppers at Calgary malls"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Privacy Violation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Retail Surveillance",
+        "Online": "No"
+    }
+}

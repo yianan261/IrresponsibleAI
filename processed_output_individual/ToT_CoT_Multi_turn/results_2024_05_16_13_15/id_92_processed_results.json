@@ -1,0 +1,31 @@
+{
+    "92": {
+        "Country": "United States",
+        "State": "New York",
+        "City": "New York",
+        "Continent": "North America",
+        "Company": "Apple Inc.",
+        "Company city": "Cupertino",
+        "Company state": "California",
+        "Affected population": [
+            "Women"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Optimization function"
+            ]
+        },
+        "Area of AI Application": "Credit Assessment",
+        "Online": "Yes"
+    }
+}

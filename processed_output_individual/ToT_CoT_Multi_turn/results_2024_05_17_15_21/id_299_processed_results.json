@@ -1,0 +1,27 @@
+{
+    "299": {
+        "Country": "Japan",
+        "State": "",
+        "City": "",
+        "Continent": "Asia",
+        "Company": "Masayuki Nakamoto's Website",
+        "Company city": "Hyogo",
+        "Company state": "Unknown",
+        "Affected population": [
+            "Adults viewing manipulated videos"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Copyright Violation",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Copyright Violation": [],
+            "Disinformation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Image Manipulation",
+        "Online": "Yes"
+    }
+}

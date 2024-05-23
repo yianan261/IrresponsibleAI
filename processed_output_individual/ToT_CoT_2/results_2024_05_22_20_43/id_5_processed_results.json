@@ -1,0 +1,32 @@
+{
+    "5": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Rush University Medical Center",
+        "Company city": "Chicago",
+        "Company state": "Illinois",
+        "Affected population": [
+            "Patients undergoing robotic surgery"
+        ],
+        "Number of people actually affected": "144",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Technical": [
+                "Equipment malfunction",
+                "System errors"
+            ]
+        },
+        "Area of AI Application": "Robotic Surgery",
+        "Online": "No"
+    }
+}

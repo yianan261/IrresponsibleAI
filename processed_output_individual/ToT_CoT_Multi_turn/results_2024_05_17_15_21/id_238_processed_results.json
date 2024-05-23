@@ -1,0 +1,35 @@
+{
+    "238": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Oregon Department of Human Services",
+        "Company city": "Salem",
+        "Company state": "Oregon",
+        "Affected population": [
+            "Families in child abuse cases"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Racial bias"
+            ]
+        },
+        "Area of AI Application": "Risk assessment in child welfare",
+        "Online": "No"
+    }
+}

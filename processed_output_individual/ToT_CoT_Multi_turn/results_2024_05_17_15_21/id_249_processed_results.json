@@ -1,0 +1,60 @@
+{
+    "249": {
+        "Country": "China",
+        "State": "Beijing",
+        "City": "Beijing",
+        "Continent": "Asia",
+        "Company": "China Electronics Technology Group Corporation (CETC)",
+        "Company city": "Beijing",
+        "Company state": "Beijing",
+        "Affected population": [
+            "Uyghurs and other Turkic Muslim minorities in Xinjiang"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence",
+            "Pseudoscience",
+            "Environmental Impact",
+            "Disinformation",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Pseudoscience": [
+                "Facial",
+                "Other"
+            ],
+            "Disinformation": [
+                "Textual",
+                "Image",
+                "Video",
+                "Audio"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race"
+            ],
+            "Algorithmic bias": [
+                "Interaction",
+                "Feedback loop",
+                "Optimization function"
+            ],
+            "Facial": [],
+            "Textual": [],
+            "Image": [],
+            "Video": [],
+            "Audio": []
+        },
+        "Area of AI Application": "Mass Surveillance",
+        "Online": "No"
+    }
+}

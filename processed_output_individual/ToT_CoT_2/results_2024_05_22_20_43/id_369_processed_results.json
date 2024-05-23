@@ -1,0 +1,28 @@
+{
+    "369": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Incarnate Games",
+        "Company city": "Colorado Springs",
+        "Company state": "Colorado",
+        "Affected population": [
+            "Art Competition Participants",
+            "Art Enthusiasts"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds",
+        "Classes of irresponsible AI use": [
+            "Pseudoscience"
+        ],
+        "Subclasses": {
+            "Pseudoscience": [
+                "Facial"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Art Generation",
+        "Online": "No"
+    }
+}

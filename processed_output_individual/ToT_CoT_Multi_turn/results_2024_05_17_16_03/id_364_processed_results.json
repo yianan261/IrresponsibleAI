@@ -1,0 +1,27 @@
+{
+    "364": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Everseen",
+        "Company city": "Cork",
+        "Company state": "County Cork",
+        "Affected population": [
+            "Walmart employees"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Many",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Retail Theft-Deterrence System",
+        "Online": "No"
+    }
+}

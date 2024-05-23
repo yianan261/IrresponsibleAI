@@ -1,0 +1,35 @@
+{
+    "165": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "NVIDIA Corporation",
+        "Company city": "Santa Clara",
+        "Company state": "California",
+        "Affected population": [
+            "Researchers, Engineers, AI Academics"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race"
+            ]
+        },
+        "Area of AI Application": "Image Processing",
+        "Online": "No"
+    }
+}

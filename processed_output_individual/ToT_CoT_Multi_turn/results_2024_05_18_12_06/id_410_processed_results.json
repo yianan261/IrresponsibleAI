@@ -1,0 +1,31 @@
+{
+    "410": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "KFC",
+        "Company city": "Louisville",
+        "Company state": "Kentucky",
+        "Affected population": [
+            "Customers in Germany"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Marketing",
+        "Online": "Yes"
+    }
+}

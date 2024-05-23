@@ -1,0 +1,33 @@
+{
+    "391": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Facewatch",
+        "Company city": "London",
+        "Company state": "",
+        "Affected population": [
+            "Shoppers at Southern Co-op stores"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Privacy Violation"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Privacy Violation": []
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Data bias"
+            ]
+        },
+        "Area of AI Application": "Surveillance",
+        "Online": "No"
+    }
+}

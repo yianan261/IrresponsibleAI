@@ -1,4 +1,5 @@
 example_article_id_6 = """
+ARTICLE TITLE: TayBot
 Yesterday, something that looks like a big failure has happened: Microsoft’s chatbot Tay has been taken offline after a series of offending tweets. And here’s how the social media has responded:
 
 Keywords associated with "Artificial Intelligence" throughout the day. "Microsoft" and "dangerous" are on the rise.
@@ -159,6 +160,7 @@ example_output_id_6 = """
       }
 """
 example_article_id_1 = """
+ARTICLE TITLE: Google’s YouTube Kids App Presents Inappropriate Content
 Google-owned YouTube has apologised again after more disturbing videos surfaced on its YouTube Kids app.
 
 Investigators found several unsuitable videos including one of a burning aeroplane from the cartoon Paw Patrol and footage explaining how to sharpen a knife.

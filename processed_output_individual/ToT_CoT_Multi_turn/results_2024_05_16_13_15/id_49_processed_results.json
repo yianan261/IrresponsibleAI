@@ -1,0 +1,42 @@
+{
+    "49": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Youth Laboratories and Insilico Medicine",
+        "Company city": "Baltimore",
+        "Company state": "Maryland",
+        "Affected population": [
+            "Participants of the beauty contest",
+            "People of color",
+            "Women"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race",
+                "Gender"
+            ],
+            "Algorithmic bias": [
+                "Optimization function"
+            ]
+        },
+        "Area of AI Application": "Beauty contest judging",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "35": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Ibrahim Diallo"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "1",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Employee termination",
+        "Online": "No"
+    }
+}

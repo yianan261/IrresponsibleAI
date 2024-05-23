@@ -1,0 +1,29 @@
+{
+    "531": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Transportation Security Administration (TSA)",
+        "Company city": "Washington",
+        "Company state": "District of Columbia",
+        "Affected population": [
+            "Transgender travelers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Security Screening",
+        "Online": "No"
+    }
+}

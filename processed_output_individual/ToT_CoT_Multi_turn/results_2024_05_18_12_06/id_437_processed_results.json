@@ -1,0 +1,28 @@
+{
+    "437": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Amazon India",
+        "Company city": "Bangalore",
+        "Company state": "Karnataka",
+        "Affected population": [
+            "Third-party sellers in India"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "E-commerce",
+        "Online": "Yes"
+    }
+}

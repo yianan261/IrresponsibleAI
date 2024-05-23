@@ -1,3 +1,4 @@
+ARTICLE TITLE: Unreliable ShotSpotter Audio Previously Used to Convict Chicago Man in Murder Case
 Chicago police eventually arrested the 64-year-old Williams and charged him with murder (Williams maintains that Herring was hit in a drive-by shooting). A key piece of evidence in the case is video surveillance footage showing Williams’ car stopped on the 6300 block of South Stony Island Avenue at 11:46 p.m.—the time and location where police say they know Herring was shot.
 
 On May 31 last year, 25-year-old Safarain Herring was shot in the head and dropped off at St. Bernard Hospital in Chicago by a man named Michael Williams. He died two days later.
@@ -118,58 +119,3 @@ ShotSpotter alleged all of this was defamatory. First, the title of the Motherbo
 
 “Police Are Telling ShotSpotter to Alter Evidence from Gunshot-Detecting AI”
 
-This section heading:
-
-“A pattern of alterations”
-
-And this section of the article:
-
-“Motherboard’s review of court documents from the Williams case and other trials in Chicago and New York State, including testimony from ShotSpotter’s favored expert witness, suggests that the company’s analysts frequently modify alerts at the request of police departments – some of which appear to be grasping for evidence that supports their narrative of events.”
-
-To which the court responds, “Where’s the lie?” It starts by quoting expert testimony offered in a criminal case by ShotSpotter’s Senior Forensic Engineer, Paul Green.
-
-Forensic examination of an incident is always done at a customer’s request, only at a customer’s request. It’s not something we do on a regular basis. In this case, ShotSpotter only detected the final two shots that you heard in the audio clip. An hour or so after the incident occurred, we were contacted by Chicago PD and asked to search for — essentially, search for additional audio clips. And this does happen on a semi-regular basis with all of our customers
-
-Here’s Greene again, being cross-examined in another criminal case:
-
-Q. Mr. Greene, I want to stop you right there. This note here denotes some employee at [ShotSpotter] changed the classification per the instruction of the customer?
-
-A. Per the customer’s instruction, yes.
-
-Q. Is that something that occurs in the regular course of business at [ShotSpotter]?
-
-A. Yes, it is. It happens all the time.
-
-Q. What happens if a customer calls and asks you to change a classification that has no link to the audio that you’re listening to?
-
-A. We have refused customers [sic] to change classifications on incidents in the past. Typically, you know, we trust our law enforcement customers to be really upfront and honest with us . . .
-
-ShotSpotter claimed it was defamatory to suggest the company “modified alerts at the request of the company.” The court says this obviously happens all the time, according to ShotSpotter’s own expert witnesses.
-
-It is apparent, from Greene’s testimony, that there is a pattern of alterations, and that these alterations sometimes come by request of police departments.
-
-That’s the biggest, most obvious problem with ShotSpotter’s lawsuit. Adding to its problems is the fact that neither ShotSpotter or its presumably expensive legal representation can discern the difference between actionable assertions of fact and the hyperbole often present in social media posts.
-
-It is clear to the Court that certain words used by Mr. Koebler are opinion. In Statement 12, Koebler tweets, “This is horrifying and nuts.” In Statement 14, Koebler tweets, “Blatant corruption.” These words are not actionable. They are no worse than a plaintiff being accused of being “shockingly racist” or accused of “blackmail.” “[A] published statement that is ‘pointed, exaggerated, and heavily laden with emotional rhetoric and moral outrage’ is not defamatory.”
-
-And, if you believe (as ShotSpotter appears to) that being called “shockingly racist” or involved in “blackmail” is actionable, footnotes appended to both of those phrases cite precedent (from Delaware’s top court as well as the US Supreme Court) ruling otherwise.
-
-As for any deliberate misleading by Vice reporter Jason Koebler, the court has this to say:
-
-There is no misplacement or mistake of hyperlink. There is no chance that a trier of fact could understand a link to apply to one Statement and not another. Koebler links to the entire Article in the first tweet, and links to specific screenshots of the Article and relevant testimony in the next two. It would be clear to a reader that these three tweets should be read in conjunction with the Article, the Greene testimony, and the excerpt about the Simmons case.
-
-As for the rest of the allegedly defamatory statements buried in ShotSpotter’s 413-page complaint, the court says there’s nothing actionable about those either.
-
-The Court finds that the remainder of the proffered Statements are not defamatory.
-
-More specifically: they’re substantially true, even if somewhat carelessly deployed:
-
-There is substantial truth in the Williams and Simmons Statements. As demonstrated in the Complaint, the prosecutors’ case and ensuing ShotSpotter evidence was withdrawn in Williams. While the Statement oversimplifies the sequence of events, it is admitted in the Complaint that prosecutors learned of the limitations of ShotSpotter technology, then “dropped the case.” Also, the location was in fact changed for the gunshots. The Complaint acknowledges that the location change was due to ShotSpotter providing police with the geolocation of the park entrance, rather than the specific gunshot location. Further, these Statements are supported by and derived from a motion filed by William’s public defender. The Article specifically states: “That night, 19 ShotSpotter sensors detected a percussive sound at 11:46 p.m. and determined the location to be 5700 South Lake Shore Drive—a mile away from the site where prosecutors say Williams committed the murder, according to a motion filed by Williams’ public defender.” In Simmons, the Article states that a fifth shot disappeared. It bases this Statement on a New York court decision which overturned the defendant’s conviction; the judge called it “troubling” that ShotSpotter evidence had disappeared. The full context provides that this happened after the evidence was already heard by a jury, then was later deleted per company protocol. While these Statements may lack the sufficient journalistic context, they are substantially true in their conveyance.
-
-Vice wins. Unfortunately, it will be out its own costs for defending itself from this bogus lawsuit. Delaware’s anti-SLAPP law is extremely limited and doesn’t cover actions arising from one private entity’s complaints about another private entity’s statements. Once again, for the people in the back of a whole bunch of states: FEDERAL. ANTI. SLAPP. NOW.
-
-The good news is ShotSpotter wasn’t able to sue Vice into silence. Reporting on the company’s questionable tactics will continue. And until the company is actually willing to force its law enforcement customers to accept what’s been detected by ShotSpotter devices (rather than run more searches and/or alter data), it’s just going to keep suffering similar losses in the court of public opinion, not to mention the literal courts where it presents its dubious evidence.
-
-Filed Under: anti-slapp, defamation, intimidation, journalism, slapp
-
-Companies: shotspotter, vice

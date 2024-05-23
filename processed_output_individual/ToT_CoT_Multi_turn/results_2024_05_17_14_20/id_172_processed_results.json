@@ -1,0 +1,35 @@
+{
+    "172": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Appriss",
+        "Company city": "Irvine",
+        "Company state": "California",
+        "Affected population": [
+            "Patients using NarxCare"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Healthcare",
+        "Online": "No"
+    }
+}

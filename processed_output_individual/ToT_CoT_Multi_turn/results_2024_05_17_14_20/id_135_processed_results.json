@@ -1,0 +1,36 @@
+{
+    "135": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "University of Texas at Austin",
+        "Company city": "Austin",
+        "Company state": "Texas",
+        "Affected population": [
+            "Applicants to UT Austin's Ph.D. program"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Gender",
+                "Race"
+            ]
+        },
+        "Area of AI Application": "Admissions decision-making",
+        "Online": "No"
+    }
+}

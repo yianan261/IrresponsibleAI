@@ -1,0 +1,31 @@
+{
+    "224": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Tencent Holdings Limited",
+        "Company city": "Shenzhen Shi",
+        "Company state": "Guangdong",
+        "Affected population": [
+            "WeChat Pay Users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Image"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Identity Verification",
+        "Online": "Yes"
+    }
+}

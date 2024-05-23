@@ -1,0 +1,25 @@
+{
+    "240": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "GitHub",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Developers using GitHub Copilot"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Code generation",
+        "Online": "Yes"
+    }
+}

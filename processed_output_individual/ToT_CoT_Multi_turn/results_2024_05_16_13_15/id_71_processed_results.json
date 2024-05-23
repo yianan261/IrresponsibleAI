@@ -1,0 +1,29 @@
+{
+    "71": {
+        "Country": "United States",
+        "State": "California",
+        "City": "Mountain View",
+        "Continent": "North America",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Bus passengers",
+            "Google car passengers",
+            "General public"
+        ],
+        "Number of people actually affected": 15,
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous vehicles",
+        "Online": "No"
+    }
+}

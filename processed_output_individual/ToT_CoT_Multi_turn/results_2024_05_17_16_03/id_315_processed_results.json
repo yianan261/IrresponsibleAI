@@ -1,0 +1,34 @@
+{
+    "315": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "NtechLab",
+        "Company city": "Moscow",
+        "Company state": "",
+        "Affected population": [
+            "Russian women in pornography"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Privacy Violation",
+            "Harassment"
+        ],
+        "Subclasses": {
+            "Privacy Violation": [
+                "Invasive Technology"
+            ],
+            "Harassment": [
+                "Doxing"
+            ]
+        },
+        "Sub-subclass": {
+            "Invasive Technology": [],
+            "Doxing": []
+        },
+        "Area of AI Application": "Facial Recognition",
+        "Online": "No"
+    }
+}

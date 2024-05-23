@@ -1,0 +1,33 @@
+{
+    "150": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Natural Cycles",
+        "Company city": "Stockholm",
+        "Company state": "",
+        "Affected population": [
+            "Women using Natural Cycles app"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health",
+            "Pseudoscience"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Mental Health": [],
+            "Pseudoscience": [
+                "Facial"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Healthcare",
+        "Online": "Yes"
+    }
+}

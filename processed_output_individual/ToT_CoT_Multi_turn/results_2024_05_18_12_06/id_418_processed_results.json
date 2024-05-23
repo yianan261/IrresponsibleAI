@@ -1,0 +1,27 @@
+{
+    "418": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Uber Technologies Inc",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Uber drivers in India"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "150 drivers surveyed",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Facial Recognition",
+        "Online": "Yes"
+    }
+}

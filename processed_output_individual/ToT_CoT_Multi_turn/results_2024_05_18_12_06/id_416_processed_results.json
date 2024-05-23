@@ -1,0 +1,33 @@
+{
+    "416": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Meta Platforms Inc.",
+        "Company city": "Menlo Park",
+        "Company state": "California",
+        "Affected population": [
+            "Older Workers",
+            "Female Workers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Age",
+                "Gender"
+            ]
+        },
+        "Area of AI Application": "Job Ad Targeting",
+        "Online": "Yes"
+    }
+}

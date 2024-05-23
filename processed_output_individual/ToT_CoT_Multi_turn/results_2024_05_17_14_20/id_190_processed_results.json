@@ -1,0 +1,29 @@
+{
+    "190": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "ByteDance",
+        "Company city": "Beijing",
+        "Company state": "",
+        "Affected population": [
+            "Users of Instagram, Snapchat, Flipagram, Musical.ly, TikTok, and Douyin"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Algorithm Training",
+        "Online": "Yes"
+    }
+}

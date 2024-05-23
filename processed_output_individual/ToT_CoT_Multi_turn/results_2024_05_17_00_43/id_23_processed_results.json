@@ -1,0 +1,27 @@
+{
+    "23": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Navya",
+        "Company city": "Villeurbanne",
+        "Company state": "",
+        "Affected population": [
+            "Passengers on the self-driving shuttle"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Dozens",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous Vehicles",
+        "Online": "No"
+    }
+}

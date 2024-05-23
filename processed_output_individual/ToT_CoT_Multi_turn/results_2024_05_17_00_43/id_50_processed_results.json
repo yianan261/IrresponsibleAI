@@ -1,0 +1,27 @@
+{
+    "50": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "The DAO",
+        "Company city": "Chanthaburi",
+        "Company state": "",
+        "Affected population": [
+            "Investors in The DAO"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Smart Contracts",
+        "Online": "No"
+    }
+}

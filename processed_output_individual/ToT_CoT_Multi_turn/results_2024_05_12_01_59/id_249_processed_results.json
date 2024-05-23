@@ -1,0 +1,36 @@
+{
+    "249": {
+        "Country": "China",
+        "State": "Xinjiang",
+        "City": "Unknown",
+        "Continent": "Asia",
+        "Company": "Xinjiang Lianhai Cangzhi Company",
+        "Company city": "Unknown",
+        "Company state": "Xinjiang",
+        "Affected population": [
+            "Muslim Minorities in Xinjiang"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence",
+            "Pseudoscience"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Pseudoscience": [
+                "Other"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Mass Surveillance",
+        "Online": "No"
+    }
+}

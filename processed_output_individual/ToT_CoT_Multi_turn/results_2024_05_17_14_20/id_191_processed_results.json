@@ -1,0 +1,27 @@
+{
+    "191": {
+        "Country": "South Korea",
+        "State": "Gyeonggi Province",
+        "City": "Seongnam",
+        "Continent": "Asia",
+        "Company": "Naver Corporation",
+        "Company city": "Seongnam",
+        "Company state": "Gyeonggi Province",
+        "Affected population": [
+            "Online Shoppers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Search Algorithms",
+        "Online": "Yes"
+    }
+}

@@ -276,7 +276,8 @@ class NewsContent:
         TREE_OF_THOUGHTS_COT = "ToT_CoT"
         COT_USER_PROMPT = "COT_USER_PROMPT"
         TOT_MULTI_TURN = "ToT_CoT_Multi_turn"
-        prompt_type = TOT_MULTI_TURN
+        TOT_COT_2 = "ToT_CoT_2"
+        prompt_type = TREE_OF_THOUGHTS_COT
 
         data = IncidentData()
         if scrape_articles == True:

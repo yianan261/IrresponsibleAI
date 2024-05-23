@@ -1,0 +1,28 @@
+{
+    "126": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Ocado Group",
+        "Company city": "Hatfield",
+        "Company state": "Hertfordshire",
+        "Affected population": [
+            "Employees of Ocado",
+            "Customers of Ocado"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Robotics",
+        "Online": "No"
+    }
+}

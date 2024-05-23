@@ -1,0 +1,27 @@
+{
+    "78": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "International Baccalaureate",
+        "Company city": "Geneva",
+        "Company state": "",
+        "Affected population": [
+            "Students applying for International Baccalaureate programs"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Educational assessment",
+        "Online": "No"
+    }
+}

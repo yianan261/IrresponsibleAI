@@ -1,0 +1,28 @@
+{
+    "193": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Target Customers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "70 million",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Threat Management",
+        "Online": "No"
+    }
+}

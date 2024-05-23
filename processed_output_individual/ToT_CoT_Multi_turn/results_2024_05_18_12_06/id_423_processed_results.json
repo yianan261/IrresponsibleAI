@@ -1,0 +1,41 @@
+{
+    "423": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Prisma Labs",
+        "Company city": "Sunnyvale",
+        "Company state": "California",
+        "Affected population": [
+            "Users of Lensa AI app"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Pseudoscience",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Pseudoscience": [
+                "Facial"
+            ],
+            "Copyright Violation": []
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Data bias",
+                "Interaction",
+                "Feedback loop",
+                "Optimization function"
+            ],
+            "Facial": []
+        },
+        "Area of AI Application": "Image generation",
+        "Online": "Yes"
+    }
+}

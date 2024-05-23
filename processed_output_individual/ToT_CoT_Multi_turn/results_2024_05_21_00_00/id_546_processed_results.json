@@ -1,0 +1,28 @@
+{
+    "546": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "World Bank",
+        "Company city": "Washington",
+        "Company state": "D.C.",
+        "Affected population": [
+            "People in Jordan"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Social Welfare Distribution",
+        "Online": "No"
+    }
+}

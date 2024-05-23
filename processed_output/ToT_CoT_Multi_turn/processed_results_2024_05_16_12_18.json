@@ -1,0 +1,195 @@
+{
+    "6": {
+        "Country": "United States",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company": "Microsoft",
+        "Company city": "Redmond",
+        "Company state": "Washington",
+        "Affected population": [
+            "Twitter users",
+            "Millennials",
+            "General public"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "210,000",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence",
+            "Disinformation",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Disinformation": [
+                "Textual"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Interaction"
+            ]
+        },
+        "Area of AI Application": "Conversational AI",
+        "Online": "Yes"
+    },
+    "9": {
+        "Country": "United States",
+        "State": "New York",
+        "City": "Great Neck",
+        "Continent": "North America",
+        "Company": "New York State Education Department",
+        "Company city": "Albany",
+        "Company state": "New York",
+        "Affected population": [
+            "Public school teachers in New York"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Pseudoscience"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Pseudoscience": [
+                "Other"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Teacher evaluation",
+        "Online": "Yes"
+    },
+    "11": {
+        "Country": "United States",
+        "State": "Michigan",
+        "City": "Traverse City",
+        "Continent": "North America",
+        "Company": "Northpointe Institute for Public Management (now Equivant)",
+        "Company city": "Traverse City",
+        "Company state": "Michigan",
+        "Affected population": [
+            "Defendants in the U.S. judicial system",
+            "Black defendants"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "criminal sentencing",
+        "Online": "No"
+    },
+    "382": {
+        "Country": "United Kingdom",
+        "State": "",
+        "City": "London",
+        "Continent": "Europe",
+        "Company": "Meta Platforms, Inc.",
+        "Company city": "Menlo Park",
+        "Company state": "California",
+        "Affected population": [
+            "Teenagers",
+            "Instagram users"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Mental Health",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Mental Health": [],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Social Media Content Moderation",
+        "Online": "Yes"
+    },
+    "167": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Stanford Graduate School of Business",
+        "Company city": "Stanford",
+        "Company state": "California",
+        "Affected population": [
+            "LGBTQ people"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Facial recognition",
+        "Online": "Yes"
+    },
+    "4": {
+        "Country": "United States",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company": "Uber Technologies Inc.",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Pedestrians",
+            "Backup drivers",
+            "Uber employees in Arizona"
+        ],
+        "Number of people actually affected": 1,
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous Vehicles",
+        "Online": "No"
+    }
+}

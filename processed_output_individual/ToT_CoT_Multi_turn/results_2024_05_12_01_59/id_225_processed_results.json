@@ -1,0 +1,31 @@
+{
+    "225": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "IBM",
+        "Company city": "Cambridge",
+        "Company state": "Massachusetts",
+        "Affected population": [
+            "Patients using Watson for Oncology"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Pseudoscience"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Pseudoscience": [
+                "Other"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Medical diagnosis",
+        "Online": "No"
+    }
+}

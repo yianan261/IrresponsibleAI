@@ -1,0 +1,28 @@
+{
+    "98": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Boston Dynamics",
+        "Company city": "Waltham",
+        "Company state": "Massachusetts",
+        "Affected population": [
+            "Residents in areas of deployment"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Residents in areas of deployment",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Environmental Impact"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Law Enforcement",
+        "Online": "No"
+    }
+}

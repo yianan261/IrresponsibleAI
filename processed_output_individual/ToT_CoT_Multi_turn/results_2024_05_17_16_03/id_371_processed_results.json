@@ -1,0 +1,34 @@
+{
+    "371": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Huawei Technologies Co Ltd",
+        "Company city": "Shenzhen",
+        "Company state": "",
+        "Affected population": [
+            "Citizens of Uganda"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Facial Recognition"
+            ],
+            "Human Incompetence": [
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": {
+            "Facial Recognition": [],
+            "Administrative": []
+        },
+        "Area of AI Application": "Surveillance",
+        "Online": "No"
+    }
+}

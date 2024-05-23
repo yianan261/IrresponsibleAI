@@ -1,0 +1,29 @@
+{
+    "272": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Grab Indonesia",
+        "Company city": "Jakarta",
+        "Company state": "",
+        "Affected population": [
+            "Grab drivers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Algorithmic decision-making",
+        "Online": "Yes"
+    }
+}

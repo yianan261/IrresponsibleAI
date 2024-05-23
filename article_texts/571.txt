@@ -1,3 +1,4 @@
+ARTICLE TITLE: Accidental Exposure of 38TB of Data by Microsoft's AI Research Team
 Executive summary
 
 Microsoft’s AI research team, while publishing a bucket of open-source training data on GitHub, accidentally exposed 38 terabytes of additional private data — including a disk backup of two employees’ workstations.

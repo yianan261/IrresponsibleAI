@@ -1,0 +1,28 @@
+{
+    "450": {
+        "Country": "Worldwide",
+        "State": "California",
+        "City": "San Francisco",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Data Labelers in Kenya"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Data Labeling",
+        "Online": "No"
+    }
+}

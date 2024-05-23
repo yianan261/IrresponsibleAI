@@ -1,0 +1,27 @@
+{
+    "232": {
+        "Country": "Japan",
+        "State": "",
+        "City": "Kanagawa",
+        "Continent": "",
+        "Company": "Tesla Inc.",
+        "Company city": "Palo Alto",
+        "Company state": "California",
+        "Affected population": "Motorcyclists, pedestrians, and other road users",
+        "Number of people actually affected": 1,
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Technical": []
+        },
+        "Area of AI Application": "Autonomous Driving",
+        "Online": "No"
+    }
+}

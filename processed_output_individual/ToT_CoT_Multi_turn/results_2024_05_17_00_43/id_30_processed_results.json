@@ -1,0 +1,28 @@
+{
+    "30": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Tesla",
+        "Company city": "Sparks",
+        "Company state": "Nevada",
+        "Affected population": [
+            "Tesla employees",
+            "Customers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds to Thousands",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Manufacturing Automation",
+        "Online": "No"
+    }
+}

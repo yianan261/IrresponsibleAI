@@ -1,0 +1,53 @@
+{
+    "260": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Department of Homeland Security",
+        "Company city": "Washington, D.C.",
+        "Company state": "Washington, D.C.",
+        "Affected population": [
+            "Immigrants"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Pseudoscience": [],
+            "Environmental Impact": [],
+            "Disinformation": [],
+            "Copyright Violation": [],
+            "Mental Health": [],
+            "Other": []
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race",
+                "Other"
+            ],
+            "Algorithmic bias": [
+                "Interaction",
+                "Other"
+            ],
+            "Technical": [],
+            "Facial": [],
+            "Textual": [],
+            "Image": [],
+            "Video": [],
+            "Audio": []
+        },
+        "Area of AI Application": "Background screening system",
+        "Online": "No"
+    }
+}

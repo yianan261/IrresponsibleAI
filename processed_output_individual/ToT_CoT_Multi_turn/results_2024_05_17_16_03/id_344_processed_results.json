@@ -1,0 +1,27 @@
+{
+    "344": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Curious Thing",
+        "Company city": "Sydney",
+        "Company state": "New South Wales",
+        "Affected population": [
+            "Job candidates"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Interview screening",
+        "Online": "No"
+    }
+}

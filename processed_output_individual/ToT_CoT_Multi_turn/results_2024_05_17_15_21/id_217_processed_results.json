@@ -1,0 +1,27 @@
+{
+    "217": {
+        "Country": "China",
+        "State": "",
+        "City": "Shenzhen",
+        "Continent": "Asia",
+        "Company": "Evolver",
+        "Company city": "Reston",
+        "Company state": "Virginia",
+        "Affected population": [
+            "Visitor at the tech fair"
+        ],
+        "Number of people actually affected": 1,
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Robotics",
+        "Online": "No"
+    }
+}

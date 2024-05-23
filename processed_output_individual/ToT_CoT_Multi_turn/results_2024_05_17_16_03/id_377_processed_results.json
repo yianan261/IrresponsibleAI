@@ -1,0 +1,31 @@
+{
+    "377": {
+        "Country": "China",
+        "State": "",
+        "City": "Beijing",
+        "Continent": "Asia",
+        "Company": "Weibo Corporation",
+        "Company city": "Beijing",
+        "Company state": "",
+        "Affected population": [
+            "Internet users in China"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Textual"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Filtering",
+        "Online": "Yes"
+    }
+}

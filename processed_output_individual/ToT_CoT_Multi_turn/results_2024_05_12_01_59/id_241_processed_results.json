@@ -1,0 +1,27 @@
+{
+    "241": {
+        "Country": "Russia",
+        "State": "",
+        "City": "Moscow",
+        "Continent": "Worldwide",
+        "Company": "Moscow Chess Federation",
+        "Company city": "Moscow",
+        "Company state": "",
+        "Affected population": [
+            "Chess players"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Robotics",
+        "Online": "No"
+    }
+}

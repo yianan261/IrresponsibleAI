@@ -1,0 +1,35 @@
+{
+    "214": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "SN Technologies",
+        "Company city": "Gananoque",
+        "Company state": "Ontario",
+        "Affected population": [
+            "Lockport City School District Community"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Racial bias"
+            ]
+        },
+        "Area of AI Application": "Facial and Weapon Detection Systems",
+        "Online": "No"
+    }
+}

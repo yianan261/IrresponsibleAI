@@ -1,3 +1,4 @@
+ARTICLE TITLE: AI-Generated Profiles Used in Disinformation Campaign Targeting Ukrainians
 Read Ukrainian translation. Read Russian translation.
 
 We took down a network run by people in Russia and Ukraine targeting Ukraine for violating our policy against coordinated inauthentic behavior . They ran websites posing as independent news entities and created fake personas across social media platforms including Facebook, Instagram, Twitter, YouTube, Telegram and also Russian Odnoklassniki and VK.
@@ -100,30 +101,6 @@ Russian Translation
 
 В ответ на вторжение России в Украину наши команды находятся в состоянии повышенной готовности, чтобы выявлять возникающие угрозы и реагировать на них как можно быстрее. Вот несколько обновлений о нашей работе в области безопасности.
 
-Скоординированное недостоверное поведение
-
-За последние 48 часов мы обнаружили относительно небольшую сеть из примерно 40 аккаунтов, страниц и групп в Facebook и Instagram. Они управлялись из России и Украины и были нацелены на людей в Украине через различные платформы социальных сетей и собственные веб-сайты. Мы пресекли эту операцию, заблокировали их домены на нашей платформе и поделились информацией с другими технологическими платформами, исследователями и правительствами. На момент остановки деятельности этой сети на нашей платформе у нее было менее 4 000 аккаунтов в Facebook, которые были подписаны на одну или несколько ее страниц, и менее 500 аккаунтов, которые были подписаны на один или несколько ее аккаунтов в Instagram.
-
-Эта сеть использовала поддельные аккаунты, управляла фейковыми личностями и брендами в интернете – в том числе в Facebook, Instagram, Twitter, YouTube, Telegram, “Одноклассниках” и Vkontakte – чтобы казаться более подлинными в очевидной попытке противостоять проверке со стороны платформ и исследователей. Эти фиктивные личности использовали фотографии профилей, вероятно, созданные с помощью методов искусственного интеллекта, таких как генеративные состязательные сети (GAN). Они утверждали, что находятся в Киеве, и выдавали себя за редакторов новостей, бывшего авиационного инженера и автора научной публикации по гидрографии – науке о картографировании воды. Эта операция запустила несколько сайтов, маскирующихся под независимые новостные издания, которые публиковали утверждения о том, что Запад предал Украину, а Украина является несостоявшимся государством.
-
-Наше расследование продолжается, и на данный момент мы обнаружили связи между этой сетью и другой операцией, которую мы пресекли в апреле 2020 года, и которую мы затем связали с отдельными лицами в России, в регионе Донбасса, Украине и двумя медиаорганизациями в Крыму – NewsFront и SouthFront, которые сейчас находятся под санкциями правительства США.
-
-Попытки хакерских атак группы Ghostwriter
-
-В последние дни мы видели, что хакерская группа Ghostwriter осуществляет усиленные попытки организации атак на людей из Украины, в том числе на военных и общественных деятелей. Индустрия экспертов по безопасности уже на протяжение определенного времени отслеживает действия этой группы.
-
-Обычно Ghostwriter начинает со взлома электронной почты, а затем использует ее для захвата учетных записей в социальных сетях и распространения дезинформации от лица владельцев аккаунтов. Мы обнаружили попытки атак на людей в Facebook для публикации на YouTube видео, показывающих украинские войска в ослабленном состоянии и готовых сдаться России. В том числе замечено видео, в котором якобы украинские солдаты выходят из леса под белым флагом капитуляции. Мы предприняли шаги для защиты учетных записей, которые, по нашему мнению, стали мишенью злоумышленников. Мы также, по возможности, предупреждали пользователей о том, что они подверглись атаке. Мы также заблокировали фишинговые домены, которые использовали хакеры, чтобы обманным путем заставить людей в Украине скомпрометировать свои собственные аккаунты.
-
-Безопасность аккаунтов
-
-Мы рекомендуем жителям Украины и России принять меры по усилению безопасности своих учетных записей в Интернете, чтобы защититься от направленных на них атак.
-
-Мы рекомендуем людям проявлять осторожность при одобрении запросов на добавление в друзья и открывании ссылок и файлов от незнакомых людей. Пожалуйста, воздержитесь от повторного использования одних и тех же паролей в различных службах, чтобы злоумышленники не смогли получить доступ к вашей информации. Мы также настоятельно рекомендуем использовать двухфакторную аутентификацию для всех учетных записей в интернете.
-
-Ранее на этой неделе мы ввели дополнительные меры защиты конфиденциальности и безопасности на своих платформах для пользователей в Украине. Теперь, в ответ на публичные сообщения о преследовании гражданского общества и протестующих, мы запускаем следующие функции в России.
-
-
-
 Закрыть свой профиль: Этот инструмент позволяет людям закрыть свой профиль в Facebook в один клик. Когда профиль закрыт, люди, не являющиеся друзьями владельца аккаунта, не могут загрузить и увеличить фотографию профиля, или поделиться ею. Они также не могут видеть сообщения или другие фотографии на профиле пользователя, независимо от того, когда он их разместил. Наши команды работают с неправительственными и гражданскими организациями, чтобы помочь людям узнать, что эти инструменты доступны.
 
 Списки друзей: Мы временно убрали возможность просматривать списки друзей и искать в них контакты в аккаунтах Facebook в России, чтобы защитить людей от преследования.
@@ -135,31 +112,3 @@ Russian Translation
 Facebook (FB)’s parent Meta said Monday it has caught dozens of fake, pro-Russian accounts, groups and pages across its platforms trying to spread anti-Ukrainian propaganda as the war in Ukraine continues to rage.
 
 Meta’s takedown of the influence campaign also coincided with what company officials described as a separate, intensified push by pro-Russian hackers to compromise the social media accounts of Ukrainian journalists, military leaders and government officials. The hacking campaign, attributed to an actor security researchers have nicknamed “Ghostwriter,” appears to have succeeded with at least some Facebook accounts, Meta said.
-
-Both initiatives underscore how groups supporting Russia’s invasion of Ukraine have attempted to win the information war playing out online, not just on Facebook but on an array of social media platforms and websites.
-
-Over the weekend, Meta said, the company became aware of roughly 40 accounts, groups and pages masquerading as real people. To pull off the deception, the disinformation agents used AI-generated profile pictures and claimed to be writing from Kyiv, according to the company.
-
-One of the fictitious accounts pretended to be an aviation engineer; others claimed to be news editors or scientific authors, Meta said. The accounts published content on Facebook, Instagram and across the wider internet discrediting Ukraine as a failed state, among other claims, Meta said.
-
-The company added that the influence campaign appears to be linked to another campaign Facebook disrupted in 2020. At the time, Facebook’s investigation tied the earlier influence operation to people in Russia, as well as NewsFront and SouthFront, two Crimea-based alleged disinformation sites that have since been sanctioned by the US government.
-
-Nathaniel Gleicher, Meta’s head of security policy, declined to elaborate on the nature of the links, and also repeatedly declined to tell reporters how widely the more recent campaign’s content may have been shared, viewed or engaged with on Meta’s platforms.
-
-But he described the campaign as “relatively small,” with fewer than 4,000 Facebook followers and fewer than 500 followers on Instagram. And he added that Meta was able to disrupt the network before it could amass a large audience.
-
-Thus far, Meta has not found any evidence of pro-Ukrainian fake activity on its platform but the company would announce if it did, Gleicher told CNN.
-
-“Why we share these operations is to make sure that people understand and can see what’s happening on all sides of any conflict,” Gleicher said. “What we’re seeing here is activity from actors who, from the content they’re sharing and the behavior they’re engaged in, appears aligned more in undermining trust of the Ukrainian government and boosting the activities of Russian actors.”
-
-Meanwhile, the campaign to hack into the social media accounts of Ukrainians has targeted “a handful” of victims, Gleicher said, adding that the effort had gone after at least one journalist and multiple Ukrainian military and government officials. Meta has notified its users who were targeted by Ghostwriter, Gleicher said.
-
-After successfully taking control of a person’s social media account, Ghostwriter will attempt to post pro-Ukrainian content, said David Agranovich, Meta’s director of threat disruption. In one example, he said, a hijacked account was witnessed sharing a link to a YouTube video that purported to show Ukrainian troops surrendering. (Asked whether the video appeared to be authentic, Agranovich said he could not speculate on the YouTube content.)
-
-The Ghostwriter campaign works by compromising a victim’s email accounts — often through the use of targeted phishing attacks — and then uses that access to gain entry to the person’s social media accounts.
-
-Ghostwriter has been active since at least 2016, has targeted victims across Europe and has links to Belarus, according to the cybersecurity firm Mandiant. Last fall, the European Union claimed that Ghostwriter was linked to the Russian government.
-
-But since the Russian invasion, Agranovich said, “we’ve seen a pivot in Ghostwriter’s focus to, in particular, people in Ukraine.”
-
-Separately, Gleicher added, Meta is increasingly ramping up user security protections in Russia as protesters opposing the invasion have continued to organize on the company’s platforms. For example, Meta will soon be rolling out a tool in Russia that it has already deployed in Ukraine allowing users to quickly “lock” their profiles, restricting access to a person’s content. In addition, Meta will also be placing a notification at the top of Russian users’ feeds reminding them about steps they can take to secure their accounts.

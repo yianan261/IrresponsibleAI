@@ -1,0 +1,28 @@
+{
+    "276": {
+        "Country": "South Korea",
+        "State": "Gyeonggi Province",
+        "City": "Bucheon",
+        "Continent": "Asia",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Residents of Bucheon",
+            "COVID-19 patients"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "800,000+",
+        "Class of irresponsible AI use": [
+            "Privacy Concerns",
+            "Government Surveillance"
+        ],
+        "Subclasses": {
+            "Privacy Concerns": [],
+            "Government Surveillance": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Contact Tracing",
+        "Online": "No"
+    }
+}

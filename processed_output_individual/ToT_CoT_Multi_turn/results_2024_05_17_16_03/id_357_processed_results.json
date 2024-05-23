@@ -1,0 +1,30 @@
+{
+    "357": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "OpenAI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Users of large language models"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Privacy Violation",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Privacy Violation": [
+                "Data Security",
+                "Contextual Integrity"
+            ],
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Natural Language Processing",
+        "Online": "Yes"
+    }
+}

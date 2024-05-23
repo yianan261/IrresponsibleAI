@@ -1,0 +1,33 @@
+{
+    "489": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Workday",
+        "Company city": "Pleasanton",
+        "Company state": "California",
+        "Affected population": [
+            "Job applicants"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Multiple job applicants",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Race",
+                "Age",
+                "Disability"
+            ]
+        },
+        "Area of AI Application": "Job screening",
+        "Online": "No"
+    }
+}

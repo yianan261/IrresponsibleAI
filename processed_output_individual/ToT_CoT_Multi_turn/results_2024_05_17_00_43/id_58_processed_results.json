@@ -1,0 +1,31 @@
+{
+    "58": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Yandex",
+        "Company city": "Moscow",
+        "Company state": "",
+        "Affected population": [
+            "Users of Yandex Voice Assistant Alice"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Pseudoscience"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Pseudoscience": [
+                "Other"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Conversational Intelligent Assistant",
+        "Online": "Yes"
+    }
+}

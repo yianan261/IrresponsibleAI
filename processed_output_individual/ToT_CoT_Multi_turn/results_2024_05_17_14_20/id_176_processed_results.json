@@ -1,0 +1,27 @@
+{
+    "176": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Starship Technologies",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "People using autonomous food delivery services"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous food delivery",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "41": {
+        "Country": "United States",
+        "State": "Massachusetts",
+        "City": "Cambridge",
+        "Continent": "North America",
+        "Company": "Massachusetts Institute of Technology (MIT)",
+        "Company city": "Cambridge",
+        "Company state": "Massachusetts",
+        "Affected population": [
+            "General public",
+            "AI researchers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Image captioning",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "199": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Consumers of Ever AI"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Privacy Violation",
+            "Lack of Transparency"
+        ],
+        "Subclasses": {
+            "Privacy Violation": [],
+            "Lack of Transparency": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Facial Recognition Technology",
+        "Online": "No"
+    }
+}

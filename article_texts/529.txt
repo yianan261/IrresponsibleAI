@@ -1,3 +1,4 @@
+ARTICLE TITLE: Stable Diffusion Exhibited Biases for Prompts Featuring Professions
 “All AI models have inherent biases that are representative of the datasets they are trained on,” a spokesperson for London-based startup StabilityAI, which distributes Stable Diffusion, said in an emailed statement. “By open-sourcing our models, we aim to support the AI community and collaborate to improve bias evaluation techniques and develop solutions beyond basic prompt modification.”
 
 The company has an initiative to develop open-source models that “will be trained on datasets specific to different countries and cultures, which will serve to mitigate biases caused by overrepresentation in general datasets,” the spokesperson said. The company has not yet begun training those models.

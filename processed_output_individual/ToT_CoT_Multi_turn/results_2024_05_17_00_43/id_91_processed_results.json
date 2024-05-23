@@ -1,0 +1,28 @@
+{
+    "91": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Stanford Medicine",
+        "Company city": "Stanford",
+        "Company state": "California",
+        "Affected population": [
+            "Stanford Medicine residents",
+            "Frontline workers at Stanford Medical Center"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Vaccine distribution",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "189": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Department for Work and Pensions",
+        "Company city": "London",
+        "Company state": "England",
+        "Affected population": [
+            "Disabled people receiving benefits"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Significant number",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Data bias"
+            ]
+        },
+        "Area of AI Application": "Fraud detection",
+        "Online": "No"
+    }
+}

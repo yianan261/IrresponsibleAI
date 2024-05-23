@@ -1,0 +1,63 @@
+{
+    "11": {
+        "company_name": "Northpointe Institute for Public Management",
+        "company_location": {
+            "city": "Ohio",
+            "state": "Ohio"
+        }
+    },
+    "167": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Israeli Start-up",
+        "Company city": "Tel Aviv",
+        "Company state": "",
+        "Affected population": [
+            "LGBTQ People"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Facial"
+            ]
+        },
+        "Sub-subclass": {
+            "Facial": []
+        },
+        "Area of AI Application": "Facial Analysis",
+        "Online": "No"
+    },
+    "382": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Menlo Park",
+        "Company state": "California",
+        "Affected population": [
+            "Teenagers using Instagram"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Filtering",
+        "Online": "Yes"
+    }
+}

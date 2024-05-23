@@ -1,0 +1,28 @@
+{
+    "501": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "NaviHealth",
+        "Company city": "Brentwood",
+        "Company state": "Tennessee",
+        "Affected population": [
+            "Elderly Patients on Medicare Advantage"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Healthcare Decision Making",
+        "Online": "No"
+    }
+}

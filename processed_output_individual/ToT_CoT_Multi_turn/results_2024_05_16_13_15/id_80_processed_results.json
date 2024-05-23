@@ -1,0 +1,27 @@
+{
+    "80": {
+        "Country": "United Kingdom",
+        "State": "",
+        "City": "Inverness",
+        "Continent": "Europe",
+        "Company": "Inverness Caledonian Thistle Football Club",
+        "Company city": "Inverness",
+        "Company state": "",
+        "Affected population": [
+            "Football fans watching the live stream"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Sports broadcasting",
+        "Online": "Yes"
+    }
+}

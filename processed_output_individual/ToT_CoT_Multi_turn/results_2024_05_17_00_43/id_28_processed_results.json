@@ -1,0 +1,31 @@
+{
+    "28": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Investors in stock market"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Market Manipulation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Regulatory Oversight"
+            ],
+            "Market Manipulation": [
+                "Stock Market"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Financial Trading",
+        "Online": "No"
+    }
+}

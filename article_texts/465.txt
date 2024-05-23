@@ -1,3 +1,4 @@
+ARTICLE TITLE: Generative Models Trained on Dataset Containing Private Medical Photos
 Late last week, a California-based AI artist who goes by the name Lapine discovered private medical record photos taken by her doctor in 2013 referenced in the LAION-5B image set, which is a scrape of publicly available images on the web. AI researchers download a subset of that data to train AI image synthesis models such as Stable Diffusion and Google Imagen.
 
 Lapine discovered her medical photos on a site called Have I Been Trained, which lets artists see if their work is in the LAION-5B data set. Instead of doing a text search on the site, Lapine uploaded a recent photo of herself using the site's reverse image search feature. She was surprised to discover a set of two before-and-after medical photos of her face, which had only been authorized for private use by her doctor, as reflected in an authorization form Lapine tweeted and also provided to Ars.

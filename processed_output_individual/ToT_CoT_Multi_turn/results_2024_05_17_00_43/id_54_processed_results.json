@@ -1,0 +1,29 @@
+{
+    "54": {
+        "Country": "Worldwide",
+        "State": "California",
+        "City": "Santa Cruz",
+        "Continent": "Worldwide",
+        "Company": "PredPol, Inc.",
+        "Company city": "Santa Cruz",
+        "Company state": "California",
+        "Affected population": [
+            "Residents in areas targeted by PredPol"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Predictive Policing",
+        "Online": "No"
+    }
+}

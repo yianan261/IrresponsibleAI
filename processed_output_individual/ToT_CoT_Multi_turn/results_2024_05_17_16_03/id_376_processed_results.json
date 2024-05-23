@@ -1,0 +1,28 @@
+{
+    "376": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "RealPage",
+        "Company city": "Richardson",
+        "Company state": "Texas",
+        "Affected population": [
+            "Tenants using RealPage software"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Antitrust Violation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Price setting in real estate",
+        "Online": "No"
+    }
+}

@@ -1,3 +1,4 @@
+ARTICLE TITLE: Bing Chat Response Cited ChatGPT Disinformation Example
 One of the more interesting, but seemingly academic, concerns of the new era of AI sucking up everything on the web was that AIs will eventually start to absorb other AI-generated content and regurgitate it in a self-reinforcing loop. Not so academic after all, it appears, because Bing just did it! When asked, it produced verbatim a COVID conspiracy coaxed out of ChatGPT by disinformation researchers just last month.
 
 To be clear at the outset, this behavior was in a way coerced, but prompt engineering is a huge part of testing the risks and indeed exploring the capabilities of large AI models. It’s a bit like pentesting in security — if you don’t do it, someone else will.

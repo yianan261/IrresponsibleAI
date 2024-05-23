@@ -1,3 +1,4 @@
+ARTICLE TITLE: Hiring Algorithms Provided Invalid Positive Results for Interview Responses in German
 MyInterview provides hiring managers with a transcript of their interviews. When we inspected our candidate’s transcript, we found that the system interpreted her German words as English words. But the transcript didn’t make any sense. The first few lines, which correspond to the answer provided above, read:
 
 "So humidity is desk a beat-up. Sociology, does it iron? Mined material nematode adapt. Secure location, mesons the first half gamma their Fortunes in for IMD and fact long on for pass along to Eurasia and Z this particular location mesons."

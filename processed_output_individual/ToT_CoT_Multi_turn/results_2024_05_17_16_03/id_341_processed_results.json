@@ -1,0 +1,28 @@
+{
+    "341": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Nissan North America, Inc.",
+        "Company city": "Franklin",
+        "Company state": "Tennessee",
+        "Affected population": [
+            "Nissan vehicle owners"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Environmental Impact"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Automotive Safety",
+        "Online": "No"
+    }
+}

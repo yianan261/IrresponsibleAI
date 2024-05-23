@@ -1,0 +1,45 @@
+{
+    "405": {
+        "Country": "Germany",
+        "State": "Hessen",
+        "City": "Wiesbaden",
+        "Continent": "Europe",
+        "Company": "Schufa Holding AG",
+        "Company city": "Wiesbaden",
+        "Company state": "Hessen",
+        "Affected population": [
+            "Consumers in Germany"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Gender",
+                "Race",
+                "Other"
+            ],
+            "Algorithmic bias": [
+                "Interaction",
+                "Feedback loop",
+                "Optimization function",
+                "Other"
+            ],
+            "Technical": []
+        },
+        "Area of AI Application": "Credit Scoring",
+        "Online": "No"
+    }
+}

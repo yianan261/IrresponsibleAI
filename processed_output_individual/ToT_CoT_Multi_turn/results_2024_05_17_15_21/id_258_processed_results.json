@@ -1,0 +1,28 @@
+{
+    "258": {
+        "Country": "Australia",
+        "State": "New South Wales",
+        "City": "Marrickville",
+        "Continent": "Worldwide",
+        "Company": "Kmart, Bunnings, The Good Guys",
+        "Company city": "Marrickville",
+        "Company state": "New South Wales",
+        "Affected population": [
+            "Customers of Kmart, Bunnings, The Good Guys"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Privacy Violation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Facial Recognition",
+        "Online": "No"
+    }
+}

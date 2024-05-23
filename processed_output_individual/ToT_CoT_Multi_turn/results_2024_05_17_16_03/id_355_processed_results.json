@@ -1,0 +1,28 @@
+{
+    "355": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Uber Technologies Inc",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Uber drivers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Several",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Employment",
+        "Online": "No"
+    }
+}

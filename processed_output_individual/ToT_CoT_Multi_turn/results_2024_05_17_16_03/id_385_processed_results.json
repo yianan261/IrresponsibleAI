@@ -1,0 +1,31 @@
+{
+    "385": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Parabon NanoLabs",
+        "Company city": "Reston",
+        "Company state": "Virginia",
+        "Affected population": [
+            "Community in Edmonton, Alberta, Canada"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Community in Edmonton",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Forensic investigation",
+        "Online": "No"
+    }
+}

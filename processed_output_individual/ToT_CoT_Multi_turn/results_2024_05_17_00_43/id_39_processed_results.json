@@ -1,0 +1,27 @@
+{
+    "39": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Film Industry Professionals"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Copyright Violation",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Copyright Violation": [],
+            "Disinformation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Video Editing",
+        "Online": "No"
+    }
+}

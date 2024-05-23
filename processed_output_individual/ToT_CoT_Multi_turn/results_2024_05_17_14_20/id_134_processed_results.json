@@ -1,0 +1,27 @@
+{
+    "134": {
+        "Country": "China",
+        "State": "Fujian",
+        "City": "Fuzhou",
+        "Continent": "Asia",
+        "Company": "Fuzhou Zhongfang Marlboro Mall",
+        "Company city": "Fuzhou",
+        "Company state": "Fujian",
+        "Affected population": [
+            "Passengers in the shopping mall"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Robotics",
+        "Online": "No"
+    }
+}

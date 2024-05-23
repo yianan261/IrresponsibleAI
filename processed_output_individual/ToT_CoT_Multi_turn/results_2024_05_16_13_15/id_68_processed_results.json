@@ -1,0 +1,28 @@
+{
+    "68": {
+        "Country": "United States",
+        "State": "Washington D.C.",
+        "City": "Washington D.C.",
+        "Continent": "North America",
+        "Company": "Knightscope",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Office workers",
+            "General public"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Security",
+        "Online": "No"
+    }
+}

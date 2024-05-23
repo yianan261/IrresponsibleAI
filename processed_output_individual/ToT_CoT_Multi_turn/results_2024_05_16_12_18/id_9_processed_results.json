@@ -1,0 +1,31 @@
+{
+    "9": {
+        "Country": "United States",
+        "State": "New York",
+        "City": "Great Neck",
+        "Continent": "North America",
+        "Company": "New York State Education Department",
+        "Company city": "Albany",
+        "Company state": "New York",
+        "Affected population": [
+            "Public school teachers in New York"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Pseudoscience"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Pseudoscience": [
+                "Other"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Teacher evaluation",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "106": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Scatter Lab",
+        "Company city": "Seoul",
+        "Company state": "South Korea",
+        "Affected population": [
+            "Users of Facebook Messenger"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "750,000",
+        "Classes of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Sexual Orientation"
+            ],
+            "Algorithmic bias": []
+        },
+        "Area of AI Application": "Chatbot",
+        "Online": "Yes"
+    }
+}

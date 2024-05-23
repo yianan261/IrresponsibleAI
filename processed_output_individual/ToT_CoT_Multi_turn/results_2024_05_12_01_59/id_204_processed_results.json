@@ -1,0 +1,28 @@
+{
+    "204": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Sangfor",
+        "Company city": "Unknown",
+        "Company state": "Unknown",
+        "Affected population": [
+            "Employees at Zhihu"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Privacy Violation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Employee Monitoring",
+        "Online": "No"
+    }
+}

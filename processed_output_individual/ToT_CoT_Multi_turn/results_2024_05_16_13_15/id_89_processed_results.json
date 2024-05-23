@@ -1,0 +1,44 @@
+{
+    "89": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "San Bruno",
+        "Company state": "California",
+        "Affected population": [
+            "General public",
+            "Muslim community"
+        ],
+        "Number of people actually affected": 51,
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Disinformation": [
+                "Textual",
+                "Video"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Feedback loop"
+            ],
+            "Textual": [],
+            "Video": [],
+            "Technical": []
+        },
+        "Area of AI Application": "content recommendation",
+        "Online": "Yes"
+    }
+}

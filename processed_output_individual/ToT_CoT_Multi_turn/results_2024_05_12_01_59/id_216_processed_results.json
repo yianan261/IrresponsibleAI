@@ -1,0 +1,32 @@
+{
+    "216": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Tencent",
+        "Company city": "Shenzhen",
+        "Company state": "Guangdong",
+        "Affected population": [
+            "Users of WeChat"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Nearly a billion",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Interaction",
+                "Feedback loop"
+            ]
+        },
+        "Area of AI Application": "Language translation",
+        "Online": "Yes"
+    }
+}

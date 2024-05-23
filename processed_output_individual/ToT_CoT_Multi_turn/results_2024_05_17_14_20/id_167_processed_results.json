@@ -1,0 +1,29 @@
+{
+    "167": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Israeli Start-Up",
+        "Company city": "Tel Aviv",
+        "Company state": "",
+        "Affected population": [
+            "LGBTQ Community"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Facial"
+            ]
+        },
+        "Sub-subclass": {
+            "Facial": []
+        },
+        "Area of AI Application": "Facial Analysis",
+        "Online": "No"
+    }
+}

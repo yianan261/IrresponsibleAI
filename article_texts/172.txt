@@ -1,3 +1,4 @@
+ARTICLE TITLE: NarxCare’s Risk Score Model Allegedly Lacked Validation and Trained on Data with High Risk of Bias
 The result was that Kilby’s algorithm generated a large number of both false positive and false negative results, even when she set her parameters so strictly that someone had to score at or above the 99th percentile to be considered high risk. In that case, she found, only 11 percent of high scorers had actually been diagnosed with opioid use disorder—while 89 percent were incorrectly flagged.
 
 Loosening her criteria didn’t improve matters. Using the 95th percentile as a cutoff identified more true positives, but also increased false ones: This time less than 5 percent of positives were true positives. (In its own literature, Appriss mentions these two cutoffs as being clinically useful.)

@@ -1,0 +1,33 @@
+{
+    "424": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "University of Ottawa",
+        "Company city": "Ottawa",
+        "Company state": "Ontario",
+        "Affected population": [
+            "University students"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Many",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Privacy Violation"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ],
+            "Privacy Violation": []
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Socio-economic discrimination"
+            ]
+        },
+        "Area of AI Application": "Exam proctoring",
+        "Online": "Yes"
+    }
+}

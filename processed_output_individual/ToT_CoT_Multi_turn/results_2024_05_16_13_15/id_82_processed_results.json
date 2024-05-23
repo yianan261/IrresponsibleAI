@@ -1,0 +1,33 @@
+{
+    "82": {
+        "Country": "Nigeria",
+        "State": "Lagos",
+        "City": "Lagos",
+        "Continent": "Africa",
+        "Company": "Facebook",
+        "Company city": "Menlo Park",
+        "Company state": "California",
+        "Affected population": [
+            "#EndSARS protesters",
+            "Nigerian citizens"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Image",
+                "Video"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "content moderation",
+        "Online": "Yes"
+    }
+}

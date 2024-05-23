@@ -1,0 +1,27 @@
+{
+    "94": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Deliveroo",
+        "Company city": "London",
+        "Company state": "England",
+        "Affected population": [
+            "Deliveroo riders"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Shift scheduling",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "110": {
+        "Country": "United States",
+        "State": "Arkansas",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "InterRAI",
+        "Company city": "Ann Arbor",
+        "Company state": "Michigan",
+        "Affected population": [
+            "Beneficiaries of the Medicaid waiver program"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Technical": [
+                "Algorithmic bias"
+            ]
+        },
+        "Area of AI Application": "Healthcare",
+        "Online": "No"
+    }
+}

@@ -4,6 +4,8 @@ from .results import *
 from .search_request import *
 import json
 from .param_data import *
+from dotenv import load_dotenv
+import openai
 
 
 class OpenaiAPI:
@@ -15,7 +17,11 @@ class OpenaiAPI:
     """
 
     def __init__(self, model="gpt-3.5-turbo-0125"):
-        self.client = OpenAI()
+        load_dotenv()
+        api_key = os.getenv("OPENAI_API_KEY")
+        print("API KEY",api_key)
+        openai.api_key = api_key
+        self.client = openai
         self.model = model
         self.available_functions = {"get_location": get_location}
 
@@ -28,12 +34,12 @@ class OpenaiAPI:
             article_text (str): The article text to process.
 
         Returns:
-            tuple: A tuple containing the list of messages, tools configuration, and the prompt string.
+            tuple: A tuple containing the list of messages and tools configuration.
         """
-        prompt = prompt_factory.get_prompt(article_text, prompt_type)
-        messages = get_messages(prompt, article_text, "multi")
+        # prompt = prompt_factory.get_prompt(article_text, prompt_type)
+        messages = get_messages(article_text, message_type="multi")
         tools = get_tools()
-        return messages, tools, prompt
+        return messages, tools
 
     def handle_tool_calls(self, tool_calls):
         """
@@ -82,32 +88,47 @@ class OpenaiAPI:
         Returns:
             tuple: A tuple containing the response from the LLM and the generated prompt.
         """
-        message, tools, prompt = self.get_data(prompt_type, article_text)
+        first_message, tools = self.get_data(prompt_type, article_text)
 
         completion = self.client.chat.completions.create(
             model=self.model,
             response_format={"type": "json_object"},
-            messages=message,
+            messages=first_message,
             temperature=0.3,
             tools=tools,
             tool_choice="auto",
         )
+
         response_message = completion.choices[0].message
         tool_calls = response_message.tool_calls
         print("=====TOOL CALLS=====", tool_calls)
+        prompt = ""
         if tool_calls:
             location_candidates = self.handle_tool_calls(tool_calls)
-            new_message = update_messages_with_location(
-                article_text, prompt, location_candidates
+            # prompt = prompt_factory.get_prompt(article_text, prompt_type)
+            prompt = prompt_factory.get_prompt(
+                article_text, prompt_type, location_candidates
+            )
+            # second_message = update_messages_with_location(prompt, message_type="one")
+            second_message = update_messages_with_location(
+                prompt,
+                message_type="one",
+                article_text=article_text,
+                location_candidates=location_candidates,
             )
             print("REQUESTING 2nd chat completions call")
             completion = self.client.chat.completions.create(
                 model=self.model,
                 response_format={"type": "json_object"},
-                messages=new_message,
+                messages=second_message,
                 temperature=0.3,
             )
+        print(
+            "++++RESPONSE FROM CHAT COMPLETIONS MESSAGE++++++",
+            completion.choices[0].message,
+        )
         response = completion.choices[0].message.content
+        print("=======RESPONSE FROM CHAT COMPLETIONS====", response)
         return response, prompt
 
     # optional

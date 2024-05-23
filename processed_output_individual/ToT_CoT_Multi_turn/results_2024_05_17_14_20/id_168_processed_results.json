@@ -1,0 +1,25 @@
+{
+    "168": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Users of collaborative filtering algorithms"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Popularity Bias"
+        ],
+        "Subclasses": {
+            "Popularity Bias": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Recommendation Systems",
+        "Online": "Yes"
+    }
+}

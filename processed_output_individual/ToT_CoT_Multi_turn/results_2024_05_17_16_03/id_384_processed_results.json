@@ -1,0 +1,27 @@
+{
+    "384": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Glovo",
+        "Company city": "Barcelona",
+        "Company state": "Catalonia",
+        "Affected population": [
+            "Delivery workers"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Automated employee management",
+        "Online": "No"
+    }
+}

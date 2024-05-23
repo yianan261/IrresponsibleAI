@@ -1,0 +1,27 @@
+{
+    "194": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Australian Telecommunications Company",
+        "Company city": "Sydney",
+        "Company state": "New South Wales",
+        "Affected population": [
+            "Technicians, Customers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Incident Management",
+        "Online": "No"
+    }
+}

@@ -1,3 +1,4 @@
+ARTICLE TITLE: Collaborative Filtering Prone to Popularity Bias, Resulting in Overrepresentation of Popular Items in the Recommendation Outputs
 If you're interested in obscure things, there are two reasons why your searches for items and products are likely to be less related to your interests than those of your ‘mainstream' peers; either you're a monetization ‘edge case' whose interests will only be catered to if you're also in the upper categories of economic purchasing power (for example, products and services related to ‘wealth management'); or the search algorithms that you're using are leveraging collaborative filtering (CF), which favors the interests of the majority.
 
 Since collaborative filtering is cheaper and more established than other potentially more capable algorithms and frameworks, it's possible that both these cases apply.

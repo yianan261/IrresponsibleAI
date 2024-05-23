@@ -1,0 +1,29 @@
+{
+    "636": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Mozilla Corporation",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Users of AI romance chatbots"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Privacy Violation",
+            "Data Harvesting",
+            "Security Concerns"
+        ],
+        "Subclasses": {
+            "Privacy Violation": [],
+            "Data Harvesting": [],
+            "Security Concerns": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Personalized Chatbots",
+        "Online": "Yes"
+    }
+}

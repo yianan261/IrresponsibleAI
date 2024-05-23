@@ -1,0 +1,29 @@
+{
+    "603": {
+        "Country": "Worldwide",
+        "State": "Idaho",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "University of Michigan",
+        "Company city": "Ann Arbor",
+        "Company state": "Michigan",
+        "Affected population": [
+            "Disabled and Elderly People"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Technical": []
+        },
+        "Area of AI Application": "Healthcare Resource Allocation",
+        "Online": "No"
+    }
+}

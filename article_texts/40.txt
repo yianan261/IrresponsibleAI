@@ -1,3 +1,4 @@
+ARTICLE TITLE: COMPAS Algorithm Performs Poorly in Crime Recidivism Prediction
 In a study of COMPAS, an algorithmic tool used in the US criminal justice system , Dartmouth College researchers Julia Dressel and Hany Farid found that the algorithm did no better than volunteers recruited via a crowdsourcing site. COMPAS, a proprietary risk assessment algorithm developed by Equivant (formerly Northpointe), considers answers to a 137-item questionnaire in order to provide predictions that are used in making decisions about sentencing and probation. In a case brought by a defendant, who claimed that the use of an algorithm whose inner workings were a proprietary secret, violated due process.
 
 

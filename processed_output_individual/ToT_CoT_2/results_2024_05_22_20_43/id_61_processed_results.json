@@ -1,0 +1,27 @@
+{
+    "61": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Kaggle",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": "Data scientists, participants of Kaggle competitions",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Technical": []
+        },
+        "Area of AI Application": "Data Science, Image Classification",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "64": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Heriot-Watt University",
+        "Company city": "Edinburgh",
+        "Company state": "Scotland",
+        "Affected population": [
+            "Customers at Scottish supermarket Margiotta"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Customers at the supermarket during the trial period",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Customer Service",
+        "Online": "No"
+    }
+}

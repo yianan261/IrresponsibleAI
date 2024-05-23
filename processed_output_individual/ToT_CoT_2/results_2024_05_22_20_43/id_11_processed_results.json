@@ -1,0 +1,36 @@
+{
+    "11": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Northpointe Institute for Public Management (now part of Equivant)",
+        "Company city": "Ohio",
+        "Company state": "",
+        "Affected population": "Defendants in the judicial system",
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Interaction",
+                "Feedback loop",
+                "Optimization function"
+            ],
+            "Administrative": []
+        },
+        "Area of AI Application": "Criminal Sentencing",
+        "Online": "No"
+    }
+}

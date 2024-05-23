@@ -1,0 +1,27 @@
+{
+    "10": {
+        "Country": "Worldwide",
+        "State": "Massachusetts",
+        "City": "Lowell",
+        "Continent": "Worldwide",
+        "Company": "Kronos Incorporated",
+        "Company city": "Lowell",
+        "Company state": "Massachusetts",
+        "Affected population": [
+            "Starbucks Employees"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Scheduling Algorithm",
+        "Online": "No"
+    }
+}

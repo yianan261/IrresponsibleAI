@@ -1,0 +1,34 @@
+{
+    "133": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "TikTok",
+        "Company city": "Palm Springs",
+        "Company state": "California",
+        "Affected population": [
+            "Marginalized Creators on TikTok"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Other"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ],
+            "Other": []
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race",
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Automated Content Reporting System",
+        "Online": "Yes"
+    }
+}

@@ -1,3 +1,4 @@
+ARTICLE TITLE: Google Lens’s Camera-Based Translation Feature Provided an Offensive Mistranslation of a Book Title in Korean
 Research and development has a major unsolved problem throughout state of the art AI systems: making systems perform well beyond the environment for which they were engineered. While this problem goes by many names (e.g., distributional shift, model generalization, open set robustness, etc.), its implications are already apparent in the real world,
 
 Incident 171: A driver is fined after a woman's t-shirt is mistaken for a license plate. The license plate reader is not engineered to differentiate shirts and license plates so it does not solve the open set problem. Incident 36: A woman is shamed in china for jaywalking because her image is on the side of a bus. The person detection system is not engineered to differentiate images of people from actual people.

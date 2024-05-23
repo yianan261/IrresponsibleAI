@@ -40,7 +40,7 @@ taxanomy = """
 structure = "{ <class>: {<subclass>:{[<sub-subclass>]}} }"
 
 
-def get_prompt(article_text, prompt_type):
+def get_prompt(article_text, prompt_type, location_candidates=[]):
     taxa = Taxonomies()
     # llm_lingua = PromptCompressor(
     #     "TheBloke/Llama-2-7b-Chat-GPTQ", model_config={"revision": "main"}
@@ -494,7 +494,7 @@ def get_prompt(article_text, prompt_type):
         ==============start of example 1===============
         step 1. Read article text. For an example article such as: 
         ```start of example article 1```
-        {compressed_example_article_1}
+        {example_article_id_1}
         ```end of example article 1```
         step 2. Reason for the classifications: 
         Here is the reasoning for its classifications:
@@ -509,9 +509,9 @@ def get_prompt(article_text, prompt_type):
 
         ==============start of example 2===============
          step 1. Read article text. For an example article such as: 
-        ```start of example article 1```
-        {compressed_example_article_6}
-        ```end of example article 1```
+        ```start of example article 2```
+        {example_article_id_6}
+        ```end of example article 2```
         step 2. Reason for the classifications: 
         Here is the reasoning for its classifications:
         ```start of response reasoning```
@@ -526,7 +526,7 @@ def get_prompt(article_text, prompt_type):
         2. Each expert's task is mainly this part. The experts each have to fill out the following fields according to the article content following the steps below:
         STEP 1: Read the article text:
         ================== Start of Article Content =================
-        {compressed_article}
+        {article_text}
         ================== End of Article Content ===================
         STEP 2: State your reason for your classifications for the following:
         =================Classification Fields====================
@@ -661,7 +661,7 @@ def get_prompt(article_text, prompt_type):
         ```taxonomy
           {taxanomy}
         ```, take a look at this example:
-        ==============start of example===============
+        ==============start of EXAMPLE===============
          step 1. Read article text. For an example article such as: 
         ```start of example article 1```
         {example_article_id_6}
@@ -677,7 +677,8 @@ def get_prompt(article_text, prompt_type):
         ```end of output example```
         ============== end of example =================
 
-        2. Each expert's task is mainly the next classificaiton part. Each expert has to fill out the following fields according to the article content:
+        Each expert's task is mainly the next classificaiton part. Each expert has to fill out the following fields according to the article content:
+        Here's another example:
         STEP 1: Read the article text:
         ================== Start of Article Content =================
         {example_article_id_1}
@@ -723,6 +724,104 @@ def get_prompt(article_text, prompt_type):
         Note to the experts: DO NOT make up your own field. If for some reason you are unable to extract information for a certain field, leave it blank.
 
         Provide the classification and reasonings for each field. 
+        """
+    elif prompt_type == "ToT_CoT_2":
+        return f"""
+        You are three expert academic researchers trying to categorize and classify a list of incidents of irresponsible use of artificial intelligence technology.    
+        Given the aggregated news article texts on relevant incidents, each of the three experts will fill out the following classifications. Their responses are well-thought-out responses that are well-supported by the article text.
+        The experts will share their reasoning for all their classifications.
+        Each expert will share their thought process in detail, taking into account the previous thoughts of other and admitting any errors. 
+        For each classificaiton field, the experts will create a breadth-first search of the tree of probable classifications and will vote on which of their classification is the most well-supported by the article text.
+        1. The experts will take a look at this taxonomy:
+        ```taxonomy
+          {taxanomy}
+        ```, take a look at this example:
+        ==============start of EXAMPLE 1===============
+         step 1. Read article text. For an example article such as: 
+        ```start of example article 1```
+        {example_article_id_6}
+        ```end of example article 1```
+        step 2. Reason for the classifications: 
+        Here is the reasoning for its classifications:
+        ```start of response reasoning```
+        {example_output_explanation_id_6}
+        ```end of response reasoning```
+        step 3. generate expected output 
+        ```start of output example```
+        {example_output_id_6}
+        ```end of output example```
+        ============== end of example 1 =================
+        Here's another example:
+        ==============start of EXAMPLE 2===============
+         step 1. Read article text. For an example article such as: 
+        ```start of example article 2```
+        {example_article_id_1}
+        ```end of example article 2```
+        step 2. Reason for the classifications (remember you are three experts and vote on the best classification): 
+        Here is the reasoning for its classifications:
+        ```start of response reasoning```
+        {example_output_explanation_id_1}
+        ```end of response reasoning```
+        step 3. generate expected output 
+        ```start of output example```
+        {example_output_id_1}
+        ```end of output example```
+        ============== end of example 2=================
+
+        IMPORTANT TASK HERE:
+        STEP 1: Read the article text and keep this main article in mind:
+        ================== Start of Main Article Content =================
+        {article_text}
+        ================== End of Main Article Content ===================
+        
+        Each expert's task is mainly the next classificaiton part. Each expert has to fill out the following fields according to the main article content.
+        STEP 2: State your reasons for your classifications for the following from the main article content:
+        =================Classification Fields====================
+        - Country (output "Worldwide" if the incident happened across multiple countries):
+        - State (State impacted by the incident; if not applicable leave blank):
+        - City (City impacted by the incident; if not applicable leave blank):
+        - Continent (output "Worldwide" if the incident happened across multiple countries):
+        - Company (i.e. the company that developed the technology involved in this incident):
+        - Company city (the city where the headquarters of this company is located):
+        - Company state (the state of the company city, if applicable, if not leave blank):
+        - Affected population (let's think about which groups of people are directly affected by the incident in the article.): 
+        - Number of people actually affected (let's check the number of people directly affected according to the article. Give a total number. If unknown output 'Unknown'):
+        - Number of people potentially affected (try to come up with an estimate number. let's think and estimate how many people might have been potentially affected by this incident):
+        - Classes of irresponsible AI use (Carefully identify the classes of harm. Please follow the rules and refer to this taxonomy for the classes of harm): 
+        ```taxonomy classes
+                {taxa.classes} 
+        ```   
+        Rule1: There could be more than one classes the article classifies as. 
+        Rule2: DO NOT create your own class, adhere strictly to the provided list.
+        - Subclasses (Identify the subclasses IF applicable, not all `classes` have `subclasses`. You MUST adhere to this taxonomy structure `<class>:[<subclass>]`.):
+          ```taxonomy subclasses       
+                 {taxa.subclasses}
+          ```
+        Rule1 : The subclasses should be the children of the classes. Let's think about which sub-categories of the class/classes this article belong in. 
+        Rule2: DO NOT ADD subclass fields that are NOT in the provided taxonomy list
+        Rule3: If there is no subclass for a particular class in the taxonomy, leave it.
+        - Sub-subclass (Identify the sub-subclass IF applicable, not all `subclasses` have `sub-subclasses`. You MUST adhere to this taxonomy structure `<subclass>:[<sub-subclass>]`): 
+        ```taxonomy structure
+               {taxa.sub_subclasses}
+        ```
+        Rule1: Only find the sub-subclass relation in the provided taxonomy. The sub-subclass are children of subclass.
+        Rule2: DO NOT ADD OR CREATE sub-subclass fields that are not in the provided taxonomy list. 
+        Rule3: If a subclass in the taxonomy does not have a sub-subclass, leave it.
+        Rule4: If none of the subclasses have sub-subclasses, just leave the field empty e.g. sub-subclass:[]
+        - Area of AI Application (e.g. content filtering, surveillance, illness prediction):
+        - Online (yes or no):
+        =================Classification Fields====================
+        STEP 3: Each expert must follow the previous example steps and provide classification and reasoning for the main article content. The experts will discuss with each other their classification and reasoning and vote on the best one for each field.
+
+        Note to the experts: DO NOT make up your own field. If for some reason you are unable to extract information for a certain field, leave it blank. 
+
+        STEP 4: Check if your reasoning makes sense and is supported by the main article text. 
+        STEP 5: From this list of location candidates from Google Search API that returns search results on the city and state of the company, 
+            ```location candidates = {location_candidates}```
+            determine which candidate most-likely has the correct location of company in question in the main article and note the city and state of the company of the chosen candidate.
+            Compare the `company city` and `company state` field results with your result from STEP 3 and 4; determine which `company city` and `company state` are the correct answers and update if necessary. Provide your final full classification result in JSON.
+            If the location candidates list is empty, you may just return the original classification results in JSON format.
+
         """
 
 

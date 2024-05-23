@@ -1,3 +1,4 @@
+ARTICLE TITLE: GitHub Copilot, Copyright Infringement and Open Source Licensing
 The software engineering world has been buzzing in recent days following the release of GitHub Copilot — a machine learning-based programming assistant. Copilot aims to help developers work faster and more efficiently by auto-suggesting lines of code and/or entire functions.
 
 However, the matter of how GitHub Copilot generates these suggestions has been the subject of some controversy. In short, Copilot’s machine learning model has been trained on public code. This raises two questions:

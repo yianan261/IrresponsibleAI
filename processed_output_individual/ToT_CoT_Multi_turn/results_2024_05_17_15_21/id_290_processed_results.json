@@ -1,0 +1,27 @@
+{
+    "290": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Cann Forecast",
+        "Company city": "Montreal",
+        "Company state": "Quebec",
+        "Affected population": [
+            "Residents of Toronto beaches"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Residents of Toronto beaches",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Water quality forecasting",
+        "Online": "No"
+    }
+}

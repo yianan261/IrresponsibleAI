@@ -1,0 +1,27 @@
+{
+    "379": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "PepsiCo, Inc.",
+        "Company city": "Purchase",
+        "Company state": "New York",
+        "Affected population": [
+            "Consumers in the Philippines"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds of thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Number Generation System",
+        "Online": "No"
+    }
+}

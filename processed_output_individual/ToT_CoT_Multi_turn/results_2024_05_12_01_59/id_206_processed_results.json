@@ -1,0 +1,31 @@
+{
+    "206": {
+        "Country": "Worldwide",
+        "State": "California",
+        "City": "West Hollywood",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "West Hollywood",
+        "Company state": "California",
+        "Affected population": [
+            "Users of Tinder Plus"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Age"
+            ]
+        },
+        "Area of AI Application": "Pricing",
+        "Online": "Yes"
+    }
+}

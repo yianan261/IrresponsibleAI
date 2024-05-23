@@ -1,0 +1,27 @@
+{
+    "361": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Amazon",
+        "Company city": "Seattle",
+        "Company state": "Washington",
+        "Affected population": [
+            "Portland family"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "1",
+        "Class of irresponsible AI use": [
+            "Privacy Violation",
+            "Security Breach"
+        ],
+        "Subclasses": {
+            "Privacy Violation": [],
+            "Security Breach": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Voice-controlled smart speaker",
+        "Online": "No"
+    }
+}

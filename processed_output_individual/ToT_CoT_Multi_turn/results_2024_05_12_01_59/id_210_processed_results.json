@@ -1,0 +1,31 @@
+{
+    "210": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Mohalla Tech Pvt. Ltd.",
+        "Company city": "Bengaluru",
+        "Company state": "Karnataka",
+        "Affected population": [
+            "Social media users in India"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Textual"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Social media manipulation",
+        "Online": "Yes"
+    }
+}

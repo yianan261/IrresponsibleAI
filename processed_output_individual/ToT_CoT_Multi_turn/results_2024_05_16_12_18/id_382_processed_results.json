@@ -1,0 +1,30 @@
+{
+    "382": {
+        "Country": "United Kingdom",
+        "State": "",
+        "City": "London",
+        "Continent": "Europe",
+        "Company": "Meta Platforms, Inc.",
+        "Company city": "Menlo Park",
+        "Company state": "California",
+        "Affected population": [
+            "Teenagers",
+            "Instagram users"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Mental Health",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Mental Health": [],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Social Media Content Moderation",
+        "Online": "Yes"
+    }
+}

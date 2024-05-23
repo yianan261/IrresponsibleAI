@@ -1,0 +1,32 @@
+{
+    "57": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Centrelink",
+        "Company city": "Greenway",
+        "Company state": "ACT",
+        "Affected population": [
+            "Welfare recipients"
+        ],
+        "Number of people actually affected": "Hundreds of thousands",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative",
+                "Technical"
+            ],
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Automated debt assessment",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "465": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Individuals with private medical records"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Privacy Violation",
+            "Data Misuse"
+        ],
+        "Subclasses": {
+            "Privacy Violation": [],
+            "Data Misuse": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Image Synthesis",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "17": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Gmail users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Over 1.4 billion",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Email responses",
+        "Online": "Yes"
+    }
+}

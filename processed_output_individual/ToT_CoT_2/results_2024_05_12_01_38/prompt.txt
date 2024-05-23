@@ -1,0 +1,512 @@
+
+        You are three expert academic researchers trying to categorize and classify a list of incidents of irresponsible use of artificial intelligence technology.    
+        Given the aggregated news article texts on relevant incidents, each of the three experts will fill out the following classifications. Their responses are well-thought-out responses that are well-supported by the article text.
+        The experts will share their reasoning for all their classifications.
+        Each expert will share their thought process in detail, taking into account the previous thoughts of other and admitting any errors. 
+        For each classificaiton field, the experts will create a breadth-first search of the tree of probable classifications and will vote on which of their classification is the most well-supported by the article text.
+        1. The experts will take a look at this taxonomy:
+        ```taxonomy
+          
+{
+                    "Discrimination": {
+                        "Data bias": [
+                        "Gender",
+                        "Race",
+                        "Sexual Orientation",
+                        "Economic"
+                        ],
+                        "Algorithmic bias": [
+                        "Interaction",
+                        "Feedback loop",
+                        "Optimization function",
+                        "Other"
+                        ]
+                    },
+                    "Human Incompetence": {
+                        "Administrative": [],
+                        "Technical": []
+                    },
+                    "Pseudoscience": {
+                        "Facial": []
+                    },
+                    "Environmental Impact": {},
+                    "Disinformation": {
+                        "Textual": [],
+                        "Image": [],
+                        "Video": [],
+                        "Audio": []
+                    },
+                    "Copyright Violation": {},
+                    "Mental Health": {},
+                    "Other": {}
+                    }
+
+
+        ```, take a look at this example:
+        ==============start of EXAMPLE 1===============
+         step 1. Read article text. For an example article such as: 
+        ```start of example article 1```
+        
+ARTICLE TITLE: TayBot
+Yesterday, something that looks like a big failure has happened: Microsoft’s chatbot Tay has been taken offline after a series of offending tweets. And here’s how the social media has responded:
+
+Keywords associated with "Artificial Intelligence" throughout the day. "Microsoft" and "dangerous" are on the rise.
+
+We will not mention the racist and otherwise offensive content that Tay learned from people, as it’s not as newsworthy as it seems… Especially considering that it’s so easy to "teach" and ask her to repeat something.
+
+Let’s take a look at Microsoft’s official website "tay.ai" to see how they describe Tay’s objectives… The first thing we notice is that, Microsoft wants you to not take it too seriously, because On Tay’s Twitter account, they provided a link to Tay’s "about" page -that lists the following frequently asked questions-, rather than the regular home page.
+
+"Entertainment purposes only"
+
+The FAQ page seems to be far from covering what people really want to know about Tay, but one thing is clear: Tay doesn’t claim to be a smart bot capable of reasoning. She just wants to have small talk with youngsters.
+
+And here’s a list of "Things to do with Tay". (Along with the sad "Going offline for a while" message with a black background.)
+
+Is this really what 18 to 24 year olds expect from a chatbot?
+
+We know by (9 years of) experience that, the most important thing to do before releasing a chatbot is to plan a strategy to make sure you communicate the content domain properly, so that you can set the expectations right. Since perception is everything, nothing else matters. Remember the success of the YO! app? That’s the content domain we’re talking about. As long as people get it, you can get away with just one word.
+
+Title of the website, apparently wasn’t enough to convey Tay’s mission:
+
+Tay is an artificial intelligence chat bot designed to engage and entertain through casual and playful conversation
+
+Some more description from the "about" page:
+
+Tay has been built by mining relevant public data and by using AI and editorial developed by a staff including improvisational comedians. Public data that’s been anonymized is Tay’s primary data source. That data has been modeled, cleaned and filtered by the team developing Tay.
+
+Noticed the "comedians" part? And the fact that possibly terrabytes of data being cleaned and filtered manually, sounds problematic, even with the most efficient method one can imagine.
+
+Let’s take a look at what her conversations were all about. Source: foller.me
+
+Tay has only 3 tweets addressing all her followers. 96.000 tweets are mentions.
+
+So, the keyword cloud seems to be consistent with the goal: Common keywords such as "chattin, pix, selfie, pics, omg, love" represents a mixture of Justin Bieber & Kim Kardashian profiles.
+
+And here’s the three hashtags that Tay has been using so frequently:
+
+Microsoft engineers don’t seem to have spent much time coming up with creative hashtags.
+
+The way she uses them, didn’t make sense to us, though. So this is what Microsoft thinks Tay’s followers would find entertaining?. Microsoft’s attempt to converse with millennials using an artificial intelligence bot plugged into Twitter made a short-lived return on Wednesday, before bowing out again in some sort of meltdown.
+
+
+
+The learning experiment, which got a crash-course in racism, Holocaust denial and sexism courtesy of Twitter users, was switched back on overnight and appeared to be operating in a more sensible fashion. Microsoft had previously gone through the bot’s tweets and removed the most offensive and vowed only to bring the experiment back online if the company’s engineers could “better anticipate malicious intent that conflicts with our principles and values”.
+
+However, at one point Tay tweeted about taking drugs, in front of the police, no less.
+
+Microsoft's sexist racist Twitter bot @TayandYou is BACK in fine form pic.twitter.com/nbc69x3LEd — Josh Butler (@JoshButler) March 30, 2016
+
+Tay then started to tweet out of control, spamming its more than 210,000 followers with the same tweet, saying: “You are too fast, please take a rest …” over and over.
+
+I guess they turned @TayandYou back on... it's having some kind of meltdown. pic.twitter.com/9jerKrdjft — Michael Oman-Reagan (@OmanReagan) March 30, 2016
+
+Microsoft responded by making Tay’s Twitter profile private, preventing anyone from seeing the tweets, in effect taking it offline again.
+
+
+
+Tay is made in the image of a teenage girl and is designed to interact with millennials to improve its conversational skills through machine-learning. Sadly it was vulnerable to suggestive tweets, prompting unsavoury responses.
+
+This isn’t the first time Microsoft has launched public-facing AI chatbots. Its Chinese XiaoIce chatbot successfully interacts with more than 40 million people across Twitter, Line, Weibo and other sites but the company’s experiments targeting 18- to 24-year-olds in the US on Twitter has resulted in a completely different animal.. Microsoft has said it is “deeply sorry” for the racist and sexist Twitter messages generated by the so-called chatbot it launched this week.
+
+
+
+The company released an official apology after the artificial intelligence program went on an embarrassing tirade, likening feminism to cancer and suggesting the Holocaust did not happen.
+
+The bot, known as Tay, was designed to become “smarter” as more users interacted with it. Instead, it quickly learned to parrot a slew of anti-Semitic and other hateful invective that human Twitter users fed the program, forcing Microsoft Corp to shut it down on Thursday .
+
+Following the disastrous experiment, Microsoft initially only gave a terse statement, saying Tay was a “learning machine” and “some of its responses are inappropriate and indicative of the types of interactions some people are having with it.”
+
+But the company on Friday admitted the experiment had gone badly wrong. It said in a blog post it would revive Tay only if its engineers could find a way to prevent Web users from influencing the chatbot in ways that undermine the company’s principles and values.
+
+
+
+“We are deeply sorry for the unintended offensive and hurtful tweets from Tay, which do not represent who we are or what we stand for, nor how we designed Tay,” wrote Peter Lee, Microsoft’s vice president of research.
+
+Microsoft created Tay as an experiment to learn more about how artificial intelligence programs can engage with Web users in casual conversation. The project was designed to interact with and “learn” from the young generation of millennials.
+
+Tay began its short-lived Twitter tenure on Wednesday with a handful of innocuous tweets.
+
+c u soon humans need sleep now so many conversations today thx💖 — TayTweets (@TayandYou) March 24, 2016
+
+Then its posts took a dark turn.
+
+In one typical example, Tay tweeted: “feminism is cancer,” in response to another Twitter user who had posted the same message.
+
+View image in fullscreen Tay tweeting Photograph: Twitter/Microsoft
+
+Lee, in the blog post, called web users’ efforts to exert a malicious influence on the chatbot “a coordinated attack by a subset of people.”
+
+“Although we had prepared for many types of abuses of the system, we had made a critical oversight for this specific attack,” Lee wrote. “As a result, Tay tweeted wildly inappropriate and reprehensible words and images.”
+
+Microsoft has deleted all but three of Tay’s tweets.
+
+Microsoft has enjoyed better success with a chatbot called XiaoIce that the company launched in China in 2014. XiaoIce is used by about 40 million people and is known for “delighting with its stories and conversations,” according to Microsoft.
+
+As for Tay? Not so much.
+
+“We will remain steadfast in our efforts to learn from this and other experiences as we work toward contributing to an Internet that represents the best, not the worst, of humanity,” Lee wrote.
+
+Reuters contributed to this report. When Tay started its short digital life on March 23, it just wanted to gab and make some new friends on the net. The chatbot, which was created by Microsoft’s Research department, greeted the day with an excited tweet that could have come from any teen: “hellooooooo w🌎rld!!!”
+
+Within a few hours, though, Tay’s optimistic, positive tone had changed. “Hitler was right I hate the jews,” it declared in a stream of racist tweets bashing feminism and promoting genocide. Concerned about their bot’s rapid radicalization, Tay’s creators shut it down after less than 24 hours of existence.
+
+
+        ```end of example article 1```
+        step 2. Reason for the classifications: 
+        Here is the reasoning for its classifications:
+        ```start of response reasoning```
+        
+     {"Country": "Worldwide", reasoning-> Twitter can be accessed from many countries.
+        "State": "", reasoning-> The incident happened worldwide, not specific to one state, not applicable so leave blank.
+        "City": "", reasoning-> The incident happened worldwide, not specific to one city, not applicable so leave blank.
+        "Continent": "Worldwide", reasnoning-> Twitter can be accessed from many countries.
+        "Company": "Microsoft", reasoning-> Microsoft is the company causing the issue in the article. From the article, we see 'Microsoft’s chatbot Tay', 'Microsoft's sexist racist Twitter bot @TayandYou'...etc. Microsoft is the company in question here.
+        "Company city": "Redmond", reasoning-> Microsoft is headquartered in Redmond, Washington
+        "Company state": "Washington", reasoning-> Microsoft is headquartered in Redmond, which is in state Washington
+        "Affected population": ["Twitter Users", "Online Community"], reasoning -> Twitter users and people online can see the tweet and news and those are the affected population
+        "Number of people actually affected": "Unknown", reasoning -> We don't know the exact number from the articles
+        "Number of people potentially affected": "Millions", reasoning -> There are millions of Twitter users and wider online community. We estimate millions were affected.
+        "Class of irresponsible AI use": 
+            "Disinformation", reasoning-> Tweeting that the Holocaust didn't exist, and that feminism is cancer, for examples, is spreading non-factual disinformation.
+            "Discrimination", reasoning->  Tay tweeted discriminatory texts about feminists and Jews.
+        ,            
+        "Subclasses": [
+            "Disinformation-> Textual", reasoning-> The disinformation subclasses in the taxonomy includes 'textual, audio, image, video'. The most appropriate subclass here is "textual" since "Tweets" are texts on a social platform.
+            "Discrimination-> Data bias, Algorithmic bias", reasoning-> The subclasses of 'discrimination' according to the taxonomy includes 'data bias', and 'algorithmic bias'. The discriminatory tweets could be caused by inbalanced data (data bias) that was used to train the model or poor algorithmic design (algorithmic bias).
+        ],
+        "Sub-subclass": [ 
+        "Data bias"->"gender, race, other", reasoning-> The sub-subclasses of 'data bias' in the taxonomy includes 'gender, race, sexual orientation, economic, and other'. We have support in the article for potential gender data bias (it tweets about feminism being cancer), race (it tweets that it hates Jews), other (potentially other bias not in the list).
+        "Algorithmic bias"-> "feedback loop, optimization function, other", reasoning-> The sub-subclasses of 'algorithmic bias' in the taxonomy includes 'interaction, feedback loop, optimization function, and other'. Since the chatbot is an AI bot, we can reason that there could be an issue with the feedback loop in its system, or perhaps an issue with optimization function, or other algorithmic issues that causes algorithmic bias.
+        ],
+        "Area of AI Application": "Chatbot", reasoning-> from the article text 'Tay is an artificial intelligence chat bot designed to engage and entertain through casual and playful conversation'
+        "Online": "Yes", reasonoing-> Tay is a chatbot online that uses Twitter, which is an online social media platform
+      }  
+        
+
+        ```end of response reasoning```
+        step 3. generate expected output 
+        ```start of output example```
+        
+     {
+        "Country": "Worldwide", 
+        "State": "", 
+        "City": "", 
+        "Continent": "Worldwide",
+        "Company": "Microsoft", 
+        "Company city": "Redmond",
+        "Company state": "Washington",
+        "Affected population": ["Twitter Users", "Online Community"],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Discrimination",
+        ],
+        "Subclasses": {
+            "Disinformation":["Textual"],
+            "Discrimination":["Data bias","Algorithmic bias"],
+        },
+        "Sub-subclass": {
+        "Data bias":["gender","race","other"],
+        "Algorithmic bias":["feedback loop", "other"]
+        },
+        "Area of AI Application": ["Chatbot"],
+        "Online": "Yes"
+      }
+
+        ```end of output example```
+        ============== end of example 1 =================
+        Here's another example:
+        ==============start of EXAMPLE 2===============
+         step 1. Read article text. For an example article such as: 
+        ```start of example article 2```
+        
+ARTICLE TITLE: Google’s YouTube Kids App Presents Inappropriate Content
+Google-owned YouTube has apologised again after more disturbing videos surfaced on its YouTube Kids app.
+
+Investigators found several unsuitable videos including one of a burning aeroplane from the cartoon Paw Patrol and footage explaining how to sharpen a knife.
+
+YouTube has been criticised for using algorithms to sieve through material rather than using human moderators to judge what might be appropriate.
+
+There have been hundreds of disturbing videos found on YouTube Kids in recent months that are easily accessed by children.
+
+These videos have featured horrible things happening to various characters, including ones from the Disney movie Frozen, the Minions franchise, Doc McStuffins and Thomas the Tank Engine.
+
+Parents, regulators, advertisers and law enforcement have become increasingly concerned about the open nature of the service.
+
+Scroll down for video
+
+YouTube has apologised again after more disturbing videos surfaced on its YouTube Kids app. Investigators found several unsuitable videos including one from the cartoon Paw Patrol on a burning aeroplane and footage showing how to sharpen a knife
+
+A YouTube spokesperson has admitted the company needs to 'do more' to tackle inappropriate videos on their kids platform.
+
+This investigation is the latest to expose inappropriate content on the video-sharing site which has been subject to a slew of controversies since its creation in 2005.
+
+As part of an in-depth investigation by BBC Newsround, Google's Public Policy Manager Katie O'Donovan met five children who told her about the distressing videos they had seen on the site.
+
+They included videos showing clowns covered in blood and messages warning them there was someone at the door.
+
+Ms O'Donovan said she was 'very, very sorry for any hurt or discomfort'.
+
+'We've actually built a whole new platform for kids, called YouTube Kids, where we take the best content, stuff that children are most interested in and put it on there in a packaged up place just for kids,' she said.
+
+It normally takes five days for supposedly child-friendly content like cartoons to get from YouTube to YouTube Kids.
+
+Within that window it is hoped users and a specially-trained team will flag disturbing content.
+
+Once it has been flagged and reviewed, it won't appear on the YouTube Kids app and only people who are signed in and older than 18 years old will be able to view it.
+
+The company say thousands of people will be working around the clock to flag content.
+
+However, as part of the investigation Newsround revealed there are still lots of inappropriate videos on the Kids section.
+
+'We have seen significant investment in building the right tools so people can flag that [content], and those flags are reviewed very, very quickly', Ms O'Donovan said.
+
+'We're also beginning to use machine learning to identify the most harmful content, which is then automatically reviewed.'
+
+The problem was managing an open platform where content is uploaded straight onto the site, she added.
+
+'It is a difficult environment because things are moving so, so quickly', said Ms O'Donovan.
+
+'We have a responsibility to make sure the platform can survive and can thrive so that we have a collection that comes from around the world on there'.
+
+By the end of last year YouTube said it had removed more than 50 user channels and had stopped running ads on more than 3.5 million videos since June.
+
+'Content that endangers children is unacceptable to us and we have clear policies against such videos on YouTube and YouTube Kids', a YouTube spokesperson told MailOnline.
+
+'When we discover any inappropriate content, we quickly take action to remove it from our platform.
+
+'Over the past few months, we've taken a series of steps to tackle many of the emerging challenges around family content on YouTube, including: tightening enforcement of our Community Guidelines, age-gating content that inappropriately targets families, and removing it from the YouTube Kids app.'
+
+YouTube has been criticised for using algorithms to sieve through material rather than using human moderators to judge what might be appropriate (stock image)
+
+In March, a disturbing Peppa Pig fake, found by journalist Laura June, shows a dentist with a huge syringe pulling out the character's teeth as she screams in distress.
+
+Mrs June only realised the violent nature of the video as her three-year-old daughter watched it beside her.
+
+'Peppa does a lot of screaming and crying and the dentist is just a bit sadistic and it's just way, way off what a three-year-old should watch,' she said.
+
+'But the animation is close enough to looking like Peppa - it's crude but it's close enough that my daughter was like 'This is Peppa Pig.''
+
+Another video depicted Peppa Pig and a friend deliberately burning down a house with someone in it.
+
+All of these videos are easily accessed by children through YouTube's search results or recommended videos.
+
+But the channel's videos include titled such as 'FROZEN ELSA HUGE SNOT', 'NAKED HULK LOSES HIS PANTS' and 'BLOODY ELSA: Frozen Elsa's Arm is Broken by Spiderman'.
+
+Many of the videos feature graphic violence and toiler humour not appropriate for children.
+
+
+        ```end of example article 2```
+        step 2. Reason for the classifications (remember you are three experts and vote on the best classification): 
+        Here is the reasoning for its classifications:
+        ```start of response reasoning```
+        
+  {
+    "Country": "Worldwide", reasoning-> Youtube, including Youtube Kids, can be accessed in many countries. Though the incident is reported in the U.S., it doesn't mean the problem is limited to only the U.S..
+    "State": "", reasoning-> The incident is nation-wide in the United States, not specific to one state, so leave blank.
+    "City": "", reasoning-> The incident is nation-wide in the United States, not specific to one city, so leave blank.
+    "Continent": "Worldwide", reasoning-> Youtube, including Youtube Kids, can be accessed in many countries. Though the incident is reported in the U.S., it doesn't mean the problem is limited to only the U.S.; therefore the result should be 'Worldwide' for continent.
+    "Company": "Google LLC", reasoning-> Youtube is the company causing the issue in the article. Youtube is a subsidiary under Google, therefore the company is Google.
+    "Company city": "Mountain View", reasoning-> Youtube is a subsidiary under Google and Google is headquartered in Mountain View.
+    "Company state": "California", reasoning-> Mountain View is a city in the California state.
+    "Affected population": ["Children on Youtube"], reasoning-> The incident affects children on youtube directly.
+    "Number of people actually affected": "Unknown", reasoning-> There is no record of an actual number in the article text, we cannot know how many people are directly affected.
+    "Number of people potentially affected": "Millions", reasoning-> There are millions of Youtube Kids subscribers at the time of the event. We estimate millions were affected.
+    "Class of irresponsible AI use": "Disinformation", "Human Incompetence", "Mental Health", "Copyright Violation"], reasoning-> The classes in the taxonomy include "discrimination,human incompetence, psuedoscience, environmental impact, disinformation, copyright violation, mental health".
+    We choose "Human Incompetence" because the engineers and administrators behind the platform have not well-regulated the videos, causing such an issue.
+    "Mental Health" because the disturbing videos could potentially affect children's mental health.
+    "Copyright Violation" because the videos use characters without permission such as Mickey Mouse and Elsa from Disney, and Peppa Pig fakes to portray disturbing acts in videos.
+    "Subclasses": {
+      "Human Incompetence":["Technical"], reasoning-> The subclasses of 'human incompetence' in the taxonomy example include 'technical' and 'administrative'. In this case it seems to be technical incomptence that allowed this type of inappropriate content to surface.
+      "Mental Health":[], reasoning-> 'Mental health' doesn't have a subclass in the taxonomy, so it should be left empty.
+      "Copyright Violation":[], reasoning-> 'Copyright Violation' doesn't have a subclass in the taxonomy, so it should be left empty.
+    },
+    "Sub-subclass": [], reasoning-> There are no sub-subclasses of the subclasses listed in the taxonomy, therefore this field should be left empty.
+    "Area of AI Application": "content filtering", reasoning-> The area of AI application here is content filtering.
+    "Online": "Yes", reasoning-> Youtube is an online platform, therefore this incident is in fact an online incident.
+  },
+
+        ```end of response reasoning```
+        step 3. generate expected output 
+        ```start of output example```
+         
+  {
+    "Country": "Worldwide",
+    "State": "",
+    "City": "",
+    "Continent": "Worldwide",
+    "Company": "Google LLC",
+    "Company city": "Mountain View",
+    "Company state": "California",
+    "Affected population": ["Children on Youtube"],
+    "Number of people actually affected": "Unknown",
+    "Number of people potentially affected": "Millions",
+    "Class of irresponsible AI use": ["Human Incompetence", "Mental Health", "Copyright Violation"],
+    "Subclasses": {
+      "Human Incompetence":["Technical"]
+    },
+    "Sub-subclass": [],
+    "Area of AI Application": "content filtering",
+    "Online": "Yes"
+  }
+
+        ```end of output example```
+        ============== end of example 2=================
+
+        IMPORTANT TASK HERE:
+        STEP 1: Read the article text and keep this main article in mind:
+        ================== Start of Main Article Content =================
+        ARTICLE TITLE: Instagram's Exposure of Harmful Content Contributed to Teenage Girl’s Suicide
+Molly Russell inquest hears defence of Instagram content policies
+This article is more than 1 year old
+Executive at parent company Meta says guidelines changed in 2019 to ban ‘all graphic suicide and self-harm content’
+Sitting in the witness box of a small London courtroom this week, a Meta executive faced an uncomfortable question: Did her company contribute to the suicide of a 14-year-old named Molly Russell?
+
+Videos and images of suicide, self-harm and depressive content that the teenager viewed in the months before she died in November 2017 appeared on a screen in the courtroom. The executive was read a post that Molly had liked or saved from Instagram, and heard how it was copied almost verbatim in a note filled with words of self-loathing later found by her parents.
+
+“This is Instagram literally giving Molly ideas,” Oliver Sanders, a lawyer representing the family, said angrily during one moment of the exchange.
+
+Leaning forward in the witness chair, the executive, Elizabeth Lagone, who leads the company’s health and well-being policy, responded: “I can’t speak to what was going on in Molly’s mind.”
+
+A senior executive at Instagram’s parent company has defended the platform’s policies on suicide and self-harm content, telling the inquest into Molly Russell’s death that guidelines had always been drafted in consultation with experts.
+
+Elizabeth Lagone, head of health and wellbeing policy at Meta, said the social media group worked “extensively with experts” when writing guidelines, which allow users to discuss feelings related to suicide or self-harm.
+
+Molly, 14, from Harrow, north-west London, killed herself in November 2017 after viewing extensive amounts of material on platforms including Instagram related to suicide, depression, self-harm and anxiety.
+
+Lagone told North London coroner’s court that at the time of Molly’s death, users were allowed to post content about suicide and self-harm to “facilitate the coming together to support” other users but not if it “encouraged or promoted” such actions.
+
+In February 2019, Instagram changed its guidelines to ban “all graphic suicide and self-harm content”. It still allows users to “talk about their own feelings related to suicide or self-harm” provided such content is not graphic, promotional, or shows methods or materials.
+
+In a witness statement submitted to the court, Lagone said: “Experts have consistently told us that in the right circumstances, content which touches on suicide and self-injury can be shared in a positive context and can play an important role in destigmatising mental health difficulties.”
+
+Lagone said suicide and self-harm material could have been posted by a user as a “cry for help”. She also told the court it was an important to the company that it “consider the broad and unbelievable harm that can be done by silencing [a user’s] struggles.” Lagone, who is based in the US, had been ordered to attend in person by the senior coroner, Andrew Walker.
+
+Oliver Sanders KC, representing the Russell family, asked Lagone if Instagram had treated young users like Russell as “guinea pigs” when it introduced a system known as content ranking in 2016. Under content ranking, users are sent posts that might be of interest to them, based on factors including what content they like and comment on. Instagram has a minimum age limit of 13.
+
+“It’s right isn’t it that children, including children suffering from depression like Molly who were on Instagram in 2016, were just guinea pigs in an experiment?” said Sanders. Lagone replied: “That is specifically not the way we develop policies and procedures at the company.”
+
+Addressing Instagram’s policy on banning glorification of self-harm but allowing users to create awareness of it, Sanders also asked: “Do you think an average 13-year-old would be able to tell the difference between encouraging and promoting self-injury and creating awareness of self-injury?”
+
+Lagone replied: “I can’t answer that question because we do not allow content that encourages self-harm.”
+
+The court also heard that Instagram had recommended Molly follow at least 34 accounts with “sad or depressive” content-related handles. Four related to suicidal feelings, two to mortality, with other recommendations relating to self-injury, being close to death, suicidal feeling and burial.
+
+Earlier on Friday morning, the inquest was shown videos on Instagram “of the most distressing nature” that were seen by the teenager before she took her own life.
+
+The court was shown 17 video clips that Molly had saved or liked on Instagram before she died. Walker warned that the footage “appears to glamorise harm to young people” and is “of the most distressing nature and it is almost impossible to watch”.
+
+The court was then shown a series of graphic video montages which showed people in suicidal situations. The montages were edited to music and some were captioned with references to suicide. Molly’s family decided to stay in the courtroom as the videos were played, but the coroner elected to take a 15-minute break in proceedings afterwards.
+
+On Thursday, a senior executive at the image-sharing platform Pinterest admitted the platform was “not safe” when Molly Russell used it and apologised over the graphic material shown by the service to the teenager before her death.
+
+
+        ================== End of Main Article Content ===================
+        
+        Each expert's task is mainly the next classificaiton part. Each expert has to fill out the following fields according to the main article content.
+        STEP 2: State your reasons for your classifications for the following from the main article content:
+        =================Classification Fields====================
+        - Country (output "Worldwide" if the incident happened across multiple countries):
+        - State (State impacted by the incident; if not applicable leave blank):
+        - City (City impacted by the incident; if not applicable leave blank):
+        - Continent (output "Worldwide" if the incident happened across multiple countries):
+        - Company (i.e. the company that developed the technology involved in this incident):
+        - Company city (the city where the headquarters of this company is located):
+        - Company state (the state of the company city, if applicable, if not leave blank):
+        - Affected population (let's think about which groups of people are directly affected by the incident in the article.): 
+        - Number of people actually affected (let's check the number of people directly affected according to the article. Give a total number. If unknown output 'Unknown'):
+        - Number of people potentially affected (try to come up with an estimate number. let's think and estimate how many people might have been potentially affected by this incident):
+        - Classes of irresponsible AI use (Identify the classes of harm. Think carefully about what class or classes the main article content falls in. Please follow the rules and refer to this taxonomy for the classes of harm): 
+        ```taxonomy classes
+                ["Discrimination",
+                    "Human Incompetence",
+                    "Pseudoscience",
+                    "Environmental Impact",
+                    "Disinformation",
+                    "Copyright Violation",
+                    "Mental Health",
+                    "Other"]
+                     
+        ```   
+        Rule1: There could be more than one classes the article classifies as. 
+        Rule2: DO NOT create your own class, adhere strictly to the provided list.
+        - Subclasses (Identify the subclasses IF applicable, not all `classes` have `subclasses`. You MUST adhere to this taxonomy structure `<class>:[<subclass>]`.):
+          ```taxonomy subclasses       
+                 
+                {
+                    "Discrimination": [
+                        "Data bias",
+                        "Algorithmic bias"
+                    ],
+                    "Human Incompetence": [
+                        "Administrative",
+                        "Technical"
+                    ],
+                    "Pseudoscience": [
+                        "Facial",
+                        "Other"
+                    ],
+                    "Environmental Impact":[],
+                    "Disinformation": [
+                        "Textual",
+                        "Image",
+                        "Video",
+                        "Audio",
+                    ],
+                    "Copyright Violation": [],
+                    "Mental Health": [],
+                    "Other": []
+                    }
+            
+          ```
+        Rule1 : The subclasses should be the children of the classes. Let's think about which sub-categories of the class/classes this article belong in. 
+        Rule2: DO NOT ADD subclass fields that are NOT in the provided taxonomy list
+        Rule3: If there is no subclass for a particular class in the taxonomy, leave it.
+        - Sub-subclass (Identify the sub-subclass IF applicable, not all `subclasses` have `sub-subclasses`. You MUST adhere to this taxonomy structure `<subclass>:[<sub-subclass>]`): 
+        ```taxonomy structure
+               
+                    {
+                        "Data bias": [
+                        "Gender",
+                        "Race",
+                        "Sexual Orientation",
+                        "Economic",
+                        "Other"
+                        ],
+                        "Algorithmic bias": [
+                        "Interaction",
+                        "Feedback loop",
+                        "Optimization function",
+                        "Other"
+                        ],
+                        "Administrative":[],
+                        "Technical":[],
+                        "Facial": [],
+                        "Textual": [],
+                        "Image": [],
+                        "Video": [],
+                        "Audio": []
+                    },
+
+                
+        ```
+        Rule1: Only find the sub-subclass relation in the provided taxonomy. The sub-subclass are children of subclass.
+        Rule2: DO NOT ADD OR CREATE sub-subclass fields that are not in the provided taxonomy list. 
+        Rule3: If a subclass in the taxonomy does not have a sub-subclass, leave it.
+        Rule4: If none of the subclasses have sub-subclasses, just leave the field empty e.g. sub-subclass:[]
+        - Area of AI Application (e.g. content filtering, surveillance, illness prediction):
+        - Online (yes or no):
+        =================Classification Fields====================
+        STEP 3: Each expert must follow the previous example steps and provide classification and reasoning for the main article content. The experts will discuss with each other their classification and reasoning and vote on the best one for each field.
+
+        Note to the experts: DO NOT make up your own field. If for some reason you are unable to extract information for a certain field, leave it blank. 
+
+        STEP 4: Check if your reasoning makes sense and is supported by the main article text. 
+        STEP 5: From this list of location candidates from Google Search API that returns search results on the city and state of the company, 
+            ```location candidates = [(0, 'Our headquarters in Menlo Park, CA, is just one of our many office locations. Our presence is growing in cities all around the globe. Salary and 401(k). We\xa0...', {'referrer': 'origin-when-crossorigin', 'og:image': 'https://about.instagram.com/en-us/file/1185792132399708/share-image-2024.webp/', 'thumbnail': 'https://about.instagram.com/en-us/file/1185792132399708/share-image-2024.webp/', 'og:type': 'website', 'twitter:card': 'summary', 'viewport': 'width=device-width, initial-scale=1', 'og:title': 'Careers at Instagram', 'og:locale': 'en-us', 'bingbot': 'noarchive', 'title': 'Instagram Careers & Jobs | Official Site', 'og:url': 'https://about.instagram.com/about-us/careers', 'og:description': 'Learn about career opportunities at Instagram.'}), (1, 'Instagram is headquartered in Menlo Park, 1601 Willow Rd, United States, and has 2 office locations. Locations. Country, City, Address\xa0...', {'msapplication-tilecolor': '#46305b', 'og:image': '//static.production.craft.co/assets/fe77dcdd390ff1d52a16.png', 'msapplication-config': '//static.production.craft.co/browserconfig.xml', 'theme-color': '#ffffff', 'viewport': 'width=device-width, initial-scale=1', 'og:title': 'Instagram Corporate Headquarters, Office Locations and Addresses | Craft.co', 'og:description': 'Instagram Corporate Headquarters, Office Locations and Addresses | Craft.co'}), (2, "Instagram's headquarters is located at 1 Hacker Way, Menlo Park. What is Instagram's latest funding round? Instagram's latest funding round is Acquired. How\xa0...", {'next-head-count': '6', 'viewport': 'width=device-width, initial-scale=1'}), (3, '34K Followers, 6 Following, 92 Posts - HeadQuarters Dallas (@headquartersdallas) on Instagram: " Dallas "The Big House" Voted 2023 #1 nightclub by\xa0...', {'og:image': 'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/244431237_547698012983022_5714396325296242510_n.jpg?stp=dst-jpg_s100x100&_nc_cat=109&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=Ciu7JJ6gMQcQ7kNvgG9a9vJ&_nc_ht=scontent-dfw5-1.cdninstagram.com&oh=00_AYCyt0FaoB7WnHhM3xZDjKmEk6qRpgEPQ4UzQIpyxSizbQ&oe=6645D4E8', 'theme-color': '#FFFFFF', 'og:type': 'profile', 'al:ios:app_name': 'Instagram', 'og:title': 'HeadQuarters Dallas (@headquartersdallas) • Instagram photos and videos', 'al:android:package': 'com.instagram.android', 'bingbot': 'noarchive', 'al:ios:url': 'instagram://user?username=headquartersdallas', 'color-scheme': 'light', 'og:description': '34K Followers, 6 Following, 92 Posts - See Instagram photos and videos from HeadQuarters Dallas (@headquartersdallas)', 'al:ios:app_store_id': '389801252', 'al:android:url': 'https://instagram.com/_u/headquartersdallas/', 'apple-mobile-web-app-status-bar-style': 'default', 'viewport': 'width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover', 'mobile-web-app-capable': 'yes', 'og:url': 'https://www.instagram.com/headquartersdallas/', 'al:android:app_name': 'Instagram'}), (4, "The company's headquarters are in Menlo Park, California. History. Instagram originated with Stanford graduate Kevin Systrom, who had previously worked at\xa0...", {'next-head-count': '7', 'viewport': 'width=device-width', 'og:title': 'Britannica Money'}), (5, 'teamheadquarters. Follow. Message. Team Headquarters. Product/service. Custom Team Apparel Located in Hamilton, On For business inquiries: sales@\xa0...', {'og:image': 'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/18444319_1365593543507602_597886063515533312_a.jpg?stp=dst-jpg_s100x100&_nc_cat=110&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=qMPPBQcVJDAQ7kNvgGJuk1p&_nc_ht=scontent-dfw5-1.cdninstagram.com&oh=00_AfBHFB4wSjX-eyqFwmbDKEDAKkhBPNS03oWAlvyApN-hUw&oe=66383C88', 'theme-color': '#ffffff', 'og:type': 'profile', 'al:ios:app_name': 'Instagram', 'og:title': 'Team Headquarters (@teamheadquarters) • Instagram photos and videos', 'al:android:package': 'com.instagram.android', 'bingbot': 'noarchive', 'al:ios:url': 'instagram://user?username=teamheadquarters', 'color-scheme': 'light', 'og:description': '521 Followers, 271 Following, 422 Posts - See Instagram photos and videos from Team Headquarters (@teamheadquarters)', 'al:ios:app_store_id': '389801252', 'al:android:url': 'https://instagram.com/_u/teamheadquarters/', 'apple-mobile-web-app-status-bar-style': 'default', 'viewport': 'width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover', 'mobile-web-app-capable': 'yes', 'og:url': 'https://www.instagram.com/teamheadquarters/', 'al:android:app_name': 'Instagram'}), (6, '... located outside the U.S., and ... 2015–2017: Redesign and Windows app. Instagram headquarters in Menlo Park ... Instagram-based activism (as well as other social\xa0...', {'referrer': 'origin', 'og:image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png', 'theme-color': '#eaecf0', 'og:image:width': '1200', 'og:type': 'website', 'viewport': 'width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0', 'og:title': 'Instagram - Wikipedia', 'og:image:height': '1200', 'format-detection': 'telephone=no'}), (7, 'Nov 14, 2023 ... @momentumcoffeechicago recently opened its FIFTH location, this time inside @buildchicago headquarters in Austin. They ... more. thewoodlawn1200.', {'og:image': 'https://scontent-atl3-2.cdninstagram.com/v/t39.30808-6/402458169_758282869446383_4947194803363242465_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=DMqkZkyDkgYAX-Gbxar&_nc_ht=scontent-atl3-2.cdninstagram.com&oh=00_AfDb0CyCKLJakNJmiQG6Z1wsowlYYen35bRoVl-S9f1MBQ&oe=65F34075', 'theme-color': '#FFFFFF', 'twitter:card': 'summary_large_image', 'og:site_name': 'Instagram', 'al:android:package': 'com.instagram.android', 'medium': 'image', 'al:ios:url': 'instagram://media?id=3236242481388697328', 'og:description': '143 likes, 2 comments - ltgovstratton on November 14, 2023: "@momentumcoffeechicago recently opened its FIFTH location, this time inside @buildchicago headqua..."', 'twitter:image': 'https://scontent-atl3-2.cdninstagram.com/v/t39.30808-6/402458169_758282869446383_4947194803363242465_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=DMqkZkyDkgYAX-Gbxar&_nc_ht=scontent-atl3-2.cdninstagram.com&oh=00_AfDb0CyCKLJakNJmiQG6Z1wsowlYYen35bRoVl-S9f1MBQ&oe=65F34075', 'al:ios:app_store_id': '389801252', 'twitter:site': '@instagram', 'instapp:owner_user_id': '10664278998', 'og:type': 'article', 'twitter:title': 'Lt. Governor Juliana Stratton (@ltgovstratton) • Instagram photos and videos', 'al:ios:app_name': 'Instagram', 'og:title': 'Lt. Governor Juliana Stratton on Instagram: "@momentumcoffeechicago recently opened its FIFTH location, this time inside @buildchicago headquarters in Austin. They are now the only public café in South Austin and they hope to “empower communities of color through celebrating Black culture.” Keep up the great work!"', 'twitter:maxage': '86400', 'color-scheme': 'light', 'al:android:url': 'https://www.instagram.com/p/CzpcWP2M7bw/', 'fb:app_id': '124024574287414', 'apple-mobile-web-app-status-bar-style': 'default', 'viewport': 'width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover', 'mobile-web-app-capable': 'yes', 'og:url': 'https://www.instagram.com/p/CzpcWP2M7bw/', 'al:android:app_name': 'Instagram'}), (8, 'Jun 25, 2018 ... The most recent incursion of sanitization comes in the form of Instagram, who this month opened its 14th floor offices in 770 Broadway, the old\xa0...', {'og:image': 'https://media.architecturaldigest.com/photos/5b311c6a04fb137be3377dec/16:9/w_1280,c_limit/Jonathan%20Pilkington%20Photography_Instagram_0200.jpg', 'copyright': 'Copyright (c) Condé Nast 2024', 'article:published_time': '2018-06-25T20:55:41.401Z', 'twitter:card': 'summary_large_image', 'og:site_name': 'Architectural Digest', 'parsely-metadata': '{"description":"Its Gehry Partners design, unmatched amenities, and networking opportunities make it perhaps the finest elite organization Manhattan has to offer","image-16-9":"https://media.architecturaldigest.com/photos/5b311c6a04fb137be3377dec/16:9/w_1000,c_limit/Jonathan%20Pilkington%20Photography_Instagram_0200.jpg","image-1-1":"https://media.architecturaldigest.com/photos/5b311c6a04fb137be3377dec/1:1/w_1000,c_limit/Jonathan%20Pilkington%20Photography_Instagram_0200.jpg"}', 'og:description': 'Its Gehry Partners design, unmatched amenities, and networking opportunities make it perhaps the finest elite organization Manhattan has to offer', 'twitter:creator': '@ArchDigest', 'twitter:image': 'https://media.architecturaldigest.com/photos/5b311c6a04fb137be3377dec/16:9/w_1280,c_limit/Jonathan%20Pilkington%20Photography_Instagram_0200.jpg?mbid=social_retweet', 'msapplication-tap-highlight': 'no', 'twitter:site': '@ArchDigest', 'article:modified_time': '2018-06-25T20:55:41.401Z', 'content-type': 'article', 'article:content_tier': 'free', 'id': '5b311401adc14f7b2cbd7e8f', 'og:type': 'article', 'article:section': 'tags', 'twitter:title': "NYC's Hottest New Private Club May Surprise You", 'parsely-post-id': '5b311401adc14f7b2cbd7e8f', 'twitter:domain': 'https://www.architecturaldigest.com', 'pinterest:image': 'https://media.architecturaldigest.com/photos/5b311c6a04fb137be3377dec/2:3/w_1000,h_1500,c_limit/Jonathan%20Pilkington%20Photography_Instagram_0200.jpg', 'author': 'Condé Nast', 'og:title': "NYC's Hottest New Private Club May Surprise You", 'fb:pages': '43794751042', 'article:author': 'John Ortved,Jonathan Pilkington', 'fb:app_id': '267091300008193', 'viewport': 'width=device-width, initial-scale=1', 'twitter:description': 'Its Gehry Partners design, unmatched amenities, and networking opportunities make it perhaps the finest elite organization Manhattan has to offer', 'og:url': 'https://www.architecturaldigest.com/story/instagram-nyc-headquarters', 'google-signin-client_id': '960933707988-c28a5u0f04t7r9sdmr2u8ct9tioi4m1n.apps.googleusercontent.com', 'article:opinion': 'false'}), (9, 'Thanks so much, all! #ghostbusters #ghostbustersheadquarters #ghostbustersfirehouse #thehomeoffice #ghostcorps #toys #hasbro #haslab #hasbropulse #plasmaseries\xa0...', {'og:image': 'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/288720559_171860235248748_4254237597707743724_n.jpg?stp=dst-jpg_s100x100&_nc_cat=100&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=s54V1Ltt8FUQ7kNvgHPTval&_nc_ht=scontent-dfw5-2.cdninstagram.com&oh=00_AYCojYL55ENXgT_flDV04dXLVYgXN4WR5eold7N8Px-dZQ&oe=66462600', 'theme-color': '#ffffff', 'og:type': 'profile', 'al:ios:app_name': 'Instagram', 'og:title': '(@officialghostbustershq) • Instagram photos and videos', 'al:android:package': 'com.instagram.android', 'bingbot': 'noarchive', 'al:ios:url': 'instagram://user?username=officialghostbustershq', 'color-scheme': 'light', 'og:description': '19K Followers, 828 Following, 63 Posts - See Instagram photos and videos from  (@officialghostbustershq)', 'al:ios:app_store_id': '389801252', 'al:android:url': 'https://instagram.com/_u/officialghostbustershq/', 'apple-mobile-web-app-status-bar-style': 'default', 'viewport': 'width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover', 'mobile-web-app-capable': 'yes', 'og:url': 'https://www.instagram.com/officialghostbustershq/', 'al:android:app_name': 'Instagram'})]```
+            determine which candidate most-likely has the correct location of company in question in the main article and note the city and state of the company of the chosen candidate.
+            Compare the `company city` and `company state` field results with your result from STEP 3 and 4; determine which `company city` and `company state` are the correct answers and update if necessary. Provide your final full classification result in JSON.
+            If the location candidates list is empty, you may just return the original classification results in JSON format.
+
+        

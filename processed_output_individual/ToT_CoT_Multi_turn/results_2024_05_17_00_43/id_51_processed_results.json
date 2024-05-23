@@ -1,0 +1,27 @@
+{
+    "51": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Knightscope Inc.",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Children at the Stanford Shopping Centre"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Security and Surveillance",
+        "Online": "No"
+    }
+}

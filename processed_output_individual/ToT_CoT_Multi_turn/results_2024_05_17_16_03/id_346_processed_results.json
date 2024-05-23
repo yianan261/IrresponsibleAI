@@ -1,0 +1,27 @@
+{
+    "346": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "Nagasaki",
+        "Continent": "Worldwide",
+        "Company": "H.I.S.",
+        "Company city": "Tokyo",
+        "Company state": "",
+        "Affected population": [
+            "Hotel Guests, Hotel Staff"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Classes of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Hospitality",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "441": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "South Korean Ministry of Justice",
+        "Company city": "Seoul",
+        "Company state": "",
+        "Affected population": [
+            "Foreign nationals traveling through South Korean airports"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "100 million",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Nationality"
+            ]
+        },
+        "Area of AI Application": "Facial recognition technology",
+        "Online": "No"
+    }
+}

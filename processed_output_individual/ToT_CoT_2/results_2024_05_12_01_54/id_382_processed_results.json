@@ -1,0 +1,29 @@
+{
+    "382": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Meta",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Teenagers using Instagram"
+        ],
+        "Number of people actually affected": "1 (Molly Russell)",
+        "Number of people potentially affected": "Millions",
+        "Classes of irresponsible AI use": [
+            "Mental Health",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Mental Health": [],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Filtering",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "31": {
+        "Country": "India",
+        "State": "Delhi",
+        "City": "New Delhi",
+        "Continent": "Asia",
+        "Company": "Delhi Metro Rail Corporation (DMRC)",
+        "Company city": "New Delhi",
+        "Company state": "Delhi",
+        "Affected population": [
+            "General public",
+            "Delhi Metro users"
+        ],
+        "Number of people actually affected": "0",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Transportation",
+        "Online": "No"
+    }
+}

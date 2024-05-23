@@ -1,0 +1,39 @@
+{
+    "136": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Brand Safety Tech Firms",
+        "Company city": "",
+        "Company state": "",
+        "Affected population": [
+            "Advertisers",
+            "News Publishers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Textual"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [],
+            "Algorithmic bias": [],
+            "Administrative": [],
+            "Technical": [],
+            "Facial": [],
+            "Textual": []
+        },
+        "Area of AI Application": "Brand Safety Technology",
+        "Online": "Yes"
+    }
+}
