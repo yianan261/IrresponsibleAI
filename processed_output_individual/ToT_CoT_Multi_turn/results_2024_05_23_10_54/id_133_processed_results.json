@@ -1,0 +1,27 @@
+{
+    "133": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "TikTok",
+        "Company city": "Los Angeles",
+        "Company state": "California",
+        "Affected population": [
+            "Marginalized Creators on TikTok"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Automated Content Reporting System",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "592": {
+        "Country": "United States",
+        "State": "Michigan",
+        "City": "Detroit",
+        "Continent": "North America",
+        "Company": "Detroit Police Department",
+        "Company city": "Detroit",
+        "Company state": "Michigan",
+        "Affected population": [
+            "Porcha Woodruff"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [],
+            "Human Incompetence": [
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Facial Recognition",
+        "Online": "No"
+    }
+}

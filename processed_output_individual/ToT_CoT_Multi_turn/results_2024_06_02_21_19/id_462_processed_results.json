@@ -1,0 +1,35 @@
+{
+    "462": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Nothing Forever (AI Show)",
+        "Company city": "Unknown",
+        "Company state": "Unknown",
+        "Affected population": [
+            "Twitch Viewers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Tens of thousands",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Entertainment",
+        "Online": "Yes"
+    }
+}

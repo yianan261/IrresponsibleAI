@@ -1,0 +1,24 @@
+{
+    "565": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "China",
+        "Company city": "",
+        "Company state": "",
+        "Affected population": [
+            "Survivors of Lahaina fire",
+            "Residents of Maui"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {},
+        "Sub-subclass": {},
+        "Area of AI Application": "Imagery and Disinformation",
+        "Online": "Yes"
+    }
+}

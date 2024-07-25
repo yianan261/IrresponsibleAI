@@ -1,0 +1,29 @@
+{
+    "560": {
+        "Country": "United States",
+        "State": "Pennsylvania",
+        "City": "",
+        "Continent": "North America",
+        "Company": "Tesla",
+        "Company city": "Austin",
+        "Company state": "Texas",
+        "Affected population": [
+            "Driver of Tesla",
+            "Passengers in Tesla",
+            "Other Drivers on the Highway"
+        ],
+        "Number of people actually affected": "0",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous Driving",
+        "Online": "No"
+    }
+}

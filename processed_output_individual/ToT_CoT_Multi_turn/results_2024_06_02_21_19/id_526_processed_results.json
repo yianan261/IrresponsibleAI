@@ -1,0 +1,25 @@
+{
+    "526": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Universal Music Group",
+        "Company city": "Santa Monica",
+        "Company state": "California",
+        "Affected population": [
+            "Artists, Music Industry"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Music Generation",
+        "Online": "Yes"
+    }
+}

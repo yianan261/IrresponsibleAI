@@ -1,0 +1,24 @@
+{
+    "543": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Unknown",
+        "Company city": "Unknown",
+        "Company state": "Unknown",
+        "Affected population": [
+            "General Public",
+            "Investors"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {},
+        "Sub-subclass": {},
+        "Area of AI Application": "Social Media Manipulation",
+        "Online": "Yes"
+    }
+}

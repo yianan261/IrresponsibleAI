@@ -1,0 +1,27 @@
+{
+    "604": {
+        "Country": "Canada",
+        "State": "Quebec",
+        "City": "Sherbrooke",
+        "Continent": "North America",
+        "Company": "Not provided in the article",
+        "Company city": "Not provided in the article",
+        "Company state": "Not provided in the article",
+        "Affected population": [
+            "Children depicted in the deepfake videos"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Image manipulation",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "490": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Clarkesworld Magazine",
+        "Company city": "",
+        "Company state": "",
+        "Affected population": [
+            "Authors submitting to Clarkesworld Magazine"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Creation",
+        "Online": "Yes"
+    }
+}

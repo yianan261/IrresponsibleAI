@@ -1,0 +1,27 @@
+{
+    "597": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company": "Westfield High School",
+        "Company city": "Westfield",
+        "Company state": "New Jersey",
+        "Affected population": [
+            "Students at Westfield High School"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Image Generation",
+        "Online": "No"
+    }
+}

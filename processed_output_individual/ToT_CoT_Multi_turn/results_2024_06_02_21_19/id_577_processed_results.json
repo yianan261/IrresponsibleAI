@@ -1,0 +1,29 @@
+{
+    "577": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Bankrate",
+        "Company city": "New York",
+        "Company state": "New York",
+        "Affected population": [
+            "Readers of Bankrate articles"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Generation",
+        "Online": "Yes"
+    }
+}

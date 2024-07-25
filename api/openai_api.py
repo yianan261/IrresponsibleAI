@@ -19,7 +19,7 @@ class OpenaiAPI:
     def __init__(self, model="gpt-3.5-turbo-0125"):
         load_dotenv()
         api_key = os.getenv("OPENAI_API_KEY")
-        print("API KEY",api_key)
+        print("API KEY", api_key)
         openai.api_key = api_key
         self.client = openai
         self.model = model
@@ -112,7 +112,7 @@ class OpenaiAPI:
             # second_message = update_messages_with_location(prompt, message_type="one")
             second_message = update_messages_with_location(
                 prompt,
-                message_type="one",
+                message_type="multi",
                 article_text=article_text,
                 location_candidates=location_candidates,
             )

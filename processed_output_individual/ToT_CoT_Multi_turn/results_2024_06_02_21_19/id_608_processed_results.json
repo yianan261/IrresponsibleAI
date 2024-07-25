@@ -1,0 +1,36 @@
+{
+    "608": {
+        "Country": "United States",
+        "State": "Minnesota",
+        "City": "Minnetonka",
+        "Continent": "North America",
+        "Company": "UnitedHealth Group Inc.",
+        "Company city": "Minnetonka",
+        "Company state": "Minnesota",
+        "Affected population": [
+            "Elderly Patients on Medicare Advantage"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative"
+            ],
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Interaction",
+                "Feedback loop"
+            ]
+        },
+        "Area of AI Application": "Healthcare Coverage Decisions",
+        "Online": "No"
+    }
+}

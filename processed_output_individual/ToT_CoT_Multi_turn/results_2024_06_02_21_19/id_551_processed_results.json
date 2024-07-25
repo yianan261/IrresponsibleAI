@@ -1,0 +1,35 @@
+{
+    "551": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Federal Bureau of Investigation (FBI)",
+        "Company city": "Washington, D.C.",
+        "Company state": "District of Columbia",
+        "Affected population": [
+            "Victims of Sextortion"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Video"
+            ],
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Deepfake Generation",
+        "Online": "Yes"
+    }
+}

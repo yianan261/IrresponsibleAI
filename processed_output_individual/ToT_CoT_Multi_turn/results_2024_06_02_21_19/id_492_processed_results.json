@@ -1,0 +1,28 @@
+{
+    "492": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "ElevenLabs",
+        "Company city": "New York City",
+        "Company state": "New York",
+        "Affected population": [
+            "Canadian Family"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Voice Cloning",
+        "Online": "No"
+    }
+}

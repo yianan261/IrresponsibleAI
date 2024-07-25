@@ -1,0 +1,28 @@
+{
+    "446": {
+        "Country": "United States",
+        "State": "North Carolina",
+        "City": "Durham",
+        "Continent": "North America",
+        "Company": "ShotSpotter",
+        "Company city": "Fremont",
+        "Company state": "California",
+        "Affected population": [
+            "Victims of gun violence in Durham"
+        ],
+        "Number of people actually affected": "5",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Gunfire Detection",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "537": {
+        "Country": "United States",
+        "State": "Arizona",
+        "City": "Scottsdale",
+        "Continent": "North America",
+        "Company": "Unknown",
+        "Company city": "Unknown",
+        "Company state": "Unknown",
+        "Affected population": [
+            "Jennifer DeStefano and Family"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Disinformation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Voice Cloning",
+        "Online": "No"
+    }
+}

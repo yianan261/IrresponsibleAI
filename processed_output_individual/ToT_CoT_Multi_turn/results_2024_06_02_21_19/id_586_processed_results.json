@@ -1,0 +1,28 @@
+{
+    "586": {
+        "Country": "Worldwide",
+        "State": "California",
+        "City": "San Mateo",
+        "Continent": "North America",
+        "Company": "Edmodo, Inc.",
+        "Company city": "San Mateo",
+        "Company state": "California",
+        "Affected population": [
+            "Children using Edmodo"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Educational Technology",
+        "Online": "Yes"
+    }
+}

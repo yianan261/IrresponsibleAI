@@ -1,0 +1,29 @@
+{
+    "494": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Ufoto Limited",
+        "Company city": "Unknown",
+        "Company state": "Unknown",
+        "Affected population": [
+            "Women targeted by deepfake porn"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Discrimination": [],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Deepfake technology",
+        "Online": "Yes"
+    }
+}

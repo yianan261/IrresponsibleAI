@@ -1,0 +1,28 @@
+{
+    "541": {
+        "Country": "Worldwide",
+        "State": "New York",
+        "City": "New York City",
+        "Continent": "North America",
+        "Company": "Levidow, Levidow & Oberman, P.C.",
+        "Company city": "New York",
+        "Company state": "New York",
+        "Affected population": [
+            "Legal Community"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Several",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Legal Research",
+        "Online": "No"
+    }
+}

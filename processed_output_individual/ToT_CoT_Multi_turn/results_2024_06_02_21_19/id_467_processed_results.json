@@ -1,0 +1,24 @@
+{
+    "467": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Investors",
+            "Tech Industry Analysts"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {},
+        "Sub-subclass": {},
+        "Area of AI Application": "Chatbot",
+        "Online": "Yes"
+    }
+}

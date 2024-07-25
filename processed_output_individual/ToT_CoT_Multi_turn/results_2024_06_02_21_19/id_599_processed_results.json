@@ -1,0 +1,27 @@
+{
+    "599": {
+        "Country": "South Korea",
+        "State": "South Gyeongsang province",
+        "City": "",
+        "Continent": "Asia",
+        "Company": "Dongseong Export Agricultural Complex",
+        "Company city": "South Gyeongsang province",
+        "Company state": "South Gyeongsang",
+        "Affected population": [
+            "Robotics Company Workers"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Industrial Robotics",
+        "Online": "No"
+    }
+}

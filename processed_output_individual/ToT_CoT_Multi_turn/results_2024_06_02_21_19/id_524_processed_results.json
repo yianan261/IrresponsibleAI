@@ -1,0 +1,30 @@
+{
+    "524": {
+        "Country": "United States",
+        "State": "Iowa",
+        "City": "Dubuque",
+        "Continent": "North America",
+        "Company": "Telegram",
+        "Company city": "Dubai",
+        "Company state": "Dubai",
+        "Affected population": [
+            "Local Communities",
+            "Law Enforcement"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Voice Synthesis",
+        "Online": "Yes"
+    }
+}

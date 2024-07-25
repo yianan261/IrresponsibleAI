@@ -1,0 +1,27 @@
+{
+    "513": {
+        "Country": "Italy",
+        "State": "",
+        "City": "",
+        "Continent": "Europe",
+        "Company": "OpenAI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Users of ChatGPT in Italy"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Data Privacy Violation",
+            "Age Inappropriateness"
+        ],
+        "Subclasses": {
+            "Data Privacy Violation": [],
+            "Age Inappropriateness": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Chatbot",
+        "Online": "Yes"
+    }
+}

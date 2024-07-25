@@ -1,0 +1,27 @@
+{
+    "610": {
+        "Country": "Spain",
+        "State": "Extremadura",
+        "City": "Almendralejo",
+        "Continent": "Europe",
+        "Company": "ClothOff",
+        "Company city": "Unknown",
+        "Company state": "Unknown",
+        "Affected population": [
+            "Teenage Girls in Almendralejo"
+        ],
+        "Number of people actually affected": "More than 20",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Image Alteration",
+        "Online": "Yes"
+    }
+}

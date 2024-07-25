@@ -11,6 +11,7 @@ import concurrent.futures
 import random
 from check_urls import process_urls
 from concurrent.futures import ThreadPoolExecutor
+import re
 
 
 class FileNotFoundError(Exception):
@@ -101,7 +102,9 @@ class NewsContent:
                 file_path = f"{self.base}/article_texts/{i}.txt"
                 with open(file_path, "r", encoding="utf-8") as file:
                     file_content = file.read()
-                aggregated_content[str(i)] = file_content
+
+                cleaned_content = re.sub(r"\n+", "\n", file_content)
+                aggregated_content[str(i)] = cleaned_content
             except FileNotFoundError:
                 logging.error(f"File for ID {i} does not exist, skipping...")
                 continue
@@ -277,16 +280,19 @@ class NewsContent:
         COT_USER_PROMPT = "COT_USER_PROMPT"
         TOT_MULTI_TURN = "ToT_CoT_Multi_turn"
         TOT_COT_2 = "ToT_CoT_2"
-        prompt_type = TREE_OF_THOUGHTS_COT
+        prompt_type = TOT_MULTI_TURN
 
         data = IncidentData()
         if scrape_articles == True:
             self.fill_article_content()
         else:
-            # id_2023 = data.get_incidents_2023()
-            id_remove = data.get_empty_data() | data.get_incidents_2023()
-            id_set = data.get_handpicked_id_set()
+            id_set = data.get_incidents_2023()
+            id_remove = data.get_empty_data()
+            # id_set = data.get_handpicked_id_set()
+            print("id_set", id_set)
             ids_to_process = id_set - id_remove
+            print("ids to remove", id_remove)
+            print("IDS to process", ids_to_process)
             to_process = sorted(ids_to_process)
             print(to_process)
             self.read_article_from_file(ids_to_process)

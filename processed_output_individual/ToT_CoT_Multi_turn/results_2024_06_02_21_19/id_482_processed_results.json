@@ -1,0 +1,27 @@
+{
+    "482": {
+        "Country": "United States",
+        "State": "Tennessee",
+        "City": "Nashville",
+        "Continent": "North America",
+        "Company": "OpenAI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Peabody College Community"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Communication",
+        "Online": "Yes"
+    }
+}

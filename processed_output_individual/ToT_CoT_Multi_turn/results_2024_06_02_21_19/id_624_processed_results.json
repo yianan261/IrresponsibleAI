@@ -1,0 +1,27 @@
+{
+    "624": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "LAION",
+        "Company city": "Hamburg",
+        "Company state": "",
+        "Affected population": [
+            "Users of LAION-5B dataset"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Other"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Other": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Image Generation",
+        "Online": "Yes"
+    }
+}

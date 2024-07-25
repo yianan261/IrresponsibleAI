@@ -20,7 +20,7 @@ class IncidentData:
         # id_set = set([4, 6, 9, 11, 167, 505, 382])
         # id_set = set([i for i in range(501, 639)])
         # id_set = set([494, 560, 602])
-        rerun_id_set = ["420", "133", "12", "86", "19", "88", "562", "404"]
+        rerun_id_set = [505]
         id_int_to_string = set(str(i) for i in rerun_id_set)
         return id_int_to_string
 

@@ -1,0 +1,24 @@
+{
+    "523": {
+        "Country": "Australia",
+        "State": "",
+        "City": "",
+        "Continent": "Australia",
+        "Company": "Australian Government",
+        "Company city": "Canberra",
+        "Company state": "Australian Capital Territory",
+        "Affected population": [
+            "Centrelink Clients",
+            "ATO Clients"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Security Vulnerability"
+        ],
+        "Subclasses": {},
+        "Sub-subclass": {},
+        "Area of AI Application": "Voice Identification",
+        "Online": "No"
+    }
+}

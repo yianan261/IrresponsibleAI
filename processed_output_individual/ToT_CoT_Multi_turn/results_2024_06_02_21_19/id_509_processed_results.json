@@ -1,0 +1,25 @@
+{
+    "509": {
+        "Country": "Vietnam",
+        "State": "",
+        "City": "",
+        "Continent": "Asia",
+        "Company": "Facebook",
+        "Company city": "Menlo Park",
+        "Company state": "California",
+        "Affected population": [
+            "Victims in Vietnam"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Disinformation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Deepfake technology",
+        "Online": "Yes"
+    }
+}

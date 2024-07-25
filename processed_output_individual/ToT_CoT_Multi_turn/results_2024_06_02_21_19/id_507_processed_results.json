@@ -1,0 +1,23 @@
+{
+    "507": {
+        "Country": "Australia",
+        "State": "Victoria",
+        "City": "Melbourne",
+        "Continent": "Australia",
+        "Company": "OpenAI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Brian Hood, Public"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {},
+        "Sub-subclass": {},
+        "Area of AI Application": "Text Generation",
+        "Online": "Yes"
+    }
+}

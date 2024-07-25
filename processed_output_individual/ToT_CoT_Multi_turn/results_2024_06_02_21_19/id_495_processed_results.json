@@ -1,0 +1,35 @@
+{
+    "495": {
+        "Country": "Worldwide",
+        "State": "New York",
+        "City": "Carmel",
+        "Continent": "North America",
+        "Company": "Carmel High School",
+        "Company city": "Carmel",
+        "Company state": "New York",
+        "Affected population": [
+            "Students, Parents, School Staff"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Video"
+            ],
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race"
+            ]
+        },
+        "Area of AI Application": "Video Manipulation",
+        "Online": "No"
+    }
+}

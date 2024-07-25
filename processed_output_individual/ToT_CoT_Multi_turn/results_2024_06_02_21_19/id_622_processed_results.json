@@ -1,0 +1,27 @@
+{
+    "622": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Chevrolet",
+        "Company city": "Watsonville",
+        "Company state": "California",
+        "Affected population": [
+            "Potential Car Buyers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Sales Assistance",
+        "Online": "Yes"
+    }
+}

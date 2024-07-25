@@ -1,0 +1,28 @@
+{
+    "491": {
+        "Country": "Italy",
+        "State": "",
+        "City": "",
+        "Continent": "Europe",
+        "Company": "Replika",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Minors, Vulnerable People"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Minors and Vulnerable People in Italy",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Chatbot",
+        "Online": "Yes"
+    }
+}

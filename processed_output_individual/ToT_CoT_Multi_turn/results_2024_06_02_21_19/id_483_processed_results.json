@@ -1,0 +1,28 @@
+{
+    "483": {
+        "Country": "India",
+        "State": "Telangana",
+        "City": "Hyderabad",
+        "Continent": "Asia",
+        "Company": "Telangana Police Department",
+        "Company city": "Hyderabad",
+        "Company state": "Telangana",
+        "Affected population": [
+            "Mohammed Khadeer"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Facial Recognition",
+        "Online": "No"
+    }
+}

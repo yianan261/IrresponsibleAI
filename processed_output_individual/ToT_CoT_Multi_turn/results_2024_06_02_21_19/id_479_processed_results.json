@@ -1,0 +1,23 @@
+{
+    "479": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Instagram",
+        "Company city": "",
+        "Company state": "",
+        "Affected population": [
+            "Social Media Users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {},
+        "Sub-subclass": [],
+        "Area of AI Application": "Social Media",
+        "Online": "Yes"
+    }
+}

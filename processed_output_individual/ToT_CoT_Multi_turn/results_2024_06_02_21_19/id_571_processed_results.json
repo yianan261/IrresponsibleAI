@@ -1,0 +1,33 @@
+{
+    "571": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Microsoft",
+        "Company city": "Redmond",
+        "Company state": "Washington",
+        "Affected population": [
+            "Microsoft Employees",
+            "Data Scientists",
+            "Engineers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds",
+        "Class of irresponsible AI use": [
+            "Data bias",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Data bias": [
+                "Other"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Data Management",
+        "Online": "No"
+    }
+}

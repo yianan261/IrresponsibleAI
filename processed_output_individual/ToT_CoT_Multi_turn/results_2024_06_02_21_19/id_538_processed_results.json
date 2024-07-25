@@ -1,0 +1,27 @@
+{
+    "538": {
+        "Country": "United States",
+        "State": "Texas",
+        "City": "College Station",
+        "Continent": "North America",
+        "Company": "Texas A&M University",
+        "Company city": "College Station",
+        "Company state": "Texas",
+        "Affected population": [
+            "Students of Texas A&M University"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Education",
+        "Online": "No"
+    }
+}

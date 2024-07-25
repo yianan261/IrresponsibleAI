@@ -1,0 +1,21 @@
+{
+    "506": {
+        "Country": "Worldwide",
+        "State": "California",
+        "City": "San Francisco",
+        "Continent": "North America",
+        "Company": "OpenAI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {},
+        "Sub-subclass": {},
+        "Area of AI Application": "Language Generation",
+        "Online": "Yes"
+    }
+}

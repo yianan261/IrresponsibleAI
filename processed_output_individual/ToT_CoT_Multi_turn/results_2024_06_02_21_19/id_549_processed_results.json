@@ -1,0 +1,27 @@
+{
+    "549": {
+        "Country": "United States",
+        "State": "Illinois",
+        "City": "Chicago",
+        "Continent": "North America",
+        "Company": "McDonald's",
+        "Company city": "Chicago",
+        "Company state": "Illinois",
+        "Affected population": [
+            "Job Applicants"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Job Application Process",
+        "Online": "Yes"
+    }
+}

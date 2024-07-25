@@ -1,0 +1,31 @@
+{
+    "617": {
+        "Country": "United States",
+        "State": "Washington",
+        "City": "Issaquah",
+        "Continent": "North America",
+        "Company": "Issaquah High School",
+        "Company city": "Issaquah",
+        "Company state": "Washington",
+        "Affected population": [
+            "Female students at Issaquah High School"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Several",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Gender"
+            ]
+        },
+        "Area of AI Application": "Image Alteration",
+        "Online": "No"
+    }
+}

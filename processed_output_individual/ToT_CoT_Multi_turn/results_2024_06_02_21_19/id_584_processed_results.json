@@ -1,0 +1,31 @@
+{
+    "584": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company": "Pimeyes Sp. Z O.O",
+        "Company city": "Warsaw",
+        "Company state": "Masovian Voivodeship",
+        "Affected population": [
+            "Plaintiffs in the class action lawsuit"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Facial"
+            ]
+        },
+        "Area of AI Application": "Facial Recognition",
+        "Online": "Yes"
+    }
+}

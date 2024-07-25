@@ -1,0 +1,25 @@
+{
+    "602": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Russia",
+        "Company city": "Moscow",
+        "Company state": "",
+        "Affected population": [
+            "Social Media Users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Disinformation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Social Media",
+        "Online": "Yes"
+    }
+}

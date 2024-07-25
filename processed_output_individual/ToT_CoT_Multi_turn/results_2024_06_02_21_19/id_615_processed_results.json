@@ -1,0 +1,27 @@
+{
+    "615": {
+        "Country": "United States",
+        "State": "Colorado",
+        "City": "Colorado Springs",
+        "Continent": "North America",
+        "Company": "OpenAI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Legal Professionals"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Legal Research",
+        "Online": "No"
+    }
+}

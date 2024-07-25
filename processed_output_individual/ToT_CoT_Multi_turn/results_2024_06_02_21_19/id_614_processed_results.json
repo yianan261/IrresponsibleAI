@@ -1,0 +1,27 @@
+{
+    "614": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "KPMG",
+        "Company city": "New York",
+        "Company state": "New York",
+        "Affected population": [
+            "Consulting Firms"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Case Studies Generation",
+        "Online": "No"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "591": {
+        "Country": "United States",
+        "State": "California",
+        "City": "Sacramento",
+        "Continent": "North America",
+        "Company": "Cigna Corp.",
+        "Company city": "Bloomfield",
+        "Company state": "Connecticut",
+        "Affected population": [
+            "Patients with Cigna Insurance"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds of Thousands",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Claims Processing",
+        "Online": "No"
+    }
+}

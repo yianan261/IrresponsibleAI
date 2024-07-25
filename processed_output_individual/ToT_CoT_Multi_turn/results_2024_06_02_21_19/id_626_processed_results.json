@@ -1,0 +1,27 @@
+{
+    "626": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Le Creuset",
+        "Company city": "Charleston",
+        "Company state": "South Carolina",
+        "Affected population": [
+            "Social Media Users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Copyright Violation"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Copyright Violation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Deepfake",
+        "Online": "Yes"
+    }
+}

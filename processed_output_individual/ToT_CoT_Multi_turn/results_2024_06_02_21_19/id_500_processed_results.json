@@ -1,0 +1,27 @@
+{
+    "500": {
+        "Country": "Turkey",
+        "State": "",
+        "City": "Istanbul",
+        "Continent": "Europe",
+        "Company": "Online Scammers",
+        "Company city": "Istanbul",
+        "Company state": "",
+        "Affected population": [
+            "People tricked into sending money"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Fraud"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Fraud": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Image manipulation",
+        "Online": "Yes"
+    }
+}

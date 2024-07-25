@@ -1,0 +1,27 @@
+{
+    "578": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Meta",
+        "Company city": "Menlo Park",
+        "Company state": "California",
+        "Affected population": [
+            "Users of AI models"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Chatbots",
+        "Online": "Yes"
+    }
+}

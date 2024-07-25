@@ -1,0 +1,25 @@
+{
+    "544": {
+        "Country": "Turkey",
+        "State": "",
+        "City": "",
+        "Continent": "Asia",
+        "Company": "Clarity",
+        "Company city": "Tel Aviv",
+        "Company state": "Israel",
+        "Affected population": [
+            "Citizens of Turkey"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Disinformation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Deepfakes",
+        "Online": "Yes"
+    }
+}

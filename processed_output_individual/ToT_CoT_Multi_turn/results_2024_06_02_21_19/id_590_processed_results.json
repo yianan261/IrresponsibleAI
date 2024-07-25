@@ -1,0 +1,29 @@
+{
+    "590": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "inKstall",
+        "Company city": "Mumbai",
+        "Company state": "Maharashtra",
+        "Affected population": [
+            "Authors, Readers, Online Community"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Copyright Violation",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Copyright Violation": [],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Creation",
+        "Online": "Yes"
+    }
+}

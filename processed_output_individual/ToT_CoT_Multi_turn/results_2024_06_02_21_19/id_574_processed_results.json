@@ -1,0 +1,27 @@
+{
+    "574": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "G/O Media",
+        "Company city": "New York",
+        "Company state": "New York",
+        "Affected population": [
+            "Staff at G/O Media"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Creation",
+        "Online": "Yes"
+    }
+}

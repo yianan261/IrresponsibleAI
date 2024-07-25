@@ -1,0 +1,27 @@
+{
+    "566": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "North America",
+        "Company": "Gannett",
+        "Company city": "McLean",
+        "Company state": "Virginia",
+        "Affected population": [
+            "Readers of Gannett newspapers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Content Generation",
+        "Online": "Yes"
+    }
+}

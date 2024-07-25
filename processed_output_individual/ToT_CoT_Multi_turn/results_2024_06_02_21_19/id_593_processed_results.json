@@ -1,0 +1,32 @@
+{
+    "593": {
+        "Country": "United States",
+        "State": "California",
+        "City": "San Francisco",
+        "Continent": "North America",
+        "Company": "Playground AI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Rona Wang",
+            "Users of Playground AI"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Algorithmic bias": [
+                "Interaction"
+            ]
+        },
+        "Area of AI Application": "Image Editing",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "613": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Stability AI",
+        "Company city": "London",
+        "Company state": "England",
+        "Affected population": [],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Copyright Violation"
+        ],
+        "Subclasses": {},
+        "Sub-subclass": [],
+        "Area of AI Application": "Artificial Intelligence Art Tool",
+        "Online": "No"
+    }
+}

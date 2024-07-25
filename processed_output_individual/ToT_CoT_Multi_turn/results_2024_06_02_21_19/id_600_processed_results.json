@@ -1,0 +1,27 @@
+{
+    "600": {
+        "Country": "South Korea",
+        "State": "",
+        "City": "Seoul",
+        "Continent": "Asia",
+        "Company": "Unnamed",
+        "Company city": "Busan",
+        "Company state": "",
+        "Affected population": [
+            "Children"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "1",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Image Generation",
+        "Online": "No"
+    }
+}

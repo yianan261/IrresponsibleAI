@@ -1,0 +1,27 @@
+{
+    "473": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Microsoft",
+        "Company city": "Redmond",
+        "Company state": "Washington",
+        "Affected population": [
+            "Early Testers of Bing Chat"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Limited",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Conversational Bot",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "508": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "ElevenLabs",
+        "Company city": "London",
+        "Company state": "England",
+        "Affected population": [
+            "Users of the text-to-audio tool"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {},
+        "Sub-subclass": {},
+        "Area of AI Application": "Voice Cloning and Dubbing",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "420": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "OpenAI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Developers",
+            "Users of ChatGPT"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Gender",
+                "Race",
+                "Other"
+            ],
+            "Algorithmic bias": [
+                "Feedback loop",
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Chatbot",
+        "Online": "Yes"
+    }
+}

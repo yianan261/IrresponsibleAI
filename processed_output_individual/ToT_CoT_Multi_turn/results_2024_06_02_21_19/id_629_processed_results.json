@@ -1,0 +1,23 @@
+{
+    "629": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Shein",
+        "Company city": "Los Angeles",
+        "Company state": "California",
+        "Affected population": [
+            "Artists"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Copyright Violation"
+        ],
+        "Subclasses": {},
+        "Sub-subclass": {},
+        "Area of AI Application": "Fashion Design",
+        "Online": "Yes"
+    }
+}

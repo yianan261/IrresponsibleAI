@@ -1,0 +1,25 @@
+{
+    "497": {
+        "Country": "United States",
+        "State": "California",
+        "City": "San Francisco",
+        "Continent": "North America",
+        "Company": "DoNotPay",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Customers of DoNotPay"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds or Thousands",
+        "Class of irresponsible AI use": [
+            "Misrepresentation"
+        ],
+        "Subclasses": {
+            "Misrepresentation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Legal Services",
+        "Online": "Yes"
+    }
+}

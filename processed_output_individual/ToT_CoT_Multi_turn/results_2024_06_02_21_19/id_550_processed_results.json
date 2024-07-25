@@ -1,0 +1,28 @@
+{
+    "550": {
+        "Country": "United States",
+        "State": "North Carolina",
+        "City": "Halifax County",
+        "Continent": "North America",
+        "Company": "Tesla",
+        "Company city": "Austin",
+        "Company state": "Texas",
+        "Affected population": [
+            "Tillman Mitchell",
+            "Dr. Howard Gene Yee"
+        ],
+        "Number of people actually affected": "2",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous Driving",
+        "Online": "No"
+    }
+}

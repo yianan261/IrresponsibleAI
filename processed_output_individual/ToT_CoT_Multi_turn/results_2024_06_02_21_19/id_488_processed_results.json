@@ -1,0 +1,27 @@
+{
+    "488": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "ElevenLabs",
+        "Company city": "Unknown",
+        "Company state": "Unknown",
+        "Affected population": [
+            "Voice Actors"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Surveillance"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Surveillance": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Voice Generation",
+        "Online": "Yes"
+    }
+}

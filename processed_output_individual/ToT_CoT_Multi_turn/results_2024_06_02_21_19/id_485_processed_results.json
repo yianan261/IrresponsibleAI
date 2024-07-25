@@ -1,0 +1,27 @@
+{
+    "485": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Lloyds Banking Group",
+        "Company city": "London",
+        "Company state": "England",
+        "Affected population": [
+            "Bank Customers"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Security Breach"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Security Breach": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Voice Authentication",
+        "Online": "No"
+    }
+}

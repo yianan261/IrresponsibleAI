@@ -1,0 +1,27 @@
+{
+    "510": {
+        "Country": "Italy",
+        "State": "",
+        "City": "Vatican City",
+        "Continent": "Europe",
+        "Company": "Midjourney",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Social Media Users"
+        ],
+        "Number of people actually affected": "Millions",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Image"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Image Generation",
+        "Online": "Yes"
+    }
+}

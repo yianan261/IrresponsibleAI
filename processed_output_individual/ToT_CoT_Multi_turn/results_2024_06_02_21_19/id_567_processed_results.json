@@ -1,0 +1,25 @@
+{
+    "567": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Retool",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Retool Employees"
+        ],
+        "Number of people actually affected": "27",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Social Engineering"
+        ],
+        "Subclasses": {
+            "Social Engineering": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Voice Deepfake",
+        "Online": "No"
+    }
+}

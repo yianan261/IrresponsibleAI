@@ -1,0 +1,33 @@
+{
+    "582": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "University of Pennsylvania Health System",
+        "Company city": "Philadelphia",
+        "Company state": "Pennsylvania",
+        "Affected population": [
+            "Black Patients"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Thousands",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Algorithmic bias"
+        ],
+        "Subclasses": {
+            "Discrimination": [
+                "Data bias"
+            ],
+            "Algorithmic bias": []
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Race"
+            ]
+        },
+        "Area of AI Application": "Medical Diagnosis",
+        "Online": "No"
+    }
+}

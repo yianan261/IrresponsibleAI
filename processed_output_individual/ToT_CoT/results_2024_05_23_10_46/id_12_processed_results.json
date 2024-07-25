@@ -1,0 +1,43 @@
+{
+    "12": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Microsoft",
+        "Company city": "Redmond",
+        "Company state": "Washington",
+        "Affected population": [
+            "Twitter Users",
+            "Online Community"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Discrimination"
+        ],
+        "Subclasses": {
+            "Disinformation": [
+                "Textual"
+            ],
+            "Discrimination": [
+                "Data bias",
+                "Algorithmic bias"
+            ]
+        },
+        "Sub-subclass": {
+            "Data bias": [
+                "Gender",
+                "Race",
+                "Other"
+            ],
+            "Algorithmic bias": [
+                "Feedback loop",
+                "Other"
+            ]
+        },
+        "Area of AI Application": "Chatbot",
+        "Online": "Yes"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "588": {
+        "Country": "Australia",
+        "State": "",
+        "City": "",
+        "Continent": "Australia",
+        "Company": "Australian National University",
+        "Company city": "Canberra",
+        "Company state": "Australian Capital Territory",
+        "Affected population": [
+            "Individuals assessed by the Vera-2R tool"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Discrimination",
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Discrimination": [],
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Risk Assessment",
+        "Online": "No"
+    }
+}

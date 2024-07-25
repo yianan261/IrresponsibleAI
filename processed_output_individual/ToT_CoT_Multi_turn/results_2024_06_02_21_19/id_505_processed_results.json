@@ -1,0 +1,23 @@
+{
+    "505": {
+        "Country": "Belgium",
+        "State": "",
+        "City": "",
+        "Continent": "Europe",
+        "Company": "Chai Research",
+        "Company city": "Palo Alto",
+        "Company state": "California",
+        "Affected population": [
+            "Users of Chai Chatbot"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Mental Health"
+        ],
+        "Subclasses": {},
+        "Sub-subclass": {},
+        "Area of AI Application": "Chatbot",
+        "Online": "Yes"
+    }
+}

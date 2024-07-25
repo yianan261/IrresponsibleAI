@@ -1,0 +1,25 @@
+{
+    "583": {
+        "Country": "Worldwide",
+        "State": "California",
+        "City": "Menlo Park",
+        "Continent": "Worldwide",
+        "Company": "Meta",
+        "Company city": "Menlo Park",
+        "Company state": "California",
+        "Affected population": [
+            "Instagram Users"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Disinformation": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Recommendation Algorithms",
+        "Online": "Yes"
+    }
+}

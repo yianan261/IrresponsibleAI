@@ -1,0 +1,27 @@
+{
+    "474": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Replika",
+        "Company city": "",
+        "Company state": "",
+        "Affected population": [
+            "Users of Replika AI Companion"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Disinformation",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Disinformation": [],
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Companion Chatbot",
+        "Online": "Yes"
+    }
+}
