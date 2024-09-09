@@ -102,7 +102,7 @@ IrresponsibleAI.ipynb file is used for data exploration. Current version can be 
 
 Data processing and visualization can be found [here](https://observablehq.com/d/126c228131c034d7)
 
-Interactive tree visualization of results of different prompting techniques can be found [here](https://observablehq.com/d/da2342040625eb8d)
+Interactive tree visualization of results of different prompting techniques can be found [here](https://observablehq.com/@irresponsible-ai/outline-for-ai-incident-visualization-notebooks)
 
 # Prompt Results
 
