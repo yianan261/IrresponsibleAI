@@ -302,7 +302,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--prompt_type",
         type=str,
-        default="ToT_CoT_Multi_turn",
+        default="tot_cot_multi_turn",
         help="Type of prompt to use",
     )
 
