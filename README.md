@@ -50,7 +50,9 @@ python3 news_content.py
 
 ## News Content Processing
 
-The `news_content.py` script is the entry-point of the program. It aggregates news articles content of the same incident into one large string. It then instantiates an OpenaiAPI instance which processes the content of the aggregated article text by invoking the OpenAI() client. The `gpt-3.5-turbo-0125` model is used for this purpose. **Update 9/9/2024: As of July 2024, gpt-3.5 models should be replaced by the newest model `gpt-4o-mini`. For more information, please visit [here](https://platform.openai.com/docs/models/gpt-4o)**
+The `news_content.py` script is the entry-point of the program. It aggregates news articles content of the same incident into one large string. It then instantiates an OpenaiAPI instance which processes the content of the aggregated article text by invoking the OpenAI() client. The `gpt-3.5-turbo-0125` model is used for this purpose.
+<br>
+**Update 9/9/2024: As of July 2024, gpt-3.5 models should be replaced by the newest model `gpt-4o-mini`. For more information, please visit [here](https://platform.openai.com/docs/models/gpt-4o)**
 
 Before scraping the article from the provided URLs, the program pre-processes the urls to check if they are valid.
 
@@ -69,6 +71,7 @@ python3 news_content.py --start 0 --end 50 --prompt_type zero_shot
 ```
 
 ### Arguments:
+
 - `--scrape_articles`: If set, the script will scrape the articles from URLs. If not set, it will read from pre-downloaded articles.
 - `--double_check`: If set, the script will perform a double check of the processed results using an additional OpenAI prompt.
 - `--start`: Defines the starting ID range (default is `0`).
@@ -76,6 +79,7 @@ python3 news_content.py --start 0 --end 50 --prompt_type zero_shot
 - `--prompt_type`: Specifies the prompt type to use for the OpenAI API call.
 
 ### Available Prompt Types:
+
 You must specify the `prompt_type` argument when running the `news_content.py` script. The following prompt types are allowed:
 
 - `taxonomy_string_formatted`: Uses a formatted string for the taxonomy.
@@ -130,4 +134,4 @@ Individual JSON outputs are under the `processed_output_individual` directory
     ├── newsUrls.json <!-- JSON file of all news article URLs -->
     ├── ids_2023.json <!-- JSON file of all incident IDs of 2023-->
     └── IrresponsibleAI.ipynb <!-- Preliminary data exploration notebook-->
-````
+```
