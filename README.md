@@ -72,7 +72,7 @@ python3 news_content.py --start 0 --end 50 --prompt_type zero_shot
 
 ### Arguments:
 
-- `--scrape_articles`: If set, the script will scrape the articles from URLs. If not set, it will read from pre-downloaded articles.
+- `--scrape_articles`: If set True, the script will scrape the articles from URLs. If not set, it will read from pre-downloaded articles. First-time users should set this value to True.
 - `--double_check`: If set, the script will perform a double check of the processed results using an additional OpenAI prompt.
 - `--start`: Defines the starting ID range (default is `0`).
 - `--end`: Defines the ending ID range (default is `10`).
