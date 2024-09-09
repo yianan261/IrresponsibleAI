@@ -1,0 +1,27 @@
+{
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "",
+        "Continent": "Asia",
+        "Company": "Boeing",
+        "Company city": "Arlington",
+        "Company state": "Virginia",
+        "Affected population": [
+            "Passengers and Crew on Lion Air Flight 610"
+        ],
+        "Number of people actually affected": 189,
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Aircraft Automation",
+        "Online": "No"
+    }
+}

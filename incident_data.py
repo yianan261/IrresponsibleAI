@@ -15,13 +15,9 @@ class IncidentData:
         set_ids_2023 = set(str(i) for i in ids_2023)
         return set_ids_2023
 
-    def get_handpicked_id_set(self):
-        # id_set = set([0, 1, 2, 3, 4, 5, 6, 9, 10, 11, 13, 14, 451, 382, 505, 167])
-        # id_set = set([4, 6, 9, 11, 167, 505, 382])
-        # id_set = set([i for i in range(501, 639)])
-        # id_set = set([494, 560, 602])
-        rerun_id_set = [505]
-        id_int_to_string = set(str(i) for i in rerun_id_set)
+    def get_handpicked_id_set(self, start: int, end: int):
+        id_set = set([num for num in range(start, end + 1)])
+        id_int_to_string = set(str(i) for i in id_set)
         return id_int_to_string
 
     # data that are un-scrapable or too large or incident is missing from AIID database

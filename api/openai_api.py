@@ -15,11 +15,10 @@ class OpenaiAPI:
     Parameters:
         model (str): The model identifier to be used with the OpenAI API.
     """
-
-    def __init__(self, model="gpt-3.5-turbo-0125"):
+    # Update 9/9/2024: as of July 2024, gpt-4o-mini should be used in place of gpt-3.5-turbo
+    def __init__(self, model="gpt-4o-mini"):
         load_dotenv()
         api_key = os.getenv("OPENAI_API_KEY")
-        print("API KEY", api_key)
         openai.api_key = api_key
         self.client = openai
         self.model = model

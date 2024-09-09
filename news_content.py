@@ -10,17 +10,24 @@ from incident_data import IncidentData
 import concurrent.futures
 import random
 from check_urls import process_urls
-from concurrent.futures import ThreadPoolExecutor
 import re
-
-
-class FileNotFoundError(Exception):
-    """Exception raised when a file is expected but not found."""
-
-    pass
+import argparse
 
 
 class NewsContent:
+
+    TAXONOMY_STRING_FORMATTED = "taxonomy_string_formatted"
+    TAXONOMY_STRING = "taxonomy_string"
+    ZERO_SHOT = "zero_shot"
+    TREE_OF_THOUGHTS = "tree_of_thoughts"
+    FEW_SHOTS_COT = "few_shots_cot_prompt"
+    FEW_SHOTS = "few_shots"
+    FEW_SHOTS_COT_STEPS = "few_shots_cot_steps"
+    TREE_OF_THOUGHTS_COT = "tot_cot"
+    COT_USER_PROMPT = "cot_user_prompt"
+    TOT_MULTI_TURN = "tot_cot_multi_turn"
+    TOT_COT_2 = "tot_cot_2"
+
     def __init__(self):
         self.aggregated_content = {}
         self.base = os.path.abspath(os.path.dirname(__file__))
@@ -28,7 +35,7 @@ class NewsContent:
         self.processed_results = {}
         self.issues = dict()
 
-    def scrape_article(self, url) -> str:
+    def _scrape_article(self, url) -> str:
         """
         Attempts to download and parse an article from a given URL using the Newspaper3k library.
         Logs a message if the article cannot be accessed.
@@ -44,12 +51,12 @@ class NewsContent:
             article = Article(url)
             article.download()
             article.parse()
-        except:
-            logging.info(f"the URL {url} cannot be accessed")
+        except Exception as e:
+            logging.info(f"the URL {url} cannot be accessed: {e}")
             return ""
         return article.text
 
-    def fill_article_content(self, write=False):
+    def _fill_article_content(self, write=False):
         """
         Retrieves URLs to scrape, downloads articles, aggregates content, and optionally writes to files.
 
@@ -68,12 +75,12 @@ class NewsContent:
             if len(urls) > 2:
                 urls = random.sample(urls, 2)
             with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-                article_texts = list(executor.map(self.scrape_article, urls))
+                article_texts = list(executor.map(self._scrape_article, urls))
             concated = ". ".join(article_texts)
             aggregated_content[id] = concated
             # write to file
             if write:
-                file_path = f"{self.base}/article_texts/{id}.txt"
+                file_path = os.path.join(self.base, "article_texts", f"{id}.txt")
                 try:
                     with open(file_path, "w") as f:
                         f.write(concated)
@@ -83,7 +90,7 @@ class NewsContent:
         logging.info("Article scraping completed. Processing with LLM...")
         return
 
-    def read_article_from_file(self, id_set):
+    def _read_article_from_file(self, id_set):
         """
         Reads article content from local files for a given set of IDs.
 
@@ -99,7 +106,7 @@ class NewsContent:
         aggregated_content = self.aggregated_content
         for i in id_set:
             try:
-                file_path = f"{self.base}/article_texts/{i}.txt"
+                file_path = os.path.join(self.base, "article_texts", f"{i}.txt")
                 with open(file_path, "r", encoding="utf-8") as file:
                     file_content = file.read()
 
@@ -111,32 +118,7 @@ class NewsContent:
 
         return
 
-    # def process_item(self, id, content, prompt_type, check_prompt):
-    #     openai_client = self.openai_client
-    #     format_checker = FormatChecker()
-    #     try:
-    #         result, prompt = openai_client.process_content(content, prompt_type)
-    #         json_result = json.loads(result)
-    #         check = format_checker.check_format(json_result)
-    #         if not check:
-    #             replace_result, _ = openai_client.process_content(content, check_prompt)
-    #             json_replace = json.loads(replace_result)
-    #             result = json_replace
-    #         else:
-    #             result = json_result
-
-    #         return id, result, prompt
-
-    #     except json.JSONDecodeError as e:
-    #         logging.error(
-    #             f"Error decoding JSON data from API response for ID {id}: {e}"
-    #         )
-    #         return id, None, None
-    #     except Exception as e:
-    #         logging.error(f"An error occurred for ID {id}: {e}")
-    #         return id, None, None
-
-    def process_aggregate_results(self, prompt_type, check_prompt):
+    def _process_aggregate_results(self, prompt_type, check_prompt):
         """
         Processes scraped articles through OpenAI API, classifies content, and saves results.
 
@@ -155,27 +137,6 @@ class NewsContent:
         results_directory = f"{self.base}/processed_output_individual/{prompt_type}/results_{current_time}"
         os.makedirs(results_directory, exist_ok=True)
         prompt = ""
-
-        # with ThreadPoolExecutor(max_workers=5) as executor:
-        #     future_to_item = {
-        #         executor.submit(
-        #             self.process_item, id, content, prompt_type, check_prompt
-        #         ): (id, content)
-        #         for id, content in aggregated_content.items()
-        #     }
-        #     for future in future_to_item:
-        #         id, content = future_to_item[future]
-        #         try:
-        #             result_id, result, prompt = future.result()
-        #             processed_results[result_id] = result
-        #             if result:
-        #                 individual_result_file_path = os.path.join(
-        #                     results_directory, f"id_{result_id}_processed_results.json"
-        #                 )
-        #                 with open(individual_result_file_path, "w") as json_file:
-        #                     json.dump({result_id: result}, json_file, indent=4)
-        #         except Exception as e:
-        #             logging.error(f"Error processing {id}: {e}")
 
         for id, content in aggregated_content.items():
             try:
@@ -205,8 +166,12 @@ class NewsContent:
                 )
                 self.issues[id] = f"{e}"
                 continue
+            except IOError as e:
+                logging.exception(f"File I/O error for ID {id}: {e}")
+                self.issues[id] = f"{e}"
+                continue
             except Exception as e:
-                logging.error(f"An error occurred for ID {id}: {e}")
+                logging.exception(f"An error occurred for ID {id}: {e}")
                 self.issues[id] = f"{e}"
                 continue
         with open(f"{results_directory}/prompt.txt", "w") as prompt_file:
@@ -224,7 +189,7 @@ class NewsContent:
         print("FILES WITH ISSUES", self.issues)
         return
 
-    def get_double_check(self, prompt_type, check_prompt):
+    def _get_double_check(self, prompt_type, check_prompt):
         """
         Rechecks processed results with OpenAI API to ensure accuracy and updates results.
 
@@ -259,7 +224,14 @@ class NewsContent:
         logging.info("Check completed. Results saved to JSON file.")
         return
 
-    def main(self, scrape_articles=False, double_check=False):
+    def main(
+        self,
+        scrape_articles=False,
+        double_check=False,
+        start=0,
+        end=10,
+        prompt_type="ToT_CoT_Multi_turn",
+    ):
         load_dotenv()
 
         logging.basicConfig(
@@ -269,37 +241,42 @@ class NewsContent:
         logging.info("Starting the script...")
         logging.info("Loading JSON data from file...")
 
-        TAXONOMY_STRING_FORMATTED = "taxonomy_string_formatted"
-        TAXONOMY_STRING = "taxonomy_string"
-        ZERO_SHOT = "zero_shot"
-        TREE_OF_THOUGHTS = "tree_of_thoughts"
-        FEW_SHOTS_COT = "few_shots_CoT_prompt"
-        FEW_SHOTS = "few_shots"
-        FEW_SHOTS_COT_STEPS = "few_shots_CoT_steps"
-        TREE_OF_THOUGHTS_COT = "ToT_CoT"
-        COT_USER_PROMPT = "COT_USER_PROMPT"
-        TOT_MULTI_TURN = "ToT_CoT_Multi_turn"
-        TOT_COT_2 = "ToT_CoT_2"
-        prompt_type = TOT_MULTI_TURN
+        allowed_prompt_types = [
+            NewsContent.TAXONOMY_STRING_FORMATTED,
+            NewsContent.TAXONOMY_STRING,
+            NewsContent.ZERO_SHOT,
+            NewsContent.TREE_OF_THOUGHTS,
+            NewsContent.FEW_SHOTS_COT,
+            NewsContent.FEW_SHOTS,
+            NewsContent.FEW_SHOTS_COT_STEPS,
+            NewsContent.TREE_OF_THOUGHTS_COT,
+            NewsContent.COT_USER_PROMPT,
+            NewsContent.TOT_MULTI_TURN,
+            NewsContent.TOT_COT_2,
+        ]
+
+        if prompt_type.lower() not in allowed_prompt_types:
+            raise ValueError(
+                f"Invalid prompt_type provided: {prompt_type}. Allowed values: {', '.join(allowed_prompt_types)}"
+            )
 
         data = IncidentData()
-        if scrape_articles == True:
-            self.fill_article_content()
+        if scrape_articles:
+            self._fill_article_content()
         else:
-            id_set = data.get_incidents_2023()
+            # id_set = data.get_incidents_2023()
             id_remove = data.get_empty_data()
-            # id_set = data.get_handpicked_id_set()
-            print("id_set", id_set)
+            id_set = data.get_handpicked_id_set(start, end)
+            logging.info(f"Requested IDs to process {id_set}")
             ids_to_process = id_set - id_remove
-            print("ids to remove", id_remove)
-            print("IDS to process", ids_to_process)
             to_process = sorted(ids_to_process)
-            print(to_process)
-            self.read_article_from_file(ids_to_process)
-        self.process_aggregate_results(prompt_type, ZERO_SHOT)
+            logging.info(f"Processing IDs {to_process}")
+            self._read_article_from_file(ids_to_process)
+
+        self._process_aggregate_results(prompt_type, NewsContent.ZERO_SHOT)
 
         if double_check == True:
-            self.get_double_check(prompt_type, ZERO_SHOT)
+            self._get_double_check(prompt_type, NewsContent.ZERO_SHOT)
 
         logging.info("Script completed successfully.")
 
@@ -307,5 +284,35 @@ class NewsContent:
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Process news articles and analyze with LLM."
+    )
+    parser.add_argument(
+        "--scrape_articles", action="store_true", help="Scrape articles from URLs"
+    )
+    parser.add_argument(
+        "--double_check", action="store_true", help="Double-check the processed results"
+    )
+    parser.add_argument(
+        "--start", type=int, default=0, help="Start of handpicked ID range"
+    )
+    parser.add_argument(
+        "--end", type=int, default=10, help="End of handpicked ID range"
+    )
+    parser.add_argument(
+        "--prompt_type",
+        type=str,
+        default="ToT_CoT_Multi_turn",
+        help="Type of prompt to use",
+    )
+
+    args = parser.parse_args()
+
     incident_results = NewsContent()
-    incident_results.main()
+    incident_results.main(
+        scrape_articles=args.scrape_articles,
+        double_check=args.double_check,
+        start=args.start,
+        end=args.end,
+        prompt_type=args.prompt_type,
+    )

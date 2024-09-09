@@ -1,0 +1,29 @@
+{
+    "8": {
+        "Country": "United States",
+        "State": "California",
+        "City": "San Francisco",
+        "Continent": "North America",
+        "Company": "Uber Technologies, Inc.",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Drivers",
+            "Pedestrians"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Hundreds",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous Vehicles",
+        "Online": "No"
+    }
+}

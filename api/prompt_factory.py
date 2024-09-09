@@ -42,12 +42,7 @@ structure = "{ <class>: {<subclass>:{[<sub-subclass>]}} }"
 
 def get_prompt(article_text, prompt_type, location_candidates=[]):
     taxa = Taxonomies()
-    # llm_lingua = PromptCompressor(
-    #     "TheBloke/Llama-2-7b-Chat-GPTQ", model_config={"revision": "main"}
-    # )
-    # compressed_article = llm_lingua.compress_prompt(article_text)
-    # compressed_example_article_6 = llm_lingua.compress_prompt(example_article_id_6)
-    # compressed_example_article_1 = llm_lingua.compress_prompt(example_article_id_1)
+
     if prompt_type == "zero_shot":
         return f"""
         Imagine a computer researcher trying to categorize a list of incidents of irresponsible use of artificial intelligence technology.    
@@ -141,7 +136,7 @@ def get_prompt(article_text, prompt_type, location_candidates=[]):
         ================== End of Article Content =================
         
         """
-    elif prompt_type == "few_shots_CoT_prompt":
+    elif prompt_type == "few_shots_cot_prompt":
         return f"""
         Imagine a computer researcher trying to categorize a list of incidents of irresponsible use of artificial intelligence technology.    
         Given the aggregated news article texts on relevant incidents, please extract the following information, your responses should be well thought-out and well-supported by the content of the articles, please also follow instructions of this prompt.
@@ -389,7 +384,7 @@ def get_prompt(article_text, prompt_type, location_candidates=[]):
         ================== End of Article Content ===================
         
         """
-    elif prompt_type == "few_shots_CoT_steps":
+    elif prompt_type == "few_shots_cot_steps":
         return f"""
         You are a computer researcher trying to categorize a list of incidents of irresponsible use of artificial intelligence technology.    
         Given the aggregated news article texts on relevant incidents, please extract the following information, your responses should be well thought-out and well-supported by the content of the articles, please also follow instructions of this prompt.
@@ -480,7 +475,7 @@ def get_prompt(article_text, prompt_type, location_candidates=[]):
 
         return your classification output in JSON.
         """
-    elif prompt_type == "ToT_CoT":
+    elif prompt_type == "tot_cot":
         return f"""
         You are three expert academic researchers trying to categorize and classify a list of incidents of irresponsible use of artificial intelligence technology.    
         Given the aggregated news article texts on relevant incidents, each of the three experts will fill out the following classifications. Their responses are well-thought-out responses that are well-supported by the article text.
@@ -579,7 +574,7 @@ def get_prompt(article_text, prompt_type, location_candidates=[]):
 
         return your classification output in JSON.
         """
-    elif prompt_type == "COT_USER_PROMPT":
+    elif prompt_type == "cot_user_prompt":
 
         return f"""
         You are a computer researcher trying to categorize a list of incidents of irresponsible use of artificial intelligence technology.    
@@ -650,7 +645,7 @@ def get_prompt(article_text, prompt_type, location_candidates=[]):
 
         Give your classification and reasonings for classification of each field.
         """
-    elif prompt_type == "ToT_CoT_Multi_turn":
+    elif prompt_type == "tot_cot_multi_turn":
         return f"""
         You are three expert academic researchers trying to categorize and classify a list of incidents of irresponsible use of artificial intelligence technology.    
         Given the aggregated news article texts on relevant incidents, each of the three experts will fill out the following classifications. Their responses are well-thought-out responses that are well-supported by the article text.
@@ -725,7 +720,7 @@ def get_prompt(article_text, prompt_type, location_candidates=[]):
 
         Provide the classification and reasonings for each field. 
         """
-    elif prompt_type == "ToT_CoT_2":
+    elif prompt_type == "tot_cot_2":
         return f"""
         You are three expert academic researchers trying to categorize and classify a list of incidents of irresponsible use of artificial intelligence technology.    
         Given the aggregated news article texts on relevant incidents, each of the three experts will fill out the following classifications. Their responses are well-thought-out responses that are well-supported by the article text.

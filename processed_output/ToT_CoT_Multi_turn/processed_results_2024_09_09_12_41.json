@@ -1,0 +1,141 @@
+{
+    "2": {
+        "Country": "United States",
+        "State": "New Jersey",
+        "City": "New Jersey",
+        "Continent": "North America",
+        "Company": "Amazon",
+        "Company city": "Seattle",
+        "Company state": "Washington",
+        "Affected population": [
+            "Amazon warehouse workers"
+        ],
+        "Number of people actually affected": "25",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Other"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Warehouse Automation",
+        "Online": "No"
+    },
+    "1": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "Google LLC",
+        "Company city": "Mountain View",
+        "Company state": "California",
+        "Affected population": [
+            "Children on YouTube"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Millions",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "content filtering",
+        "Online": "Yes"
+    },
+    "4": {
+        "Country": "United States",
+        "State": "Arizona",
+        "City": "Tempe",
+        "Continent": "North America",
+        "Company": "Uber Technologies, Inc.",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Pedestrians",
+            "Uber Users",
+            "Residents of Arizona"
+        ],
+        "Number of people actually affected": "1",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Mental Health"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Mental Health": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Autonomous Vehicles",
+        "Online": "No"
+    },
+    "3": {
+        "Country": "Indonesia",
+        "State": "",
+        "City": "",
+        "Continent": "Asia",
+        "Company": "Boeing",
+        "Company city": "Arlington",
+        "Company state": "Virginia",
+        "Affected population": [
+            "Passengers and Crew of Lion Air Flight 610",
+            "General Public"
+        ],
+        "Number of people actually affected": "189",
+        "Number of people potentially affected": "Unknown",
+        "Class of irresponsible AI use": [
+            "Human Incompetence",
+            "Disinformation"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Technical"
+            ],
+            "Disinformation": [
+                "Textual"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Aviation Software Control",
+        "Online": "No"
+    },
+    "0": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "OpenAI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Global population",
+            "Environmental stakeholders"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Billions",
+        "Class of irresponsible AI use": [
+            "Environmental Impact"
+        ],
+        "Subclasses": {
+            "Environmental Impact": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "AI development and deployment",
+        "Online": "Yes"
+    }
+}

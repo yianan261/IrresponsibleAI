@@ -1,0 +1,26 @@
+{
+    "0": {
+        "Country": "Worldwide",
+        "State": "",
+        "City": "",
+        "Continent": "Worldwide",
+        "Company": "OpenAI",
+        "Company city": "San Francisco",
+        "Company state": "California",
+        "Affected population": [
+            "Global population",
+            "Environmental stakeholders"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "Billions",
+        "Class of irresponsible AI use": [
+            "Environmental Impact"
+        ],
+        "Subclasses": {
+            "Environmental Impact": []
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "AI development and deployment",
+        "Online": "Yes"
+    }
+}

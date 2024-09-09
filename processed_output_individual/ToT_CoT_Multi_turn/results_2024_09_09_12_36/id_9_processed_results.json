@@ -1,0 +1,27 @@
+{
+    "9": {
+        "Country": "Worldwide",
+        "State": "New York",
+        "City": "Albany",
+        "Continent": "North America",
+        "Company": "New York State Education Department",
+        "Company city": "Albany",
+        "Company state": "New York",
+        "Affected population": [
+            "Public School Teachers in New York State"
+        ],
+        "Number of people actually affected": "Unknown",
+        "Number of people potentially affected": "All public school teachers in New York State",
+        "Class of irresponsible AI use": [
+            "Human Incompetence"
+        ],
+        "Subclasses": {
+            "Human Incompetence": [
+                "Administrative"
+            ]
+        },
+        "Sub-subclass": [],
+        "Area of AI Application": "Teacher Evaluation",
+        "Online": "No"
+    }
+}
